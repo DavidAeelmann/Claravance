@@ -22,9 +22,7 @@ The wool is heavier than it looks—dense, stiff-backed, dragging grudgingly acr
 
 I freeze on my knees, breathing through my nose.
 
-Not lemon polish. Not furniture wax.
-
-Bleach. Raw sodium hypochlorite, layered under the oily, sweet-nutty reek of fresh boiled linseed oil.
+Sharp sodium hypochlorite cuts straight through the room's faint salt-air smell, layered under the oily, sweet-nutty reek of fresh boiled linseed oil.
 
 I lean closer to the bare cedar planks. Most of the sunroom floor has weathered to a warm honey-amber under decades of coastal sun filtering through the glass. Right here, though—along a broad jagged patch beside the baseboard—the wood grain looks stripped and bone-pale, its natural fibers raised slightly like someone scrubbed hard with a stiff wire brush and household bleach, then rubbed raw linseed oil over the scar to hide the chalky fade.
 
@@ -32,7 +30,7 @@ When you scrub cedar with bleach and seal it with boiled linseed oil, the fumes 
 
 Someone scrubbed this floorboard patch within the last forty-eight hours—not on October fourteenth.
 
-My pulse ticks hard behind my collar. I pull my phone out, check the ceiling corners for cameras—just the standard glass-break sensors wired along the upper mullions—and snap three tight close-ups of the bleached grain and the oily sheen catching the window light.
+I pull my phone out, check the ceiling corners for cameras—just the standard glass-break sensors wired along the upper mullions—and snap three tight close-ups of the bleached grain and the oily sheen catching the window light.
 
 Then I run my bare fingertips lightly across the pale wood near the cedar baseboard. Still faintly tacky. Not wet enough to stain my skin, just enough drag to prove the oil hasn't finished curing.
 

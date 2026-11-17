@@ -84,7 +84,7 @@ Night has closed in fast over the cove while we were inside. Thick fog rolls low
 
 My thoughts race faster than my boots as I start up the steep switchback.
 
-If Evelyn asked Maren how to kill a GPS transponder two days before the storm, then Evelyn wasn't a passive victim surprised in the night. She was planning to take a boat dark *before* the squall even made the forecast. Yet someone still scrubbed a bleached cedar patch under the sunroom rug, left white Ambien paste caked in the master sink trap, and handed Deputy Halstead administrator PINs to the smart-home tablet.
+Evelyn Mercer wasn't ambushed in her sleep on October fourteenth. A woman who asks how to pull her own GPS coax two days before a gale isn't a victim—she's planning a departure. Yet someone still scrubbed a bleached cedar patch under the sunroom rug, left white Ambien paste caked in the master sink trap, and handed Deputy Halstead administrator PINs to the smart-home tablet.
 
 Either Evelyn staged her own disappearance with Cole Halstead's left hand—and something went sideways at two in the morning—or someone else hijacked her escape plan and left Julian holding the bag.
 
@@ -104,4 +104,4 @@ My breath catches behind my teeth. Halstead told his burner-phone caller to keep
 
 Before I can take a single step down toward the seawall to see who holds the key, the crunch of gravel carries through the fog from the ridge above.
 
-Twin xenon headlights flare through the wet spruce canopy as the heavy hydraulic timber gate groans open, and Julian's silver Audi sweeps smoothly into the Mercer Glass House drive.
+Twin xenon headlights flare through the wet spruce canopy as the heavy hydraulic timber gate groans open, and Julian's charcoal Audi sweeps smoothly into the Mercer Glass House drive.

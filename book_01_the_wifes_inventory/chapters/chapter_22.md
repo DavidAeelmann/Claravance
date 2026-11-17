@@ -76,7 +76,7 @@ I sling the heavy canvas strap over my shoulder, pull a dry dark wool sweater fr
 
 We step out onto the foyer slate.
 
-Directly ahead, the heavy oak door to the basement stairs rattles sharply—followed by the thunder of Cole's duty boots charging upward two steps at a time.
+Directly ahead, the flush cedar door under the foyer stairs rattles sharply—followed by the thunder of Cole's duty boots charging upward two steps at a time.
 
 "She's not in Zone 4!" Cole roars up the stairwell, his voice raw with fury. "Check the kitchen—Julian's off the radiator!"
 
@@ -88,4 +88,4 @@ Every standby LED in the foyer dies instantly. The wall tablet beside the coat c
 
 The house plunges into pitch-black darkness, cutting off even the gray storm glow from the ridge outside.
 
-At the same exact second, triggered by the house's emergency battery fail-safe the instant grid power drops, heavy steel hurricane shutters roar downward inside their exterior aluminum tracks. They slam shut with a deafening metallic *CRASH* across the sunroom glass, the foyer sidelights, and the north-hall windows—sealing every exit in black steel while Cole's boots hit the kitchen tile behind us.
+At the same exact second, triggered by the house's emergency battery fail-safe the instant grid power drops, heavy steel hurricane shutters roar downward inside their exterior aluminum tracks. They slam shut with a deafening metallic *CRASH* across the sunroom glass, the foyer sidelights, and the north-hall windows—sealing every exit in black steel while Cole's boots hit the foyer slate behind us.

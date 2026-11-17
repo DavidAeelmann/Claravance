@@ -2,23 +2,17 @@
 
 Evelyn Mercer sat at Julian’s walnut desk for twenty minutes after he left for the Boston train, staring at the *Bramwell & Shaw* quarterly variance sheet without blinking.
 
-Two million four hundred thousand dollars. Not borrowed cleanly against Mercer Soundworks equity, and not disclosed in any of the patent-litigation filings Julian left on the top shelf. He had siphoned it in six staggered wire transfers across nine months, using her forged initials on the trustee authorization lines.
+Two million four hundred thousand dollars. Not borrowed cleanly against Mercer Soundworks equity, and not disclosed in any of the patent-litigation filings Julian left on the top shelf. He had siphoned it in six staggered wire transfers across fourteen months, using her forged initials on the trustee authorization lines.
 
 She folded the variance sheet twice, aligned the crease with the edge of the blotter, and slid it into her leather portfolio.
 
 Julian had offered her a quiet restructuring agreement over breakfast two days earlier—an amended trust schedule and a mutual nondisclosure clause that would keep the shortfall buried until his acoustic patent buyout closed in December. He had spoken in that soft, measured cadence he used with investors, as if embezzling her father’s estate were a minor cash-flow timing error. Evelyn had poured him fresh coffee, nodded once, and told him she needed the weekend to review the numbers with her own eyes.
 
-She did not want a quiet restructuring, and she did not want a fraud arrest that would freeze the marital trust inside Mercer Soundworks' corporate bankruptcy for five years. Under Maine's Slayer Statute, a husband indicted for murder forfeited every dime of the estate—leaving Evelyn to walk away clean under a new name with her father's offshore reserve and a three-million-dollar life-insurance payout routed through her brother's trust. Her father had given Julian the seed capital, the Salt Point deed, and the family name that opened doors in Boston. Julian had repaid him by treating the trust like a personal line of credit.
+She did not want a quiet restructuring, and she did not want a fraud arrest that would freeze the marital trust inside Mercer Soundworks' corporate bankruptcy for five years. Under Maine's Slayer Statute, a husband indicted for murder forfeited every dime of the estate—leaving Evelyn to walk away clean under a new name with her father's offshore reserve and a three-million-dollar life-insurance payout routed through a Cayman bearer trust her father established before his stroke. Her father had given Julian the seed capital, the Salt Point deed, and the family name that opened doors in Boston. Julian had repaid him by treating the trust like a personal line of credit.
 
 Evelyn carried her coffee cup upstairs, pausing briefly at the threshold of her studio. The painters Julian had hired in late September had finished the white trim along the north wall and sealed the tall sash window shut with two thick coats of oil enamel. Julian claimed he wanted the winter drafts out before November. Evelyn hadn't bothered to have them scrape it open; she had already decided she wouldn't be living in this house by Thanksgiving.
 
-She continued into the master suite. The tall glass house felt hollow when Julian was away, full of his cedar shavings and unscented soap, every surface wiped sterile by a cleaning crew that came twice a month. In the master bathroom, she opened the mirrored cabinet and took down the orange prescription bottle of Ambien.
-
-Thirty tablets on the label. She shook two into her palm, dropped them into a dry water glass, and ran a thin stream of warm tap water from the brass faucet. The pills dissolved slowly into a chalky white suspension. She swirled the glass once, watching the pale sediment cling to the sides, then poured the cloudy residue straight down the sink drain. White crystalline paste coated the inside curve of the brass U-bend beneath the stopper.
-
-Too neat. If Julian choked on a spiked nightcap in his own bed, the state medical examiner would run a full toxicology screen before the body was cold, and every probate lawyer in Boston would look straight at the widow who stood to inherit his remaining shares.
-
-Evelyn screwed the cap back onto the bottle—twenty-eight pills rattling faintly inside—and set it on the second shelf behind her face cream. Dead husbands invited audits. Missing wives invited sympathy, until the sympathy curdled into a murder indictment.
+She continued into the master suite. The tall glass house felt hollow when Julian was away, full of his cedar shavings and unscented soap, every surface wiped sterile by a cleaning crew that came twice a month. In the master bathroom, she opened the mirrored cabinet and weighed the full orange bottle of thirty Ambien tablets in her palm. Too neat. If Julian choked on a spiked nightcap in his own bed, the state medical examiner would run a full toxicology screen before the body was cold, and every probate lawyer in Boston would look straight at the widow who stood to inherit his remaining shares. She set the unopened bottle back behind her face cream. Dead husbands invited audits. Missing wives invited sympathy, until the sympathy curdled into a murder indictment.
 
 ***
 
@@ -76,7 +70,7 @@ Julian was asleep upstairs, two floors above the acoustic baffling. Even so, the
 
 Evelyn laughed softly, the tension of the squall finally bleeding out of her shoulders. The skiff was prepped at the slipway with its transponder dead, ready for Cole to tow past the outer rocks on his launch. By noon tomorrow, she would be across the New Brunswick line under her secondary passport, waiting for Julian to hang himself in probate.
 
-"Leave the Montblanc on the blotter," she added as they moved toward the sunroom arch, her voice dropping back to business. "If Julian wants to play tidy widower, let him explain why the ink's still wet. And grab his spare rain slicker from the mudroom peg before you go—give the exterior infrared camera something to archive in case he fights the probate audit."
+"Leave my Montblanc on the blotter," she added as they moved toward the sunroom arch, her voice dropping back to business. "Make it look like I was interrupted mid-sketch before the squall. And grab his spare rain slicker from the mudroom peg before you go—give the exterior infrared camera something to archive in case he fights the probate audit."
 
 Cole pulled on Julian’s spare hooded slicker, hoisted a weighted canvas drop-cloth rolled tight like a body from the utility alcove, and dragged it out across the wet sunroom threshold straight past the infrared deck lens toward the boathouse hatch—burying one last piece of quiet leverage inside Julian’s own local server.
 
@@ -84,8 +78,4 @@ A heavy service door thudded shut behind them. She left Cole in the mudroom to s
 
 She pressed the baseboard flush with her heel and climbed the back stairs to her studio to check that no personal notes remained beside the calendar.
 
-She paused beside the walnut desk in the dark, scanning the empty ledger pad. Cole stepped silently into the studio doorway behind her, still holding his own uncapped silver Montblanc from the marine chart.
-
-"You forgot this downstairs," Evelyn murmured.
-
-Cole didn't speak. He stepped to the desk, laid his left-handed fountain pen carelessly onto the green leather blotter without bothering to cap it or wipe the damp ink from the nib, and followed her back down the stairs.
+She pocketed her own fountain pen by mistake in the dark while sweeping the desk drawer, unaware that Cole—stepping up behind her to set the blotter straight—had accidentally laid down his own identical left-handed silver Montblanc uncapped on the green leather before following her back down the stairs.

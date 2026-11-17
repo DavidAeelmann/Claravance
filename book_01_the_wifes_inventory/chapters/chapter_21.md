@@ -50,7 +50,7 @@ I freeze halfway down the iron ladder, one sneakered foot braced on a rung, my t
 
 "My wrist is bleeding through the damn gauze," Cole snaps, his boots thudding heavily toward the kitchen island. "And the salt water got into it down at the dock. If I find her, I'm not using zip ties."
 
-"Check the basement stairs first," Evelyn says. "Use your spare key on Zone 4—throw the exterior deadbolt on the steel door if she's inside and leave her there until high tide. Her spliced confession is already sitting in the county drop, and her boots are still in the foyer."
+"Check the basement stairs first," Evelyn says. "Use your spare key on Zone 4—throw the exterior deadbolt on the steel door if she's inside and leave her there until high tide. Her spliced confession is already sitting in the county drop, and the bronze cleat is still in her spare-tire well."
 
 Cold sweat breaks across the back of my neck.
 
@@ -64,7 +64,7 @@ Right beside my shoulder hangs a thick, braided hemp rope drawn taut over an ove
 
 A thick steel cotter pin locks the pulley wheel's brake arm into the shaft frame.
 
-Above me, the kitchen-to-basement stairwell door creaks open. Heavy boots pause on the top landing. Cole's flashlight beam slices downward through the stairwell, though the thick cedar paneling of the shaft hides me completely for now.
+Above me, the flush cedar door under the foyer stairs creaks open. Heavy boots pause on the top concrete landing. Cole's flashlight beam slices downward through the stairwell, though the thick cedar paneling of the shaft hides me completely for now.
 
 "Julian's still cuffed to the sunroom radiator?" Cole calls back up from the landing, his voice echoing off the concrete stairs.
 
@@ -84,7 +84,7 @@ The impact shakes the entire cedar framing around me, rattling glass spice jars 
 
 "What the hell was that?" Cole's voice echoes sharply from the basement stairs. Heavy boots immediately thunder downward two steps at a time, racing toward the Zone 4 steel fire door.
 
-"Cole, wait—" Evelyn's crisp heels clatter across the kitchen tile toward the stairwell door, drawn straight after him by the crash. She pauses only long enough to sweep her flashlight once toward the pantry doorway, then follows him down the concrete steps.
+"Cole, wait—" Evelyn's crisp heels clatter across the slate toward the foyer stairwell door, drawn straight after him by the crash. She pauses only long enough to sweep her flashlight once toward the pantry doorway, then follows him down the concrete steps.
 
 I don't wait to hear the fire door slam. Coughing silently against my soaked sleeve to muffle the dust in my throat, I grab the iron rungs above my head and haul my waterlogged legs up the ladder as fast as my trembling muscles allow. My bruised knee bangs hard against the cedar framing. I shove the recessed spice-rack panel open and peer out through the crack.
 

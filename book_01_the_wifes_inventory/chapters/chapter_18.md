@@ -12,13 +12,13 @@ She pulled up Clara Vance’s name in a cached search browser on her burner. Two
 
 Which meant Julian wasn't just trying to bury his trust theft before probate. He was using an outsider to flush out the frame.
 
-"Passport, miss," the water-taxi captain called from the marina desk, holding out a grease-stained hand toward the optical berth scanner.
+"Passport, miss," the water-taxi captain called from the marina desk, nodding toward the Canadian port security officer running a routine berth manifest audit on all departing vessels that morning.
 
-Evelyn hesitated for a fraction of a second. Her secondary papers were in the bottom of her duffel, buried beneath spare wool sweaters, and the captain was already eyeing the dock clock against the morning tide. If she delayed twenty minutes to dig out the alias folder, she missed the morning slack-water window down the Maine coast before dusk.
+Evelyn hesitated for a fraction of a second. Her secondary papers were in the bottom of her duffel, buried beneath spare wool sweaters, and the pier gate officer was already eyeing the dock clock against the morning tide. If she delayed twenty minutes to dig out the alias folder, she missed the morning slack-water window down the Maine coast before dusk.
 
-She slid her primary passport across the counter instead. A private marina scan in New Brunswick wouldn't ping Knox County Sheriff’s dispatch. Even if it logged on an automated border manifest, Cole would bury any routine inquiry at the county desk before a state trooper ever saw it.
+She slid her primary passport across the pier gate scanner instead. A routine berth audit in New Brunswick wouldn't ping Knox County Sheriff’s dispatch. Even if it logged on an automated border manifest, Cole would bury any inquiry at the county desk before a state trooper ever saw it.
 
-The crossing took nearly five hours down the coast in chopping gray swells, diesel exhaust hanging thick in the wheelhouse air. By Tuesday afternoon, Evelyn was back on Salt Point, laying low in the eastern headland cabin until Wednesday, dropped onto the slick granite shelf below the eastern headland before the fog closed in. She waited until the water taxi’s wake dissolved into the white surf, then scrambled up the wet kelp ledges toward the cove.
+The crossing took nearly five hours down the coast in chopping gray swells, diesel exhaust hanging thick in the wheelhouse air. By Tuesday afternoon, Evelyn was back on Salt Point, dropped onto the slick granite shelf below the eastern headland before the fog closed in. She waited until the water taxi's wake dissolved into the white surf, slipped briefly into the empty house while Clara Vance was in town at the general store to test two crushed Ambien tablets in the master bath sink—leaving twenty-eight pills in the bottle—and then laid low in an abandoned gun battery on the eastern point overnight before creeping toward the cove at dawn on Wednesday.
 
 Down the shoreline, Maren Lindqvist’s oyster shack sat quiet, smoke curling thin and gray from the tin chimney. Maren had taken five thousand dollars in cash to keep her mouth shut; even if Clara Vance poked around the cove, Maren wouldn't risk her commercial license by naming names.
 

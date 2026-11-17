@@ -120,7 +120,7 @@ A fresh folder blooms onto the left monitor inside the `CLOUD_SYNC` queue.
 
 "Don't touch it," I say, though my throat feels dry as chalk. "Check the header."
 
-Julian clicks the incoming file into the waveform viewer. My stomach knots tight as the audio auto-plays through the studio monitors.
+Julian clicks the incoming file into the waveform viewer, and the audio auto-plays through the studio monitors.
 
 It's my voice.
 

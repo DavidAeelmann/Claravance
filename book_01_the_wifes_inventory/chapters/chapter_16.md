@@ -68,7 +68,7 @@ I stay crouched for one beat, letting my eyes adjust to the gloom. Nothing moves
 
 I push quietly to my feet and edge along the workbench. Tucked beneath a folded blue tarp under the lower shelf sit two plastic gallon jugs—one unlabeled, the other stamped with a faded industrial bleach warning. Beside them lies a pair of cedar oars. Fresh, pale scratches score the varnished blades, matching the wet rag squeak I heard on the 2:14 AM WAV file ten minutes ago.
 
-My pulse jumps. Not a ghost. Not an accident. Physical hardware sitting steps from the cove water, left behind because someone got sloppy—or because nobody expected an outsider to pry open a painted casement window in a November gale.
+Physical hardware sitting steps from the cove water, left behind because someone got sloppy—or because nobody expected an outsider to pry open a painted casement window in a November gale.
 
 I reach into my back pocket and pull out my smartphone. My thumb shakes as I tap the camera icon, my fingers stiff with cold against the slick glass. I toggle the flash off so no glare reflects off the transom, then crouch low to frame the bleach jugs, the scratched oar blades, and the coiled towline together in one clean shot.
 
@@ -78,10 +78,10 @@ I freeze. The phone stays raised chest-high, its pale screen illuminating the da
 
 Evelyn Mercer steps out from behind the yellow fiberglass hull.
 
-She doesn't look like a woman who spent three weeks hiding in a coastal loft or scrambling over granite ledges in the dark. Her dark hair is pulled back into a tight, neat knot, and she wears a charcoal waxed-canvas jacket over dark trousers—dry, crisp, completely unhurried. In her right hand, held steady at waist height and pointed directly at my sternum, sits a matte-black Glock service pistol.
+She doesn't look like a woman who spent three weeks hiding in a coastal loft or scrambling over granite ledges in the dark. Her dark hair is pulled back into a tight, neat knot, and she wears a charcoal waxed-canvas jacket over dark trousers—dry, crisp, completely unhurried, as if she just stepped off a heated porch. In her right hand, held steady at waist height and pointed directly at my sternum, sits a matte-black Glock service pistol.
 
 Deputy Cole Halstead's weapon.
 
-My throat goes bone-dry. Every nerve in my body locks down, pinned between the narrow casement behind me and the dark muzzle four paces away.
+Every nerve in my body locks down, pinned between the narrow casement window behind my heels and the dark muzzle four paces away.
 
-"Put the phone on the dock, Clara," Evelyn says, her voice calm and level over the slap of the tide. "You weren't supposed to find the dumbwaiter."
+"Put the phone on the dock, Clara," Evelyn says, her voice calm and level over the slap of the rising tide. "You weren't supposed to find the dumbwaiter shaft."

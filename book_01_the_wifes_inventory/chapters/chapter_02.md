@@ -20,7 +20,7 @@ I drop my duffel onto the luggage rack, check the lining thread I hooked over th
 
 I sit on the edge of the mattress. The springs barely give. Somewhere under the floorboards, the same low dehumidifier hum vibrates right through the soles of my boots.
 
-For a long minute I just stare at the closed bedroom door. Five thousand dollars sits zipped inside my bag—enough to pay off the immediate bank levy before Monday morning—yet my chest feels tight as if I've already spent it and missed the catch. At Harbor Mutual, after I refused to sign off on a fraudulent Commercial Street warehouse fire clearance, the senior partner didn't even raise his voice in the conference room. He just slid a termination notice across mahogany, told me my own notes proved I'd tampered with an insured lockbox, and let the civil judgment bleed me dry for two years. Men with quiet voices and good lawyers don't need to yell when they corner you.
+For a long minute I just stare at the closed bedroom door. Five thousand dollars sits zipped inside my bag—enough to pay off the immediate bank levy before Monday morning—yet my chest feels tight as if I've already spent it and missed the catch. At Harbor Mutual, after I refused to sign off on a fraudulent Commercial Street warehouse fire clearance, the senior partner didn't even raise his voice in the conference room. He just slid a termination notice across mahogany, told me my own notes proved I'd tampered with an insured lockbox, and let the civil judgment bleed me dry for three years. Men with quiet voices and good lawyers don't need to yell when they corner you.
 
 I open my laptop anyway. My hands shake slightly as the screen brightens. Fifty thousand dollars in liquidated damages hangs over my head if Julian catches me wandering where I shouldn't, yet a dead woman's packed weekender is sitting downstairs with a ferry stub stamped three days after she drowned.
 
@@ -39,7 +39,7 @@ Unless Evelyn didn't leave it there. Unless someone else brought that bag back t
 
 Downstairs, a door shuts softly—the study, maybe, or the kitchen porch. Then heavy footsteps cross the slate foyer and climb halfway up the main stairs before pausing near the office landing.
 
-I slip my wet boots off, pull on thick wool socks from my duffel, and tuck my phone and the brass house key into my jeans pocket. Every instinct left from two years of ugly lawsuits tells me to stay behind the locked door until morning. Instead, I ease the cheap privacy bolt open.
+I slip my wet boots off, pull on thick wool socks from my duffel, and tuck my phone and the brass house key into my jeans pocket. Every instinct left from three years of ugly lawsuits tells me to stay behind the locked door until morning. Instead, I ease the cheap privacy bolt open.
 
 ***
 
@@ -55,7 +55,7 @@ It looks like a working botanical studio frozen mid-project—until you look clo
 
 Three wide oak flat-files sit against the north wall, drawers shut flush. On the center worktable, a glass jar holds a dozen sable brushes fanned out bristles-up, clean and dry. Every ferrule gleams spotless silver, and the ceramic palette beside them sits chalk-white, scrubbed so hard the glaze looks dull under my phone light. Artists who drop everything to go sailing in a midnight squall don't bleach their watercolor palettes first.
 
-I crouch by the flat-files and slide the top drawer open slightly, holding my breath against the scrape of wood on wood. Crisp watercolor sheets lie stacked inside, each labeled along the lower margin in neat, slanted ink: *Rosa rugosa — Salt Point, Aug 2025.* *Laminaria — Cove Breakwater, Sept 2025.* Every date stops in September. Every label slants sharply upward to the right, written with a light, confident wrist.
+I crouch by the flat-files and slide the top drawer open slightly, holding my breath against the scrape of wood on wood. Crisp watercolor sheets lie stacked inside, each labeled along the lower margin in neat, slanted ink: *Rosa rugosa — Salt Point, Aug 2026.* *Laminaria — Cove Breakwater, Sept 2026.* Every date stops in September. Every label slants sharply upward to the right, written with a light, confident wrist.
 
 Beside the watercolor sheets, tucked under a sheet of glassine interleaving paper, lies a folded marine chart of Penobscot Bay. One cove—Salt Point—has pencil tick marks along the outer breakwater channel, showing low-water depths and boulder shoals. Nothing unusual for someone who took a skiff out regularly. Except the chart corner is crisp and uncreased, smelling faintly of printer toner rather than salt spray.
 
@@ -71,7 +71,7 @@ Nothing gives.
 
 I angle my phone light along the inner track. Fresh white semi-gloss paint bridges the seam between the upper sash and the outer frame—thick, uncracked, cured hard without a single scrape mark where anyone tried to pry it loose. When paint cures across a sash seam like that, it takes days to harden without blistering. Nobody opened this window in October. Nobody aired out turpentine here before the storm.
 
-My stomach knots tight. Either the broker got his intake notes mixed up, or Julian never actually came into his wife's studio while she was alive—or worse, someone painted over weathered trim after she vanished to seal out the draft, or cover pry marks from the outside.
+Either the broker garbled his intake notes, or Julian never set foot in this studio while Evelyn was alive—or worse, someone painted over weathered trim after she vanished to seal out the draft, or cover pry marks from the outside.
 
 I step back from the window, wiping dry paint dust off my fingertips onto my jeans, and drift toward the center walnut desk. If this whole room is staged for probate—or staged for me—the desk is where the story breaks.
 

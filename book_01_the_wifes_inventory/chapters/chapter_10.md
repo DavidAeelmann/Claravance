@@ -50,15 +50,15 @@ If there's crushed zolpidem at the bottom of that bourbon, Julian can drink his 
 
 From the kitchen comes the muffled clatter of ice cubes hitting a stainless-steel bucket, followed by Julian's voice dropping low near the pantry corridor. He's pacing while he argues with Boston—snapping curtly about a bridge extension and an escrow holdback—which buys me two minutes, maybe three, before he hangs up and walks back through that arch.
 
-I slip off the sofa without a sound and cross through the open pocket doors into Julian's glass-walled study.
+I slip off the sofa without a sound and cross to the heavy walnut door of Julian's north-hall study.
 
-The room smells of lemon furniture oil and cold stone. No desk lamp burns inside, just the pale spill of the living room firelight across the wide walnut blotter. Yesterday morning this desk looked sterile as a model home. Tonight, a thick leather portfolio sits crooked beside the silver inkwell, and a strip-cut paper shredder tucked under the return hums faintly with a solid red **JAM** light, strips of cream bond paper wedged tight between its steel teeth. A half-torn wire-transfer receipt sticks out of the wastebasket below it, smudged with black toner.
+The room smells of lemon furniture oil and cold stone. No desk lamp burns inside, just the pale spill of the hallway light across the wide walnut blotter. Yesterday morning this desk looked sterile as a model home. Tonight, a thick leather portfolio sits crooked beside the silver inkwell, and a strip-cut paper shredder tucked under the return hums faintly with a solid red **JAM** light, strips of cream bond paper wedged tight between its steel teeth. A half-torn wire-transfer receipt sticks out of the wastebasket below it, smudged with black toner.
 
 I pull my phone from my jeans pocket, kill the shutter sound and flash, and lift the leather portfolio's cover.
 
 Inside lies a heavy cream envelope slit cleanly along the top flap, stamped **CERTIFIED MAIL — RETURN RECEIPT REQUESTED**. Two pages of crisp bond paper sit folded halfway out, bearing the embossed letterhead of *Bramwell & Shaw Fiduciary LLP, Boston*. A yellow sticky note clings to the upper margin in cramped legal shorthand: *Final cure window — no further extensions.*
 
-I tilt the first page toward the doorway's amber spill and read fast.
+I tilt the first page toward the hallway's amber spill and read fast.
 
 *Notice of Default & Acceleration — Mercer Soundworks LLC.*
 
@@ -66,11 +66,11 @@ My pulse jumps hard against my collar. The firm isn't just waiting on a patent b
 
 Two point four million dollars. Embezzled straight out of his wife's trust, with a hard legal guillotine set to drop in nine days unless Evelyn's probate estate freezes the trust audit and hands Julian controlling signatory power. No wonder he moved the preliminary inventory up to Thursday night. If the Boston courier clears the estate schedule before the thirty-day cure expires, Julian buries the shortfall inside his patent buyout.
 
-I snap three rapid photos of the demand letter—catching the trust account number, the $2.4M principal balance, and the October fifteenth service stamp—then smooth the bond paper back under the leather flap in its exact crease. Every second I linger beside this desk risks Julian walking through the pocket doors and catching me standing over his personal mail.
+I snap three rapid photos of the demand letter—catching the trust account number, the $2.4M principal balance, and the October fifteenth service stamp—then smooth the bond paper back under the leather flap in its exact crease. Every second I linger beside this desk risks Julian walking down the hall and catching me standing over his personal mail.
 
 Footsteps scrape across the kitchen slate. Ice clinks sharp against metal, followed by the soft *snick* of the pantry corridor light switch clicking off.
 
-I slide back through the pocket doors, drop my phone into my pocket, and sink onto the leather sofa just as Julian steps back into the living room carrying silver ice tongs and a small crystal bucket.
+I slip back out the heavy walnut door, drop my phone into my pocket, and sink onto the leather sofa just as Julian steps back into the living room carrying silver ice tongs and a small crystal bucket.
 
 ***
 

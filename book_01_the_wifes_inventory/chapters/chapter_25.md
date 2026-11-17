@@ -2,7 +2,7 @@
 
 Two weeks after Salt Point, the cast-iron radiator in my Portland studio still ticks like a bad heart, and the harbor wind still rattles the single-pane glass.
 
-I stand over the scarred kitchen counter with a mug of black coffee, staring at two sheets of heavy bond paper laid side by side under the bare overhead bulb. The first is a stamped satisfaction-of-judgment notice from the Cumberland County clerk: $18,412 paid in full, zero balance remaining from the $42,000 defamation suit that broke my career two years ago. The second is a crisp, embossed letter from the Maine Department of Public Safety restoring my private investigator bond, effective Monday morning.
+I stand over the scarred kitchen counter with a mug of black coffee, staring at two sheets of heavy bond paper laid side by side under the bare overhead bulb. The first is a stamped satisfaction-of-judgment notice from the Cumberland County clerk: $18,412 paid in full, zero balance remaining from the $42,000 defamation suit that broke my career three years ago. The second is a crisp, embossed letter from the Maine Department of Public Safety restoring my private investigator bond, effective Monday morning.
 
 The $5,000 cash from Salt Point, the $10,000 cashier's check from the anonymous Boston estate firm, and every last dollar scraped out of my checking account wiped the slate clean.
 
@@ -10,7 +10,7 @@ My left wrist still carries a pale pink seam under the cuff of my dry wool sweat
 
 I didn't ask for a press quote. I gave my statement, signed the chain-of-custody logs, and drove back down Route 1 before the Boston reporters found the causeway. Even Maren Lindqvist came through clean—the state prosecutor granted her full immunity as the reporting witness, and three days ago a wooden crate of Salt Point oysters showed up on my landing with a single harbor receipt tucked under the twine: *Dock's paid. Keep your head down.*
 
-The studio is almost empty now. Two cardboard boxes sit taped beside the door, smelling faintly of damp packing paper and dust. My faded navy canvas duffel rests zipped on the bare mattress, no longer packed for a midnight run, and my 2014 silver Honda Civic waits at the curb downstairs with its spare-tire well scrubbed clean by state evidence techs and its loose muffler shield finally bolted tight. For the first time in twenty-four months, I don't owe a dime to a lawyer or a court clerk.
+The studio is almost empty now. Two cardboard boxes sit taped beside the door, smelling faintly of damp packing paper and dust. My faded navy canvas duffel rests zipped on the bare mattress, no longer packed for a midnight run, and my 2014 silver Honda Civic waits at the curb downstairs with its spare-tire well scrubbed clean by state evidence techs and its loose muffler shield finally bolted tight. For the first time in thirty-six months, I don't owe a dime to a lawyer or a court clerk.
 
 I pick up the restored bond letter, fold it neatly along its crease, and slide it into my jacket pocket.
 

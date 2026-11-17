@@ -2,41 +2,41 @@
 
 Neither of us moves for five seconds.
 
-Julian stands at the top of the short concrete steps, his shoulders framed by gray dawn light from the foyer window, the heavy brass pipe wrench hanging low from his right hand. His eyes drop from my face to the sliced-open manila envelope tucked under my arm, then to the steel worktable where the two studio monitors still hum in pale blue wash.
+Julian stands at the threshold of the open fire door, the concrete basement stairs rising behind him toward gray dawn light from the foyer window, the heavy brass pipe wrench hanging low from his right hand. His eyes drop from my face to the sliced-open manila envelope tucked under my arm, then to the steel worktable where the two studio monitors still hum in pale blue wash.
 
 "How did you get past the mortise lock?" he asks, his voice hoarse and raw, like a man who woke up choking on gravel. "The foyer sensor never chimed."
 
 "I didn't use the foyer door," I say, keeping the steel worktable between us and shifting my grip on the folded multi-tool in my palm. "Put the wrench down, Julian. Right now."
 
-Julian's jaw tightens. He takes one slow step down onto the concrete landing, his gaze flicking toward the open gray cabinet marked `ARCHIVE — DO NOT ERASE`, then back to the sliced red tamper tape dangling off the kraft flap.
+Julian's jaw tightens. He takes one slow step onto the darkroom concrete, his gaze flicking toward the open gray cabinet marked `ARCHIVE — DO NOT ERASE`, then back to the sliced red tamper tape dangling off the kraft flap.
 
 "You broke into my private cabinet," he says flatly.
 
 "I took a look at why you're so desperate to push probate through by five o'clock today," I counter, keeping my voice low and steady even though my knees are shaking from three hours on cold concrete. "I already photographed the *Bramwell & Shaw* default demand in your study last night. Two point four million dollars, thirty-day cure window, criminal referral to the Suffolk County DA. Every page is already backed up in Portland. If you swing that wrench, or if you throw that deadbolt again, a scheduled release drops straight into Bramwell & Shaw's inbox before noon."
 
-Julian stops dead on the second step.
+Julian stops dead beside the steel doorframe.
 
 The color drains completely out of his face, leaving the dark hollows under his gray eyes looking bruised. Slowly, he looks down at the heavy brass wrench in his right hand—as if he just remembered he was holding it.
 
-With a dull, heavy *clang*, he drops the wrench onto the concrete stair tread. It rolls once and stops against the baseboard.
+With a dull, heavy *clang*, he drops the wrench onto the bottom concrete stair tread. It rolls once and stops against the steel jamb.
 
 "I didn't lock you down here, Clara," he says quietly, raising both empty hands chest-high so I can see his palms. "I drank half that bourbon last night and blacked out on the living room sofa until quarter to six. My mouth tastes like ash, and I can barely focus on the stairs. When I woke up with my head splitting, a kitchen chair was wedged under the pantry doorknob, the Zone Four workstation was drawing power, and the front door stood unlatched."
 
 My grip on the multi-tool falters a fraction. "You didn't throw the deadbolt at two-fifteen?"
 
-"I was dead to the world until five-forty-five." He steps back up onto the foyer slate, leaving the doorway wide open, and gestures toward the kitchen arch with an unsteady hand. "Come upstairs. If I wanted you dead in a hole, I wouldn't have unlocked the door."
+"I was dead to the world until five-forty-five." He turns and climbs the concrete steps back up onto the foyer slate, leaving both doors wide open, and gestures toward the kitchen arch with an unsteady hand. "Come upstairs. If I wanted you dead in a hole, I wouldn't have unlocked the door."
 
 ***
 
 I don't trust him—not for a second—yet staying in a concrete cellar with one exit isn't an option.
 
-I pocket the folded multi-tool, scoop the fallen brass wrench off the stair tread as I climb past it—keeping it low at my side where Julian can see it—and follow him into the kitchen at a safe distance.
+I pocket the folded multi-tool, scoop the fallen brass wrench off the bottom stair tread as I climb up behind him—keeping it low at my side where Julian can see it—and follow him across the foyer into the kitchen at a safe distance.
 
 The morning light spilling through the back deck glass is thin and gray, washing the limestone island in cold slate tones. Rainwater streaks the panes in crooked vertical tracks. Julian doesn't reach for a weapon. He crosses straight to the sink, fills a tall glass with cold tap water, and drinks it down in three desperate gulps before bracing both palms on the counter edge with his head bowed.
 
 Whatever sediment was swirling at the bottom of that bourbon glass last night, it hit him hard enough to leave his hands trembling.
 
-"You forged Evelyn's initials on three trust transfers," I say from the far side of the island, setting the padded manila envelope down beside the toaster while keeping the encrypted thumb drive hidden inside my watch pocket. "October tenth. Four days before the gale."
+"You forged Evelyn's initials on six trust transfers," I say from the far side of the island, setting the padded manila envelope down beside the toaster while keeping the encrypted thumb drive hidden inside my watch pocket. "October tenth. Four days before the gale."
 
 Julian lets out a long, ragged exhale and turns to face me. No practiced grief mask this morning. No smooth Mercer Soundworks pitch. He looks ten years older than he did on Monday night.
 

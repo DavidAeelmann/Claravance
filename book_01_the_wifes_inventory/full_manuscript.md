@@ -167,7 +167,7 @@ I drop my duffel onto the luggage rack, check the lining thread I hooked over th
 
 I sit on the edge of the mattress. The springs barely give. Somewhere under the floorboards, the same low dehumidifier hum vibrates right through the soles of my boots.
 
-For a long minute I just stare at the closed bedroom door. Five thousand dollars sits zipped inside my bag—enough to pay off the immediate bank levy before Monday morning—yet my chest feels tight as if I've already spent it and missed the catch. At Harbor Mutual, after I refused to sign off on a fraudulent Commercial Street warehouse fire clearance, the senior partner didn't even raise his voice in the conference room. He just slid a termination notice across mahogany, told me my own notes proved I'd tampered with an insured lockbox, and let the civil judgment bleed me dry for two years. Men with quiet voices and good lawyers don't need to yell when they corner you.
+For a long minute I just stare at the closed bedroom door. Five thousand dollars sits zipped inside my bag—enough to pay off the immediate bank levy before Monday morning—yet my chest feels tight as if I've already spent it and missed the catch. At Harbor Mutual, after I refused to sign off on a fraudulent Commercial Street warehouse fire clearance, the senior partner didn't even raise his voice in the conference room. He just slid a termination notice across mahogany, told me my own notes proved I'd tampered with an insured lockbox, and let the civil judgment bleed me dry for three years. Men with quiet voices and good lawyers don't need to yell when they corner you.
 
 I open my laptop anyway. My hands shake slightly as the screen brightens. Fifty thousand dollars in liquidated damages hangs over my head if Julian catches me wandering where I shouldn't, yet a dead woman's packed weekender is sitting downstairs with a ferry stub stamped three days after she drowned.
 
@@ -186,7 +186,7 @@ Unless Evelyn didn't leave it there. Unless someone else brought that bag back t
 
 Downstairs, a door shuts softly—the study, maybe, or the kitchen porch. Then heavy footsteps cross the slate foyer and climb halfway up the main stairs before pausing near the office landing.
 
-I slip my wet boots off, pull on thick wool socks from my duffel, and tuck my phone and the brass house key into my jeans pocket. Every instinct left from two years of ugly lawsuits tells me to stay behind the locked door until morning. Instead, I ease the cheap privacy bolt open.
+I slip my wet boots off, pull on thick wool socks from my duffel, and tuck my phone and the brass house key into my jeans pocket. Every instinct left from three years of ugly lawsuits tells me to stay behind the locked door until morning. Instead, I ease the cheap privacy bolt open.
 
 ***
 
@@ -202,7 +202,7 @@ It looks like a working botanical studio frozen mid-project—until you look clo
 
 Three wide oak flat-files sit against the north wall, drawers shut flush. On the center worktable, a glass jar holds a dozen sable brushes fanned out bristles-up, clean and dry. Every ferrule gleams spotless silver, and the ceramic palette beside them sits chalk-white, scrubbed so hard the glaze looks dull under my phone light. Artists who drop everything to go sailing in a midnight squall don't bleach their watercolor palettes first.
 
-I crouch by the flat-files and slide the top drawer open slightly, holding my breath against the scrape of wood on wood. Crisp watercolor sheets lie stacked inside, each labeled along the lower margin in neat, slanted ink: *Rosa rugosa — Salt Point, Aug 2025.* *Laminaria — Cove Breakwater, Sept 2025.* Every date stops in September. Every label slants sharply upward to the right, written with a light, confident wrist.
+I crouch by the flat-files and slide the top drawer open slightly, holding my breath against the scrape of wood on wood. Crisp watercolor sheets lie stacked inside, each labeled along the lower margin in neat, slanted ink: *Rosa rugosa — Salt Point, Aug 2026.* *Laminaria — Cove Breakwater, Sept 2026.* Every date stops in September. Every label slants sharply upward to the right, written with a light, confident wrist.
 
 Beside the watercolor sheets, tucked under a sheet of glassine interleaving paper, lies a folded marine chart of Penobscot Bay. One cove—Salt Point—has pencil tick marks along the outer breakwater channel, showing low-water depths and boulder shoals. Nothing unusual for someone who took a skiff out regularly. Except the chart corner is crisp and uncreased, smelling faintly of printer toner rather than salt spray.
 
@@ -218,7 +218,7 @@ Nothing gives.
 
 I angle my phone light along the inner track. Fresh white semi-gloss paint bridges the seam between the upper sash and the outer frame—thick, uncracked, cured hard without a single scrape mark where anyone tried to pry it loose. When paint cures across a sash seam like that, it takes days to harden without blistering. Nobody opened this window in October. Nobody aired out turpentine here before the storm.
 
-My stomach knots tight. Either the broker got his intake notes mixed up, or Julian never actually came into his wife's studio while she was alive—or worse, someone painted over weathered trim after she vanished to seal out the draft, or cover pry marks from the outside.
+Either the broker garbled his intake notes, or Julian never set foot in this studio while Evelyn was alive—or worse, someone painted over weathered trim after she vanished to seal out the draft, or cover pry marks from the outside.
 
 I step back from the window, wiping dry paint dust off my fingertips onto my jeans, and drift toward the center walnut desk. If this whole room is staged for probate—or staged for me—the desk is where the story breaks.
 
@@ -388,9 +388,7 @@ The wool is heavier than it looks—dense, stiff-backed, dragging grudgingly acr
 
 I freeze on my knees, breathing through my nose.
 
-Not lemon polish. Not furniture wax.
-
-Bleach. Raw sodium hypochlorite, layered under the oily, sweet-nutty reek of fresh boiled linseed oil.
+Sharp sodium hypochlorite cuts straight through the room's faint salt-air smell, layered under the oily, sweet-nutty reek of fresh boiled linseed oil.
 
 I lean closer to the bare cedar planks. Most of the sunroom floor has weathered to a warm honey-amber under decades of coastal sun filtering through the glass. Right here, though—along a broad jagged patch beside the baseboard—the wood grain looks stripped and bone-pale, its natural fibers raised slightly like someone scrubbed hard with a stiff wire brush and household bleach, then rubbed raw linseed oil over the scar to hide the chalky fade.
 
@@ -398,7 +396,7 @@ When you scrub cedar with bleach and seal it with boiled linseed oil, the fumes 
 
 Someone scrubbed this floorboard patch within the last forty-eight hours—not on October fourteenth.
 
-My pulse ticks hard behind my collar. I pull my phone out, check the ceiling corners for cameras—just the standard glass-break sensors wired along the upper mullions—and snap three tight close-ups of the bleached grain and the oily sheen catching the window light.
+I pull my phone out, check the ceiling corners for cameras—just the standard glass-break sensors wired along the upper mullions—and snap three tight close-ups of the bleached grain and the oily sheen catching the window light.
 
 Then I run my bare fingertips lightly across the pale wood near the cedar baseboard. Still faintly tacky. Not wet enough to stain my skin, just enough drag to prove the oil hasn't finished curing.
 
@@ -680,7 +678,7 @@ The orange canvas shell is crisp, stiff, and bright—not faded by summer sun, n
 
 I lean in closer, pretending to read the printed Coast Guard approval label stitched inside the collar, and inhale sharply.
 
-No brine. No kelp rot. Not even the faint marsh-mud tang that clings to every rope and buoy on this peninsula. Just a faint, flat smell of damp cellar air and mineral tap water, as if someone dunked a brand-new vest under a laundry sink faucet, let it drip dry on a coat hook, and handed it to a left-handed deputy as physical proof of a drowning.
+The nylon smells of laundry-sink tap water and damp basement concrete—not a trace of Penobscot Bay brine or kelp rot in the weave, as if someone dunked a brand-new vest under a faucet, let it drip dry on a coat hook, and handed it to a left-handed deputy as physical proof of a drowning.
 
 Behind me, the kitchen faucet shuts off.
 
@@ -800,9 +798,7 @@ I set the bottle back in its exact spot behind the ibuprofen, lining the label a
 
 Nothing sits in the porcelain bowl. Yet as I lean closer to check the brass pop-up drain stopper, a faint white ring catches the recessed light along the chrome seam—chalky, slightly crystalline, like crushed tablet filler that didn't rinse completely down the throat.
 
-My heart gives a hard, unpleasant thud against my ribs.
-
-I pull my pocket multi-tool out, unfold the narrow pliers, and crouch beneath the limestone vanity. The curved brass P-trap under the left sink looks clean on the outside, wiped free of dust—until I notice fine scratch marks around the slip-nut collar where someone recently twisted it open by hand or with a wrench.
+I pull my pocket multi-tool out, unfold the narrow pliers, and crouch beneath the limestone vanity. The curved brass P-trap under the left sink looks clean on the outside, wiped free of dust, yet if someone flushed crushed tablets down this drain recently, the lower bend will still hold the paste.
 
 Holding a folded paper towel beneath the curve, I loosen the brass slip-nut slowly. A thimbleful of stale gray water drips onto the towel, followed by a damp smear of white crystalline paste caked thick inside the lower bend of the pipe.
 
@@ -1056,7 +1052,7 @@ Night has closed in fast over the cove while we were inside. Thick fog rolls low
 
 My thoughts race faster than my boots as I start up the steep switchback.
 
-If Evelyn asked Maren how to kill a GPS transponder two days before the storm, then Evelyn wasn't a passive victim surprised in the night. She was planning to take a boat dark *before* the squall even made the forecast. Yet someone still scrubbed a bleached cedar patch under the sunroom rug, left white Ambien paste caked in the master sink trap, and handed Deputy Halstead administrator PINs to the smart-home tablet.
+Evelyn Mercer wasn't ambushed in her sleep on October fourteenth. A woman who asks how to pull her own GPS coax two days before a gale isn't a victim—she's planning a departure. Yet someone still scrubbed a bleached cedar patch under the sunroom rug, left white Ambien paste caked in the master sink trap, and handed Deputy Halstead administrator PINs to the smart-home tablet.
 
 Either Evelyn staged her own disappearance with Cole Halstead's left hand—and something went sideways at two in the morning—or someone else hijacked her escape plan and left Julian holding the bag.
 
@@ -1076,7 +1072,7 @@ My breath catches behind my teeth. Halstead told his burner-phone caller to keep
 
 Before I can take a single step down toward the seawall to see who holds the key, the crunch of gravel carries through the fog from the ridge above.
 
-Twin xenon headlights flare through the wet spruce canopy as the heavy hydraulic timber gate groans open, and Julian's silver Audi sweeps smoothly into the Mercer Glass House drive.
+Twin xenon headlights flare through the wet spruce canopy as the heavy hydraulic timber gate groans open, and Julian's charcoal Audi sweeps smoothly into the Mercer Glass House drive.
 
 ---
 
@@ -1132,15 +1128,15 @@ If there's crushed zolpidem at the bottom of that bourbon, Julian can drink his 
 
 From the kitchen comes the muffled clatter of ice cubes hitting a stainless-steel bucket, followed by Julian's voice dropping low near the pantry corridor. He's pacing while he argues with Boston—snapping curtly about a bridge extension and an escrow holdback—which buys me two minutes, maybe three, before he hangs up and walks back through that arch.
 
-I slip off the sofa without a sound and cross through the open pocket doors into Julian's glass-walled study.
+I slip off the sofa without a sound and cross to the heavy walnut door of Julian's north-hall study.
 
-The room smells of lemon furniture oil and cold stone. No desk lamp burns inside, just the pale spill of the living room firelight across the wide walnut blotter. Yesterday morning this desk looked sterile as a model home. Tonight, a thick leather portfolio sits crooked beside the silver inkwell, and a strip-cut paper shredder tucked under the return hums faintly with a solid red **JAM** light, strips of cream bond paper wedged tight between its steel teeth. A half-torn wire-transfer receipt sticks out of the wastebasket below it, smudged with black toner.
+The room smells of lemon furniture oil and cold stone. No desk lamp burns inside, just the pale spill of the hallway light across the wide walnut blotter. Yesterday morning this desk looked sterile as a model home. Tonight, a thick leather portfolio sits crooked beside the silver inkwell, and a strip-cut paper shredder tucked under the return hums faintly with a solid red **JAM** light, strips of cream bond paper wedged tight between its steel teeth. A half-torn wire-transfer receipt sticks out of the wastebasket below it, smudged with black toner.
 
 I pull my phone from my jeans pocket, kill the shutter sound and flash, and lift the leather portfolio's cover.
 
 Inside lies a heavy cream envelope slit cleanly along the top flap, stamped **CERTIFIED MAIL — RETURN RECEIPT REQUESTED**. Two pages of crisp bond paper sit folded halfway out, bearing the embossed letterhead of *Bramwell & Shaw Fiduciary LLP, Boston*. A yellow sticky note clings to the upper margin in cramped legal shorthand: *Final cure window — no further extensions.*
 
-I tilt the first page toward the doorway's amber spill and read fast.
+I tilt the first page toward the hallway's amber spill and read fast.
 
 *Notice of Default & Acceleration — Mercer Soundworks LLC.*
 
@@ -1148,11 +1144,11 @@ My pulse jumps hard against my collar. The firm isn't just waiting on a patent b
 
 Two point four million dollars. Embezzled straight out of his wife's trust, with a hard legal guillotine set to drop in nine days unless Evelyn's probate estate freezes the trust audit and hands Julian controlling signatory power. No wonder he moved the preliminary inventory up to Thursday night. If the Boston courier clears the estate schedule before the thirty-day cure expires, Julian buries the shortfall inside his patent buyout.
 
-I snap three rapid photos of the demand letter—catching the trust account number, the $2.4M principal balance, and the October fifteenth service stamp—then smooth the bond paper back under the leather flap in its exact crease. Every second I linger beside this desk risks Julian walking through the pocket doors and catching me standing over his personal mail.
+I snap three rapid photos of the demand letter—catching the trust account number, the $2.4M principal balance, and the October fifteenth service stamp—then smooth the bond paper back under the leather flap in its exact crease. Every second I linger beside this desk risks Julian walking down the hall and catching me standing over his personal mail.
 
 Footsteps scrape across the kitchen slate. Ice clinks sharp against metal, followed by the soft *snick* of the pantry corridor light switch clicking off.
 
-I slide back through the pocket doors, drop my phone into my pocket, and sink onto the leather sofa just as Julian steps back into the living room carrying silver ice tongs and a small crystal bucket.
+I slip back out the heavy walnut door, drop my phone into my pocket, and sink onto the leather sofa just as Julian steps back into the living room carrying silver ice tongs and a small crystal bucket.
 
 ***
 
@@ -1428,13 +1424,13 @@ Inside the padded kraft sleeve sit three items: a bound sheaf of notarized finan
 
 I spread the financial sheaf across the steel worktable under the blue monitor wash first.
 
-Every page bears the raised notary seal of a Boston firm dated October tenth—four days *before* the storm. Not Julian's frantic post-disappearance scrambling. These are original wire receipts, bridge-loan ledger sheets, and signed trust-collateral transfers showing Julian Mercer systematically draining $2,400,000 out of The Evelyn Mercer Irrevocable Trust over fourteen months to keep Mercer Soundworks afloat while his acoustic patent stalled in federal review. Three separate quarterly draws carry Evelyn's secondary signatory initials in cramped blue ink—each stroke slightly stiff, traced over pencil guidelines still faintly visible under the glare of the monitor.
+Every page bears the raised notary seal of a Boston firm dated October tenth—four days *before* the storm. Not Julian's frantic post-disappearance scrambling. These are original wire receipts, bridge-loan ledger sheets, and signed trust-collateral transfers showing Julian Mercer systematically draining $2,400,000 out of The Evelyn Mercer Irrevocable Trust over fourteen months to keep Mercer Soundworks afloat while his acoustic patent stalled in federal review. Six separate wire draws carry Evelyn's secondary signatory initials in cramped blue ink—each stroke slightly stiff, traced over pencil guidelines still faintly visible under the glare of the monitor.
 
-My stomach knots tight. Julian didn't just miss a payment. He forged Evelyn's signature on three consecutive transfers, and the October tenth audit packet proves he knew the Boston trustees were days away from uncovering the deficit before Evelyn ever stepped onto a dock. Anyone at Suffolk County DA's office holding these notarized sheets wouldn't need a murder body to put Julian Mercer in state prison for wire fraud—the paper trail alone is a ten-year sentence.
+Julian didn't just miss a payment. He forged Evelyn's signature on six staggered transfers, and the October tenth audit packet proves he knew the Boston trustees were days away from uncovering the deficit before Evelyn ever stepped onto a dock. Anyone at Suffolk County DA's office holding these notarized sheets wouldn't need a murder body to put Julian Mercer in state prison for wire fraud—the paper trail alone is a ten-year sentence.
 
 I set the notarized sheets aside and flip open the spiral-bound printout.
 
-The cover sheet reads `RAW TIMELINE TRANSCRIPT — 2026-10-14 // UNFILTERED MULTI-ARRAY`.
+The cover sheet reads `RAW TIMELINE TRANSCRIPT — 2026-10-14 / 15 OVERNIGHT // UNFILTERED MULTI-ARRAY`.
 
 I turn to the 02:14 AM tab, squinting at the dense columns of decibel spikes and timecoded dialogue flagged across `SUNROOM_EAST` and `BOATHOUSE_LINT`. Unlike the wind-scrubbed files on the server monitor, these pages were printed straight from the raw intake buffer before anyone ran spectral filters.
 
@@ -1465,15 +1461,15 @@ At 5:58 AM, faint water pipes shudder inside the ceiling joists overhead. Someon
 
 I move two steps sideways behind the worktable, keeping the heavy steel edge between myself and the fire door, and grip the folded multi-tool inside my palm. My mouth tastes of copper and stale cellar dust. I shift my weight onto the balls of my numb feet, ready to bolt back into the northeast dead-zone if whoever comes down those steps carries a gun instead of a wrench.
 
-At 6:05 AM, heavy footsteps descend the main foyer stairs outside.
+At 6:05 AM, heavy footsteps descend the concrete basement stairs outside.
 
-They pause on the slate landing. A brass key slides into the exterior mortise cylinder with a sharp, gritty scrape, and the deadbolt throws back with a loud metallic *clack* that echoes off the acoustic foam.
+They pause on the bottom landing. A brass key slides into the exterior mortise cylinder with a sharp, gritty scrape, and the deadbolt throws back with a loud metallic *clack* that echoes off the acoustic foam.
 
 The pinpoint red LED above the interior frame winks out.
 
-The heavy steel fire door swings inward on its pneumatic closer, letting a cold wash of gray dawn light—and the smell of wet pine needles from the open front porch—spill down the short concrete steps from the foyer hall.
+The heavy steel fire door swings inward on its pneumatic closer, revealing the concrete stairs rising toward the open cedar door on the foyer slate—letting a cold wash of gray dawn light and the smell of wet pine needles spill down from the front hall.
 
-Julian Mercer stands framed in the upper doorway.
+Julian Mercer stands framed in the open doorway.
 
 He's still wearing yesterday's dark merino crewneck, wrinkled now and dusted across one shoulder with plaster grit, his eyes bloodshot and hollowed out beneath gray stubble. In his right hand, he grips a heavy brass pipe wrench low against his thigh, fingers locked tight around the knurled shaft.
 
@@ -1485,41 +1481,41 @@ Behind his heels on the foyer slate, half-lit by the gray morning window, sits a
 
 Neither of us moves for five seconds.
 
-Julian stands at the top of the short concrete steps, his shoulders framed by gray dawn light from the foyer window, the heavy brass pipe wrench hanging low from his right hand. His eyes drop from my face to the sliced-open manila envelope tucked under my arm, then to the steel worktable where the two studio monitors still hum in pale blue wash.
+Julian stands at the threshold of the open fire door, the concrete basement stairs rising behind him toward gray dawn light from the foyer window, the heavy brass pipe wrench hanging low from his right hand. His eyes drop from my face to the sliced-open manila envelope tucked under my arm, then to the steel worktable where the two studio monitors still hum in pale blue wash.
 
 "How did you get past the mortise lock?" he asks, his voice hoarse and raw, like a man who woke up choking on gravel. "The foyer sensor never chimed."
 
 "I didn't use the foyer door," I say, keeping the steel worktable between us and shifting my grip on the folded multi-tool in my palm. "Put the wrench down, Julian. Right now."
 
-Julian's jaw tightens. He takes one slow step down onto the concrete landing, his gaze flicking toward the open gray cabinet marked `ARCHIVE — DO NOT ERASE`, then back to the sliced red tamper tape dangling off the kraft flap.
+Julian's jaw tightens. He takes one slow step onto the darkroom concrete, his gaze flicking toward the open gray cabinet marked `ARCHIVE — DO NOT ERASE`, then back to the sliced red tamper tape dangling off the kraft flap.
 
 "You broke into my private cabinet," he says flatly.
 
 "I took a look at why you're so desperate to push probate through by five o'clock today," I counter, keeping my voice low and steady even though my knees are shaking from three hours on cold concrete. "I already photographed the *Bramwell & Shaw* default demand in your study last night. Two point four million dollars, thirty-day cure window, criminal referral to the Suffolk County DA. Every page is already backed up in Portland. If you swing that wrench, or if you throw that deadbolt again, a scheduled release drops straight into Bramwell & Shaw's inbox before noon."
 
-Julian stops dead on the second step.
+Julian stops dead beside the steel doorframe.
 
 The color drains completely out of his face, leaving the dark hollows under his gray eyes looking bruised. Slowly, he looks down at the heavy brass wrench in his right hand—as if he just remembered he was holding it.
 
-With a dull, heavy *clang*, he drops the wrench onto the concrete stair tread. It rolls once and stops against the baseboard.
+With a dull, heavy *clang*, he drops the wrench onto the bottom concrete stair tread. It rolls once and stops against the steel jamb.
 
 "I didn't lock you down here, Clara," he says quietly, raising both empty hands chest-high so I can see his palms. "I drank half that bourbon last night and blacked out on the living room sofa until quarter to six. My mouth tastes like ash, and I can barely focus on the stairs. When I woke up with my head splitting, a kitchen chair was wedged under the pantry doorknob, the Zone Four workstation was drawing power, and the front door stood unlatched."
 
 My grip on the multi-tool falters a fraction. "You didn't throw the deadbolt at two-fifteen?"
 
-"I was dead to the world until five-forty-five." He steps back up onto the foyer slate, leaving the doorway wide open, and gestures toward the kitchen arch with an unsteady hand. "Come upstairs. If I wanted you dead in a hole, I wouldn't have unlocked the door."
+"I was dead to the world until five-forty-five." He turns and climbs the concrete steps back up onto the foyer slate, leaving both doors wide open, and gestures toward the kitchen arch with an unsteady hand. "Come upstairs. If I wanted you dead in a hole, I wouldn't have unlocked the door."
 
 ***
 
 I don't trust him—not for a second—yet staying in a concrete cellar with one exit isn't an option.
 
-I pocket the folded multi-tool, scoop the fallen brass wrench off the stair tread as I climb past it—keeping it low at my side where Julian can see it—and follow him into the kitchen at a safe distance.
+I pocket the folded multi-tool, scoop the fallen brass wrench off the bottom stair tread as I climb up behind him—keeping it low at my side where Julian can see it—and follow him across the foyer into the kitchen at a safe distance.
 
 The morning light spilling through the back deck glass is thin and gray, washing the limestone island in cold slate tones. Rainwater streaks the panes in crooked vertical tracks. Julian doesn't reach for a weapon. He crosses straight to the sink, fills a tall glass with cold tap water, and drinks it down in three desperate gulps before bracing both palms on the counter edge with his head bowed.
 
 Whatever sediment was swirling at the bottom of that bourbon glass last night, it hit him hard enough to leave his hands trembling.
 
-"You forged Evelyn's initials on three trust transfers," I say from the far side of the island, setting the padded manila envelope down beside the toaster while keeping the encrypted thumb drive hidden inside my watch pocket. "October tenth. Four days before the gale."
+"You forged Evelyn's initials on six trust transfers," I say from the far side of the island, setting the padded manila envelope down beside the toaster while keeping the encrypted thumb drive hidden inside my watch pocket. "October tenth. Four days before the gale."
 
 Julian lets out a long, ragged exhale and turns to face me. No practiced grief mask this morning. No smooth Mercer Soundworks pitch. He looks ten years older than he did on Monday night.
 
@@ -1697,7 +1693,7 @@ A fresh folder blooms onto the left monitor inside the `CLOUD_SYNC` queue.
 
 "Don't touch it," I say, though my throat feels dry as chalk. "Check the header."
 
-Julian clicks the incoming file into the waveform viewer. My stomach knots tight as the audio auto-plays through the studio monitors.
+Julian clicks the incoming file into the waveform viewer, and the audio auto-plays through the studio monitors.
 
 It's my voice.
 
@@ -1783,7 +1779,7 @@ I stay crouched for one beat, letting my eyes adjust to the gloom. Nothing moves
 
 I push quietly to my feet and edge along the workbench. Tucked beneath a folded blue tarp under the lower shelf sit two plastic gallon jugs—one unlabeled, the other stamped with a faded industrial bleach warning. Beside them lies a pair of cedar oars. Fresh, pale scratches score the varnished blades, matching the wet rag squeak I heard on the 2:14 AM WAV file ten minutes ago.
 
-My pulse jumps. Not a ghost. Not an accident. Physical hardware sitting steps from the cove water, left behind because someone got sloppy—or because nobody expected an outsider to pry open a painted casement window in a November gale.
+Physical hardware sitting steps from the cove water, left behind because someone got sloppy—or because nobody expected an outsider to pry open a painted casement window in a November gale.
 
 I reach into my back pocket and pull out my smartphone. My thumb shakes as I tap the camera icon, my fingers stiff with cold against the slick glass. I toggle the flash off so no glare reflects off the transom, then crouch low to frame the bleach jugs, the scratched oar blades, and the coiled towline together in one clean shot.
 
@@ -1793,13 +1789,13 @@ I freeze. The phone stays raised chest-high, its pale screen illuminating the da
 
 Evelyn Mercer steps out from behind the yellow fiberglass hull.
 
-She doesn't look like a woman who spent three weeks hiding in a coastal loft or scrambling over granite ledges in the dark. Her dark hair is pulled back into a tight, neat knot, and she wears a charcoal waxed-canvas jacket over dark trousers—dry, crisp, completely unhurried. In her right hand, held steady at waist height and pointed directly at my sternum, sits a matte-black Glock service pistol.
+She doesn't look like a woman who spent three weeks hiding in a coastal loft or scrambling over granite ledges in the dark. Her dark hair is pulled back into a tight, neat knot, and she wears a charcoal waxed-canvas jacket over dark trousers—dry, crisp, completely unhurried, as if she just stepped off a heated porch. In her right hand, held steady at waist height and pointed directly at my sternum, sits a matte-black Glock service pistol.
 
 Deputy Cole Halstead's weapon.
 
-My throat goes bone-dry. Every nerve in my body locks down, pinned between the narrow casement behind me and the dark muzzle four paces away.
+Every nerve in my body locks down, pinned between the narrow casement window behind my heels and the dark muzzle four paces away.
 
-"Put the phone on the dock, Clara," Evelyn says, her voice calm and level over the slap of the tide. "You weren't supposed to find the dumbwaiter."
+"Put the phone on the dock, Clara," Evelyn says, her voice calm and level over the slap of the rising tide. "You weren't supposed to find the dumbwaiter shaft."
 
 ---
 
@@ -1807,23 +1803,17 @@ My throat goes bone-dry. Every nerve in my body locks down, pinned between the n
 
 Evelyn Mercer sat at Julian’s walnut desk for twenty minutes after he left for the Boston train, staring at the *Bramwell & Shaw* quarterly variance sheet without blinking.
 
-Two million four hundred thousand dollars. Not borrowed cleanly against Mercer Soundworks equity, and not disclosed in any of the patent-litigation filings Julian left on the top shelf. He had siphoned it in six staggered wire transfers across nine months, using her forged initials on the trustee authorization lines.
+Two million four hundred thousand dollars. Not borrowed cleanly against Mercer Soundworks equity, and not disclosed in any of the patent-litigation filings Julian left on the top shelf. He had siphoned it in six staggered wire transfers across fourteen months, using her forged initials on the trustee authorization lines.
 
 She folded the variance sheet twice, aligned the crease with the edge of the blotter, and slid it into her leather portfolio.
 
 Julian had offered her a quiet restructuring agreement over breakfast two days earlier—an amended trust schedule and a mutual nondisclosure clause that would keep the shortfall buried until his acoustic patent buyout closed in December. He had spoken in that soft, measured cadence he used with investors, as if embezzling her father’s estate were a minor cash-flow timing error. Evelyn had poured him fresh coffee, nodded once, and told him she needed the weekend to review the numbers with her own eyes.
 
-She did not want a quiet restructuring, and she did not want a fraud arrest that would freeze the marital trust inside Mercer Soundworks' corporate bankruptcy for five years. Under Maine's Slayer Statute, a husband indicted for murder forfeited every dime of the estate—leaving Evelyn to walk away clean under a new name with her father's offshore reserve and a three-million-dollar life-insurance payout routed through her brother's trust. Her father had given Julian the seed capital, the Salt Point deed, and the family name that opened doors in Boston. Julian had repaid him by treating the trust like a personal line of credit.
+She did not want a quiet restructuring, and she did not want a fraud arrest that would freeze the marital trust inside Mercer Soundworks' corporate bankruptcy for five years. Under Maine's Slayer Statute, a husband indicted for murder forfeited every dime of the estate—leaving Evelyn to walk away clean under a new name with her father's offshore reserve and a three-million-dollar life-insurance payout routed through a Cayman bearer trust her father established before his stroke. Her father had given Julian the seed capital, the Salt Point deed, and the family name that opened doors in Boston. Julian had repaid him by treating the trust like a personal line of credit.
 
 Evelyn carried her coffee cup upstairs, pausing briefly at the threshold of her studio. The painters Julian had hired in late September had finished the white trim along the north wall and sealed the tall sash window shut with two thick coats of oil enamel. Julian claimed he wanted the winter drafts out before November. Evelyn hadn't bothered to have them scrape it open; she had already decided she wouldn't be living in this house by Thanksgiving.
 
-She continued into the master suite. The tall glass house felt hollow when Julian was away, full of his cedar shavings and unscented soap, every surface wiped sterile by a cleaning crew that came twice a month. In the master bathroom, she opened the mirrored cabinet and took down the orange prescription bottle of Ambien.
-
-Thirty tablets on the label. She shook two into her palm, dropped them into a dry water glass, and ran a thin stream of warm tap water from the brass faucet. The pills dissolved slowly into a chalky white suspension. She swirled the glass once, watching the pale sediment cling to the sides, then poured the cloudy residue straight down the sink drain. White crystalline paste coated the inside curve of the brass U-bend beneath the stopper.
-
-Too neat. If Julian choked on a spiked nightcap in his own bed, the state medical examiner would run a full toxicology screen before the body was cold, and every probate lawyer in Boston would look straight at the widow who stood to inherit his remaining shares.
-
-Evelyn screwed the cap back onto the bottle—twenty-eight pills rattling faintly inside—and set it on the second shelf behind her face cream. Dead husbands invited audits. Missing wives invited sympathy, until the sympathy curdled into a murder indictment.
+She continued into the master suite. The tall glass house felt hollow when Julian was away, full of his cedar shavings and unscented soap, every surface wiped sterile by a cleaning crew that came twice a month. In the master bathroom, she opened the mirrored cabinet and weighed the full orange bottle of thirty Ambien tablets in her palm. Too neat. If Julian choked on a spiked nightcap in his own bed, the state medical examiner would run a full toxicology screen before the body was cold, and every probate lawyer in Boston would look straight at the widow who stood to inherit his remaining shares. She set the unopened bottle back behind her face cream. Dead husbands invited audits. Missing wives invited sympathy, until the sympathy curdled into a murder indictment.
 
 ***
 
@@ -1881,7 +1871,7 @@ Julian was asleep upstairs, two floors above the acoustic baffling. Even so, the
 
 Evelyn laughed softly, the tension of the squall finally bleeding out of her shoulders. The skiff was prepped at the slipway with its transponder dead, ready for Cole to tow past the outer rocks on his launch. By noon tomorrow, she would be across the New Brunswick line under her secondary passport, waiting for Julian to hang himself in probate.
 
-"Leave the Montblanc on the blotter," she added as they moved toward the sunroom arch, her voice dropping back to business. "If Julian wants to play tidy widower, let him explain why the ink's still wet. And grab his spare rain slicker from the mudroom peg before you go—give the exterior infrared camera something to archive in case he fights the probate audit."
+"Leave my Montblanc on the blotter," she added as they moved toward the sunroom arch, her voice dropping back to business. "Make it look like I was interrupted mid-sketch before the squall. And grab his spare rain slicker from the mudroom peg before you go—give the exterior infrared camera something to archive in case he fights the probate audit."
 
 Cole pulled on Julian’s spare hooded slicker, hoisted a weighted canvas drop-cloth rolled tight like a body from the utility alcove, and dragged it out across the wet sunroom threshold straight past the infrared deck lens toward the boathouse hatch—burying one last piece of quiet leverage inside Julian’s own local server.
 
@@ -1889,11 +1879,7 @@ A heavy service door thudded shut behind them. She left Cole in the mudroom to s
 
 She pressed the baseboard flush with her heel and climbed the back stairs to her studio to check that no personal notes remained beside the calendar.
 
-She paused beside the walnut desk in the dark, scanning the empty ledger pad. Cole stepped silently into the studio doorway behind her, still holding his own uncapped silver Montblanc from the marine chart.
-
-"You forgot this downstairs," Evelyn murmured.
-
-Cole didn't speak. He stepped to the desk, laid his left-handed fountain pen carelessly onto the green leather blotter without bothering to cap it or wipe the damp ink from the nib, and followed her back down the stairs.
+She pocketed her own fountain pen by mistake in the dark while sweeping the desk drawer, unaware that Cole—stepping up behind her to set the blotter straight—had accidentally laid down his own identical left-handed silver Montblanc uncapped on the green leather before following her back down the stairs.
 
 ---
 
@@ -1911,13 +1897,13 @@ She pulled up Clara Vance’s name in a cached search browser on her burner. Two
 
 Which meant Julian wasn't just trying to bury his trust theft before probate. He was using an outsider to flush out the frame.
 
-"Passport, miss," the water-taxi captain called from the marina desk, holding out a grease-stained hand toward the optical berth scanner.
+"Passport, miss," the water-taxi captain called from the marina desk, nodding toward the Canadian port security officer running a routine berth manifest audit on all departing vessels that morning.
 
-Evelyn hesitated for a fraction of a second. Her secondary papers were in the bottom of her duffel, buried beneath spare wool sweaters, and the captain was already eyeing the dock clock against the morning tide. If she delayed twenty minutes to dig out the alias folder, she missed the morning slack-water window down the Maine coast before dusk.
+Evelyn hesitated for a fraction of a second. Her secondary papers were in the bottom of her duffel, buried beneath spare wool sweaters, and the pier gate officer was already eyeing the dock clock against the morning tide. If she delayed twenty minutes to dig out the alias folder, she missed the morning slack-water window down the Maine coast before dusk.
 
-She slid her primary passport across the counter instead. A private marina scan in New Brunswick wouldn't ping Knox County Sheriff’s dispatch. Even if it logged on an automated border manifest, Cole would bury any routine inquiry at the county desk before a state trooper ever saw it.
+She slid her primary passport across the pier gate scanner instead. A routine berth audit in New Brunswick wouldn't ping Knox County Sheriff’s dispatch. Even if it logged on an automated border manifest, Cole would bury any inquiry at the county desk before a state trooper ever saw it.
 
-The crossing took nearly five hours down the coast in chopping gray swells, diesel exhaust hanging thick in the wheelhouse air. By Tuesday afternoon, Evelyn was back on Salt Point, laying low in the eastern headland cabin until Wednesday, dropped onto the slick granite shelf below the eastern headland before the fog closed in. She waited until the water taxi’s wake dissolved into the white surf, then scrambled up the wet kelp ledges toward the cove.
+The crossing took nearly five hours down the coast in chopping gray swells, diesel exhaust hanging thick in the wheelhouse air. By Tuesday afternoon, Evelyn was back on Salt Point, dropped onto the slick granite shelf below the eastern headland before the fog closed in. She waited until the water taxi's wake dissolved into the white surf, slipped briefly into the empty house while Clara Vance was in town at the general store to test two crushed Ambien tablets in the master bath sink—leaving twenty-eight pills in the bottle—and then laid low in an abandoned gun battery on the eastern point overnight before creeping toward the cove at dawn on Wednesday.
 
 Down the shoreline, Maren Lindqvist’s oyster shack sat quiet, smoke curling thin and gray from the tin chimney. Maren had taken five thousand dollars in cash to keep her mouth shut; even if Clara Vance poked around the cove, Maren wouldn't risk her commercial license by naming names.
 
@@ -2031,13 +2017,13 @@ Evelyn's thumbs pause on the glass screen. She looks up at me, her dark eyes coo
 
 "The Coast Guard—"
 
-"Won't even launch a boat until tomorrow morning," Evelyn cuts in, stepping two paces closer to the bait table so she can lean one hip against the edge. Right above the glowing blue intercom puck. "I spent two weeks charting the November spring tides, Clara. High water crests over the Salt Point causeway at five-fifteen tonight. With this gale pushing forty knots behind it, the road will be under three feet of salt surge until dawn. By the time state police reach the headland, you and Julian will already be drifting past the outer shoal—wearing the exact life vests Cole logged in his report."
+"Won't even launch a boat until tomorrow morning," Evelyn cuts in, stepping two paces closer to the bait table so she can lean one hip against the edge. Right above the glowing blue intercom puck. "High water crests over the causeway at five-fifteen. By the time state police reach the headland, you and Julian will already be drifting past the outer shoal."
 
 She says it cleanly, without a trace of doubt, like she's reading off an invoice. Every syllable carries straight into the open mic beneath her hip, streaming back to the basement server Julian locked behind steel—assuming Julian hasn't already been cuffed by Cole upstairs. Behind my left shoulder, black harbor water swells and sucks against the timber slipway planks, freezing and deep enough to swallow a boat hook whole. If I get these wrists free, the channel is my only exit.
 
 "You didn't even leave the life jacket salty," I push, shifting my wrists quietly higher behind the piling until the taut nylon ridge between my palms presses squarely against the rusted steel edge of the oyster knife. "Cole soaked it in the mudroom sink with tap water. That's sloppy, Evelyn. Even a rookie medical examiner checks for salt residue."
 
-Evelyn smiles—a thin, cold curve of her mouth. "Cole wrote the report, Clara. There won't be a second medical examiner, because there won't be a body until the crabs are finished with it. Just like nobody checked the Montblanc nib, or the Ambien I dissolved in the master sink, or the weekender we shoved behind his coats before you arrived. You spent four days cataloging a dead woman's house, and you never realized the whole inventory was staged to trigger a Slayer Statute forfeiture and buy me time until the insurance trust cleared."
+Evelyn smiles—a thin, cold curve of her mouth. "Cole wrote the report, Clara. There won't be a second medical examiner, because there won't be a body until the crabs are finished with it. Everything you cataloged in that house was staged to trigger a Slayer Statute forfeiture and buy me time until the insurance trust cleared."
 
 ***
 
@@ -2049,11 +2035,11 @@ The plastic is tough, built to hold heavy oak lobster traps together in winter s
 
 "Because Julian hired you," Evelyn says, tapping out another line of his fake suicide note. "I couldn't have a former Harbor Mutual fraud investigator walking back across that causeway with photos of my floorboards and an unedited acoustic drive in her pocket. You had eighteen thousand dollars in court debt and a fired investigator's record, Clara. You made yourself the perfect accomplice the day you signed that NDA for five grand in cash."
 
-A sharp strand of nylon parts beneath my wrists. The tie loosens by a hair, biting slightly less into my left thumb, though creosote and salt grit sting the raw skin along my forearm. Cold spray mists upward through the gaps in the slipway planks beneath my sneakers.
+A sharp strand of nylon parts beneath my wrists. The tie loosens by a hair, biting slightly less into my left thumb, though creosote and salt grit sting the raw skin along my forearm. Cold spray mists upward through the gaps in the slipway planks beneath my sneakers, soaking my ankles while the outgoing tide sucks hard at the pilings below.
 
 Evelyn glances down at the iPad, then reads aloud in a dry, mocking cadence: *"I couldn't bear what I did to Evelyn, and when Miss Vance threatened to go to the state police unless I tripled her fee, I panicked—"*
 
-She stops mid-sentence, tilting her head slightly as a gust rattles the corrugated tin roof overhead.
+She stops mid-sentence, tilting her head slightly as a gust rattles the corrugated tin roof overhead and shakes loose a shower of pine needles along the eaves.
 
 I saw hard against the rusted steel while her eyes are off my shoulders. Another two strands snap cleanly. Warm blood wells fast along my left wrist where the jagged nylon and rusted steel slice deep into the skin above my palm, giving me just enough slack to twist my fingers toward the swollen oak handle wedged in the bait table seam.
 
@@ -2063,11 +2049,11 @@ Evelyn's jaw hardens. She takes one step toward me, raising the Glock until the 
 
 Outside the north wall of the boathouse, heavy boots crunch hard across the crushed oyster shells.
 
-Once. Twice. Deliberate, unhurried strides coming down from the cliff stairs, followed by the metallic *clink* of a padlock key sliding into brass.
+Once. Twice. Deliberate, unhurried strides coming down from the cliff stairs, followed by the rattle of a sheriff's key ring and the metallic *clink* of a padlock key sliding into brass.
 
-Evelyn turns her head and right shoulder toward the double doors as the heavy iron latch rattles from outside.
+Evelyn turns her head and right shoulder toward the double doors as the heavy iron latch rattles from outside, shifting her weight off her heels for half a second.
 
-I yank my wrists apart with everything left in my shoulders. The frayed nylon zip tie snaps clean, and my right hand closes tight around the swollen oak handle of the rusted oyster knife.
+I yank my wrists apart with everything left in my shoulders. The frayed nylon zip tie snaps clean, and my right hand closes tight around the swollen oak handle of the rusted oyster knife wedged beneath the rail.
 
 ---
 
@@ -2099,7 +2085,7 @@ Black Atlantic water swallows me whole.
 
 The cold hits like an iron bar across the ribs, driving the air straight out of my lungs. My jeans and dry spare sneakers instantly double in weight, dragging at my hips as I kick frantically beneath the surface. Above me, muted through the churning swell, heavy boots thunder across the boathouse planks. Another gunshot cracks—sharp and flat—followed by a dull *thwack* as a bullet punches into the harbor water behind my heels.
 
-The outgoing chop pulls hard at my legs, tugging me toward the barnacle-crusted pilings. I keep swimming blind under the dark timber beams, lungs burning like I've swallowed crushed glass, until my left shoulder scrapes rough granite. Salt fills my mouth. My fingers numb so fast I can barely tell if I'm still gripping the wooden handle of the oyster knife.
+The outgoing chop pulls hard at my legs, tugging me toward the barnacle-crusted pilings. I keep swimming blind under the dark timber beams, salt water searing the back of my throat with every kick, until my left shoulder scrapes rough granite. Salt fills my mouth. My fingers numb so fast I can barely tell if I'm still gripping the wooden handle of the oyster knife.
 
 I break the surface gasping, clinging to the jagged rock shelf just north of Maren Lindqvist's shuttered oyster shack. Salt spray blinds my eyes. My teeth chatter so violently I nearly bite my tongue.
 
@@ -2111,11 +2097,11 @@ I press flat against the wet kelp ledge until Evelyn turns back toward the cliff
 
 I haul myself onto the slick granite shelf, shivering so hard my knees buckle twice against the stone. My left wrist—gashed deep by the rusted blade and frayed zip tie—throbs furiously where salt water hits the open cut. My fingers are stiff, blue-white around the knuckles, yet my right hand is still locked around the swollen oak handle of the rusted oyster knife.
 
-I press my left palm flat against my jeans watch pocket. Through the soaked denim, I feel the hard rectangular ridge of the encrypted matte-black thumb drive, the **B-4** mortise key, and the heavy brass front-door key. Still there. My pocket steel multi-tool sits intact in my right front pocket beside the damp nitrile gloves and the soaked Salt Point harbor receipt I shoved there Tuesday after buying packing tape.
+I press my left palm flat against my jeans watch pocket. Through the soaked denim, I feel the hard rectangular ridge of the encrypted matte-black thumb drive, the **B-4** mortise key, and the heavy brass front-door key. Still there. My pocket steel multi-tool sits intact in my right front pocket beside the damp nitrile gloves and the soaked strip of Maren's tide chart.
 
 I don't have a phone, and I don't have a dry stitch of clothing. What I have is one shot to reach Julian's basement acoustic drive before Cole and Evelyn lock down the glass house and wait for high water to drown us both. Even if I tried to hike the shoreline north toward the mainland woods, the granite bluffs pinch off into sheer cliffs past the headland. There is no back road off Salt Point once the storm surge takes the causeway.
 
-I stumble across the crushed oyster shells toward Maren's dark shack, half-hoping to see her oilskin coat or a kerosene lamp behind the salt-crusted glass. The padlock on her shed door hangs tight. Her aluminum skiff sits chained high above the tide line, empty and dripping, and the gravel turnout beside her shack stands bare—no rusted pickup truck parked under the pines. Tire ruts cut fresh through the wet pine needles, pointing up toward the harbor road. Wherever Maren drove this afternoon, she left before the storm peaked. I pull the soaked harbor receipt from my pocket, press it flat against the cedar clapboard, and scratch seven jagged words into the damp paper with the point of the oyster knife—*CALL STATE POLICE — FRAME AT MERCER HOUSE*—before wedging the folded slip tight behind Maren's door latch where she can't miss it when she gets back.
+I stumble across the crushed oyster shells toward Maren's dark shack, half-hoping to see her oilskin coat or a kerosene lamp behind the salt-crusted glass. The padlock on her shed door hangs tight. Her aluminum skiff sits chained high above the tide line, empty and dripping, and the gravel turnout beside her shack stands bare—no rusted pickup truck parked under the pines. Tire ruts cut fresh through the wet pine needles, pointing up toward the harbor road. Wherever Maren drove this afternoon, she left before the storm peaked. I pull the soaked tide-chart strip from my pocket, press it flat against the cedar clapboard, and scratch seven jagged words onto the blank reverse side with the point of the oyster knife—*CALL STATE POLICE — FRAME AT MERCER HOUSE*—before wedging the folded paper tight behind Maren's door latch where she can't miss it when she gets back.
 
 Behind me, white surf booms hard against the boathouse pilings, showering the oyster-shell apron with bitter spray. I turn toward the base of the cliff stairs, grip the wet granite rail, and start climbing.
 
@@ -2199,7 +2185,7 @@ I freeze halfway down the iron ladder, one sneakered foot braced on a rung, my t
 
 "My wrist is bleeding through the damn gauze," Cole snaps, his boots thudding heavily toward the kitchen island. "And the salt water got into it down at the dock. If I find her, I'm not using zip ties."
 
-"Check the basement stairs first," Evelyn says. "Use your spare key on Zone 4—throw the exterior deadbolt on the steel door if she's inside and leave her there until high tide. Her spliced confession is already sitting in the county drop, and her boots are still in the foyer."
+"Check the basement stairs first," Evelyn says. "Use your spare key on Zone 4—throw the exterior deadbolt on the steel door if she's inside and leave her there until high tide. Her spliced confession is already sitting in the county drop, and the bronze cleat is still in her spare-tire well."
 
 Cold sweat breaks across the back of my neck.
 
@@ -2213,7 +2199,7 @@ Right beside my shoulder hangs a thick, braided hemp rope drawn taut over an ove
 
 A thick steel cotter pin locks the pulley wheel's brake arm into the shaft frame.
 
-Above me, the kitchen-to-basement stairwell door creaks open. Heavy boots pause on the top landing. Cole's flashlight beam slices downward through the stairwell, though the thick cedar paneling of the shaft hides me completely for now.
+Above me, the flush cedar door under the foyer stairs creaks open. Heavy boots pause on the top concrete landing. Cole's flashlight beam slices downward through the stairwell, though the thick cedar paneling of the shaft hides me completely for now.
 
 "Julian's still cuffed to the sunroom radiator?" Cole calls back up from the landing, his voice echoing off the concrete stairs.
 
@@ -2233,7 +2219,7 @@ The impact shakes the entire cedar framing around me, rattling glass spice jars 
 
 "What the hell was that?" Cole's voice echoes sharply from the basement stairs. Heavy boots immediately thunder downward two steps at a time, racing toward the Zone 4 steel fire door.
 
-"Cole, wait—" Evelyn's crisp heels clatter across the kitchen tile toward the stairwell door, drawn straight after him by the crash. She pauses only long enough to sweep her flashlight once toward the pantry doorway, then follows him down the concrete steps.
+"Cole, wait—" Evelyn's crisp heels clatter across the slate toward the foyer stairwell door, drawn straight after him by the crash. She pauses only long enough to sweep her flashlight once toward the pantry doorway, then follows him down the concrete steps.
 
 I don't wait to hear the fire door slam. Coughing silently against my soaked sleeve to muffle the dust in my throat, I grab the iron rungs above my head and haul my waterlogged legs up the ladder as fast as my trembling muscles allow. My bruised knee bangs hard against the cedar framing. I shove the recessed spice-rack panel open and peer out through the crack.
 
@@ -2321,7 +2307,7 @@ I sling the heavy canvas strap over my shoulder, pull a dry dark wool sweater fr
 
 We step out onto the foyer slate.
 
-Directly ahead, the heavy oak door to the basement stairs rattles sharply—followed by the thunder of Cole's duty boots charging upward two steps at a time.
+Directly ahead, the flush cedar door under the foyer stairs rattles sharply—followed by the thunder of Cole's duty boots charging upward two steps at a time.
 
 "She's not in Zone 4!" Cole roars up the stairwell, his voice raw with fury. "Check the kitchen—Julian's off the radiator!"
 
@@ -2333,7 +2319,7 @@ Every standby LED in the foyer dies instantly. The wall tablet beside the coat c
 
 The house plunges into pitch-black darkness, cutting off even the gray storm glow from the ridge outside.
 
-At the same exact second, triggered by the house's emergency battery fail-safe the instant grid power drops, heavy steel hurricane shutters roar downward inside their exterior aluminum tracks. They slam shut with a deafening metallic *CRASH* across the sunroom glass, the foyer sidelights, and the north-hall windows—sealing every exit in black steel while Cole's boots hit the kitchen tile behind us.
+At the same exact second, triggered by the house's emergency battery fail-safe the instant grid power drops, heavy steel hurricane shutters roar downward inside their exterior aluminum tracks. They slam shut with a deafening metallic *CRASH* across the sunroom glass, the foyer sidelights, and the north-hall windows—sealing every exit in black steel while Cole's boots hit the foyer slate behind us.
 
 ---
 
@@ -2363,7 +2349,7 @@ Out in the foyer, Cole's flashlight beam jerks violently toward the basement sta
 
 "Evie?" Cole shouts, confusion sharpening into raw panic as his own coastal drawl echoes faintly up through the floorboards beneath him. "She's back in Zone 4! She's playing the pantry tape!"
 
-Heavy boots thunder across the kitchen tile toward the basement stairs, taking the landing in two loud bounds.
+Heavy boots thunder across the foyer slate toward the basement stairs, taking the landing in two loud bounds.
 
 ***
 
@@ -2419,7 +2405,7 @@ Inside Zone 4, Cole's heavy boots slam furiously against the reinforced door, hi
 
 Evelyn doesn't stay to fight me on the stairs. She scrambles up the concrete steps ahead of me in the dark, her breathing ragged and fast, leaving her dropped brass wrench behind in the darkroom. One hand clamps over her bleeding forearm; the other clutches the silver Montblanc fountain pen she pocketed upstairs during her sweep and a small backup drive pulled from the study tower tucked inside her torn waxed-canvas jacket.
 
-I sprint up the stairs two at a time behind her, the heavy duffel banging hard against my ribs, my sneakers slipping once on the top landing before I shoulder the kitchen door wide.
+I sprint up the stairs two at a time behind her, the heavy duffel banging hard against my ribs, my sneakers slipping once on the top landing before I shoulder the foyer basement door wide.
 
 When I burst out into the foyer, Julian is already emerging from the north hall, his eyes wide in the dark as he tries to track the commotion. Across the slate, Evelyn drags the heavy cedar foyer bench with scraping legs beneath the foyer skylight hatch—the one glass roof panel the exterior steel hurricane shutters couldn't cover when the breaker dropped.
 
@@ -2463,13 +2449,13 @@ I raise both hands slowly, stepping off Evelyn's wrist as the lead trooper moves
 
 Evelyn glares up at me from the slate, blood slicking her cheek where her forearm brushed her face. She doesn't speak. She doesn't have to.
 
-The second trooper sweeps his beam toward Julian, then down the dark kitchen hall. "Who else is in the house?"
+The second trooper sweeps his beam toward Julian, then toward the open cedar door under the stairs. "Who else is in the house?"
 
-"Deputy Cole Halstead," I say, pointing toward the kitchen door. "Locked in the basement darkroom behind the steel fire door. Armed, with a slashed left wrist. The exterior brass deadbolt is thrown from the hall."
+"Deputy Cole Halstead," I say, pointing toward the basement stairwell. "Locked in the basement darkroom behind the steel fire door. Armed, with a slashed left wrist. The exterior brass deadbolt is thrown from the hall."
 
 I step clear of the stairs so the backup trooper can move in. "And watch the spice-rack wall inside the pantry," I add as he passes. "There's a manual dumbwaiter shaft behind the shelves that drops straight into that basement room. Nobody clears the stairwell without covering the shaft."
 
-The trooper nods once, racks his shotgun, and disappears into the dark kitchen.
+The trooper nods once, racks his shotgun, and disappears into the dark foyer.
 
 ***
 
@@ -2479,7 +2465,7 @@ I stand under the rear awning of a Knox County ambulance, a stiff wool blanket d
 
 Beside the rescue rig's diesel-rumbling fender, Maren Lindqvist stands in her yellow oilskin bib, a thermos steaming between her cracked knuckles. Her silver braid is plastered to her collar, and her eyes meet mine with quiet, steady relief.
 
-"Saw your note on the harbor receipt," Maren says as I step out from the awning into the drizzle, my sneakers squelching on wet gravel. "When the tide crested and Cole's dispatch channel went dead for an hour, I took the pickup out before the causeway went under. Told the barracks at Thomaston they had a live framing on Salt Point."
+"Saw your note on the back of my tide chart," Maren says as I step out from the awning into the drizzle, my sneakers squelching on wet gravel. "When the tide crested and Cole's dispatch channel went dead for an hour, I took the pickup out before the causeway went under. Told the barracks at Thomaston they had a live framing on Salt Point."
 
 "Thank you," I say. My voice comes out hoarse, raw from salt water and smoke. "If you hadn't—"
 
@@ -2493,19 +2479,13 @@ A plainclothes Maine State Police detective—lean, gray-templed, wearing a dren
 
 Ward pauses, his pen hovering over the plastic evidence seal. "What else do you have?"
 
-I unzip the duffel and lay the items out one by one under the harsh rig floodlights, keeping my hands steady despite the cold biting into my scraped palm.
+I unzip the duffel and lay the items out under the harsh rig floodlights, keeping my hands steady despite the cold biting into my scraped palm.
 
-First, I set down the encrypted matte-black thumb drive (`RAW_BUFFER_OCT14_15`). "Raw acoustic server buffer from the night of October fourteenth. Logs a sixty-eight-decibel glass-and-latch spike in the pantry corridor at two-fourteen a.m.—three hours after Evelyn's skiff supposedly went down."
-
-Next, I lay the yellow warning slip beside it. "Deputy Halstead wrote this left-handed during a traffic stop Tuesday afternoon. Match his slant and pressure against the left-handed ink wear on that silver Montblanc. It's Cole's own pen—he left it uncapped on the studio blotter at two-fourteen to frame Julian."
+First, I set down the encrypted matte-black thumb drive (`RAW_BUFFER_OCT14_15`) beside the yellow warning slip Cole wrote on Tuesday. "Raw acoustic server buffer from the night of October fourteenth, plus Cole's left-handed handwriting sample," I tell him. "Match his slant against the left-handed nib wear on that silver Montblanc. He accidentally laid down his own identical pen on Evelyn's blotter at two-fourteen instead of hers."
 
 Ward's jaw tightens as he bags both items with gloved fingers. "And the rest?"
 
-"Check peg two in the mudroom," I say, nodding toward the glass house. "There's a crisp orange life jacket hung up to dry—wet with tap water, zero sea salt. Check the spare-tire well of my silver Honda Civic in the turnaround for a bronze cleat and a bleach-stained boat rag Evelyn planted to tie me to the sunroom floor. And in the master bath, pull the brass sink U-bend—you'll find dissolved Ambien residue from where Evelyn tested doses before she staged her drowning."
-
-Ward scribbles fast on his damp notepad. "Anything else inside Zone Four?"
-
-"A heavy brass pipe wrench on the foam," I say. "Evelyn swung it at me in the dark. And the rusted oyster knife I used to cut loose from the boathouse is lying on the foyer slate—I dropped it when I pulled her down from the skylight."
+"The orange life jacket on mudroom peg two is soaked with tap water, not sea salt, and Evelyn planted a bronze cleat in my Civic's spare-tire well," I say, nodding toward the glass house. "Your crime-scene team will also find dissolved Ambien in the master bath U-bend, a brass pipe wrench inside Zone Four, and the rusted oyster knife I dropped on the foyer slate."
 
 Julian stands near an unmarked sedan by the edge of the drive, a uniformed trooper's hand resting lightly on his elbow while another officer takes his preliminary statement. Across the rain-swept gravel, Julian catches my eye. There's a quiet, desperate plea in his posture—the unspoken reminder of the fifty thousand dollars he offered me over a lit gas burner less than an hour ago, and the ten-thousand-dollar completion check I still haven't collected.
 
@@ -2525,11 +2505,11 @@ Ward stares down at the thick manila envelope, then up at me. "You worked for hi
 
 ***
 
-An hour later, the storm has thinned to a cold, steady drizzle. Most of the gravel forecourt has cleared out, leaving only the ambulance bay lit by humming overhead LEDs and the smell of wet pine and diesel exhaust, sharp with antiseptic gauze hanging thick in the air.
+An hour later, the storm has thinned to a cold, steady drizzle. Most of the gravel forecourt has cleared out, leaving only the ambulance bay lit by humming overhead LEDs and the smell of wet pine and diesel exhaust, sharp with antiseptic gauze hanging thick in the air. Down toward the cove, a portable generator still drones beside the boathouse doors while crime-scene techs bag the last of the gear.
 
 I sit on the edge of the ambulance step, letting a paramedic finish knotting three neat stitches across my gashed left wrist and tape clean gauze over the seam while a fresh paper cup of black coffee warms my stiff fingers. The wool blanket smells faintly of bleach and cedar smoke. My knees ache every time I shift my weight, yet for the first time in four days, nobody is watching me through glass, and nobody is waiting on the other side of a locked door.
 
-Detective Ward walks back over from the crime-scene tape strung across the Mercer porch. His windbreaker drips onto the wet gravel. In his gloved hand, he holds a crisp, uncreased white envelope sealed with waxless adhesive.
+Detective Ward walks back over from the yellow crime-scene tape strung across the Mercer porch, his boots crunching steadily across the wet gravel. His windbreaker drips onto the stone. In his gloved hand, he holds a crisp, uncreased white envelope sealed with waxless adhesive.
 
 "We finished the inventory search on the heavy wool overcoat Mr. Mercer grabbed from the foyer closet before transport," Ward says, stopping just inside the yellow glow of the ambulance bay. "Found this tucked in the inner breast pocket, sealed and addressed to you. No forensic relevance to the assault or the embezzlement, so we're releasing it as personal property."
 
@@ -2551,7 +2531,7 @@ Instead, stamped cleanly above two crisp, unfamiliar initials in dark blue ink, 
 
 Two weeks after Salt Point, the cast-iron radiator in my Portland studio still ticks like a bad heart, and the harbor wind still rattles the single-pane glass.
 
-I stand over the scarred kitchen counter with a mug of black coffee, staring at two sheets of heavy bond paper laid side by side under the bare overhead bulb. The first is a stamped satisfaction-of-judgment notice from the Cumberland County clerk: $18,412 paid in full, zero balance remaining from the $42,000 defamation suit that broke my career two years ago. The second is a crisp, embossed letter from the Maine Department of Public Safety restoring my private investigator bond, effective Monday morning.
+I stand over the scarred kitchen counter with a mug of black coffee, staring at two sheets of heavy bond paper laid side by side under the bare overhead bulb. The first is a stamped satisfaction-of-judgment notice from the Cumberland County clerk: $18,412 paid in full, zero balance remaining from the $42,000 defamation suit that broke my career three years ago. The second is a crisp, embossed letter from the Maine Department of Public Safety restoring my private investigator bond, effective Monday morning.
 
 The $5,000 cash from Salt Point, the $10,000 cashier's check from the anonymous Boston estate firm, and every last dollar scraped out of my checking account wiped the slate clean.
 
@@ -2559,7 +2539,7 @@ My left wrist still carries a pale pink seam under the cuff of my dry wool sweat
 
 I didn't ask for a press quote. I gave my statement, signed the chain-of-custody logs, and drove back down Route 1 before the Boston reporters found the causeway. Even Maren Lindqvist came through clean—the state prosecutor granted her full immunity as the reporting witness, and three days ago a wooden crate of Salt Point oysters showed up on my landing with a single harbor receipt tucked under the twine: *Dock's paid. Keep your head down.*
 
-The studio is almost empty now. Two cardboard boxes sit taped beside the door, smelling faintly of damp packing paper and dust. My faded navy canvas duffel rests zipped on the bare mattress, no longer packed for a midnight run, and my 2014 silver Honda Civic waits at the curb downstairs with its spare-tire well scrubbed clean by state evidence techs and its loose muffler shield finally bolted tight. For the first time in twenty-four months, I don't owe a dime to a lawyer or a court clerk.
+The studio is almost empty now. Two cardboard boxes sit taped beside the door, smelling faintly of damp packing paper and dust. My faded navy canvas duffel rests zipped on the bare mattress, no longer packed for a midnight run, and my 2014 silver Honda Civic waits at the curb downstairs with its spare-tire well scrubbed clean by state evidence techs and its loose muffler shield finally bolted tight. For the first time in thirty-six months, I don't owe a dime to a lawyer or a court clerk.
 
 I pick up the restored bond letter, fold it neatly along its crease, and slide it into my jacket pocket.
 

@@ -24,7 +24,7 @@ Out in the foyer, Cole's flashlight beam jerks violently toward the basement sta
 
 "Evie?" Cole shouts, confusion sharpening into raw panic as his own coastal drawl echoes faintly up through the floorboards beneath him. "She's back in Zone 4! She's playing the pantry tape!"
 
-Heavy boots thunder across the kitchen tile toward the basement stairs, taking the landing in two loud bounds.
+Heavy boots thunder across the foyer slate toward the basement stairs, taking the landing in two loud bounds.
 
 ***
 
@@ -80,7 +80,7 @@ Inside Zone 4, Cole's heavy boots slam furiously against the reinforced door, hi
 
 Evelyn doesn't stay to fight me on the stairs. She scrambles up the concrete steps ahead of me in the dark, her breathing ragged and fast, leaving her dropped brass wrench behind in the darkroom. One hand clamps over her bleeding forearm; the other clutches the silver Montblanc fountain pen she pocketed upstairs during her sweep and a small backup drive pulled from the study tower tucked inside her torn waxed-canvas jacket.
 
-I sprint up the stairs two at a time behind her, the heavy duffel banging hard against my ribs, my sneakers slipping once on the top landing before I shoulder the kitchen door wide.
+I sprint up the stairs two at a time behind her, the heavy duffel banging hard against my ribs, my sneakers slipping once on the top landing before I shoulder the foyer basement door wide.
 
 When I burst out into the foyer, Julian is already emerging from the north hall, his eyes wide in the dark as he tries to track the commotion. Across the slate, Evelyn drags the heavy cedar foyer bench with scraping legs beneath the foyer skylight hatch—the one glass roof panel the exterior steel hurricane shutters couldn't cover when the breaker dropped.
 

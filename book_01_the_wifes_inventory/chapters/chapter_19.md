@@ -50,13 +50,13 @@ Evelyn's thumbs pause on the glass screen. She looks up at me, her dark eyes coo
 
 "The Coast Guard—"
 
-"Won't even launch a boat until tomorrow morning," Evelyn cuts in, stepping two paces closer to the bait table so she can lean one hip against the edge. Right above the glowing blue intercom puck. "I spent two weeks charting the November spring tides, Clara. High water crests over the Salt Point causeway at five-fifteen tonight. With this gale pushing forty knots behind it, the road will be under three feet of salt surge until dawn. By the time state police reach the headland, you and Julian will already be drifting past the outer shoal—wearing the exact life vests Cole logged in his report."
+"Won't even launch a boat until tomorrow morning," Evelyn cuts in, stepping two paces closer to the bait table so she can lean one hip against the edge. Right above the glowing blue intercom puck. "High water crests over the causeway at five-fifteen. By the time state police reach the headland, you and Julian will already be drifting past the outer shoal."
 
 She says it cleanly, without a trace of doubt, like she's reading off an invoice. Every syllable carries straight into the open mic beneath her hip, streaming back to the basement server Julian locked behind steel—assuming Julian hasn't already been cuffed by Cole upstairs. Behind my left shoulder, black harbor water swells and sucks against the timber slipway planks, freezing and deep enough to swallow a boat hook whole. If I get these wrists free, the channel is my only exit.
 
 "You didn't even leave the life jacket salty," I push, shifting my wrists quietly higher behind the piling until the taut nylon ridge between my palms presses squarely against the rusted steel edge of the oyster knife. "Cole soaked it in the mudroom sink with tap water. That's sloppy, Evelyn. Even a rookie medical examiner checks for salt residue."
 
-Evelyn smiles—a thin, cold curve of her mouth. "Cole wrote the report, Clara. There won't be a second medical examiner, because there won't be a body until the crabs are finished with it. Just like nobody checked the Montblanc nib, or the Ambien I dissolved in the master sink, or the weekender we shoved behind his coats before you arrived. You spent four days cataloging a dead woman's house, and you never realized the whole inventory was staged to trigger a Slayer Statute forfeiture and buy me time until the insurance trust cleared."
+Evelyn smiles—a thin, cold curve of her mouth. "Cole wrote the report, Clara. There won't be a second medical examiner, because there won't be a body until the crabs are finished with it. Everything you cataloged in that house was staged to trigger a Slayer Statute forfeiture and buy me time until the insurance trust cleared."
 
 ***
 
@@ -68,11 +68,11 @@ The plastic is tough, built to hold heavy oak lobster traps together in winter s
 
 "Because Julian hired you," Evelyn says, tapping out another line of his fake suicide note. "I couldn't have a former Harbor Mutual fraud investigator walking back across that causeway with photos of my floorboards and an unedited acoustic drive in her pocket. You had eighteen thousand dollars in court debt and a fired investigator's record, Clara. You made yourself the perfect accomplice the day you signed that NDA for five grand in cash."
 
-A sharp strand of nylon parts beneath my wrists. The tie loosens by a hair, biting slightly less into my left thumb, though creosote and salt grit sting the raw skin along my forearm. Cold spray mists upward through the gaps in the slipway planks beneath my sneakers.
+A sharp strand of nylon parts beneath my wrists. The tie loosens by a hair, biting slightly less into my left thumb, though creosote and salt grit sting the raw skin along my forearm. Cold spray mists upward through the gaps in the slipway planks beneath my sneakers, soaking my ankles while the outgoing tide sucks hard at the pilings below.
 
 Evelyn glances down at the iPad, then reads aloud in a dry, mocking cadence: *"I couldn't bear what I did to Evelyn, and when Miss Vance threatened to go to the state police unless I tripled her fee, I panicked—"*
 
-She stops mid-sentence, tilting her head slightly as a gust rattles the corrugated tin roof overhead.
+She stops mid-sentence, tilting her head slightly as a gust rattles the corrugated tin roof overhead and shakes loose a shower of pine needles along the eaves.
 
 I saw hard against the rusted steel while her eyes are off my shoulders. Another two strands snap cleanly. Warm blood wells fast along my left wrist where the jagged nylon and rusted steel slice deep into the skin above my palm, giving me just enough slack to twist my fingers toward the swollen oak handle wedged in the bait table seam.
 
@@ -82,8 +82,8 @@ Evelyn's jaw hardens. She takes one step toward me, raising the Glock until the 
 
 Outside the north wall of the boathouse, heavy boots crunch hard across the crushed oyster shells.
 
-Once. Twice. Deliberate, unhurried strides coming down from the cliff stairs, followed by the metallic *clink* of a padlock key sliding into brass.
+Once. Twice. Deliberate, unhurried strides coming down from the cliff stairs, followed by the rattle of a sheriff's key ring and the metallic *clink* of a padlock key sliding into brass.
 
-Evelyn turns her head and right shoulder toward the double doors as the heavy iron latch rattles from outside.
+Evelyn turns her head and right shoulder toward the double doors as the heavy iron latch rattles from outside, shifting her weight off her heels for half a second.
 
-I yank my wrists apart with everything left in my shoulders. The frayed nylon zip tie snaps clean, and my right hand closes tight around the swollen oak handle of the rusted oyster knife.
+I yank my wrists apart with everything left in my shoulders. The frayed nylon zip tie snaps clean, and my right hand closes tight around the swollen oak handle of the rusted oyster knife wedged beneath the rail.

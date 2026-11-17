@@ -64,9 +64,7 @@ I set the bottle back in its exact spot behind the ibuprofen, lining the label a
 
 Nothing sits in the porcelain bowl. Yet as I lean closer to check the brass pop-up drain stopper, a faint white ring catches the recessed light along the chrome seam—chalky, slightly crystalline, like crushed tablet filler that didn't rinse completely down the throat.
 
-My heart gives a hard, unpleasant thud against my ribs.
-
-I pull my pocket multi-tool out, unfold the narrow pliers, and crouch beneath the limestone vanity. The curved brass P-trap under the left sink looks clean on the outside, wiped free of dust—until I notice fine scratch marks around the slip-nut collar where someone recently twisted it open by hand or with a wrench.
+I pull my pocket multi-tool out, unfold the narrow pliers, and crouch beneath the limestone vanity. The curved brass P-trap under the left sink looks clean on the outside, wiped free of dust, yet if someone flushed crushed tablets down this drain recently, the lower bend will still hold the paste.
 
 Holding a folded paper towel beneath the curve, I loosen the brass slip-nut slowly. A thimbleful of stale gray water drips onto the towel, followed by a damp smear of white crystalline paste caked thick inside the lower bend of the pipe.
 

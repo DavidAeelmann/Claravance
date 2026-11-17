@@ -76,7 +76,7 @@ The orange canvas shell is crisp, stiff, and bright—not faded by summer sun, n
 
 I lean in closer, pretending to read the printed Coast Guard approval label stitched inside the collar, and inhale sharply.
 
-No brine. No kelp rot. Not even the faint marsh-mud tang that clings to every rope and buoy on this peninsula. Just a faint, flat smell of damp cellar air and mineral tap water, as if someone dunked a brand-new vest under a laundry sink faucet, let it drip dry on a coat hook, and handed it to a left-handed deputy as physical proof of a drowning.
+The nylon smells of laundry-sink tap water and damp basement concrete—not a trace of Penobscot Bay brine or kelp rot in the weave, as if someone dunked a brand-new vest under a faucet, let it drip dry on a coat hook, and handed it to a left-handed deputy as physical proof of a drowning.
 
 Behind me, the kitchen faucet shuts off.
 

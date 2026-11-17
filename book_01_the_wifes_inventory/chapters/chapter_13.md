@@ -32,13 +32,13 @@ Inside the padded kraft sleeve sit three items: a bound sheaf of notarized finan
 
 I spread the financial sheaf across the steel worktable under the blue monitor wash first.
 
-Every page bears the raised notary seal of a Boston firm dated October tenth—four days *before* the storm. Not Julian's frantic post-disappearance scrambling. These are original wire receipts, bridge-loan ledger sheets, and signed trust-collateral transfers showing Julian Mercer systematically draining $2,400,000 out of The Evelyn Mercer Irrevocable Trust over fourteen months to keep Mercer Soundworks afloat while his acoustic patent stalled in federal review. Three separate quarterly draws carry Evelyn's secondary signatory initials in cramped blue ink—each stroke slightly stiff, traced over pencil guidelines still faintly visible under the glare of the monitor.
+Every page bears the raised notary seal of a Boston firm dated October tenth—four days *before* the storm. Not Julian's frantic post-disappearance scrambling. These are original wire receipts, bridge-loan ledger sheets, and signed trust-collateral transfers showing Julian Mercer systematically draining $2,400,000 out of The Evelyn Mercer Irrevocable Trust over fourteen months to keep Mercer Soundworks afloat while his acoustic patent stalled in federal review. Six separate wire draws carry Evelyn's secondary signatory initials in cramped blue ink—each stroke slightly stiff, traced over pencil guidelines still faintly visible under the glare of the monitor.
 
-My stomach knots tight. Julian didn't just miss a payment. He forged Evelyn's signature on three consecutive transfers, and the October tenth audit packet proves he knew the Boston trustees were days away from uncovering the deficit before Evelyn ever stepped onto a dock. Anyone at Suffolk County DA's office holding these notarized sheets wouldn't need a murder body to put Julian Mercer in state prison for wire fraud—the paper trail alone is a ten-year sentence.
+Julian didn't just miss a payment. He forged Evelyn's signature on six staggered transfers, and the October tenth audit packet proves he knew the Boston trustees were days away from uncovering the deficit before Evelyn ever stepped onto a dock. Anyone at Suffolk County DA's office holding these notarized sheets wouldn't need a murder body to put Julian Mercer in state prison for wire fraud—the paper trail alone is a ten-year sentence.
 
 I set the notarized sheets aside and flip open the spiral-bound printout.
 
-The cover sheet reads `RAW TIMELINE TRANSCRIPT — 2026-10-14 // UNFILTERED MULTI-ARRAY`.
+The cover sheet reads `RAW TIMELINE TRANSCRIPT — 2026-10-14 / 15 OVERNIGHT // UNFILTERED MULTI-ARRAY`.
 
 I turn to the 02:14 AM tab, squinting at the dense columns of decibel spikes and timecoded dialogue flagged across `SUNROOM_EAST` and `BOATHOUSE_LINT`. Unlike the wind-scrubbed files on the server monitor, these pages were printed straight from the raw intake buffer before anyone ran spectral filters.
 
@@ -69,15 +69,15 @@ At 5:58 AM, faint water pipes shudder inside the ceiling joists overhead. Someon
 
 I move two steps sideways behind the worktable, keeping the heavy steel edge between myself and the fire door, and grip the folded multi-tool inside my palm. My mouth tastes of copper and stale cellar dust. I shift my weight onto the balls of my numb feet, ready to bolt back into the northeast dead-zone if whoever comes down those steps carries a gun instead of a wrench.
 
-At 6:05 AM, heavy footsteps descend the main foyer stairs outside.
+At 6:05 AM, heavy footsteps descend the concrete basement stairs outside.
 
-They pause on the slate landing. A brass key slides into the exterior mortise cylinder with a sharp, gritty scrape, and the deadbolt throws back with a loud metallic *clack* that echoes off the acoustic foam.
+They pause on the bottom landing. A brass key slides into the exterior mortise cylinder with a sharp, gritty scrape, and the deadbolt throws back with a loud metallic *clack* that echoes off the acoustic foam.
 
 The pinpoint red LED above the interior frame winks out.
 
-The heavy steel fire door swings inward on its pneumatic closer, letting a cold wash of gray dawn light—and the smell of wet pine needles from the open front porch—spill down the short concrete steps from the foyer hall.
+The heavy steel fire door swings inward on its pneumatic closer, revealing the concrete stairs rising toward the open cedar door on the foyer slate—letting a cold wash of gray dawn light and the smell of wet pine needles spill down from the front hall.
 
-Julian Mercer stands framed in the upper doorway.
+Julian Mercer stands framed in the open doorway.
 
 He's still wearing yesterday's dark merino crewneck, wrinkled now and dusted across one shoulder with plaster grit, his eyes bloodshot and hollowed out beneath gray stubble. In his right hand, he grips a heavy brass pipe wrench low against his thigh, fingers locked tight around the knurled shaft.
 

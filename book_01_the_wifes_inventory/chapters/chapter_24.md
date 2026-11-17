@@ -30,13 +30,13 @@ I raise both hands slowly, stepping off Evelyn's wrist as the lead trooper moves
 
 Evelyn glares up at me from the slate, blood slicking her cheek where her forearm brushed her face. She doesn't speak. She doesn't have to.
 
-The second trooper sweeps his beam toward Julian, then down the dark kitchen hall. "Who else is in the house?"
+The second trooper sweeps his beam toward Julian, then toward the open cedar door under the stairs. "Who else is in the house?"
 
-"Deputy Cole Halstead," I say, pointing toward the kitchen door. "Locked in the basement darkroom behind the steel fire door. Armed, with a slashed left wrist. The exterior brass deadbolt is thrown from the hall."
+"Deputy Cole Halstead," I say, pointing toward the basement stairwell. "Locked in the basement darkroom behind the steel fire door. Armed, with a slashed left wrist. The exterior brass deadbolt is thrown from the hall."
 
 I step clear of the stairs so the backup trooper can move in. "And watch the spice-rack wall inside the pantry," I add as he passes. "There's a manual dumbwaiter shaft behind the shelves that drops straight into that basement room. Nobody clears the stairwell without covering the shaft."
 
-The trooper nods once, racks his shotgun, and disappears into the dark kitchen.
+The trooper nods once, racks his shotgun, and disappears into the dark foyer.
 
 ***
 
@@ -46,7 +46,7 @@ I stand under the rear awning of a Knox County ambulance, a stiff wool blanket d
 
 Beside the rescue rig's diesel-rumbling fender, Maren Lindqvist stands in her yellow oilskin bib, a thermos steaming between her cracked knuckles. Her silver braid is plastered to her collar, and her eyes meet mine with quiet, steady relief.
 
-"Saw your note on the harbor receipt," Maren says as I step out from the awning into the drizzle, my sneakers squelching on wet gravel. "When the tide crested and Cole's dispatch channel went dead for an hour, I took the pickup out before the causeway went under. Told the barracks at Thomaston they had a live framing on Salt Point."
+"Saw your note on the back of my tide chart," Maren says as I step out from the awning into the drizzle, my sneakers squelching on wet gravel. "When the tide crested and Cole's dispatch channel went dead for an hour, I took the pickup out before the causeway went under. Told the barracks at Thomaston they had a live framing on Salt Point."
 
 "Thank you," I say. My voice comes out hoarse, raw from salt water and smoke. "If you hadn't—"
 
@@ -60,19 +60,13 @@ A plainclothes Maine State Police detective—lean, gray-templed, wearing a dren
 
 Ward pauses, his pen hovering over the plastic evidence seal. "What else do you have?"
 
-I unzip the duffel and lay the items out one by one under the harsh rig floodlights, keeping my hands steady despite the cold biting into my scraped palm.
+I unzip the duffel and lay the items out under the harsh rig floodlights, keeping my hands steady despite the cold biting into my scraped palm.
 
-First, I set down the encrypted matte-black thumb drive (`RAW_BUFFER_OCT14_15`). "Raw acoustic server buffer from the night of October fourteenth. Logs a sixty-eight-decibel glass-and-latch spike in the pantry corridor at two-fourteen a.m.—three hours after Evelyn's skiff supposedly went down."
-
-Next, I lay the yellow warning slip beside it. "Deputy Halstead wrote this left-handed during a traffic stop Tuesday afternoon. Match his slant and pressure against the left-handed ink wear on that silver Montblanc. It's Cole's own pen—he left it uncapped on the studio blotter at two-fourteen to frame Julian."
+First, I set down the encrypted matte-black thumb drive (`RAW_BUFFER_OCT14_15`) beside the yellow warning slip Cole wrote on Tuesday. "Raw acoustic server buffer from the night of October fourteenth, plus Cole's left-handed handwriting sample," I tell him. "Match his slant against the left-handed nib wear on that silver Montblanc. He accidentally laid down his own identical pen on Evelyn's blotter at two-fourteen instead of hers."
 
 Ward's jaw tightens as he bags both items with gloved fingers. "And the rest?"
 
-"Check peg two in the mudroom," I say, nodding toward the glass house. "There's a crisp orange life jacket hung up to dry—wet with tap water, zero sea salt. Check the spare-tire well of my silver Honda Civic in the turnaround for a bronze cleat and a bleach-stained boat rag Evelyn planted to tie me to the sunroom floor. And in the master bath, pull the brass sink U-bend—you'll find dissolved Ambien residue from where Evelyn tested doses before she staged her drowning."
-
-Ward scribbles fast on his damp notepad. "Anything else inside Zone Four?"
-
-"A heavy brass pipe wrench on the foam," I say. "Evelyn swung it at me in the dark. And the rusted oyster knife I used to cut loose from the boathouse is lying on the foyer slate—I dropped it when I pulled her down from the skylight."
+"The orange life jacket on mudroom peg two is soaked with tap water, not sea salt, and Evelyn planted a bronze cleat in my Civic's spare-tire well," I say, nodding toward the glass house. "Your crime-scene team will also find dissolved Ambien in the master bath U-bend, a brass pipe wrench inside Zone Four, and the rusted oyster knife I dropped on the foyer slate."
 
 Julian stands near an unmarked sedan by the edge of the drive, a uniformed trooper's hand resting lightly on his elbow while another officer takes his preliminary statement. Across the rain-swept gravel, Julian catches my eye. There's a quiet, desperate plea in his posture—the unspoken reminder of the fifty thousand dollars he offered me over a lit gas burner less than an hour ago, and the ten-thousand-dollar completion check I still haven't collected.
 
@@ -92,11 +86,11 @@ Ward stares down at the thick manila envelope, then up at me. "You worked for hi
 
 ***
 
-An hour later, the storm has thinned to a cold, steady drizzle. Most of the gravel forecourt has cleared out, leaving only the ambulance bay lit by humming overhead LEDs and the smell of wet pine and diesel exhaust, sharp with antiseptic gauze hanging thick in the air.
+An hour later, the storm has thinned to a cold, steady drizzle. Most of the gravel forecourt has cleared out, leaving only the ambulance bay lit by humming overhead LEDs and the smell of wet pine and diesel exhaust, sharp with antiseptic gauze hanging thick in the air. Down toward the cove, a portable generator still drones beside the boathouse doors while crime-scene techs bag the last of the gear.
 
 I sit on the edge of the ambulance step, letting a paramedic finish knotting three neat stitches across my gashed left wrist and tape clean gauze over the seam while a fresh paper cup of black coffee warms my stiff fingers. The wool blanket smells faintly of bleach and cedar smoke. My knees ache every time I shift my weight, yet for the first time in four days, nobody is watching me through glass, and nobody is waiting on the other side of a locked door.
 
-Detective Ward walks back over from the crime-scene tape strung across the Mercer porch. His windbreaker drips onto the wet gravel. In his gloved hand, he holds a crisp, uncreased white envelope sealed with waxless adhesive.
+Detective Ward walks back over from the yellow crime-scene tape strung across the Mercer porch, his boots crunching steadily across the wet gravel. His windbreaker drips onto the stone. In his gloved hand, he holds a crisp, uncreased white envelope sealed with waxless adhesive.
 
 "We finished the inventory search on the heavy wool overcoat Mr. Mercer grabbed from the foyer closet before transport," Ward says, stopping just inside the yellow glow of the ambulance bay. "Found this tucked in the inner breast pocket, sealed and addressed to you. No forensic relevance to the assault or the embezzlement, so we're releasing it as personal property."
 
