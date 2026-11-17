@@ -1,0 +1,6 @@
+# Ignore home directory dotfiles and runtime caches
+.*
+!.gitignore
+upload/
+__pycache__/
+*.pyc
