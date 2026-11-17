@@ -54,7 +54,7 @@ Cole nodded slowly, his gaze drifting toward the narrow ceiling vent above the w
 
 "Then use the dumbwaiter behind the pantry spice rack," Evelyn replied. "Julian forgot it even existed the day the contractors paneled over the kitchen wall. The shaft drops straight past the acoustic sensors into the basement hall."
 
-On Wednesday evening, while Julian was locked in his basement darkroom running late patent simulations, Evelyn packed her olive-canvas weekender in the foyer. She clipped a Bar Harbor ferry stub dated *October 17* to the leather handle—her backup exit ticket if the coastal road flooded—and tucked the bag deep inside the coat closet behind Julian’s heavy wool overcoats so she could grab it quickly on her way out.
+On Wednesday evening, while Julian was locked in his basement darkroom running late patent simulations, Evelyn packed her olive-canvas weekender in the foyer. She clipped an advance Bar Harbor commuter ferry boarding pass and pre-printed baggage voucher dated *October 17* to the leather handle—her original planned exit ticket before she chose to cross to Canada by boat on the night of the fourteenth—and tucked the bag deep inside the coat closet behind Julian’s heavy wool overcoats.
 
 At eleven-fifteen, rain hammered the sunroom glass.
 
@@ -76,9 +76,11 @@ Julian was asleep upstairs, two floors above the acoustic baffling. Even so, the
 
 Evelyn laughed softly, the tension of the squall finally bleeding out of her shoulders. The skiff was already drifting past the outer rocks with its transponder dead. By noon tomorrow, she would be across the New Brunswick line under her secondary passport, waiting for Julian to hang himself in probate.
 
-"Leave the Montblanc on the blotter," she added as they moved toward the sunroom arch, her voice dropping back to business. "If Julian wants to play tidy widower, let him explain why the ink's still wet."
+"Leave the Montblanc on the blotter," she added as they moved toward the sunroom arch, her voice dropping back to business. "If Julian wants to play tidy widower, let him explain why the ink's still wet. And grab his spare rain slicker from the mudroom peg before you go—give the exterior infrared camera something to archive in case he fights the probate audit."
 
-A heavy service door thudded shut behind them. She left Cole in the mudroom to stow the wet rag and stepped into the dark sunroom. Moonlight didn't pierce the storm clouds, so she navigated by memory across the gray wool rug toward the east baseboard. Using the flat edge of a pocketknife, she pried the loose oak trim back just far enough to slide the spare stamped brass **B-4** basement key into the gap. If she ever needed into Julian’s acoustic vault without tripping the foyer motion sensors, she wouldn't have to ask Cole for a wrench.
+Cole pulled on Julian’s spare hooded slicker, hoisted a weighted canvas drop-cloth rolled tight like a body from the utility alcove, and dragged it out across the wet sunroom threshold straight past the infrared deck lens toward the boathouse hatch—burying one last piece of quiet leverage inside Julian’s own local server.
+
+A heavy service door thudded shut behind them. She left Cole in the mudroom to stow the wet rag and stepped into the dark sunroom. Moonlight didn't pierce the storm clouds, so she navigated by memory across the gray wool rug toward the east baseboard. Using the flat edge of a pocketknife, she pried the loose oak trim back just far enough to slide the spare stamped brass **B-4** basement key into the gap—her physical backup for the basement deadbolt once she disarmed the hub with her administrator PIN, so she wouldn't have to pry the door or leave tool marks on Julian's frame.
 
 She pressed the baseboard flush with her heel and climbed the back stairs to her studio to check her father's silver Montblanc fountain pen on the walnut desk—making sure she hadn't left a personal note or smudge beside the calendar.
 

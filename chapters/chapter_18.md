@@ -14,11 +14,11 @@ Which meant Julian wasn't just trying to bury his trust theft before probate. He
 
 "Passport, miss," the water-taxi captain called from the marina desk, holding out a grease-stained hand toward the optical berth scanner.
 
-Evelyn hesitated for a fraction of a second. Her secondary papers were in the bottom of her duffel, buried beneath spare wool sweaters, and the captain was already eyeing the dock clock against the falling tide. If she delayed twenty minutes to dig out the alias folder, she missed the slack-water crossing to Lubec before dark.
+Evelyn hesitated for a fraction of a second. Her secondary papers were in the bottom of her duffel, buried beneath spare wool sweaters, and the captain was already eyeing the dock clock against the morning tide. If she delayed twenty minutes to dig out the alias folder, she missed the morning slack-water window down the Maine coast before dusk.
 
 She slid her primary passport across the counter instead. A private marina scan in New Brunswick wouldn't ping Knox County Sheriff’s dispatch. Even if it logged on an automated border manifest, Cole would bury any routine inquiry at the county desk before a state trooper ever saw it.
 
-The crossing took ninety minutes in chopping gray swells, diesel exhaust hanging thick in the wheelhouse air. By Wednesday afternoon, Evelyn was back on Salt Point, dropped onto the slick granite shelf below the eastern headland before the fog closed in. She waited until the water taxi’s wake dissolved into the white surf, then scrambled up the wet kelp ledges toward the cove.
+The crossing took nearly five hours down the coast in chopping gray swells, diesel exhaust hanging thick in the wheelhouse air. By Wednesday afternoon, Evelyn was back on Salt Point, dropped onto the slick granite shelf below the eastern headland before the fog closed in. She waited until the water taxi’s wake dissolved into the white surf, then scrambled up the wet kelp ledges toward the cove.
 
 Down the shoreline, Maren Lindqvist’s oyster shack sat quiet, smoke curling thin and gray from the tin chimney. Maren had taken five thousand dollars in cash to keep her mouth shut; even if Clara Vance poked around the cove, Maren wouldn't risk her commercial license by naming names.
 
@@ -26,9 +26,11 @@ Evelyn skirted the tide line, crept beneath the cedar eaves of the Mercer boatho
 
 ***
 
-On Wednesday night, while Julian drank alone in the living room and Clara Vance walked down the wet slate path toward Maren Lindqvist’s shack, Evelyn used the pantry keypad code to slip inside the glass house.
+Late Wednesday afternoon, while Julian was still driving up from Portland and Clara Vance walked down the wet slate path toward Maren Lindqvist’s shack, Evelyn used the pantry keypad code to slip inside the empty glass house.
 
 She didn't turn on a single overhead light. She moved along the cedar floorboards in dry wool socks, taking in the familiar scent of Julian’s unscented soap, lemon oil, and stale bourbon from the study. The house felt different with a stranger living in it—chairs angled slightly off their marks, a mug left drying beside the sink.
+
+Before touching the guest suite, she stepped upstairs into the master bath, shook two more Ambien tablets out of her prescription bottle—leaving twenty-six inside—and crushed them between two folded squares of tissue. Downstairs in the living room, she tipped the fine white powder straight into Julian’s half-full crystal bourbon decanter and swirled it once until the liquor clouded faintly. Tonight, Julian would drink himself straight into a seven-hour blackout, and Clara wouldn't suspect a thing.
 
 In the guest suite, Clara’s faded navy duffel sat beside the cast-iron radiator, zipped neatly to the corner. A crumpled brown paper bag from the Salt Point general store sat wedged behind the radiator pipes—packing tape, cardboard boxes, nothing else Evelyn needed to touch. She knelt, unzipped the duffel's side pocket, and lifted out the spare silver Honda key fob. She left the five-thousand-dollar cash envelope untouched beneath the folded shirts. Money wasn't the bait anymore, and missing cash would only spook Clara into bolting for the causeway before the storm peaked.
 
@@ -38,11 +40,9 @@ She tucked all three deep into the Civic’s spare-tire well, beneath the carpet
 
 The original plan—letting Julian hang alone in probate—was dead. Clara Vance knew about the trust shortfall, the sunroom floorboards, and the Montblanc. If Clara walked off Salt Point on Friday with her notes intact, the state police would tear Cole’s drowning report apart before sunset.
 
-Evelyn slipped back inside through the service porch and climbed the narrow servants' stairs to the attic crawlspace above the north hall, pulling her iPad Mini from her jacket. The cramped space smelled of dry pine dust and mouse bait, its unfinished rafters slick with condensation from the cedar roof. She needed a second body in the frame—someone desperate enough to take cash from a crooked widower and panic when the tide turned.
+Evelyn slipped back out the service porch before Julian’s headlights hit the gate, climbed back into the dark boathouse loft, and powered on the directional Wi-Fi range extender Julian had mounted for cove telemetry. From the loft slats, her iPad Mini locked onto the house’s local smart-home mesh using her old admin credentials, keeping the tablet's cellular radio dark until morning. She needed a second body in the frame—someone desperate enough to take cash from a crooked widower and panic when the tide turned.
 
-She connected to Julian’s local smart-home mesh using her old admin credentials, keeping the tablet's cellular radio dark until morning. Below her, muffled through the cedar joists, Julian’s voice rose and fell in tight, clipped cadence as he poured drinks and argued with Clara in the study. Evelyn ignored the words and went straight to the raw audio archive.
-
-Julian’s own *Mercer Soundworks* acoustic engine made the job almost effortless. Because the house microphones isolated human speech from ambient rain before compressing the logs, Clara’s voice sat on its own clean frequency band. Evelyn pulled Clara’s vocal tracks from the Monday NDA intake and the Tuesday kitchen exchanges, loading them into a raw audio-stitching utility on the tablet. Over the next two hours, while rain drummed steadily against the roof shingles overhead, Evelyn clipped syllables, matched breathing pauses, and layered the track over the house’s rain-on-glass ambient noise bed.
+Julian’s own *Mercer Soundworks* acoustic engine made the job almost effortless. Because the house microphones isolated human speech from ambient rain before compressing the logs, Clara’s voice sat on its own clean frequency band. Evelyn pulled Clara’s vocal tracks from the Monday NDA intake and the Tuesday kitchen exchanges, loading them into a raw audio-stitching utility on the tablet. Over the next two hours, while rain drummed steadily against the boathouse shingles overhead, Evelyn clipped syllables, matched breathing pauses, and layered the track over the house’s rain-on-glass ambient noise bed.
 
 When she played it back through a single wired earbud, the forty-second confession sounded seamless—a cornered woman breaking down over helping Julian drag a body toward the cove.
 
@@ -52,11 +52,11 @@ All she had to do was wake the cellular bridge within range of the house hub tom
 
 ***
 
-At 2:14 AM on Thursday, Evelyn stood in the dark shadow of the kitchen island, waiting for Julian’s sedative-laced bourbon to finish knocking him flat on the living room sofa. His glass sat half-empty on the coffee table, his breathing slow and heavy from the armchair.
+At 2:14 AM on Thursday, Evelyn slipped back inside the quiet house through the service porch and stood in the dark shadow of the kitchen island, waiting to confirm Julian’s sedative-laced bourbon had finished knocking him flat on the living room sofa. His glass sat half-empty on the coffee table, his breathing slow and heavy from the armchair.
 
 A sharp metallic *click* echoed from the narrow pantry corridor.
 
-Evelyn went completely still. She stepped barefoot to the pantry threshold and peered through the crack. The cedar spice rack swung inward on oiled hinges, revealing the black square of the old manual dumbwaiter shaft. A narrow beam of flashlight swung down into the gap, followed by the scrape of rubber soles against iron ladder rungs.
+Evelyn went completely still. She stepped in her wool socks to the pantry threshold and peered through the crack. The cedar spice rack swung inward on oiled hinges, revealing the black square of the old manual dumbwaiter shaft. A narrow beam of flashlight swung down into the gap, followed by the scrape of rubber soles against iron ladder rungs.
 
 Clara Vance had found the shaft.
 

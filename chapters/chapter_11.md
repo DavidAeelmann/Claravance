@@ -2,7 +2,7 @@
 
 At two in the morning, the cast-iron radiator under my window ticks once and goes dead silent.
 
-I lie on top of the stripped quilt fully dressed in my jeans and flannel shirt, staring at the faint blue glow of my laptop screen sitting open on the nightstand. Evelyn Mercer's St. Andrews passport timestamp sits burned behind my eyelids: *November 5, 16:42 AST.* Thirty-four hours ago, a woman supposedly drowned in a coastal gale walked off a private dock in New Brunswick. Tonight, her husband is sleeping down the hall after swallowing a bourbon glass swirled with chalky sediment, and tomorrow at four I'm supposed to hand him a clean probate schedule so he can bury a two-point-four-million-dollar theft.
+I lie on top of the stripped quilt fully dressed in my jeans and flannel shirt, staring at the faint blue glow of my laptop screen sitting open on the nightstand. Evelyn Mercer's St. Andrews passport timestamp sits burned behind my eyelids: *November 5, 09:42 AST.* Forty-one hours ago, a woman supposedly drowned in a coastal gale walked off a private dock in New Brunswick. Tonight, her husband is sleeping down the hall after swallowing a bourbon glass swirled with chalky sediment, and tomorrow at four I'm supposed to hand him a clean probate schedule so he can bury a two-point-four-million-dollar theft.
 
 Three years ago at Harbor Mutual, I signed off on a coastal warehouse loss because my branch manager swore the inventory manifests were clean—and spent the next twenty-four months buried under an eighteen-thousand-dollar judgment and a ruined bond. Every creditor notice taped to my Portland apartment door taught me one rule: nobody puts my signature on another crooked ledger, and nobody traps me in a house while they rewrite the books.
 

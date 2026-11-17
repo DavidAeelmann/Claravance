@@ -108,6 +108,6 @@ I tap the banner with a thumb that suddenly feels numb.
 **NAME:** MERCER, EVELYN S.
 **DOCUMENT:** US PASSPORT #••••••8412
 **PORT:** ST. ANDREWS PRIVATE MARINA, NEW BRUNSWICK
-**TIMESTAMP:** NOV 5, 2026 — 16:42 AST
+**TIMESTAMP:** NOV 5, 2026 — 09:42 AST
 
-I stare at the glowing white text in the dark bedroom until my eyes burn. Yesterday afternoon. While Julian stood in this kitchen telling me she drowned three weeks ago, Evelyn Mercer walked off a dock across the Canadian border and scanned her own passport.
+I stare at the glowing white text in the dark bedroom until my eyes burn. Yesterday morning. While Julian stood in this kitchen telling me she drowned three weeks ago, Evelyn Mercer walked off a dock across the Canadian border and scanned her own passport.
