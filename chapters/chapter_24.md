@@ -72,7 +72,7 @@ Hollis's jaw tightens as he bags both items with gloved fingers. "And the rest?"
 
 Hollis scribbles fast on his damp notepad. "Anything else inside Zone Four?"
 
-"A heavy brass pipe wrench on the foam," I say. "Evelyn swung it at me in the dark."
+"A heavy brass pipe wrench on the foam," I say. "Evelyn swung it at me in the dark. And the rusted oyster knife I used to cut loose from the boathouse is lying on the foyer slate—I dropped it when I pulled her down from the skylight."
 
 Julian stands near an unmarked sedan by the edge of the drive, a uniformed trooper's hand resting lightly on his elbow while another officer takes his preliminary statement. Across the rain-swept gravel, Julian catches my eye. There's a quiet, desperate plea in his posture—the unspoken reminder of the fifty thousand dollars he offered me over a lit gas burner less than an hour ago, and the ten-thousand-dollar completion check I still haven't collected.
 

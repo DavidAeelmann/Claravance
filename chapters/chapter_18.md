@@ -8,7 +8,7 @@ Evelyn set her coffee cup down without spilling a drop. Cold rain rattled the si
 
 She had expected Julian to hire a bonded estate liquidator from Camden—someone with cardboard boxes, bubble wrap, and zero curiosity about why a dead woman’s life jacket smelled like municipal tap water. An insurance fraud investigator was another matter entirely. Investigators got paid to spot discrepancies, and Julian had hired one on purpose.
 
-She pulled up Clara Vance’s name in a cached search browser on her burner. Two minutes later, she had the outline: fired by Harbor Mutual after an unsubstantiated arson accusation, buried under a forty-two-thousand-dollar civil judgment, living out of a duffel bag. Julian hadn't hired a cleaner. He had hired a cornered bloodhound who couldn't afford to walk away from a paycheck—and couldn't stop herself from pulling loose threads once she saw them.
+She pulled up Clara Vance’s name in a cached search browser on her burner. Two minutes later, she had the outline: fired by Harbor Mutual after an unsubstantiated arson accusation, buried under the remainder of a forty-two-thousand-dollar civil judgment, living out of a duffel bag. Julian hadn't hired a cleaner. He had hired a cornered bloodhound who couldn't afford to walk away from a paycheck—and couldn't stop herself from pulling loose threads once she saw them.
 
 Which meant Julian wasn't just trying to bury his trust theft before probate. He was using an outsider to flush out the frame.
 

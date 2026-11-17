@@ -16,7 +16,7 @@ Julian hesitates for half a beat. A faint twitch pulls at the corner of his mout
 
 "You wrote the encryption," I say, tapping the flat of the wrench against my thigh. "Which means you have the master key upstairs. Move."
 
-He doesn't argue. He grabs a folded dish towel from the kitchen threshold, swabs the brackish puddle off the foyer slate in three tight strokes, and tosses the rag into the mudroom sink. I detour past the guest suite just long enough to pull on my dry spare sneakers and yank my duffel zipper shut. The $5,000 envelope is still inside, tucked under my folded shirts, though my spare key pocket hangs empty.
+He doesn't argue. He grabs a folded dish towel from the kitchen threshold, swabs the brackish puddle off the foyer slate in three tight strokes, shoves the kelp-crusted duck boots into the back of the foyer coat closet, and tosses the rag into the mudroom sink. I detour past the guest suite just long enough to pull on my dry spare sneakers and yank my duffel zipper shut. The $5,000 envelope is still inside, tucked under my folded shirts, though my spare key pocket hangs empty.
 
 Julian's study sits off the north hall, opposite the sunroom. Unlike the glass-and-cedar showcase rooms at the front of the house, this room is narrow, lined with dark acoustic baffling and floor-to-ceiling walnut shelving. The air smells like warm dust, cedar shavings, and the faint metallic tang of electronics running hot.
 

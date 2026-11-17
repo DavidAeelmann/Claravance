@@ -2,7 +2,7 @@
 
 The pinpoint red LED above the fire door glares steady against the dark concrete.
 
-I drop the padded manila envelope onto the steel worktable and bolt straight for the mortise handle, pressing my ear against cold painted steel. On the other side of the door, footsteps cross the foyer slate—unhurried, heavy-soled, fading toward the kitchen archway before a chair leg scrapes softly across tile.
+I drop the padded manila envelope onto the steel worktable and bolt straight for the mortise handle, pressing my ear against cold painted steel. On the other side of the door, footsteps cross the foyer slate—unhurried, soft-treaded, fading toward the kitchen archway before a chair leg scrapes softly across tile.
 
 I don't bother testing the rusted **B-4** key in the interior keyhole. From this side, there's no thumb-turn—only a smooth brass escutcheon plate and a heavy commercial deadbolt thrown strictly from the foyer hall. Whoever locked me in didn't just pull the door shut. They threw an exterior bolt that won't budge without a key from the other side.
 
@@ -12,7 +12,7 @@ I snatch my phone off the desk, keep the screen dimmed low, and cross in my damp
 
 I press one palm gently against the hinged cedar panel.
 
-It gives a fraction—then slams hard against something wedged across the outside shelves. Through the thin crack between the cleats, I hear the unmistakable scrape of a heavy oak kitchen chair braced tight under the louvered pantry doorknob, followed by the metallic *snick* of a deadbolt turning on the mudroom side. A moment later, a boot heel taps once on the kitchen slate, deliberate and unhurried, before moving away toward the front hall.
+It gives a fraction—then slams hard against something wedged across the outside shelves. Through the thin crack between the cleats, I hear the unmistakable scrape of a heavy oak kitchen chair braced tight under the louvered pantry doorknob, followed by the metallic *snick* of a deadbolt turning on the mudroom side. A moment later, muffled, stockinged footsteps pad lightly across the dark kitchen slate, deliberate and unhurried, before fading toward the front hall.
 
 Whoever locked the basement door knows about the dumbwaiter shaft. And they just pinned me deep below the slab until morning, cutting off both exits without saying a word. If I try forcing that cedar panel from a vertical iron ladder, I'll either break my wrists or fall backward down the masonry chute.
 

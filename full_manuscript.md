@@ -1398,7 +1398,7 @@ On the inner door frame, the tiny pinpoint LED above the mortise lock winks from
 
 The pinpoint red LED above the fire door glares steady against the dark concrete.
 
-I drop the padded manila envelope onto the steel worktable and bolt straight for the mortise handle, pressing my ear against cold painted steel. On the other side of the door, footsteps cross the foyer slate—unhurried, heavy-soled, fading toward the kitchen archway before a chair leg scrapes softly across tile.
+I drop the padded manila envelope onto the steel worktable and bolt straight for the mortise handle, pressing my ear against cold painted steel. On the other side of the door, footsteps cross the foyer slate—unhurried, soft-treaded, fading toward the kitchen archway before a chair leg scrapes softly across tile.
 
 I don't bother testing the rusted **B-4** key in the interior keyhole. From this side, there's no thumb-turn—only a smooth brass escutcheon plate and a heavy commercial deadbolt thrown strictly from the foyer hall. Whoever locked me in didn't just pull the door shut. They threw an exterior bolt that won't budge without a key from the other side.
 
@@ -1408,7 +1408,7 @@ I snatch my phone off the desk, keep the screen dimmed low, and cross in my damp
 
 I press one palm gently against the hinged cedar panel.
 
-It gives a fraction—then slams hard against something wedged across the outside shelves. Through the thin crack between the cleats, I hear the unmistakable scrape of a heavy oak kitchen chair braced tight under the louvered pantry doorknob, followed by the metallic *snick* of a deadbolt turning on the mudroom side. A moment later, a boot heel taps once on the kitchen slate, deliberate and unhurried, before moving away toward the front hall.
+It gives a fraction—then slams hard against something wedged across the outside shelves. Through the thin crack between the cleats, I hear the unmistakable scrape of a heavy oak kitchen chair braced tight under the louvered pantry doorknob, followed by the metallic *snick* of a deadbolt turning on the mudroom side. A moment later, muffled, stockinged footsteps pad lightly across the dark kitchen slate, deliberate and unhurried, before fading toward the front hall.
 
 Whoever locked the basement door knows about the dumbwaiter shaft. And they just pinned me deep below the slab until morning, cutting off both exits without saying a word. If I try forcing that cedar panel from a vertical iron ladder, I'll either break my wrists or fall backward down the masonry chute.
 
@@ -1593,7 +1593,7 @@ Julian hesitates for half a beat. A faint twitch pulls at the corner of his mout
 
 "You wrote the encryption," I say, tapping the flat of the wrench against my thigh. "Which means you have the master key upstairs. Move."
 
-He doesn't argue. He grabs a folded dish towel from the kitchen threshold, swabs the brackish puddle off the foyer slate in three tight strokes, and tosses the rag into the mudroom sink. I detour past the guest suite just long enough to pull on my dry spare sneakers and yank my duffel zipper shut. The $5,000 envelope is still inside, tucked under my folded shirts, though my spare key pocket hangs empty.
+He doesn't argue. He grabs a folded dish towel from the kitchen threshold, swabs the brackish puddle off the foyer slate in three tight strokes, shoves the kelp-crusted duck boots into the back of the foyer coat closet, and tosses the rag into the mudroom sink. I detour past the guest suite just long enough to pull on my dry spare sneakers and yank my duffel zipper shut. The $5,000 envelope is still inside, tucked under my folded shirts, though my spare key pocket hangs empty.
 
 Julian's study sits off the north hall, opposite the sunroom. Unlike the glass-and-cedar showcase rooms at the front of the house, this room is narrow, lined with dark acoustic baffling and floor-to-ceiling walnut shelving. The air smells like warm dust, cedar shavings, and the faint metallic tang of electronics running hot.
 
@@ -1905,7 +1905,7 @@ Evelyn set her coffee cup down without spilling a drop. Cold rain rattled the si
 
 She had expected Julian to hire a bonded estate liquidator from Camden—someone with cardboard boxes, bubble wrap, and zero curiosity about why a dead woman’s life jacket smelled like municipal tap water. An insurance fraud investigator was another matter entirely. Investigators got paid to spot discrepancies, and Julian had hired one on purpose.
 
-She pulled up Clara Vance’s name in a cached search browser on her burner. Two minutes later, she had the outline: fired by Harbor Mutual after an unsubstantiated arson accusation, buried under a forty-two-thousand-dollar civil judgment, living out of a duffel bag. Julian hadn't hired a cleaner. He had hired a cornered bloodhound who couldn't afford to walk away from a paycheck—and couldn't stop herself from pulling loose threads once she saw them.
+She pulled up Clara Vance’s name in a cached search browser on her burner. Two minutes later, she had the outline: fired by Harbor Mutual after an unsubstantiated arson accusation, buried under the remainder of a forty-two-thousand-dollar civil judgment, living out of a duffel bag. Julian hadn't hired a cleaner. He had hired a cornered bloodhound who couldn't afford to walk away from a paycheck—and couldn't stop herself from pulling loose threads once she saw them.
 
 Which meant Julian wasn't just trying to bury his trust theft before probate. He was using an outsider to flush out the frame.
 
@@ -2503,7 +2503,7 @@ Hollis's jaw tightens as he bags both items with gloved fingers. "And the rest?"
 
 Hollis scribbles fast on his damp notepad. "Anything else inside Zone Four?"
 
-"A heavy brass pipe wrench on the foam," I say. "Evelyn swung it at me in the dark."
+"A heavy brass pipe wrench on the foam," I say. "Evelyn swung it at me in the dark. And the rusted oyster knife I used to cut loose from the boathouse is lying on the foyer slate—I dropped it when I pulled her down from the skylight."
 
 Julian stands near an unmarked sedan by the edge of the drive, a uniformed trooper's hand resting lightly on his elbow while another officer takes his preliminary statement. Across the rain-swept gravel, Julian catches my eye. There's a quiet, desperate plea in his posture—the unspoken reminder of the fifty thousand dollars he offered me over a lit gas burner less than an hour ago, and the ten-thousand-dollar completion check I still haven't collected.
 
