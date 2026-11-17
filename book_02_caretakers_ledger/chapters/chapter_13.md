@@ -36,11 +36,15 @@ Maya exhales a short, bitter sound through her nose and eases herself back again
 
 I take two slow swallows, washing the coal grit off my tongue, then hand the steel cup back.
 
-"I didn't think she'd send you this fast," Maya says quietly, keeping one ear cocked toward the floorboards of Room 4 outside our louver. "I sent that cropped guest-ledger scan to *Mercer-Hall Fiduciary*'s overnight fax line Tuesday night after Arthur collapsed. I knew Sloane wouldn't recognize the slant of my `m`—or why I wrote *Don't trust him.* on the margin—but I knew her compliance desk would flag the Blackthorne Lodge header and pull your Maine file."
+"I knew Sloane would send you," Maya says quietly, keeping one ear cocked toward the floorboards of Room 4 outside our louver. "My whole cover as *Mara Abbott* was auditing Arthur's private trust through *Mercer-Hall Fiduciary*'s probate intake portal. Two weeks ago, an internal escrow alert popped across my screen when you turned down Julian Mercer's fifty-thousand-dollar bribe at Salt Point and handed Sloane's firm the unredacted ledger. Right below it sat Sloane's partner memo flagging you as her new primary quiet-clean field contractor."
 
-"Why *Don't trust him.*?" I ask, pulling the folded Guest Ledger page and the glossy Blackthorne photograph from my breast pocket. "You meant Hollis?"
+"That's why you sent the fax to Boston," I say, pulling the folded Guest Ledger page and the glossy Blackthorne photograph from my breast pocket. "You knew the second Arthur collapsed, Sloane would dispatch me before Friday's vesting deadline."
 
-"I meant Hollis, and I meant anyone who answers the door up here," Maya says. "When I heard your Civic crunch up the logging road Wednesday dusk, Hollis was already in the Great Hall burning the duplicate clinical manifests with lamp kerosene. He sliced the top sheet out of the Guest Ledger with his skinning knife because my alias—*Mara Abbott*—was still wet on the bottom line. Then your headlights hit the front gate."
+"Yes," Maya says. "And I couldn't write your name or sign mine on the lobby Guest Ledger. If Hollis saw *Clara* on that margin, he'd know *Mara Abbott* was connected to the Boston auditor and burn this lodge down with me inside before you ever left Portland. Writing *Don't trust him.* looked like a dead-end archivist note about Arthur. Sloane wouldn't know my left-leaning cursive from anyone else's—she'd just tape it to your briefing photo as proof her archivist vanished, while only you would recognize my handwriting and know *him* meant Hollis Greer."
+
+"And you knew Hollis would slice it out," I say.
+
+"He sliced the top sheet out Wednesday dusk with his skinning knife because my alias was still wet on the bottom line," Maya says. "He was already in the Great Hall burning duplicate clinical manifests with lamp kerosene when your headlights hit the front gate."
 
 She reaches out with her left hand and taps the **brass `ROOM 4 — ATTIC EAST` tag** resting in my palm.
 
