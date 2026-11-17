@@ -6,7 +6,8 @@
 - **Series Name:** A Clara Vance Thriller (Book 2)
 - **Author Name:** David Seelmann
 - **Copyright:** © 2026 David Seelmann
-- **Target Word Count:** ~50,000 words (25 chapters; ~1,750–2,200 words per chapter)
+- **Final Word Count:** 43,745 manuscript words across 25 chapters (45,089 total words including the 1,344-word Book 3 Chapter 1 Preview)
+- **Print Trim & Page Count:** 5.5" × 8.5" Trade Paperback — **160 pages** (KDP Spine Width: **0.400"** / 10.16 mm on Cream Paper; **0.360"** / 9.15 mm on White Paper)
 - **Enrollment:** KDP Select (Kindle Unlimited Exclusivity — 90-Day Term)
 - **Recommended Pricing:** $4.99 eBook (70% royalty tier + KU KENP page-read monetization) | $14.99 Trade Paperback (5.5" × 8.5", cream paper)
 

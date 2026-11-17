@@ -46,7 +46,7 @@ I take two slow swallows, washing the coal grit off my tongue, then hand the ste
 
 "He sliced the top sheet out Wednesday dusk with his skinning knife because my alias was still wet on the bottom line," Maya says. "He was already in the Great Hall burning duplicate clinical manifests with lamp kerosene when your headlights hit the front gate."
 
-She reaches out with her left hand and taps the **brass `ROOM 4 — ATTIC EAST` tag** resting in my palm.
+She reaches out with her left hand and taps the brass **ROOM 4 — ATTIC EAST** tag resting in my palm.
 
 "Hollis ducked into the study for his shotgun," Maya whispers. "I had ninety seconds. I dropped down the pantry dumbwaiter, grabbed the hide glue from the butler's shelf, and pressed that brass tag straight onto the tacky spine so you'd know where to look if Hollis locked you in. Then I climbed back up the shaft before he threw the third-floor deadbolt."
 
@@ -80,7 +80,7 @@ My beam catches a fresh *Noodler's Prussian Blue* sticky-note tab Maya left on t
 > *DISBURSED VIA: STATE STREET ESCROW ACCT #884-19B (BOSTON)*
 > *COURIER / CLEARANCE: H. GREER*
 
-I reach into my breast pocket and lay the **charred *Vane Biotech* voucher corner**—the one I pulled out of the study ash-trap yesterday evening—flat against the ruled margin. The `$145,000.00` payout figure matches to the cent.
+I reach into my breast pocket and lay the **charred Vane Biotech voucher corner**—the one I pulled out of the study ash-trap yesterday evening—flat against the ruled margin. The `$145,000.00` payout figure matches to the cent.
 
 My eyes drop past the dollar figures to the bottom authorization block, where two ink signatures certify the off-book disbursement.
 

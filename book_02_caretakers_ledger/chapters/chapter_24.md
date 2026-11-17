@@ -60,7 +60,7 @@ I reach past the wire slip on the steel tray table and push the blue privacy cur
 
 Sloane's jaw locks white beneath the plum bruise on her cheekbone, though she doesn't turn around or step back. She keeps her hands folded calmly inside the pockets of her borrowed trench coat while the state trooper beside the doorframe shifts his weight onto his heels.
 
-Maya stands up from the rolling chair, ignoring the sharp wince across her taped ribs, and walks straight past Sloane into the corridor. She unbuttons her navy fleece, draws the oilskin-wrapped **Caretaker's Ledger** clear, and places the original calfskin book directly into Halvorsen's gloved hands. Beside it, I drop two sealed hospital biohazard bags onto the courier's clipboard—the wrapped **crystal brandy stopper** and the **half-charred *nitroglycerin* rescue-spray canister** from my coat pocket.
+Maya stands up from the rolling chair, ignoring the sharp wince across her taped ribs, and walks straight past Sloane into the corridor. She unbuttons her navy fleece, draws the oilskin-wrapped **Caretaker's Ledger** clear, and places the original calfskin book directly into Halvorsen's gloved hands. Beside it, I drop two sealed hospital biohazard bags onto the courier's clipboard—the wrapped **crystal brandy stopper** and the **half-charred nitroglycerin rescue-spray canister** from my coat pocket.
 
 "Original paper, unbroken chain of custody," I tell Halvorsen from the gurney. "Page forty-four has the October 2020 escrow authorization. My sister's whistleblower immunity agreement goes on the record before she gives her formal statement."
 

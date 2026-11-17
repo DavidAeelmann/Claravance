@@ -46,7 +46,7 @@ The plastic relay snaps free in my steel jaws with a faint dry crack. Instantly,
 
 Celeste kicks wildly at my shins with her leather boot, her pale hair whipping across her soot-streaked cheeks. "You think you won?" she spits, grabbing at the door pillar to keep from hitting the snow. "You're standing in the middle of nowhere with a dead satellite tracker and zero cell bars! Even if you survive tonight, Sloane Mercer-Hall will bury your sister's ledger under six layers of federal injunctions before noon—and the thirty-eight million still vests to me at five! Nobody's coming up that road before Saturday!"
 
-I reach into my right coat pocket with my free hand and hold the wrapped **crystal brandy stopper** and the **half-charred silver *nitroglycerin* rescue-spray canister** straight in front of her face. With my thumb, I pin the folded **three-page Survivorship Covenant** against the glass stopper so she sees every piece of her timeline at once.
+I reach into my right coat pocket with my free hand and hold the wrapped **crystal brandy stopper** and the **half-charred silver nitroglycerin rescue-spray canister** straight in front of her face. With my thumb, I pin the folded **three-page Survivorship Covenant** against the glass stopper so she sees every piece of her timeline at once.
 
 In the orange firelight from the burning barn, the faceted glass still gleams faintly with **compounded lavender cuticle oil**—the exact signature of the woman who stood beside Arthur's study desk at eleven-forty Tuesday night while his walnut cane sat untouched in the mudroom rack. The sweet, medicinal scent cuts straight through the cold diesel smoke.
 
