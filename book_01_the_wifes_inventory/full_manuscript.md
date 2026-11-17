@@ -1879,7 +1879,7 @@ Julian was asleep upstairs, two floors above the acoustic baffling. Even so, the
 
 "You're smearing the—" Cole caught himself, lowering his voice as she wiped a dark smudge of harbor grease off the wood. "Nobody's checking the oarlocks at five in the morning, Evie."
 
-Evelyn laughed softly, the tension of the squall finally bleeding out of her shoulders. The skiff was already drifting past the outer rocks with its transponder dead. By noon tomorrow, she would be across the New Brunswick line under her secondary passport, waiting for Julian to hang himself in probate.
+Evelyn laughed softly, the tension of the squall finally bleeding out of her shoulders. The skiff was prepped at the slipway with its transponder dead, ready for Cole to tow past the outer rocks on his launch. By noon tomorrow, she would be across the New Brunswick line under her secondary passport, waiting for Julian to hang himself in probate.
 
 "Leave the Montblanc on the blotter," she added as they moved toward the sunroom arch, her voice dropping back to business. "If Julian wants to play tidy widower, let him explain why the ink's still wet. And grab his spare rain slicker from the mudroom peg before you go—give the exterior infrared camera something to archive in case he fights the probate audit."
 
@@ -1917,7 +1917,7 @@ Evelyn hesitated for a fraction of a second. Her secondary papers were in the bo
 
 She slid her primary passport across the counter instead. A private marina scan in New Brunswick wouldn't ping Knox County Sheriff’s dispatch. Even if it logged on an automated border manifest, Cole would bury any routine inquiry at the county desk before a state trooper ever saw it.
 
-The crossing took nearly five hours down the coast in chopping gray swells, diesel exhaust hanging thick in the wheelhouse air. By Wednesday afternoon, Evelyn was back on Salt Point, dropped onto the slick granite shelf below the eastern headland before the fog closed in. She waited until the water taxi’s wake dissolved into the white surf, then scrambled up the wet kelp ledges toward the cove.
+The crossing took nearly five hours down the coast in chopping gray swells, diesel exhaust hanging thick in the wheelhouse air. By Tuesday afternoon, Evelyn was back on Salt Point, laying low in the eastern headland cabin until Wednesday, dropped onto the slick granite shelf below the eastern headland before the fog closed in. She waited until the water taxi’s wake dissolved into the white surf, then scrambled up the wet kelp ledges toward the cove.
 
 Down the shoreline, Maren Lindqvist’s oyster shack sat quiet, smoke curling thin and gray from the tin chimney. Maren had taken five thousand dollars in cash to keep her mouth shut; even if Clara Vance poked around the cove, Maren wouldn't risk her commercial license by naming names.
 
@@ -1925,7 +1925,7 @@ Evelyn skirted the tide line, crept beneath the cedar eaves of the Mercer boatho
 
 ***
 
-Late Wednesday afternoon, while Julian was still driving up from Portland and Clara Vance walked down the wet slate path toward Maren Lindqvist’s shack, Evelyn used the pantry keypad code to slip inside the empty glass house. She had already ducked in once on Monday afternoon—minutes before Julian's Audi pulled in with Clara—to shove her olive-canvas weekender, still clipped with its October 17 New Brunswick ferry tag, deep behind Julian's coats in the foyer closet.
+Late Wednesday afternoon, while Julian was still driving up from Portland and Clara Vance walked down the wet slate path toward Maren Lindqvist’s shack, Evelyn used the pantry keypad code to slip inside the empty glass house. Cole had already shoved her spare olive-canvas weekender—still clipped with its October 17 Bar Harbor ferry tag—deep behind Julian's coats on Sunday night after bleaching the sunroom floorboards, planting one more piece of bait in the foyer closet.
 
 She didn't turn on a single overhead light. She moved along the cedar floorboards in dry socks, taking in the familiar scent of Julian’s unscented soap and lemon oil, undercut by stale bourbon from the study. The house felt different with a stranger living in it—chairs angled slightly off their marks, a mug left drying beside the sink.
 
@@ -1951,7 +1951,7 @@ All she had to do was wake the cellular bridge within range of the house hub tom
 
 ***
 
-At 2:14 AM on Thursday, Evelyn slipped back inside the quiet house through the service porch and stood in the dark shadow of the kitchen island, waiting to confirm Julian’s sedative-laced bourbon had finished knocking him flat on the living room sofa. His glass sat half-empty on the coffee table, his breathing slow and heavy from the armchair.
+At 2:14 AM on Thursday, Evelyn slipped back inside the quiet house through the service porch and stood in the dark shadow of the kitchen island, expecting to find Clara knocked out upstairs and Julian asleep in his room—only to find Julian slumped flat on the living room sofa instead, his breathing slow and heavy beside the half-empty spiked glass he had poured for himself by mistake.
 
 A sharp metallic *click* echoed from the narrow pantry corridor.
 
@@ -2037,7 +2037,7 @@ She says it cleanly, without a trace of doubt, like she's reading off an invoice
 
 "You didn't even leave the life jacket salty," I push, shifting my wrists quietly higher behind the piling until the taut nylon ridge between my palms presses squarely against the rusted steel edge of the oyster knife. "Cole soaked it in the mudroom sink with tap water. That's sloppy, Evelyn. Even a rookie medical examiner checks for salt residue."
 
-Evelyn smiles—a thin, cold curve of her mouth. "Cole wrote the report, Clara. There won't be a second medical examiner, because there won't be a body until the crabs are finished with it. Just like nobody checked the Montblanc nib, or the Ambien I dissolved in the master sink, or the weekender I shoved behind his coats on Monday. You spent four days cataloging a dead woman's house, and you never realized the whole inventory was staged to trigger a Slayer Statute forfeiture and buy me time until the insurance trust cleared."
+Evelyn smiles—a thin, cold curve of her mouth. "Cole wrote the report, Clara. There won't be a second medical examiner, because there won't be a body until the crabs are finished with it. Just like nobody checked the Montblanc nib, or the Ambien I dissolved in the master sink, or the weekender we shoved behind his coats before you arrived. You spent four days cataloging a dead woman's house, and you never realized the whole inventory was staged to trigger a Slayer Statute forfeiture and buy me time until the insurance trust cleared."
 
 ***
 
@@ -2111,11 +2111,11 @@ I press flat against the wet kelp ledge until Evelyn turns back toward the cliff
 
 I haul myself onto the slick granite shelf, shivering so hard my knees buckle twice against the stone. My left wrist—gashed deep by the rusted blade and frayed zip tie—throbs furiously where salt water hits the open cut. My fingers are stiff, blue-white around the knuckles, yet my right hand is still locked around the swollen oak handle of the rusted oyster knife.
 
-I press my left palm flat against my jeans watch pocket. Through the soaked denim, I feel the hard rectangular ridge of the encrypted matte-black thumb drive, the **B-4** mortise key, and the heavy brass front-door key. Still there. My pocket steel multi-tool sits intact in my right front pocket beside the damp nitrile gloves and the soaked Salt Point harbor receipt I shoved there Monday after buying packing tape.
+I press my left palm flat against my jeans watch pocket. Through the soaked denim, I feel the hard rectangular ridge of the encrypted matte-black thumb drive, the **B-4** mortise key, and the heavy brass front-door key. Still there. My pocket steel multi-tool sits intact in my right front pocket beside the damp nitrile gloves and the soaked Salt Point harbor receipt I shoved there Tuesday after buying packing tape.
 
 I don't have a phone, and I don't have a dry stitch of clothing. What I have is one shot to reach Julian's basement acoustic drive before Cole and Evelyn lock down the glass house and wait for high water to drown us both. Even if I tried to hike the shoreline north toward the mainland woods, the granite bluffs pinch off into sheer cliffs past the headland. There is no back road off Salt Point once the storm surge takes the causeway.
 
-I stumble across the crushed oyster shells toward Maren's dark shack, half-hoping to see her oilskin coat or a kerosene lamp behind the salt-crusted glass. The padlock on her shed door hangs tight. Her aluminum skiff sits chained high above the tide line, empty and dripping, and the gravel turnout beside her shack stands bare—no rusted pickup truck parked under the pines. Tire ruts cut fresh through the wet pine needles, pointing up toward the harbor road. Wherever Maren drove this afternoon, she left before the storm peaked. I pull the soaked harbor receipt from my pocket, press it flat against the cedar clapboard, and scratch eight jagged words into the damp paper with the point of the oyster knife—*CALL STATE POLICE — FRAME AT MERCER HOUSE*—before wedging the folded slip tight behind Maren's door latch where she can't miss it when she gets back.
+I stumble across the crushed oyster shells toward Maren's dark shack, half-hoping to see her oilskin coat or a kerosene lamp behind the salt-crusted glass. The padlock on her shed door hangs tight. Her aluminum skiff sits chained high above the tide line, empty and dripping, and the gravel turnout beside her shack stands bare—no rusted pickup truck parked under the pines. Tire ruts cut fresh through the wet pine needles, pointing up toward the harbor road. Wherever Maren drove this afternoon, she left before the storm peaked. I pull the soaked harbor receipt from my pocket, press it flat against the cedar clapboard, and scratch seven jagged words into the damp paper with the point of the oyster knife—*CALL STATE POLICE — FRAME AT MERCER HOUSE*—before wedging the folded slip tight behind Maren's door latch where she can't miss it when she gets back.
 
 Behind me, white surf booms hard against the boathouse pilings, showering the oyster-shell apron with bitter spray. I turn toward the base of the cliff stairs, grip the wet granite rail, and start climbing.
 

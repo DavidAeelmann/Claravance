@@ -18,7 +18,7 @@ Evelyn hesitated for a fraction of a second. Her secondary papers were in the bo
 
 She slid her primary passport across the counter instead. A private marina scan in New Brunswick wouldn't ping Knox County Sheriff’s dispatch. Even if it logged on an automated border manifest, Cole would bury any routine inquiry at the county desk before a state trooper ever saw it.
 
-The crossing took nearly five hours down the coast in chopping gray swells, diesel exhaust hanging thick in the wheelhouse air. By Wednesday afternoon, Evelyn was back on Salt Point, dropped onto the slick granite shelf below the eastern headland before the fog closed in. She waited until the water taxi’s wake dissolved into the white surf, then scrambled up the wet kelp ledges toward the cove.
+The crossing took nearly five hours down the coast in chopping gray swells, diesel exhaust hanging thick in the wheelhouse air. By Tuesday afternoon, Evelyn was back on Salt Point, laying low in the eastern headland cabin until Wednesday, dropped onto the slick granite shelf below the eastern headland before the fog closed in. She waited until the water taxi’s wake dissolved into the white surf, then scrambled up the wet kelp ledges toward the cove.
 
 Down the shoreline, Maren Lindqvist’s oyster shack sat quiet, smoke curling thin and gray from the tin chimney. Maren had taken five thousand dollars in cash to keep her mouth shut; even if Clara Vance poked around the cove, Maren wouldn't risk her commercial license by naming names.
 
@@ -26,7 +26,7 @@ Evelyn skirted the tide line, crept beneath the cedar eaves of the Mercer boatho
 
 ***
 
-Late Wednesday afternoon, while Julian was still driving up from Portland and Clara Vance walked down the wet slate path toward Maren Lindqvist’s shack, Evelyn used the pantry keypad code to slip inside the empty glass house. She had already ducked in once on Monday afternoon—minutes before Julian's Audi pulled in with Clara—to shove her olive-canvas weekender, still clipped with its October 17 New Brunswick ferry tag, deep behind Julian's coats in the foyer closet.
+Late Wednesday afternoon, while Julian was still driving up from Portland and Clara Vance walked down the wet slate path toward Maren Lindqvist’s shack, Evelyn used the pantry keypad code to slip inside the empty glass house. Cole had already shoved her spare olive-canvas weekender—still clipped with its October 17 Bar Harbor ferry tag—deep behind Julian's coats on Sunday night after bleaching the sunroom floorboards, planting one more piece of bait in the foyer closet.
 
 She didn't turn on a single overhead light. She moved along the cedar floorboards in dry socks, taking in the familiar scent of Julian’s unscented soap and lemon oil, undercut by stale bourbon from the study. The house felt different with a stranger living in it—chairs angled slightly off their marks, a mug left drying beside the sink.
 
@@ -52,7 +52,7 @@ All she had to do was wake the cellular bridge within range of the house hub tom
 
 ***
 
-At 2:14 AM on Thursday, Evelyn slipped back inside the quiet house through the service porch and stood in the dark shadow of the kitchen island, waiting to confirm Julian’s sedative-laced bourbon had finished knocking him flat on the living room sofa. His glass sat half-empty on the coffee table, his breathing slow and heavy from the armchair.
+At 2:14 AM on Thursday, Evelyn slipped back inside the quiet house through the service porch and stood in the dark shadow of the kitchen island, expecting to find Clara knocked out upstairs and Julian asleep in his room—only to find Julian slumped flat on the living room sofa instead, his breathing slow and heavy beside the half-empty spiked glass he had poured for himself by mistake.
 
 A sharp metallic *click* echoed from the narrow pantry corridor.
 

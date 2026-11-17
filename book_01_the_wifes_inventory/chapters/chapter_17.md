@@ -74,7 +74,7 @@ Julian was asleep upstairs, two floors above the acoustic baffling. Even so, the
 
 "You're smearing the—" Cole caught himself, lowering his voice as she wiped a dark smudge of harbor grease off the wood. "Nobody's checking the oarlocks at five in the morning, Evie."
 
-Evelyn laughed softly, the tension of the squall finally bleeding out of her shoulders. The skiff was already drifting past the outer rocks with its transponder dead. By noon tomorrow, she would be across the New Brunswick line under her secondary passport, waiting for Julian to hang himself in probate.
+Evelyn laughed softly, the tension of the squall finally bleeding out of her shoulders. The skiff was prepped at the slipway with its transponder dead, ready for Cole to tow past the outer rocks on his launch. By noon tomorrow, she would be across the New Brunswick line under her secondary passport, waiting for Julian to hang himself in probate.
 
 "Leave the Montblanc on the blotter," she added as they moved toward the sunroom arch, her voice dropping back to business. "If Julian wants to play tidy widower, let him explain why the ink's still wet. And grab his spare rain slicker from the mudroom peg before you go—give the exterior infrared camera something to archive in case he fights the probate audit."
 

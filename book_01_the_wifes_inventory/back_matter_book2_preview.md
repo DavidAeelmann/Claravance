@@ -7,11 +7,11 @@ Tire chains bite hard into packed mountain ice, rattling up through the floorboa
 
 Outside my salted windshield, the Northeast Kingdom of Vermont looks nothing like the Maine coast. There is no open water here, no foghorns groaning across a harbor channel, and no tide clock counting down the hours. Instead, towering black spruce crowd both edges of the unplowed logging road, their boughs bent low under fresh snow that swallows headlights ten paces ahead.
 
-On the passenger seat beside me sits my faded navy canvas duffel, zipped tight over forty-five thousand dollars' worth of new nondisclosure paperwork from Mercer-Hall Fiduciary. Tucked into the cup holder, resting atop the folded copy of my restored Maine private investigator bond, is the heavy brass skeleton key Sloane Mercer-Hall slid across the table at Becky's Diner yesterday morning.
+On the passenger seat beside me sits my faded navy canvas duffel, zipped tight over forty-five thousand dollars' worth of new nondisclosure paperwork from Mercer-Hall Fiduciary. Tucked into the cup holder, resting atop the folded copy of my restored Maine private investigator bond, is the heavy brass skeleton key Sloane Mercer-Hall slid across the table at Becky's Diner this morning.
 
 Even inside the heated cab, the key smells faintly of cold iron and pine resin.
 
-My left wrist still itches beneath my wool cuff where the Salt Point stitches came out, a thin pink ridge against pale skin. Twenty-four hours ago, I had a ten o'clock interview lined up on Congress Street for a daylight desk job auditing flooded boat hulls. Safe work. Clean chain-of-custody. Zero locked rooms.
+My left wrist still itches beneath my wool cuff where the Salt Point stitches came out, a thin pink ridge against pale skin. Seven hours ago, I had a ten o'clock interview lined up on Congress Street for a daylight desk job auditing flooded boat hulls. Safe work. Clean chain-of-custody. Zero locked rooms.
 
 Then Sloane flipped a glossy photograph over on the diner Formica and showed me three words written in my younger sister's slanted, left-leaning cursive in the corner of a mountain guest ledger:
 

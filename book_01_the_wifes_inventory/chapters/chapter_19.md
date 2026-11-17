@@ -56,7 +56,7 @@ She says it cleanly, without a trace of doubt, like she's reading off an invoice
 
 "You didn't even leave the life jacket salty," I push, shifting my wrists quietly higher behind the piling until the taut nylon ridge between my palms presses squarely against the rusted steel edge of the oyster knife. "Cole soaked it in the mudroom sink with tap water. That's sloppy, Evelyn. Even a rookie medical examiner checks for salt residue."
 
-Evelyn smiles—a thin, cold curve of her mouth. "Cole wrote the report, Clara. There won't be a second medical examiner, because there won't be a body until the crabs are finished with it. Just like nobody checked the Montblanc nib, or the Ambien I dissolved in the master sink, or the weekender I shoved behind his coats on Monday. You spent four days cataloging a dead woman's house, and you never realized the whole inventory was staged to trigger a Slayer Statute forfeiture and buy me time until the insurance trust cleared."
+Evelyn smiles—a thin, cold curve of her mouth. "Cole wrote the report, Clara. There won't be a second medical examiner, because there won't be a body until the crabs are finished with it. Just like nobody checked the Montblanc nib, or the Ambien I dissolved in the master sink, or the weekender we shoved behind his coats before you arrived. You spent four days cataloging a dead woman's house, and you never realized the whole inventory was staged to trigger a Slayer Statute forfeiture and buy me time until the insurance trust cleared."
 
 ***
 
