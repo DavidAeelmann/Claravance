@@ -2,7 +2,7 @@
 
 The steel breaker-box door groans softly on its hinges around the corner of the pantry corridor.
 
-I stay frozen on the second-to-last tread of the back service stairs, one hand braced against cool plaster, wool socks gripping the painted pine. Below me, the narrow service hall runs between the kitchen's limestone island and the walk-in cedar pantry. If Deputy Cole Halstead steps two paces left to glance up this stairwell, he'll catch me standing here without shoes, clutching a phone whose guest-app feed just went dead.
+I stay frozen on the second-to-last tread of the back service stairs, one hand braced against cool plaster, stockinged heels gripping the painted pine. Below me, the narrow service hall runs between the kitchen's limestone island and the walk-in cedar pantry. If Deputy Cole Halstead steps two paces left to glance up this stairwell, he'll catch me standing here without shoes, clutching a phone whose guest-app feed just went dead.
 
 A heavy toggle switch snaps down inside the metal panel. The refrigerator compressor in the kitchen dies with a long, shuddering sigh, followed by the faint high-pitched whine of an uninterruptible battery backup taking load under the sink.
 
@@ -90,7 +90,7 @@ My stomach knots tight enough to burn.
 
 *She's taking too long.* He isn't talking about Evelyn. He's talking about *me*. And whoever is on the other end of that burner phone isn't Julian Mercer—because Julian already moved the Boston probate deadline to Thursday night over soup yesterday. Unless someone else is running a parallel clock inside this house, and I just walked straight into the middle of it. My throat feels scraped raw as I force myself to breathe silently through my nose, terrified the slightest whistle of air will carry through the louvers.
 
-Halstead listens for two more beats, his mouth flattening into a hard line. Outside, a gust of harbor wind rattles the glass pantry entry door in its weatherstripping, sending a cold draft straight under the cedar threshold across my wool socks.
+Halstead listens for two more beats, his mouth flattening into a hard line. Outside, a gust of harbor wind rattles the glass pantry entry door in its weatherstripping, sending a cold draft straight under the cedar threshold across my ankles.
 
 "I know what the courier thinks," Halstead says, his voice dropping low enough that I have to strain against the refrigerator's battery hum to catch every syllable. "Just keep the cove clear until dusk. I'll pull the rest before anyone from Boston sets foot on the causeway."
 

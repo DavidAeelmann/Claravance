@@ -8,7 +8,7 @@ The trunk lid hovers open just enough to show a dark seam above the bumper latch
 
 "Cole doesn't have a warrant yet," I say. "If he did, he wouldn't have waited until morning to kick the door in. He's building the paper trail first."
 
-I step back from the foyer arch, my damp wool socks squelching faintly against the stone. My feet are numb. Exhaustion sits behind my eyes like wet sand, heavy and grit-sharp, reminding me I haven't slept since Tuesday night. If I walk out right now, I leave my $5,000 retainer on the table, let a sheriff's deputy pull me over on the causeway with a trunk full of someone else's mud, and watch my last shot at clearing $18,412 in court debt evaporate before noon.
+I step back from the foyer arch, my damp wool socks squelching faintly against the stone. My feet are numb. Exhaustion sits behind my eyes like wet sand, heavy and grit-sharp, reminding me I haven't slept since Tuesday night. If I walk out right now, I leave my $5,000 retainer on the table, let a sheriff's deputy pull me over on the causeway with a trunk full of someone else's mud, and kiss my last shot at clearing my court debt goodbye before noon.
 
 "Get a towel for the floor," I tell him. "Then take me to your study. All of it—the server rack, the admin key, whatever you hid behind that basement partition."
 
@@ -18,7 +18,7 @@ Julian hesitates for half a beat. A faint twitch pulls at the corner of his mout
 
 He doesn't argue. He grabs a folded dish towel from the kitchen threshold, swabs the brackish puddle off the foyer slate in three tight strokes, shoves the kelp-crusted duck boots into the back of the foyer coat closet, and tosses the rag into the mudroom sink. I detour past the guest suite just long enough to pull on my dry spare sneakers and yank my duffel zipper shut. The $5,000 envelope is still inside, tucked under my folded shirts, though my spare key pocket hangs empty.
 
-Julian's study sits off the north hall, opposite the sunroom. Unlike the glass-and-cedar showcase rooms at the front of the house, this room is narrow, lined with dark acoustic baffling and floor-to-ceiling walnut shelving. The air smells like warm dust, cedar shavings, and the faint metallic tang of electronics running hot.
+Julian's study sits off the north hall, opposite the sunroom. Unlike the glass-and-cedar showcase rooms at the front of the house, this room is narrow, lined with dark acoustic baffling and floor-to-ceiling walnut shelving. The air smells like warm dust and cedar shavings, overlaid with the faint metallic tang of electronics running hot.
 
 In the corner, behind a smoked-glass cabinet door, a black steel server rack hums steadily. Blue and amber status LEDs blink behind the perforated mesh.
 
@@ -74,7 +74,7 @@ Static fills the study—the low, rhythmic hiss of rain drumming on coastal glas
 
 "That's the pantry corridor," I murmur, skin prickling along my forearms. "The dumbwaiter hatch."
 
-Footsteps scuff across stone—wet rubber soles squeaking faintly against slate. Then a muffled grunt as something heavy brushes the cedar wall.
+Footsteps scuff across stone—wet rubber soles squeaking faintly against slate. Then a muffled grunt as someone drags a heavy canvas bundle past the sunroom arch, brushing the cedar wall.
 
 *"Careful with the varnish,"* a woman's voice cuts through the static.
 

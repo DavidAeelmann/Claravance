@@ -54,23 +54,23 @@ Beside the rescue rig's diesel-rumbling fender, Maren Lindqvist stands in her ye
 
 A plainclothes Maine State Police detective—lean, gray-templed, wearing a drenched nylon windbreaker with a badge clipped to his belt—steps away from the open rear hatch of the tactical rig and walks over with a clipboard and an evidence box.
 
-"Ms. Vance," he says. "Detective Sergeant Hollis. My techs just pulled the UPS-backed RAID server out of that basement darkroom. Your boathouse audio stream came through clean—every word Mrs. Mercer spoke over that intercom."
+"Ms. Vance," he says. "Detective Sergeant Ward. My techs just pulled the UPS-backed RAID server out of that basement darkroom. Your boathouse audio stream came through clean—every word Mrs. Mercer spoke over that intercom."
 
 "Good," I say, lifting the faded navy canvas duffel off my shoulder and setting it squarely on the tailgate of the rescue rig. "Because that's only half of it."
 
-Hollis pauses, his pen hovering over the plastic evidence seal. "What else do you have?"
+Ward pauses, his pen hovering over the plastic evidence seal. "What else do you have?"
 
 I unzip the duffel and lay the items out one by one under the harsh rig floodlights, keeping my hands steady despite the cold biting into my scraped palm.
 
 First, I set down the encrypted matte-black thumb drive (`RAW_BUFFER_OCT14_15`). "Raw acoustic server buffer from the night of October fourteenth. Logs a sixty-eight-decibel glass-and-latch spike in the pantry corridor at two-fourteen a.m.—three hours after Evelyn's skiff supposedly went down."
 
-Next, I lay the yellow warning slip beside it. "Deputy Halstead wrote this left-handed during a traffic stop Tuesday afternoon. Match his slant and pressure against the left-handed ink wear on Evelyn's silver Montblanc. She dropped it in the sunroom at two-fourteen; Cole picked it up."
+Next, I lay the yellow warning slip beside it. "Deputy Halstead wrote this left-handed during a traffic stop Tuesday afternoon. Match his slant and pressure against the left-handed ink wear on that silver Montblanc. It's Cole's own pen—he left it uncapped on the studio blotter at two-fourteen to frame Julian."
 
-Hollis's jaw tightens as he bags both items with gloved fingers. "And the rest?"
+Ward's jaw tightens as he bags both items with gloved fingers. "And the rest?"
 
 "Check peg two in the mudroom," I say, nodding toward the glass house. "There's a crisp orange life jacket hung up to dry—wet with tap water, zero sea salt. Check the spare-tire well of my silver Honda Civic in the turnaround for a bronze cleat and a bleach-stained boat rag Evelyn planted to tie me to the sunroom floor. And in the master bath, pull the brass sink U-bend—you'll find dissolved Ambien residue from where Evelyn tested doses before she staged her drowning."
 
-Hollis scribbles fast on his damp notepad. "Anything else inside Zone Four?"
+Ward scribbles fast on his damp notepad. "Anything else inside Zone Four?"
 
 "A heavy brass pipe wrench on the foam," I say. "Evelyn swung it at me in the dark. And the rusted oyster knife I used to cut loose from the boathouse is lying on the foyer slate—I dropped it when I pulled her down from the skylight."
 
@@ -82,23 +82,23 @@ I look straight back at Julian, then reach deep into my duffel and pull out the 
 
 I lay it flat on the metal tailgate.
 
-"And this," I tell Hollis. "Julian Mercer's unredacted trust ledger. Two point four million dollars embezzled from Evelyn's late father's estate, complete with forged probate initials. He tried to burn it on the kitchen stove tonight so nobody would look past his wife's frame job."
+"And this," I tell Ward. "Julian Mercer's unredacted trust ledger. Two point four million dollars embezzled from Evelyn's late father's estate, complete with forged probate initials. He tried to burn it on the kitchen stove tonight so nobody would look past his wife's frame job."
 
 Across the gravel, Julian's shoulders drop. He closes his eyes, turns his head away from the floodlights, and doesn't fight when the trooper reaches for his wrists.
 
-Hollis stares down at the thick manila envelope, then up at me. "You worked for him, Ms. Vance. Under an NDA."
+Ward stares down at the thick manila envelope, then up at me. "You worked for him, Ms. Vance. Under an NDA."
 
 "The NDA doesn't cover felony fraud or attempted arson," I say. "Take all of it. Every page."
 
 ***
 
-An hour later, the storm has thinned to a cold, steady drizzle. Most of the gravel forecourt has cleared out, leaving only the ambulance bay lit by humming overhead LEDs and the smell of wet pine, antiseptic gauze, and diesel exhaust hanging thick in the air.
+An hour later, the storm has thinned to a cold, steady drizzle. Most of the gravel forecourt has cleared out, leaving only the ambulance bay lit by humming overhead LEDs and the smell of wet pine and diesel exhaust, sharp with antiseptic gauze hanging thick in the air.
 
-I sit on the edge of the ambulance step, letting a paramedic tape clean gauze over my raw left wrist while a fresh paper cup of black coffee warms my stiff fingers. The wool blanket smells faintly of bleach and cedar smoke. My knees ache every time I shift my weight, yet for the first time in four days, nobody is watching me through glass, and nobody is waiting on the other side of a locked door.
+I sit on the edge of the ambulance step, letting a paramedic finish knotting three neat stitches across my gashed left wrist and tape clean gauze over the seam while a fresh paper cup of black coffee warms my stiff fingers. The wool blanket smells faintly of bleach and cedar smoke. My knees ache every time I shift my weight, yet for the first time in four days, nobody is watching me through glass, and nobody is waiting on the other side of a locked door.
 
-Detective Hollis walks back over from the crime-scene tape strung across the Mercer porch. His windbreaker drips onto the wet gravel. In his gloved hand, he holds a crisp, uncreased white envelope sealed with waxless adhesive.
+Detective Ward walks back over from the crime-scene tape strung across the Mercer porch. His windbreaker drips onto the wet gravel. In his gloved hand, he holds a crisp, uncreased white envelope sealed with waxless adhesive.
 
-"We finished the inventory search on the heavy wool overcoat Mr. Mercer grabbed from the foyer closet before transport," Hollis says, stopping just inside the yellow glow of the ambulance bay. "Found this tucked in the inner breast pocket, sealed and addressed to you. No forensic relevance to the assault or the embezzlement, so we're releasing it as personal property."
+"We finished the inventory search on the heavy wool overcoat Mr. Mercer grabbed from the foyer closet before transport," Ward says, stopping just inside the yellow glow of the ambulance bay. "Found this tucked in the inner breast pocket, sealed and addressed to you. No forensic relevance to the assault or the embezzlement, so we're releasing it as personal property."
 
 I set my coffee cup down on the metal step and take the envelope. The paper is heavy, cotton-stock stationery—nothing like the cheap manila folders Julian kept in his study.
 

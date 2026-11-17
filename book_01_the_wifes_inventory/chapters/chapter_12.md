@@ -1,6 +1,6 @@
 # Chapter 12
 
-I lean over the steel worktable, keeping my wool socks planted flat on the rubber mat so I don't jar the aluminum tripod again.
+I lean over the steel worktable, keeping my heels planted flat on the rubber mat so I don't jar the aluminum tripod again.
 
 On the left studio monitor, Julian Mercer stays frozen mid-stride in his hooded rain slicker, both gloved hands clamped around the knotted end of a heavy rolled canvas rug. Behind his heels, the sunroom patio doors stand cracked open to the October fourteenth gale, rain streaking diagonally across the infrared lens. Ahead of him, the boathouse slip hatch yawns black.
 
@@ -68,7 +68,7 @@ A heavy chrome cam lock secures the center handle, its brass keyway scratched fr
 
 I slip the B-4 key back into my pocket, double-checking that the heavy brass front-door key and my folded tide strip are still tucked safely beside it, and unfold the narrow steel pry blade on my multi-tool.
 
-Time is running out. My wool socks are damp from the cold concrete edge near the wall, and every instinct warns me I've already stayed down here five minutes too long. Upstairs, the house is silent, yet the swinging hemp rope in the dumbwaiter shaft proved somebody was standing right where I'm standing less than twenty minutes ago. If whoever used that shaft comes back for the drive or the cabinet, there's nowhere to hide down here except that pitch-black northeast acoustic corner.
+Time is running out. My soles are damp from the cold concrete edge near the wall, and every instinct warns me I've already stayed down here five minutes too long. Upstairs, the house is silent, yet the swinging hemp rope in the dumbwaiter shaft proved somebody was standing right where I'm standing less than twenty minutes ago. If whoever used that shaft comes back for the drive or the cabinet, there's nowhere to hide down here except that pitch-black northeast acoustic corner.
 
 I slide the flat steel tip into the narrow seam between the cabinet door and its steel frame, just above the chrome cam latch, and brace my left shoulder against the side panel. Cold enamel bites through my flannel sleeve. I throw my weight into the handle, twisting the multi-tool slowly so the blade won't snap against the hardened lock plate. For two endless seconds, the steel resists, my fingers cramping around the folded handle as sweat cools down my spine. Then the metal groans softly—once, twice—before the cheap cam tongue bends inward with a sharp *snap* of yielding steel that sounds deafeningly loud inside the foam-lined room.
 

@@ -12,7 +12,7 @@ He has changed out of his charcoal suit into a dark merino crewneck, though his 
 
 "I'm fine with water, Julian."
 
-"Nonsense. You've been hauling boxes alone all day." He pours two fingers of amber bourbon into a pair of heavy cut-crystal rocks glasses and carries them over without waiting for an answer. He sets one on the slate coaster nearest my elbow and keeps the other in his left hand—no, his right hand—while lowering himself into the armchair opposite mine. "Besides, we need to lock down tomorrow's schedule before the Boston courier drives out."
+"Nonsense. You've been hauling boxes alone all day." He pours two fingers of amber bourbon into a pair of heavy cut-crystal rocks glasses and carries them over without waiting for an answer. He sets one on the slate coaster nearest my elbow and keeps the other in his right hand while lowering himself into the armchair opposite mine. "Besides, we need to lock down tomorrow's schedule before the Boston courier drives out."
 
 I stare at the amber liquid catching the firelight. There's no ice in either glass, just neat bourbon—and near the bottom curve of my tumbler, a faint pale sediment swirls slowly through the liquor like undissolved chalk.
 
@@ -50,7 +50,7 @@ If there's crushed zolpidem at the bottom of that bourbon, Julian can drink his 
 
 From the kitchen comes the muffled clatter of ice cubes hitting a stainless-steel bucket, followed by Julian's voice dropping low near the pantry corridor. He's pacing while he argues with Boston—snapping curtly about a bridge extension and an escrow holdback—which buys me two minutes, maybe three, before he hangs up and walks back through that arch.
 
-I slip off the sofa in my wool socks and cross silently through the open pocket doors into Julian's glass-walled study.
+I slip off the sofa without a sound and cross through the open pocket doors into Julian's glass-walled study.
 
 The room smells of lemon furniture oil and cold stone. No desk lamp burns inside, just the pale spill of the living room firelight across the wide walnut blotter. Yesterday morning this desk looked sterile as a model home. Tonight, a thick leather portfolio sits crooked beside the silver inkwell, and a strip-cut paper shredder tucked under the return hums faintly with a solid red **JAM** light, strips of cream bond paper wedged tight between its steel teeth. A half-torn wire-transfer receipt sticks out of the wastebasket below it, smudged with black toner.
 
@@ -82,7 +82,7 @@ Julian drinks.
 
 He takes a slow, measured swallow, his gray eyes fixed steadily on mine over the crystal rim. He doesn't grimace. He doesn't spit it out or pause mid-sip. He swallows cleanly and sets the glass back on the tray, wiping a drop off his thumb.
 
-My chest feels hollow. Either the sediment at the bottom of that glass was nothing more than barrel char from an old bottle—or someone else dropped crushed tablets into a half-empty decanter before Julian even came home from Portland, expecting *him* to pour himself a nightcap.
+My chest feels hollow. Either the sediment at the bottom of that glass was nothing more than barrel char from an old bottle—or someone else dropped crushed tablets into one of the pre-set tumblers on the credenza tray before Julian even came home from Portland, expecting him to pour me a nightcap.
 
 "You're quiet tonight, Clara," he says softly, leaning forward with his forearms resting on his knees. "Tell me honestly. Did you find anything unusual in the master suite today? Anything that looked out of place?"
 
@@ -108,6 +108,6 @@ I tap the banner with a thumb that suddenly feels numb.
 **NAME:** MERCER, EVELYN S.
 **DOCUMENT:** US PASSPORT #••••••8412
 **PORT:** ST. ANDREWS PRIVATE MARINA, NEW BRUNSWICK
-**TIMESTAMP:** NOV 5, 2026 — 09:42 AST
+**TIMESTAMP:** NOV 3, 2026 — 09:42 AST
 
 I stare at the glowing white text in the dark bedroom until my eyes burn. Yesterday morning. While Julian stood in this kitchen telling me she drowned three weeks ago, Evelyn Mercer walked off a dock across the Canadian border and scanned her own passport.

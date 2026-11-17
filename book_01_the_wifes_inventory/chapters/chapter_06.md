@@ -20,7 +20,7 @@ Julian stands near the limestone kitchen island, stirring something pale in a co
 
 Thursday. Twenty-four hours shaved off an already impossible deadline, trapping me inside this glass house through the worst of the November storm while Boston lawyers circle overhead.
 
-"Thursday," I repeat flatly, straightening in my wool socks. "Half the master closet isn't even boxed yet."
+"Thursday," I repeat flatly, straightening in my stockinged feet. "Half the master closet isn't even boxed yet."
 
 "Then we work late tonight," Julian says smoothly, ladling broth into two white stoneware bowls without asking whether I'm hungry. "Grab a spoon, Clara. Let's talk through the basement exclusions and the mudroom gear."
 
@@ -106,7 +106,7 @@ For three heartbeats, neither of us moves in the dark. Rain hammers the roof sla
 
 I don't stay where I am. My hand drops automatically toward my waxed jacket hanging two paces away on the hook—checking that the tissue-wrapped B-4 key is still tucked inside the breast pocket—while my eyes lock onto the glowing smart-home tablet beside the pantry door. If the grid is down across Salt Point, nobody can call the sheriff out here without a hardline, and my phone is sitting upstairs on one bar.
 
-With a heavy mechanical *thump* somewhere beneath the floorboards, the exterior generator fires up, rattling the slate tiles under my wool socks and flooding the kitchen with the low drone of diesel exhaust outside the shutters.
+With a heavy mechanical *thump* somewhere beneath the floorboards, the exterior generator fires up, rattling the slate tiles under my heels and flooding the kitchen with the low drone of diesel exhaust outside the shutters.
 
 The ceiling lights surge back at half-brightness, then steady.
 

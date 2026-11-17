@@ -30,7 +30,7 @@ Heavy boots thunder across the kitchen tile toward the basement stairs, taking t
 
 I don't wait in the study. I slip into the dark north hall, skirt the stairwell landing while Cole's boots hammer downward into the basement, and feel my way along the cool wainscoting into the kitchen. Without a single standby LED, the room is ink-black. My hip grazes the marble island corner before I find the narrow cedar doorway of the pantry corridor.
 
-Behind the recessed spice rack, the dumbwaiter shaft smells of cold concrete, machine oil, and settled dust from the dropped counterweight. I tuck the rusted oyster knife into my jeans waistband, grab the cold iron ladder rungs, and climb down fast into the pitch-black cellar. My raw left wrist burns against the metal, and the heavy duffel bangs awkwardly against the brick chimney chase behind my shoulders with every downward reach.
+Behind the recessed spice rack, the dumbwaiter shaft smells of cold concrete and machine oil, thick with settled dust from the dropped counterweight. I tuck the rusted oyster knife into my jeans waistband, grab the cold iron ladder rungs, and climb down fast into the pitch-black cellar. My raw left wrist burns against the metal, and the heavy duffel bangs awkwardly against the brick chimney chase behind my shoulders with every downward reach.
 
 Halfway down the shaft, the looped 2:14 AM WAV file swells louder—Evelyn's laugh echoing off soundproofed charcoal foam, followed by Cole's heavy voice cursing as he reaches the open steel fire door of Zone 4. His flashlight beam flickers across the far darkroom wall below me, throwing long jagged shadows off the server racks.
 
@@ -74,9 +74,9 @@ I spin past both of them, burst out through the open Zone 4 doorway into the bas
 
 I throw my entire weight against the steel door. It swings fast on its heavy hinges and slams into the jamb with a bone-jarring *CLANG*—a fraction of a second after Evelyn throws herself out through the gap, colliding hard against the concrete stairwell wall—leaving Cole Halstead trapped inside alone.
 
-I slam the exterior brass thumb-turn deadbolt home. Steel locks into steel.
+I yank the rusted **B-4** mortise key from my jeans pocket, jam it into the exterior brass cylinder, and throw the deadbolt home. Steel locks into steel.
 
-Inside Zone 4, Cole's heavy boots slam furiously against the reinforced door, his muffled shouts and the dull *thump* of his shoulder swallowed almost instantly by the charcoal foam. Without a phone or a deadbolt override, he isn't coming out of that concrete box until someone turns this brass thumb-turn from the hall.
+Inside Zone 4, Cole's heavy boots slam furiously against the reinforced door, his muffled shouts and the dull *thump* of his shoulder swallowed almost instantly by the charcoal foam. Without a phone or a key on the inside, he isn't coming out of that concrete box until someone unlocks this mortise cylinder from the hall.
 
 Evelyn doesn't stay to fight me on the stairs. She scrambles up the concrete steps ahead of me in the dark, her breathing ragged and fast, leaving her dropped brass wrench behind in the darkroom. One hand clamps over her bleeding forearm; the other clutches the silver Montblanc fountain pen she pocketed upstairs during her sweep and a small backup drive pulled from the study tower tucked inside her torn waxed-canvas jacket.
 

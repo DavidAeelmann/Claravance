@@ -6,7 +6,7 @@ I stand over the scarred kitchen counter with a mug of black coffee, staring at 
 
 The $5,000 cash from Salt Point, the $10,000 cashier's check from the anonymous Boston estate firm, and every last dollar scraped out of my checking account wiped the slate clean.
 
-My left wrist still carries a pale pink seam under the cuff of my dry wool sweater where Cole's fingers dug into my skin, and my bruised knee aches whenever the November air turns sharp. Two weeks of depositions in Rockland took care of the rest. Detective Sergeant Hollis and the Knox County district attorney didn't need much persuasion once their techs pulled the mirrored boathouse audio off the Zone Four RAID drive and matched the left-handed Montblanc nib against Cole's yellow warning slip. Evelyn and Cole are sitting in separate cells without bail, and Julian's bail hearing got pushed back after the state auditor finished tallying his $2.4 million probate shortfall.
+My left wrist still carries a pale pink seam under the cuff of my dry wool sweater where the Salt Point stitches came out, and my bruised knee aches whenever the November air turns sharp. Two weeks of depositions in Rockland took care of the rest. Detective Sergeant Ward and the Knox County district attorney didn't need much persuasion once their techs pulled the mirrored boathouse audio off the Zone Four RAID drive and matched the left-handed Montblanc nib against Cole's yellow warning slip. Evelyn and Cole are sitting in separate cells without bail, and Julian's bail hearing got pushed back after the state auditor finished tallying his $2.4 million probate shortfall.
 
 I didn't ask for a press quote. I gave my statement, signed the chain-of-custody logs, and drove back down Route 1 before the Boston reporters found the causeway. Even Maren Lindqvist came through clean—the state prosecutor granted her full immunity as the reporting witness, and three days ago a wooden crate of Salt Point oysters showed up on my landing with a single harbor receipt tucked under the twine: *Dock's paid. Keep your head down.*
 
@@ -34,7 +34,7 @@ She is in her late forties, sharp-jawed, with silver-streaked dark hair pulled b
 
 "Dropped it in a boathouse," I say, keeping my hands around the warm mug. "Who are you?"
 
-"Sloane Mercer-Hall." She reaches into her coat pocket and lays a heavy cream business card beside my coffee. No title on the front—just a State Street address in Boston and a direct private line. "Managing partner at Mercer-Hall Fiduciary. We issued the ten-thousand-dollar cashier's check Detective Hollis handed you at Salt Point."
+"Sloane Mercer-Hall." She reaches into her coat pocket and lays a heavy cream business card beside my coffee. No title on the front—just a State Street address in Boston and a direct private line. "Managing partner at Mercer-Hall Fiduciary. We issued the ten-thousand-dollar cashier's check Detective Ward handed you at Salt Point."
 
 I look down at the cream card, then back up at her eyes. They are cool gray, steady, and completely unbothered by the clatter of plates behind her.
 

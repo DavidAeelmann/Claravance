@@ -30,7 +30,7 @@ I lean closer to the bare cedar planks. Most of the sunroom floor has weathered 
 
 When you scrub cedar with bleach and seal it with boiled linseed oil, the fumes don't linger for three weeks. Oil cures tacky for days; bleach dissipates within forty-eight hours unless someone shut the windows tight and kept the house cool.
 
-Someone scrubbed this floorboard patch *days* ago—not on October fourteenth.
+Someone scrubbed this floorboard patch within the last forty-eight hours—not on October fourteenth.
 
 My pulse ticks hard behind my collar. I pull my phone out, check the ceiling corners for cameras—just the standard glass-break sensors wired along the upper mullions—and snap three tight close-ups of the bleached grain and the oily sheen catching the window light.
 

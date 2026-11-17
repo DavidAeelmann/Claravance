@@ -54,7 +54,7 @@ He stops mid-sentence. His fingers lock hard around the edge of the limestone co
 
 "Evelyn," I finish for him.
 
-Julian nods once, slowly. "A week after the Coast Guard called off the dredge, I found that bleached cedar patch under the sunroom rug. Then I checked my mudroom and realized the life vest Halstead logged as 'recovered from the cove' smelled like tap water. I knew someone was staging a murder frame inside my own house, and I couldn't go to the Knox County Sheriff because Halstead *is* the local law. If I walked into a state police barracks screaming conspiracy while sitting on a two-point-four-million-dollar trust deficit, they'd have slapped cuffs on me before sunset."
+Julian nods once, slowly. "Monday morning—hours before you arrived—I checked under the sunroom rug and found that fresh bleached cedar patch still reeking of linseed oil. Earlier, I'd checked my mudroom and realized the life vest Halstead logged as 'recovered from the cove' smelled like tap water. I knew someone was staging a murder frame inside my own house, and I couldn't go to the Knox County Sheriff because Halstead *is* the local law. If I walked into a state police barracks screaming conspiracy while sitting on a two-point-four-million-dollar trust deficit, they'd have slapped cuffs on me before sunset."
 
 I stand completely still beside the island, the cold truth settling heavy in my chest. "That's why you hired me. You didn't want an estate archivist."
 
@@ -82,7 +82,7 @@ Julian's expression hardens—not with anger, but with sudden, cold dread.
 
 "I didn't pull those out of the closet, Clara," he says, stepping past the island toward the foyer arch. "Follow me."
 
-I keep three paces behind him, still gripping the heavy brass wrench in my right hand, and stop at the edge of the foyer slate. My damp wool socks soak up a cold smear of melted rainwater right beside the painted oak wainscoting.
+I keep three paces behind him, still gripping the heavy brass wrench in my right hand, and stop at the edge of the foyer slate. My damp socks soak up a cold smear of melted rainwater right beside the painted oak wainscoting.
 
 Through the tall glass sidelights beside the front door, gray mist curls across the wet gravel turnaround. My silver 2014 Honda Civic sits parked out across the gravel, exactly where I left it Tuesday afternoon—except the rear trunk lid stands popped slightly ajar, a dark gap showing above the bumper latch. My spare key fob has been sitting in my guest-room duffel since Monday night; whoever popped that trunk didn't need a crowbar—they used the key they found when they searched my bag Tuesday afternoon.
 

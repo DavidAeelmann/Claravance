@@ -12,7 +12,7 @@ I step backward two paces, keeping my palms open at shoulder height. Evelyn step
 
 There is no cover between me and the open harbor water slapping the slipway beams. If I lunge, she shoots me at point-blank range and tells Cole the cleaner charged her. I drop onto the wet planks beside the heavy teak piling that anchors the edge of the bait table. Salt dampness soaks straight through the knees of my jeans.
 
-Evelyn steps behind the piling, keeping the pistol pressed hard against the back of my skull while her left hand yanks my wrists together behind the rough timber. She loops the black nylon tie around both wrists, cinches it through the ratchet teeth, and pulls until the plastic bites deep into my skin. My shoulders wrench back at a sharp angle. The piling smells of creosote, rotting kelp, and wet cedar. I test the nylon once with my thumbs—zero give, locked down tight enough to cut off circulation to my fingers within minutes.
+Evelyn steps behind the piling, keeping the pistol pressed hard against the back of my skull while her left hand yanks my wrists together behind the rough timber. She loops the black nylon tie around both wrists, cinches it through the ratchet teeth, and pulls until the plastic bites deep into my skin. My shoulders wrench back at a sharp angle. The piling reeks of creosote and rotting kelp, sharp against the wet cedar. I test the nylon once with my thumbs—zero give, locked down tight enough to cut off circulation to my fingers within minutes.
 
 "Cole will be down here as soon as he finishes clearing your pathetic little distraction at the front door," Evelyn says, stepping back around the piling where she can watch both me and the double doors. She sets the pistol down for half a second—never out of reach of her right hand—and picks up a sleek iPad Mini from the workbench.
 
@@ -56,7 +56,7 @@ She says it cleanly, without a trace of doubt, like she's reading off an invoice
 
 "You didn't even leave the life jacket salty," I push, shifting my wrists quietly higher behind the piling until the taut nylon ridge between my palms presses squarely against the rusted steel edge of the oyster knife. "Cole soaked it in the mudroom sink with tap water. That's sloppy, Evelyn. Even a rookie medical examiner checks for salt residue."
 
-Evelyn smiles—a thin, cold curve of her mouth. "Cole wrote the report, Clara. There won't be a second medical examiner, because there won't be a body until the crabs are finished with it. Just like nobody checked the Montblanc nib, or the Ambien I dissolved in the master sink, or the extra weekender I packed before the squall. You spent four days cataloging a dead woman's house, and you never realized the whole inventory was staged to buy me time until probate."
+Evelyn smiles—a thin, cold curve of her mouth. "Cole wrote the report, Clara. There won't be a second medical examiner, because there won't be a body until the crabs are finished with it. Just like nobody checked the Montblanc nib, or the Ambien I dissolved in the master sink, or the weekender I shoved behind his coats on Monday. You spent four days cataloging a dead woman's house, and you never realized the whole inventory was staged to trigger a Slayer Statute forfeiture and buy me time until the insurance trust cleared."
 
 ***
 
@@ -74,7 +74,7 @@ Evelyn glances down at the iPad, then reads aloud in a dry, mocking cadence: *"I
 
 She stops mid-sentence, tilting her head slightly as a gust rattles the corrugated tin roof overhead.
 
-I saw hard against the rusted steel while her eyes are off my shoulders. Another two strands snap cleanly. Warm blood slicks my left wrist where the frayed plastic scrapes skin, giving me just enough slack to twist my fingers toward the swollen oak handle wedged in the bait table seam.
+I saw hard against the rusted steel while her eyes are off my shoulders. Another two strands snap cleanly. Warm blood wells fast along my left wrist where the jagged nylon and rusted steel slice deep into the skin above my palm, giving me just enough slack to twist my fingers toward the swollen oak handle wedged in the bait table seam.
 
 "You're really going to let Cole take half your father's trust?" I ask, stalling for a few more seconds, praying the frayed center core of the zip tie gives way before the cliff stairs creak. "He's a county deputy with a crooked tooth and a gambling debt. Once Julian's dead, Cole owns you."
 

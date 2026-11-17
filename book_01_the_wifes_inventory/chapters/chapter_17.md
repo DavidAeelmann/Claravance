@@ -8,7 +8,7 @@ She folded the variance sheet twice, aligned the crease with the edge of the blo
 
 Julian had offered her a quiet restructuring agreement over breakfast two days earlier—an amended trust schedule and a mutual nondisclosure clause that would keep the shortfall buried until his acoustic patent buyout closed in December. He had spoken in that soft, measured cadence he used with investors, as if embezzling her father’s estate were a minor cash-flow timing error. Evelyn had poured him fresh coffee, nodded once, and told him she needed the weekend to review the numbers with her own eyes.
 
-She did not want a quiet restructuring. She wanted Julian Mercer stripped down to the studs, staring at a mandatory-minimum sentence while his company’s board tore his patents apart. Her father had given Julian the seed capital, the Salt Point deed, and the family name that opened doors in Boston. Julian had repaid him by treating the trust like a personal line of credit.
+She did not want a quiet restructuring, and she did not want a fraud arrest that would freeze the marital trust inside Mercer Soundworks' corporate bankruptcy for five years. Under Maine's Slayer Statute, a husband indicted for murder forfeited every dime of the estate—leaving Evelyn to walk away clean under a new name with her father's offshore reserve and a three-million-dollar life-insurance payout routed through her brother's trust. Her father had given Julian the seed capital, the Salt Point deed, and the family name that opened doors in Boston. Julian had repaid him by treating the trust like a personal line of credit.
 
 Evelyn carried her coffee cup upstairs, pausing briefly at the threshold of her studio. The painters Julian had hired in late September had finished the white trim along the north wall and sealed the tall sash window shut with two thick coats of oil enamel. Julian claimed he wanted the winter drafts out before November. Evelyn hadn't bothered to have them scrape it open; she had already decided she wouldn't be living in this house by Thanksgiving.
 
@@ -24,7 +24,7 @@ Evelyn screwed the cap back onto the bottle—twenty-eight pills rattling faintl
 
 Two days before the squall, on Monday afternoon, Evelyn walked down the wet slate stairs to Maren Lindqvist’s oyster shack with five thousand dollars in crisp twenties tucked inside her waxed-canvas pocket.
 
-The shack smelled of salt marsh, rusted tin, and hand-rolled tobacco. Maren had two months of unpaid mooring fees hanging over her commercial license, and she knew better than to turn down cash without a bank paper trail. She didn't ask why Julian’s wife wanted to know how to disable a Boston Whaler’s GPS transponder without tripping the main battery alarm. She simply took the envelope, counted the corners with cracked, salt-stained thumbs, and showed Evelyn which gray wire sat behind the helm console—plus how to pull the fuse without leaving pry marks on the housing.
+The shack smelled of salt marsh and rusted tin, sharp with hand-rolled tobacco. Maren had two months of unpaid mooring fees hanging over her commercial license, and she knew better than to turn down cash without a bank paper trail. She didn't ask why Julian’s wife wanted to know how to disable a Boston Whaler’s GPS transponder without tripping the main battery alarm. She simply took the envelope, counted the corners with cracked, salt-stained thumbs, and showed Evelyn which gray wire sat behind the helm console—plus how to pull the fuse without leaving pry marks on the housing.
 
 That night, Evelyn met Deputy Cole Halstead at the locked boathouse.
 
@@ -34,27 +34,27 @@ Cole hadn't changed since they were sixteen and sneaking beers onto the granite 
 
 "Wednesday night," Evelyn said. She spread a folded NOAA marine forecast across the scarred wood. "Small-craft gale starts rolling in off Penobscot Bay after ten. By eleven-fifteen, visibility drops below a quarter mile. Nobody on the ridge will look twice at an empty skiff drifting toward the east shoal."
 
-Cole tapped the chart once with his left index finger. "Coast Guard won't launch a chopper in forty-knot gusts. They'll kick coastal search to the county desk at first light."
+Cole tapped the chart once with his left index finger, then jotted a tide window in the margin with his own heavy silver Montblanc fountain pen. "Coast Guard won't launch a chopper in forty-knot gusts. They'll kick coastal search to the county desk at first light."
 
 "Which means you take the 5:30 AM call," Evelyn said. "You log the empty skiff, note the missing life jacket, and file it as probable accidental drowning before the state troopers even wake up."
 
 "And the trust?"
 
-"When the probate lawyers audit Julian next month, they'll find two point four million missing from my father’s account," she told him, smoothing the corner of the chart flat. "They'll find a husband who couldn't pay his patent lawyers, a wife who conveniently vanished before she could sign off on his theft, and a house full of scrubbed floorboards. You won't have to manufacture a motive, Cole. Julian already built it."
+"When the probate lawyers audit Julian next month, they'll find two point four million missing from my father’s account," she told him, smoothing the corner of the chart flat. "They'll find a husband who couldn't pay his patent lawyers, a wife who conveniently vanished before she could sign off on his theft, and a husband facing a Slayer Statute forfeiture. You won't have to manufacture a motive, Cole. Julian already built it."
 
 Cole’s mouth twitched into a brief, humorless grin. "Three hundred thousand when the estate clears?"
 
-"Half in cash once the grand jury indicts him," Evelyn said. "The rest when the house sells."
+"Half in cash once the grand jury indicts him," Evelyn said. "The rest when the life-insurance trust clears."
 
 Cole studied her in the dim yellow glow of the boathouse bulkhead light. "And if the state police decide an empty boat isn't enough to hold him? They'll pull the sunroom rug up sooner or later, Evie. Look at the way he keeps this place."
 
-"If probate drags its feet next week, you'll come back after dark and splash bleach and linseed oil over three boards beneath the gray rug," she said. "Let them wonder what Julian scrubbed out of the cedar after the squall. A clean widower looks innocent. A widower who bleached his own floorboards looks desperate."
+"The night before the estate cleaner arrives, you'll come back after dark and splash bleach and linseed oil over three boards beneath the gray rug," she said. "Let them wonder what Julian scrubbed out of the cedar after the squall. A clean widower looks innocent. A widower who bleached his own floorboards looks desperate."
 
 Cole nodded slowly, his gaze drifting toward the narrow ceiling vent above the workbench. "And if he changes the keypad code before next week?"
 
 "Then use the dumbwaiter behind the pantry spice rack," Evelyn replied. "Julian forgot it even existed the day the contractors paneled over the kitchen wall. The shaft drops straight past the acoustic sensors into the basement hall."
 
-On Wednesday evening, while Julian was locked in his basement darkroom running late patent simulations, Evelyn packed her olive-canvas weekender in the foyer. She clipped an advance Bar Harbor commuter ferry boarding pass and pre-printed baggage voucher dated *October 17* to the leather handle—her original planned exit ticket before she chose to cross to Canada by boat on the night of the fourteenth—and tucked the bag deep inside the coat closet behind Julian’s heavy wool overcoats.
+On Wednesday evening, while Julian was locked in his basement darkroom running late patent simulations, Evelyn packed her olive-canvas weekender in the mudroom—ready to carry aboard the Canadian transport boat at the shoal—and tucked her spare clothes inside.
 
 At eleven-fifteen, rain hammered the sunroom glass.
 
@@ -82,10 +82,10 @@ Cole pulled on Julian’s spare hooded slicker, hoisted a weighted canvas drop-c
 
 A heavy service door thudded shut behind them. She left Cole in the mudroom to stow the wet rag and stepped into the dark sunroom. Moonlight didn't pierce the storm clouds, so she navigated by memory across the gray wool rug toward the east baseboard. Using the flat edge of a pocketknife, she pried the loose oak trim back just far enough to slide the spare stamped brass **B-4** basement key into the gap—her physical backup for the basement deadbolt once she disarmed the hub with her administrator PIN, so she wouldn't have to pry the door or leave tool marks on Julian's frame.
 
-She pressed the baseboard flush with her heel and climbed the back stairs to her studio to check her father's silver Montblanc fountain pen on the walnut desk—making sure she hadn't left a personal note or smudge beside the calendar.
+She pressed the baseboard flush with her heel and climbed the back stairs to her studio to check that no personal notes remained beside the calendar.
 
-She uncapped the nib in the dark, intending to jot a fake Thursday reminder on her desk pad to establish routine, when Cole stepped silently into the studio doorway behind her.
+She paused beside the walnut desk in the dark, scanning the empty ledger pad. Cole stepped silently into the studio doorway behind her, still holding his own uncapped silver Montblanc from the marine chart.
 
-Evelyn startled, just slightly. The silver pen slipped from her cold fingers and clattered across the walnut blotter, rolling off the edge onto the wide-plank oak floor.
+"You forgot this downstairs," Evelyn murmured.
 
-Cole didn't speak. He bent smoothly, scooped the pen up in his left hand, and tossed it carelessly back onto the green leather blotter without bothering to wipe the damp ink from the nib.
+Cole didn't speak. He stepped to the desk, laid his left-handed fountain pen carelessly onto the green leather blotter without bothering to cap it or wipe the damp ink from the nib, and followed her back down the stairs.

@@ -2,9 +2,9 @@
 
 At two in the morning, the cast-iron radiator under my window ticks once and goes dead silent.
 
-I lie on top of the stripped quilt fully dressed in my jeans and flannel shirt, staring at the faint blue glow of my laptop screen sitting open on the nightstand. Evelyn Mercer's St. Andrews passport timestamp sits burned behind my eyelids: *November 5, 09:42 AST.* Forty-one hours ago, a woman supposedly drowned in a coastal gale walked off a private dock in New Brunswick. Tonight, her husband is sleeping down the hall after swallowing a bourbon glass swirled with chalky sediment, and tomorrow at four I'm supposed to hand him a clean probate schedule so he can bury a two-point-four-million-dollar theft.
+I lie on top of the stripped quilt fully dressed in my jeans and flannel shirt, staring at the faint blue glow of my laptop screen sitting open on the nightstand. Evelyn Mercer's St. Andrews passport timestamp sits burned behind my eyelids: *November 3, 09:42 AST.* Forty hours ago, a woman supposedly drowned in a coastal gale walked off a private dock in New Brunswick. Tonight, her husband is sleeping down the hall after swallowing a bourbon glass swirled with chalky sediment, and tomorrow at four I'm supposed to hand him a clean probate schedule so he can bury a two-point-four-million-dollar theft.
 
-Three years ago at Harbor Mutual, I signed off on a coastal warehouse loss because my branch manager swore the inventory manifests were clean—and spent the next twenty-four months buried under an eighteen-thousand-dollar judgment and a ruined bond. Every creditor notice taped to my Portland apartment door taught me one rule: nobody puts my signature on another crooked ledger, and nobody traps me in a house while they rewrite the books.
+Three years ago at Harbor Mutual, I refused to sign off on a fraudulent Commercial Street warehouse fire manifest because my branch manager swore the numbers were clean—and spent the next twenty-four months buried under an eighteen-thousand-dollar judgment and a ruined bond. Every creditor notice taped to my Portland apartment door taught me one rule: nobody puts my signature on another crooked ledger, and nobody traps me in a house while they rewrite the books.
 
 Walking out at dawn isn't an option anymore—not with a county deputy holding administrator PINs to this house and Evelyn's burner-phone clock ticking toward Thursday night. If I run now without hard proof of what actually happened on October fourteenth, Julian slaps me with a fifty-thousand-dollar breach penalty I can't pay, and Deputy Halstead pins my plates to whatever mess is waiting inside that locked boathouse.
 
@@ -64,7 +64,7 @@ Still, walking away from Basement Zone 4 now means walking blind into Thursday's
 
 I slide my phone into my back pocket, grip the cold iron side rail with both hands, and swing my right leg over the cedar sill into the shaft. The opening is barely wide enough for my shoulders; as I pull the hinged spice-rack panel shut behind me until the recessed latches kiss the frame—leaving myself a half-turn clearance on the inside cleat so I won't seal myself in—darkness drops over me like a wool blanket.
 
-The iron rungs bite freezing cold straight through my wool socks.
+The iron rungs bite freezing cold straight through my soles.
 
 I climb down slowly, testing every rung before shifting my weight, counting each descent by feel so I know how far I've dropped below the kitchen floor. Dust flakes off the rough masonry against my knuckles, and spiderwebs brush across my forehead. Halfway down the shaft, the heavy hemp counterweight rope brushes my left shoulder, swinging gently against the studs as if someone else used this ladder right before 2:14 AM. Every time my heel shifts on rusted iron, I pause to listen for the creak of floorboards overhead or the click of a light switch. Nothing stirs above me.
 
@@ -92,7 +92,7 @@ I drop into a low crouch, throwing one arm up against the glare, waiting for an 
 
 Whoever was down here earlier didn't shut the workstation down—they just let the screens go to sleep before climbing back out.
 
-Slowly, I lower my arm and stand. My wool socks make no sound on the rubberized floor as I step closer to the steel worktable, squinting through the harsh blue glare at the left-hand studio monitor.
+Slowly, I lower my arm and stand. My stockinged feet make no sound on the rubberized floor as I step closer to the steel worktable, squinting through the harsh blue glare at the left-hand studio monitor.
 
 No Mercer Soundworks patent schematic. No security keypad prompt.
 

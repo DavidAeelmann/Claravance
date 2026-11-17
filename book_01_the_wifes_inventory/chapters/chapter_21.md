@@ -30,7 +30,7 @@ I bolt the last few paces into the narrow cedar pantry corridor, yank the recess
 
 I pull the spice-rack door flush against its magnetic catch, sealing myself inside total darkness.
 
-The vertical shaft smells of dry cedar dust, machine oil, and damp concrete rising from below. My breath plumes cold in the tight space. Every muscle in my back shivers uncontrollably, my wet flannel shirt clinging like ice to my ribs while my raw left wrist throbs in time with my pulse. Up above, Evelyn's footsteps stop right outside the pantry corridor, then turn away toward the living room.
+The vertical shaft smells of dry cedar dust and machine oil, sharp with damp concrete rising from below. My breath plumes cold in the tight space. Every muscle in my back shivers uncontrollably, my wet flannel shirt clinging like ice to my ribs while my raw left wrist throbs in time with my pulse. Up above, Evelyn's footsteps stop right outside the pantry corridor, then turn away toward the living room.
 
 I grope with my left hand until my fingers close around the cold iron ladder rung bolted to the brick chimney chase. Slowly, testing every rung before shifting my weight, I start climbing down toward the basement acoustic darkroom. My soaked sneakers slip slightly on the rusted iron, forcing me to hook my elbows around the vertical rails until my boots find purchase again.
 
@@ -50,11 +50,11 @@ I freeze halfway down the iron ladder, one sneakered foot braced on a rung, my t
 
 "My wrist is bleeding through the damn gauze," Cole snaps, his boots thudding heavily toward the kitchen island. "And the salt water got into it down at the dock. If I find her, I'm not using zip ties."
 
-"Check the basement stairs first," Evelyn says. "You don't need a key for Zone 4—just throw the exterior deadbolt on the steel door if she's inside and leave her there until high tide. Her spliced confession is already sitting in the county drop, and her boots are still in the foyer."
+"Check the basement stairs first," Evelyn says. "Use your spare key on Zone 4—throw the exterior deadbolt on the steel door if she's inside and leave her there until high tide. Her spliced confession is already sitting in the county drop, and her boots are still in the foyer."
 
 Cold sweat breaks across the back of my neck.
 
-If Cole walks down the basement stairs and checks Zone 4, he'll see the steel fire door standing open—or hear my soaked sneakers dripping inside the shaft. Worse, if he throws that exterior deadbolt from the stairwell, I'll be sealed inside the concrete vault with zero cell signal until Cole and Evelyn decide how to stage the bodies. I can't outrun a Glock in a concrete box, and I can't climb back into the kitchen while both of them are standing ten steps from the pantry door.
+If Cole walks down the basement stairs and checks Zone 4, he'll see the steel fire door standing open—or hear my soaked sneakers dripping inside the shaft. Worse, if he locks that exterior deadbolt from the stairwell, I'll be sealed inside the concrete vault with zero cell signal until Cole and Evelyn decide how to stage the bodies. I can't outrun a Glock in a concrete box, and I can't climb back into the kitchen while both of them are standing ten steps from the pantry door.
 
 ***
 

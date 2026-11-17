@@ -8,7 +8,7 @@ I don't bother testing the rusted **B-4** key in the interior keyhole. From this
 
 Which leaves the dumbwaiter shaft.
 
-I snatch my phone off the desk, keep the screen dimmed low, and cross in my damp wool socks to the iron ladder bolted into the masonry. My calves burn as I climb the freezing rungs two at a time, dust flaking onto my eyelids until I reach the top cedar sill behind the pantry spice rack.
+I snatch my phone off the desk, keep the screen dimmed low, and cross in my damp socks to the iron ladder bolted into the masonry. My calves burn as I climb the freezing rungs two at a time, dust flaking onto my eyelids until I reach the top cedar sill behind the pantry spice rack.
 
 I press one palm gently against the hinged cedar panel.
 
@@ -63,7 +63,7 @@ By 5:15 AM, the chill in the concrete floor has climbed straight up my shins int
 
 I pace the length of the rubberized matting to keep blood moving in my toes, staying clear of the eerie northeast dead-zone where even my own breathing vanishes. Every half hour, I check my phone—still zero bars—and double-check the backup copies I already pushed to my encrypted Portland vault before coming downstairs. The *Bramwell & Shaw* demand letter is safely in the cloud. Even if Julian—or whoever threw that deadbolt—takes my phone and smashes it against the concrete, they can't erase what's already sitting off-site.
 
-I slip the encrypted thumb drive off the yellow index card and tuck it deep inside the small watch pocket of my jeans, beside Maren's torn tide chart. Then I slide the notarized $2.4M ledger and the 2:14 AM transcript printout back inside the padded manila envelope, tuck it under my arm, and lean against the edge of the steel worktable to wait out the dark. My eyelids feel gritty from lack of sleep, and my ribs ache from the cold damp flannel clinging to my back. By five-thirty, my wool socks are numb inside the rubber mat's chill, and I have to flex my fingers every few minutes just to keep my grip loose enough to use the multi-tool if the door opens fast.
+I slip the encrypted thumb drive off the yellow index card and tuck it deep inside the small watch pocket of my jeans, beside Maren's torn tide chart. Then I slide the notarized $2.4M ledger and the 2:14 AM transcript printout back inside the padded manila envelope, tuck it under my arm, and lean against the edge of the steel worktable to wait out the dark. My eyelids feel gritty from lack of sleep, and my ribs ache from the cold damp flannel clinging to my back. By five-thirty, my toes are numb inside the rubber mat's chill, and I have to flex my fingers every few minutes just to keep my grip loose enough to use the multi-tool if the door opens fast.
 
 At 5:58 AM, faint water pipes shudder inside the ceiling joists overhead. Someone upstairs just turned on the kitchen tap, followed by the heavy scrape of a chair sliding back across slate—the chair wedged against the pantry door.
 
@@ -73,7 +73,7 @@ At 6:05 AM, heavy footsteps descend the main foyer stairs outside.
 
 They pause on the slate landing. A brass key slides into the exterior mortise cylinder with a sharp, gritty scrape, and the deadbolt throws back with a loud metallic *clack* that echoes off the acoustic foam.
 
-The pinpoint red LED winks out.
+The pinpoint red LED above the interior frame winks out.
 
 The heavy steel fire door swings inward on its pneumatic closer, letting a cold wash of gray dawn light—and the smell of wet pine needles from the open front porch—spill down the short concrete steps from the foyer hall.
 

@@ -64,7 +64,7 @@ I drive the rest of the way into Salt Point harbor with my eyes glued to the rea
 
 I park nose-out near the store steps, pocket my keys, and step inside under a jangling brass bell.
 
-The store smells like damp cardboard, salt cod, and hot radiator oil. Narrow aisles groan underfoot as I grab two heavy rolls of clear packing tape, a pack of black permanent markers, and a blister pack of spare brake bulbs from the automotive pegboard near the register. Keeping my cover clean matters more than ever now; if Halstead checks with the clerk later, I want an honest receipt for tape and tail-light bulbs.
+Overhead fluorescents buzz above narrow floorboards that groan underfoot as I grab two heavy rolls of clear packing tape, a pack of black permanent markers, and a blister pack of spare brake bulbs from the automotive pegboard near the register. Keeping my cover clean matters more than ever now; if Halstead checks with the clerk later, I want an honest receipt for tape and tail-light bulbs.
 
 A thin kid in a faded Patriots hoodie rings up the tape without looking up from his phone. Beside the counter, a cork community board hangs plastered with tide tables, boat-mooring permits, and faded lost-dog flyers.
 
@@ -78,15 +78,15 @@ Up close, without fifty yards of cove fog between us, she looks older and harder
 
 "I'll keep an eye on the road," I say, keeping my voice low while my heart hammers against the tissue-wrapped key inside my jacket.
 
-Maren pours black coffee into a paper cup, snapping the plastic lid down with her thumb. She never turns her head toward me, keeping her shoulder angled between us and the security mirror mounted over the register. "Heard Julian Mercer hired help from Portland. Smart girl wouldn't stay past sundown in a glass house with two sets of boots missing from the porch."
+Maren pours black coffee into a paper cup, snapping the plastic lid down with her thumb. She never turns her head toward me, keeping her shoulder angled between us and the security mirror mounted over the register. "Heard Julian Mercer hired help from Portland. Smart girl wouldn't stay past sundown in a glass house after two people walked down to that boathouse in the storm."
 
-"I saw the mudroom tray," I murmur, pretending to inspect a pair of insulated leather gloves. "What did two fingers mean this morning? Who else is down at that boathouse?"
+"Two people," I murmur, pretending to inspect a pair of insulated leather gloves. "What did two fingers mean this morning? Who else was down at that boathouse?"
 
 Maren's jaw sets hard, her eyes flicking once toward the kid by the register before dropping back to her coffee lid. "I don't name names in public, and I don't lose my mooring permit over rich folks' messes," she mutters, reaching past me to grab a handful of paper napkins from the dispenser. Her cracked knuckles brush the back of my hand—cold as wet slate. "Just don't take Julian's word on what time the storm hit. And don't trust a deputy who writes left-handed when he's supposed to be off shift."
 
 The clerk clears his throat from the counter, tossing my receipt into a brown paper bag beside the tape rolls. "Eighteen forty-two, miss."
 
-Maren steps back immediately, dropping a crumpled five beside the coffee urn without waiting for change, and pushes back out through the glass door before I can press her on why she mentioned Cole Halstead's left hand—or how she knew about the mudroom boots when she hasn't set foot on the bluff.
+Maren steps back immediately, dropping a crumpled five beside the coffee urn without waiting for change, and pushes back out through the glass door before I can press her on why she mentioned Cole Halstead's left hand—or how she knew two people were at that boathouse in the dark.
 
 I grab my brown paper bag off the counter, force a polite nod at the kid in the hoodie, and hurry out onto the wooden porch just in time to see Maren's rusted pickup rattle away up the harbor hill.
 

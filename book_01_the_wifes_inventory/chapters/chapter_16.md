@@ -26,7 +26,7 @@ I don't answer from the study. I stride fast down the north hall, my sneakers si
 
 Julian's face goes tight with fresh panic. "Clara, don't go down there alone. If Evelyn's iPad just synced within local mesh range, she isn't in New Brunswick."
 
-I already know that. The thought sits like cold lead in my stomach, right beside the memory of my $18,412 court judgment and how fast a county prosecutor would bury a disgraced insurance investigator with a faked confession on file. Running guarantees prison. Staying in the study guarantees handcuffs.
+I already know that. The thought sits like cold lead in my stomach, right beside the memory of how fast a county prosecutor would bury a disgraced insurance investigator with a faked confession on file. Running guarantees prison. Staying in the study guarantees handcuffs.
 
 I throw the sunroom slider latch. The heavy glass panel groans on its aluminum track as I haul it wide, letting the gale rush straight across the bleached floorboards. Freezing salt wind slams into my face, tasting of kelp, wet cedar, and coming storm.
 

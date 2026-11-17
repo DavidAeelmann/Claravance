@@ -46,13 +46,13 @@ Julian leads me past a pale limestone kitchen island and stops beside a narrow m
 
 Six dense pages of legal print. Non-disclosure, non-disparagement, a blanket ban on photographing any hardware or paperwork on the premises, and a fifty-thousand-dollar liquidated damages clause in bold ink near the bottom.
 
-My stomach twists as I read that number twice. *Fifty thousand.* Whoever drafted this contract looked up my civil judgment from Harbor Mutual—knew I couldn't survive a second lawsuit, knew I couldn't afford a lawyer to fight a breach claim. If Julian decides I broke his rules, he owns what's left of my life. For a sharp second I want to stand up, grab my duffel, and drive back across that causeway before the tide rises.
+My stomach twists at that number. *Fifty thousand.* Whoever drafted this contract looked up my civil judgment from Harbor Mutual—knew I couldn't survive a second lawsuit or afford a lawyer to fight a breach claim. If Julian decides I broke his rules, he owns what's left of my life. For a sharp second I want to grab my duffel and drive back across that causeway before the tide rises.
 
 Then I picture the clerk's ivory letter sitting on my passenger seat, and the eviction threshold waiting on Monday. I stay in the chair.
 
 "Tell me something," Julian says, leaning one hip against the limestone counter. "Your broker mentioned you handled commercial fraud claims before switching to private estate work. Why pack dead women's closets?"
 
-Resentment spikes hot behind my ribs. He knows why. Anyone who paid a broker five hundred bucks for a background check knows I was blacklisted after accusing a senior partner without hard chain-of-custody. Still, he wants to watch me say it out loud.
+Resentment spikes hot behind my ribs. He knows why. Anyone who paid a broker for a background check knows I was blacklisted after refusing to sign off on a fraudulent Commercial Street warehouse fire manifest—and accusing a senior partner without hard chain-of-custody. Still, he wants to hear me say it.
 
 I keep my eyes on page four. "Less paperwork. Nobody drags you into superior court over a miscounted box of wool sweaters."
 

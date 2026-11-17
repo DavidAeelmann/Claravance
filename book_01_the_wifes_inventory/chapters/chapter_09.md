@@ -46,7 +46,7 @@ The shack is narrow, damp, and fiercely warm near the center, where a kerosene s
 
 Maren's eyes flick to my face—sharp, weathered, and suddenly wary. "Your deadline for what?"
 
-"Finishing the probate inventory. Clearing out." I lean slightly closer over the cluttered workbench, keeping my voice low under the kerosene heater's rattle. "Two nights ago you slipped a tide chart into my grocery bag telling me to ask Julian why his dock lights were off at two-fourteen in the morning. When I asked him, he went pale. Today Halstead walked into that house while Julian was in Portland and told someone on a burner phone to keep the cove clear until dusk."
+"Finishing the probate inventory. Clearing out." I lean slightly closer over the cluttered workbench, keeping my voice low under the kerosene heater's rattle. "Yesterday afternoon you slipped a tide chart into my grocery bag telling me to ask Julian why his dock lights were off at two-fourteen in the morning. When I asked him, he went pale. Today Halstead walked into that house while Julian was in Portland and told someone on a burner phone to keep the cove clear until dusk."
 
 Maren stares down into her dark coffee. A muscle jumps along her cheekbone, and she reaches out to nudge the kerosene heater's damper down a notch until the flame stops guttering.
 
@@ -54,7 +54,7 @@ Maren stares down into her dark coffee. A muscle jumps along her cheekbone, and 
 
 "Fair."
 
-She sets her mug down beside a rusted pair of wire cutters, her thumb rubbing nervously along the edge of the bench. "Everybody in Salt Point thinks Julian Mercer drove his wife out past the bell buoy in a gale because his patent money dried up. Maybe he did. Man's cold enough to freeze bait, and he never looked twice at the water until he married her."
+She sets her mug down beside a rusted pair of wire cutters, her thumb rubbing nervously along the edge of the bench. "That's why I held up two fingers on the mudflat yesterday—because I saw two silhouettes by the boathouse doors at two-fourteen the night of the storm. Everybody in Salt Point thinks Julian Mercer drove his wife out past the bell buoy in a gale because his patent money dried up. Maybe he did. Man's cold enough to freeze bait, and he never looked twice at the water until he married her."
 
 "And what do you think?"
 

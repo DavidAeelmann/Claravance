@@ -26,11 +26,11 @@ Evelyn skirted the tide line, crept beneath the cedar eaves of the Mercer boatho
 
 ***
 
-Late Wednesday afternoon, while Julian was still driving up from Portland and Clara Vance walked down the wet slate path toward Maren Lindqvist’s shack, Evelyn used the pantry keypad code to slip inside the empty glass house.
+Late Wednesday afternoon, while Julian was still driving up from Portland and Clara Vance walked down the wet slate path toward Maren Lindqvist’s shack, Evelyn used the pantry keypad code to slip inside the empty glass house. She had already ducked in once on Monday afternoon—minutes before Julian's Audi pulled in with Clara—to shove her olive-canvas weekender, still clipped with its October 17 New Brunswick ferry tag, deep behind Julian's coats in the foyer closet.
 
-She didn't turn on a single overhead light. She moved along the cedar floorboards in dry wool socks, taking in the familiar scent of Julian’s unscented soap, lemon oil, and stale bourbon from the study. The house felt different with a stranger living in it—chairs angled slightly off their marks, a mug left drying beside the sink.
+She didn't turn on a single overhead light. She moved along the cedar floorboards in dry socks, taking in the familiar scent of Julian’s unscented soap and lemon oil, undercut by stale bourbon from the study. The house felt different with a stranger living in it—chairs angled slightly off their marks, a mug left drying beside the sink.
 
-Before touching the guest suite, she stepped upstairs into the master bath, shook two more Ambien tablets out of her prescription bottle—leaving twenty-six inside—and crushed them between two folded squares of tissue. Downstairs in the living room, she tipped the fine white powder straight into Julian’s half-full crystal bourbon decanter and swirled it once until the liquor clouded faintly. Tonight, Julian would drink himself straight into a seven-hour blackout, and Clara wouldn't suspect a thing.
+Before touching the guest suite, she stepped upstairs into the master bath, shook two more Ambien tablets out of her prescription bottle—leaving twenty-six inside—and crushed them between two folded squares of tissue. Downstairs in the living room, she tipped the fine white powder into the left-hand cut-crystal rocks glass already set out on Julian's credenza tray—the pour he would hand straight to his new cleaner—and swirled a splash of bourbon over it until the residue settled pale at the bottom. Tonight, Clara would drink herself straight into a seven-hour blackout, and Julian wouldn't suspect a thing until the county deputy kicked in his door.
 
 In the guest suite, Clara’s faded navy duffel sat beside the cast-iron radiator, zipped neatly to the corner. A crumpled brown paper bag from the Salt Point general store sat wedged behind the radiator pipes—packing tape, cardboard boxes, nothing else Evelyn needed to touch. She knelt, unzipped the duffel's side pocket, and lifted out the spare silver Honda key fob. She left the five-thousand-dollar cash envelope untouched beneath the folded shirts. Money wasn't the bait anymore, and missing cash would only spook Clara into bolting for the causeway before the storm peaked.
 
@@ -56,17 +56,17 @@ At 2:14 AM on Thursday, Evelyn slipped back inside the quiet house through the s
 
 A sharp metallic *click* echoed from the narrow pantry corridor.
 
-Evelyn went completely still. She stepped in her wool socks to the pantry threshold and peered through the crack. The cedar spice rack swung inward on oiled hinges, revealing the black square of the old manual dumbwaiter shaft. A narrow beam of flashlight swung down into the gap, followed by the scrape of rubber soles against iron ladder rungs.
+Evelyn went completely still. She stepped silently to the pantry threshold and peered through the crack. The cedar spice rack swung inward on oiled hinges, revealing the black square of the old manual dumbwaiter shaft. A narrow beam of flashlight swung down into the gap, followed by the scrape of rubber soles against iron ladder rungs.
 
 Clara Vance had found the shaft.
 
 Evelyn didn't curse, and she didn't rush. She waited until the muffled *thump* of Clara’s sneakers landing on the basement concrete echoed faintly up the chute. Then Evelyn swung the spice-rack panel shut, lifted a heavy oak kitchen chair off the tile so the legs wouldn't scrape, and wedged the chair back tight beneath the pantry doorframe latch. Nobody could push that panel open from inside the shaft.
 
-She moved quickly down the dark basement stairs, silent in her wool socks.
+She moved quickly down the dark basement stairs, silent on the treads.
 
-Through the heavy steel fire door of Zone 4, she could hear the faint rustle of paper—Clara rifling through Julian’s locked archive cabinet. Evelyn reached out, gripped the cold brass thumb-turn of the exterior deadbolt, and slid it home.
+Through the heavy steel fire door of Zone 4, she could hear the faint rustle of paper—Clara rifling through Julian’s locked archive cabinet. Evelyn reached out, slid her spare key into the cold brass mortise cylinder, and threw the exterior deadbolt home.
 
-Steel clicked into steel. No handle on the inside. No cell signal through three inches of acoustic foam—actually, Evelyn didn't need to guess; she had watched Julian test that soundproofed room a dozen times when he built his prototypes. Clara Vance would sit on that concrete floor until Julian woke up, or until the morning tide turned.
+Steel clicked into steel. No handle on the inside. No cell signal through three inches of acoustic foam; Evelyn had watched Julian test that soundproofed room a dozen times when he built his prototypes. Clara Vance would sit on that concrete floor until Julian woke up, or until the morning tide turned.
 
 Evelyn climbed back up to the foyer, cracked the front deadbolt just enough to leave the door unlatched when Julian woke up hungover at dawn—making sure he would step onto the porch and spot Clara's popped trunk—and slipped out the service porch into the freezing mist.
 
