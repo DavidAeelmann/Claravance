@@ -36,7 +36,7 @@ A woman stands over the basin in the flickering glow.
 
 She's mid-thirties, slender, wearing a black cashmere turtleneck and dark wool trousers—matching the folded sweaters in Celeste Vane's bedroom closet, minus the spotless *Moncler* down coat sitting in the bed of Hollis's pickup. Her blonde hair is pinned up in a tight, messy knot, and her pale fingers glisten faintly in the firelight as she uses a pair of silver eyebrow tweezers to hold a foil blister strip of *VaneCor* cardiac capsules over the flame. A leather weekend valise sits half-packed on the stripped daybed behind her, stuffed with gold watch rolls from the Master Suite's empty velvet tray and two thick bundles of bearer bonds.
 
-Black smoke curls off the melting plastic, dropping greasy ash into the porcelain bowl beside an empty silver *nitroglycerin* rescue-spray canister—its label half-charred, its metal nozzle still intact—and a small amber apothecary bottle of compounded lavender oil sitting uncapped by the faucet.
+Black smoke curls off the melting plastic, dropping greasy ash into the porcelain bowl beside an empty silver *nitroglycerin* rescue-spray canister—its label half-charred, its metal nozzle still intact—a small amber apothecary bottle of compounded lavender oil sitting uncapped by the faucet, and an unwashed crystal brandy tumbler coated at the base with dried amber dregs and chalky white flecks of crushed gelatin capsule shell.
 
 Celeste Vane isn't frozen in a Vermont snowbank. She isn't even hiding from Hollis. She's standing right here in the West Wing, methodically erasing the clinical evidence of how Arthur Vane died Tuesday night while waiting for five o'clock tomorrow.
 

@@ -3,7 +3,7 @@
 
 ---
 
-# Chapter 1
+## Chapter 1
 
 Tire chains bite hard into packed mountain ice, rattling up through the floorboards of my 2014 silver Honda Civic with every switchback.
 
@@ -88,6 +88,13 @@ And resting directly on top of the sliced binding, where the wet glue is still t
 Above my head, directly across the third-floor rafters where the attic corridor runs, a heavy floorboard groans under the slow, deliberate shift of a boot.
 
 Then a key turns in the upper stairwell lock, sealing me inside the hall.
+
+***
+
+**Continue Clara Vance's story in Book 2 of the series:**
+**THE CARETAKER'S LEDGER**
+*A Clara Vance Thriller (Book 2) by David Seelmann*
+*If you enjoyed The Wife's Inventory, please consider leaving a review on Amazon and following David Seelmann for new release alerts.*
 
 ---
 
@@ -646,21 +653,17 @@ Hollis leans one shoulder against the outer doorjamb, cradling his shotgun acros
 
 The master bedroom looks staged for a magazine shoot—or scrubbed clean in a hurry. Arthur Vane's king-sized bed sits made with military-tight hospital corners. Against the east wall stands Celeste Vane's mirrored dressing table, its glass top wiped nearly bare except for a silver hairbrush, a tortoiseshell comb, and a small amber dropper bottle labeled *Compounded Lavender Oil — Rx 4412*.
 
-I log the dressing table on my yellow pad, unscrew the dropper cap for half a second to confirm the scent, and screw it back down while Hollis watches from the door. Next, I step into the walk-in cedar closet. Arthur's tweed jackets and flannel shirts hang evenly spaced on wooden hangers, while Celeste's winter coats leave a clean, empty gap where the white-and-navy *Moncler* down jacket should hang. On the bathroom marble counter beyond the open arch sits an empty cardboard carton for a sublingual *nitroglycerin* rescue spray, its silver blister sleeve missing.
+I log the dressing table on my yellow pad, unscrew the dropper cap for half a second to confirm the scent, and screw it back down while Hollis watches from the door. Next, I step into the walk-in cedar closet. Arthur's tweed jackets and flannel shirts hang evenly spaced on wooden hangers, while Celeste's winter coats leave a clean, empty gap where the white-and-navy *Moncler* down jacket should hang. On the bathroom marble counter beyond the open arch sits an empty cardboard carton for a sublingual *nitroglycerin* rescue spray, its silver blister sleeve missing and its torn flap bent flat beside a dry porcelain soap dish.
 
-Beside the shuttered bay window sits a small walnut sitting table holding a heavy cut-crystal brandy carafe and a single unwashed tumbler. Someone carried them up from the study—or Arthur and Celeste shared a nightcap right here Tuesday night before everything went sideways.
+Beside the shuttered bay window sits a small walnut sitting table holding a heavy cut-crystal brandy carafe and a single dry brass coaster. No glass sits beside it, though a faint, tacky amber ring stains the polished coaster face—as if someone poured a stiff nightcap and carried an unwashed tumbler out of the room in a hurry. The walnut veneer around the coaster is wiped bone-dry, leaving a sharp dust line where a second heavy base used to rest.
 
-I step over to the sitting table, keeping my back angled slightly toward Hollis so he only sees my shoulder moving as I jot down *1 crystal decanter, 1 tumbler*.
+I step over to the sitting table, keeping my back angled slightly toward Hollis so he only sees my shoulder moving as I jot down *1 crystal decanter, coaster, no glass*.
 
 With my left hand, I lift the heavy crystal stopper an inch out of the carafe neck.
 
-Two things hit me at once. First, a sticky, translucent oil smudge coats the frosted glass grip of the stopper—smelling unmistakably of Celeste's compounded lavender cuticle oil.
+A sticky, translucent oil smudge coats the frosted glass grip of the stopper—smelling unmistakably of Celeste's compounded lavender cuticle oil. I tilt the faceted crystal toward the gray window light, confirming the fresh palm-print sheen along the rim, then set the stopper back down gently without clinking the neck, my pulse hammering against my ribs.
 
-Second, when I tilt the unwashed crystal tumbler slightly toward the gray window light, a thick, chalky white ring coats the dry amber residue at the bottom of the glass. Tiny, pulverized flecks of gelatin capsule shell cling to the crust—not dissolved sugar, and not ice melt. Someone crushed a cardiac rescue capsule or sedative pill directly into the bottom of that glass before pouring the brandy.
-
-I set the stopper back down gently without clinking the crystal, my pulse hammering against my ribs.
-
-Arthur Vane suffered from severe gout and heart trouble. His wife wears compounded lavender oil, her spotless winter coat is hidden in Hollis's pickup truck, and someone wearing that exact oil handled this brandy stopper right before a crushed capsule ended up in an unwashed glass.
+Arthur Vane suffered from severe gout and heart trouble. His wife wears compounded lavender oil, her spotless winter coat is hidden in Hollis's pickup truck, the silver blister sleeve for his *nitroglycerin* rescue spray is missing from the bathroom counter, and someone wearing that exact lavender oil poured brandy here right before vanishing with the glass.
 
 ***
 
@@ -926,7 +929,7 @@ A woman stands over the basin in the flickering glow.
 
 She's mid-thirties, slender, wearing a black cashmere turtleneck and dark wool trousers—matching the folded sweaters in Celeste Vane's bedroom closet, minus the spotless *Moncler* down coat sitting in the bed of Hollis's pickup. Her blonde hair is pinned up in a tight, messy knot, and her pale fingers glisten faintly in the firelight as she uses a pair of silver eyebrow tweezers to hold a foil blister strip of *VaneCor* cardiac capsules over the flame. A leather weekend valise sits half-packed on the stripped daybed behind her, stuffed with gold watch rolls from the Master Suite's empty velvet tray and two thick bundles of bearer bonds.
 
-Black smoke curls off the melting plastic, dropping greasy ash into the porcelain bowl beside an empty silver *nitroglycerin* rescue-spray canister—its label half-charred, its metal nozzle still intact—and a small amber apothecary bottle of compounded lavender oil sitting uncapped by the faucet.
+Black smoke curls off the melting plastic, dropping greasy ash into the porcelain bowl beside an empty silver *nitroglycerin* rescue-spray canister—its label half-charred, its metal nozzle still intact—a small amber apothecary bottle of compounded lavender oil sitting uncapped by the faucet, and an unwashed crystal brandy tumbler coated at the base with dried amber dregs and chalky white flecks of crushed gelatin capsule shell.
 
 Celeste Vane isn't frozen in a Vermont snowbank. She isn't even hiding from Hollis. She's standing right here in the West Wing, methodically erasing the clinical evidence of how Arthur Vane died Tuesday night while waiting for five o'clock tomorrow.
 
@@ -1340,7 +1343,7 @@ Through the ornate iron scrollwork, I look down on three people standing inside 
 
 Celeste's chin lifts a fraction. "Arthur left the house on his own, Sloane. Hollis and I were in the carriage barn."
 
-"Arthur didn't answer his scheduled nine-o'clock fiduciary call on Wednesday morning," Sloane replies without raising her voice. "You told my receptionist he and Celeste took the snowmobiles down to the lower ridge cabin before the lines went down, Hollis—hoping to stall me until Saturday. Except I had an anonymous fax on my desk before dawn, and my investigator's satellite tracker has been pinging inside this house since yesterday dusk. Nobody's buying a blizzard walk-off so Arthur's voting shares can vest to you at five o'clock tomorrow."
+"Arthur didn't answer his scheduled nine-o'clock fiduciary call on Wednesday morning," Sloane replies without raising her voice. "You told my receptionist he and Celeste took the snowmobiles down to the lower ridge cabin before the lines went down, Hollis—hoping Boston would just call local Search and Rescue for your deputy to stall at the roadblock until Saturday. Except I had an anonymous fax on my desk before dawn, and my investigator's satellite tracker has been pinging inside this house since yesterday dusk. Nobody's buying a blizzard walk-off so Arthur's voting shares can vest to you at five o'clock tomorrow."
 
 ***
 
@@ -1368,7 +1371,7 @@ Hollis's jaw goes rigid, the muscle bunching beneath his gray stubble. He stares
 
 "I barred the door and heard her inside!" Celeste shoots back, stepping backward toward the study archway. "I lit the shingles myself! If she got out, it wasn't through the front!"
 
-"She's still inside the house," Sloane interrupts, dropping the Iridium chip back onto the lectern and snapping her leather briefcase latches open with two sharp metallic clicks. "And frankly, I don't care which closet she's hiding in, as long as she doesn't walk out with the wrong book. When that anonymous fax hit my Boston desk Tuesday night, I assumed my missing archivist Mara Abbott sent it before vanishing. I taped it to the back of the Blackthorne photo as a routine briefing exhibit—until your investigator flipped it over at Becky's Diner and went dead silent. I didn't even have to pay for the leverage. Here are the terms: I'm taking Arthur's body down the mountain in the back of Pike's plow before noon tomorrow so the state medical examiner certifies his time of death prior to five o'clock. My bondholders keep their thirty-eight million, and I wire a quiet two-hundred-thousand-dollar nuisance settlement to your Cayman account, Celeste, so nobody asks how Arthur's cardiac spray disappeared."
+"She's still inside the house," Sloane interrupts, dropping the Iridium chip back onto the lectern and snapping her leather briefcase latches open with two sharp metallic clicks. "And frankly, I don't care which closet she's hiding in, as long as she doesn't walk out with the wrong book. Six years ago, Arthur swore to me every paper copy of the 2020 escrow disbursements had been burned. When that anonymous fax hit my Boston desk Tuesday night, I assumed my missing archivist Mara Abbott sent it before stumbling onto Arthur's murder—not my old signatures. I wired a tracker into Clara Vance's portfolio so she'd lead me straight to Arthur's body before five o'clock tomorrow—until she flipped that fax over at Becky's Diner and went dead silent. Here are the terms: I'm taking Arthur's body down the mountain in the back of Pike's plow before noon tomorrow so the state medical examiner certifies his time of death prior to five o'clock. My bondholders keep their thirty-eight million, and I wire a quiet two-hundred-thousand-dollar nuisance settlement to your Cayman account, Celeste, so nobody asks how Arthur's cardiac spray disappeared."
 
 ***
 
@@ -1544,13 +1547,13 @@ Below in the blowing blizzard, Hollis Greer backed his Ford F-250 out of the car
 
 Maya knew she couldn't survive a week in the attic with cracked ribs, and she knew Hollis would never let her walk down the logging road alive. Even if she reached the iron gates on foot, the county road was unplowed and six miles from the nearest farmhouse.
 
-Before dawn, while Hollis drove down the unplowed ridge in his pickup to pay Enoch Pike's plow retainer, she crept down the service chase to the dark second-floor caretaker's office, where the estate fax line still carried a faint dial tone before Hollis severed the exterior junction box. Her fingers trembled from blood loss and cold as she pulled a folded photocopy of the lobby **Guest Ledger** from her satchel—signed at the bottom under her *Mara Abbott* alias. Two weeks earlier, logging Arthur's estate files on *Mercer-Hall Fiduciary*'s estate-trust archive portal, Maya had seen the internal Salt Point escrow alert flagging Clara Vance as Sloane's new primary quiet-clean field contractor. She couldn't risk writing Clara's name where Hollis might read it and burn the lodge down around her. Instead, she pressed her left-handed fountain pen into the margin with **Noodler's Prussian Blue** ink and wrote three words in the exact slanted cursive with the looping `m` tail her sister had teased her about since grade school: *Don't trust him.*
+Before dawn, while Hollis drove down the unplowed ridge in his pickup to pay Enoch Pike's plow retainer, she crept down the service chase to the dark second-floor caretaker's office, where the estate backup fax line carried barely thirty seconds of dial tone before Hollis severed the exterior junction box. With no time to feed a forty-four-page ledger through a thermal modem, her fingers trembled from blood loss and cold as she pulled a folded photocopy of the lobby **Guest Ledger** from her satchel—signed at the bottom under her *Mara Abbott* alias. Two weeks earlier, logging Arthur's estate files on *Mercer-Hall Fiduciary*'s estate-trust archive portal, Maya had seen the internal Salt Point escrow alert flagging Clara Vance as Sloane's new primary quiet-clean field contractor. She couldn't risk writing Clara's name where Hollis might read it and burn the lodge down around her. Instead, she pressed her left-handed fountain pen into the margin with **Noodler's Prussian Blue** ink and wrote three words in the exact slanted cursive with the looping `m` tail her sister had teased her about since grade school: *Don't trust him.*
 
-She fed the cropped sheet into *Mercer-Hall Fiduciary*'s overnight Boston compliance fax line, listening to the modem tones squeal softly in the dark before the paper dropped into the catch tray and the green transmission LED blinked steady—knowing Sloane would hand it to Clara as a missing-archivist exhibit, and praying Clara would recognize her hand.
+She fed the single cropped sheet into *Mercer-Hall Fiduciary*'s overnight Boston compliance fax line, listening to the modem tones squeal softly in the dark before the paper dropped into the catch tray and the green transmission LED blinked steady—knowing Sloane would hand it to Clara as a missing-archivist exhibit, and praying Clara would recognize her hand.
 
 ---
 
-# Chapter 18
+## Chapter 18
 
 Wednesday dusk settled over Blackthorne Ridge like wet slate.
 
@@ -1646,7 +1649,7 @@ Clara looked past the shotgun barrel, straight at the glowing grate where the bl
 
 ---
 
-# Chapter 19
+## Chapter 19
 
 My wrists are numb where the double nylon ratchets bite into my wool cuffs.
 
@@ -1760,7 +1763,7 @@ The Great Hall hearth detonates in a roaring geyser of scalding white steam, wet
 
 ---
 
-# Chapter 20
+## Chapter 20
 
 Scalding white steam hits my cheeks like a wet wool blanket, stinging the raw scrape along my jaw.
 
@@ -1856,7 +1859,7 @@ As the plow blade shears past the kitchen foundation, the steel corner rips clea
 
 ---
 
-# Chapter 21
+## Chapter 21
 
 Dry furnace heat and stale coal dust hit our faces as Maya and I drop down the narrow wooden cellar stairs into the sub-basement boiler vault. Old pine treads groan beneath our wet boots, slick with tracked snow from the pantry floor.
 
@@ -1940,7 +1943,7 @@ Above me, Maya's cold, ink-stained hand reaches down from the dark brick throat,
 
 ---
 
-# Chapter 22
+## Chapter 22
 
 Subzero night air hits my soot-caked lungs like crushed ice as Maya hauls me up over the brick lip of the **stone icehouse**.
 
@@ -2018,7 +2021,7 @@ Orange firelight glints off the missing joint of his scarred right hand. Hollis 
 
 ---
 
-# Chapter 23
+## Chapter 23
 
 The snub-nose revolver cracks once across the frosted hood of Sloane's SUV.
 
@@ -2106,7 +2109,7 @@ I lean my forehead briefly against the cold iron gate pillar, feeling the thin p
 
 ---
 
-# Chapter 24
+## Chapter 24
 
 Gray Friday dawn breaks over Blackthorne Ridge in a flat wash of freezing sleet and wet pine smoke.
 
@@ -2188,7 +2191,7 @@ Beside my gurney, Maya slowly flips the warm photocopy packet over to the final 
 
 ---
 
-# Chapter 25
+## Chapter 25
 
 Ten days after the fire on Blackthorne Ridge, December rain hits Portland Harbor sideways off the Casco Bay chop.
 

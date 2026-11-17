@@ -54,21 +54,17 @@ Hollis leans one shoulder against the outer doorjamb, cradling his shotgun acros
 
 The master bedroom looks staged for a magazine shoot—or scrubbed clean in a hurry. Arthur Vane's king-sized bed sits made with military-tight hospital corners. Against the east wall stands Celeste Vane's mirrored dressing table, its glass top wiped nearly bare except for a silver hairbrush, a tortoiseshell comb, and a small amber dropper bottle labeled *Compounded Lavender Oil — Rx 4412*.
 
-I log the dressing table on my yellow pad, unscrew the dropper cap for half a second to confirm the scent, and screw it back down while Hollis watches from the door. Next, I step into the walk-in cedar closet. Arthur's tweed jackets and flannel shirts hang evenly spaced on wooden hangers, while Celeste's winter coats leave a clean, empty gap where the white-and-navy *Moncler* down jacket should hang. On the bathroom marble counter beyond the open arch sits an empty cardboard carton for a sublingual *nitroglycerin* rescue spray, its silver blister sleeve missing.
+I log the dressing table on my yellow pad, unscrew the dropper cap for half a second to confirm the scent, and screw it back down while Hollis watches from the door. Next, I step into the walk-in cedar closet. Arthur's tweed jackets and flannel shirts hang evenly spaced on wooden hangers, while Celeste's winter coats leave a clean, empty gap where the white-and-navy *Moncler* down jacket should hang. On the bathroom marble counter beyond the open arch sits an empty cardboard carton for a sublingual *nitroglycerin* rescue spray, its silver blister sleeve missing and its torn flap bent flat beside a dry porcelain soap dish.
 
-Beside the shuttered bay window sits a small walnut sitting table holding a heavy cut-crystal brandy carafe and a single unwashed tumbler. Someone carried them up from the study—or Arthur and Celeste shared a nightcap right here Tuesday night before everything went sideways.
+Beside the shuttered bay window sits a small walnut sitting table holding a heavy cut-crystal brandy carafe and a single dry brass coaster. No glass sits beside it, though a faint, tacky amber ring stains the polished coaster face—as if someone poured a stiff nightcap and carried an unwashed tumbler out of the room in a hurry. The walnut veneer around the coaster is wiped bone-dry, leaving a sharp dust line where a second heavy base used to rest.
 
-I step over to the sitting table, keeping my back angled slightly toward Hollis so he only sees my shoulder moving as I jot down *1 crystal decanter, 1 tumbler*.
+I step over to the sitting table, keeping my back angled slightly toward Hollis so he only sees my shoulder moving as I jot down *1 crystal decanter, coaster, no glass*.
 
 With my left hand, I lift the heavy crystal stopper an inch out of the carafe neck.
 
-Two things hit me at once. First, a sticky, translucent oil smudge coats the frosted glass grip of the stopper—smelling unmistakably of Celeste's compounded lavender cuticle oil.
+A sticky, translucent oil smudge coats the frosted glass grip of the stopper—smelling unmistakably of Celeste's compounded lavender cuticle oil. I tilt the faceted crystal toward the gray window light, confirming the fresh palm-print sheen along the rim, then set the stopper back down gently without clinking the neck, my pulse hammering against my ribs.
 
-Second, when I tilt the unwashed crystal tumbler slightly toward the gray window light, a thick, chalky white ring coats the dry amber residue at the bottom of the glass. Tiny, pulverized flecks of gelatin capsule shell cling to the crust—not dissolved sugar, and not ice melt. Someone crushed a cardiac rescue capsule or sedative pill directly into the bottom of that glass before pouring the brandy.
-
-I set the stopper back down gently without clinking the crystal, my pulse hammering against my ribs.
-
-Arthur Vane suffered from severe gout and heart trouble. His wife wears compounded lavender oil, her spotless winter coat is hidden in Hollis's pickup truck, and someone wearing that exact oil handled this brandy stopper right before a crushed capsule ended up in an unwashed glass.
+Arthur Vane suffered from severe gout and heart trouble. His wife wears compounded lavender oil, her spotless winter coat is hidden in Hollis's pickup truck, the silver blister sleeve for his *nitroglycerin* rescue spray is missing from the bathroom counter, and someone wearing that exact lavender oil poured brandy here right before vanishing with the glass.
 
 ***
 
