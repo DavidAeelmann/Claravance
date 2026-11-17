@@ -14,7 +14,7 @@ Spruce boughs dump dry powder down my collar every time my shoulder brushes a lo
 
 Fresh waffle-tread tire tracks from Hollis's F-250 curve in beside the gate pillars and back out again—stopped just long enough for a handoff through the window. No new boot prints circle my Civic's rear bumper. My magnetic encrypted tablet case is still tucked out of sight behind the driver's-side rear wheel well liner.
 
-I push off into the trees again before the wind erases my balance. By nine-thirty, my thighs burn from breaking trail through knee-deep drifts, and the thin pink scar on my left wrist throbs steadily beneath my cuff. Halfway down the mountain, I cross a frozen granite brook where gray ice groans under the snowshoe webbing, then follow the timbered ridge parallel to the unplowed logging spur.
+I push off into the trees again before the wind erases my balance. By nine-thirty, my thighs burn from breaking trail through knee-deep drifts, and cold sweat cools along my spine under the heavy wool coat. Halfway down the mountain, I cross a frozen granite brook where gray ice groans under the snowshoe webbing, then follow the timbered ridge parallel to the unplowed logging spur.
 
 Two hours of hard climbing and sliding down the grade brings me out above the lower county line, where the private Blackthorne track meets the salted town road.
 

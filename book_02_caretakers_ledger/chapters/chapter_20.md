@@ -20,7 +20,7 @@ Sloane twists her bound wrists against the white nylon rope, her voice tight aga
 
 A shadow lunges out of the gray fog toward my left shoulder, swinging something heavy and square—Arthur's brass desk weight.
 
-Celeste. Her lavender cuticle oil cuts straight through the wet woodsmoke.
+Celeste. I know her stride before I even see her face.
 
 I drop flat onto one palm, scoop a double handful of freezing, soot-thick birch slurry straight off the hearth apron, and fling it upward into the dark gap where her cashmere collar meets the steam.
 
@@ -42,7 +42,7 @@ Wood splinters explode off the oak lectern frame, showering my coat back with st
 
 I shove through the swinging baize door into the **commercial kitchen**.
 
-Cold tile meets my boots. The room smells of cold tallow, stale dish soap, and wet soot drafting in from the hall behind me. Against the far wall, the massive black cast-iron range radiates faint residual warmth from the pilot manifold, while the walk-in cold larder door stands latched beside the pastry counter. Overhead, heavy copper saucepans hang in a dark row above the butcher-block island, catching pale silver frost-glare from the tall pantry window.
+Cold tile meets my boots. Pale silver frost-glare spills through the tall pantry window, catching the row of heavy copper saucepans hanging above the butcher-block island while wet soot drifts in from the hall behind me. Against the far wall, the massive black cast-iron range radiates faint residual warmth from the pilot manifold, while the walk-in cold larder door stands latched beside the pastry counter.
 
 I slip behind the stainless-steel prep table and edge toward the **butler's pantry** doorway, gripping Arthur's walnut cane with both hands like a batter's bat. The steel counter chills my hip through my wet wool coat. Beyond the baize swing-door, Celeste is still coughing violently in the Great Hall, screaming at Hollis not to leave her alone in the dark with Sloane.
 
@@ -66,7 +66,7 @@ Hollis grunts hard as the splintered stock tears out of his scarred right hand, 
 
 The wooden **dumbwaiter hatch** in the pantry wall slides upward with a dry scrape of hemp rope.
 
-**Maya** drops out onto the pine floorboards, landing hard on her laced leather boots despite the yellowed medical tape wrapped tight around her ribs. Her dark hair sticks damply to her forehead, and buttoned tight inside her heavy flannel shirt sits the oilskin-wrapped **Caretaker's Ledger**.
+**Maya** drops out onto the pine floorboards, landing hard on her laced leather boots and biting back a sharp gasp against the pain in her side. Her dark hair sticks damply to her forehead, and buttoned tight inside her heavy flannel shirt sits the oilskin-wrapped **Caretaker's Ledger**.
 
 I catch her by the elbow before her knees buckle, steadying her against the cold larder shelves. "You flooded the flue," I breathe, feeling the feverish heat radiating off her gray wool sweater.
 

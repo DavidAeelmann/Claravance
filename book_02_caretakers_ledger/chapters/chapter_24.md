@@ -20,7 +20,7 @@ Maya steps down from the stretcher beside me, keeping the oilskin-wrapped **Care
 
 ***
 
-Two hours later, **St. Johnsbury Hospital** smells of antiseptic bleach, damp wool coats, and scorched vending-machine coffee.
+Two hours later, the triage bay at **St. Johnsbury Hospital** hums under harsh fluorescent tubes, the thin blue privacy curtain doing little to muffle the clatter of rolling crash carts outside.
 
 At **8:30 AM**, the ER triage bay is quiet behind thin blue privacy curtains. Three neat black nylon sutures close the split across my right index finger, and a clean gauze square covers the scrape along my temple. The thin paper sheet beneath my legs crinkles every time I shift, and my wool socks are drying stiffly beside the radiator grille. Maya sits on the edge of the rolling chair beside my gurney, holding a thick, warm **photocopy packet** of the **Caretaker's Ledger** that Halvorsen's paralegal just ran off at the hospital records desk while we wait for the federal courier to seal the original calfskin book buttoned inside her fleece.
 
@@ -32,7 +32,7 @@ The privacy curtain rings rattle sharply on their aluminum track.
 
 "I had a good guide," I say, pulling the olive wool blanket tighter around my shoulders. "And your SUV still needs a new ignition relay."
 
-Sloane's mouth curves fractionally, without humor. She glances once at Maya's taped ribs, then pulls a folded cream-bond **wire authorization slip** from her trench pocket and lays it on the steel tray table beside my elbow. The heavy bond paper smells faintly of dry ink and Boston espresso.
+Sloane's mouth curves fractionally, without humor. She glances once at Maya's stiff posture, then pulls a folded cream-bond **wire authorization slip** from her trench pocket and lays it on the steel tray table beside my elbow.
 
 "Your **forty-five-thousand-dollar** field contract cleared compliance at seven-thirty," Sloane says smoothly. "You produced Arthur Vane's corpse prior to five o'clock, which preserves the thirty-eight-million-dollar bondholder clawback. My firm honors its paper, Clara. Every cent is already in transit to Portland."
 
@@ -40,11 +40,11 @@ Sloane's mouth curves fractionally, without humor. She glances once at Maya's ta
 
 "I know why you did it," Sloane replies. She steps half a pace closer to the gurney, lowering her voice until it barely rises above the hum of the triage heart monitor. "And that brings us to the second signature on page forty-four. Halvorsen hasn't unsealed the federal grand jury packet yet. If you and your sister sign a joint supplemental **consulting addendum** with Mercer-Hall Fiduciary right now—routing the original Caretaker's Ledger through our Boston compliance counsel for internal audit before the U.S. Attorney takes formal custody—I'll wire a **one-hundred-thousand-dollar** retainer bonus to your Portland account before noon."
 
-Maya's ink-stained fingers tighten on the edge of the photocopy packet in her lap. She doesn't look up at Sloane.
+Maya's fingers tighten on the edge of the photocopy packet in her lap. She doesn't look up at Sloane.
 
 I look at the crisp hundred-thousand-dollar figure in my head. Three years ago, after Harbor Mutual buried me in civil court, that kind of money would have wiped out every debt I carried and bought me a clean office on Commercial Street. I wouldn't have spent two winters living out of a silver Honda Civic.
 
-Yet Maya is sitting two feet away with taped ribs and ink-stained knuckles because she walked away from her life at twenty-one rather than sign off on dead children.
+Yet Maya is sitting two feet away—bruised, exhausted, and still guarding that ledger—because she walked away from her life at twenty-one rather than sign off on dead children.
 
 "You co-signed Escrow Account `#884-19B` in October 2020," I say flatly. "You paid Hollis Greer a hundred and forty-five thousand dollars to bury three dead children under fake hypothermia autopsies. If we hand that original ledger to your compliance counsel first, page forty-four will vanish into a shredder before lunch."
 
@@ -60,7 +60,7 @@ I reach past the wire slip on the steel tray table and push the blue privacy cur
 
 Sloane's jaw locks white beneath the plum bruise on her cheekbone, though she doesn't turn around or step back. She keeps her hands folded calmly inside the pockets of her borrowed trench coat while the state trooper beside the doorframe shifts his weight onto his heels.
 
-Maya stands up from the rolling chair, ignoring the sharp wince across her taped ribs, and walks straight past Sloane into the corridor. She unbuttons her navy fleece, draws the oilskin-wrapped **Caretaker's Ledger** clear, and places the original calfskin book directly into Halvorsen's gloved hands. Beside it, I drop two sealed hospital biohazard bags onto the courier's clipboard—the wrapped **crystal brandy stopper** and the **half-charred nitroglycerin rescue-spray canister** from my coat pocket.
+Maya stands up from the rolling chair, suppressing a wince as she straightens, and walks straight past Sloane into the corridor. She unbuttons her navy fleece, draws the oilskin-wrapped **Caretaker's Ledger** clear, and places the original calfskin book directly into Halvorsen's gloved hands. Beside it, I drop two sealed hospital biohazard bags onto the courier's clipboard—the wrapped **crystal brandy stopper** and the **half-charred nitroglycerin rescue-spray canister** from my coat pocket.
 
 "Original paper, unbroken chain of custody," I tell Halvorsen from the gurney. "Page forty-four has the October 2020 escrow authorization. My sister's whistleblower immunity agreement goes on the record before she gives her formal statement."
 

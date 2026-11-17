@@ -58,7 +58,7 @@ I turn toward the cast-iron radiator bolted along the south chimney wall.
 
 Heat radiates off the painted iron fins in shimmering waves, blistering hot to the touch—fed straight up from that wide-open manual damper in the sub-basement boiler vault.
 
-Directly behind the hot copper riser pipe, set flush into the dark cedar wainscoting, sits a tall vertical louver panel secured not by nails, but by two small brass turnbuckles. A faint crescent smudge of Prussian Blue ink stains the lower cedar slat where someone's left palm pushed it shut in a hurry.
+Directly behind the hot copper riser pipe, set flush into the dark cedar wainscoting, sits a tall vertical louver panel secured not by nails, but by two small brass turnbuckles. A faint crescent smudge of dark blue ink stains the lower cedar slat where someone's left palm pushed it shut in a hurry.
 
 I twist the brass latches open and pull the cedar panel outward.
 
@@ -84,7 +84,7 @@ It's a full sheet of heavy cream, red-ruled ledger paper. Along the left margin 
 
 I smooth the warm paper flat on the draftsman's table beneath the gray window light.
 
-Three guest names sit logged in neat faded ink at the top for Tuesday, December 2: *Arthur Vane — Master*, *Celeste Vane — Master*, *Mara Abbott — Room 4*. Beneath them, filling the blank lower half of the page in rapid, left-slanting Prussian Blue cursive, sits a hand-drawn schematic of the **Stone Icehouse** behind the kitchen wing.
+Three guest names sit logged in neat faded ink at the top for Tuesday, December 2: *Arthur Vane — Master*, *Celeste Vane — Master*, *Mara Abbott — Room 4*. Beneath them, filling the blank lower half of the page in rapid, left-slanting blue cursive, sits a hand-drawn schematic of the **Stone Icehouse** behind the kitchen wing.
 
 Arrows point from the exterior icehouse floor down into a rough rectangle labeled: *A.V. — ROCK SALT / SAWDUST — DIED TUES 11:40 PM*. Beside it, a second arrow points down the back wall of the icehouse into a shaft marked: *COAL CHUTE TO BOILER — NO LOCK ON FLAP.* In the margin sits one final word, underlined twice in heavy ink: *LEDGER IN WALL.*
 

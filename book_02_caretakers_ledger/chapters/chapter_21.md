@@ -12,7 +12,7 @@ My chest burns from coal grit and steam. Every muscle in my shoulders aches from
 
 I drag an empty galvanized ash bucket beneath the mouth of the **brick coal chute**—the same dark tunnel I dropped through two hours ago when the icehouse roof burned. Cold night air drafts down the steep brick throat from the collapsed icehouse shingles above, carrying clean pine needles and frost against my wet cheeks. It smells like survival.
 
-Maya steps onto the overturned ash bucket, bracing her left palm against the rough mortar. Her breath catches sharply against her taped ribs, though she doesn't make a sound. Buttoned tight inside her heavy flannel shirt, the oilskin-wrapped **Caretaker's Ledger** bulges stiffly against her chest—six years of her life reduced to forty-four ink-ruled pages.
+Maya steps onto the overturned ash bucket, bracing her left palm against the rough mortar. Her breath catches sharply in her chest, though she doesn't make a sound—just a quick, tight grimace before she sets her jaw again. Buttoned tight inside her heavy flannel shirt, the oilskin-wrapped **Caretaker's Ledger** bulges stiffly against her ribs—six years of her life reduced to forty-four ink-ruled pages, and I am not losing her to a dark shaft tonight.
 
 "Go," I urge, cupping my hands beneath her laced leather boot heel to boost her upward into the brick throat. "Don't stop until you hit the cold stone inside the icehouse. If the roof beam shifted, stay left along the granite wall. Arthur's body is still under the salt by the north wall."
 
@@ -44,7 +44,7 @@ He knows she's carrying the ledger. And he knows the chute leads straight up to 
 
 He raises his left hand toward the **brass coal-chute latch** to yank the heavy iron hatch down and seal Maya inside.
 
-In the pulsing orange glow from the high cellar window, the polished brass handle catches a dull, greasy reflection—the familiar three-pad oil smudge left by Hollis's own bare hand when he rigged the chute, gleaming dark against the worn metal. Six years of quiet arrogance, pressed straight onto the brass lever beside the cast-iron counterweight housing.
+In the pulsing orange glow from the high cellar window, the polished brass handle catches a dull, greasy reflection—his own bare handprint gleaming dark against the worn metal. Six years of quiet arrogance, pressed straight onto the brass lever beside the cast-iron counterweight housing.
 
 His left wrist crosses directly beneath the raised vertical iron baffle lip as his gloved fingers close tight on the latch.
 

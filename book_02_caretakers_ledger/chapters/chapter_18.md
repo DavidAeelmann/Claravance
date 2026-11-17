@@ -40,7 +40,7 @@ Boston had sent someone anyway.
 
 Hollis left the sliced Guest Ledger open on the oak lectern, the brass desk weight still pinning the torn blue corner. He crossed quietly through the archway into Arthur's walnut study, checked the brass dial on the wall safe behind the survey maps to verify the *VaneCor* master binders were still gone, and knelt beside the gun cabinet. He pulled his twelve-gauge pump shotgun from the cedar rack. Two brass buckshot shells slid into the magazine tube until the spring clicked tight.
 
-From the second-floor West Wing, not a sound reached the study. Celeste was keeping behind the shuttered guest suite as ordered, nursing her lavender oil and waiting for Friday afternoon. She had no stomach for blood or soot, which suited Hollis fine as long as she stayed out of his sightlines.
+From the second-floor West Wing, not a sound reached the study. Celeste was keeping behind the shuttered guest suite as ordered, nursing her nerves and waiting for Friday afternoon. She had no stomach for blood or soot, which suited Hollis fine as long as she stayed out of his sightlines.
 
 Ninety seconds. That was all it took for him to step down the back service hall, check the cellar bulkhead bolt from the inside to be sure Mara hadn't pried it loose, and test the kitchen pantry latch. Everything held. He climbed the narrow rear stairs to the third-floor landing so he could watch the front door from above, his rubber soles silent on the waxed pine treads. If a state auditor or a Mercer-Hall lawyer was walking up the drive in the dark, he wanted the high ground before the front oak lock turned.
 

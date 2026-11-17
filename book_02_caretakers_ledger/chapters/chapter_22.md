@@ -6,7 +6,7 @@ We collapse side by side onto the frozen rock salt beside the north granite wall
 
 "Up," I rasp, catching Maya's elbow and nudging her toward the splintered cedar rafters where the roof caved in during Celeste's earlier arson attempt. "Through the roof vent frame—before the smoke fills the pit and chokes us out."
 
-Maya bites down hard against the pain in her taped ribs and climbs first, her laced leather boots finding purchase on the frosted granite blocks and charred timber lath. Twice a loose slate shingle slides beneath her heel, clattering back down onto the rock salt beside Arthur's corpse. She squeezes through the jagged **icehouse roof vent** opening into the open drift, gasping softly as she hits the crusted snow outside, then turns back to grip my wool collar and haul me clear of the soot-blackened beams.
+Maya bites down hard against the pain in her side and climbs first, her laced leather boots finding purchase on the frosted granite blocks and charred timber lath. Twice a loose slate shingle slides beneath her heel, clattering back down onto the rock salt beside Arthur's corpse. She squeezes through the jagged **icehouse roof vent** opening into the open drift, gasping softly as she hits the crusted snow outside, then turns back to grip my wool collar and haul me clear of the soot-blackened beams.
 
 We drop knee-deep into crusted powder behind the kitchen wing. Frost immediately stiffens my wet coat sleeves, and the sudden subzero wind cuts straight through the sweat on my neck. Behind us, the stone icehouse vents thick gray coal smoke into the pine canopy like a broken chimney.
 

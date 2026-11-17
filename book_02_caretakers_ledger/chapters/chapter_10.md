@@ -4,15 +4,15 @@ I don't try the third-floor stairs. Whoever just snapped a shotgun safety off in
 
 I drop to my knees beside the hot radiator in Room 4, twist the brass turnbuckles back, and pull the cedar louver panel wide. Behind me, heavy boots hit the second-floor gallery planks—pausing briefly outside the Master Suite where I left the jewelry drawer unlocked, then turning east toward the narrow attic stairs. Whoever just walked into the lodge knows the upper house layout by heart, and he's sweeping the third floor first.
 
-I squeeze headfirst into the narrow brick pipe chase, turn my shoulders sideways to clear the scalding copper riser, and pull the cedar louver flush behind my heels until the wooden lip catches. Pitch darkness swallows me instantly. The brick flue radiates dry, suffocating heat against my coat sleeves, thick with the smell of old soot, damp wool, and pine turpentine. Below my boots, steel plumbing straps bolted into the mortar drop straight down into the dark shaft like ladder rungs, spaced just wide enough to catch the welt of a winter boot.
+I squeeze headfirst into the narrow brick pipe chase, turn my shoulders sideways to clear the scalding copper riser, and pull the cedar louver flush behind my heels until the wooden lip catches. Pitch darkness swallows me instantly. The brick flue radiates dry, suffocating heat against my coat sleeves, parching my throat with ancient chimney soot. Below my boots, steel plumbing straps bolted into the mortar drop straight down into the dark shaft like ladder rungs, spaced just wide enough to catch the welt of a winter boot.
 
-I hook one toe onto the top strap, grip the cool iron cold-water pipe beside the hot riser so I don't blister my palms, and lower myself rung by rung into the guts of the house. Condensation beads along the cold iron pipe, wetting my raw knuckles and stinging the healing pink scar across my left wrist. Every breath tastes like chimney dust and hot lime. Halfway down, my coat hem snags on a jagged mortar lip; I yank it free without clicking my penlight and keep climbing down past the second-floor ceiling joists. A copper branch line splits off toward the west gallery through a notched timber beam, humming faintly with circulating hot water from the boiler vault below. Dust rains softly onto my wool collar with each shift of my weight.
+I hook one toe onto the top strap, grip the cool iron cold-water pipe beside the hot riser so I don't blister my palms, and lower myself rung by rung into the guts of the house. Condensation beads along the cold iron pipe, wetting my raw knuckles and numbing my cramped fingers. Every breath tastes like chimney dust and hot lime. Halfway down, my coat hem snags on a jagged mortar lip; I yank it free without clicking my penlight and keep climbing down past the second-floor ceiling joists. A copper branch line splits off toward the west gallery through a notched timber beam, humming faintly with circulating hot water from the boiler vault below. Dust rains softly onto my wool collar with each shift of my weight.
 
 A narrow square access hatch—barely wide enough for a plumber's shoulders—breaks the dark plaster wall on my left, secured by a rusted slide bolt.
 
 Above me in the attic, a heavy shoulder slams twice against the locked third-floor fire door. Wood splinters faintly around the strike plate, followed by the rattle of a brass knob violently twisted against a thrown deadbolt. Whoever climbed the stairs—Enoch Pike, or Hollis—just realized the deadbolt is thrown from the inside and won't budge.
 
-I slide the rusted hatch bolt back with my thumb, grit scraping loud in the tight shaft, then push the wooden panel outward an inch and peer into a dim, shuttered linen closet smelling of cedar shavings and dry laundry soap. Empty. I crawl out of the shaft, brush lime dust off my knees, pull the access hatch shut behind my boots, and ease the linen closet door open into the far west end of the second-floor gallery.
+I slide the rusted hatch bolt back with my thumb, grit scraping loud in the tight shaft, then push the wooden panel outward an inch and peer into a dim, shuttered linen closet smelling of dry cedar shavings. Empty. I crawl out of the shaft, brush lime dust off my knees, pull the access hatch shut behind my boots, and ease the linen closet door open into the far west end of the second-floor gallery.
 
 ***
 
@@ -22,9 +22,7 @@ I don't head back toward my west guest room—not when Pike or Hollis will sweep
 
 Near the end of the corridor, the air changes.
 
-A thin ribbon of dry warmth leaks beneath the final door, carrying a sharp, acrid chemical stink—scorched aluminum blister foil and melting plastic—layered cleanly underneath a familiar sweet floral note.
-
-*Compounded lavender cuticle oil.*
+A thin ribbon of dry warmth leaks beneath the final door, carrying the sharp, chemical hiss of scorched aluminum blister foil and melting plastic—accompanied by the soft metallic tick of an electric oil radiator.
 
 I stop outside the final double doors of the West Wing parlor suite. No overhead lamp burns inside, yet a faint orange flicker pulses behind the keyhole, accompanied by the soft hiss of a butane lighter clicking shut and the rustle of heavy paper.
 

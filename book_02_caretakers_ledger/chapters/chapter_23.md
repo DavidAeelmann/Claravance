@@ -44,11 +44,11 @@ He swings the snub-nose revolver around to fire point-blank into my ribs.
 
 Before his finger can clear the **iced trigger guard**, I whip the hooked brass handle of Arthur's cane upward, catching the inside of his right wrist, and drive my boot heel straight into the back of his knee.
 
-Hollis's injured leg buckles in the crusted snow. We crash sideways together into the drift beside the gate pillar, rolling hard against the frozen tire ruts. Cold snow packs down the collar of my wool coat, and his heavy shoulder slams into my bruised ribs. Yet his **missing right ring fingertip** and frozen, blood-slick palm fail to hold the checkered grip against the recoil of my cane. The iced steel trigger guard slips clean off his scarred index knuckle, robbing him of the leverage to pull through the heavy double-action spring.
+Hollis's injured leg buckles in the crusted snow. We crash sideways together into the drift beside the gate pillar, rolling hard against the frozen tire ruts. Cold snow packs down the collar of my wool coat, and his heavy shoulder slams into my bruised ribs. Yet his maimed, blood-slick palm fails to hold the checkered grip against the recoil of my cane. The iced steel trigger guard slips clean off his scarred index knuckle, robbing him of the leverage to pull through the heavy double-action spring.
 
 I slam the heavy walnut shaft straight down across his forearm, pinning his right wrist against the frozen ruts, and pry the snub-nose revolver out of his numb fingers. His bruised thumb scrapes across the cold cylinder release before I wrench the steel frame clear.
 
-"You missed!" Hollis snarls, thrashing upward with his shoulder and swinging his crushed, bloodied left elbow toward my jaw. His wintergreen-stained teeth snap inches from my coat collar. He smells of wet soot, raw kerosene, and old sweat.
+"You missed!" Hollis snarls, thrashing upward with his shoulder and swinging his crushed, bloodied left elbow toward my jaw. His wintergreen-stained teeth snap inches from my coat collar, his breath hot and sour in the freezing dark.
 
 I drive my knee hard into his sternum, pinning him flat against the ice until the wind leaves his lungs in a wet, rattling gasp. Holding him down with one elbow across his throat, I fling his snub-nose revolver far into the dark spruce drift beyond the gate pillars, where it vanishes silently into waist-deep powder.
 
@@ -66,7 +66,7 @@ Behind me, snow crunches softly beside the SUV's rear bumper.
 
 **Celeste Vane** hasn't moved from the slush behind the rear tire. She sits huddled against the frosted rubber with her pale hands pressed over her ears, staring blankly at the roaring orange flames consuming the woodshed bay and the rear kitchen roof. The thirty-eight-million-dollar clock is still ticking toward five o'clock, and she knows nobody is coming to cash it.
 
-Maya steps clear of the woodshed bay, limping slightly against her taped ribs, and stops beside me at the iron gate. Her ink-stained fingers touch my torn wool sleeve—warm, steady, and real in the freezing dark. Buttoned safe beneath her flannel shirt rests the oilskin-wrapped **Caretaker's Ledger**.
+Maya steps clear of the woodshed bay, favoring her bruised side, and stops beside me at the iron gate. Her cold fingers touch my torn wool sleeve—warm, steady, and real in the freezing dark. Buttoned safe beneath her flannel shirt rests the oilskin-wrapped **Caretaker's Ledger**.
 
 "Sloane's still inside the Great Hall," I tell her, nodding toward the front oak door where thick black smoke is already curling out beneath the porch eaves. "Watch Celeste. If she stands up, hit her with Arthur's cane."
 
@@ -80,6 +80,6 @@ Through the dense black spruce corridor below us, twin **blue-and-red strobe bar
 
 State police cruisers and county fire rigs—drawn up the ridge by the towering column of diesel smoke visible from the state highway, Pike's abandoned county plow strobe, and the abrupt dead-man cutoff of Sloane's Boston satellite tracker.
 
-Maya slides her cold, ink-stained hand into mine, her knuckles raw from the brick chute yet steady against my split finger. Behind us, Hollis slumps silent against the forged iron spear, while Celeste stares blankly at the burning timber gables. Snowflakes hiss softly against the cooling hood of Sloane's disabled SUV, and the scent of pine smoke drifts down from the woodshed.
+Maya slides her cold hand into mine, her knuckles raw from the brick chute yet steady against my split finger. Behind us, Hollis slumps silent against the forged iron spear, while Celeste stares blankly at the burning timber gables. Snowflakes hiss softly against the cooling hood of Sloane's disabled SUV, and the scent of pine smoke drifts down from the woodshed.
 
-I lean my forehead briefly against the cold iron gate pillar, feeling the thin pink scar under my left cuff pulse in the subzero air, and watch the first cruiser headlights sweep through the spruce trees toward us, cutting bright white cones through the drifting snow.
+I lean my forehead briefly against the cold iron gate pillar, letting my lungs finally empty in the subzero air as the shaking starts in my knees—six years of silence ending in the dark—and watch the first cruiser headlights sweep through the spruce trees toward us, cutting bright white cones through the drifting snow.

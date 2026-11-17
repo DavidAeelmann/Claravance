@@ -42,11 +42,9 @@ At six-forty, heavy knuckles rap twice against the oak panel.
 
 "Kitchen coffee's on," Hollis calls through the wood. "You wanted to start your probate inventory before noon. Master suite's open."
 
-Ten minutes later, I follow him down the gallery corridor carrying a yellow legal pad and a ballpoint pen from my duffel. The double mahogany doors of the master suite stand unlocked now, swinging inward into a sprawling corner bedroom that smells faintly of stale cedar, cold linen, and something floral—sweet and sharp against the chill.
+Ten minutes later, I follow him down the gallery corridor carrying a yellow legal pad and a ballpoint pen from my duffel. The double mahogany doors of the master suite stand unlocked now, swinging inward into a sprawling corner bedroom kept unnaturally cold—the radiators shut off, the heavy drapes drawn tight against the gray morning. One sharp, sweet herbal note hangs in the dead air, cutting straight through the chill.
 
-Compounded lavender cuticle oil.
-
-My skin prickles. It's the exact same scent I smelled on the quilted *Moncler* down coat folded inside the bed of Hollis's Ford F-250 last night.
+My skin prickles. It's the exact same floral oil I caught on the quilted *Moncler* down coat folded inside the bed of Hollis's Ford F-250 last night.
 
 Hollis leans one shoulder against the outer doorjamb, cradling his shotgun across his crooked arm while keeping his eyes fixed on my hands. "Catalog the jewelry drawer, the closet, and the desk," he says flatly. "Don't touch the wall safe behind the headboard—that's for the Boston lawyers."
 
@@ -64,7 +62,7 @@ With my left hand, I lift the heavy crystal stopper an inch out of the carafe ne
 
 A sticky, translucent oil smudge coats the frosted glass grip of the stopper—smelling unmistakably of Celeste's compounded lavender cuticle oil. I tilt the faceted crystal toward the gray window light, confirming the fresh palm-print sheen along the rim, then set the stopper back down gently without clinking the neck, my pulse hammering against my ribs.
 
-Arthur Vane suffered from severe gout and heart trouble. His wife wears compounded lavender oil, her spotless winter coat is hidden in Hollis's pickup truck, the silver blister sleeve for his *nitroglycerin* rescue spray is missing from the bathroom counter, and someone wearing that exact lavender oil poured brandy here right before vanishing with the glass.
+Arthur Vane suffered from severe gout and heart trouble. His wife wears compounded lavender oil, her spotless winter coat is hidden in Hollis's pickup truck, the silver blister sleeve for his *nitroglycerin* rescue spray is missing from the bathroom counter, and someone wearing that exact oil poured brandy here right before vanishing with the glass.
 
 ***
 
@@ -96,6 +94,6 @@ It isn't a jewelry receipt. It's a three-page **Survivorship & Voting-Share Cove
 
 > *In the event Arthur Vane is not legally certified deceased prior to **5:00 PM EST on Friday, December 5**, all Class-A voting shares ($38,000,000 par value) shall vest irrevocably in **Celeste Vane** as sole beneficiary.*
 
-My fingers go cold around the paper. I fold the covenant sheets flat into my breast pocket, then cross to the sitting table, wrap the lavender-smudged crystal brandy stopper inside a clean linen handkerchief from my pocket, and drop it into my coat. I leave the empty carafe neck uncovered—Hollis won't notice one missing stopper before he gets back from the gate.
+My fingers go cold around the paper. I fold the covenant sheets flat into my breast pocket, then cross to the sitting table, wrap the smudged crystal brandy stopper inside a clean linen handkerchief from my pocket, and drop it into my coat. I leave the empty carafe neck uncovered—Hollis won't notice one missing stopper before he gets back from the gate.
 
-Today is Thursday. Tomorrow at five o'clock, thirty-eight million dollars changes hands—and the woman who wears lavender cuticle oil isn't missing in a Vermont snowbank. She's hiding somewhere on this ridge, waiting out the clock.
+Today is Thursday. Tomorrow at five o'clock, thirty-eight million dollars changes hands—and Celeste Vane isn't missing in a Vermont snowbank. She's hiding somewhere on this ridge, waiting out the clock.

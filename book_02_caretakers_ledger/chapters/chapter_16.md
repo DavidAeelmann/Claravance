@@ -26,9 +26,9 @@ The narrow wooden car hangs motionless at the bottom of the well, its shelves st
 
 Before risking the Great Hall flagstones, I creep down the narrow cellar stairs behind the pantry, my boots finding the worn edges of the pine treads so they don't creak.
 
-The **sub-basement boiler vault** hums with steady mechanical heat, smelling strongly of furnace diesel, wet concrete, and spent cordite from Hollis's evening shotgun blast. A bare yellow bulb still burns above the workbench, illuminating the shattered brickwork around the coal-chute mouth and the spilled pile of gray clinkers on the floor. Overhead, the hot copper riser feeding Room 4 ticks steadily as the circulator pump pushes water up three stories.
+The **sub-basement boiler vault** hums with steady mechanical heat, the concrete floor vibrating faintly beneath my damp boots while a sharp trace of spent cordite hangs near the shattered brickwork. My shoulders ache from the climb down the shaft, and my knees feel ready to buckle. A bare yellow bulb still burns above the workbench, illuminating the broken mortar around the coal-chute mouth and the spilled pile of gray clinkers on the floor. Overhead, the hot copper riser feeding Room 4 ticks steadily as the circulator pump pushes water up three stories.
 
-I crouch beside the cast-iron **ash-pit damper**. The heavy vertical baffle sits slightly bound in its steel side tracks where buckshot chewed the mortar, and the recessed gravity counterweight sits half-wedged in its vertical grease slot. On the brass release lever outside the slot, a fresh three-pad smudge of gun oil catches the yellow bulb light—where Hollis checked the latch after shooting into the chute. Using my steel multi-tool pliers, I clear two crushed brick chips out of the vertical track, test the pin's travel until it slides smooth, and loop a short length of copper bell-wire from the workbench around the counterweight pin—leaving the baffle rigged on a hairline release so one sharp pull on the brass lever outside will drop the heavy cast-iron plate straight across the chute throat.
+I crouch beside the cast-iron **ash-pit damper**. The heavy vertical baffle sits slightly bound in its steel side tracks where buckshot chewed the mortar, and the recessed gravity counterweight sits half-wedged in its vertical grease slot. On the brass release lever outside the slot, a fresh greasy smudge catches the yellow bulb light—where Hollis checked the latch after shooting into the chute. Using my steel multi-tool pliers, I clear two crushed brick chips out of the vertical track, test the pin's travel until it slides smooth, and loop a short length of copper bell-wire from the workbench around the counterweight pin—leaving the baffle rigged on a hairline release so one sharp pull on the brass lever outside will drop the heavy cast-iron plate straight across the chute throat.
 
 Behind the furnace, a short concrete stair rises to the **exterior cellar bulkhead**, its angled timber doors barred from the inside by a heavy wrought-iron crossbar dropped into steel brackets. Snow packs silently against the frosted glass light-well beside the frame. Knowing that inside bar is seated—and knowing how easily someone could wedge it from outside in the snow—tells me this basement isn't an exit if the kitchen stairs get cut off.
 
@@ -60,7 +60,7 @@ She doesn't gasp. She doesn't call out to Hollis. Her silver-streaked head tilts
 
 I pivot toward the study archway, grab the canvas strap of my **navy duffel** off the worn leather armchair, and check the open zipper—my sliced **$45,000 NDA portfolio** is still inside, minus the transceiver now warming in my pocket. The leather wallet and spare cash I stashed in the side pocket haven't been touched. I step backward toward the pantry shadow, hauling the duffel tight against my hip while my boots brush the edge of the braided wool rug.
 
-A faint whiff of **compounded lavender cuticle oil** cuts straight through the woodsmoke behind my right ear, followed by the soft rustle of cashmere against dry oak paneling.
+Behind my right ear, a loose oak floorboard gives a tiny, sharp creak, followed by the soft rustle of cashmere against dry paneling.
 
 I try to duck, raising my left forearm to shield my temple.
 
@@ -70,6 +70,6 @@ The solid brass pyramid clips the side of my left shoulder and glances hard off 
 
 Before I can roll onto my side or reach the multi-tool in my coat pocket, heavy Vibram boots slam down beside my ribs, pinning my coat hem to the stone. The brass desk weight clatters onto the floor beside my temple, still warm from Celeste's palm.
 
-"Got her," Celeste hisses, breathing fast and ragged in the dark as she steps back toward the study doorway, wiping her lavender-slick fingers on her cashmere sleeve.
+"Got her," Celeste hisses, breathing fast and ragged in the dark as she steps back toward the study doorway, wiping her sweating palms on her cashmere sleeve.
 
 Cold steel presses tight behind my right ear as **Hollis Greer** steps out of the vestibule shadow with the twelve-gauge leveled at my face, his thumb clicking the safety off while he reaches into his chore-coat pocket with his scarred right hand for a fistful of thick black nylon **zip ties**.

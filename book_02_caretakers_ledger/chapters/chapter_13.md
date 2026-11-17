@@ -24,35 +24,47 @@ A small, red-filtered penlight clicks on, painting the rough pine rafters and st
 
 I stare across the narrow, soot-dusted floorboards at **Maya**.
 
-She looks older than twenty-seven—hollow-cheeked, her dark hair chopped jaggedly at her collar and tucked behind one ear, her gray wool sweater damp with sweat and stained at the left cuff with dried **Noodler's Prussian Blue** ink. A strip of yellowed medical tape wraps tight around her ribs beneath her open flannel shirt. Every breath she draws stops short of a full inhale, and her scraped knuckles look raw from the brickwork.
+For three seconds neither of us breathes. My mind refuses to square the sister I spent six years hunting through county morgue logs and cold-case alerts with the woman huddled three feet away. She looks older than twenty-seven—hollow-cheeked, her dark hair chopped jaggedly at her collar and tucked behind one ear, her gray wool sweater damp with sweat and stained at the left cuff with dried **Noodler's Prussian Blue** ink. A strip of yellowed medical tape wraps tight around her ribs beneath her open flannel shirt. Every breath she draws stops short of a full inhale, and her scraped knuckles look raw from the brickwork.
 
-For three seconds neither of us moves. The last time I saw my sister alive, she was twenty-one years old in a Burlington coffee shop, sliding a spare apartment key across a sticky Formica table before vanishing off the grid. Now she's sitting three feet away in a dark attic crawlspace, smelling of pine turpentine, cold sweat, and chimney dust.
+"Maya," I manage, the name scraping out of a throat raw with coal dust.
 
-"Your left wrist," Maya whispers, her eyes dropping to the pink healing scar peeking out beneath my torn coat cuff. Her voice sounds dry and papery, worn thin from days of silence. "What happened in Maine?"
+I reach out before I even think, my fingers catching her cold wool sleeve just to prove she isn't a trick of carbon monoxide and exhaustion. She flinches sharply as my elbow brushes her ribs, biting down on a gasp, then grabs my forearm with both hands—holding on so tight her nails dig through my coat.
 
-"A ferry dock," I say, my throat raw with coal dust as I reach out and catch her cold, ink-stained hand in mine. Her bones feel fragile beneath the wool sleeve, like a bird's wing. "I'm okay. I cleared the judgment, Maya. I came up here the second Sloane showed me the ledger scan."
+"Six years," I whisper, my eyes burning suddenly in the soot-dark air. "Not a postcard. Not a call on your birthday. I thought you were dead in a ditch off Route 7."
 
-Maya exhales a short, bitter sound through her nose and eases herself back against the warm brick chimney, wincing as her taped ribs press against the mortar. The collar of her open flannel shirt shifts, exposing the pale, crescent-shaped scar above her right collarbone from the summer we both fell off the dock pilings in Casco Bay. Beside her rolled wool blanket sits a dented aluminum thermos, a half-empty box of saltines, a fountain pen with its cap off, and a heavy rectangular bundle wrapped tight in oiled brown canvas. She unscrews the thermos cap and nudges it toward my knees; lukewarm tap water sloshes inside.
+"I couldn't," Maya says, her voice dry and papery, worn thin from days of silence. She lets out a shaky breath that turns into a wet cough she smothers against her sleeve. "If I called Portland, they'd have watched your apartment next. Look at me, Clara—I'm sorry."
+
+Her eyes drop to my left wrist where the torn coat cuff rides back, exposing the thin pink Salt Point scar. Her thumb brushes the raised line gently. "What happened in Maine?"
+
+"A ferry dock," I say, squeezing her freezing, ink-stained hand. Her bones feel fragile beneath the wool, like a bird's wing. "I cleared the judgment. I came up here the second Sloane showed me the ledger scan."
+
+Maya eases herself back against the warm brick chimney, wincing as her ribs press against the mortar. Beside her rolled wool blanket sits a dented aluminum thermos, a half-empty box of saltines, a fountain pen with its cap off, and a heavy rectangular bundle wrapped tight in oiled brown canvas. She unscrews the thermos cap and nudges it toward my knees; lukewarm tap water sloshes inside.
 
 I take two slow swallows, washing the coal grit off my tongue, then hand the steel cup back.
 
-"I knew Sloane would send you," Maya says quietly, keeping one ear cocked toward the floorboards of Room 4 outside our louver. "My whole cover as *Mara Abbott* was auditing Arthur's private trust through *Mercer-Hall Fiduciary*'s estate-trust archive portal. Two weeks ago, an internal escrow alert popped across my screen when you turned down Julian Mercer's fifty-thousand-dollar bribe at Salt Point and handed Sloane's firm the unredacted ledger. Right below it sat Sloane's partner memo flagging you as her new primary quiet-clean field contractor."
+"Wait," I say softly, pulling the folded Guest Ledger page and the glossy Blackthorne photograph from my breast pocket. "How did you know Sloane would send *me*?"
 
-"That's why you sent the fax to Boston," I say, pulling the folded Guest Ledger page and the glossy Blackthorne photograph from my breast pocket. "You knew the second Arthur collapsed, Sloane would dispatch me before Friday's vesting deadline."
+"I was auditing Arthur's private trust as *Mara Abbott*," Maya whispers, keeping one ear cocked toward the floorboards of Room 4 outside our louver. "My cover gave me access to *Mercer-Hall Fiduciary*'s estate-trust archive portal. Two weeks ago, an internal escrow alert popped across my screen when you turned down Julian Mercer's fifty-thousand-dollar bribe at Salt Point."
 
-"Yes," Maya says. "And I couldn't write your name or sign mine on the lobby Guest Ledger. If Hollis saw *Clara* on that margin, he'd know *Mara Abbott* was connected to the Boston auditor and burn this lodge down with me inside before you ever left Portland. Writing *Don't trust him.* looked like a dead-end archivist note about Arthur. Sloane wouldn't know my left-leaning cursive from anyone else's—she'd just tape it to your briefing photo as proof her archivist vanished, while only you would recognize my handwriting and know *him* meant Hollis Greer."
+"She flagged me," I breathe.
 
-"And you knew Hollis would slice it out," I say.
+"Right below the alert sat Sloane's partner memo naming you her new primary quiet-clean field contractor," Maya says. "The second Arthur collapsed Tuesday night, I knew Sloane would dispatch you before Friday's vesting deadline."
 
-"He sliced the top sheet out Wednesday dusk with his skinning knife because my alias was still wet on the bottom line," Maya says. "He was already in the Great Hall burning duplicate clinical manifests with lamp kerosene when your headlights hit the front gate."
+"And the margin note," I say, tapping *Don't trust him.* "Why not write my name? Why not tell me where to look?"
 
-She reaches out with her left hand and taps the brass **ROOM 4 — ATTIC EAST** tag resting in my palm.
+"Because if Hollis saw *Clara* on the lobby Guest Ledger, he'd know *Mara Abbott* was tied to Boston's auditor," Maya says sharply, her eyes bright in the red light. "He would have burned this house down with me in the walls before you ever left Portland. *Don't trust him* looked like a dead-end archivist warning about Arthur—something Sloane would tape to your briefing photo without a second thought, while only you would know my left-handed cursive."
 
-"Hollis ducked into the study for his shotgun," Maya whispers. "I had ninety seconds. I dropped down the pantry dumbwaiter, grabbed the hide glue from the butler's shelf, and pressed that brass tag straight onto the tacky spine so you'd know where to look if Hollis locked you in. I climbed back up the shaft before he threw the third-floor deadbolt—then rode the car right back down past you when he cut the generator, leaving the glue bottle inside the tray when I slipped into the pipe chase."
+"And you knew Hollis would slice the page out."
 
-"You rigged the boiler damper too," I say, nodding toward the scalding copper riser humming beside my knee. "Eighteen gallons of fuel oil in forty-eight hours, all pushed straight up into Room 4."
+"He took his skinning knife to it Wednesday dusk while my alias was still wet on the bottom line," Maya says. "He was already in the Great Hall burning duplicate clinical manifests when your headlights hit the gate."
 
-"I had to," Maya says, pulling her knees tighter to her chest as the chill from my wet coat radiates through the tight space. "If I froze to death in the rafters, nobody was ever going to read what's inside this oilskin. Hollis broke two of my ribs Tuesday night when he caught me in the study hallway—I barely made it into the dumbwaiter before he fired."
+She reaches out and taps the brass **ROOM 4 — ATTIC EAST** tag resting in my palm.
+
+"Hollis ducked into the study for his shotgun," Maya whispers. "I had ninety seconds. I dropped down the pantry dumbwaiter, grabbed the hide glue off the butler's shelf, and pressed that tag onto the tacky spine so you'd know where to look if he locked you in. I climbed back up before he threw the third-floor deadbolt—then rode the car right back down past you when he cut the generator, leaving the glue bottle in the tray."
+
+"You rigged the boiler damper too," I say, nodding toward the scalding copper riser humming beside my knee. "Eighteen gallons of fuel oil in forty-eight hours."
+
+"If I froze to death in the rafters, nobody was ever going to read what's inside this oilskin," Maya says, pulling her knees tighter to her chest as the chill from my wet coat radiates through the tight space. "Hollis cracked two of my ribs Tuesday night when he caught me in the study hallway—I barely made it into the dumbwaiter before he fired."
 
 ***
 
@@ -68,13 +80,13 @@ Maya's jaw sets hard, her thumb brushing the edge of the charred canister. "She 
 
 Maya reaches down beside her thermos, unties the hemp twine around the **oiled canvas bundle**, and peels the stiff waterproof cloth back.
 
-Inside sits a thick, calfskin-bound **Caretaker's Ledger**—twin to the maroon Guest Ledger downstairs, its brass corner guards green with age and its spine reinforced with black linen tape. The heavy rag-paper pages smell of cedar chest and old ink.
+Inside sits a thick, calfskin-bound **Caretaker's Ledger**—twin to the maroon Guest Ledger downstairs, its brass corner guards green with age and its spine reinforced with black linen tape. The heavy rag-paper pages feel cold and stiff with damp.
 
 "She didn't just lie about the timeline, Clara," Maya whispers, her voice dropping so low I have to lean my ear close to her shoulder.
 
 She flips past sixty pages of handwritten farm deliveries, timber leases, and caretaker wages until she reaches a crisp, ink-ruled spread near the back—**Page 44**, dated **October 14, 2020**, two months after Maya vanished from Burlington. I click my white penlight on, shielding the beam with my cupped palm so no light leaks through the cedar louver slats.
 
-My beam catches a fresh *Noodler's Prussian Blue* sticky-note tab Maya left on the margin, right beside six neat columns of wire transfers.
+My beam catches a fresh blue sticky-note tab Maya left on the margin, right beside six neat columns of wire transfers.
 
 > *CASE #VT-20-114 (PEDIATRIC CARDIAC / HYPOTHERMIA RECLASSIFICATION) — $145,000.00*
 > *DISBURSED VIA: STATE STREET ESCROW ACCT #884-19B (BOSTON)*

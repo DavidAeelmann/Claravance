@@ -12,7 +12,7 @@ I turn up the steep brick slope toward the Old Eastern Promenade, climbing past 
 
 Inside my third-floor apartment, the cast-iron radiator by the front window hisses and clanks against the cold draft.
 
-The narrow hallway smells of damp cedar floorboards, toasted rye bread, and faint eucalyptus liniment from the fresh roll of athletic tape sitting on the bathroom sink. Maya's laced leather boots—scrubbed clean of Vermont mud and soot—stand neatly aligned beside my sneakers on the rubber boot tray. On the brass key hook beside the door hangs a spare set of house keys she hasn't held since college.
+The narrow hallway feels warm and lived-in, carrying the faint toastiness of rye bread from the toaster beside a fresh roll of athletic tape on the bathroom sink. Maya's laced leather boots—scrubbed clean of Vermont mud and soot—stand neatly aligned beside my sneakers on the rubber boot tray. On the brass key hook beside the door hangs a spare set of house keys she hasn't held since college.
 
 I set the paper grocery bag on the butcher-block counter, peel off my wet coat, and check the half-ajar door of the spare bedroom.
 

@@ -1,18 +1,26 @@
 # Chapter 14
 
-Under the shielded cone of my penlight, the **Caretaker's Ledger** smells like damp calfskin, iron gall ink, and six years of bought silence.
+Under the shielded cone of my penlight, the **Caretaker's Ledger** feels cold and heavy in my lap, its rag-paper pages stiff from six years in an oiled shroud.
 
-Maya sits cross-legged beside me on the wool blankets, holding the open spine steady with her left palm while her right hand presses lightly against her taped ribs. Every time the boiler surges two floors below, the copper riser beside my shoulder ticks and hums, keeping the narrow brick crawlspace blisteringly warm.
+Maya sits cross-legged beside me on the wool blankets, holding the open spine steady with her left palm while her right arm stays tucked tight against her side. Every time the boiler surges two floors below, the copper riser beside my shoulder ticks and hums, keeping the narrow brick crawlspace blisteringly warm.
 
-"Start at twenty-twenty," Maya whispers, flipping back two leaves from Page 44. "The first three *VaneCor* pediatric trial deaths happened in Burlington and St. Johnsbury between August and October. All three children had undiagnosed arrhythmia markers in their baseline EKGs, and all three died within seventy-two hours of receiving the escalated dose."
+"Start at twenty-twenty," Maya whispers, flipping back two leaves from Page 44. "Three *VaneCor* pediatric trial deaths in Burlington and St. Johnsbury—August through October. All three kids had baseline arrhythmia markers, and all three died within seventy-two hours of the escalated dose."
 
-I run my bare forefinger down the ruled ink columns, cross-referencing the dates against the two shredded *VaneCor* manifests still tucked inside my breast pocket. The batch codes—*VC-09-412* and *VC-09-418*—match line for line. Beside each patient's initials sits a neat, right-handed entry in Arthur Vane's fountain-pen scrawl: a rural town name, a county medical examiner's initials, and a round-number disbursement—`$145,000.00`, `$180,000.00`, `$210,000.00`—routed through **State Street Escrow Account #884-19B** in Boston.
+I run my bare forefinger down the ruled ink columns, pulling the two shredded *VaneCor* manifests from my breast pocket to compare. "The batch codes match. *VC-09-412* and *VC-09-418*."
 
-Between 2021 and 2024, four more pediatric cases appear in the back half of the book—all reclassified as accidental drownings or winter exposure, every single one cleared by the same two rural examiners on Hollis's courier route.
+"Look at the right margin," Maya says, tapping the paper.
+
+Beside each patient's initials sits a neat entry in Arthur Vane's fountain-pen scrawl: a rural town name, a county medical examiner's initials, and a round-number disbursement—`$145,000.00`, `$180,000.00`, `$210,000.00`—routed through **State Street Escrow Account #884-19B** in Boston. Between 2021 and 2024, four more pediatric cases appear in the back half of the book, all reclassified as accidental drownings or winter exposure on Hollis's courier route.
 
 At the bottom of every single page, Arthur Vane's signature sits on the left line, and **Sloane Mercer-Hall's** crisp black signature sits on the right.
 
-"Sloane's firm underwrote the thirty-eight-million-dollar institutional bond that kept *Vane Biotech* solvent after the FDA delayed full approval," Maya says quietly, tracing a penciled margin note beside a 2023 transfer. "If those deaths had hit the clinical registry, the bondholders would have pulled their capital overnight and *Mercer-Hall Fiduciary* would have eaten the federal clawback. Six years ago, I pulled the raw EKG variance logs off the Burlington server before I understood who was covering it up. Three days later, someone torched my apartment while I was at the laundromat."
+"Why did Sloane sign off on hospital hush money?" I ask softly, my stomach sinking as the numbers blur together.
+
+"Her firm underwrote the thirty-eight-million-dollar institutional bond that kept *Vane Biotech* solvent after the FDA delayed full approval," Maya says quietly, tracing a penciled margin note beside a 2023 transfer. "If those deaths hit the clinical registry, the bondholders pull their capital overnight and *Mercer-Hall Fiduciary* eats the federal clawback."
+
+"And six years ago in Burlington, you found the variance logs."
+
+"I pulled the raw EKG sheets off the server before I understood who was paying for the silence," Maya says, her voice tightening. "Three days later, someone torched my apartment while I was at the laundromat."
 
 "And the survivorship clause," I murmur, pulling out the three-page covenant I lifted from Celeste's jewelry drawer. "Arthur's voting shares only vest to Celeste if he survives past five o'clock tomorrow afternoon. If he's certified dead before five, the thirty-eight million snaps back to Sloane's institutional bondholders."
 

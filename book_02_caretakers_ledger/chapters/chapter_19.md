@@ -12,7 +12,7 @@ Across the hearth, Sloane Mercer-Hall sits slumped in the worn leather armchair,
 
 Celeste steps around the corner of the study archway. She has set the heavy brass desk weight on the corner of the oak lectern, though her fingers still tremble violently against the hem of her cashmere turtleneck. Raynaud's circulation, or panic. Either way, her fingertips look dead white in the orange firelight.
 
-She drops to one knee beside me—close enough that I smell compounded lavender oil beneath the sour tang of woodsmoke—and yanks my wool coat open.
+She drops to one knee beside me—her weight pinning my bruised shoulder hard against the floorboards—and yanks my wool coat open.
 
 "Don't bother with the duffel," Hollis says. "I already saw the sliced leather inside. Check her pockets."
 

@@ -12,7 +12,7 @@ I slide my canvas daypack with the snowshoes and spare lithium brick onto the to
 
 I pull a six-inch strand of dark gray thread from the frayed hem of my coat lining. I wedge one end into the upper doorjamb gap just above the brass hinge and tuck the loose tail flat against the molding—a crude tamper-trap so I'll know if Hollis checks my room while I'm downstairs.
 
-My left wrist aches under the wool cuff, the thin pink ridge of my Salt Point scar throbbing faintly in the damp chill. Two weeks ago, paying off that eighteen-thousand-dollar judgment felt like buying my life back. Back in Portland, I walked out of Becky's Diner thinking the worst thing in my life was a flooded basement audit. Now I'm locked inside a freezing mountain fortress with a sabotaged car, a caretaker who carries bolt cutters, and a dead man's cane sitting dry in the hall mudroom.
+A shiver runs straight between my shoulder blades, and I tuck my bare fingers into my armpits to stop them from shaking. Two weeks ago, paying off that eighteen-thousand-dollar judgment felt like buying my life back. Back in Portland, I walked out of Becky's Diner thinking the worst thing in my life was a flooded basement audit. Now I'm locked inside a freezing mountain fortress with a sabotaged car, a caretaker who carries bolt cutters, and a dead man's cane sitting dry in the hall mudroom.
 
 I sit on the edge of the stripped four-poster mattress in my coat and boots, listening to the low thrum of the diesel generator vibrating through the floorboards. Unlike Maine, there is no ocean surf or distant harbor buoy out here—only dead winter silence pressing against the granite walls.
 
@@ -22,7 +22,7 @@ I wait fifteen more minutes until the glowing hands on my wristwatch read eleven
 
 ***
 
-The second-floor corridor smells of cold cedar, dry plaster, and old varnish. I hug the inner wall where the oak joists meet the lathe, avoiding the center boards that bow under weight, and slip past the locked double doors of the master suite. No light leaks under the threshold. Across the landing, the third-floor attic stairs sit swallowed in pitch black.
+Up here, the heat never reaches past the stairwell; the second-floor corridor holds a dead, unmoving chill that settles straight into my collarbones. I hug the inner wall where the oak joists meet the lathe, avoiding the center boards that bow under weight, and slip past the locked double doors of the master suite. No light leaks under the threshold. Across the landing, the third-floor attic stairs sit swallowed in pitch black.
 
 At the east end of the gallery, I ease through the narrow service door and descend the pie-shaped back stairs behind the main chimney stack.
 
@@ -86,7 +86,7 @@ Before I can reach for the lever, the heavy iron damper plate clanks softly from
 
 I freeze, my hand hovering an inch above my multi-tool.
 
-The iron plate slides upward a fraction of an inch in its greased tracks. A rush of freezing mountain air whistles straight down the brick shaft into the warm boiler room, carrying the sharp scent of pine needles, snow, and wet wool.
+The iron plate slides upward a fraction of an inch in its greased tracks. A knife-edge of freezing mountain air whistles straight down the brick shaft into the warm boiler room, carrying fine ice crystals and the raw bite of wet pine needles against my knuckles.
 
 Then a faint, ragged whisper slides through the narrow iron gap in the dark:
 
