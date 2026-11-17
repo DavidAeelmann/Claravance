@@ -10,7 +10,7 @@ I hook one toe onto the top strap, grip the cool iron cold-water pipe beside the
 
 A narrow square access hatch—barely wide enough for a plumber's shoulders—breaks the dark plaster wall on my left, secured by a rusted slide bolt.
 
-Above me in the attic, a heavy shoulder slams twice against the locked third-floor fire door. Wood splinters faintly around the strike plate, followed by the rattle of a brass knob violently twisted against a thrown deadbolt. Whoever climbed the stairs—Enoch Pike, or Hollis—just realized the iron mortise key is missing from the cylinder and the deadbolt won't budge.
+Above me in the attic, a heavy shoulder slams twice against the locked third-floor fire door. Wood splinters faintly around the strike plate, followed by the rattle of a brass knob violently twisted against a thrown deadbolt. Whoever climbed the stairs—Enoch Pike, or Hollis—just realized the deadbolt is thrown from the inside and won't budge.
 
 I slide the rusted hatch bolt back with my thumb, grit scraping loud in the tight shaft, then push the wooden panel outward an inch and peer into a dim, shuttered linen closet smelling of cedar shavings and dry laundry soap. Empty. I crawl out of the shaft, brush lime dust off my knees, pull the access hatch shut behind my boots, and ease the linen closet door open into the far west end of the second-floor gallery.
 
@@ -18,7 +18,7 @@ I slide the rusted hatch bolt back with my thumb, grit scraping loud in the tigh
 
 Down at the east end of the corridor, a muffled curse echoes through the heavy oak stairwell door as a boot kicks the bottom rail. He thinks whoever stole the attic key is still trapped up under the rafters.
 
-I don't head back toward my west guest room—not when Pike or Hollis will sweep the main bedrooms next. Instead, I slip quietly deeper into the shuttered **West Wing**, past three closed guest rooms whose brass handles sit cold and dust-coated. My left wrist aches under my cuff, and my boots make zero sound on the faded wool runner rug.
+I don't head back toward my west guest room—not when Pike or Hollis will sweep the main bedrooms next. Instead, I slip quietly deeper into the shuttered **West Wing**, past three closed guest rooms whose brass handles sit cold and dust-coated. My boots make zero sound on the faded wool runner rug.
 
 Near the end of the corridor, the air changes.
 
@@ -60,7 +60,7 @@ Celeste's knuckles tighten around the brass candlestick. She doesn't step back t
 
 "Prove it," she snaps, raising the candlestick higher until the heavy pewter base gleams in the dying ember of the porcelain bowl. "Nobody's getting off this ridge before Saturday, and by Friday night—"
 
-I lunge half a step sideways toward the vanity—not at Celeste, at the half-charred silver rescue-spray canister sitting on the porcelain rim beside the smoking tweezers. My left hand snatches the cool metal cylinder off the porcelain and drops it straight into my coat pocket beside the wrapped crystal brandy stopper. Acrid blister-foil smoke stings my nostrils as I pivot away from the basin.
+I lunge half a step sideways toward the vanity—not at Celeste, at the half-charred silver rescue-spray canister sitting on the porcelain rim beside the smoking tweezers. My left hand snatches the cool metal cylinder off the porcelain and seals it inside a zip-top plastic evidence baggie from my coat pocket alongside the wrapped crystal brandy stopper. Acrid blister-foil smoke stings my nostrils as I pivot away from the basin.
 
 Celeste swings the brass candlestick hard at my shoulder. I duck under the arc, the heavy metal whistling past my ear and clipping the mahogany mirror frame with a sharp crack of splintered veneer. Before she can bring it back around, I catch her wrist with my right hand and pin her forearm against the edge of the vanity. Her skin feels ice-cold beneath the cashmere cuff, slick with lavender oil, and her pulse hammers fast against my thumb.
 
@@ -72,7 +72,7 @@ Then a sharp, metallic squawk cuts the room in half.
 
 Bolted into the plaster wall beside the vanity hangs a brass-plated house intercom panel, its small amber LED glowing steady in the dark. Static hisses through the speaker grille, followed by the unmistakable, gravelly crackle of Hollis Greer's voice transmitting from downstairs in the study—he just got back inside from the lower gate.
 
-*"Celeste—pick up,"* Hollis barks through the speaker, breathing hard like he just ran up the kitchen steps. *"Pike met me at the gate and we checked the turnout. I found fresh snowshoe tracks leading back from the county road turnaround and a hidden tablet rig behind her Civic's wheel well, Celeste. Check her room—she's not from the probate office."*
+*"Celeste—pick up,"* Hollis barks through the speaker, breathing hard like he just ran up the kitchen steps. *"Pike met me at the gate and we checked the turnout. I found fresh snowshoe tracks leading back from the county road turnaround and a hidden tablet rig behind her Civic's wheel well, Celeste. Check her room—she's not from the fiduciary office."*
 
 The speaker clicks dead.
 

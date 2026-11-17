@@ -36,7 +36,7 @@ Maya exhales a short, bitter sound through her nose and eases herself back again
 
 I take two slow swallows, washing the coal grit off my tongue, then hand the steel cup back.
 
-"I knew Sloane would send you," Maya says quietly, keeping one ear cocked toward the floorboards of Room 4 outside our louver. "My whole cover as *Mara Abbott* was auditing Arthur's private trust through *Mercer-Hall Fiduciary*'s probate intake portal. Two weeks ago, an internal escrow alert popped across my screen when you turned down Julian Mercer's fifty-thousand-dollar bribe at Salt Point and handed Sloane's firm the unredacted ledger. Right below it sat Sloane's partner memo flagging you as her new primary quiet-clean field contractor."
+"I knew Sloane would send you," Maya says quietly, keeping one ear cocked toward the floorboards of Room 4 outside our louver. "My whole cover as *Mara Abbott* was auditing Arthur's private trust through *Mercer-Hall Fiduciary*'s estate-trust archive portal. Two weeks ago, an internal escrow alert popped across my screen when you turned down Julian Mercer's fifty-thousand-dollar bribe at Salt Point and handed Sloane's firm the unredacted ledger. Right below it sat Sloane's partner memo flagging you as her new primary quiet-clean field contractor."
 
 "That's why you sent the fax to Boston," I say, pulling the folded Guest Ledger page and the glossy Blackthorne photograph from my breast pocket. "You knew the second Arthur collapsed, Sloane would dispatch me before Friday's vesting deadline."
 
@@ -48,7 +48,7 @@ I take two slow swallows, washing the coal grit off my tongue, then hand the ste
 
 She reaches out with her left hand and taps the brass **ROOM 4 — ATTIC EAST** tag resting in my palm.
 
-"Hollis ducked into the study for his shotgun," Maya whispers. "I had ninety seconds. I dropped down the pantry dumbwaiter, grabbed the hide glue from the butler's shelf, and pressed that brass tag straight onto the tacky spine so you'd know where to look if Hollis locked you in. Then I climbed back up the shaft before he threw the third-floor deadbolt."
+"Hollis ducked into the study for his shotgun," Maya whispers. "I had ninety seconds. I dropped down the pantry dumbwaiter, grabbed the hide glue from the butler's shelf, and pressed that brass tag straight onto the tacky spine so you'd know where to look if Hollis locked you in. I climbed back up the shaft before he threw the third-floor deadbolt—then rode the car right back down past you when he cut the generator, leaving the glue bottle inside the tray when I slipped into the pipe chase."
 
 "You rigged the boiler damper too," I say, nodding toward the scalding copper riser humming beside my knee. "Eighteen gallons of fuel oil in forty-eight hours, all pushed straight up into Room 4."
 
@@ -80,7 +80,7 @@ My beam catches a fresh *Noodler's Prussian Blue* sticky-note tab Maya left on t
 > *DISBURSED VIA: STATE STREET ESCROW ACCT #884-19B (BOSTON)*
 > *COURIER / CLEARANCE: H. GREER*
 
-I reach into my breast pocket and lay the **charred Vane Biotech voucher corner**—the one I pulled out of the study ash-trap yesterday evening—flat against the ruled margin. The `$145,000.00` payout figure matches to the cent.
+I reach into my breast pocket and lay the **charred Vane Biotech voucher corner**—the one I pulled out of the Great Hall hearth yesterday evening—flat against the ruled margin. The `$145,000.00` payout figure matches to the cent.
 
 My eyes drop past the dollar figures to the bottom authorization block, where two ink signatures certify the off-book disbursement.
 

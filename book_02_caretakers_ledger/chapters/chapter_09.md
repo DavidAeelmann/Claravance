@@ -8,25 +8,23 @@ I unbuckle my snowshoes beside the woodshed, stuff them back into the canvas day
 
 The kitchen sits dead silent. Hollis's waxed parka is gone from the wall peg, and the swinging baize door leading into the Great Hall stands wide open—he didn't bother bolting it when he drove down to meet Pike. As I cross toward the Great Hall archway, I spot the wall telephone jack beside the pantry door. Its ivory faceplate hangs pried off the plaster by one screw, two copper wires ripped clean out of the terminal block with fresh brass pliers marks.
 
-Whoever tried to push that twelve-page fax through at ten-fifty-two didn't get cut off by a storm limb. Someone inside the house tore the jack out of the wall mid-transmission.
+Whoever pushed that fax through before dawn Wednesday didn't get cut off by a storm limb. Someone inside the house tore the jack out of the wall after the transmission hit Boston.
 
 I cross the flagstones quietly, climb the main oak staircase two treads at a time, and stop by the west guest room just long enough to ditch the bulky daypack in my closet. My navy duffel sits undisturbed on the cedar floor, and my gray thread tamper-trap still sits intact in the upper doorjamb. Nobody checked my room while I was on the ridge.
 
-I turn east down the second-floor gallery toward the narrow pine stairs leading up to the third-floor fire door. My left wrist aches under the wool cuff, and my boots leave dark wet prints on the bare treads.
+I turn east down the second-floor gallery toward the narrow pine stairs leading up to the third-floor fire door. My boots leave dark wet prints on the bare treads.
 
 At the top landing, the heavy oak-and-iron fire door still smells of pine resin and gun oil.
 
-I crouch beside the threshold, tear a stiff cardboard backing sheet off my yellow legal pad, and slide it flat through the narrow gap beneath the door until only two corners remain on my side. Then I pop the thin steel awl from my multi-tool and feed it gently into the oiled keyhole, angling the tip upward to catch the center pin of the warded cylinder.
+I crouch beside the threshold, tear a stiff cardboard backing sheet off my yellow legal pad, and slide it flat through the narrow gap beneath the door until only two corners remain on my side. Then I pop the thin steel awl from my multi-tool and feed it gently into the oiled keyhole, angling the tip upward to catch the snapped-off steel blade wedged inside the warded cylinder.
 
-Hard steel clicks against the tip of the key still sitting in the far side of the cylinder. I brace my left shoulder against the oak jamb and push steadily with the awl.
+Hard steel clicks against the broken key tip. I brace my left shoulder against the oak jamb and push steadily with the awl.
 
 Once. Twice.
 
-The far-side key slides backward out of the brass wards and drops with a sharp metallic clink onto the cardboard sheet below.
+The jagged steel key tip slides backward out of the brass wards and drops with a sharp metallic clink onto the cardboard sheet below.
 
-I pull the legal pad backing slowly back toward me under the door. Lying dead center on the gray cardboard sits a heavy iron mortise key, its bow smeared with the same three-pad gun-oil smudge missing a ring fingertip.
-
-I pocket Hollis's key, slide Sloane's brass skeleton key into the cleared cylinder, and turn the deadbolt.
+I pull the legal pad backing slowly back toward me under the door, pocket the broken key tip, and slide Sloane's brass skeleton key into the cleared cylinder. The deadbolt throws with a heavy click. I step into the attic corridor and immediately turn the skeleton key from the inside, re-locking the fire door behind me so Hollis can't walk up unannounced while I search Room 4.
 
 ***
 

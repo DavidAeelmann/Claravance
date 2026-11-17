@@ -74,13 +74,13 @@ I hold the light steady for two seconds, tracing the spacing of the three oily r
 
 I click the penlight off and slip it back into my coat. Then I pull Sloane's brass skeleton key from my left pocket. The front door took it without a fight, oiled by the same hand. If Blackthorne Lodge runs on old nineteenth-century mortise wards, one master bit might throw this upper deadbolt too.
 
-I slide the brass bit gently into the oiled keyhole. It stops halfway in—blocked from the far side by the steel tip of a key still sitting in the cylinder.
+I slide the brass bit gently into the oiled keyhole. It stops halfway in—blocked inside the cylinder by the snapped-off steel tip of a broken key wedged tight against the tumbler.
 
-Whoever locked this door left their key inside the lock.
+Whoever threw this deadbolt from the stairwell side broke their key off in the lock—then slipped down the back stairs to padlock the front porch door.
 
 I lean close, pressing my ear directly against the cold oak panel, holding my breath until the blood thumps loud in my eardrums.
 
-On the far side of the door, pine floorboards creak—slow, heavy, deliberate weight shifting away from the threshold toward the east gable. Not a woman's light step. Heavy winter boots, the exact same slow cadence I heard over the Great Hall rafters ten minutes ago.
+On the far side of the door, pine floorboards creak—a quick, light shift of weight moving away from the threshold toward the east gable. Not heavy winter treads. Lighter leather boots, moving fast in the dark.
 
 Then the deep, steady vibration of the basement generator beneath my boots stutters twice—and dies completely.
 

@@ -6,7 +6,7 @@ I rise slowly from behind the butcher block with both empty palms raised beside 
 
 "Boston fiduciary office," I say, keeping my voice flat and dry, the same clerk cadence I used to bore insurance adjusters in Portland. "Sloane Mercer-Hall sent me up to catalog the estate before the county probate clerk arrives. Check the leather portfolio in my duffel if you want."
 
-The man outside doesn't lower the barrel. Behind the glass, his silhouette shifts sideways as a heavy key ring jingles against his hip. A bolt snaps back inside the rear kitchen door. Cold air rushes across my ankles as he kicks the timber slab inward and steps over the threshold, filling the doorway in a snow-crusted waxed parka and size-eleven Sorel lug boots.
+The man outside doesn't lower the barrel. Behind the glass, his silhouette shifts sideways as a heavy key ring jingles against his hip. A bolt snaps back inside the rear kitchen door. Cold air rushes across my ankles as he kicks the timber slab inward and steps over the threshold, filling the doorway in a snow-crusted waxed parka and size-eleven Vibram lug boots.
 
 Up close, he smells strongly of pine resin, lamp kerosene, and wintergreen smokeless tobacco. Deep weathered lines bracket his mouth beneath a salt-and-pepper beard trimmed short against his jaw. He's pushing fifty, broad through the shoulders, and his left thumb rests steady across the shotgun's top tang safety.
 
@@ -16,9 +16,9 @@ Up close, he smells strongly of pine resin, lamp kerosene, and wintergreen smoke
 
 Hollis's jaw tightens. He spits a thin dark stream of tobacco juice into the stainless kitchen sink beside the door, then steps past me—keeping the shotgun muzzle angled toward my knees—and snatches the brass skeleton key off the butcher block with his gloved right hand.
 
-"You shouldn't be in here," he mutters, shoving the key into his parka pocket. "Generator threw a fuel line an hour ago, and some local trespasser broke into the east gable earlier today. I locked the third-floor fire door from the inside to pen him up until I could fetch my twelve-gauge from the barn, then padlocked the front storm door so nobody else wandered in."
+"You shouldn't be in here," he mutters, shoving the key into his parka pocket. "Generator threw a fuel line an hour ago, and some local trespasser broke into the east gable earlier today. I locked the third-floor fire door from the landing to pen him up and snapped a broken key tip into the ward until I could fetch my twelve-gauge from the barn, then went down the back stairs and padlocked the front storm door so nobody else wandered in."
 
-A smooth lie. Too smooth. He didn't lock the third-floor fire door from the *inside* unless he climbed out a third-floor gable window into a snowbank—and if he locked the front storm door to keep people out, he did it *after* I was already standing at the lectern.
+A smooth lie. Too smooth. If he locked the front storm door to keep people out, he did it *after* I was already standing at the lectern—and he didn't explain why his heavy boots were still creaking on the rafters before I even crossed the Great Hall.
 
 "I'm not here to argue with your security," I say, letting a trace of tired irritation leak into my voice. "I'm a records clerk on a flat ten-day fee. If there's a trespasser in the attic, call the sheriff from your truck. Otherwise, point me to the guest wing and show me the three snowmobiles so I can log the property status and sleep."
 
@@ -38,7 +38,7 @@ He reads Sloane's signed estate-archiving authorization twice, his gloved thumb 
 
 Hollis pauses at the kitchen threshold, his broad back blocking the porch light. "Because I took my pickup down to the county line Tuesday afternoon to buy shearling blankets before the whiteout hit. Bridge washed out below the ridge, so I couldn't get back up until an hour ago. Somebody else took those sleds—or tried to."
 
-Another clean cover story. He even accounted for the fresh mud-terrain truck ruts I saw under the iron gates in Chapter 1.
+Another clean cover story. He even accounted for the fresh mud-terrain truck ruts I saw under the iron gates when I arrived at dusk.
 
 "Then I still need serial numbers off the sleds for the fiduciary inventory," I tell him, stepping onto the back porch ahead of his lantern. "Five minutes in the cold, and I'm out of your hair."
 

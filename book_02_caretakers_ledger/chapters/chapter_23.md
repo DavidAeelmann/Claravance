@@ -54,7 +54,7 @@ I drive my knee hard into his sternum, pinning him flat against the ice until th
 
 ***
 
-Hollis lies panting in the churned snow, steam rising off his torn wool chore coat as the firelight from the burning carriage barn dances across his soot-blackened face. His left wrist hangs swollen and purple against his ribs, and his right hand twitches empty in the slush.
+Hollis lies panting in the churned snow, steam rising off his torn wool chore coat as the orange firelight from the burning woodshed dances across his soot-blackened face. His left wrist hangs swollen and purple against his ribs, and his right hand twitches empty in the slush.
 
 I reach into his open chore coat pocket with my split, aching fingers—finding the exact coil of **black nylon zip ties** he used on me in the Great Hall an hour ago.
 
@@ -64,7 +64,7 @@ Hollis doesn't have the breath left to fight. His knees buckle once against the 
 
 Behind me, snow crunches softly beside the SUV's rear bumper.
 
-**Celeste Vane** hasn't moved from the slush behind the rear tire. She sits huddled against the frosted rubber with her pale hands pressed over her ears, staring blankly at the roaring orange flames consuming the carriage barn and the rear kitchen roof. The thirty-eight-million-dollar clock is still ticking toward five o'clock, and she knows nobody is coming to cash it.
+**Celeste Vane** hasn't moved from the slush behind the rear tire. She sits huddled against the frosted rubber with her pale hands pressed over her ears, staring blankly at the roaring orange flames consuming the woodshed bay and the rear kitchen roof. The thirty-eight-million-dollar clock is still ticking toward five o'clock, and she knows nobody is coming to cash it.
 
 Maya steps clear of the woodshed bay, limping slightly against her taped ribs, and stops beside me at the iron gate. Her ink-stained fingers touch my torn wool sleeve—warm, steady, and real in the freezing dark. Buttoned safe beneath her flannel shirt rests the oilskin-wrapped **Caretaker's Ledger**.
 

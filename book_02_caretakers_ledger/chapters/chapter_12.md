@@ -58,9 +58,9 @@ Then I hook the flat screwdriver tip behind the pin, brace my left elbow against
 
 The iron counterweight drops inside its sleeve with a heavy metallic *clang* that echoes loud enough to rattle my teeth.
 
-The cast-iron baffle swings inward below my chest, dumping a cascade of dry coal dust and clinkers onto the concrete floor of the boiler vault—and flooding my face with hot, diesel-scented air.
+The cast-iron baffle slides upward in its greased steel tracks below my chest, dumping a cascade of dry coal dust and clinkers onto the concrete floor of the boiler vault—and flooding my face with hot, diesel-scented air.
 
-I freeze, gripping the brick lip with both hands and hooking my boot heels hard into the mortar behind me as the heavy iron plate swings to a stop. Dust motes swirl in a shaft of bare yellow bulb light from the far end of the cellar stairs.
+I freeze, gripping the brick lip with both hands and hooking my boot heels hard into the mortar behind me as the heavy iron plate locks high in its tracks. Dust motes swirl in a shaft of bare yellow bulb light from the far end of the cellar stairs.
 
 Below me, a bright white flashlight beam sweeps sharply across the concrete floor near the furnace jacket. Wet Vibram boot soles squeak once against the damp cement as **Hollis Greer** pivots toward the ash-pit wall, the twin barrels of his shotgun gleaming dull blue in the glare. His heavy canvas chore coat smells faintly of wet wool and stove oil. The sweetish tang of wintergreen smokeless tobacco drifts upward, cutting straight through the furnace diesel.
 
@@ -74,7 +74,7 @@ Hollis's flashlight beam snaps straight up toward the open coal-chute mouth, bli
 
 I can't crawl backward—thick black petrol smoke is already choking the upper chute behind my heels, and the cedar planks of the icehouse are crackling loud enough to hear down the brick throat. Going forward drops me straight onto the concrete floor in front of a twelve-gauge barrel.
 
-Then, right beside my left shoulder, a dark cedar access panel recessed into the brick **pipe-chase junction** directly above the boiler pops inward an inch, its brass catch silent in the furnace roar.
+Then, just outside the chute mouth behind the boiler casing, a dark cedar access panel recessed into the brick **pipe-chase junction** pops inward an inch, its brass catch silent in the furnace roar.
 
 Two thin, gloved hands shoot out of the black gap, clamp hard onto the wool collar of my coat, and haul me sideways with desperate, wiry strength. Whoever's inside smells faintly of pine turpentine, damp wool, and cold sweat.
 

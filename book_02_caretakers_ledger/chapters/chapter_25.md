@@ -6,7 +6,7 @@ I walk the granite seawall along Commercial Street with a paper bag of groceries
 
 Three days ago, the **forty-five-thousand-dollar** wire from Mercer-Hall Fiduciary cleared into my Portland checking account without a single compliance hold. Yesterday, an urgent-care nurse snipped the three black nylon sutures out of my right index finger, leaving a tight pink seam across the knuckle that still pulls whenever I curl my hand around a steering wheel. My silver Honda Civic sits parked two blocks up the hill with a new distributor harness, fresh winter tires, and zero snow chains in the trunk.
 
-Two nights ago, **AUSA Nora Halvorsen** faxed the signed federal whistleblower immunity order to my lawyer's office on Middle Street, formally vacating the six-year-old fugitive warrant that kept **Maya Vance** off every bank ledger and lease agreement in New England.
+Two nights ago, **AUSA Nora Halvorsen** faxed the signed federal **protective witness immunity order** to my lawyer's office on Middle Street, formally clearing **Maya Vance** to return to every bank ledger and lease agreement in New England without fear of *Vane Biotech* retaliation.
 
 I turn up the steep brick slope toward the Old Eastern Promenade, climbing past three-story clapboard triple-deckers with peeling white trim and salt-frosted storm windows. My bruised left shoulder aches under the damp wool of my coat, yet the heavy lead weight that lived behind my ribs for six years—the constant low math of wondering whether my sister was alive under a highway overpass or buried in unmarked pine dirt—is finally gone.
 

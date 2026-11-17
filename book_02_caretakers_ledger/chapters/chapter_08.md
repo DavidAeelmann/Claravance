@@ -60,21 +60,21 @@ Before I can push back, the black Motorola dispatch console bolted beneath his d
 
 Static hisses, followed by the clipped, nasal voice of an Essex County dispatcher.
 
-*"Essex Dispatch to Unit Fourteen—Pike, you copy? Automated line-fault ping just tripped on the old Blackthorne Spur copper trunk. Someone tried to push a twelve-page fax carrier through to a Boston six-one-seven exchange at ten-fifty-two, then the line dead-shorted mid-upload. You near the gate?"*
+*"Essex Dispatch to Unit Fourteen—Pike, you copy? Automated trunk audit just flagged a copper line-short on the old Blackthorne Spur from early Wednesday morning. Someone pushed a fax carrier through to a Boston six-one-seven exchange before dawn, then the line dead-shorted mid-upload. You near the gate?"*
 
 Pike freezes with one boot on the steel running board. His face drains of color.
 
 I don't move a muscle either, staring past his shoulder at the glowing green LED on the radio face.
 
-Blackthorne Lodge's landline wasn't snapped by an ice limb Tuesday night. Someone inside that "offline" house just spliced a fax line back into the copper trunk twenty minutes ago, tried to transmit twelve pages to Boston—and got cut off mid-upload when someone else inside the lodge ripped the wire straight out of the wall.
+Blackthorne Lodge's landline wasn't snapped by an ice limb during Tuesday night's blizzard. Someone inside that "offline" house pushed a fax carrier out through the copper trunk before dawn Wednesday—and got cut off mid-upload when someone else inside the lodge ripped the wire straight out of the wall.
 
-Whoever is hiding in that east attic pipe chase isn't a random squatter. They're trying to push those twelve pages out before Friday at five o'clock.
+Whoever is hiding in that east attic pipe chase isn't a random squatter. They're trying to push those pages out before Friday at five o'clock.
 
 Pike grabs the coiled handset. He turns his broad back toward me as he keys the plastic mic button hard.
 
 "Unit Fourteen copies, Dispatch," he says, his voice dropping tight and rough. "Must be a short in the junction box from the storm. I'm at the turnaround now—heading up to the iron gate to meet Greer."
 
-He switches channels with a sharp click of his thumb, keys the mic again, and barks into the cab: *"Hollis—pick up. Somebody just tried to run a fax out on your landline. Meet me at the lower gate right now."*
+He switches channels with a sharp click of his thumb, keys the mic again, and barks into the cab: *"Hollis—pick up. County just flagged a fax carrier on your landline from Wednesday morning. Meet me at the lower gate right now."*
 
 He slams the handset back onto the dashboard cradle and glares down at me from the cab step, his right hand dropping instinctively toward the heavy leather snap holster on his belt.
 

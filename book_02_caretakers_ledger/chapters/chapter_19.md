@@ -20,9 +20,9 @@ Celeste reaches into my right coat pocket first. Her cold knuckles brush my ribs
 
 Sloane's jaw tightens when the transceiver hits the stone. Cracked plastic. The recessed green status light remains dead, though the silver uplink fob beside it catches a dull orange glint from the birch coals. She knows what I tried to do in the gallery before Celeste swung the brass weight, and she knows we only have one shot left at getting an emergency packet out over the ridge.
 
-Next, Celeste drags out the heavy brass skeleton key, the third-floor iron mortise key, the yellow legal pad, the wrapped crystal brandy stopper, and the half-charred silver *nitroglycerin* rescue-spray canister. Her breath catches sharply. She stares down at the blackened metal cylinder resting beside the lavender-scented glass stopper, and for a second the color drains completely out of her cheeks.
+Next, Celeste drags out the heavy brass skeleton key, the snapped steel key tip, the yellow legal pad, and the sealed zip-top plastic evidence baggie holding both the wrapped crystal brandy stopper and the half-charred silver *nitroglycerin* rescue-spray canister. Her breath catches sharply. She stares down at the blackened metal cylinder resting beside the glass stopper, and for a second the color drains completely out of her cheeks.
 
-"She took those from the study," Celeste says, her voice thin and brittle. She whips her hand back as if the glass stopper burned her. "Hollis, she's been inside the master suite."
+"She took that from the master suite," Celeste says, her voice thin and brittle. She whips her hand back as if the plastic baggie burned her. "Hollis, she's been through my vanity."
 
 "Keep going," Hollis says.
 

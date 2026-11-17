@@ -2,7 +2,7 @@
 
 Gray Friday dawn breaks over Blackthorne Ridge in a flat wash of freezing sleet and wet pine smoke.
 
-By six-thirty, two county pumper trucks have knocked down the worst of the carriage barn fire, leaving the rear kitchen wing a blackened skeleton of steaming rafters against the snow. Red and blue cruiser strobes pulse steadily across the turnaround, turning the churned ice into bruised purple slush. The sharp smell of wet charcoal and cold diesel clings to every wool coat in the clearing.
+By six-thirty, two county pumper trucks have knocked down the worst of the woodshed fire, leaving the rear kitchen wing a blackened skeleton of steaming rafters against the snow. Red and blue cruiser strobes pulse steadily across the turnaround, turning the churned ice into bruised purple slush. The sharp smell of wet charcoal and cold diesel clings to every wool coat in the clearing.
 
 I sit on the open tailgate of an Essex County ambulance beside my sabotaged Honda Civic—which a state tow rig hauled up to the turnout twenty minutes ago, its clipped distributor wire dangling loose beneath the popped hood—wrapped in an olive wool blanket while a paramedic cleans the split across my right index finger. My bruised left shoulder aches under the wool, yet every time I glance toward the adjacent stretcher, **Maya** is sitting upright in a clean navy fleece, sipping hot black coffee from a paper cup with her ribs freshly taped. She hasn't let the paper cup out of her left hand since the medics wrapped her chest, as if holding onto something warm proves she's no longer hiding in a freezing attic wall.
 

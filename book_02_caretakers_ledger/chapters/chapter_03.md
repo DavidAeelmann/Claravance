@@ -20,7 +20,7 @@ In the back corner of the wooden tray sits a small, uncapped amber glass bottle 
 
 Beside the bottle lies a fresh crescent smudge of dark-blue fountain ink on the maple lip, no wider than a fingernail. I reach higher into the dark shaft and run two fingers along the hemp hoist rope. Warmth lingers on the braided fibers, and a faint smear of pine turpentine clings to the wood guide rail where someone braced a hand on the descent.
 
-My pulse beats hard behind my ears. The man in heavy boots on the third-floor rafters locked the stairwell door *after* I walked into the Great Hall. Yet the `ROOM 4 — ATTIC EAST` brass tag was pressed onto wet hide glue *before* I crossed the flagstones—and whoever carried that glue bottle didn't walk down the grand staircase. They dropped straight down this service shaft.
+My pulse beats hard behind my ears. The man who oiled the upper deadbolt threw that lock from the stairwell side, snapped a key tip into the cylinder, and went down to padlock the front porch door. Meanwhile, whoever was penned behind that attic door dropped straight down this service shaft two minutes ago—leaving behind a still-warm bottle of hide glue from earlier when they pinned the `ROOM 4 — ATTIC EAST` tag to the guest ledger.
 
 Two people are moving inside Blackthorne Lodge. One of them is wearing heavy winter boots and burning paper in the hearth. The other is using the walls—and left me a key tag written in Maya's ink.
 

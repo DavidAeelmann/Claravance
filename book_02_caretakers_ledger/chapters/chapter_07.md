@@ -4,9 +4,9 @@
 
 A ragged cough catches behind the brick baffle. "Don't—wait—"
 
-Above my head, heavy floorboards groan violently across the commercial kitchen. Not a mouse. Size-eleven Sorel boots crossing from the pantry hallway straight toward the cellar plank door.
+Above my head, heavy floorboards groan violently across the commercial kitchen. Not a mouse. Size-eleven Vibram boots crossing from the pantry hallway straight toward the cellar plank door.
 
-I shove the iron ash-pit flap flush with my palm until the counterweight latch drops silently home. "Get back up the shaft," I hiss against the rust. "Boots on the stairs."
+I ease the iron damper plate back down in its tracks until the counterweight lever settles silently home. "Get back up the shaft," I hiss against the rust. "Boots on the stairs."
 
 Scrape of wool against dry brick. A faint, retreating scuffle inside the chute—and then the cellar door at the top of the wooden stairs swings wide.
 
@@ -88,7 +88,7 @@ Hollis freezes, his jaw clenching. He unclips the radio with his scarred right h
 
 He tosses the small brass jewelry key onto the bedcover without stepping closer. "Log the watch rolls and leave the folder on the table. Don't leave this floor till I'm back from the gate."
 
-His heavy Sorel boots thunder down the main oak staircase. Twenty seconds later, the rear kitchen porch door slams shut, followed by the muffled crunch of snow under his truck path toward the carriage barn.
+His heavy Vibram boots thunder down the main oak staircase. Twenty seconds later, the rear kitchen porch door slams shut, followed by the muffled crunch of snow under his truck path toward the carriage barn.
 
 I snatch the brass key off the bedcover and jam it into the rosewood drawer lock.
 
@@ -98,7 +98,7 @@ I lift the corner of the tray and pull the crisp white sheets into the gray wind
 
 It isn't a jewelry receipt. It's a three-page **Survivorship & Voting-Share Covenant** stamped with *Mercer-Hall Fiduciary* letterhead and signed by both Arthur Vane and Sloane Mercer-Hall. Halfway down page two, a highlighted clause jumps off the paper in sharp black type:
 
-> *In the event Arthur Vane is not legally certified deceased prior to **5:00 PM EST on Friday, December 5**, all Class-A voting shares ($38,000,000 par value) shall vest irrevocably in **Celeste Vane** as surviving spouse.*
+> *In the event Arthur Vane is not legally certified deceased prior to **5:00 PM EST on Friday, December 5**, all Class-A voting shares ($38,000,000 par value) shall vest irrevocably in **Celeste Vane** as sole beneficiary.*
 
 My fingers go cold around the paper. I fold the covenant sheets flat into my breast pocket, then cross to the sitting table, wrap the lavender-smudged crystal brandy stopper inside a clean linen handkerchief from my pocket, and drop it into my coat. I leave the empty carafe neck uncovered—Hollis won't notice one missing stopper before he gets back from the gate.
 

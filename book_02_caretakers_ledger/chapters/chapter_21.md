@@ -44,11 +44,11 @@ He knows she's carrying the ledger. And he knows the chute leads straight up to 
 
 He raises his left hand toward the **brass coal-chute latch** to yank the heavy iron hatch down and seal Maya inside.
 
-In the pulsing orange glow from the high cellar window, the polished brass handle catches a dull, greasy reflection—the exact **three-point gun-oil and pine-resin smudge** left behind on oiled hardware by a hand missing its right ring fingertip. Hollis's own print from when he rigged the chute, gleaming like wet tar on the brass lever. Six years of arrogance, etched right onto the metal.
+In the pulsing orange glow from the high cellar window, the polished brass handle catches a dull, greasy reflection—the familiar three-pad oil smudge left by Hollis's own bare hand when he rigged the chute, gleaming dark against the worn metal. Six years of quiet arrogance, pressed straight onto the brass lever beside the cast-iron counterweight housing.
 
-His left wrist crosses directly beneath the raised iron baffle lip as his fingers close on the latch.
+His left wrist crosses directly beneath the raised vertical iron baffle lip as his gloved fingers close tight on the latch.
 
-I don't hesitate. I wrap the hairline copper bell-wire twice around my wool sleeve, brace my boot heel against the brick pier, and yank backward with my full body weight.
+I don't hesitate. I wrap the hairline copper bell-wire twice around my torn wool sleeve, brace my wet boot heel hard against the brick pier, and yank backward with my full body weight.
 
 ***
 

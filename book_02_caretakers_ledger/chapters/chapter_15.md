@@ -18,7 +18,7 @@ Through the ornate iron scrollwork, I look down on three people standing inside 
 
 Celeste's chin lifts a fraction. "Arthur left the house on his own, Sloane. Hollis and I were in the carriage barn."
 
-"Hollis's Ford F-250 is sitting behind the barn doors with a warm block and your *Moncler* coat in the bed," Sloane replies without raising her voice. "And my investigator checked your snowmobiles yesterday. Nobody idled them dry. You drained the tanks to buy yourselves until five o'clock tomorrow afternoon so Arthur's voting shares would vest to you instead of my institutional bondholders. You padlocked the barn from the outside to pretend nobody was on the property, Hollis, while you stayed right here inside the perimeter."
+"Arthur didn't answer his scheduled nine-o'clock fiduciary call on Wednesday morning," Sloane replies without raising her voice. "You told my receptionist he and Celeste took the snowmobiles down to the lower ridge cabin before the lines went down, Hollis—hoping to stall me until Saturday. Except I had an anonymous fax on my desk before dawn, and my investigator's satellite tracker has been pinging inside this house since yesterday dusk. Nobody's buying a blizzard walk-off so Arthur's voting shares can vest to you at five o'clock tomorrow."
 
 ***
 

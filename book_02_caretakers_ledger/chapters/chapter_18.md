@@ -2,7 +2,7 @@
 
 Wednesday dusk settled over Blackthorne Ridge like wet slate.
 
-Hollis Greer stood in the Great Hall beside the fieldstone hearth, letting the warmth thaw the stiffness from his knees. His size-eleven Sorel boots smelled of diesel exhaust and pine slush from the carriage barn. Five minutes earlier, he had backed the charcoal F-250 inside the timber stalls, snapped the heavy brass padlock shut on the exterior doors, and oiled the front oak mortise lock so the deadbolt would turn without a squeak.
+Hollis Greer stood in the Great Hall beside the fieldstone hearth, letting the warmth thaw the stiffness from his knees. His size-eleven Vibram boots smelled of diesel exhaust and pine slush from the carriage barn. Five minutes earlier, he had backed the charcoal F-250 inside the timber stalls, snapped the heavy brass padlock shut on the exterior doors, and oiled the front oak mortise lock so the deadbolt would turn without a squeak.
 
 A tin of wintergreen tobacco sat tucked inside his lower lip. He spat into the birch logs, then uncapped a metal gallon can of lamp kerosene.
 
@@ -50,11 +50,11 @@ He froze.
 
 Cool air drafted up the stairwell from the Great Hall, carrying wet wool, pine needles, and the faint clink of keys. Someone had stepped inside.
 
-Hollis eased forward onto his right boot to peer down through the stairwell gap. Beneath his heel, a dry attic floorboard groaned loudly in the quiet rafters.
+Hollis eased forward onto his right boot at the top of the attic threshold. Beneath his heel, a dry floorboard groaned loudly in the quiet rafters.
 
 Downstairs, every footstep stopped.
 
-Hollis didn't wait for the visitor to look up. He pulled the heavy oak-and-iron fire door shut across the third-floor landing, slid his mortise key into the upper stairwell lock, and turned the bolt home—sealing the attic corridor tight before stepping back into the dark eaves to wait.
+Hollis didn't wait for the visitor to look up—and he didn't want Mara slipping down behind him while he dealt with Boston. He stepped back onto the stairwell landing, pulled the heavy oak-and-iron fire door shut, and turned the oiled deadbolt from the outside—snapping a spare broken key tip into the warded cylinder to jam it tight before slipping silently down the back service stairs to padlock the front porch storm door.
 
 ***
 

@@ -74,19 +74,19 @@ Wait. Not Hollis. Hollis locked the third-floor fire door from the *outside*—o
 
 I step past the hot cast-iron furnace jacket toward the back corner of the concrete vault, where the whitewashed brick chimney stack drops straight into the cellar floor. The air back here smells different—cold limestone dampness cutting through the diesel fumes, mixed with fine gray coal dust.
 
-Set low into the brick base—barely waist-high—sits a heavy cast-iron cleanout door latched with a thick iron counterweight lever. Above the iron frame, a slanted brick shaft angles steeply upward through the rear foundation wall toward the hillside behind the kitchen wing.
+Set low into the brick base—barely waist-high—sits a heavy vertical cast-iron damper plate riding inside greased steel side tracks, held in place by a thick iron counterweight lever. Above the frame, a slanted brick shaft angles steeply upward through the rear foundation wall toward the hillside behind the kitchen wing.
 
 *Coal & Ash Chute.* The dotted red line from Arthur's 1904 survey map.
 
-I step closer, crouching to check the soot-dusted concrete floor beneath the iron cleanout door. Most of the basement dust sits thick and undisturbed—Wait.
+I step closer, crouching to check the soot-dusted concrete floor beneath the iron damper lip. Most of the basement dust sits thick and undisturbed—Wait.
 
-Right below the bottom lip of the iron ash-pit door, the fine gray soot has been swept clean in a narrow arc, as if the heavy iron flap swung outward recently. A fresh smear of dark-blue fountain ink stains the rusty iron thumb-latch, barely an inch from a pale scrape in the soot where someone's boot heel slipped.
+Right below the bottom edge of the iron damper, the fine gray soot has been swept clean in a narrow smear, as if the sliding plate was hoisted up recently. A fresh smudge of dark-blue fountain ink stains the rusty iron counterweight handle, barely an inch from a pale scrape in the soot where someone's boot heel slipped.
 
-Before I can reach for the latch, the heavy iron ash-pit door clanks softly from the inside of the brick chute.
+Before I can reach for the lever, the heavy iron damper plate clanks softly from the inside of the brick chute.
 
 I freeze, my hand hovering an inch above my multi-tool.
 
-The iron flap cracks open a fraction of an inch. A rush of freezing mountain air whistles straight down the brick shaft into the warm boiler room, carrying the sharp scent of pine needles, snow, and wet wool.
+The iron plate slides upward a fraction of an inch in its greased tracks. A rush of freezing mountain air whistles straight down the brick shaft into the warm boiler room, carrying the sharp scent of pine needles, snow, and wet wool.
 
 Then a faint, ragged whisper slides through the narrow iron gap in the dark:
 
