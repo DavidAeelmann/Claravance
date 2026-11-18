@@ -24,7 +24,7 @@ Graham yanks his wrist free, rubbing the red indentation around his skin, and sc
 
 "The back deck," Graham says, gesturing toward the sunroom slider. "If we unlock the slider and take the cliff path down to Maren's dock—"
 
-"Maren's pickup truck is gone from her gravel turnout," I tell him, already turning back toward the kitchen. "And Cole parked his cruiser sideways across the causeway. The road is under salt surge. Nobody is driving off Salt Point tonight, Graham. Our only way out is keeping both of them away from the basement server until the gale breaks—or until someone from town notices Cole went dark."
+"Maren moved her pickup across the culvert before the surge," I tell him, already turning back toward the kitchen. "I wedged a carved tide-chart note behind her shed latch in case she checks her boat. Either way, Cole parked his cruiser sideways across the causeway, and salt surge has the road. Nobody drives off Salt Point tonight. Our only play is keeping both of them off the basement server until the gale breaks."
 
 Graham doesn't follow me toward the front hall. A sharp, calculating look crosses his bruised face. He moves faster than I expect for a man who just spent an hour cuffed to an iron pipe, his torn charcoal sweater brushing past my shoulder as he bolts straight toward the kitchen island.
 
@@ -46,11 +46,17 @@ Graham freezes, the blue gas flame throwing jittery shadows across his bruised j
 
 "Put the pages back in the envelope," I tell him.
 
-"Tessa, think!" His voice cracks high, desperate. "I paid you five grand up front! I'll double the completion wire—I'll clear your entire eighteen-thousand-dollar judgment the second we get to a bank, and I'll write you a check for fifty grand on top of it! Nobody has to know about the six wire transfers!"
+"Tessa, stop and do the math!" His voice drops out of panic into that clipped, persuasive executive pitch he used on Monday night, even with a swollen cheekbone and a torn collar. "Think about tomorrow morning if you hand those sheets to state police. The trust freezes in probate the second an embezzlement charge hits the docket. My escrow stalls, you never collect your ten-thousand-dollar completion check, Harbor Mutual levies your bank account Monday, and your landlord locks your Portland studio by Thanksgiving. You walk off this rock freezing, stitched up, and broke—a fired investigator who caught a killer and got nothing to show for it."
 
-For half a second, the math flashes through my head—clean slate, restored investigator bond, an apartment in Portland without a landlord knocking on the door. That's what Graham counted on when he hired me. He read my Harbor Mutual file and assumed a woman buried in court debt had a price. Ten days ago, living out of a Civic with a loose muffler shield, maybe I would have hesitated. Not after watching Lydia laugh on a 2:14 AM recording while staging her own drowning.
+He shifts an inch closer to the blue gas flame, holding the notarized pages steady without flinching from the oyster knife. "Let three sheets of paper burn, Tessa. Nobody gets hurt—Lydia and Cole still go to prison on the two-fourteen pantry recording and the live boathouse relay. My Arlington buyout closes Monday. I'll pay off your entire eighteen-thousand-four-hundred-and-twelve-dollar court judgment before noon, restore your bond, and wire fifty thousand dollars into your account as a clean consulting fee. You get your life back tonight."
 
-"You forged your wife's initials on six wire transfers and drained two point four million dollars out of her father's estate," I say, watching his eyes. "You hired me because you thought a disgraced Harbor Mutual investigator would be too desperate for cash to hand you over once she broke Lydia's frame. You didn't want justice, Graham. You wanted a cheaper accomplice."
+My teeth are still clicking softly behind my lips. Water drips from my soaked flannel cuffs onto the limestone tile, pooling cold around my heels.
+
+For three agonizing beats, I don't yank the folder back. The math sits right there in front of me, clean and bloodless as an escrow closing sheet. Fifty grand plus a zero balance at the Cumberland County courthouse. No sheriff knocking on Monday. No four-hundred-dollar checking balance. Nobody died for those six wire transfers, and Lydia Kiefer is the monster trying to drown us both before high tide. All I have to do is drop my arm an inch and watch three sheets of paper curl into ash over a blue flame.
+
+Then I remember the cold white binder in a Vermont sheriff's office six years ago, where nobody bothered to check the dates before closing my sister Nina's file—and the Commercial Street warehouse manifest three years later, where a senior partner offered me a quiet raise to sign off on dirty paper and look the other way. Trading three forged pages for fifty thousand dollars doesn't give me my life back. It turns me into the exact kind of hired signature I blew up my career refusing to be.
+
+"You forged your wife's initials on six wire transfers and drained two point four million dollars out of her father's estate," I say, my voice hoarse and flat. "You hired me to rush your Arlington inventory under a fifty-thousand-dollar gag clause, hoping a cornered fraud auditor would break Lydia's frame without ever turning over your own ledgers. You didn't want justice, Graham. You wanted a cheaper shield."
 
 "I was trying to save my company!"
 
@@ -58,15 +64,15 @@ For half a second, the math flashes through my head—clean slate, restored inve
 
 The blue flame dies, leaving the kitchen dim and gray.
 
-Graham stares at me, chest heaving, his knuckles clenching once at his sides before dropping slack. The arrogant certainty he wore on Monday night—measuring envelopes to the woodgrain, lecturing me about nondisclosure penalties—is gone. All the fight drains out of his shoulders in a single breath. "You're going to turn me in."
+Graham stares at me, his hands dropping slack at his sides. "You're going to turn me in."
 
-"I'm going to hand over every piece of paper, every raw WAV file, and the boathouse relay recording sitting on your basement server," I say, backing two steps toward the foyer arch without taking my eyes off his hands. I lost my career at Harbor Mutual because I refused to look away from dirty paper; I'm not selling my soul tonight to cover up a two-point-four-million-dollar theft just because the thief happens to be the smaller monster in the room. "If you want to survive until morning, stay behind me and keep your mouth shut."
+"Every page, every raw WAV file, and the boathouse relay recording sitting on your basement server," I say, backing two steps toward the foyer arch without taking my eyes off his hands. "If you want to survive until morning, stay behind me and keep your mouth shut."
 
 ***
 
 I march Graham down the dark hall to the guest suite, keeping the rusted oyster knife angled low at my side.
 
-Inside the guest room, the radiator ticks faintly, though the house's boiler hums softer than it did this morning. My faded navy canvas duffel sits right where I left it beside the wall. I yank the main zipper open with my left hand, shove the padded manila envelope deep inside beneath my spare clothes, and check that the $5,000 cash envelope is still tucked at the bottom. Behind the cast-iron radiator pipes sits the crumpled brown paper store bag and the yellow warning slip Cole signed left-handed on Tuesday afternoon; I snatch the yellow slip and stuff it into the duffel's side pocket right beside the matte-black thumb drive I pull from my soaked jeans watch pocket.
+Inside the guest room, the radiator ticks faintly, though the house's boiler hums softer than it did this morning. My faded navy canvas duffel sits right where I left it beside the wall. I yank the main zipper open with my left hand, shove the padded manila envelope deep inside beneath my spare clothes, and check that the $5,000 cash envelope is still tucked at the bottom. Behind the cast-iron radiator pipes sits the crumpled brown paper store bag and the yellow warning slip Cole signed left-handed on Tuesday afternoon; I snatch the yellow slip and stuff it into the duffel's outer side pocket right beside the matte-black thumb drive and the knotted glove finger holding my foil-wrapped P-trap swab.
 
 I pat my front jeans pocket to make sure the rusted **B-4** mortise key, my folding multi-tool, and the heavy brass front-door key are still sitting deep inside.
 
@@ -80,7 +86,7 @@ Directly ahead, the flush cedar door under the foyer stairs rattles sharply—fo
 
 "She's not in Zone 4!" Cole roars up the stairwell, his voice raw with fury. "Check the kitchen—Graham's off the radiator!"
 
-Graham stiffens beside my shoulder, his breathing shallow and fast. I grab the back of his torn merino sweater, pulling him toward the north hall arch so we can reach the study before Cole's boots clear the top landing.
+Graham flinches beside me, his breathing shallow and fast. I grab the back of his torn merino sweater, pulling him toward the north hall arch so we can reach the study before Cole's boots clear the top landing.
 
 Before we take three steps, a heavy mechanical *CLUNK* echoes from the basement utility alcove—the unmistakable sound of a three-hundred-amp main breaker being thrown hard to *OFF*. Lydia knows this house's wiring as well as Graham does.
 

@@ -4,7 +4,8 @@
 - **Series:** *A Tessa Calder Thriller* (Book 1)
 - **Title:** *The Wife's Inventory*
 - **Subtitle:** *A Gripping Domestic Psychological Thriller*
-- **Target Length:** ~62,500 words (25 chapters × ~2,500 words)
+- **Author:** David Seelmann
+- **Final Length:** 45,231 words (23 chapters) + *Book 2: The Caretaker's Ledger* Sneak Peek
 - **KDP Categories:**
   1. `Mystery, Thriller & Suspense > Thrillers > Psychological`
   2. `Mystery, Thriller & Suspense > Thrillers > Domestic`
@@ -12,70 +13,67 @@
 - **7 Backend Keywords:** `missing wife locked room mansion suspense` | `live in housekeeper estate caretaker mystery` | `twist ending page turner unputdownable read` | `wealthy husband dark secret coastal house` | `unreliable narrator psychological crime fiction` | `isolated island estate murder frame job` | `fast paced binge read suspense series`
 
 ### Store Blurb
-> **Rule #1: Catalog every dress, every receipt, and every photograph.**
-> **Rule #2: Never open the acoustic darkroom under the stairs.**
-> **Rule #3: Don’t ask why the missing wife’s packed suitcase is still in the hall.**
+> **Rule #1:** Catalog every dress, every canvas, and every piece of jewelry.  
+> **Rule #2:** Never open the steel door to the acoustic darkroom under the stairs.  
+> **Rule #3:** Don’t ask why the drowned wife’s packed suitcase is still hidden in the hall closet.
 >
-> Disgraced fraud investigator **Tessa Calder** doesn’t ask questions—she erases messes. When you’re buried under a court judgment and living out of a duffel bag, you take the contracts nobody else will touch.
+> Blacklisted insurance fraud investigator **Tessa Calder** learned the hard way that telling the truth doesn't pay the rent. Buried under an $18,412 court judgment and days away from a bank levy, she’s reduced to taking the off-the-books contracts nobody else will touch.
 >
-> So when grieving tech founder **Graham Kiefer** offers her $15,000 cash for fourteen days of live-in "estate archiving" at his secluded glass-and-cedar house on Salt Point, Maine, Tessa signs the NDA without blinking. Three weeks ago, Graham’s brilliant, reclusive wife, **Lydia**, took a skiff into a midnight squall and never came back. Now Graham wants her belongings quietly boxed and cleared before the probate lawyers—and the press—descend.
+> When grieving tech founder **Graham Kiefer** offers her $15,000 for fourteen days of live-in estate archiving at his secluded glass-and-cedar house on Salt Point, Maine, Tessa signs his fifty-thousand-dollar NDA with one hand-initialed photo exception. Nineteen days ago, Graham’s wealthy wife, **Lydia**, took a skiff into an October squall and vanished into freezing water. Now Graham needs a preliminary estate inventory finished before Boston probate counsel—and the press—lock down the house on Friday.
 >
-> It should be simple. Pack the closet. Shred the drafts. Collect the check.
+> It should be simple. Log the closet. Pack the studio. Collect the balance.
 >
-> Except Lydia’s prescription bottles are full of the wrong pills. Her favorite fountain pen shows ink wear for a left-handed writer—and Lydia was right-handed. And beneath the rug in the sunroom, someone scrubbed bleach into cedar floorboards until the wood turned bone-white.
+> Except the luggage tag on Lydia’s hidden weekender is stamped three days *after* she supposedly drowned. Her silver fountain pen shows left-handed nib wear—and Lydia was right-handed. White crystalline paste cakes the master bathroom drainpipe, and beneath the heavy wool rug in the sunroom, someone recently scrubbed household bleach and boiled linseed oil into the cedar floorboards until the wood turned bone-pale.
 >
-> Worse, the smart-home server Graham claims is "offline" just recorded a whisper from inside the walls at 2:14 a.m.
+> Worse, the house’s high-end acoustic array isn't just recording the storm outside—someone is using it from the shadows to stitch Tessa’s own voice into a murder confession.
 >
-> Tessa came to Salt Point to clean up a dead woman’s past. Instead, she’s stepped straight into a trap built for two—and she has until Friday’s high tide to figure out whether her employer is a grieving widower, a cold-blooded killer… or bait.
+> As a November gale floods the only tidal causeway off the peninsula, Tessa realizes she wasn't hired to pack a dead woman’s wardrobe. She walked straight into a frame job built for two—and she has until high water to figure out whether her employer is a grieving widower, a cold-blooded killer… or bait.
 
 ---
 
 ## 2. Protagonist & Series Story Engine
-- **Tessa Calder (31):** Former forensic insurance investigator fired and hit with a $42,000 civil defamation/breach judgment after accusing a politically connected firm partner of staged arson without airtight chain-of-custody. Still owes **$18,412**; drives a silver 2014 Honda Civic with a loose muffler shield; lives out of a faded navy canvas duffel bag.
-  - **Immediate Flaw:** Compulsive pattern-pulling (cannot leave a mismatched physical clue alone even when walking away pays her bills); assumes *silence = guilt*.
-  - **Immediate Desire:** Earn the $15,000 contract ($5k upfront, $10k on completion) to wipe out most of her remaining $18k debt and buy back her investigator bond.
-  - **Series Engine:** Off-market live-in "Quiet-Clean" domestic purge contracts for wealthy families with scandals. Book 1 payoff catches the attention of Boston private counsel Margot Kiefer-Hall, launching Book 2 (*The Caretaker's Ledger*).
+- **Tessa Calder (31):** Former forensic insurance investigator fired and hit with a $42,000 civil defamation/breach judgment after refusing to sign off on a fraudulent Commercial Street warehouse fire manifest without chain-of-custody. Owes **$18,412** entering Book 1; $400+ in checking; drives a silver 2014 Honda Civic with a rattling muffler shield; lives out of a faded navy canvas duffel bag. Younger sister **Nina Calder** vanished in northern Vermont six years prior.
+  - **Immediate Flaw:** Compulsive pattern-pulling (cannot leave a mismatched physical clue alone even when walking away pays her bills).
+  - **Immediate Desire:** Complete the $15,000 contract ($5,000 cash upfront + $10,000 completion, escrowed via *Kiefer-Hall Fiduciary* and raised by Margot Kiefer-Hall's $3,500 storm-hazard bump to $13,500 check + $5,000 cash = $18,500) to wipe out the $18,412 judgment and restore her Maine PI bond.
+  - **Series Engine:** Off-market live-in "Quiet-Clean" domestic archiving contracts. Tessa's integrity in turning over all three conspirators—including Graham's $2.4M ledger—draws Margot Kiefer-Hall to recruit her for Book 2 (*The Caretaker's Ledger*) with a brass skeleton key and a Vermont lodge fax bearing Nina's handwriting.
 
 ---
 
 ## 3. Character Dossiers (Fixed Physical & Behavioral Anchors)
-- **Graham Kiefer (39):** Architectural acoustics & smart-home founder (firm: *Kiefer Soundworks*). Tall, lean, dark circles under gray eyes, wears charcoal merino sweaters, smells of cedar shavings and unscented soap. Polite, measured cadence; hides panic behind hyper-organized scheduling. Guilty of **$2.4M embezzlement** from Lydia's late father's trust—*innocent* of murdering Lydia. Hired Tessa hoping a sharp outsider would spot the frame-job Cole and Lydia planted.
-- **Lydia Kiefer (34):** Botanical illustrator & heiress. Supposedly drowned Oct 14. **Right-handed.** Actually alive, hiding between New Brunswick and the Kiefer boathouse loft. Cold, meticulous, patient; orchestrating a murder frame against Graham with Cole Halstead.
-- **Deputy Cole Halstead (36):** Local Knox/Salt Point County sheriff’s deputy. **Left-handed** (critical clue!). Broad-shouldered, clean-shaven, slow coastal drawl, crooked front incisor. Lydia’s estranged childhood friend and secret co-conspirator. Holds the Kiefer pantry keypad PIN.
-- **Maren Lindqvist (54):** Neighboring oyster-farm owner at the cove edge. Oilskin bib, silver braid under a wool watch cap, cracked knuckles, smokes roll-ups. Took payoff money from Lydia for harbor debt but regrets getting pulled into a felony; ultimately calls Maine State Police when Cole goes dark.
+- **Graham Kiefer (39):** Architectural acoustics & smart-home founder (*Kiefer Soundworks*). Lean, gaunt beneath pale gray eyes, wears charcoal merino sweaters, smells of cedar shavings and unscented soap. Guilty of **$2,400,000** embezzlement from the **$5,400,000** *Lydia Kiefer Irrevocable Trust* (notarized Oct 10 via forged *L.K.* initials; served Oct 15 by *Bramwell & Shaw Fiduciary LLP* with Nov 14 cure deadline) while awaiting an Arlington defense-patent buyout; *innocent* of murdering Lydia. Retained *Kiefer-Hall Fiduciary* and vetted Tessa on Oct 21 (`CALDER_T — VETTING`) as a cornered fraud auditor under a $50,000 IP/anti-leak NDA.
+- **Lydia Kiefer (34):** Botanical illustrator & heiress. **Right-handed.** Supposedly drowned Oct 14. Actually alive, using a Bar Harbor ferry on Oct 17 (`OCT 17` stub), scanning her US passport `#••••••3907` at St. Andrews Private Marina on Tue, Nov 3 (09:42 AST) to clear an offshore transfer, and camping in the boathouse loft with a directional Wi-Fi extender. Engineered the murder frame with Deputy Cole Halstead to trigger the trust's moral-turpitude forfeiture clause (overriding Graham's Nov 14 civil cure window) and roll the remaining **$3,000,000** into an offshore Cayman bearer structure.
+- **Deputy Cole Halstead (36):** Knox County sheriff’s deputy. **Left-handed** (left-handed warning slip + latent prints on Montblanc barrel + handwriting match). Broad-shouldered, slow coastal drawl, crooked front incisor. Former *Halstead Marine & Low-Voltage* installer; holds Lydia's 6-digit co-owner installer PIN and knows the `EXT-DECK / LOGS` 40-minute maintenance jumper trick. Staged the Oct 14–15 drowning, left his Montblanc on the studio blotter, and planted Lydia's `OCT 17` weekender in the foyer closet Monday morning, Nov 2.
+- **Maren Lindqvist (54):** Neighboring oyster harvester in a weathered shingle shed on pilings. Oilskin bib, silver braid under wool watch cap, cracked knuckles. Took $5,000 cash from Lydia on Oct 12 to forget Lydia's cliff-trail visit and GPS coax inquiry, then saw two silhouettes at 2:14 AM Oct 15. Warns Tessa repeatedly (two fingers Ch 3, 2:14 AM tide chart Ch 5, shed confession Ch 9); moves her pickup across the culvert before the surge, walks down from the mainland shoulder, finds Tessa's carved tide-chart plea behind her shed latch + Cole's dark cruiser + dead radio, and calls Maine State Police in Thomaston (Ch 22). Granted full witness immunity and clears her dock debt (Ch 23).
+- **Margot Kiefer-Hall (late 40s):** Managing partner at *Kiefer-Hall Fiduciary* (State Street, Boston; distant branch of Graham's family). Administered Graham's archiving escrow, personally added a $3,500 storm-hazard adjustment Wednesday, authorized the $13,500 completion release Thursday night upon MSP's call, and recruits Tessa at Becky's Diner in Early December with a Vermont skeleton key and Nina's faxed handwriting.
+- **Detective Sgt. Ward (MSP):** Commands the Thomaston MSP response; confirms Zone 4 RAID audio, Cole's abandoned cruiser, `L_KIEFER_IPAD_MINI_02` upload, Civic trunk evidence, and boathouse gear; orders latent print lifts, questioned-documents handwriting comparison, MSP zolpidem toxicology, and Coast Guard vest salinity/lot verification; delivers the $13,500 cashier's check from Graham's overcoat.
 
 ---
 
 ## 4. Setting & Architectural Blueprint (Salt Point, Maine)
-A windswept granite peninsula connected to the mainland by a single low-lying **tidal causeway** (floods during extreme storm surges).
+A windswept granite peninsula connected to the mainland by a single low-lying **tidal causeway** (floods at 5:15 PM spring tide).
 - **Kiefer Glass House:** Modernist cedar-and-glass two-story structure over black granite ledges.
-  - **Foyer:** Slate tiles, brass coat hooks, cedar bench, tall coat closet (tucked behind Graham's heavy wool overcoats sits Lydia's packed olive-canvas/leather weekender with Oct 17 ferry tag), main staircase.
-  - **Sunroom:** Floor-to-ceiling ocean glass, heavy gray wool rug covering a **3-foot bleached cedar floorboard patch** (faint linseed/bleach smell) and a loose baseboard hiding a stamped brass basement key.
-  - **Kitchen & Pantry Corridor:** Keypad-locked back porch door; narrow cedar pantry where **recessed spice-rack shelving conceals a manual dumbwaiter/utility shaft** dropping directly into the basement acoustic darkroom (bypasses perimeter door sensors).
-  - **Upstairs Studio (Lydia's):** Painted-shut sash window; walnut blotter desk with a **silver Montblanc fountain pen** (left-handed nib wear).
-  - **Master Suite & Bath:** Walk-in closet; Ambien bottle (28/30 pills left); **brass sink U-bend** crusted with white crystalline powder.
-  - **Mudroom:** Crisp, **salt-free orange life jacket** hung on peg 2; empty boot slot (missing spare women's boots).
-  - **Basement Acoustic Darkroom:** Under the main stairs; heavy **steel fire door** with external deadbolt; soundproofed charcoal foam panels; **acoustic dead-zone** in the northeast corner; three redundant audio servers + locked steel *ARCHIVE* cabinet holding the 2:14 AM WAV files and trust-embezzlement ledger.
-- **The Cove & Boathouse:** 90 yards down slate steps from the sunroom. Locked cedar boathouse with side casement window, suspended sea kayak, bait table with wedged rusted oyster knife, and an underground utility conduit linking toward the house's lower ledge. Adjacent is Maren's weathered oyster shack.
+  - **Foyer:** Slate tiles, heavy coat bench beneath a **cedar-framed skylight hatch** (the sole roof glass sitting clear above exterior hurricane-shutter housings), tall cedar coat closet (Graham's overcoats hiding Lydia's `OCT 17` weekender), floating oak staircase concealing the flush cedar door down concrete steps to Zone 4.
+  - **Mudroom Alcove:** Side door, rubber boot tray (missing women's duck boots on right), peg 2 holding crisp tap-water orange life vest.
+  - **Kitchen & Pantry Corridor:** Limestone island, gas range, smart-home wall tablet, steel breaker box (`EXT-DECK / LOGS — 40M DIAGNOSTIC BYPASS BUS`), exterior keypad door, back service stairs, walk-in cedar pantry. **Concealed Dumbwaiter Shaft:** Behind recessed spice shelves on dual flush latches; vertical iron masonry ladder + **overhead cast-iron sheave pulley, removable steel cotter pin, braided hemp line, and cast-iron counterweight** dropping straight into Zone 4.
+  - **Sunroom:** Ocean glass with slider, heavy gray wool rug covering bleached/linseed-oiled cedar patch and loosened baseboard hiding the **B-4** brass mortise key, cast-iron radiator.
+  - **Living Room & North-Hall Study:** Credenza with clean decanter and pre-dusted habitual crystal rocks glass; Study with walnut desk, UPS-backed mirror server rack, `CALDER_T — VETTING` dossier, and *Bramwell & Shaw* default notice.
+  - **Upstairs (Guest Suite, Master Suite & Bath, Lydia's Studio):** Master closet (empty boot gap, platinum band, Cartier watch); Master bath (28/30 Oct 4 Ambien baseline; left brass P-trap paste); Studio (painted-shut sash, bleached palette, sliced sketchbook, silver Montblanc with beveled left tine).
+  - **Basement (Zone 4 Acoustic Darkroom):** Heavy steel fire door with exterior **B-4** mortise deadbolt + red perimeter-armed LED; **Northeast Acoustic Dead-Zone** (directional charcoal foam baffles & bass traps absorbing mid-to-high frequencies and killing concrete bounce); 5 distributed mic/relay tracks (`SUNROOM_EAST`, `MIC_04_PANTRY`, `STAIRWELL_4`, `BOATHOUSE_LINT`, `HYDROPHONE_COVE`), 3 chassis units (`PRIMARY PARALLEL`, `COVE HYDROPHONE`, `AMBIENT / PERIMETER`), **dedicated UPS battery bank**, compact cellular bridge, 3 vulnerabilities (Cole's exterior jumper, pantry shaft, storm-cut bridge); drafting table; locked `ARCHIVE — DO NOT ERASE` Faraday cabinet; 300-amp main breaker, generator transfer switch, and manual hurricane-shutter lockdown.
+- **Cove, Boathouse & Maren's Shed:** Unrailed granite/slate cliff steps; locked cedar boathouse with sliced-paint casement window, suspended yellow sea kayak, loft, bait table with wedged **rusted oyster knife** and hardwired **PoE `BOATHOUSE_LINT` relay puck**; Maren's shingle shed on pilings near the culvert.
 
 ---
 
 ## 5. Master Timeline & Fair-Play Clue Ledger
-### Fixed Calendar (2026)
-- **Monday, Oct 12 (Day -23):** Lydia visits Maren's shack asking how to disable a skiff's GPS transponder.
-- **Wednesday, Oct 14, 11:15 PM (Day -21):** Squall hits Salt Point. Lydia's skiff is staged adrift.
-- **Thursday, Oct 15, 2:14 AM (Day -21 night):** Acoustic server logs a **68 dB glass-and-latch spike** in the pantry corridor (Lydia & Cole returning post-squall to plant sunroom evidence; Lydia drops her Montblanc pen, Cole picks it up).
-- **Thursday, Oct 15, 5:30 AM:** Cole rules probable accidental drowning without dredging.
-- **Sunday, Oct 17 (Day -18):** Lydia uses a ferry ticket out of Bar Harbor/Portland (stub left on her packed weekender).
-- **Wednesday, Oct 21 (Day -14):** Sunroom floorboards bleached/oiled; Graham discovers the bleach patch and installs a covert local-storage backup on the basement server.
-- **Monday, Nov 4 (Day 0, Dusk):** **Chapter 1 begins.** Tessa arrives on a 14-day contract ($5,000 up front, $10,000 completion).
-- **Tuesday, Nov 5 (Day 1) – Thursday, Nov 7 (Day 3):** Inventory pulls, Cole's traffic stop, Maren's tide-chart slip, pantry eavesdropping.
-- **Friday, Nov 8 (Day 4–5):** Probate/deadline pressure peaks; basement break-in (2:14 AM), midpoint reveal, boathouse ambush, and Friday night climax during high tide.
-
-### Fair-Play Clue Checklist (Must Remain 100% Consistent)
-1. **Oct 17 Ferry Stub on Weekender:** Planted Ch 1 → Explained Ch 17–18 (Lydia staged packing *before* leaving, returned, or swapped tags hastily).
-2. **Left-Handed Nib Wear on Right-Handed Wife's Montblanc:** Planted Ch 2 → Matched to left-handed Cole signing warning ticket in Ch 5 → Explained Ch 17.
-3. **Fresh Bleach & Linseed Oil + Brass Key Under Sunroom Baseboard:** Planted Ch 4 → Explained Ch 17–18.
-4. **Salt-Free Crisp Life Jacket in Mudroom:** Planted Ch 6 → Explained Ch 17 (wet with tap water for Cole's report).
-5. **28/30 Ambien + Sink U-Bend Residue:** Planted Ch 7 → Explained Ch 17 (Lydia tested dissolving dose for Graham's nightcap).
-6. **Pantry Dumbwaiter Shaft & Basement Acoustic Dead-Zone:** Planted Ch 11–12 → Used as escape/weapon in Ch 21 & 23.
+### Fixed 2026 Calendar
+- **Sun, Oct 4:** Lydia fills 30-count Zolpidem Tartrate (10 mg) in Camden.
+- **Sat, Oct 10:** Notarized $2.4M trust wire transfers; Graham slices 3 sketchbook pages to trace *L.K.* initials.
+- **Mon, Oct 12:** Lydia visits Maren's shed, pays $5,000 cash, asks how to kill skiff GPS coax without blowing main helm fuse.
+- **Wed, Oct 14 (11:15 PM) – Thu, Oct 15 (2:21 AM):** Squall hits; `MIC_04_PANTRY_020915.wav` & `BOATHOUSE_LINT` capture Lydia & Cole at 02:09–02:14:44 AM (`68 dB` latch slam), 6-min breaker blackout, `HYDROPHONE_COVE` oars at 02:18:11. Cole certifies drowning at 5:30 AM; *Bramwell & Shaw* serves 30-day Notice of Default (cure deadline **Sat, Nov 14**).
+- **Sat, Oct 17:** Lydia rides Bar Harbor commuter ferry (`Slip 4`, `OCT 17` stub) to New Brunswick.
+- **Wed, Oct 21:** Graham discovers Zone 4 anomalies, sunroom scar, and fresh-lot vest; seals defense baseline in `ARCHIVE`; retains *Kiefer-Hall Fiduciary* and vets Tessa Calder (`CALDER_T — VETTING`).
+- **Sun, Nov 1:** Conspirators escalate to murder frame—re-wiping sunroom scar with bleach and boiled linseed oil, paint-sealing studio sash, leaving **B-4** key behind baseboard.
+- **Mon, Nov 2 (Day 0, 19 days post-Oct 14):** Morning—Cole shoves `OCT 17` weekender behind overcoats. Dusk—Tessa arrives (Ch 1–2), negotiates initialed photo rider on $50k NDA, collects $5k cash, finds `OCT 17` weekender and studio clues.
+- **Tue, Nov 3 (Day 1):** 09:42 AST—Lydia scans passport at St. Andrews. Day/Evening—Tessa learns Rule 1 & Maren's 2-finger warning (Ch 3), uncovers bleach/tacky linseed oil + **B-4** key (Ch 4), stopped by left-handed Cole, texts Samira Patel, gets Maren's *2:14 AM* tide strip (Ch 5), checks duffel & photographs tap-water life vest serial/lot, learns Rule 2, sees `EXT-DECK / LOGS` 40-min bus & Zone 4 bypass alert (Ch 6).
+- **Wed, Nov 4 (Day 2):** Graham drives to Portland (picks up pre-closing escrow packet with Margot's $3,500 bump). Tessa logs 28/30 Ambien & bags P-trap paste swab (Ch 7), watches Cole bridge 40-min loop & enter Lydia's 6-digit installer PIN (Ch 8), meets Maren in shed (Ch 9), swaps pre-dusted habitual rocks glass, photographs *Bramwell & Shaw* default & Rules 1–3 Cayman rollover, gets Samira Patel's St. Andrews passport hit (Ch 10).
+- **Thu, Nov 5 (Day 3):** 2:00–6:05 AM—dumbwaiter shaft, `02:14 AM` frame, Soundworks rack + `ARCHIVE` defense package, kelp boots on slate (Ch 11–13). Morning—Graham confesses $2.4M, Tessa uncovers vetting dossier & missing Civic fob, hears `MIC_04_PANTRY_020915.wav`, Lydia's iPad syncs `CALDER_CONFESSION_FINAL.wav` & locks WAN (Ch 14–15). Afternoon/Night—boathouse ambush over PoE `BOATHOUSE_LINT` puck, cove swim & shed-latch tide note, counterweight decoy, $50k bribe rejected, Cole locked in Zone 4 with **B-4**, Lydia tackled under foyer skylight, MSP Sergeant Ward recovers all evidence & hands Tessa $13,500 check (Ch 16–22).
+- **Early Dec (4 weeks later):** Ch 23 epilogue—$18,412 judgment cleared, PI bond restored, indictments/immunity confirmed, Margot Kiefer-Hall delivers Book 2 Vermont key + Nina's faxed note.

@@ -58,23 +58,19 @@ I twist the plastic cap open cleanly and tip the tablets into my gloved palm, co
 
 Twenty-eight white oblong pills.
 
-I frown, pouring them carefully back into the amber plastic and snapping the childproof cap shut. October fourth to October fourteenth is ten nights. If Lydia took one every night for insomnia, there should be twenty pills left, maybe twenty-two. Twenty-eight pills means she took at most two tablets—or didn't take them herself at all.
+I frown, pouring them carefully back into the amber plastic and snapping the childproof cap shut. People skip nights or take sleep medication sporadically; a partial bottle dispensed ten days before a storm proves nothing by itself. I log the October fourth fill date and tablet count merely as baseline inventory background, set the vial back behind the ibuprofen in line with my memory, and glance down at the left sink basin.
 
-I set the bottle back in its exact spot behind the ibuprofen, lining the label angle up with my baseline photo memory, and glance down at the left sink basin.
+Nothing sits in the porcelain bowl. Yet as I lean closer to check the brass pop-up drain stopper, a faint white ring catches the recessed light along the chrome seam—chalky, slightly crystalline, like pulverized powder that didn't rinse cleanly down the drain.
 
-Nothing sits in the porcelain bowl. Yet as I lean closer to check the brass pop-up drain stopper, a faint white ring catches the recessed light along the chrome seam—chalky, slightly crystalline, like crushed tablet filler that didn't rinse completely down the throat.
+I pull my pocket multi-tool out, unfold the narrow pliers, and crouch beneath the limestone vanity. The curved brass P-trap under the left sink looks clean on the outside, wiped free of dust, yet if someone flushed dissolved solids down this drain recently, the lower bend could still trap residue.
 
-I pull my pocket multi-tool out, unfold the narrow pliers, and crouch beneath the limestone vanity. The curved brass P-trap under the left sink looks clean on the outside, wiped free of dust, yet if someone flushed crushed tablets down this drain recently, the lower bend will still hold the paste.
+Holding a folded paper towel beneath the curve, I loosen the brass slip-nut slowly. A thimbleful of stale gray water drips onto the towel, followed by a damp smear of white crystalline paste caked inside the lower bend of the pipe.
 
-Holding a folded paper towel beneath the curve, I loosen the brass slip-nut slowly. A thimbleful of stale gray water drips onto the towel, followed by a damp smear of white crystalline paste caked thick inside the lower bend of the pipe.
+I stare at the chalky sludge on my nitrile glove. By eye alone, it could be scouring cleanser, calcium paste, or pulverized pill binder—an unconfirmed chemical suspect until a lab runs toxicology. Still, people who swallow a bedtime tablet whole don't leave crushed paste packed inside a sink trap. Working hypothesis: someone tested how cleanly a sedative dissolves without clouding a glass.
 
-I stare at the chalky sludge on my nitrile glove.
+I pull a spare clean nitrile glove and a folded strip of heavy foil from my jeans pocket—old Harbor Mutual field habits die hard—scoop a clean sample of the white paste onto the foil, fold it tight inside the spare glove finger, and knot it shut before tucking it deep into my pocket.
 
-People who swallow sleeping pills don't grind them into powder and flush them down a bathroom sink trap. People who are *testing* how fast a sedative dissolves in water—or dumping unused crushed doses after drugging someone else's nightcap—wash the residue straight down the drain.
-
-Graham told me he was wearing noise-canceling headphones in the basement on the night of October fourteenth. What if he wasn't? Or what if Lydia wasn't the one taking Ambien—she was dissolving it to knock Graham out cold before slipping out to the cove, only to have something go wrong at two in the morning?
-
-Before I can scoop a sample of the white paste onto a clean square of tissue, my phone vibrates sharply against my hip bone, making me bang my elbow hard against the vanity pipe.
+The instant my fingers clear the pocket seam, my phone vibrates sharply against my hip bone, making me bang my elbow hard against the vanity pipe.
 
 ***
 
@@ -86,7 +82,7 @@ A gray push banner sits across the lock screen:
 
 **BACK DECK / PANTRY PERIMETER — MOTION DETECTED**
 
-My breath stops in my throat. Graham is in Portland. I'm supposed to be completely alone on Salt Point for the next three hours.
+Graham is in Portland. I'm supposed to be completely alone on Salt Point for the next three hours.
 
 I tap the banner fast, opening the live exterior camera feed tied to the guest access tier.
 
@@ -104,7 +100,7 @@ He punches six digits cleanly into the brass keypad.
 
 A green LED flashes on the housing, followed by the unmistakable electronic *clack* of the deadbolt retracting from inside.
 
-Cold sweat breaks out along my collar. Graham swore to me on night one that the kitchen porch keypad rotates codes every forty-eight hours—and last night he claimed Halstead didn't even step inside the house. Yet here stands a county sheriff's deputy punching a live code into Graham's locked house while Graham is ninety miles south in Portland. If Halstead is coming inside alone without a warrant, he isn't here to check a stray dinghy. He's here to plant something—or pull something out before Thursday's lawyers arrive.
+Graham swore to me on night one that the kitchen porch keypad rotates codes every two days—and last night he claimed Halstead didn't even step inside the house. Yet here stands a county sheriff's deputy punching a live code while Graham is ninety miles south in Portland. If Halstead is coming inside without a warrant, he isn't here to check a stray dinghy. He's here to plant something—or pull something out before Thursday's lawyers arrive.
 
 The pantry door swings inward on the video feed.
 

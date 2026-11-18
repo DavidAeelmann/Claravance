@@ -18,17 +18,13 @@ I stand, wipe dust off my jeans, and turn to the heavy gray wool rug. To log its
 
 I hook both hands under the thick bound edge nearest the baseboard and haul back.
 
-The wool is heavier than it looks—dense, stiff-backed, dragging grudgingly across the cedar planks. Dust motes swirl up into the pale light from the windows. As I fold the corner over toward the coffee table, a sharp, chemical tang rises straight off the exposed wood, cutting clean through the room's faint salt-air smell.
+The wool is heavier than it looks—dense, stiff-backed, dragging grudgingly across the cedar planks. Dust motes swirl up into the pale light from the windows.
 
-I freeze on my knees, breathing through my nose.
+I freeze on my knees, breathing through my nose. Sharp sodium hypochlorite cuts straight through the salt air, layered under the sweet-nutty reek of fresh boiled linseed oil.
 
-Sharp sodium hypochlorite cuts straight through the room's faint salt-air smell, layered under the oily, sweet-nutty reek of fresh boiled linseed oil.
+I lean closer to the bare cedar planks. Most of the sunroom floor has weathered to a warm honey-amber under decades of coastal sun. Along a broad jagged patch beside the baseboard, the wood grain looks stripped and bone-pale, its fibers raised where someone scrubbed with a wire brush and household bleach, then rubbed raw linseed oil over the scar to hide the chalky fade.
 
-I lean closer to the bare cedar planks. Most of the sunroom floor has weathered to a warm honey-amber under decades of coastal sun filtering through the glass. Right here, though—along a broad jagged patch beside the baseboard—the wood grain looks stripped and bone-pale, its natural fibers raised slightly like someone scrubbed hard with a stiff wire brush and household bleach, then rubbed raw linseed oil over the scar to hide the chalky fade.
-
-When you scrub cedar with bleach and seal it with boiled linseed oil, the fumes don't linger for three weeks. Oil cures tacky for days; bleach dissipates within forty-eight hours unless someone shut the windows tight and kept the house cool.
-
-Someone scrubbed this floorboard patch within the last forty-eight hours—not on October fourteenth.
+A heavy wool rug traps fumes and slows evaporation, so odor alone isn't a clock. Even so, boiled linseed oil cures hard on open cedar within days, and sharp hypochlorite caught under that dense backing points toward recent cleaning—not an old October fourteenth stain. Working hypothesis, not court proof. I still need a second source before I pin a date on it.
 
 I pull my phone out, check the ceiling corners for cameras—just the standard glass-break sensors wired along the upper mullions—and snap three tight close-ups of the bleached grain and the oily sheen catching the window light.
 
@@ -50,19 +46,15 @@ Footsteps pause near the maple table, then head back toward the kitchen sink. Wa
 
 I wait until an upstairs door shuts solidly overhead.
 
-Then I stand, cross to the hallway threshold to verify the foyer is clear, and catch sight of the mudroom tray again on my way back. That wiped-clean empty half beside Graham's duck boots keeps nagging at me. If someone scrubbed blood or salt mud off the sunroom floor *after* October fourteenth—and if Lydia's packed weekender got shoved behind Graham's coats with an October seventeenth ferry tag—why leave the sunroom rug sitting right over the evidence?
+Then I stand, cross to the hallway threshold to verify the foyer is clear, and catch sight of the mudroom tray again on my way back. That wiped-clean empty half beside Graham's duck boots keeps nagging at me. Someone scrubbed this floor recently and threw the heaviest wool rug in the house over the scar—either Graham hiding a cleanup, or someone else who didn't expect a fraud auditor to recognize boiled linseed oil on timber.
 
-Because whoever scrubbed the floor didn't want Graham—or a probate inspector—to see it. Or Graham scrubbed it himself, panicked when the bleach scarred the wood, oiled it poorly, and threw the heaviest rug in the house over the mess before hiring an outsider who wouldn't recognize fresh linseed oil from floor wax.
+I walk back into the sunroom, pull the heavy wool rug back wider—dragging the coffee table leg aside so the scarred patch lies bare—and crouch along the cedar baseboard.
 
-Except I *did* recognize it. Every arson adjuster in New England knows what boiled linseed oil smells like when someone tries to mask a stain on timber.
-
-I walk back into the sunroom, pull the heavy wool rug back a second time—wider now, dragging the coffee table leg slightly aside so the entire scarred patch lies bare—and crouch along the cedar baseboard.
-
-The paint along the top edge of the trim isn't cracked. Instead, two finishing nails near the corner sit raised just enough for a fingernail to catch the heads, as if someone pried the board out slightly to wipe liquid that had seeped under the quarter-round molding, then tapped the wood back flush with the heel of a shoe.
+The paint along the top edge of the trim isn't cracked. Instead, two finishing nails near the corner sit raised just enough for a fingernail to catch the heads, as if someone pried the board out slightly to wipe liquid that had seeped under the molding, then tapped the wood back flush with the heel of a shoe.
 
 I wedge my thumbnail into the gap behind the baseboard and pull. Dry plaster dust sifts onto the bleached wood. Inside the dark slot between drywall and cedar, something metallic glints dully.
 
-My breath catches. I reach into my jeans pocket for my small steel multi-tool, flip out the flathead driver, and slide the tip carefully under the baseboard lip without scraping the paint. If I leave pry marks on Graham's woodwork, my cover dies before five o'clock, and I'm back in Portland staring at an eviction notice with a fresh lawsuit attached.
+I reach into my jeans pocket for my small steel multi-tool, flip out the flathead driver, and slide the tip carefully under the baseboard lip without scraping the paint. If I leave pry marks on Graham's woodwork, my cover dies before five o'clock, and I'm back in Portland staring at an eviction notice with a fresh lawsuit attached.
 
 I lever the trim out just enough to hook the metal glint with the screwdriver tip and drag it forward across the cedar planks.
 
@@ -72,17 +64,13 @@ A rusted brass mortise key, old teeth darkened with verdigris along the grooves,
 
 I stare at it sitting in the middle of the bleached cedar patch. Even the grease along the key's collar looks smudged, like someone handled it with wet or gloved fingers before it slipped down behind the trim.
 
-*Basement Zone 4.* The exact label that makes sense for the steel fire door at the bottom of the stairwell under the floating oak staircase—the acoustic darkroom Graham warned me would void my fifty-thousand-dollar contract the second I tripped its perimeter latch.
-
-Why would a rusted key to Graham's high-security defense-patent darkroom be wedged *behind* a freshly bleached baseboard in the sunroom? And if that steel door at the bottom of the basement stairs really uses a modern electronic breach alarm, why does its secondary mortise cylinder still take an old-fashioned brass key?
+*Basement Zone 4*—the acoustic darkroom Graham said ran an automatic electronic breach alert. Why hide a rusted mortise key to it behind a freshly bleached baseboard?
 
 ***
 
 I don't pick the key up with bare fingers. Instead, I pull a clean square of acid-free tissue from the sample pack Graham gave me that morning, wrap the brass bow carefully, and slip it into the inside breast pocket of my waxed jacket.
 
-Before I drop the wool rug back over the scarred wood, I take one more look at the corner where the key fell out. Look closely at the seam, and the logic falls apart in a way that makes the back of my neck go cold.
-
-If Graham dropped his own basement key behind the baseboard while scrubbing the floor, he would have pulled the trim off to get it back—not left a five-minute pry job unfinished right under a rug he knew I'd have to move to inventory. Which leaves two ugly possibilities: either someone *else* crept into this house after October fourteenth, scrubbed the floorboard, and lost their only spare Zone 4 key while trying to hide the bleach—or Graham didn't lose it at all. He knew I'd peel back this rug eventually.
+Before I drop the wool rug back over the scarred wood, I study the corner where the key fell out. Graham wouldn't abandon his own basement key behind a five-minute pry job under a rug he knew I'd move. Either someone else lost it scrubbing this floor—or he left it there for me to find.
 
 I push the heavy wool rug back down flat against the cedar, line the coffee table leg back into its exact carpet indentation, and step out into the mudroom to grab my jacket off the foyer hook.
 
@@ -92,7 +80,7 @@ I grab my purse and car keys from the mudroom shelf, pull my waxed jacket on—f
 
 "Tessa?" Graham's voice calls down from the upper landing. "Are you heading out?"
 
-I turn slowly, keeping my hands visible at my sides so I don't look like I'm guarding my breast pocket. "Out of heavy packing tape," I call up, keeping my voice steady though my throat feels tight. "And you only left two rolls of label stickers on the kitchen counter. Thought I'd hit the general store past the causeway before the fog thickens."
+I turn slowly, keeping my hands visible at my sides so I don't look like I'm guarding my breast pocket. "Out of heavy packing tape," I call up, keeping my voice even. "And you only left two rolls of label stickers on the kitchen counter. Thought I'd hit the general store past the causeway before the fog thickens."
 
 Bootsteps cross the upper hall until Graham leans briefly over the oak railing, looking down at me in the foyer. His gray eyes drop straight to my jacket pocket, linger for half a beat, then lift to my face.
 
@@ -104,7 +92,7 @@ He holds my gaze for a long beat, his fingers drumming once against the oak rail
 
 "Will do."
 
-I pull the heavy black door open and step out onto the porch. The cold salt wind hits my face like a slap, carrying the distant clang of the breakwater buoy. My Civic sits parked beside Graham's dark Audi, looking battered and small against the wet spruce line. I fish my manual key from my jeans pocket, unlock the driver's door with a stiff metallic click, and slide behind the cold steering wheel.
+I pull the heavy black door open and step out onto the porch. Salt wind cuts across the landing, carrying the distant clang of the breakwater buoy. My Civic sits parked beside Graham's dark Audi, battered and small against the wet spruce line. I fish my manual key from my jeans pocket, unlock the driver's door with a stiff click, and slide behind the wheel.
 
 Just before I twist the ignition, I glance once at the tall glass panes of the second-floor master bedroom.
 

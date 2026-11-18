@@ -5,7 +5,7 @@
 - **Subtitle:** A Gripping Domestic Psychological Thriller
 - **Series Name:** A Tessa Calder Thriller (Book 1)
 - **Author Name:** David Seelmann
-- **Target Word Count:** ~51,000 words (including *Book 2: The Caretaker's Ledger* Sneak Peek)
+- **Word Count:** ~47,000 words (45,231-word novel across 23 chapters + *Book 2: The Caretaker's Ledger* Sneak Peek)
 - **Enrollment:** KDP Select (Kindle Unlimited Exclusivity — 90-Day Term)
 - **Recommended Pricing:** $4.99 eBook (70% royalty tier + KU KENP page-read monetization) | $14.99 Trade Paperback (5.5" × 8.5", cream paper)
 
@@ -20,11 +20,11 @@
 
 Blacklisted insurance fraud investigator Tessa Calder learned the hard way that telling the truth doesn't pay the rent. Buried under an $18,412 court judgment and days away from a bank levy, she’s reduced to taking the off-the-books contracts nobody else will touch.
 
-When grieving tech founder Graham Kiefer offers her $15,000 cash for four days of emergency estate cataloging at his glass-and-cedar house on Salt Point, Maine, Tessa signs his fifty-thousand-dollar NDA without blinking. Three weeks ago, Graham’s wealthy wife, Lydia, took a skiff into an October squall and vanished into freezing water. Now Graham needs her belongings itemized and boxed before Boston probate lawyers—and the press—lock down the estate on Friday.
+When grieving tech founder Graham Kiefer offers her $15,000 for fourteen days of live-in estate archiving at his glass-and-cedar house on Salt Point, Maine, Tessa signs his fifty-thousand-dollar NDA with one written photo exception. Nineteen days ago, Graham’s wealthy wife, Lydia, took a skiff into an October squall and vanished into freezing water. Now Graham needs a preliminary estate inventory finished before Boston probate lawyers—and the press—lock down the house on Friday.
 
-It should be simple. Log the closet. Pack the studio. Collect the cash.
+It should be simple. Log the closet. Pack the studio. Collect the check.
 
-Except the luggage tag on Lydia’s hidden weekender is stamped three days *after* she supposedly drowned. Her silver fountain pen is ground down for a left-handed writer—and Lydia was right-handed. Crushed sleeping pills cake the master bathroom drainpipe, and beneath the heavy wool rug in the sunroom, someone recently scrubbed household bleach and linseed oil into the cedar floorboards until the wood turned bone-pale.
+Except the luggage tag on Lydia’s hidden weekender is stamped three days *after* she supposedly drowned. Her silver fountain pen shows left-handed nib wear—and Lydia was right-handed. White crystalline paste cakes the master bathroom drainpipe, and beneath the heavy wool rug in the sunroom, someone recently scrubbed household bleach and boiled linseed oil into the cedar floorboards until the wood turned bone-pale.
 
 Worse, the house’s high-end acoustic array isn't just recording the storm outside—someone is using it from the shadows to stitch Tessa’s own voice into a murder confession.
 
@@ -42,11 +42,11 @@ As a November gale floods the only tidal causeway off the peninsula, Tessa reali
 
 <p>Blacklisted insurance fraud investigator Tessa Calder learned the hard way that telling the truth doesn't pay the rent. Buried under an $18,412 court judgment and days away from a bank levy, she’s reduced to taking the off-the-books contracts nobody else will touch.</p>
 
-<p>When grieving tech founder Graham Kiefer offers her $15,000 cash for four days of emergency estate cataloging at his glass-and-cedar house on Salt Point, Maine, Tessa signs his fifty-thousand-dollar NDA without blinking. Three weeks ago, Graham’s wealthy wife, Lydia, took a skiff into an October squall and vanished into freezing water. Now Graham needs her belongings itemized and boxed before Boston probate lawyers—and the press—lock down the estate on Friday.</p>
+<p>When grieving tech founder Graham Kiefer offers her $15,000 for fourteen days of live-in estate archiving at his glass-and-cedar house on Salt Point, Maine, Tessa signs his fifty-thousand-dollar NDA with one written photo exception. Nineteen days ago, Graham’s wealthy wife, Lydia, took a skiff into an October squall and vanished into freezing water. Now Graham needs a preliminary estate inventory finished before Boston probate lawyers—and the press—lock down the house on Friday.</p>
 
-<p>It should be simple. Log the closet. Pack the studio. Collect the cash.</p>
+<p>It should be simple. Log the closet. Pack the studio. Collect the check.</p>
 
-<p>Except the luggage tag on Lydia’s hidden weekender is stamped three days <i>after</i> she supposedly drowned. Her silver fountain pen is ground down for a left-handed writer—and Lydia was right-handed. Crushed sleeping pills cake the master bathroom drainpipe, and beneath the heavy wool rug in the sunroom, someone recently scrubbed household bleach and linseed oil into the cedar floorboards until the wood turned bone-pale.</p>
+<p>Except the luggage tag on Lydia’s hidden weekender is stamped three days <i>after</i> she supposedly drowned. Her silver fountain pen shows left-handed nib wear—and Lydia was right-handed. White crystalline paste cakes the master bathroom drainpipe, and beneath the heavy wool rug in the sunroom, someone recently scrubbed household bleach and boiled linseed oil into the cedar floorboards until the wood turned bone-pale.</p>
 
 <p>Worse, the house’s high-end acoustic array isn't just recording the storm outside—someone is using it from the shadows to stitch Tessa’s own voice into a murder confession.</p>
 

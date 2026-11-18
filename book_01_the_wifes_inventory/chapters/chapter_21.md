@@ -2,7 +2,7 @@
 
 Cole's heavy boots hit the kitchen tile. A bright white flashlight beam slices through the pitch-black foyer arch, sweeping across the slate floor inches behind my heels as I drag Graham silently down the north hall.
 
-"Graham!" Cole bellows from the kitchen, his voice echoing off the cold stone. "Get out here! You're not getting off this rock!"
+"Graham!" Cole bellows from the kitchen, his voice echoing off the cold stone. "Get out here! Think your Boston money buys you off this rock?"
 
 I shove Graham through the open doorway of his study and pull the heavy walnut door nearly shut, leaving a narrow crack to watch the dark hall. Inside the study, the smoked-glass server rack hums steadily on its UPS battery backup, throwing a faint amber glow across the desk blotter. The room smells of warm dust and cedar shavings. Beside the keyboard, the heavy brass pipe wrench I left behind this morning still gleams dully in the amber LED light, though I don't trade the oyster knife for it; I need reach and speed, not dead weight.
 
@@ -10,9 +10,9 @@ Graham leans against the doorframe, chest heaving, one hand pressed to his bruis
 
 "We're not going out through the windows," I whisper, keeping the navy canvas duffel strapped tight across my back and the rusted oyster knife gripped in my right hand. "You built an acoustic house, Graham. Use it."
 
-I drop into the leather desk chair, wake the UPS-backed console monitor, and pull up the *Kiefer Soundworks* zone router. Every speaker on the ground floor is dead except the basement array—which runs off Zone 4's dedicated battery bank. Even the exterior cellular bridge is dark without main power, meaning nothing uploads out tonight until we physically hand the drives to state police. A tiny green status line confirms the boathouse Bluetooth puck's live stream already mirrored straight onto the Zone 4 RAID drive twenty minutes ago. Lydia's entire confession is sitting down there in the dark.
+I drop into the leather desk chair, wake the UPS-backed console monitor, and pull up the *Kiefer Soundworks* zone router. Every speaker on the ground floor is dead except the basement array—which runs off Zone 4's dedicated battery bank. Even the exterior cellular bridge is dark without main power, meaning nothing uploads out tonight until we physically hand the drives to state police. A tiny green status line confirms the hardwired boathouse relay puck's live stream already mirrored straight onto the Zone 4 RAID drive twenty minutes ago. Lydia's entire confession is sitting down there in the dark.
 
-I select `MIC_04_PANTRY_021407.wav`, set the output channel to `ZONE_4_DARKROOM_MONITORS`, and crank the gain to maximum. My thumb hovers over the trackpad for one beat. If Cole hears Lydia's voice echoing from the basement, he won't check the kitchen closets—he'll charge straight down the concrete stairs to kill the playback before it can be copied again.
+I select `MIC_04_PANTRY_020915.wav`, set the output channel to `ZONE_4_DARKROOM_MONITORS`, and crank the gain to maximum. My thumb hovers over the trackpad for one beat. If Cole hears Lydia's voice echoing from the basement, he won't check the kitchen closets—he'll charge straight down the concrete stairs to kill the playback before it can be copied again.
 
 "Hold the study door," I tell Graham, pointing toward the floor-to-ceiling walnut shelving in the corner. "When Lydia comes up the hall, get behind the shelves and stay quiet. Do not come out until I call your name."
 
@@ -22,7 +22,7 @@ Down beneath our sneakers, muffled through two layers of cedar and concrete, Lyd
 
 Out in the foyer, Cole's flashlight beam jerks violently toward the basement stairwell door. He stops dead on the slate.
 
-"Evie?" Cole shouts, confusion sharpening into raw panic as his own coastal drawl echoes faintly up through the floorboards beneath him. "She's back in Zone 4! She's playing the pantry tape!"
+"Lydie?" Cole shouts, confusion sharpening into raw panic as his own coastal drawl echoes faintly up through the floorboards beneath him. "She's back in Zone Four! She's playing the pantry tape!"
 
 Heavy boots thunder across the foyer slate toward the basement stairs, taking the landing in two loud bounds.
 
@@ -38,11 +38,11 @@ I drop softly off the bottom iron rung onto the darkroom concrete, keeping my kn
 
 Graham's acoustic dead-zone.
 
-The moment I step inside the corner angle, the booming speaker echo from the center of the room drops to a flat, eerie hush. Sound waves cancel out against the angled baffling here, swallowing my ragged breathing and the faint drip of seawater from my soaked jeans. It feels like stepping underwater without the cold—a pocket of dead air engineered to let Graham calibrate directional mics without room bounce.
+The moment I step inside the corner angle, the sharp speaker echo from the center floor dulls into a flat, low-end rumble. Directional foam baffles and corner bass traps absorb mid-to-high frequencies and kill concrete bounce, swallowing my breathing and the rustle of my wool sweater. It isn't silent—bass still thrums against my ribs—yet it robs a hunter of clean directional cues.
 
 Across the room, Cole's flashlight beam sweeps wildly across the three humming audio servers, the drafting table, and the open *ARCHIVE* cabinet. The fallen cast-iron counterweight still rests on the cracked concrete sill beside the ladder behind him, surrounded by gray concrete dust. His left wrist is wrapped in blood-soaked gauze; in his right hand, he grips his duty pistol, turning in tight circles as he hunts the speaker throwing Lydia's voice back at him.
 
-"Shut it off!" Cole roars at the dark, swinging his beam toward the center console. He steps over the fallen monitor cable, his heavy boots kicking a loose stool sideways across the floor.
+"Shut it off!" Cole roars at the dark, swinging his beam toward the center console. He steps over the fallen monitor cable, his heavy boots kicking a loose stool sideways across the floor. "Think you can hide in your fancy sound box, you gutless little—"
 
 Footsteps clatter fast down the basement stairs behind him.
 
@@ -56,7 +56,7 @@ Lydia's penlight snaps straight toward the northeast corner.
 
 She doesn't wait for Cole to turn his pistol. She lunges across the darkroom floor, swinging the heavy brass wrench in a flat, vicious arc straight at my head.
 
-I duck low into the corner angle, pulling my shoulders tight into the acoustic foam. The dead-zone swallows the whisper of my dry wool sweater and the scrape of my sneakers on concrete. Because Lydia lost my exact distance the instant my breathing vanished into the baffled corner, her aim goes wide.
+I duck low into the corner angle, pulling my shoulders tight against the charcoal foam. Once I freeze clear of the steel rack, the baffling swallows my breathing and steals the echo Lydia needs to judge my distance in the dark. Her aim goes wide.
 
 The heavy brass wrench whistles past my temple and smashes with a shower of blue sparks into the steel studio monitor behind me.
 

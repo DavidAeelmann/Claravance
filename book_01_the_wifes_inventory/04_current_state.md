@@ -1,25 +1,25 @@
 # 04 — Live State & Continuity Tracker
 
-- **Current Manuscript Status:** Complete (Chapters 1–25 Complete & Linted)
-- **Completed Chapters:** 25 / 25
-- **Cumulative Word Count:** 49,989 words
-- **Current Timeline Anchor:** Late November 2026 (Two weeks post-Salt Point; Commercial Street, Portland)
+- **Current Manuscript Status:** Complete (Chapters 1–23 Complete, Linted & Verified)
+- **Completed Chapters:** 23 / 23
+- **Cumulative Word Count:** 45,231 words
+- **Current Timeline Anchor:** Early December 2026 (Four weeks post-Salt Point; Commercial Street, Portland)
 - **Active POV:** Tessa Calder (1st Person Present)
 
 ## Character Locations & Knowledge Matrix
-- **Tessa Calder:** Seated in a corner booth at Becky's Diner on Commercial Street, Portland. $18,412 court judgment paid in full ($0 debt remaining), private investigator bond restored, marine-insurance application on the table. Holding the **brass skeleton key** and **Vermont lodge photograph** handed over by **Margot Kiefer-Hall**—discovering her missing sister **Nina's handwriting** (*Don't trust him.*) on the cropped guest ledger scan dated two days ago.
-- **Margot Kiefer-Hall:** Across the diner booth from Tessa; managing partner at *Kiefer-Hall Fiduciary* (State Street, Boston; distant branch of Graham Kiefer's family); offering $45,000 for a 10-day Vermont lodge cleanup (*The Caretaker's Ledger*, Book 2 launchpad).
-- **Graham Kiefer, Lydia Kiefer, Deputy Cole Halstead:** In custody without/postponed bail following Rockland depositions and Knox County DA charges.
+- **Tessa Calder:** Seated in a corner booth at Becky's Diner on Commercial Street, Portland. $18,412 court judgment paid in full ($0 debt remaining), private investigator bond restored, marine-insurance application on the table. Holding the **brass skeleton key** (pine resin on teeth) and **Vermont lodge photograph** handed over by **Margot Kiefer-Hall**—discovering her missing sister **Nina's handwriting** (*Don't trust him.*) on the cropped guest-ledger fax dated two days ago.
+- **Margot Kiefer-Hall:** Across the diner booth from Tessa; managing partner at *Kiefer-Hall Fiduciary* (State Street, Boston; distant branch of Graham Kiefer's family); added the $3,500 storm-hazard adjustment Wednesday and authorized the $13,500 completion release Thursday night; offering $45,000 for a 10-day Vermont lodge cleanup (*The Caretaker's Ledger*, Book 2 launchpad).
+- **Graham Kiefer, Lydia Kiefer, Deputy Cole Halstead:** Lydia and Cole held without bail following Rockland depositions; Graham facing state embezzlement and attempted arson charges after state auditors tallied the $2.4M trust shortfall.
 - **Maren Lindqvist:** Granted full reporting-witness immunity; dock debt cleared; sent Tessa a crate of Salt Point oysters.
 
 ## Tessa's Current Inventory
 - **Faded navy canvas duffel** (on diner booth bench)
 - **Restored PI bond letter** + **satisfaction-of-judgment notice ($0 balance)** (in jacket pocket)
 - **2014 silver Honda Civic** (parked at curb; spare-tire well cleared by MSP techs; muffler shield bolted)
-- **Brass skeleton key** & **snowed-in Vermont lodge photograph** (on diner table, Book 2 hook)
+- **Brass skeleton key** & **snowed-in Vermont lodge photograph** with Nina's faxed note (on diner table, Book 2 hook)
 
 ## Active Fair-Play Clues Planted / Explained
-- **Clue #1–#17:** **100% RESOLVED IN BOOK 1.** Every Act I–II physical clue (Oct 17 ferry tag, left-handed Montblanc nib wear & Cole's warning slip, sunroom bleached floorboards & baseboard B-4 key, mudroom salt-free orange life jacket, 28/30 Ambien & sink U-bend residue, pantry dumbwaiter shaft & Zone 4 acoustic dead-zone, Civic spare-tire well bleach rag & bronze cleat, $2.4M trust ledger) resolved on-page.
+- **All Physical, Legal & Technical Threads:** **100% RESOLVED IN BOOK 1.** Every Act I–III physical clue (`OCT 17` ferry stub, Montblanc left-tine wear + barrel prints + Cole's left-handed warning slip, sunroom bleach & tacky boiled linseed oil + `B-4` baseboard key, crisp tap-water life vest + Coast Guard serial/lot check, 28/30 Ambien baseline + left brass P-trap paste swab + pre-dusted habitual rocks glass toxicology, pantry dumbwaiter shaft + overhead pulley/cotter pin/counterweight, Zone 4 unified Soundworks rack + UPS battery bank + northeast dead-zone baffling, Civic spare-tire well bleach rag & bronze cleat, $2.4M notarized trust ledger & 3-rule Cayman rollover) is resolved on-page across Chapters 1–23.
 
 ## Last Chapter Summary (≤100 words)
-Two weeks after Salt Point, Tessa clears her $18,412 court judgment using the $5,000 cash and $10,000 Boston check, regains her PI bond, and packs her Portland studio for a daylight marine-insurance audit. At Becky's Diner, Boston fiduciary partner Margot Kiefer-Hall—who issued the completion check—offers $45,000 for a winter cleanup at a snowed-in Vermont lodge. Tessa refuses until Margot slides across a brass skeleton key and a lodge photograph. Flipping it over, Tessa finds a guest-ledger scan dated two days ago bearing her missing sister Nina's handwriting: *Don't trust him.*
+Four weeks after Salt Point, Tessa clears her $18,412 court judgment with $88 to spare using the $5,000 cash and $13,500 escrow check (her $400 checking covering the state bond fee), regains her PI bond, and packs her Portland studio for a daylight marine-insurance audit. At Becky's Diner, Boston fiduciary partner Margot Kiefer-Hall—who authorized the $13,500 release—offers $45,000 for a 10-day winter cleanup at a snowed-in Vermont lodge. Tessa refuses until Margot slides across a pine-resined brass skeleton key and a lodge photograph bearing a two-day-old guest-ledger fax in missing sister Nina's handwriting: *Don't trust him.*

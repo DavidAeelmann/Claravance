@@ -8,7 +8,13 @@ The siren cuts out once near the ridge bend, then starts up again—closer, boun
 
 The phone chimes softly: `TRANSFER COMPLETE`.
 
-I yank the cable free, pull the matte-black thumb drive out of Graham's tower, and shove both into my jeans pockets. The heavy brass wrench sits on the desk blotter beside Graham's elbow. I leave it there; hauling dead iron down wet granite stairs will only slow me down, and I need both hands free if I have to climb.
+I yank the cable free, pull the matte-black thumb drive from Graham's tower, and open my encrypted cloud queue while Lydia's locked WAN gateway leaves the house Wi-Fi dead. One flickering bar of LTE clings to the corner of my screen. I attach `MIC_04_PANTRY_020915.wav`, my life-vest serial shots, and the Bramwell & Shaw default scan into a compressed packet for Samira Patel in Portland, adding four words: *Salt Point setup. Call MSP.*
+
+I hit *Send*.
+
+The wheel spins. Six percent. Twelve. A gust slams the study's exterior siding, the signal bar drops to *No Service*, and a red banner snaps across the glass: `UPLOAD PAUSED — CARRIER TIMEOUT`. I switch to plain SMS and hit *Resend* twice—nothing. Not even a raw text clears the spruce ridge through this storm cover.
+
+I pocket the phone and drive. The heavy brass wrench sits on the desk blotter beside Graham's elbow. I leave it there; hauling dead iron down wet granite stairs will only slow me down, and I need both hands free if I have to climb.
 
 Graham grabs my forearm before I can turn toward the hall. His grip is clammy, fingers digging through my flannel sleeve. "Tessa, listen to me. You don't understand what Cole is when nobody's watching. If he has a warrant, he's not coming up here to read us our rights."
 
@@ -22,11 +28,11 @@ Graham grabs my forearm before I can turn toward the hall. His grip is clammy, f
 
 I don't answer from the study. I stride fast down the north hall, my sneakers silent on the runner, and cut through the sunroom doorway where the gray wool rug still lies crooked over the bleached cedar boards. The padded manila envelope from the basement sits on the kitchen island behind me, out of reach if Cole comes through the front door first. Good. Let Cole waste his time chasing paper inside the house.
 
-"The boathouse," I call back over my shoulder as Graham hurries to the sunroom arch. "Whatever Lydia and Cole staged on the night of the squall—the extra oars, the tarp, the cleaner they used—they didn't haul it all back up the cliff in the dark. Once I photograph it and hit the ridge for cell signal, I can push the images and that raw WAV file straight to Portland before Cole seizes the property."
+"The boathouse," I call back over my shoulder as Graham hurries to the sunroom arch. "Upload stalled—zero signal down here. Whatever Lydia and Cole staged the night of the storm is still sitting inside. Give me three minutes to shoot the gear, hit the spruce ridge where signal holds, and dump the packet before Cole locks down the property."
 
 Graham's face goes tight with fresh panic. "Tessa, don't go down there alone. If Lydia's iPad just synced within local mesh range, she isn't in New Brunswick."
 
-I already know that. I know how fast a county prosecutor would bury a disgraced insurance investigator with a faked confession on file. Running guarantees prison. Staying in the study guarantees cold steel handcuffs before I can even pull my coat off the foyer peg.
+I already know that. I know how fast a county prosecutor would bury a disgraced insurance investigator with a faked confession on file and zero upload history. Running blind in my car guarantees prison. Staying in the study with an unsent file guarantees cold steel handcuffs before I can even pull my coat off the foyer peg.
 
 I throw the sunroom slider latch. The heavy glass panel groans on its aluminum track as I haul it wide, letting the Atlantic gale rush straight across the bleached floorboards. Freezing salt wind slams into my face, tasting of kelp and coming storm.
 
@@ -38,7 +44,7 @@ My dry spare sneakers slap hard against the slick slate steps cut into the cliff
 
 No sleep since Tuesday night. Two days of stale coffee, cold fear, and now a sheriff's deputy rolling down the ridge road with my name attached to a fabricated murder confession. Across the inlet to the south, the low-lying tidal causeway already looks gray and glistening under the rising swell, white foam licking at the asphalt shoulders. If the gale peaks before high tide, nobody drives off Salt Point tonight without a high-clearance rig. We'll be sealed onto this rock with a dirty badge.
 
-I force myself down the next flight of steps, keeping one hand brushing the wet granite wall so my knees don't buckle on the moss. Salt spray stings my eyes. My fingers ache from the damp chill, and every muscle in my calves burns from four hours crouched on concrete in the darkroom. Below me, the cove water looks black as crankcase oil, chopping hard against the granite shelf where the boathouse pilings sink into the kelp.
+I force myself down the next flight of steps, keeping one hand brushing the wet granite wall so my knees don't buckle on the moss. Salt spray stings my eyes. Below me, the cove water looks black as crankcase oil, chopping hard against the granite shelf where the boathouse pilings sink into the kelp.
 
 Near the bottom of the cliff, the wind flattens out beneath the rock overhang, though surf still booms against the timber pilings below. Through the drifting fog to my left, Maren Lindqvist's weathered cove sorting shed sits dark and shuttered above the tide line, her aluminum skiff pulled high onto the gravel apron and chained to an iron ring. No light in her window. No woodsmoke curling from her tin stove pipe.
 
@@ -60,7 +66,7 @@ I press flat against the wet shingles and hold my breath. Rain patters against t
 
 My sneakers hit damp cedar decking with a dull thud.
 
-The boathouse smells strongly of diesel fuel and stagnant low-tide mud. Beneath the center plank floor, black harbor water slaps steadily against wooden pilings, sending hollow echoes up through the seams. Gray daylight filters through the salt-clouded transom above the double doors, painting pale stripes across stacked lobster traps, coiled dock lines, and a scarred cedar workbench along the far wall.
+The boathouse smells strongly of diesel fuel and stagnant low-tide mud. Beneath the center plank floor, black harbor water slaps steadily against wooden pilings, sending damp echoes up through the seams. Gray daylight filters through the salt-clouded transom above the double doors, painting pale stripes across stacked lobster traps, coiled dock lines, and a scarred cedar workbench along the far wall.
 
 Suspended from the rafters overhead hangs a long yellow fiberglass sea kayak, swaying almost imperceptibly in the cold draft pouring through the open casement behind me.
 
@@ -70,7 +76,7 @@ I push quietly to my feet and edge along the workbench. Tucked beneath a folded 
 
 Physical hardware sitting steps from the cove water, left behind because someone got sloppy—or because nobody expected an outsider to pry open a painted casement window in a November gale.
 
-I reach into my back pocket and pull out my smartphone. My thumb shakes as I tap the camera icon, my fingers stiff with cold against the slick glass. I toggle the flash off so no glare reflects off the transom, then crouch low to frame the bleach jugs, the scratched oar blades, and the coiled towline together in one clean shot.
+I reach into my back pocket and pull out my smartphone. My thumb shakes as I tap the camera icon. I toggle the flash off so no glare reflects off the transom, then crouch low to frame the bleach jugs, the scratched oar blades, and the coiled towline together in one clean shot.
 
 A sneaker scuffs against grit behind the hanging kayak.
 
@@ -78,10 +84,10 @@ I freeze. The phone stays raised chest-high, its pale screen illuminating the da
 
 Lydia Kiefer steps out from behind the yellow fiberglass hull.
 
-She doesn't look like a woman who spent three weeks hiding in a coastal loft or scrambling over granite ledges in the dark. Her dark hair is pulled back into a tight, neat knot, and she wears a charcoal waxed-canvas jacket over dark trousers—dry, crisp, completely unhurried, as if she just stepped off a heated porch. In her right hand, held steady at waist height and pointed directly at my sternum, sits a matte-black subcompact Glock 26.
+She doesn't look like a woman who spent nearly three weeks hiding in New Brunswick and a coastal loft or scrambling over granite ledges in the dark. Her dark hair is pulled back into a tight, neat knot, and she wears a charcoal waxed-canvas jacket over dark trousers—dry, crisp, completely unhurried, as if she just stepped off a heated porch. In her right hand, held steady at waist height and pointed directly at my sternum, sits a matte-black subcompact Glock 26.
 
 Deputy Cole Halstead's backup pistol.
 
-Every nerve in my body locks down, pinned between the narrow casement window behind my heels and the dark muzzle four paces away.
+I freeze between the narrow casement window behind my heels and the dark muzzle four paces away.
 
 "Put the phone on the dock, Tessa," Lydia says, her voice calm and level over the slap of the rising tide. "You weren't supposed to find the dumbwaiter shaft."

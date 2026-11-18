@@ -1,173 +1,111 @@
-# 03 — 25-Chapter Beat-by-Beat Blueprint (*The Wife's Inventory*)
+# 03 — 23-Chapter Beat-by-Beat Blueprint (*The Wife's Inventory*)
 
-**Target Word Count:** ~62,500 words (25 chapters × ~2,500 words; drafted as 3 discrete ~800-word scene beats per chapter).
+**Final Word Count:** 45,231 words across 23 chapters (1,762–2,368 words per chapter).
 
 ---
 
 ## Act I: Arrival, House Rules & First Cracks (Chapters 1–6)
 
 ### Chapter 1
-- **POV & Setting:** Tessa (1st Present); Salt Point tidal causeway & Kiefer Glass House foyer (Monday, Nov 4, dusk).
-- **Micro-Goal & Conflict:** Tessa needs her $5,000 upfront envelope and room key; Graham withholds payment until she signs the NDA and memorizes his three strict rules (log all Lydia's belongings, stay out of the boathouse, never open the basement acoustic room).
-- **Value Shift:** Outsider contractor seeking a routine paycheck → Trapped insider bound by a suspiciously rigid NDA.
-- **Cliffhanger / Page-Turn Hook:** Opening the foyer coat closet to hang her wet jacket, Tessa finds Lydia’s packed olive-canvas weekender tucked behind Graham's winter coats—tagged with a ferry stub dated *October 17*, three days *after* Lydia drowned, leaving Tessa wondering whether Graham hid it poorly or planted it to test her.
+- **POV & Setting:** Tessa (1st Present); Salt Point tidal causeway & Kiefer Glass House foyer (Monday, Nov 2, dusk — 19 days post-Oct 14).
+- **Beat Summary:** Tessa arrives with an $18,412 court judgment and $400+ in checking. Notes the high cedar-framed skylight hatch above the foyer coat bench clear of exterior shutter housings. Negotiates an initialed (*G.K.*) margin rider allowing timestamped estate-verification photos on Graham's $50,000 NDA, collects $5,000 cash + brass front-door key, learns the Friday 5 PM preliminary probate deadline and three house rules (spreadsheet/photos, stay out of locked boathouse, never open Zone 4 steel fire door). Opening the foyer coat closet, she finds Lydia's packed olive-canvas weekender behind Graham's wool coats—tagged with a Bar Harbor Slip 4 ferry stub stamped **OCT 17**.
 
 ### Chapter 2
-- **POV & Setting:** Tessa; Guest suite & Lydia’s upstairs studio (Day 0, night).
-- **Micro-Goal & Conflict:** Tessa begins logging Lydia’s studio desk to look compliant while testing if the room was staged; she finds the sash window freshly painted shut from inside despite Graham claiming Lydia aired it daily.
-- **Value Shift:** Mild curiosity → Active forensic suspicion of a staged disappearance.
-- **Cliffhanger / Page-Turn Hook:** Tessa inspects the silver Montblanc pen on the blotter—noting left-handed nib wear on a right-handed woman's desk—right as footsteps stop outside the closed door and the knob turns slowly.
+- **POV & Setting:** Tessa; Guest suite & Lydia's upstairs studio (Mon, Nov 2, night).
+- **Beat Summary:** Tessa hooks a stray lining thread over her duffel zipper teeth, reflects on her sister Nina's Vermont disappearance six years prior, and slips into Lydia's studio. Finds bleached ceramic palette/clean brushes, a September-cutoff flat-file with crisp toner-smelling chart, a freshly painted-shut seaward sash window, three cleanly sliced sketchbook pages, and a silver Montblanc with uneven left-tine nib wear (logged cautiously as an anomaly with multiple benign explanations). Graham arrives at the door, caps the pen, and locks the studio behind her.
 
 ### Chapter 3
-- **POV & Setting:** Tessa; Kiefer kitchen & back deck (Day 1 morning, low tide).
-- **Micro-Goal & Conflict:** Tessa tries to baseline Graham's storm-night timeline over coffee; Graham deflects with grief-stricken charm while probing whether Tessa knows about his stalled acoustic patent buyout.
-- **Value Shift:** Sees Graham as coldly secretive → Sees Graham as financially cornered (clear motive).
-- **Cliffhanger / Page-Turn Hook:** Down by the cove dock, neighbor Maren hauls traps and holds up two fingers in a silent warning before nodding toward the locked boathouse.
+- **POV & Setting:** Tessa; Kitchen & back cedar deck (Tue, Nov 3, morning, low tide).
+- **Beat Summary:** Over coffee, Graham introduces **Trust Rule 1** (conditional joint signatory authority over the $5,400,000 *Lydia Kiefer Irrevocable Trust* while Arlington patent buyout clears before next Wednesday's R&D payroll) and gives his storm-night alibi (basement Zone 4 with noise-canceling headphones). Down on the cove mudflats, neighbor Maren Lindqvist holds up two gloved fingers in warning and jerks her chin toward the locked boathouse.
 
 ### Chapter 4
-- **POV & Setting:** Tessa; Sunroom & mudroom (Day 1 afternoon).
-- **Micro-Goal & Conflict:** Cataloging rugs and linens, Tessa shifts the heavy gray wool rug in the sunroom and smells fresh bleach and linseed oil over a scrubbed cedar patch.
-- **Value Shift:** Speculative hunch → Physical evidence of post-disappearance cleanup.
-- **Cliffhanger / Page-Turn Hook:** Probing the damp baseboard seam, a rusted brass key drops out—stamped with the basement door number.
+- **POV & Setting:** Tessa; Sunroom & mudroom (Tue, Nov 3, afternoon).
+- **Beat Summary:** After the Rockland supply truck drops 20 wardrobe cartons, Tessa peels back the heavy gray wool sunroom rug and identifies sharp bleach and tacky boiled linseed oil trapped beneath the airtight backing (pointing to recent cleaning without pinning an arbitrary hour mark). Probing a pried cedar baseboard, she recovers a rusted brass mortise key stamped **B-4**, wraps it in acid-free tissue inside her jacket, and drives out while Graham watches from the master bedroom window.
 
 ### Chapter 5
-- **POV & Setting:** Tessa; Harbor road & Salt Point general store (Day 1 late afternoon).
-- **Micro-Goal & Conflict:** Tessa drives into town for packing boxes and local intel; Deputy Cole Halstead pulls her over for a dim taillight, warns her off "poking around Graham's grief," and signs the slip **left-handed**.
-- **Value Shift:** Independent contractor → Monitored target under local police scrutiny.
-- **Cliffhanger / Page-Turn Hook:** Back in her Civic, Tessa finds a torn tide-chart slipped into her store receipt bag by Maren: *2:14 AM — High Water. Ask him why his dock lights were off.*
+- **POV & Setting:** Tessa; Harbor Road & Salt Point General Store (Tue, Nov 3, late afternoon).
+- **Beat Summary:** Tessa pulls Kiefer Soundworks Arlington debt briefs, then Deputy Cole Halstead pulls her over for a dead brake light, reveals a *county seal* on the boathouse (contradicting Graham's Coast Guard story), warns her off, and signs the yellow slip **left-handed**. Outside the general store (with 4 bars), Tessa texts marine-claims colleague Samira Patel Lydia's bulletin passport number. Inside, Maren warns her off in person and slips a torn November tide chart into her brown paper bag: *2:14 AM — High Water. Ask him why his dock lights were off.* Cole drives back onto Salt Point ahead of her.
 
 ### Chapter 6
-- **POV & Setting:** Tessa; Dining room & mudroom (Day 2 evening, storm squall).
-- **Micro-Goal & Conflict:** Tessa baits Graham by asking for the serial number on the mudroom life jacket for probate records; Graham lies about Coast Guard return rules, unaware Tessa sees the canvas straps are crisp and salt-free.
-- **Value Shift:** Passive observer → Active investigator deliberately testing Graham's alibi *(Act I Break)*.
-- **Cliffhanger / Page-Turn Hook:** Power flickers; as the backup generator engages, the wall tablet reboots and flashes a live motion ping in **Basement Zone 4** before wiping to "Offline."
+- **POV & Setting:** Tessa; Guest suite, dining room & mudroom (Tue, Nov 3, evening/storm).
+- **Beat Summary:** Tessa spots fresh cruiser-lug tracks in the gravel. Upstairs, her duffel's lining thread is broken and laptop battery is warm; she checks her outer side-pocket pull (tucked flat beneath the canvas welt) and hides her store bag behind the radiator. Downstairs, Graham moves the preliminary deadline to Thursday night and reveals **Trust Rule 2** (moral-turpitude forfeiture overriding any cure window). Tessa inspects the crisp, salt-free orange life vest on mudroom peg 2 (smelling tap water, yet noting nose alone isn't court proof and photographing the Coast Guard approval tag, serial number, and lot stamp). Power fails; on generator reboot, the wall tablet exposes `EXT-DECK / LOGS — 40M DIAGNOSTIC BYPASS BUS` and flashes **MOTION DETECTED — BASEMENT ZONE 4 (PERIMETER BYPASS ACTIVE)**.
 
 ---
 
 ## Act IIa: The Inventory Trap & Escalation (Chapters 7–13)
 
 ### Chapter 7
-- **POV & Setting:** Tessa; Master closet & bath (Day 3 morning, Graham in Portland).
-- **Micro-Goal & Conflict:** Using Graham’s four-hour absence, Tessa audits Lydia’s meds and jewelry; she finds 28/30 Ambien pills intact and white crystalline powder dried in the sink's brass U-bend.
-- **Value Shift:** Assumes Graham drugged Lydia → Spots a structural contradiction (dissolved pills without ingestion).
-- **Cliffhanger / Page-Turn Hook:** Tessa's phone buzzes with a doorbell motion alert—Deputy Cole Halstead is standing on the back deck, punching a code into the pantry keypad.
+- **POV & Setting:** Tessa; Master suite & bath (Wed, Nov 4, morning — Graham in Portland).
+- **Beat Summary:** Tessa checks the red perimeter-armed LED on Zone 4's steel fire door. Upstairs, she finds a winter-boot gap in the master closet, platinum ring, Cartier watch, 28/30 Ambien dispensed Oct 4 (logged as baseline background only), and white crystalline paste caked inside the left brass sink P-trap (treated as an unconfirmed chemical suspect and swabbed onto foil inside a knotted nitrile glove finger). A motion alert pings: Cole Halstead enters via the back pantry keypad with a 6-digit code.
 
 ### Chapter 8
-- **POV & Setting:** Tessa; Pantry corridor & service stairs (Day 3 midday).
-- **Micro-Goal & Conflict:** Tessa hides inside the cedar pantry as Cole enters with a valid PIN and disables exterior deck camera logs for 40 minutes at the breaker box.
-- **Value Shift:** Thinks Cole is covering for Graham → Realizes Cole has autonomous private access to the house.
-- **Cliffhanger / Page-Turn Hook:** Cole pauses inches from Tessa's pantry door and mutters into his phone: *"She's taking too long in the master suite. Move the deadline to Thursday."*
+- **POV & Setting:** Tessa; Walk-in cedar pantry & service corridor (Wed, Nov 4, midday).
+- **Beat Summary:** Hiding behind louvered pantry slats (noting the rear cedar wall flexes behind the bottom spice rack), Tessa spots the *Halstead Marine & Low-Voltage* decal inside the breaker box. She watches Cole bridge `EXT-DECK / LOGS` for a 40-minute local service loop suppressing push alerts to Graham's phone, enter Lydia's 6-digit co-owner installer PIN on the wall tablet to purge his entry, inspect mudroom props, and take a burner-phone call ordering his accomplice to keep the cove clear until dusk and move things up to Thursday.
 
 ### Chapter 9
-- **POV & Setting:** Tessa; Cove trail & Maren’s oyster shack (Day 3 dusk).
-- **Micro-Goal & Conflict:** Tessa confronts Maren on the rocky cove; Maren refuses names out of fear for her license, but admits Lydia visited her shack two days *before* the storm asking how to kill a boat's GPS transponder.
-- **Value Shift:** Lydia as passive victim → Lydia as active planner before the squall.
-- **Cliffhanger / Page-Turn Hook:** Climbing back up the cliff path in darkness, Tessa sees a flashlight sweep the *locked boathouse* windows—just as Graham’s Audi turns into the front drive.
+- **POV & Setting:** Tessa; Cove cliff trail & Maren's sorting shed (Wed, Nov 4, dusk).
+- **Beat Summary:** Before Graham returns from Portland, Tessa confronts Maren inside her sorting shed. Maren admits taking $5,000 cash from Lydia on Monday, Oct 12 (when Lydia asked how to cut a skiff's GPS coax without blowing the helm fuse or leaving a tower error log) and reveals she saw *two* silhouettes by the boathouse at 2:14 AM the night of the storm. Climbing back up, Tessa sees a handheld flashlight sweeping inside the locked boathouse just as Graham's Audi turns into the drive.
 
 ### Chapter 10
-- **POV & Setting:** Tessa; Living room & study (Day 3 night).
-- **Micro-Goal & Conflict:** Graham pours drinks and presses Tessa to finish packing by Friday; Tessa swaps her glass while he fetches ice and photographs an unshredded demand letter showing his firm owes $2.4M to Lydia’s trust.
-- **Value Shift:** Confirms massive financial motive against Graham.
-- **Cliffhanger / Page-Turn Hook:** Tessa's dormant insurance-database watch pings her phone: Lydia’s passport cleared a private marina scanner in St. Andrews, New Brunswick, *yesterday*.
+- **POV & Setting:** Tessa; Living room, north-hall study & guest suite (Wed, Nov 4, night).
+- **Beat Summary:** Graham pours neat bourbon from a clean decanter into two glasses, handing Tessa his habitual pre-dusted tumbler out of host reflex. Spotting sediment only in hers, Tessa swaps glasses while Graham fetches ice. Slipping into the study, she photographs *Bramwell & Shaw*'s Oct 15 Notice of Default ($2.4M shortfall of $5.4M corpus, $3.0M remaining, Nov 14 cure window) and **Trust Rules 1–3** (Cayman bearer rollover on forfeiture). Graham drinks his own dosed pour. Upstairs, Tessa sees her duffel's outer side-pocket zipper pull flipped outward and receives Samira Patel's *Atlantic Marina Port-Clearance Watch* alert: Lydia scanned US Passport `#••••••3907` at St. Andrews Private Marina on **Nov 3, 09:42 AST**.
 
 ### Chapter 11
-- **POV & Setting:** Tessa; Pantry corridor & concealed utility shaft (Day 4, 2:00 AM).
-- **Micro-Goal & Conflict:** Hearing a metallic latch click at 2:14 AM, Tessa pries behind the pantry spice rack and uncovers the manual dumbwaiter shaft running down to the basement.
-- **Value Shift:** Shut out of locked zones → Gains covert vertical access into the blind spot.
-- **Cliffhanger / Page-Turn Hook:** Dropping off the iron ladder into the darkroom, Tessa trips a studio monitor displaying a frozen frame of *Graham* dragging a rolled canvas rug toward the boathouse hatch.
+- **POV & Setting:** Tessa; Pantry dumbwaiter shaft & Basement Zone 4 (Thu, Nov 5, 2:00 AM).
+- **Beat Summary:** Woken by a 2:14 AM metallic latch click, Tessa clears the pantry spice shelves, pops two concealed brass flush-latches, and uncovers a vertical 1970s dumbwaiter shaft fitted with an iron ladder, overhead cast-iron sheave pulley, removable steel cotter pin, braided hemp line, and suspended cast-iron counterweight. Climbing down into Zone 4, she jars a tripod and wakes dual monitors displaying a frozen `02:14 AM` infrared frame of a hooded man in Graham's slicker dragging a heavy rolled canvas rug toward the boathouse hatch.
 
 ### Chapter 12
-- **POV & Setting:** Tessa; Basement Acoustic Darkroom (Day 4, 2:20 AM).
-- **Micro-Goal & Conflict:** Racing upstairs sensors, Tessa searches the soundproofed room and finds three redundant audio servers, tide charts, and a locked steel cabinet marked *ARCHIVE — DO NOT ERASE*.
-- **Value Shift:** Expects murder trophies → Finds what looks like a frantic defense investigation.
-- **Cliffhanger / Page-Turn Hook:** Tessa pops the cabinet latch with her multi-tool and lifts out a padded manila envelope—just as the steel fire door swings shut and deadbolts from outside.
+- **POV & Setting:** Tessa; Basement Zone 4 Acoustic Darkroom (Thu, Nov 5, 2:20 AM).
+- **Beat Summary:** Tessa inspects the unified Soundworks rack: 5 tracks (`SUNROOM_EAST`, `MIC_04_PANTRY`, `STAIRWELL_4`, `BOATHOUSE_LINT`, `HYDROPHONE_COVE`), 3 redundant servers + `ARCHIVE` directory, dedicated UPS battery bank, compact cellular bridge, and 3 blind spots; a `4:12 PM` Wed wind-filter batch-render log; and the northeast acoustic dead-zone (directional foam baffles & bass traps absorbing mid-to-high frequencies). The steel drafting table reveals Graham frantically reconstructing skiff drift and transponder gaps. As she pries open the `ARCHIVE — DO NOT ERASE` steel locker and lifts a padded envelope, someone slams and deadbolts Zone 4's steel fire door from outside.
 
 ### Chapter 13
-- **POV & Setting:** Tessa; Basement Acoustic Darkroom (Day 4, 2:30 AM – 6:00 AM).
-- **Micro-Goal & Conflict:** Trapped without cell signal, Tessa reads the envelope by flashlight: notarized proof of Graham’s $2.4M embezzlement *plus* unedited 2:14 AM WAV transcripts from the storm night cutting off mid-argument over a boat key.
-- **Value Shift:** Believes she’s trapped by a killer → Realizes the room is both a vault and a deliberate puzzle box.
-- **Cliffhanger / Page-Turn Hook:** At 6:05 AM, the deadbolt slides open; Graham stands in the frame gripping a heavy brass wrench—and behind him, a pair of muddy women's boots drips onto the tile.
+- **POV & Setting:** Tessa; Basement Zone 4 (Thu, Nov 5, 2:30 AM – 6:05 AM).
+- **Beat Summary:** Finding the pantry dumbwaiter door wedged shut with a kitchen chair, Tessa slices open the `ARCHIVE` envelope by flashlight: notarized Oct 10 wire transfers ($2.4M), 3 sliced sketchbook tracing pages, *Bramwell & Shaw* covenant rider, raw `2026-10-14 / 15` acoustic transcripts (`02:09:15`–`02:14:44 AM`, 68 dB latch slam, 6-min breaker blackout, `02:18:11` cove hydrophone oars), and an encrypted thumb drive—Graham's grounded Faraday defense baseline. At 6:05 AM, Graham unlocks Zone 4 gripping a brass pipe wrench; behind him on the foyer slate drip Lydia's kelp-crusted winter duck boots.
 
 ---
 
 ## Midpoint Reversal & Act IIb: The Shattered Frame (Chapters 14–16)
 
 ### Chapter 14
-- **POV & Setting:** Tessa; Basement stairwell & kitchen (Day 4 morning).
-- **Micro-Goal & Conflict:** Tessa threatens cloud-backed release of the embezzlement files; Graham drops the wrench, confesses the $2.4M theft, and swears he hired Tessa specifically because someone is framing him for Lydia's murder.
-- **Value Shift:** Binary hero/villain → Both employer and contractor cornered by an unseen architect *(Midpoint Reversal)*.
-- **Cliffhanger / Page-Turn Hook:** Graham points at the dripping boots—they came out of Tessa's own rental trunk, planted to implicate her.
+- **POV & Setting:** Tessa & Graham; Zone 4 stairwell, kitchen & foyer (Thu, Nov 5, dawn).
+- **Beat Summary:** Tessa forces Graham to drop the wrench by revealing her cloud-backed *Bramwell & Shaw* photos. Graham confesses the $2.4M embezzlement and forged initials (intended to cure via Arlington buyout before Nov 14), explains he drank half his pre-dusted bourbon and blacked out until 5:45 AM, and admits he discovered the Zone 4 anomalies, sunroom scar, and fresh-lot vest on Oct 21. In the foyer (pale dawn filtering down through the high skylight hatch above the bench), Graham shows Tessa her popped Civic trunk where he found the boots, bleach rag, and bronze cleat planted in her spare-tire well.
 
 ### Chapter 15
-- **POV & Setting:** Tessa & Graham; Study & smart-home server rack (Day 4 midday).
-- **Micro-Goal & Conflict:** Forcing Graham to decrypt the full server partition before Cole arrives, Tessa plays the unedited 2:14 AM WAV file and hears **Lydia’s voice** laughing with a man while wiping down an oar.
-- **Value Shift:** Chasing a dead woman → Proving Lydia faked her drowning with an insider accomplice.
-- **Cliffhanger / Page-Turn Hook:** A fresh auto-sync pops onto the server from a burner tablet: a spliced distress audio in *Tessa’s* voice confessing to helping Graham move a body.
+- **POV & Setting:** Tessa & Graham; North-hall study (Thu, Nov 5, morning).
+- **Beat Summary:** Checking her duffel, Tessa confirms her spare Civic key fob is missing from the outer side pocket. Forcing Graham to decrypt `RAW_BUFFER_OCT14_15`, she reads his unsealed Oct 21 vetting dossier (`CALDER_T — VETTING`) exposing why he recruited a cornered auditor under a $50k IP NDA. Playing `MIC_04_PANTRY_020915.wav`, they hear Lydia laughing with Cole Halstead at 2:09 AM while wiping down varnished oars and leaving Cole's Montblanc on the blotter. Before the upload completes, `L_KIEFER_IPAD_MINI_02` auto-syncs `CALDER_CONFESSION_FINAL.wav` (a spliced confession in Tessa's voice) to `KNOX_COUNTY_EVIDENCE_DROP` and locks the WAN gateway as sirens sound on the ridge.
 
 ### Chapter 16
-- **POV & Setting:** Tessa; Cliff stairs toward the boathouse (Day 4 afternoon).
-- **Micro-Goal & Conflict:** With Cole’s sirens five minutes out on the ridge road, Tessa refuses to flee and bolts down to the boathouse to photograph the staged gear before Cole seizes the property.
-- **Value Shift:** Reactive defense → High-risk offensive grab for physical proof *(Act II → Part II Break)*.
-- **Cliffhanger / Page-Turn Hook:** Dropping through the boathouse casement, Tessa freezes as Lydia steps from behind the suspended kayak aiming Cole's service pistol: *"Put the phone on the dock, Tessa. You weren't supposed to find the dumbwaiter."*
+- **POV & Setting:** Tessa; Study, cliff stairs & Kiefer boathouse (Thu, Nov 5, late morning).
+- **Beat Summary:** Tessa copies the raw WAV to her phone, attempts an encrypted upload and emergency SMS to Samira Patel (which stalls at *No Service* under storm cover), leaves the brass wrench on the study blotter, and tells Graham to stall Cole at the front door. Bolting down the granite cliff stairs to shoot physical proof for a ridge-line upload, she pries the sliced-paint boathouse casement and photographs bleach jugs and scratched oars—only to be cornered by Lydia aiming Cole's backup Glock 26.
 
 ---
 
-## Part II: The Perspective Flip (Chapters 17–19)
+## Act III: Ambush, Counterweight & Resolution (Chapters 17–23)
 
 ### Chapter 17
-- **POV & Setting:** **Lydia Kiefer (3rd Limited Past; Day -24 to Day -21)**; Glass House & Cove.
-- **Micro-Goal & Conflict:** Reveals Lydia uncovering Graham’s $2.4M theft, rejecting his NDA buyout, and recruiting left-handed Deputy Cole Halstead to stage her drowning with tap-water gear and bleach cleanup.
-- **Value Shift:** Phantom victim → Calculated frame-job architect.
-- **Cliffhanger / Page-Turn Hook:** At 2:14 AM in the sunroom, Lydia drops her Montblanc pen; Cole retrieves it with his left hand and tosses it back onto the blotter without wiping the nib.
+- **POV & Setting:** Tessa; Boathouse interior (Thu, Nov 5, midday/afternoon).
+- **Beat Summary:** Zip-tied to a teak piling while Lydia drafts Graham's fake suicide note on `L_KIEFER_IPAD_MINI_02`, Tessa spots both a rusted oyster knife wedged under the bait table and a glowing hardwired PoE `BOATHOUSE_LINT` acoustic relay puck streaming live to the Zone 4 server. She baits Lydia's vanity into bragging on mic about her deliberate St. Andrews passport scan, the Oct 17 weekender trap, the Nov 1 sunroom re-staging, the $50k NDA recruitment trap, and canceling Bramwell & Shaw's courier—while sawing through the zip tie right as Cole unlocks the outer doors.
 
 ### Chapter 18
-- **POV & Setting:** **Lydia Kiefer (3rd Limited Past; Day 0 – Day 4)**; Boathouse loft & dumbwaiter shaft.
-- **Micro-Goal & Conflict:** Tracks Lydia sneaking back from New Brunswick after learning Graham hired an out-of-town fraud investigator instead of local cleaners; watching from the crawlspace, she realizes Tessa will break the frame.
-- **Value Shift:** Clean frame of Graham → Pivot to framing Tessa and Graham in a staged murder-suicide.
-- **Cliffhanger / Page-Turn Hook:** Lydia texts Cole from her burner: *"The cleaner found the shaft. Come early. Bring zip ties."*
+- **POV & Setting:** Tessa; Boathouse slipway, Maren's shed & cliff stairs (Thu, Nov 5, late afternoon).
+- **Beat Summary:** Tessa slashes Cole's left wrist with the oyster knife (her phone crushed under Cole's boot into the slipway) and dives into the freezing cove channel. Fighting cold shock and numbing hands, she hauls out beside Maren's dark shed, infers Maren moved her pickup across the culvert before the surge, carves *CALL STATE POLICE — FRAME AT KIEFER HOUSE* on Maren's soaked tide strip behind the shed latch, and climbs the cliff stairs through hypothermia onset—finding Graham cuffed to the sunroom radiator and Cole's dark cruiser parked sideways across the flooded causeway.
 
 ### Chapter 19
-- **POV & Setting:** Tessa (1st Present); Boathouse interior (Day 4 afternoon).
-- **Micro-Goal & Conflict:** Zip-tied to a teak piling while Lydia types Graham’s fake suicide note on a tablet, Tessa baits Lydia into bragging about beating the tide tables while secretly sawing her zip tie against a rusted oyster knife wedged in the bait table.
-- **Value Shift:** Helpless captive → Armed and recording Lydia’s boast over the dock’s active Bluetooth intercom.
-- **Cliffhanger / Page-Turn Hook:** Gravel crunches outside—Cole arrives—and Lydia turns toward the latch right as Tessa’s zip tie snaps free.
-
----
-
-## Act III: Escalation, Climax & Resolution (Chapters 20–25)
+- **POV & Setting:** Tessa; Foyer, pantry & dumbwaiter shaft (Thu, Nov 5, dusk).
+- **Beat Summary:** Unlocking the front door with her brass key, Tessa slips into the dumbwaiter shaft as Lydia exits the study with a backup drive and Cole returns from the causeway. Sparing her torn left wrist by hooking elbows and bracing her back/knees against the studs, Tessa hears Cole press Lydia on the Cayman transfer and finish Graham's tablet note, then yanks the **steel cotter pin** off the overhead sheave pulley, dropping the **cast-iron counterweight** onto the cellar concrete to bait both conspirators downward while she climbs back into the kitchen.
 
 ### Chapter 20
-- **POV & Setting:** Tessa; Boathouse slip & slate cove stairs (Day 4 late afternoon, rising gale).
-- **Micro-Goal & Conflict:** Tessa slashes Cole’s wrist as he opens the door, dives into the freezing cove channel, and scrambles up the granite stairs to reach the basement drive before Cole locks down the property.
-- **Value Shift:** Cornered prisoner → Bleeding fugitive racing inside the kill-box.
-- **Cliffhanger / Page-Turn Hook:** Reaching the sunroom glass, Tessa sees Graham handcuffed to the radiator—and Cole’s cruiser parked sideways across the flooded causeway throat.
+- **POV & Setting:** Tessa & Graham; Sunroom, kitchen, guest suite & foyer (Thu, Nov 5, night).
+- **Beat Summary:** Tessa picks Graham's single-locked cuffs with her multi-tool awl, then stops Graham at knife-point when he tries to burn his $2.4M ledger over the gas burner and offers $50,000 plus her $18,412 payoff to look the other way. Packing the ledger, Cole's yellow warning slip, thumb drive, and bagged P-trap swab into her duffel and pulling on a dry wool sweater, she marches Graham out just as Lydia kills the 300-amp main breaker, cuts the generator transfer switch, and drops the exterior steel hurricane shutters.
 
 ### Chapter 21
-- **POV & Setting:** Tessa; Pantry & dumbwaiter shaft (Day 4 dusk).
-- **Micro-Goal & Conflict:** Slipping through the pantry shaft in fog, Tessa tries to reach the basement server while Lydia’s boots cross the kitchen floor overhead.
-- **Value Shift:** Stealth retrieval → Vertical cat-and-mouse inside the house’s hidden shaft.
-- **Cliffhanger / Page-Turn Hook:** Tessa pulls the pulley pin, dropping the iron counterweight into the basement to bait Cole downward while she climbs *up* into the sunroom.
+- **POV & Setting:** Tessa; Study, dumbwaiter shaft, Zone 4 & foyer (Thu, Nov 5, night).
+- **Beat Summary:** On the study's UPS-backed console, Tessa confirms the live boathouse relay mirrored onto Zone 4's RAID, loops `MIC_04_PANTRY_020915.wav` to the Zone 4 monitors (alive via dedicated battery bank) to lure Cole downstairs, and drops down the dumbwaiter shaft into the northeast dead-zone. Mid/high-frequency foam absorption hides her breathing once still, causing Lydia's brass wrench swing to shatter a studio monitor. Tessa slashes Lydia's sleeve, slams the steel fire door on Cole, locks him inside with the **B-4** key, and chases Lydia up to the foyer just as MSP light bars flare through the skylight overhead.
 
 ### Chapter 22
-- **POV & Setting:** Tessa & Graham; Sunroom & foyer (Day 4 night).
-- **Micro-Goal & Conflict:** Tessa picks Graham’s cuffs with the shim from her boot heel, but Graham tries to seize the embezzlement ledger to burn it; Tessa refuses, keeping all drives and records in her own pack.
-- **Value Shift:** Forced allies → Clean break; Tessa takes unilateral control of the truth.
-- **Cliffhanger / Page-Turn Hook:** Lydia kills the main breaker from the boathouse subpanel, plunging the house into pitch dark and triggering emergency hurricane shutters on the glass doors.
+- **POV & Setting:** Tessa; Foyer & gravel forecourt (Thu, Nov 5, night).
+- **Beat Summary:** Tessa tackles Lydia off the skylight bench as Maine State Police 4x4 troopers breach the door. Outside, Maren explains she walked down from her mainland pickup, found the carved tide strip, dark cruiser, and dead radio, and alerted Thomaston barracks. Detective Sgt. Ward confirms Zone 4 RAID audio, Cole's cruiser, Lydia's iPad, Civic trunk gear, and boathouse evidence; orders Montblanc barrel latent prints, questioned-documents handwriting comparison, MSP zolpidem toxicology on the P-trap swab/rocks glass, and Coast Guard vest salinity/lot checks; and accepts all evidence from Tessa—including Graham's $2.4M ledger. At the ambulance bay, Ward hands Tessa a sealed **$13,500 cashier's check** ($10,000 balance + $3,500 bonus) cleared via Graham's Boston escrow firm.
 
-### Chapter 23
-- **POV & Setting:** Tessa; Basement Acoustic Darkroom & stairs (Day 4 night).
-- **Micro-Goal & Conflict:** In darkness, Tessa lures Cole into the darkroom using looped pantry audio, uses the northeast acoustic dead-zone to evade Lydia’s wrench swing, and slams the steel fire door deadbolt on Cole.
-- **Value Shift:** Outgunned → Weaponizes the house’s acoustics and locks to neutralize both threats *(Climax)*.
-- **Cliffhanger / Page-Turn Hook:** Lydia bolts for the foyer skylight hatch with the silver Montblanc and backup drive—right as blue-and-red light bars flare through the coastal fog.
-
-### Chapter 24
-- **POV & Setting:** Tessa; Gravel forecourt & causeway (Day 4 night, rain).
-- **Micro-Goal & Conflict:** Maren—alerted by Tessa’s earlier harbor receipt note and Cole’s radio silence—called Maine State Police. Tessa hands over the unedited acoustic drive, left-handed pen, salt-free vest, *and* Graham's embezzlement file without sparing anyone.
-- **Value Shift:** Framed suspect → Exonerated witness who burns both halves of a rotten marriage.
-- **Cliffhanger / Page-Turn Hook:** Sitting in an ambulance bay, a state detective hands Tessa a crisp sealed envelope pulled from Graham’s coat: a $10,000 completion check signed not by Graham, but by an anonymous Boston estate firm.
-
-### Chapter 25 (Epilogue / Book 2 Launchpad)
-- **POV & Setting:** Tessa; Stripped Portland apartment & waterfront diner (Two weeks later).
-- **Micro-Goal & Conflict:** Tessa clears her $18,000 judgment, receives her restored bond notice, and tries to walk away from off-book cleanups—until Margot Kiefer-Hall (Boston private counsel) slides a brass skeleton key and a photo of a snowed-in Vermont lodge across the booth.
-- **Value Shift:** Desperate contractor → Sovereign specialist handed a personal hook she cannot refuse.
-- **Cliffhanger / Page-Turn Hook:** Tessa flips the Vermont lodge photo over and sees her missing sister’s handwriting in the corner of the guest ledger, dated two days ago.
+### Chapter 23 (Epilogue / Book 2 Launchpad)
+- **POV & Setting:** Tessa; Portland studio & Becky's Diner, Commercial Street (Early Dec, 4 weeks later).
+- **Beat Summary:** Using the $5,000 cash and $13,500 check ($18,500), Tessa clears her $18,412 judgment with $88 to spare (her $400 checking covering the bond fee) and regains her Maine PI bond. Rockland depositions—backed by RAID audio, Cole's Montblanc barrel prints + PIN logs + handwriting match, MSP zolpidem toxicology, and Coast Guard unlogged-spare vest verification—hold Lydia and Cole without bail while Graham faces embezzlement/arson charges and Maren clears her dock debt with immunity. At Becky's Diner, **Margot Kiefer-Hall** identifies *Kiefer-Hall Fiduciary* as the escrow agent and offers $45,000 for a 10-day Vermont mountain lodge cleanup. Tessa refuses—until Margot slides over a pine-resined **brass skeleton key** and a snowed-in Vermont lodge photo bearing a cropped guest-ledger fax dated **two days ago** with missing sister **Nina's** handwriting: *"Don't trust him."*

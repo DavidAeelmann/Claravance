@@ -2,7 +2,7 @@
 
 I make it through the mudroom side door three breaths before Graham's garage bay groans open.
 
-My boots squelch once on the rubber mat. I kick them off beside the tray, hang my damp waxed jacket back on its peg—pressing the breast pocket flat so the rusted B-4 key doesn't clink against the brass hook—and take the back service stairs two at a time in my socks. By the time Graham's dress shoes cross the foyer slate below, I'm kneeling beside the master closet with a fresh strip of packing tape across my palm, pretending I've been sorting cashmere sweaters since four o'clock. My ribs still ache from the cliff climb, and cold salt dampness clings to the cuffs of my jeans.
+My boots squelch once on the rubber mat. I kick them off beside the tray, hang my damp waxed jacket back on its peg—pressing the breast pocket flat so the rusted B-4 key doesn't clink against the brass hook—and take the back service stairs two at a time in my socks. By the time Graham's dress shoes cross the foyer slate below, I'm kneeling beside the master closet with a fresh strip of packing tape across my palm, pretending I've been sorting cashmere sweaters since four o'clock.
 
 Twenty minutes later, Graham calls me down to the living room.
 
@@ -12,11 +12,11 @@ He has changed out of his charcoal suit into a dark merino crewneck, though his 
 
 "I'm fine with water, Graham."
 
-"Nonsense. You've been hauling boxes alone all day." He pours two fingers of amber bourbon into a pair of heavy cut-crystal rocks glasses and carries them over without waiting for an answer. He sets one on the slate coaster nearest my elbow and keeps the other in his right hand while lowering himself into the armchair opposite mine. "Besides, we need to lock down tomorrow's schedule before the Boston courier drives out."
+"Nonsense. You've been hauling boxes alone all day." He reaches for the walnut credenza, pulls the stopper from a half-full bourbon decanter, and pours two fingers of amber liquor into the pair of heavy cut-crystal rocks glasses waiting on the silver tray. Out of host habit, he lifts the slightly heavier tumbler sitting front-left—his usual evening glass, judging by the faint thumb wear on the etched rim—sets it on the slate coaster nearest my elbow, and keeps the second glass in his right hand while lowering himself into the armchair opposite mine. "Besides, we need to lock down tomorrow's schedule before the Boston courier drives out."
 
-I stare at the amber liquid catching the firelight. There's no ice in either glass, just neat bourbon—and near the bottom curve of my tumbler, a faint pale sediment swirls slowly through the liquor like undissolved chalk.
+I stare at the amber liquid catching the firelight. There's no ice in either glass, just neat bourbon. Graham's tumbler gleams jewel-clear—yet near the bottom curve of *mine*, a faint pale sediment swirls slowly through the liquor like undissolved chalk.
 
-Cold sweat prickles along the back of my neck. Upstairs in the master bath, white crystalline paste still cakes the inside of the brass P-trap. Someone in this house crushed sleeping pills into liquid and washed the leftovers down the drain.
+Upstairs in the master bath, white crystalline paste still cakes the inside of the brass P-trap. Someone tested dissolving crushed sleeping pills, then coated a single glass before Graham even drove home from Portland.
 
 "Tomorrow's courier," I say evenly, keeping my hands tucked around my knees instead of touching the coaster. "You're still expecting him at five?"
 
@@ -44,7 +44,7 @@ I don't waste a second.
 
 The moment Graham's footsteps fade toward the kitchen archway, I lean across the low coffee table, lift my glass by its heavy base, and set it cleanly onto the brass tray beside his chair. Then I pick up his untouched glass, match the tilt of the coaster so it sits at the exact same angle he left it, and wipe the faint damp condensation ring off my slate coaster with my sleeve.
 
-My fingers shake slightly as I set his glass down in front of me. The pour levels look close enough in the low firelight, though if Graham happens to notice the faint chalky swirl at the bottom of his own tumbler, we'll both know the game is up before he even sets the ice bucket down.
+I set his glass down in front of me. The pour levels look close enough in the low firelight, though if Graham notices the faint chalky swirl at the bottom of his own tumbler, we'll both know the game is up before he even sets the ice bucket down.
 
 If there's crushed zolpidem at the bottom of that bourbon, Graham can drink his own pour.
 
@@ -56,17 +56,19 @@ The room smells of lemon furniture oil and cold stone. No desk lamp burns inside
 
 I pull my phone from my jeans pocket, kill the shutter sound and flash, and lift the leather portfolio's cover.
 
-Inside lies a heavy cream envelope slit cleanly along the top flap, stamped **CERTIFIED MAIL — RETURN RECEIPT REQUESTED**. Two pages of crisp bond paper sit folded halfway out, bearing the embossed letterhead of *Bramwell & Shaw Fiduciary LLP, Boston*. A yellow sticky note clings to the upper margin in cramped legal shorthand: *Final cure window — no further extensions.*
+Inside lies a heavy cream envelope slit cleanly along the top flap, stamped **CERTIFIED MAIL — RETURN RECEIPT REQUESTED**. Two pages of crisp bond paper sit folded halfway out, bearing the embossed letterhead of *Bramwell & Shaw Fiduciary LLP, Boston*, clipped to a highlighted trust covenant summary. A yellow sticky note clings to the upper margin in cramped legal shorthand: *Final cure window — no further extensions.*
 
 I tilt the first page toward the hallway's amber spill and read fast.
 
 *Notice of Default & Acceleration — Kiefer Soundworks LLC.*
 
-The firm isn't just waiting on a patent buyout. Three weeks ago—October fifteenth, the exact morning after Lydia vanished—Bramwell & Shaw served Graham with a formal demand for $2,400,000 in misappropriated licensing collateral pulled from The Lydia Kiefer Irrevocable Trust, giving him thirty days to cure the shortfall before criminal referral to the Suffolk County DA. Below the signature block, a handwritten pencil tally in Graham's neat block script lists three failed bridge-loan dates, every single one crossed out.
+Three clear rules sit outlined under the trust summary for *The Lydia Kiefer Irrevocable Trust*. First: Graham holds conditional joint signatory authority over the $5,400,000 corpus—and nearly three weeks ago, on October fifteenth, Bramwell & Shaw served him for $2,400,000 in misappropriated licensing collateral pulled over fourteen months, leaving $3,000,000 remaining. Second: Graham has a thirty-day civil cure window expiring November fourteenth—ten days left—before criminal referral to the Suffolk County DA, *unless* he is formally charged with murder or felony moral turpitude, which strips his signatory rights immediately and overrides the cure window. Third: clipped to the back page, a Cayman beneficiary rollover schedule confirms that upon Graham's forfeiture, the remaining $3,000,000 automatically transfers out of Boston probate into an offshore Cayman bearer structure controlled solely by Lydia.
 
-Two point four million dollars. Embezzled straight out of his wife's trust, with a hard legal guillotine set to drop in nine days unless Lydia's probate estate freezes the trust audit and hands Graham controlling signatory power. No wonder he moved the preliminary inventory up to Thursday night. If the Boston courier clears the estate schedule before the thirty-day cure expires, Graham buries the shortfall inside his patent buyout.
+Below the signature block, a handwritten pencil tally in Graham's neat block script lists three failed bridge-loan dates, every single one crossed out—followed by a fresh margin note: *Arlington buyout closes Friday if inventory seals.*
 
-I snap three rapid photos of the demand letter—catching the trust account number, the $2.4M principal balance, and the October fifteenth service stamp—then smooth the bond paper back under the leather flap in its exact crease. Every second I linger beside this desk risks Graham walking down the hall and catching me standing over his personal mail.
+If the Arlington patent buyout clears before an audit locks his access, Graham gets the liquidity to cure his shortfall inside the November fourteenth deadline; if someone charges him with murder first, the moral-turpitude clause strips him overnight and drops three million offshore.
+
+I snap four rapid photos of the demand letter and rollover rider—catching the trust account number, the $3,000,000 remaining corpus, and the October fifteenth service stamp—then smooth the bond paper back under the leather flap in its exact crease. Every second I linger beside this desk risks Graham walking down the hall and catching me standing over his personal mail.
 
 Footsteps scrape across the kitchen slate. Ice clinks sharp against metal, followed by the soft *snick* of the pantry corridor light switch clicking off.
 
@@ -82,9 +84,9 @@ Graham drinks.
 
 He takes a slow, measured swallow, his gray eyes fixed steadily on mine over the crystal rim. He doesn't grimace. He doesn't spit it out or pause mid-sip. He swallows cleanly and sets the glass back on the tray, wiping a drop off his thumb.
 
-My chest feels hollow. Either the sediment at the bottom of that glass was nothing more than barrel char from an old bottle—or someone slipped crushed tablets straight into the open bourbon decanter on the credenza before Graham even came home from Portland, dosing both pours at once.
+He didn't blink, and the second pour sits crystal-clear in front of me. The decanter wasn't poisoned at all. Someone pre-dusted *Graham's habitual rocks glass* on the credenza tray while he was in Portland, expecting him to pour himself a nightcap alone—and Graham handed it to me out of polite host reflex.
 
-"You're quiet tonight, Tessa," he says softly, leaning forward with his forearms resting on his knees. "Tell me honestly. Did you find anything unusual in the master suite today? Anything that looked out of place?"
+"You're quiet tonight, Tessa," he says softly, leaning forward with his forearms resting on his knees, watching my eyes with sharp, anxious focus as if waiting for me to drop a hint. "Tell me honestly. Did you find anything unusual in the master suite today? Anything that looked out of place?"
 
 "Just a lot of cashmere and three hatboxes," I lie smoothly, keeping my gaze steady on the firelight while my fingers press against the phone in my pocket. "Lydia's jewelry tray was intact. Platinum band, pearl studs, Cartier tank watch with a dead battery. I logged them all."
 
@@ -92,19 +94,19 @@ My chest feels hollow. Either the sediment at the bottom of that glass was nothi
 
 "Ibuprofen, retinol, standard prescriptions," I say evenly. "Nothing missing."
 
-His shoulders drop a fraction, though his eyes stay guarded. "Good. Get some sleep. Tomorrow's going to be a long haul before the courier arrives."
+A tiny flash of disappointment crosses his gray eyes before he looks back at the fire. "Good. Get some sleep. Tomorrow's going to be a long haul before the courier arrives."
 
-I leave the glass two-thirds full on the coaster, say goodnight, and climb the oak stairs to the guest suite. Once the privacy latch clicks shut and I wedge the desk chair tight under the knob, I lean back against the panel for five seconds, letting my breath out in a long, shaking line. Two point four million dollars in trust embezzlement. A deputy with administrator PINs. A flashlight sweeping inside a locked boathouse. Downstairs, the living room hearth screen clanks shut as Graham banks the fire for the night, and the cast-iron radiator under my window ticks sharply as steam surges through the pipes.
+I leave the glass two-thirds full on the coaster, say goodnight, and climb the oak stairs to the guest suite. Once the privacy latch clicks shut and I wedge the desk chair tight under the knob, I lean back against the panel for five seconds. Two point four million dollars in trust embezzlement. Three million poised to roll into a Cayman bearer structure. A deputy with co-owner installer PINs. A flashlight sweeping inside a locked boathouse. Downstairs, the hearth screen clanks shut as Graham banks the fire for the night, and the cast-iron radiator under my window ticks sharply as steam surges through the pipes.
 
-I cross to the radiator, check that the brown paper hardware bag tucked behind the iron fins hasn't been shifted, and pull my laptop out of the faded navy duffel. My hands are stiff from the cold room as I thumb the power button, watching the encrypted partition prompt blink awake against the dark quilt. I sit on the edge of the stripped bed, letting the pale screen illuminate my knees while I plug in my phone cable and push the demand-letter photos straight into my off-site vault.
+I cross to the radiator, check that the brown paper hardware bag tucked behind the iron fins hasn't been shifted, and reach for my laptop inside the faded navy duffel. My thumb brushes the small outer side pocket first—and stops. Last night, I tucked that brass zipper pull flat beneath the canvas welt. Tonight it sits flipped half an inch outward. I yank the main compartment open fast, checking the two Portsmouth bank bands tucked under my spare shirts; all five thousand dollars sit untouched, and the laptop sleeps cool against the liner. If someone swept my bag while I was down at Maren's cove, they didn't take cash. I pull the laptop out, thumb the power button, and plug in my phone cable to push the demand-letter photos straight into my off-site vault.
 
 Before the upload bar even finishes, my phone vibrates sharply against my thigh.
 
-Not Graham's Kiefer Soundworks app—that guest link expired at five. It's a silent push alert from an old Harbor Mutual cross-border maritime watch I left running on a dormant terminal in Portland three years ago, tied to flagged high-net-worth hull policies along the Maine-New Brunswick coast. When I set up my private notes file on Lydia Kiefer Monday night, I quietly dropped her passport number from the Coast Guard missing-person bulletin into the watch queue on a hunch, never expecting a single hit to come back.
+Not Graham's Kiefer Soundworks app—that guest link expired at five. It's an encrypted text from Samira Patel, an old coastal marine-claims investigator in Portland who still holds legitimate read-only access to the Atlantic Marine Underwriters' cross-border port-clearance watch. Yesterday afternoon from Salt Point harbor, while I had four bars at the store, I texted her Lydia Kiefer's passport number off the public Coast Guard missing-person bulletin on a long shot. St. Andrews Private Marina syncs its small-craft customs manifests on a twenty-four-hour batch—and Samira just forwarded the automated clearance alert straight from the evening run.
 
-I tap the banner with a thumb that suddenly feels numb.
+I tap the attachment.
 
-**CUSTOMS / MARINA SCANNER HIT — PRIORITY WATCH**
+**ATLANTIC MARINA PORT-CLEARANCE WATCH — PRIORITY HIT**
 
 **NAME:** KIEFER, LYDIA S.
 
@@ -114,4 +116,4 @@ I tap the banner with a thumb that suddenly feels numb.
 
 **TIMESTAMP:** NOV 3, 2026 — 09:42 AST
 
-I stare at the glowing white text in the dark bedroom until my eyes burn. Yesterday morning. While Graham stood in this kitchen telling me she drowned three weeks ago, Lydia Kiefer walked off a dock across the Canadian border and scanned her own passport.
+I stare at the glowing white text in the dark bedroom until my eyes burn. Yesterday morning. While Graham stood in this kitchen telling me she drowned nearly three weeks ago, Lydia Kiefer walked off a dock across the Canadian border and scanned her own passport.

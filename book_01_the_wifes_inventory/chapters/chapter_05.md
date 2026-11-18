@@ -1,22 +1,22 @@
 # Chapter 5
 
-My Civic's heater takes half the causeway just to push lukewarm air against the fogged windshield. Behind me, the timber gate grinds shut until the spruce trees swallow the glass house whole, yet my shoulders stay hunched toward my ears as if Graham's hand is still pressed flat against that second-story pane.
+My Civic's heater takes half the causeway just to push lukewarm air against the fogged windshield. Behind me, the timber gate grinds shut until spruce trees swallow the glass house, yet my shoulders stay hunched as if Graham's hand is still pressed flat against that second-story pane.
 
-The brass **B-4** key knocks softly against my ribs through the waxed canvas pocket every time the muffler shield hits a frost heave.
+The brass **B-4** key knocks softly against my ribs every time the muffler shield hits a frost heave.
 
-At the mainland fork, I hesitate with my blinker ticking over the wet asphalt. Graham told me to take the main harbor route because a county crew was patching a culvert washout past the lobster pound. A normal contractor wouldn't think twice. An ex-fraud adjuster wonders why a man who works from home in wool socks happens to know road-crew schedules on a secondary coastal spur.
+At the mainland fork, I hesitate with my blinker ticking over wet asphalt. Graham told me to take the main harbor route because a county crew was patching a culvert washout past the lobster pound. An ex-fraud adjuster wonders why a man who works from home in wool socks knows road-crew schedules on a secondary coastal spur.
 
-I stay on the main harbor route anyway. Going looking for trouble with a stolen basement key wrapped in acid-free tissue inside my pocket is stupid, and my phone finally jumps from one bar to four right past the Salt Point firehouse.
+I stay on the main harbor route anyway. Chasing trouble with a stolen basement key wrapped in tissue inside my pocket is stupid, and my phone jumps from one bar to four past the Salt Point firehouse.
 
-Messages and voicemail badges flood the top of my screen before I even clear the spruce curve. Two missed calls from my Portland landlord. One automated reminder from the Cumberland County clerk's office. I tap my browser open at a four-way stop sign, type *Kiefer Soundworks Arlington* with my thumb, and wait while the signal spins.
+Messages flood the screen before I clear the curve—two missed calls from my landlord, one automated reminder from the Cumberland County clerk. At a four-way stop, I search *Kiefer Soundworks Arlington* with my thumb.
 
-Three hits load before a horn taps behind me. Nothing criminal—just a clean defense-tech press release from last spring announcing a pending patent acquisition, paired with a regional business brief noting that Kiefer Soundworks missed its third-quarter lab lease extension in Cambridge. Graham wasn't lying about his company bleeding out. He's broke on paper, propped up by a dead wife's family trust that locks tight on Friday if the probate court stalls.
+Three hits load before a horn taps behind me—a spring defense-tech press release announcing a pending patent acquisition, paired with a regional brief noting Kiefer Soundworks missed its third-quarter lab lease extension in Cambridge. Graham wasn't lying about bleeding out. He's broke on paper, propped up by a dead wife's trust that locks tight Friday if probate stalls.
 
-Then red-and-blue strobe lights flare across my rearview mirror, turning the gray mist behind me into alternating bruises of color.
+Then red-and-blue strobe lights flare across my rearview mirror, turning the mist behind me into alternating bruises of color.
 
-I haven't cleared forty. I signal right, ease onto the gravel shoulder beside a stand of bare sumac, and kill the rattling engine.
+I haven't cleared forty. I signal right, ease onto the gravel shoulder beside bare sumac, and kill the engine.
 
-A Knox County sheriff's cruiser pulls in behind me, leaving its light bar pulsing against the fog. My fingers tremble slightly as I fish my expired registration card and license out of the glovebox, keeping both hands visible on top of the steering wheel while boots crunch up the gravel shoulder.
+A Knox County sheriff's cruiser pulls in behind me, leaving its light bar pulsing against the fog. I fish my expired registration card and license out of the glovebox, keeping both hands visible on top of the steering wheel while boots crunch up the gravel shoulder.
 
 The deputy who stops beside my driver's window is broad-shouldered under a heavy navy patrol slicker, clean-shaven, with steady pale eyes that take in the rusted Civic fender and my Portland plates before settling on my face. When he speaks, a slow coastal drawl softens the edges of his words, and a slight crookedness in his upper front incisor catches the dim cab light.
 
@@ -24,19 +24,19 @@ The deputy who stops beside my driver's window is broad-shouldered under a heavy
 
 I hand the cards through the gap. Cold drizzle drifts across my knuckles. "Was I speeding, Deputy? Thought the limit held at forty through here."
 
-"Your right brake lamp's out," he says, glancing down at my license without hurrying. "And your muffler's dragging close enough to throw sparks on a dry day. Tessa Calder. Long way up from Portland."
+"Right brake lamp's dead," he says, glancing at my license without hurrying. "And that muffler shield's dragging low enough to throw sparks on dry blacktop. Tessa Calder. Long way up from Portland."
 
-"Temporary work. Organizing an estate out on Salt Point."
+"Temporary contract. Organizing an estate out on Salt Point."
 
-Deputy Cole Halstead doesn't look surprised. In fact, the corner of his mouth doesn't move at all as he hands my license back and rests one thick forearm lightly along the top of my open door frame, leaning down just enough that the smell of wet wool and wintergreen dip fills the cab.
+Deputy Cole Halstead doesn't blink. The corner of his mouth stays flat as he hands my license back and hooks one thick forearm along my open door frame, leaning in until wet wool and wintergreen dip fill the cab.
 
-"Graham Kiefer's place," he says, not asking. "I signed the marine incident report out there three weeks ago. Quiet property. Folks on the peninsula don't care much for strangers poking through private grief before the lawyers clear the paperwork."
+"Kiefer's glass box," he says, blunt and unimpressed. "I wrote the marine incident report out there three weeks ago. Lydia grew up climbing those ledges before Boston money ever bolted steel and glass onto them. Folks on this point don't take kindly to mainland contractors poking through a local girl's things just to pad a probate bill."
 
 Graham told me he hired an out-of-town archivist specifically so local clerks wouldn't gossip with Cole Halstead—yet Halstead knows my name, my car, and where I'm staying before I've spent twenty-four hours on the point.
 
-"I'm just boxing winter coats and logging furniture," I say evenly, keeping my chin up. "Not poking into anything."
+"I'm boxing winter coats and logging furniture," I say evenly, keeping my chin up. "Not poking into anything."
 
-"Good." Halstead pulls a thin yellow warning pad from his slicker breast pocket, clicks a black ballpoint pen against his thigh, and flips the metal clipboard open against his forearm. "Keep it that way. We get a lot of fog tourists wandering down private boat launches this time of year, thinking a missing person case is their weekend podcast. Steps down to that cove are slick enough to break a hip, and the boathouse is locked under county seal."
+"Good. Keep it that way." Halstead pulls a thin yellow warning pad from his slicker breast pocket, clicks a black ballpoint against his thigh, and flips the metal clipboard onto his forearm. "We get fog tourists every fall wandering down private launches thinking a drowning's their weekend entertainment. Steps down to that cove are slick enough to snap an ankle, and the boathouse is locked under county seal. Stay clear of it."
 
 *County seal.* Graham said the Coast Guard cleared the boathouse and left it locked against dampness. Nobody mentioned a county seal, and the rusted B-4 key wrapped in tissue suddenly feels like a lead brick against my ribs. If Halstead asks me to step out for a trunk check, my whole story unravels on the side of the road.
 
@@ -46,72 +46,74 @@ I watch his hands.
 
 He braces the clipboard tightly against his right hip—and curls his left wrist over the top of the yellow paper, dragging the pen backward against the grain in a deep, hooked push.
 
-"Fix that brake bulb before Friday," Halstead says, tearing the yellow copy off cleanly and holding it through the window. "Wouldn't want to write you a real ticket on your way back down the causeway."
+"Get that bulb swapped before Friday," Halstead says, tearing the yellow copy off cleanly and holding it through the window. "Wouldn't want to impound a mainland rig on the causeway over a busted lamp."
 
-I take the slip by the corner without letting my fingers brush his. "Thanks, Deputy. I'll grab a bulb at the general store."
+I take the slip by the corner without letting my fingers brush his. "Thanks, Deputy. I'll grab one at the general store."
 
-"See that you do." He taps the roof of my Civic twice with his palm, walks back to his cruiser, and pulls out past me toward the Salt Point causeway—driving straight back toward the peninsula I just left.
+"See that you do." He slaps the Civic's roof twice with his palm, walks back to his cruiser, and pulls out past me toward the Salt Point causeway—driving straight back onto the peninsula I just left.
 
 ***
 
-My hands shake so hard on the gearshift that I miss reverse twice before backing onto the asphalt.
+My hands shake so hard on the gearshift I miss reverse twice before backing onto the asphalt.
 
-Halstead didn't pull me over for a dim brake light. He was parked inside the spruce bend waiting for my Civic—meaning either Graham called him the second I backed out of the turnaround, or someone else is watching the causeway gate. Worse, a county sheriff's deputy just drove straight back onto Kiefer's private road while my duffel, my laptop, and my five grand in cash are sitting behind a cheap turn-bolt lock upstairs.
+Halstead didn't pull me over for a dim brake light. He was parked inside the spruce bend waiting—meaning Graham called him the second I backed out, or someone else watches that gate. Worse, a sheriff's deputy just drove straight back onto Kiefer's road while my duffel, laptop, and five grand in cash sit behind a cheap turn-bolt lock upstairs.
 
-I drive the rest of the way into Salt Point harbor with my eyes glued to the rearview mirror, half-expecting another cruiser or Graham's dark Audi to materialize behind me. The town isn't much more than a brick post office, a shuttered bait-and-tackle shop, and a clapboard general store squatting beside a diesel fuel dock where three lobster boats rock against black pilings.
+I drive into Salt Point harbor with my eyes glued to the mirror, half-expecting another cruiser or Graham's Audi behind me. The town holds little more than a brick post office, a shuttered bait shop, and a clapboard general store beside a diesel dock where three lobster boats rock against black pilings.
 
-I park nose-out near the store steps, pocket my keys, and step inside under a jangling brass bell.
+I park nose-out near the steps. Before killing the engine, I pull up the public Coast Guard missing-person bulletin for Lydia Kiefer, grab her passport number off the notice, and fire an encrypted text to Samira Patel—a marine-claims investigator in Portland with read-only access to the Atlantic Marine Underwriters' cross-border port-clearance watch—asking her to flag any border hit while I still have four bars. Then I lock the doors and step inside under a jangling brass bell.
 
-Overhead fluorescents buzz above narrow floorboards that groan underfoot as I grab two heavy rolls of clear packing tape, a pack of black permanent markers, and a blister pack of spare brake bulbs from the automotive pegboard near the register. Keeping my cover clean matters more than ever now; if Halstead checks with the clerk later, I want an honest receipt for tape and tail-light bulbs.
+Fluorescents buzz overhead as I grab two rolls of packing tape, permanent markers, and spare brake bulbs near the register. Keeping my cover clean matters more than ever now; if Halstead checks later, I want an honest receipt.
 
-A thin kid in a faded Patriots hoodie rings up the tape without looking up from his phone. Beside the counter, a cork community board hangs plastered with tide tables, boat-mooring permits, and faded lost-dog flyers.
+A thin kid in a faded Patriots hoodie rings up the tape without glancing up from his phone. Beside the counter, a cork board hangs plastered with tide tables and lost-dog flyers.
 
-Just as the register drawer chimes open, the front bell jangles again behind me.
+The register chimes. Behind me, the front bell jangles.
 
-Cold fog rolls across the scuffed linoleum, bringing the sharp smell of diesel exhaust and wet oilskin. I turn casually toward the aisle, pretending to check a rack of work gloves, and lock eyes with Maren Lindqvist.
+Cold fog rolls across the scuffed linoleum, bringing diesel exhaust and wet oilskin. I turn toward a rack of work gloves and lock eyes with Maren Lindqvist.
 
-Up close, without fifty yards of cove fog between us, she looks older and harder—weather-creased skin around pale blue eyes, silver braid tucked tight inside a salt-stained wool cap, rubber boots splattered with dried gray mud from the oyster flats. She carries a tin of roll-up tobacco in one cracked hand and doesn't glance once at the kid behind the counter.
+Up close without fifty yards of fog between us, she looks older and harder—weather-creased skin around pale blue eyes, silver braid tucked under a salt-stained wool cap, rubber boots caked with dried oyster-flat mud. She carries a tin of roll-up tobacco in one cracked hand.
 
 "Rough water coming Friday," she says loudly enough for the clerk to hear, stepping past me toward the coffee urns as if we're strangers making harbor small talk. "Spring tide's going to crest the causeway culvert if the wind swings east."
 
-"I'll keep an eye on the road," I say, keeping my voice low while my heart hammers against the tissue-wrapped key inside my jacket.
+"I'll keep an eye on the road," I say, dropping my voice.
 
-Maren pours black coffee into a paper cup, snapping the plastic lid down with her thumb. She never turns her head toward me, keeping her shoulder angled between us and the security mirror mounted over the register. "Heard Graham Kiefer hired help from Portland. Smart girl wouldn't stay past sundown in a glass house after two people walked down to that boathouse in the storm."
+Maren pours black coffee into a paper cup, snapping the plastic lid down with her thumb. She keeps her shoulder squared between us and the security mirror over the register, her jaw tight. "Heard Kiefer hired help out of Portland. Smart girl would cash whatever check she's holding and drive back down Route One before sundown."
 
-"Two people," I murmur, pretending to inspect a pair of insulated leather gloves. "What did two fingers mean this morning? Who else was down at that boathouse?"
+"You held up two fingers on the mudflat this morning," I murmur, pretending to check the stitching on a pair of leather work gloves. "Who else was down at that boathouse?"
 
-Maren's eyes flick once toward the kid by the register before dropping back to her coffee lid. "I don't name names in public, and I don't lose my mooring permit over rich folks' messes," she mutters, reaching past me to grab a handful of paper napkins from the dispenser. Her cracked knuckles brush the back of my hand—cold as wet slate. "Just don't take Graham's word on what time the storm hit. And don't trust a deputy who writes left-handed when he's supposed to be off shift."
+Maren's pale eyes flick toward the kid by the counter, then drop hard to her coffee lid. "Not in here. My aquaculture lease comes up for county sign-off in January, and Cole Halstead's marine unit boards my brother-in-law's boat every time somebody talks out of turn. I owe too much on winter dockage to scrap with a badge over summer money."
+
+"Then why signal me from the cove?" I press quietly.
+
+Maren grabs a stack of paper napkins from the dispenser, her cracked knuckles brushing the back of my hand—cold as wet slate—before she pulls back as if stung. "Because I don't like watching an outsider walk blind onto slick rock," she mutters. "That's all you're getting. Don't take Kiefer's word on when the gale hit, and don't turn your back on Cole Halstead when the tide comes up."
 
 The clerk clears his throat from the counter, tossing my receipt into a brown paper bag beside the tape rolls. "Eighteen forty-two, miss."
 
-Maren steps back immediately, dropping a crumpled five beside the coffee urn without waiting for change, and pushes back out through the glass door before I can press her on why she mentioned Cole Halstead's left hand—or how she knew two people were at that boathouse in the dark.
+Maren steps away immediately, drops a crumpled five beside the coffee urn without waiting for change, and pushes out the glass door before I can press her on what she saw in the storm—or why a working oyster harvester looked almost as scared of her own secrets as she did of the sheriff's deputy.
 
-I grab my brown paper bag off the counter, force a polite nod at the kid in the hoodie, and hurry out onto the wooden porch just in time to see Maren's rusted pickup rattle away up the harbor hill.
+I grab my brown paper bag off the counter, force a polite nod at the kid in the hoodie, and hurry onto the wooden porch just in time to see Maren's rusted pickup rattle away up the harbor hill.
 
 ***
 
 Back inside my Civic, I lock both doors manually and exhale into the cold cab until condensation clouds the windshield.
 
-My chest feels squeezed tight between two impossible walls. Deputy Cole Halstead is left-handed, holds a county seal on a boathouse Graham claims the Coast Guard cleared, and just ran me off the peninsula's back story in broad daylight. And if Cole Halstead is the left-handed writer who wore down the gold nib on Lydia Kiefer's Montblanc pen, then he wasn't just signing a routine marine incident report three weeks ago. He was sitting at Lydia's desk upstairs.
+Deputy Cole Halstead writes left-handed, holds a county seal on a boathouse Graham claims the Coast Guard cleared, and already knows my name. A left-handed deputy doesn't prove who beveled the Montblanc nib upstairs—plenty of people write left-handed, or grind down a tine from a damaged feed. Paired with a county seal Graham never mentioned and Maren's warning, though, it puts Halstead beside that studio desk until something clears him.
 
-Which means Graham isn't running a solo con. Either Cole is helping Graham bury a murder, or Cole and someone else are inside that glass house together.
+Either Graham isn't running a solo con, or something uglier is moving through that glass house without him.
 
-I toss the brown paper store bag onto the passenger seat beside the Cumberland County collections letter, preparing to key the ignition before Graham wonders why a twenty-minute tape run took an hour.
+I toss the brown paper bag onto the passenger seat beside the courthouse letter, ready to key the ignition before Graham wonders why a twenty-minute run took an hour.
 
-Something white catches my eye inside the open top of the brown paper bag, wedged neatly between the two rolls of packing tape and the brake-bulb blister pack.
+Something white catches my eye inside the open sack, wedged between the tape rolls and the brake-bulb pack. The kid only dropped my receipt on top.
 
-I didn't put anything else in that bag. The kid behind the counter only dropped my receipt on top.
+I pull the receipt out and freeze.
 
-I reach across the center console, pull the receipt out, and freeze.
-
-Folded tightly inside the store receipt is a torn strip of glossy coastal tide-chart paper—the exact kind hanging by the dozen on the corkboard next to the coffee urns where Maren stood while waiting for me to pay. Someone tore off the bottom November column cleanly and circled a single line in thick black carpenter's pencil:
+Folded inside is a torn strip of glossy tide-chart paper—like the stack pinned beside the coffee urns where Maren stood. Someone tore off the bottom November column and circled one line in thick carpenter's pencil:
 
 *2:14 AM — High Water.*
 
-Beneath the printed tide mark, cramped, slanted block letters press hard enough into the paper to dent the back:
+Beneath the tide mark, cramped block letters press deep into the paper:
 
 Ask him why his dock lights were off.
 
-I fold the damp paper strip twice and tuck it inside my jeans watch pocket, separate from the brass key in my jacket. If Graham checks my store bag when I walk back in, all he'll find is clear packing tape, markers, and a blister pack of tail-light bulbs.
+I fold the strip twice and tuck it inside my jeans watch pocket, separate from the brass key. If Graham checks my store bag, he'll find only tape, markers, and tail-light bulbs.
 
-Outside, mist thickens against the windshield until the lobster boats at the pier vanish into gray air. Beyond the harbor bend, the causeway waits—one narrow strip of wet asphalt leading straight back behind Graham Kiefer's locked timber gate, where a left-handed deputy's cruiser just drove fifteen minutes ahead of me.
+Outside, mist swallows the lobster boats at the pier. Beyond the harbor bend, the causeway waits—one wet ribbon leading straight back behind Graham Kiefer's locked gate, where a left-handed deputy drove fifteen minutes ahead of me.

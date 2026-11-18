@@ -4,9 +4,9 @@ Four weeks after Salt Point, the cast-iron radiator in my Portland studio still 
 
 I stand over the scarred kitchen counter with a mug of black coffee, staring at two sheets of heavy bond paper laid side by side under the bare overhead bulb. The first is a stamped satisfaction-of-judgment notice from the Cumberland County clerk: $18,412 paid in full, zero balance remaining from the $42,000 defamation suit that broke my career three years ago. The second is a crisp, embossed letter from the Maine Department of Public Safety restoring my private investigator bond, effective Monday morning.
 
-The $5,000 cash from Salt Point and the $13,500 cashier's check from the anonymous Boston estate firm covered the judgment and the state bond reinstatement fee with eighty dollars to spare.
+The $5,000 cash from Salt Point and the $13,500 cashier's check from the anonymous Boston estate firm cleared the judgment with eighty-eight dollars to spare, leaving my four hundred in checking to cover the state bond reinstatement fee.
 
-My left wrist still carries a pale pink seam under the cuff of my dry wool sweater where the Salt Point stitches came out, and my bruised knee aches whenever the December air turns sharp. Two weeks of depositions in Rockland took care of the rest. Detective Sergeant Ward and the Knox County district attorney didn't need much persuasion once their techs pulled the mirrored boathouse audio off the Zone Four RAID drive and matched the left-handed Montblanc nib against Cole's yellow warning slip. Lydia and Cole are sitting in separate cells without bail, and Graham's bail hearing got pushed back after the state auditor finished tallying his $2.4 million probate shortfall.
+My left wrist still carries a pale pink seam under the cuff of my dry wool sweater where the Salt Point stitches came out, and my bruised knee aches whenever the December air turns sharp. Two weeks of depositions in Rockland took care of the rest. Detective Sergeant Ward and the Knox County district attorney didn't need much persuasion once their techs pulled the mirrored boathouse audio off the Zone Four RAID drive, lifted Cole's latent prints from the silver Montblanc barrel to corroborate his installer-PIN logs and left-handed writing on the warning slip and disputed staging notes, and got MSP toxicology confirmation identifying zolpidem in both my P-trap swab and Graham's living-room rocks glass. Coast Guard records confirmed the salt-free mudroom life vest was an unlogged spare, never pulled from Penobscot Bay. Lydia and Cole are sitting in separate cells without bail, and Graham's bail hearing got pushed back after the state auditor finished tallying his $2.4 million probate shortfall.
 
 I didn't ask for a press quote. I gave my statement, signed the chain-of-custody logs, and drove back down Route 1 before the Boston reporters found the causeway. Even Maren Lindqvist came through clean—the state prosecutor granted her full immunity as the reporting witness, and three days ago a wooden crate of Salt Point oysters showed up on my landing with a single harbor receipt tucked under the twine: *Dock's paid. Keep your head down.*
 
@@ -24,7 +24,7 @@ Ten minutes later, I push through the heavy glass door of Becky's Diner on Comme
 
 Steam from the flat-top grill hits my face the second I step inside, thick with bacon grease, wet wool, and burnt diner coffee. Outside the fogged front window, lobster boats idle along the working pier while gulls wheel through the gray morning mist. I drop my duffel onto the bench of a corner vinyl booth, peel off my damp coat, and slide in facing the street door out of habit.
 
-The waitress tops off a chipped ceramic mug before I even ask. I wrap both palms around the porcelain, letting the heat soak into my knuckles, and pull out the printed marine-insurance application I brought to review before ten.
+The waitress tops off a chipped ceramic mug before I even ask. I wrap both palms around the warm porcelain and pull out the printed marine-insurance application I brought to review before ten.
 
 Then the brass bell over the street door jingles once, and a woman in a tailored charcoal wool coat walks straight toward my booth without glancing at the host stand.
 
@@ -44,7 +44,7 @@ I look down at the cream card, then back up at her eyes. They are cool gray, ste
 
 "Graham told me he hired me out of his own pocket," I say.
 
-"He did," Margot says, folding her gloved hands over her briefcase. "Using an escrow account we administered for his late father-in-law's trust. When the Maine State Police froze his personal assets on charges of embezzlement and attempted arson, our contingency clause triggered automatically. The completion balance belonged to whichever contractor delivered an unredacted accounting of the estate."
+"He did," Margot says, folding her gloved hands over her briefcase. "Using an escrow account we administered for his late father-in-law's trust. When he drove down to Portland Wednesday afternoon to collect the sealed pre-closing packet—and saw fit to push your deadline up twenty-four hours into a coastal gale—I saw your name on the contractor voucher and personally added the thirty-five-hundred-dollar storm-hazard adjustment. When the Maine State Police called our State Street line Thursday night after arresting him for embezzlement and attempted arson, I authorized the contingency release myself. The completion balance belonged to whichever contractor delivered an unredacted accounting of the estate."
 
 She pauses while the waitress walks past with a steaming pot of coffee, then waits until the booth behind us clears.
 
@@ -62,7 +62,7 @@ Margot doesn't argue. She doesn't raise her voice, and she doesn't lean forward 
 
 "Triple the Salt Point rate," she says evenly. "Forty-five thousand dollars. Ten days in northern Vermont, starting tonight if you can clear the notch before dark. A private mountain lodge closed for the winter after a sudden family disappearance. Same rules—inventory the estate, flag any irregularities before probate counsel arrives, and stay out of the local sheriff's way."
 
-I pick up my coffee mug, take a slow sip of the bitter brew, and set it back down squarely on the paper placemat. My fingers brush the folded bond letter inside my jacket pocket—proof that I finally bought my own name back.
+I pick up my coffee mug, take a slow sip of the bitter brew, and set it back down squarely on the paper placemat. My fingers brush the folded bond letter inside my jacket pocket.
 
 "Pass," I say. "Find another cleaner."
 
@@ -82,7 +82,7 @@ I glance down despite myself. The shot shows a sprawling timber-and-stone lodge 
 
 "I'm not asking you to take the contract on faith," Margot says softly, resting one gloved fingertip on the white border of the photograph. "Look at the back."
 
-I hesitate. Every instinct I burned into my ribs at Salt Point tells me to stand up, grab my duffel off the bench, and walk out into the cold salt air before I touch another piece of bait. Six years ago, I stopped looking for shortcuts because shortcuts cost me my sister's trail and my career. I didn't survive forty-eight hours in a coastal kill-box just to climb into another rich family's locked house in the snow.
+I hesitate. Everything I survived at Salt Point tells me to stand up, grab my duffel off the bench, and walk out into the cold salt air before I touch another piece of bait. Six years ago, I stopped looking for shortcuts because shortcuts cost me my sister's trail and my career. I didn't survive three days in a coastal kill-box just to climb into another rich family's locked house in the snow.
 
 Yet Margot hasn't moved her hand. She watches me with the quiet certainty of someone who already knows what the ink on the reverse side is going to cost me.
 

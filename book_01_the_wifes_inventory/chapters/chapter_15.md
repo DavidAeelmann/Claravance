@@ -2,13 +2,13 @@
 
 I do not drop the brass wrench. My fingers stay locked around the cold knurled handle while I stare past the foyer sidelights at my silver Civic sitting in the mist.
 
-The trunk lid hovers open just enough to show a dark seam above the bumper latch. Until Tuesday afternoon, my spare key fob was zipped inside the side pocket of my navy duffel in the guest suite—Cole Halstead must have lifted it when he drove up here while I was at the general store. Whoever popped my trunk under cover of the fog didn't rush; they walked right up to my car and tucked a dead woman's kelp-crusted duck boots into my spare-tire well.
+The trunk lid hovers open just enough to show a dark seam above the bumper latch. Whoever popped my Civic under cover of fog didn't use a crowbar; they used the spare key fob sitting in my guest-room duffel.
 
-"We can't leave those boots on the slate," Graham says. His voice sounds scraped raw, like gravel under a heel. He rubs the back of his neck, eyes darting toward the front door. "If Cole Halstead rolls up that driveway with a warrant, he's not going to ask who unlocked your trunk."
+"We can't leave those boots on the slate," Graham says, voice scraped raw. He rubs the back of his neck, glancing toward the front door. "If Cole Halstead rolls up that driveway with a warrant, he won't ask who unlocked your trunk."
 
-"Cole doesn't have a warrant yet," I say. "If he did, he wouldn't have waited until morning to kick the door in. He's building the paper trail first."
+"Cole doesn't have a warrant yet," I say. "If he did, he wouldn't wait until dawn to kick the door in. He's stacking the paper first."
 
-I step back from the foyer arch, my damp wool socks squelching faintly against the stone. My feet are numb. Exhaustion sits behind my eyes like wet sand, heavy and grit-sharp, reminding me I haven't slept since Tuesday night. If I walk out right now, I leave my $5,000 retainer on the table, let a sheriff's deputy pull me over on the causeway with a trunk full of someone else's mud, and kiss my last shot at clearing my court debt goodbye before noon.
+I step back from the foyer arch, my damp wool socks squelching faintly against stone. Exhaustion sits behind my eyes like wet sand, grit-sharp after two sleepless nights. Walking out now leaves five grand on the table and puts me on the causeway with a dirty trunk.
 
 "Get a towel for the floor," I tell him. "Then take me to your study. All of it—the server rack, the admin key, whatever you hid behind that basement partition."
 
@@ -16,7 +16,7 @@ Graham hesitates. A faint twitch pulls at the corner of his mouth. "The study ra
 
 "You wrote the encryption," I say, tapping the flat of the wrench against my thigh. "Which means you have the master key upstairs. Move."
 
-He doesn't argue. He grabs a folded dish towel from the kitchen threshold, swabs the brackish puddle off the foyer slate in three tight strokes, shoves the kelp-crusted duck boots into the back of the foyer coat closet, and tosses the rag into the mudroom sink. I detour past the guest suite just long enough to pull on my dry spare sneakers and yank my duffel zipper shut. The $5,000 envelope is still inside, tucked under my folded shirts, though my spare key pocket hangs empty.
+He doesn't argue. He grabs a folded dish towel from the kitchen threshold, swabs the brackish puddle off the foyer slate in three tight strokes, shoves the kelp-crusted duck boots into the back of the foyer coat closet, and tosses the rag into the mudroom sink. I detour past the guest suite just long enough to pull on my dry spare sneakers and check my navy duffel. The $5,000 envelope still sits untouched under my folded shirts inside the main compartment, yet when I yank open the outer side pouch—the exact zipper pull I noticed flipped outward last night—my spare Civic key fob is gone. Not Graham sweeping my bag last night: Lydia lifted that fob before dark so she could walk out into the fog after midnight, pop my trunk silently, and drop her duck boots, bleach rag, and bronze cleat into my spare-tire well. I yank the duffel shut and hurry down the north hall.
 
 Graham's study sits off the north hall, opposite the sunroom. Unlike the glass-and-cedar showcase rooms at the front of the house, this room is narrow, lined with dark acoustic baffling and floor-to-ceiling walnut shelving. The air smells like warm dust and cedar shavings, overlaid with the faint metallic tang of electronics running hot.
 
@@ -40,25 +40,25 @@ He exhales through his nose, a short, bitter sound, and starts typing.
 
 ***
 
-The decryption bar crawls across the monitor in jagged green blocks. Outside the north window, wind drives sheets of gray rain against the glass, rattling the cedar siding. The server rack fans kick up a pitch, whining softly as the processor chews through the encrypted block.
+The decryption bar crawls across the left monitor in jagged green blocks. Rain lashes the north window, rattling the cedar siding while the tower fans kick up a pitch.
 
-I check the clock in the corner of the screen: 9:18 AM.
+On the right-hand screen, unlocked behind the terminal window, sits a local directory titled `ARLINGTON_STAFFING_OCT21`. Beside the keyboard lies a slim, unsealed folder tabbed `CALDER_T — VETTING`.
 
-"Why Cole?" I ask, watching the reflection of Graham's face in the dark glass of the secondary monitor. "In the kitchen, you said you couldn't go to the local sheriff because Halstead *is* the law out here. How long have you known he was dirty?"
+While Graham keeps both hands visible near the desk edge, I flip the folder open with my free hand. Inside sits a two-page Boston investigator's memo dated October twenty-first—complete with my Commercial Street fire-manifest termination, my $18,412 Cumberland County judgment, and Graham's own typed screening notes stapled on top:
 
-Graham's shoulders sag slightly against the chair back. "I didn't know he was dirty until after the squall. I knew he hated me."
+*Refused dirty sign-off 2023. $18,412 levy pending Nov. Cornered enough to take cash; stubborn enough not to walk past staged wood or a dry life vest. Put under $50k IP NDA to prevent county leaks until Arlington clears. Watch what Oct 15 tampering she flags first.*
 
-"Why?"
+I slide the stapled memo across the blotter over his mouse hand. "October twenty-first," I say, tapping the note with the brass wrench. "You ran a background check on my eviction ledger the exact day you spotted the sunroom scar. You didn't hire me because you trusted me, Graham. You bought a cornered investigator for a silent tripwire—and left me blind while Cole Halstead ran county plates on me."
 
-"Because he grew up on Salt Point," Graham says. "His father worked the lobster boats until his heart gave out. Cole and Lydia used to run these ledges together when they were kids, long before I ever bought the headland. When Lydia's father died and left the trust under joint oversight, Cole still acted like I was some Boston tourist who stole his backyard."
+Graham doesn't pull his hand back. His jaw works once beneath gray stubble. "I needed the Arlington inventory finished before November fourteenth, and I needed eyes nobody in Knox County had bought yet. If I briefed a stranger on day one and you walked straight to a deputy, I went to prison before I knew who was dirty."
 
-I file that away. Childhood ties explain loyalty, not a felony conspiracy. "Hating you doesn't make a county deputy fake a drowning."
+"So you let me walk into the darkroom alone."
 
-"No," Graham agrees, his gaze fixed on the progress bar. "Being broke does. Or whatever Lydia offered him."
+"I didn't know Halstead had an installer PIN until ten minutes ago," Graham says tightly, watching the progress bar crawl past eighty percent. "I knew he hated me—he and Lydia grew up running these ledges together long before I bought the headland. After her father died, Cole still treated me like a Boston tourist who stole his backyard. Hating me doesn't explain faking a drowning."
 
-"You think she paid him out of the trust?"
+"Being broke does," I counter. "Or whatever offshore cash Lydia put on the table."
 
-"I think Lydia had access to offshore accounts her father set up before the stroke—accounts I never touched." Graham's jaw works tight. "When I pulled the $2.4M to keep Kiefer Soundworks afloat during the patent litigation, I thought I could replace it before the November probate audit. I didn't expect her to find the ledger in October. And I sure as hell didn't expect her to vanish instead of serving me with divorce papers."
+Graham's mouth tightens as he glances at the screen. "Her father set up offshore bearer accounts before his stroke—accounts I never touched. When I pulled the two-point-four million for Kiefer Soundworks, I planned to cure it before the November audit. I never expected her to vanish instead of filing for divorce."
 
 The progress bar hits ninety-eight percent. Then ninety-nine.
 
@@ -72,13 +72,13 @@ Graham double-clicks the file. A waveform spikes across the screen, jagged and d
 
 Static fills the study—the low, rhythmic hiss of rain drumming on coastal glass and the distant groan of cedar rafters in a gale. Then comes a sharp metallic *click*, followed by the dull thud of a heavy latch sliding home.
 
-"That's the pantry corridor," I murmur, skin prickling along my forearms. "The dumbwaiter hatch."
+"That's the pantry corridor," I murmur. "The dumbwaiter hatch."
 
 Footsteps scuff across stone—wet rubber soles squeaking faintly against slate. Then a muffled grunt as someone drags a heavy canvas bundle past the sunroom arch, brushing the cedar wall.
 
 *"Careful with the varnish,"* a woman's voice cuts through the static.
 
-Graham goes rigid in the chair. Every muscle in his neck locks like cable.
+Graham goes rigid in the chair.
 
 The voice isn't panicked. It isn't pleading, or drugged, or fighting off an attacker. It's clear, crisp, and bone-dry—the cultured, slightly clipped cadence of someone who grew up in private schools and never once raised her voice to be heard.
 
@@ -106,7 +106,7 @@ Graham's hand shakes as he drags the raw WAV file toward my USB transfer window.
 
 Before it hits fifty, the smart-home server rack in the corner chirps twice.
 
-Not an error tone. It's the crisp two-note chime of an automated local-mesh sync—the exact protocol Kiefer Soundworks uses when a registered house tablet comes back within cellular range of the main hub.
+Not an error tone. It's the two-note chime of a registered house tablet coming back within range of the main hub.
 
 "What is that?" I snap, grabbing the brass wrench off the desk.
 
@@ -120,7 +120,7 @@ A fresh folder blooms onto the left monitor inside the `CLOUD_SYNC` queue.
 
 `FILE: CALDER_CONFESSION_FINAL.wav`
 
-"Don't touch it," I say, though my throat feels dry as chalk. "Check the header."
+"Don't touch it," I say. "Check the header."
 
 Graham clicks the incoming file into the waveform viewer, and the audio auto-plays through the studio monitors.
 
@@ -130,7 +130,7 @@ It's my voice.
 
 I stare at the waveform on the screen. Someone took clean vocal samples from my Monday night NDA intake, my kitchen arguments with Graham, and my phone calls from the guest suite, then stitched the cadence together over a house-mic noise bed. The splices are invisible to the naked ear. To a county prosecutor—or a sheriff's deputy who already has a bleach-stained boat rag and bronze cleat waiting in my Civic trunk—it sounds like a panicked accomplice breaking down.
 
-"They didn't just plant the boots," I say, my voice barely above a whisper. "Lydia broke her pick off in the archive lock when she heard me coming down the pantry stairs, then bolted the cellar from outside to buy time while she rendered that file."
+"They didn't just plant the boots," I say, my voice barely above a whisper. "Lydia couldn't crack the archive cabinet before she heard me coming down the pantry stairs, so she bolted the cellar from outside to buy time while she rendered that file."
 
 Across the monitor, the sync queue flashes green: `UPLOADED TO KNOX_COUNTY_EVIDENCE_DROP`. A split second later, a red banner drops across the network window: `OUTBOUND WAN GATEWAY LOCKED — ADMIN OVERRIDE`. Lydia's remote iPad didn't just push a fake confession—it killed the house router's external upload path before our raw WAV file could leave the study.
 

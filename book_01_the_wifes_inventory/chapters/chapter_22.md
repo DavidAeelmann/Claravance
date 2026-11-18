@@ -1,6 +1,6 @@
 # Chapter 22
 
-Rain hammers straight down through the open skylight, turning the slate foyer into a black mirror under the strobing blue-and-red glare.
+Rain drives straight down through the open skylight, turning the slate foyer into a black mirror under the strobing blue-and-red glare.
 
 Lydia has one boot on the cedar frame above her head, her torn waxed-canvas sleeve dark with blood. Before she can haul her weight onto the slick cedar roof, I drop the oyster knife onto the slate, lunge onto the bench beside her, and grab the back of her jacket collar.
 
@@ -26,7 +26,7 @@ The front door swings wide. Freezing gale-force wind and pine needles blow strai
 
 I raise both hands slowly, stepping off Lydia's wrist as the lead trooper moves in and snaps steel cuffs behind her back.
 
-"That backup drive by the stairs came off the study tower," I tell him, nodding toward the tiles. "And don't let anyone touch the silver Montblanc fountain pen on the upstairs studio blotter—it's got left-handed nib wear."
+"That backup drive by the stairs came off the study tower," I tell him, nodding toward the tiles. "And seal the upstairs studio—there's a silver Montblanc fountain pen on the blotter that needs latent print lifts before anyone touches it."
 
 Lydia glares up at me from the slate, blood slicking her cheek where her forearm brushed her face. She doesn't speak. She doesn't have to.
 
@@ -46,7 +46,7 @@ I stand under the rear awning of a Knox County ambulance, a stiff wool blanket d
 
 Beside the rescue rig's diesel-rumbling fender, Maren Lindqvist stands in her yellow oilskin bib, a thermos steaming between her cracked knuckles. Her silver braid is plastered to her collar, and her eyes meet mine with quiet, steady relief.
 
-"Saw your note on the back of my tide chart," Maren says as I step out from the awning into the drizzle, my sneakers squelching on wet gravel. "When the tide crested and Cole's dispatch channel went dead for an hour, I took the pickup out before the causeway went under. Told the barracks at Thomaston they had a live framing on Salt Point."
+"Parked my pickup on the high mainland shoulder before the surge, then walked down the shoreline path to check my skiff's storm chain," Maren says as I step out from the awning into the drizzle, my sneakers squelching on wet gravel. "Found your carved tide chart behind my shed latch. Saw that, Cole's dark cruiser across the causeway, and his county radio dead—so I drove straight to Thomaston and told them they had a live framing on Salt Point."
 
 "Thank you," I say. My voice comes out hoarse, raw from salt water and smoke. "If you hadn't—"
 
@@ -54,19 +54,21 @@ Beside the rescue rig's diesel-rumbling fender, Maren Lindqvist stands in her ye
 
 A plainclothes Maine State Police detective—lean, gray-templed, wearing a drenched nylon windbreaker with a badge clipped to his belt—steps away from the open rear hatch of the tactical rig and walks over with a clipboard and an evidence box.
 
-"Ms. Calder," he says. "Detective Sergeant Ward. My techs just pulled the UPS-backed RAID server out of that basement darkroom. Your boathouse audio stream came through clean—every word Mrs. Kiefer spoke over that intercom."
+"Ms. Calder," he says. "Detective Sergeant Ward. My techs pulled the UPS-backed RAID server out of Zone Four—your boathouse stream came through clean. Dispatch confirmed Halstead's cruiser blocking the causeway and the radio blackout, and our digital unit matched that county-drop confession to the iPad Mini Mrs. Kiefer dropped in the foyer. We also logged the bleach rag and bronze cleat in your Civic's spare-tire well, the wet duck boots in the coat closet, and the bleach jugs and scratched oars inside the boathouse."
 
-"Good," I say, lifting the faded navy canvas duffel off my shoulder and setting it squarely on the tailgate of the rescue rig. "Because that's only half of it."
+"Good," I say, lifting the faded navy canvas duffel off my shoulder and setting it squarely on the tailgate of the rescue rig. "Because the house holds the rest of the paper trail."
 
-Ward pauses, his pen hovering over the plastic evidence seal. "What else do you have?"
+Ward pauses, his pen hovering over the plastic evidence seal. "Let's see what you pulled before the storm hit."
 
 I unzip the duffel and lay the items out under the harsh rig floodlights, keeping my hands steady despite the cold biting into my scraped palm.
 
-First, I set down the encrypted matte-black thumb drive (`RAW_BUFFER_OCT14_15`) beside the yellow warning slip Cole wrote on Tuesday. "Raw acoustic server buffer from the night of October fourteenth, plus Cole's left-handed handwriting sample," I tell him. "Match his slant against the left-handed nib wear on the silver Montblanc sitting on Lydia's studio blotter upstairs. He accidentally laid down his own pen at two-fourteen instead of hers."
+First, I set down the encrypted matte-black thumb drive (`RAW_BUFFER_OCT14_15`) beside the yellow warning slip Cole wrote on Tuesday and the knotted glove finger holding my foil-wrapped P-trap swab. "Raw acoustic server buffer from October fourteenth, placing Cole and Lydia inside the sunroom and boathouse around two-fourteen—plus Cole's Tuesday warning slip as a known left-handed exemplar, and a swab of unconfirmed white crystalline paste from the master bath brass P-trap."
 
-Ward bags both items with gloved fingers. "And the rest?"
+Ward bags each item cleanly with gloved fingers, gesturing to a waiting evidence tech beside the rig. "Tell the studio team to lift latent prints off that silver Montblanc barrel before moving it, and pull Halstead's October fifteenth incident report and staging notes for questioned-documents comparison against this warning slip. Nib wear alone won't convict anybody—I want his prints on the barrel, his installer-PIN logs, his handwriting, and that two-fourteen recording side by side."
 
-"The orange life jacket on mudroom peg two is soaked with tap water, not sea salt, and Lydia planted a bronze cleat in my Civic's spare-tire well," I say, nodding toward the glass house. "Your crime-scene team will also find dissolved Ambien in the master bath U-bend, a brass pipe wrench inside Zone Four, and the rusted oyster knife I dropped on the foyer slate."
+"Check the half-finished crystal rocks glass on the living-room tray too," I add, nodding toward the glass house. "Lab toxicology should tell you whether that P-trap swab matches the sediment inside it. And pull the Coast Guard serial and lot stamp off the orange life vest on mudroom peg two—there are photos in my cloud backup—for salinity swabs and recovery-log checks, plus a brass pipe wrench inside Zone Four and the oyster knife on the foyer slate."
+
+Ward makes three brisk ticks on his clipboard, already speaking low into his shoulder mic to relay the toxicology and life-vest orders inside. Then his eyes drop back to my open duffel.
 
 Graham stands near an unmarked sedan by the edge of the drive, a uniformed trooper's hand resting lightly on his elbow while another officer takes his preliminary statement. Across the rain-swept gravel, Graham catches my eye. There's a quiet, desperate plea in his posture—the unspoken reminder of the fifty thousand dollars he offered me over a lit gas burner less than an hour ago, and the ten-thousand-dollar completion check I still haven't collected.
 
@@ -78,7 +80,7 @@ I lay it flat on the metal tailgate.
 
 "And this," I tell Ward. "Graham Kiefer's unredacted trust ledger. Two point four million dollars embezzled from Lydia's late father's estate, complete with forged probate initials. He tried to burn it on the kitchen stove tonight so nobody would look past his wife's frame job."
 
-Across the gravel, Graham's shoulders drop. He closes his eyes, turns his head away from the floodlights, and doesn't fight when the trooper reaches for his wrists.
+Across the gravel, Graham closes his eyes, turns his head away from the floodlights, and doesn't fight when the trooper reaches for his wrists.
 
 Ward stares down at the thick manila envelope, then up at me. "You worked for him, Ms. Calder. Under an NDA."
 
@@ -88,20 +90,20 @@ Ward stares down at the thick manila envelope, then up at me. "You worked for hi
 
 An hour later, the storm has thinned to a cold, steady drizzle. Most of the gravel forecourt has cleared out, leaving only the ambulance bay lit by humming overhead LEDs and the smell of wet pine and diesel exhaust, sharp with antiseptic gauze hanging thick in the air. Down toward the cove, a portable generator still drones beside the boathouse doors while crime-scene techs bag the last of the gear.
 
-I sit on the edge of the ambulance step, letting a paramedic finish knotting three neat stitches across my gashed left wrist and tape clean gauze over the seam while a fresh paper cup of black coffee warms my stiff fingers. The wool blanket smells faintly of bleach and cedar smoke. My knees ache every time I shift my weight, yet for the first time in four days, nobody is watching me through glass, and nobody is waiting on the other side of a locked door.
+I sit on the edge of the ambulance step, letting a paramedic finish knotting three neat stitches across my gashed left wrist and tape clean gauze over the seam while a fresh paper cup of black coffee warms my hands. The wool blanket smells faintly of bleach and cedar smoke. For the first time in four days, nobody is watching me through glass, and nobody is waiting on the other side of a locked door.
 
-Detective Ward walks back over from the yellow crime-scene tape strung across the Kiefer porch, his boots crunching steadily across the wet gravel. His windbreaker drips onto the stone. In his gloved hand, he holds a crisp, uncreased white envelope sealed with waxless adhesive.
+Detective Ward walks back over from the yellow crime-scene tape strung across the Kiefer porch, his boots crunching steadily across the wet gravel. His windbreaker drips onto the stone. In his gloved hand, he holds a thick, uncreased white escrow envelope sealed with waxless adhesive and stamped across the flap with a courier voucher.
 
-"We finished the inventory search on the heavy wool overcoat Mr. Kiefer grabbed from the foyer closet before transport," Ward says, stopping just inside the yellow glow of the ambulance bay. "Found this tucked in the inner breast pocket, sealed and addressed to you. No forensic relevance to the assault or the embezzlement, so we're releasing it as personal property."
+"We finished the inventory search on the heavy wool overcoat Mr. Kiefer grabbed from the foyer closet before transport," Ward says, stopping just inside the yellow glow of the ambulance bay. "Found this sealed inside his inner breast pocket, addressed to you. Looks like he picked up the pre-closing escrow packet from his Boston fiduciary agent while he was in Portland yesterday, keeping it on his person until today's five o'clock sign-off. When my sergeant called the State Street compliance line on the voucher, the on-call partner verified that Mr. Kiefer's felony arrest triggered their completion-release clause—and authorized us to hand it over directly as earned contractor property."
 
 I set my coffee cup down on the metal step and take the envelope. The paper is heavy, cotton-stock stationery—nothing like the cheap manila folders Graham kept in his study.
 
-I slide my thumb under the flap and pull out a folded cashier's check.
+I slide my thumb under the flap and pull out a countersigned cashier's check.
 
-Thirteen thousand five hundred dollars. The ten-thousand-dollar completion balance, plus a three-thousand-five-hundred-dollar hazard and expense bonus.
+Thirteen thousand five hundred dollars. The ten-thousand-dollar completion balance, plus a three-thousand-five-hundred-dollar rush-deadline and storm-hazard adjustment.
 
 My eyes drop to the signature block at the bottom right.
 
 Graham Kiefer's name isn't there.
 
-Instead, stamped cleanly above two crisp, unfamiliar initials in dark blue ink, is the header of a private Boston estate firm I have never heard of—and a handwritten postscript in the memo line: *Retainer cleared. Expect our courier in Portland.*
+Instead, stamped cleanly above two crisp, unfamiliar initials in dark blue ink, is the header of a private Boston estate firm I have never heard of—and a handwritten postscript in the memo line: *Escrow cleared upon accounting. Expect our courier in Portland.*

@@ -6,51 +6,43 @@ On the left studio monitor, Graham Kiefer stays frozen mid-stride in his hooded 
 
 White digital numbers burned into the upper corner read 02:14:07 AM.
 
-I reach out with two fingers, careful not to nudge the desk mouse until I've checked the open media timeline beneath the frame. The video track isn't a raw security export pulled off a cloud dashboard. It's a three-minute clip isolated inside an encrypted **ARCHIVE** directory—and right beside it in a second window sits an audio waveform editor loaded with four stacked stereo tracks labeled `HYDROPHONE_COVE`, `SUNROOM_EAST`, `BOATHOUSE_LINT`, and `STAIRWELL_4`.
+I reach out with two fingers, careful not to nudge the desk mouse until I've checked the open media timeline beneath the frame. The video track isn't a raw security export pulled off a cloud dashboard. It's a three-minute clip isolated inside an encrypted **ARCHIVE** directory—and beside it in a second window sits an audio waveform editor loaded with five stacked tracks labeled `SUNROOM_EAST`, `MIC_04_PANTRY`, `STAIRWELL_4`, `BOATHOUSE_LINT`, and `HYDROPHONE_COVE`.
 
-Cold prickles spread across the back of my neck.
+Graham didn't just build noise-canceling transducers down here for an Arlington patent buyer. He wired the entire property—sunroom, pantry, stairwell, boathouse, and submerged cove pilings—into one local acoustic server array. Every room upstairs feeds straight into this cellar. Even the words Graham and I traded over soup Tuesday night probably sit archived inside this aluminum rack.
 
-Graham didn't just build noise-canceling transducers down here for an Arlington patent buyer. He wired the entire Kiefer Glass House—indoor stairwells, sunroom glass, even the submerged cove pilings—with directional acoustic arrays. Every room upstairs is a live microphone feeding straight into this cellar. Even the words Graham and I traded over soup Tuesday night—and the quiet click of my boots in the mudroom—probably sit archived on a spinning platter somewhere inside this aluminum rack.
+Beside the worktable hums a waist-high aluminum server rack, radiating warm silicon through perforated mesh. Three black chassis units sit stacked (`PRIMARY PARALLEL`, `COVE HYDROPHONE`, `AMBIENT / PERIMETER`) above a dedicated UPS battery bank bolted along the bottom rail—keeping the Zone 4 servers, monitors, and local `ARCHIVE` alive if main power drops. Atop the stack sits a compact cellular bridge, dead without grid AC while the battery bank protects local drives. Even this closed hub leaves three blind spots: Cole's exterior maintenance jumper, the pantry dumbwaiter shaft, and a storm-cut bridge that keeps local platters spinning in the dark.
 
-Beside the worktable stands a waist-high brushed-aluminum server rack humming steadily behind perforated steel mesh. Warm dry air radiates off the top vents, carrying the faint metallic tang of hot silicon and solder flux. Three identical black chassis units sit stacked inside, each tagged with crisp white Dymo tape: `PRIMARY PARALLEL`, `COVE HYDROPHONE`, and `AMBIENT / PERIMETER`. Tiny amber activity LEDs flutter steadily across the drive bays, writing continuous parity backups even with the rest of the house asleep. Coiled XLR patch cables hang neatly from brass hooks along the side rail, beside an acoustic calibration logbook dated back to last winter.
+I glance nervously toward the steel fire door under the foyer stairs, its heavy pneumatic closer sealed tight against the frame. If waking these monitors tripped a silent ping upstairs—or alerted whoever climbed out of the pantry shaft before 2:14 AM—I'm betting my life the swapped bourbon kept Graham under until dawn.
 
-I glance nervously toward the dark steel fire door tucked into the northwest wall under the foyer stairs. Its heavy pneumatic closer glints dully in the blue monitor wash, sealed tight against the steel frame.
+I nudge the desk mouse just enough to wake the right-hand monitor without playing the video.
 
-If this workstation is tied into the main Kiefer Soundworks hub upstairs, waking these monitors might have already tripped a silent power-draw ping on Graham's phone—or worse, alerted whoever climbed down that pantry dumbwaiter shaft before 2:14 AM. Every second I linger down here, I'm betting my life that the swapped bourbon actually put Graham under until dawn, and that nobody else is standing on the other side of that foyer door listening to the drive bays spin.
+A batch-render log fills the screen, dated from October sixteenth through yesterday afternoon. Someone spent three weeks running wind-noise filters over a single eight-minute window—02:09 to 02:17—trying to pull human voices out from under gale roar. The last render timestamp reads 4:12 PM, right before dusk. At four-twelve yesterday, Graham's Audi was ninety miles south on I-95, and I was down at Maren's cove shed. Somebody stood right here scrubbing audio while the house sat empty—minutes before I spotted a flashlight inside the locked boathouse.
 
-I nudge the desk mouse a fraction, just enough to wake the right-hand monitor's directory tree without hitting play on the video.
-
-A list of spectral-analysis logs fills the screen, dated from October sixteenth straight through yesterday afternoon. Someone spent three weeks running wind-noise subtraction filters on a single eight-minute audio window—02:09:00 to 02:17:18—trying to strip forty-knot gale roar off a muffled human argument near the dock. The last batch-render timestamp shows 4:12 PM, right before dusk. At four-twelve yesterday afternoon, Graham's Audi was still ninety miles south on I-95, and I was descending the granite cliff trail toward Maren's cove sorting shed. Somebody else stood right here in this soundproofed room at dusk, scrubbing audio files while the house sat empty—minutes before I climbed back up in fog and saw a flashlight sweeping inside the locked boathouse.
-
-Not a killer scrubbing evidence. Somebody down here was frantically trying to hear what happened on October fifteenth—or someone was trying to scrub a voice out of the mix before today's courier arrives.
+Either someone down here was trying to hear what happened on October fifteenth—or trying to erase a voice before today's courier arrives.
 
 ***
 
 I step away from the monitors and move quietly across the dark room, letting the pale blue screen glow guide me toward the far side of the basement. Every step across the interlocking rubber mats absorbs the weight of my heels without a whisper.
 
-The air down here feels thick and deadened, smelling of warm electronics and damp concrete. Halfway across the floor, I pass through the northeast corner, where floor-to-ceiling wedge baffling angles sharply inward behind a pair of heavy freestanding bass traps wrapped in dark charcoal acoustic cloth.
+The air down here feels thick and deadened, smelling of warm electronics and damp concrete. Halfway across the floor, I pass through the northeast corner, where floor-to-ceiling charcoal wedge foam angles inward behind two heavy bass traps.
 
-The moment I step into that corner pocket, the low hum of the three server fans vanishes completely.
+The moment I step inside that corner pocket, the server fans drop to a dull thrum.
 
-Not muffled—*gone*, swallowed whole by the angled foam geometry so cleanly that even the rustle of my flannel sleeve against my ribs drops to nothing. Pressure shifts subtly against my eardrums, like stepping inside an anechoic chamber at a testing lab. Only the faint thud of my own pulse remains inside my skull. I take one step back out toward the center of the room, and the fan hum returns instantly, sharp and mechanical against the concrete. An engineered acoustic dead-zone, built to test directional cancellation in total silence—and a blind spot where a person could stand in the dark without a single breath carrying across the concrete.
+Not total silence—low slab vibration still hums against my soles—yet the directional foam baffles and bass traps swallow mid-to-high frequencies and kill room bounce. When I shift my weight, the brush of flannel against my ribs dies inside the wedges instead of echoing off concrete. One step outward toward the center floor, and the fan hiss snaps back instantly. An engineered dead-zone for directional mic testing—and a blind corner where quiet footsteps or soft breathing won't throw clean sound across the room.
 
-I file the corner geometry away without touching the foam and turn to the long steel drafting table pushed against the east masonry wall. A gooseneck task lamp clamped to the corner sits unplugged, its shade dusted with pale drywall grit.
+I leave the corner untouched and turn to the long steel drafting table against the east masonry wall. A gooseneck task lamp clamped to the corner sits unplugged, its shade dusted with pale drywall grit.
 
-No ropes. No spare license plates. No hidden stash of Lydia's missing winter boots or sliced sketchbook pages.
+No ropes. No spare license plates. No hidden stash of Lydia's winter boots or sliced sketchbook pages.
 
-Instead, the steel surface is buried under three weeks of frantic paper, stacked and cross-referenced like an insurance fraud auditor's war room—every margin marked with red ink and clipped together by date.
+Instead, the steel top looks like an insurance auditor's war room, covered in three weeks of cross-referenced charts clipped together by date. A laminated Maine tide chart sits weighted at the corners with brass acoustic blocks, October fifteenth's 2:14 AM high-water mark circled twice in red felt-tip pen. Beside it lie Salt Point Harbor VHF repeater printouts—highlighted along a forty-second transponder gap with zero tower error code, matching the anomaly Maren warned me Lydia asked about—and a Coast Guard drift grid marked with red arrows pointing northwest toward the outer bell buoy. A cold ceramic coffee mug sits half-empty near the edge, a dry ring of grounds crusted inside the rim, beside a worn silver mechanical pencil with its eraser chewed flat.
 
-A laminated Maine coastal tide chart lies weighted at the corners with brass acoustic weights, October fifteenth's 2:14 AM high-water mark circled twice in red felt-tip pen. Beside it sits a thick printout of Salt Point Harbor VHF repeater logs, with yellow highlighter dragged across every dead-carrier squelch burst between one-thirty and three in the morning—the exact anomaly Maren Lindqvist warned me Lydia asked about two days before the storm. Marginalia in Graham's sharp handwriting flags a forty-second gap where the harbor transponder signal dropped cleanly off the coastal tower without a single power-loss error code. Beneath the repeater sheets lies a printed Coast Guard search-and-rescue drift grid, with red arrows sketched by hand showing how a swamped hull would drift northwest toward the outer bell buoy rather than wash back into the cove. A cold ceramic coffee mug sits half-empty near the edge, a dry ring of grounds crusted inside the rim, beside a worn silver mechanical pencil with its eraser chewed flat.
-
-Under the corner of the tide table lies a yellow legal pad covered in Graham's neat, cramped block handwriting—columns of boat-hull draft depths compared against the granite ledge depth at low water, tide-current drift estimates in knots, and fuel-burn tables for a single-outboard fiberglass skiff running without navigation lights. At the bottom of the page sits a single underlined question scrawled hard enough to dent the paper below:
+Under the chart corner lies a yellow legal pad covered in Graham's cramped block script—hull draft depths compared against granite ledge soundings, tide-current estimates, and fuel-burn tables for a fiberglass skiff running dark. At the bottom sits a single underlined question, pressed hard enough to dent the paper below:
 
 *How did the Kiefer skiff clear the outer bar at 2:14 without hitting the east shoal?*
 
-My chest tightens.
+A killer who dumped his wife off the outer ledge doesn't spend three weeks mapping Coast Guard drift grids and transponder gaps to figure out where his own boat went. Unless the hooded man on that infrared monitor isn't the one who took the skiff out—or unless Graham is building a paper defense thick enough to fool a Boston grand jury. Every scrap on this steel table reads less like a killer's trophy stash and more like a cornered man reconstructing how his wife vanished off his own dock.
 
-If Graham Kiefer dragged Lydia's body out of the sunroom in a rolled canvas rug at 2:14 AM, why is he sitting in a soundproofed cellar three weeks later calculating whether a fiberglass skiff could clear the east shoal at high tide? A killer who dumped his wife off the outer ledge doesn't spend hours poring over Coast Guard drift grids and harbor repeater logs trying to figure out where his own boat went. Unless the man on that infrared video isn't the one who took the boat out—or unless Graham is building a paper defense so thick he can fool a Boston grand jury. Every scrap of paper on this steel table reads less like a killer's trophy stash and more like a cornered man trying to reconstruct how his own wife vanished off his own dock.
-
-And yet the timing still doesn't add up. If Lydia scanned her passport in New Brunswick Tuesday morning—and if Cole Halstead already holds administrator PINs to the house—then someone else has been using this basement too.
+Still, if Lydia scanned her passport in New Brunswick Tuesday morning—and Cole Halstead holds co-owner installer PINs—someone else has been inside this darkroom too.
 
 I glance back across the room toward the glowing left-hand monitor.
 
@@ -68,11 +60,11 @@ A heavy chrome cam lock secures the center handle, its brass keyway scratched fr
 
 I slip the B-4 key back into my pocket, double-checking that the heavy brass front-door key and my folded tide strip are still tucked safely beside it, and unfold the narrow steel pry blade on my multi-tool.
 
-Time is running out. My soles are damp from the cold concrete edge near the wall, and every instinct warns me I've already stayed down here five minutes too long. Upstairs, the house is silent, yet the swinging hemp rope in the dumbwaiter shaft proved somebody was standing right where I'm standing less than twenty minutes ago. If whoever used that shaft comes back for the drive or the cabinet, there's nowhere to hide down here except that pitch-black northeast acoustic corner.
+Time is running out. The swinging hemp rope in the shaft proved somebody stood down here less than twenty minutes ago—leaving only that pitch-black northeast dead-zone if whoever owns the thumbprint comes back.
 
-I slide the flat steel tip into the narrow seam between the cabinet door and its steel frame, just above the chrome cam latch, and brace my left shoulder against the side panel. Cold enamel bites through my flannel sleeve. I throw my weight into the handle, twisting the multi-tool slowly so the blade won't snap against the hardened lock plate. For two endless seconds, the steel resists, my fingers cramping around the folded handle as sweat cools down my spine. Then the metal groans softly—once, twice—before the cheap cam tongue bends inward with a sharp *snap* of yielding steel that sounds deafeningly loud inside the foam-lined room.
+I wedge the narrow steel tip between the door seam and frame just above the chrome cam latch, brace my left shoulder against the side panel, and throw my weight into the folded handle, twisting slowly so the blade won't snap against hardened steel. For two endless seconds, the lock resists as my fingers cramp. Then the cam tongue bends inward with a sharp *snap* of yielding steel that sounds deafening inside the foam-lined room.
 
-I freeze, holding my breath, waiting for footsteps above the joists or a floorboard creak in the foyer. Even the server rack's steady fan hum suddenly feels too quiet, as if the whole house is holding its breath right above my head. Nothing moves.
+I freeze, waiting for footsteps above the joists or a floorboard creak in the foyer. Even the server rack's fan hum suddenly feels too quiet above my head. Nothing stirs.
 
 I pull the gray door open, catching the edge with my fingertips so the bent latch doesn't scrape back against the frame.
 
@@ -80,7 +72,7 @@ Inside, the cabinet holds no spare server drives and no audio reels. The upper a
 
 On the middle shelf lies a single thick padded manila envelope, its brass clasp bent flat beneath overlapping strips of red tamper-evident tape. Someone scrawled `OCT 14 — MASTER BACKUP / DO NOT OPEN BEFORE PROBATE` across the front in thick black marker—Graham's block script, slightly slanted at the end as if his hand shook when he wrote it. Through the stiff kraft paper, I can feel the sharp rectangular edge of folded legal documents and a smaller, hard plastic lump like an encrypted thumb drive tucked inside the lower corner. Not a speck of dust sits on the envelope's upper edge; whoever owns this locker checked it recently, probably right before the 2:14 AM latch click woke me upstairs.
 
-I reach in, wrap my cold fingers around the padded envelope, and lift it clear of the metal shelf.
+I reach in, wrap my fingers around the padded envelope, and lift it clear of the metal shelf.
 
 Across the room, the heavy steel fire door beneath the foyer stairs cracks open slightly—just enough for a thin wedge of dark stairwell shadow to cut across the blue monitor glare—then slams shut into its steel jamb with a deafening pneumatic *thud*.
 
