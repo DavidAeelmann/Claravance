@@ -64,7 +64,7 @@ The progress bar hits ninety-eight percent. Then ninety-nine.
 
 A soft chime pings from the tower speaker, and a directory tree unfolds across the right monitor: `RAW_BUFFER_OCT14_15`. Inside sit twelve timestamped WAV files, untouched by the house's automated noise-gate scrubbers.
 
-I lean forward, pointing at the fifth file down. `MIC_04_PANTRY_021407.wav`.
+I lean forward, pointing at the fifth file down. `MIC_04_PANTRY_020915.wav`.
 
 "Play that one," I say. "Full gain."
 

@@ -40,7 +40,7 @@ No sleep since Tuesday night. Two days of stale coffee, cold fear, and now a she
 
 I force myself down the next flight of steps, keeping one hand brushing the wet granite wall so my knees don't buckle on the moss. Salt spray stings my eyes. My fingers ache from the damp chill, and every muscle in my calves burns from four hours crouched on concrete in the darkroom. Below me, the cove water looks black as crankcase oil, chopping hard against the granite shelf where the boathouse pilings sink into the kelp.
 
-Near the bottom of the cliff, the wind flattens out beneath the rock overhang, though surf still booms against the timber pilings below. Through the drifting fog to my left, Maren Lindqvist's weathered oyster shack sits dark and shuttered above the tide line, her aluminum skiff pulled high onto the gravel apron and chained to an iron ring. No light in her window. No woodsmoke curling from her tin stove pipe.
+Near the bottom of the cliff, the wind flattens out beneath the rock overhang, though surf still booms against the timber pilings below. Through the drifting fog to my left, Maren Lindqvist's weathered cove sorting shed sits dark and shuttered above the tide line, her aluminum skiff pulled high onto the gravel apron and chained to an iron ring. No light in her window. No woodsmoke curling from her tin stove pipe.
 
 Directly ahead sits the Kiefer boathouse—gray cedar shingles weathered almost black by salt spray, double plank doors chained tight with a heavy brass padlock.
 
@@ -78,9 +78,9 @@ I freeze. The phone stays raised chest-high, its pale screen illuminating the da
 
 Lydia Kiefer steps out from behind the yellow fiberglass hull.
 
-She doesn't look like a woman who spent three weeks hiding in a coastal loft or scrambling over granite ledges in the dark. Her dark hair is pulled back into a tight, neat knot, and she wears a charcoal waxed-canvas jacket over dark trousers—dry, crisp, completely unhurried, as if she just stepped off a heated porch. In her right hand, held steady at waist height and pointed directly at my sternum, sits a matte-black Glock service pistol.
+She doesn't look like a woman who spent three weeks hiding in a coastal loft or scrambling over granite ledges in the dark. Her dark hair is pulled back into a tight, neat knot, and she wears a charcoal waxed-canvas jacket over dark trousers—dry, crisp, completely unhurried, as if she just stepped off a heated porch. In her right hand, held steady at waist height and pointed directly at my sternum, sits a matte-black subcompact Glock 26.
 
-Deputy Cole Halstead's weapon.
+Deputy Cole Halstead's backup pistol.
 
 Every nerve in my body locks down, pinned between the narrow casement window behind my heels and the dark muzzle four paces away.
 

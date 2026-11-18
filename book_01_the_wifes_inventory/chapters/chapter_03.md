@@ -80,7 +80,7 @@ The back deck wraps the seaward face of the house in weathered cedar planks, sli
 
 I step out onto the deck with my empty mug, claiming I want to check the morning light on the sunroom windows before pulling the inventory sheets. Behind the glass, Graham is already wiping down the limestone counter with a damp sponge, erasing the ring my mug left behind. Watching him scrub a clean counter makes my skin itch.
 
-From up here, the boathouse roof looks tight and well-kept, cedar shingles darker than the main house where spray hits them. A heavy galvanized padlock hangs through the boat-bay hasp facing the water, though the side casement facing the cliff sits shuttered from inside. If the Coast Guard cleared it three weeks ago, nobody bothered to unlatch the shutters for ventilation.
+From up here, the boathouse roof looks tight and well-kept, cedar shingles darker than the main house where spray hits them. Heavy galvanized padlocks secure both the seaward boat-bay hatch and the landward double entry doors, while the side casement facing the cliff sits shuttered from inside. If the Coast Guard cleared it three weeks ago, nobody bothered to unlatch the shutters for ventilation.
 
 The salt air hits my face cold and sharp, carrying the low-tide stench of exposed mussel beds and wet bladderwrack. Out beyond the granite ledge, the fog has lifted just enough to reveal the flat mud channel between Kiefer's cove and the neighboring spit—the same wooden shack on pilings I passed on the causeway last night. The yellow porch bulb is switched off now, leaving wet cedar shingles gray against the tide line.
 

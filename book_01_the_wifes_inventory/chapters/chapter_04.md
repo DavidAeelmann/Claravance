@@ -1,8 +1,8 @@
 # Chapter 4
 
-By noon, the supply truck from Rockland drops twenty flat-packed wardrobe cartons inside the timber gate, forcing Graham to drive his Audi down the gravel lane to haul them back up to the house.
+By noon, the supply truck from Rockland drops twenty flat-packed wardrobe cartons inside the timber gate, forcing Julian to drive his Audi down the gravel lane to haul them back up to the house.
 
-I watch his taillights vanish into the spruce trees from the sunroom window, then immediately open the shared spreadsheet on my laptop to log the first row—*Sunroom, hand-knotted wool rug, charcoal gray, fair condition*—just in case he checks timestamps remotely from his phone. Doing the boring clerk work keeps me safe. If I look like a slow, methodical archivist logging cushions and brass floor lamps, Graham stays relaxed.
+I watch his taillights vanish into the spruce trees from the sunroom window, then immediately open the shared spreadsheet on my laptop to log the first row—*Sunroom, hand-knotted wool rug, charcoal gray, fair condition*—just in case he checks timestamps remotely from his phone. Doing the boring clerk work keeps me safe. If I look like a slow, methodical archivist logging cushions and brass floor lamps, Julian stays relaxed.
 
 The sunroom occupies the southeast corner of the glass house, jutting out over the granite cliff like a greenhouse built for winter storms. Cold gray light pours through tall panes, washing the pale cedar floorboards in flat glare. A pair of low linen armchairs faces the cove, separated by a heavy slate coffee table and a broad woven wool rug that covers most of the center floor.
 
@@ -10,7 +10,7 @@ My boots squeak softly as I cross to the linen armchair to check its upholstery 
 
 *Two fingers.* I kneel to photograph the armchair's underside label, my knees popping in the quiet room. *Two people? Two days until Friday?*
 
-Either way, Maren didn't climb up the cliff to tell me in person, which means she's either terrified of Graham or terrified of whoever else has keys to that locked boathouse. And if I'm wrong about both of them—if I accuse a grieving tech founder of staging a crime scene without ironclad proof—my name ends up on another court docket before the ink dries on Friday's probate petition.
+Either way, Maren didn't climb up the cliff to tell me in person, which means she's either terrified of Julian or terrified of whoever else has keys to that locked boathouse. And if I'm wrong about both of them—if I accuse a grieving tech founder of staging a crime scene without ironclad proof—my name ends up on another court docket before the ink dries on Friday's probate petition.
 
 I log the two linen armchairs, a blackened-steel floor lamp, and a low walnut side table holding three unread art monographs on Maine intertidal flora. Every book spine cracks slightly when I lift the covers to check for tucked receipts or handwritten margin notes—clean pages, crisp corners, nothing wedged inside the bindings. Even the brass hardware on the seaward French doors looks freshly wiped down, free of the salt film that coats every exterior latch on the peninsula.
 
@@ -38,21 +38,21 @@ Right above the bleached patch, the cedar baseboard trim sits a hairline proud o
 
 ***
 
-The crunch of tires on wet gravel outside makes me drop the wool rug corner flat just as Graham's Audi noses back into the turnaround.
+The crunch of tires on wet gravel outside makes me drop the wool rug corner flat just as Julian's Audi noses back into the turnaround.
 
-I scramble upright, smoothing my sweater down, and cross to the slate coffee table with my clipboard held conspicuously against my forearm. By the time the front latch clicks and Graham's heavy boots thud onto the mudroom tray, I'm kneeling beside the second armchair, clicking my pen loudly as I jot down *Armchair #2 — minor sun fade on west arm*.
+I scramble upright, smoothing my sweater down, and cross to the slate coffee table with my clipboard held conspicuously against my forearm. By the time the front latch clicks and Julian's heavy boots thud onto the mudroom tray, I'm kneeling beside the second armchair, clicking my pen loudly as I jot down *Armchair #2 — minor sun fade on west arm*.
 
-"Cartons are in the foyer," Graham calls from the kitchen archway. He sounds slightly winded from hauling flattened cardboard in from the rain. "Take a break whenever you want lunch. There's sourdough and turkey in the fridge."
+"Cartons are in the foyer," Julian calls from the kitchen archway. He sounds slightly winded from hauling flattened cardboard in from the rain. "Take a break whenever you want lunch. There's sourdough and turkey in the fridge."
 
 "I'm fine for another hour," I call back, keeping my tone clipped and bored. "Just finishing the sunroom textiles before I start on the master closet."
 
-Footsteps pause near the maple table, then head back toward the kitchen sink. Water runs briefly, followed by the soft clink of glass and the hum of the hallway stairs creaking under his weight as he climbs back up to his second-floor office.
+Footsteps pause near the maple table, then head back toward the kitchen sink. Water runs briefly, followed by the soft clink of glass and the hum of the hallway stairs creaking under his weight as he climbs to the second floor.
 
-I wait until his office door shuts solidly overhead.
+I wait until an upstairs door shuts solidly overhead.
 
-Then I stand, cross to the hallway threshold to verify the foyer is clear, and catch sight of the mudroom tray again on my way back. That wiped-clean empty half beside Graham's duck boots keeps nagging at me. If someone scrubbed blood or salt mud off the sunroom floor *after* October fourteenth—and if Lydia's packed weekender got shoved behind Graham's coats with an October seventeenth ferry tag—why leave the sunroom rug sitting right over the evidence?
+Then I stand, cross to the hallway threshold to verify the foyer is clear, and catch sight of the mudroom tray again on my way back. That wiped-clean empty half beside Julian's duck boots keeps nagging at me. If someone scrubbed blood or salt mud off the sunroom floor *after* October fourteenth—and if Evelyn's packed weekender got shoved behind Julian's coats with an October seventeenth ferry tag—why leave the sunroom rug sitting right over the evidence?
 
-Because whoever scrubbed the floor didn't want Graham—or a probate inspector—to see it. Or Graham scrubbed it himself, panicked when the bleach scarred the wood, oiled it poorly, and threw the heaviest rug in the house over the mess before hiring an outsider who wouldn't recognize fresh linseed oil from floor wax.
+Because whoever scrubbed the floor didn't want Julian—or a probate inspector—to see it. Or Julian scrubbed it himself, panicked when the bleach scarred the wood, oiled it poorly, and threw the heaviest rug in the house over the mess before hiring an outsider who wouldn't recognize fresh linseed oil from floor wax.
 
 Except I *did* recognize it. Every arson adjuster in New England knows what boiled linseed oil smells like when someone tries to mask a stain on timber.
 
@@ -62,7 +62,7 @@ The paint along the top edge of the trim isn't cracked. Instead, two finishing n
 
 I wedge my thumbnail into the gap behind the baseboard and pull. Dry plaster dust sifts onto the bleached wood. Inside the dark slot between drywall and cedar, something metallic glints dully.
 
-My breath catches. I reach into my jeans pocket for my small steel multi-tool, flip out the flathead driver, and slide the tip carefully under the baseboard lip without scraping the paint. If I leave pry marks on Graham's woodwork, my cover dies before five o'clock, and I'm back in Portland staring at an eviction notice with a fresh lawsuit attached.
+My breath catches. I reach into my jeans pocket for my small steel multi-tool, flip out the flathead driver, and slide the tip carefully under the baseboard lip without scraping the paint. If I leave pry marks on Julian's woodwork, my cover dies before five o'clock, and I'm back in Portland staring at an eviction notice with a fresh lawsuit attached.
 
 I lever the trim out just enough to hook the metal glint with the screwdriver tip and drag it forward across the cedar planks.
 
@@ -72,29 +72,29 @@ A rusted brass mortise key, old teeth darkened with verdigris along the grooves,
 
 I stare at it sitting in the middle of the bleached cedar patch. Even the grease along the key's collar looks smudged, like someone handled it with wet or gloved fingers before it slipped down behind the trim.
 
-*Basement Zone 4.* The exact label that makes sense for the steel fire door at the bottom of the stairwell under the floating oak staircase—the acoustic darkroom Graham warned me would void my fifty-thousand-dollar contract the second I tripped its perimeter latch.
+*Basement Zone 4.* The exact label that makes sense for the steel fire door at the bottom of the stairwell under the floating oak staircase—the acoustic darkroom Julian warned me would void my fifty-thousand-dollar contract the second I tripped its perimeter latch.
 
-Why would a rusted key to Graham's high-security defense-patent darkroom be wedged *behind* a freshly bleached baseboard in the sunroom? And if that steel door at the bottom of the basement stairs really uses a modern electronic breach alarm, why does its secondary mortise cylinder still take an old-fashioned brass key?
+Why would a rusted key to Julian's high-security defense-patent darkroom be wedged *behind* a freshly bleached baseboard in the sunroom? And if that steel door at the bottom of the basement stairs really uses a modern electronic breach alarm, why does its secondary mortise cylinder still take an old-fashioned brass key?
 
 ***
 
-I don't pick the key up with bare fingers. Instead, I pull a clean square of acid-free tissue from the sample pack Graham gave me that morning, wrap the brass bow carefully, and slip it into the inside breast pocket of my waxed jacket.
+I don't pick the key up with bare fingers. Instead, I pull a clean square of acid-free tissue from the sample pack Julian gave me that morning, wrap the brass bow carefully, and slip it into the inside breast pocket of my waxed jacket.
 
 Before I drop the wool rug back over the scarred wood, I take one more look at the corner where the key fell out. Look closely at the seam, and the logic falls apart in a way that makes the back of my neck go cold.
 
-If Graham dropped his own basement key behind the baseboard while scrubbing the floor, he would have pulled the trim off to get it back—not left a five-minute pry job unfinished right under a rug he knew I'd have to move to inventory. Which leaves two ugly possibilities: either someone *else* crept into this house after October fourteenth, scrubbed the floorboard, and lost their only spare Zone 4 key while trying to hide the bleach—or Graham didn't lose it at all. He knew I'd peel back this rug eventually.
+If Julian dropped his own basement key behind the baseboard while scrubbing the floor, he would have pulled the trim off to get it back—not left a five-minute pry job unfinished right under a rug he knew I'd have to move to inventory. Which leaves two ugly possibilities: either someone *else* crept into this house after October fourteenth, scrubbed the floorboard, and lost their only spare Zone 4 key while trying to hide the bleach—or Julian didn't lose it at all. He knew I'd peel back this rug eventually.
 
 I push the heavy wool rug back down flat against the cedar, line the coffee table leg back into its exact carpet indentation, and step out into the mudroom to grab my jacket off the foyer hook.
 
-The air in the house suddenly feels too thin to breathe. Staying inside these glass walls waiting for Graham to come back downstairs feels like sitting in a fishbowl with the lights on. I need twenty minutes off this peninsula—a cell signal strong enough to run a real background pull on Kiefer Soundworks, a hardware store run for packing tape, and a look at Salt Point harbor in daylight where nobody can watch me through plate glass.
+The air in the house suddenly feels too thin to breathe. Staying inside these glass walls waiting for Julian to come back downstairs feels like sitting in a fishbowl with the lights on. I need twenty minutes off this peninsula—a cell signal strong enough to run a real background pull on Mercer Soundworks, a hardware store run for packing tape, and a look at Salt Point harbor in daylight where nobody can watch me through plate glass.
 
 I grab my purse and car keys from the mudroom shelf, pull my waxed jacket on—feeling the hard brass key press against my ribs through the tissue—and step toward the front door. My fingers are already on the brushed-steel deadbolt when boots cross the hallway overhead.
 
-"Tessa?" Graham's voice calls down from the upper landing. "Are you heading out?"
+"Clara?" Julian's voice calls down from the upper landing. "Are you heading out?"
 
 I turn slowly, keeping my hands visible at my sides so I don't look like I'm guarding my breast pocket. "Out of heavy packing tape," I call up, keeping my voice steady though my throat feels tight. "And you only left two rolls of label stickers on the kitchen counter. Thought I'd hit the general store past the causeway before the fog thickens."
 
-Bootsteps cross the upper hall until Graham leans briefly over the oak railing, looking down at me in the foyer. His gray eyes drop straight to my jacket pocket, linger for half a beat, then lift to my face.
+Bootsteps cross the upper hall until Julian leans briefly over the oak railing, looking down at me in the foyer. His gray eyes drop straight to my jacket pocket, linger for half a beat, then lift to my face.
 
 "I thought you were logging the master closet after lunch," he says mildly.
 
@@ -104,8 +104,8 @@ He holds my gaze for a long beat, his fingers drumming once against the oak rail
 
 "Will do."
 
-I pull the heavy black door open and step out onto the porch. The cold salt wind hits my face like a slap, carrying the distant clang of the breakwater buoy. My Civic sits parked beside Graham's dark Audi, looking battered and small against the wet spruce line. I fish my manual key from my jeans pocket, unlock the driver's door with a stiff metallic click, and slide behind the cold steering wheel.
+I pull the heavy black door open and step out onto the porch. The cold salt wind hits my face like a slap, carrying the distant clang of the breakwater buoy. My Civic sits parked beside Julian's dark Audi, looking battered and small against the wet spruce line. I fish my manual key from my jeans pocket, unlock the driver's door with a stiff metallic click, and slide behind the cold steering wheel.
 
-Just before I twist the ignition, I glance once at the tall glass panes of Graham's second-floor office.
+Just before I twist the ignition, I glance once at the tall glass panes of the second-floor master bedroom.
 
 He hasn't gone back to his desk. He's standing right at the window, watching me unlock my door, one hand resting flat against the glass while gray fog curls around the roof eaves behind him.
