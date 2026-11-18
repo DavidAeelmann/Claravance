@@ -3,10 +3,6 @@
 
 ---
 
-
-# Sneak Peek: *The Caretaker's Ledger*
-### A Tessa Calder Thriller — Book 2 by David Seelmann
-
 ## Chapter 1
 
 Tire chains bite hard into packed mountain ice, rattling up through the floorboards of my 2014 silver Honda Civic with every switchback.
@@ -92,6 +88,8 @@ And resting directly on top of the sliced binding, where the wet glue is still t
 Above my head, directly across the third-floor rafters where the attic corridor runs, a heavy floorboard groans under the slow, deliberate shift of a boot.
 
 Then an iron slide bolt grates home on the upper stairwell door—and behind me on the front porch, a heavy brass padlock clanks shut across the outer storm door.
+
+---
 
 ## Chapter 2
 
@@ -182,6 +180,8 @@ Then the deep, steady vibration of the basement generator beneath my boots stutt
 The hall plunges into dead, suffocating silence. No furnace hum. No distant relay click. Even the faint draft along the floorboards stops as the blower fans coast to a halt.
 
 Before I can pull back from the oak panel, a sharp metallic hiss erupts inside the plaster wall right beside my left shoulder—a taut steel cable racing downward through a hidden wooden shaft at full drop.
+
+---
 
 ## Chapter 3
 
@@ -285,6 +285,8 @@ Through the glass, a broad-shouldered man in a snow-crusted waxed parka raises a
 
 "Put the brass key on the butcher block, lady," he barks through the wood, his voice thick and gravelly, "or I blow the latch off."
 
+---
+
 ## Chapter 4
 
 I don't reach for my multi-tool. Twin twelve-gauge muzzles sit an inch from frosted glass, and men holding shotguns in the dark don't wait for explanations.
@@ -386,6 +388,8 @@ Ten paces to my left, right at the edge of the narrow footpath leading up toward
 Dark blue. Archival fountain ink, untouched by Tuesday's snow.
 
 Someone walked toward that icehouse *after* the storm stopped—bleeding ink from a cracked nib or a stained cuff—and Hollis Greer's lantern beam just swept straight past it without seeing a thing.
+
+---
 
 ## Chapter 5
 
@@ -489,6 +493,8 @@ I slide the magnetic tablet case high up behind the rear driver's-side wheel wel
 
 Up on the ridge, a heavy halogen flashlight beam flares bright from the lodge's front porch, sweeping slowly down the snow-packed drive toward the iron gates.
 
+---
+
 ## Chapter 6
 
 Hollis doesn't ask about my Civic when I step back onto the kitchen porch at nine-fifteen. He just sweeps his halogen beam once across the canvas daypack on my shoulder, grunts, and slides the heavy brass deadbolt across the kitchen door behind my boots.
@@ -582,6 +588,8 @@ The iron plate slides upward a fraction of an inch in its greased tracks. A knif
 Then a faint, ragged whisper slides through the narrow iron gap in the dark:
 
 "Tessa? Don't turn your flashlight on."
+
+---
 
 ## Chapter 7
 
@@ -683,6 +691,8 @@ My fingers go cold around the paper. I fold the covenant sheets flat into my bre
 
 Today is Thursday. Tomorrow at five o'clock, thirty-eight million dollars changes hands—and Simone Cutler isn't missing in a Vermont snowbank. She's hiding somewhere on this ridge, waiting out the clock.
 
+---
+
 ## Chapter 8
 
 At eight-fifteen, Hollis's Ford F-250 rumbles back up the drive from the iron gates and disappears behind the carriage barn. Five minutes later, the side barn door thuds shut, and his heavy boots crunch past the woodshed toward the kitchen porch.
@@ -770,6 +780,8 @@ I step backward toward the snowy ditch, my right hand slipping into my coat pock
 "No thanks," I tell him, pivoting toward the steep snowy cutbank where my snowshoe trail enters the spruce. "I'll take my own trail back."
 
 I scramble up the frozen bank into the trees before his boots hit the gravel, hearing his truck gear grind into low range behind me as he swings the heavy plow blade around toward the lodge gate. Once the spruce boughs swallow me, I buckle my snowshoes tight and start climbing hard.
+
+---
 
 ## Chapter 9
 
@@ -869,6 +881,8 @@ I fold the sliced ledger page fast into my inside breast pocket—just as a heav
 
 Wet boots stride fast across the Great Hall flagstones below, followed by the sharp metallic click of a shotgun safety snapping off and heavy steps turning toward the bottom steps of the main oak staircase.
 
+---
+
 ## Chapter 10
 
 I don't try the third-floor stairs. Whoever just snapped a shotgun safety off in the Great Hall is already climbing the main oak flight below, and meeting twelve-gauge buckshot on a narrow pine landing leaves zero room to duck.
@@ -948,6 +962,8 @@ The speaker clicks dead.
 In the sudden silence, Simone wrenches her wrist free from my grip, her pale face breaking into a tight, vicious smile. She doesn't look toward the door anymore. She reaches sideways with her left hand and slams her palm straight down onto the red **CALL / ALARM** button on the brass intercom box.
 
 A piercing buzzer erupts through the corridor outside—loud enough to rattle the glass in the vanity mirror—just as heavy boots thunder back down the third-floor stairs toward the second-floor gallery.
+
+---
 
 ## Chapter 11
 
@@ -1032,6 +1048,8 @@ I lunge back to the door and throw my shoulder against the frozen planks, testin
 Then comes the unmistakable slosh of liquid splashing hard against the dry cedar shingles and the bottom sill of the plank door. Thin, biting **petrol fumes** immediately seep under the threshold crack, stinging my eyes and coating the back of my throat with raw gasoline.
 
 A tin jerrycan thuds down into the snow outside, followed by the rapid crunch of Simone's boots sprinting back toward the lodge porch—going inside for matches or a lighter.
+
+---
 
 ## Chapter 12
 
@@ -1120,6 +1138,8 @@ An ear-splitting **shotgun blast** detonates inside the boiler vault below.
 Buckshot tears into the cast-iron ash baffle and shatters the brickwork at the mouth of the coal chute, spraying hot stone chips and acrid cordite smoke across my boots as the wooden pipe-chase panel slams shut in my face.
 
 A cold, ink-stained hand clamps tight across my mouth in the pitch dark, pressing me flat against the warm copper pipe while Hollis's heavy boots charge across the concrete floor beneath us, kicking through spilled clinkers and ash.
+
+---
 
 ## Chapter 13
 
@@ -1231,6 +1251,8 @@ On the right line, written in crisp, slanted black ink above the printed title *
 
 "She wasn't trying to expose Arthur," Nina breathes against the hot brick wall. "Margot co-signed the hush-money account six years ago. She sent you up here to find Arthur's corpse for her bondholders—and burn this book before anyone finds her name on page forty-four."
 
+---
+
 ## Chapter 14
 
 Under the shielded cone of my penlight, the **Caretaker's Ledger** feels cold and heavy in my lap, its rag-paper pages stiff from six years in an oiled shroud.
@@ -1314,6 +1336,8 @@ Down on the covered hemlock porch, the heavy oak front door swings inward, spill
 Behind her, Pike kills the SUV's headlights, climbs back into his idling plow cab to stay out of the biting wind, and plunges the forecourt back into dark falling snow. Only the dim yellow glow from the Great Hall's high clerestory glass paints a pale rectangle across the hood of Margot's truck.
 
 Nina's hand tightens around the oilskin-wrapped **Caretaker's Ledger** against her chest. Below our feet, muffled voices rise faintly through the old floor registers as Margot's heels click across the flagstone hearth—coming straight to collect Arthur's frozen body and burn the only book that can send her to federal prison.
+
+---
 
 ## Chapter 15
 
@@ -1403,6 +1427,8 @@ Before Margot can draw whatever sits inside her coat pocket, Hollis vaults acros
 
 "Nobody's walking out that front door!" Hollis roars into the dark hall as glass crunches under his heavy boots. "Pike! Lock the iron gates and cut the SUV ignition right now!"
 
+---
+
 ## Chapter 16
 
 I don't move until Hollis's boots haul Margot across the shattered glass toward the front foyer, shouting at Pike through the side sidelight.
@@ -1478,6 +1504,8 @@ Before I can roll onto my side or reach the multi-tool in my coat pocket, heavy 
 "Got her," Simone hisses, breathing fast and ragged in the dark as she steps back toward the study doorway, wiping her sweating palms on her cashmere sleeve.
 
 Cold steel presses tight behind my right ear as **Hollis Greer** steps out of the vestibule shadow with the twelve-gauge leveled at my face, his thumb clicking the safety off while he reaches into his chore-coat pocket with his scarred right hand for a fistful of thick black nylon **zip ties**.
+
+---
 
 ## Chapter 17
 
@@ -1613,6 +1641,8 @@ A solid column of freezing cistern water drops straight down the Great Hall chim
 
 The hearth detonates in a roaring geyser of scalding white steam, wet soot, and blinding gray ash that blasts outward against the study door—blowing our splintered walnut latch clean off its cracked keeper and flinging the heavy door wide open into the dark room.
 
+---
+
 ## Chapter 18
 
 Scalding white steam hits my cheeks like a wet wool blanket, stinging the raw scrape along my jaw.
@@ -1701,6 +1731,8 @@ Pine planks explode outward in a spray of splinters and torn brass hardware, exp
 
 As the plow blade shears past the kitchen foundation, the steel corner rips clean through the **exterior copper diesel reserve line** feeding the sub-basement tank. Raw red-dyed fuel sprays sideways across the snowbank in a thick, glistening arc, hissing loudly in the subzero air as orange sparks shower off the torn iron hasp beneath Pike's spinning rear tires. An instant later, a dull blue-orange *whump* catches along the soaked pine siding, sending greasy black diesel smoke rolling toward the lodge's rear eaves. Fire races straight toward the kitchen wing.
 
+---
+
 ## Chapter 19
 
 Dry furnace heat and stale coal dust hit our faces as Nina and I drop down the narrow wooden cellar stairs into the sub-basement boiler vault. Old pine treads groan beneath our wet boots, slick with tracked snow from the pantry floor.
@@ -1783,6 +1815,8 @@ No answer comes down the stairs. Only the roar of diesel flames eating along the
 
 Above me, Nina's cold, ink-stained hand reaches down from the dark brick throat, her fingers locking tight around my wool sleeve to haul me upward toward the freezing night air and the snow-choked opening of the charred stone icehouse. Greasy black diesel smoke chases us straight up the shaft.
 
+---
+
 ## Chapter 20
 
 Subzero night air hits my soot-caked lungs like crushed ice as Nina hauls me up over the brick lip of the **stone icehouse**.
@@ -1858,6 +1892,8 @@ His bloodshot eyes lock straight onto **Nina**, who has stepped half out from be
 "Leave her alone, Hollis!" I shout, stepping sideways off the SUV running board to draw his aim toward me, my fingers tightening on Arthur's walnut cane.
 
 Orange firelight glints off the missing joint of his scarred right hand. Hollis ignores me completely. He staggers several steps forward through the crusted drift, boots crunching loud in the frozen quiet between the SUV and the woodshed, and raises the snub-nose revolver across the snowlit hood of Margot's truck—aiming straight at Nina's heart while frost glints cold along the steel barrel and his scarred right hand tightens on the iced grip.
+
+---
 
 ## Chapter 21
 
@@ -1945,6 +1981,8 @@ Nina slides her cold hand into mine, her knuckles raw from the brick chute yet s
 
 I lean my forehead briefly against the cold iron gate pillar, letting my lungs finally empty in the subzero air as the shaking starts in my knees—six years of silence ending in the dark—and watch the first cruiser headlights sweep through the spruce trees toward us, cutting bright white cones through the drifting snow.
 
+---
+
 ## Chapter 22
 
 Gray Friday dawn breaks over Cragmont Ridge in a flat wash of freezing sleet and wet pine smoke.
@@ -2024,6 +2062,8 @@ Before climbing into the back of the state cruiser idling outside the glass ER d
 She turns cleanly on her heel and walks out through the sliding glass doors toward the idling cruiser, leaving the sharp smell of expensive espresso and dry paper hanging in the bleach-heavy air.
 
 Beside my gurney, Nina slowly flips the warm photocopy packet over to the final sheet, exposing the faint circular impression of an embossed notary seal pressed deep into the calfskin backing.
+
+---
 
 ## Chapter 23
 
