@@ -4,7 +4,7 @@ The siren cuts out once near the ridge bend, then starts up again—closer, boun
 
 "Take your car," Julian says, pushing back from the desk so hard the leather chair bangs the walnut shelving. His hands are shaking as he gestures toward the front hall. "Use the back gravel spur before he turns into the main drive. If Halstead catches you here with that audio queued—"
 
-"If I run in my Civic, I don't make it past the causeway," I tell him, watching the USB progress bar on my phone crawl past ninety-six percent. My pulse hammers hard in my throat. "My trunk has a bleach-stained boat rag sitting in the spare-tire well, Julian. The county already has a spliced confession in my voice sitting in their evidence drop. The second I hit Route 1, Cole puts out an APB and pulls me out of my seat at gunpoint."
+"If I run in my Civic, I don't make it past the causeway," I tell him, watching the USB progress bar on my phone crawl past ninety-six percent. "My trunk has a bleach-stained boat rag sitting in the spare-tire well, Julian. The county already has a spliced confession in my voice sitting in their evidence drop. The second I hit Route 1, Cole puts out an APB and pulls me out of my seat at gunpoint."
 
 The phone chimes softly: `TRANSFER COMPLETE`.
 
@@ -22,7 +22,7 @@ Julian grabs my forearm before I can turn toward the hall. His grip is clammy, f
 
 I don't answer from the study. I stride fast down the north hall, my sneakers silent on the runner, and cut through the sunroom doorway where the gray wool rug still lies crooked over the bleached cedar boards. The padded manila envelope from the basement sits on the kitchen island behind me, out of reach if Cole comes through the front door first. Good. Let Cole waste his time chasing paper inside the house.
 
-"The boathouse," I call back over my shoulder as Julian hurries to the sunroom arch. "Whatever Evelyn and Cole staged on the night of the squall—the extra oars, the tarp, the cleaner they used—they didn't haul it all back up the cliff in the dark. If I photograph it and push the images to Portland before Cole seizes the property, his warrant turns to ash."
+"The boathouse," I call back over my shoulder as Julian hurries to the sunroom arch. "Whatever Evelyn and Cole staged on the night of the squall—the extra oars, the tarp, the cleaner they used—they didn't haul it all back up the cliff in the dark. Once I photograph it and hit the ridge for cell signal, I can push the images and that raw WAV file straight to Portland before Cole seizes the property."
 
 Julian's face goes tight with fresh panic. "Clara, don't go down there alone. If Evelyn's iPad just synced within local mesh range, she isn't in New Brunswick."
 

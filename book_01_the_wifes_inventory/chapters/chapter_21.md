@@ -1,93 +1,91 @@
 # Chapter 21
 
-Dusk drops over Salt Point like a wet wool blanket, turning the gale-lashed fog around the glass house the color of bruised slate.
+Cole's heavy boots hit the kitchen tile. A bright white flashlight beam slices through the pitch-black foyer arch, sweeping across the slate floor inches behind my heels as I drag Julian silently down the north hall.
 
-I stay crouched beneath the sunroom sill until the cold starts locking the muscles in my calves. Julian is still slumped against the interior cast-iron radiator, his bruised face pale in the storm gloom, his eyes fixed on the front hall arch. He doesn't dare look back at the glass again.
+"Julian!" Cole bellows from the kitchen, his voice echoing off the cold stone. "Get out here! You're not getting off this rock!"
 
-Every second I wait out here on the cedar deck, Cole Halstead is walking closer up the gravel spur from the flooded causeway.
+I shove Julian through the open doorway of his study and pull the heavy walnut door nearly shut, leaving a narrow crack to watch the dark hall. Inside the study, the smoked-glass server rack hums steadily on its UPS battery backup, throwing a faint amber glow across the desk blotter. The room smells of warm dust and cedar shavings. Beside the keyboard, the heavy brass pipe wrench I left behind this morning still gleams dully in the amber LED light, though I don't trade the oyster knife for it; I need reach and speed, not dead weight.
 
-I ease backward down the deck steps, keeping my shoulders tight against the wet cedar siding as I skirt the blind north wall of the house toward the front turnaround. Rain whips sideways across the gravel. My soaked jeans chafe raw against my thighs with every step, and my waterlogged sneakers squelch softly on the pine needles.
+Julian leans against the doorframe, chest heaving, one hand pressed to his bruised cheekbone. "The hurricane shutters are locked onto the emergency loop. Without grid power, we can't raise them from the foyer, and the front deadbolt won't hold Cole for ten seconds if he takes a chair to the glass behind the slats."
 
-My silver 2014 Civic sits parked near the pines where I left it Tuesday, its trunk lid still popped slightly ajar in the mist. No cruiser sits in the driveway; Cole left his rig sideways across the causeway throat and hiked back up the ridge on foot. Even if I had a working key fob, there is nowhere left to drive.
+"We're not going out through the windows," I whisper, keeping the navy canvas duffel strapped tight across my back and the rusted oyster knife gripped in my right hand. "You built an acoustic house, Julian. Use it."
 
-I creep onto the front porch beneath the cedar overhang, staying low under the tall glass sidelights. Wind-driven rain drums against the slate steps behind me, masking the sound of my breathing. Inside, the foyer is dark. No shadows move across the slate, and no light bleeds from the living room arch. Down the north hall, a floorboard creaks softly near Julian's study—Evelyn checking the server rack, or hunting for the `RAW_BUFFER_OCT14_15` partition I copied this morning before bolting for the cove.
+I drop into the leather desk chair, wake the UPS-backed console monitor, and pull up the *Mercer Soundworks* zone router. Every speaker on the ground floor is dead except the basement array—which runs off Zone 4's dedicated battery bank. Even the exterior cellular bridge is dark without main power, meaning nothing uploads out tonight until we physically hand the drives to state police. A tiny green status line confirms the boathouse Bluetooth puck's live stream already mirrored straight onto the Zone 4 RAID drive twenty minutes ago. Evelyn's entire confession is sitting down there in the dark.
 
-I reach into my soaked front pocket, pull out the brass house key Julian gave me Monday night, and slide it into the deadbolt. My fingers are so stiff with cold I have to brace my thumb against the bow to turn it.
+I select `MIC_04_PANTRY_021407.wav`, set the output channel to `ZONE_4_DARKROOM_MONITORS`, and crank the gain to maximum. My thumb hovers over the trackpad for one beat. If Cole hears Evelyn's voice echoing from the basement, he won't check the kitchen closets—he'll charge straight down the concrete stairs to kill the playback before it can be copied again.
 
-The brass cylinder rotates with a faint, oiled click. I hold my breath, push the heavy door inward just wide enough to slip my shoulders through, and step onto the foyer slate. My wet sneakers squeak once against the stone—too loud in the quiet hall.
+"Hold the study door," I tell Julian, pointing toward the floor-to-ceiling walnut shelving in the corner. "When Evelyn comes up the hall, get behind the shelves and stay quiet. Do not come out until I call your name."
 
-I freeze beside the coat closet, listening. The foyer smells faintly of Julian's lemon oil and the brackish rainwater he swabbed off the slate at dawn. Down the hall, the guest suite door stands half-ajar; my faded navy duffel is still sitting beside the radiator with five thousand dollars in cash tucked under my spare shirts, useless if I don't survive the next hour. Nothing moves down the north corridor except the distant, steady hum of the study cooling fans.
+I hit `PLAY_LOOP`, then tap the monitor power button so the screen goes black. No amber glow to give Julian away if Evelyn steps into the doorway.
 
-I tuck the rusted oyster knife firmly into the waistband of my jeans so both hands are free, then glide silently across the foyer toward the kitchen arch. On the marble island sits the padded manila envelope from the basement—untouched, its *OCT 14 — MASTER BACKUP* stamp pale in the gray light. I leave it where it is for now; I can't climb a vertical iron shaft with a soaked manila folder tucked under my arm, and reaching the basement server to pull Evelyn's live Bluetooth confession is the only play that buries both of them.
+Down beneath our sneakers, muffled through two layers of cedar and concrete, Evelyn's recorded voice—clear, unhurried, laughing beside an oak oar—booms through the basement darkroom speakers.
 
-Halfway across the kitchen tile, crisp footsteps tap rapidly back down the north hall. Someone just shut the study server cabinet.
+Out in the foyer, Cole's flashlight beam jerks violently toward the basement stairwell door. He stops dead on the slate.
 
-Evelyn is coming out of the study.
+"Evie?" Cole shouts, confusion sharpening into raw panic as his own coastal drawl echoes faintly up through the floorboards beneath him. "She's back in Zone 4! She's playing the pantry tape!"
 
-I bolt the last few paces into the narrow cedar pantry corridor, yank the recessed spice-rack panel inward, and slip behind the shelving into the pitch-black dumbwaiter shaft just as a flashlight beam sweeps across the kitchen granite.
-
-***
-
-I pull the spice-rack door flush against its magnetic catch, sealing myself inside total darkness.
-
-The vertical shaft smells of dry cedar dust and machine oil, sharp with damp concrete rising from below. My breath plumes cold in the tight space. Every muscle in my back shivers uncontrollably, my wet flannel shirt clinging like ice to my ribs while my raw left wrist throbs in time with my pulse. Up above, Evelyn's footsteps stop right outside the pantry corridor, then turn away toward the living room.
-
-I grope with my left hand until my fingers close around the cold iron ladder rung bolted to the brick chimney chase. Slowly, testing every rung before shifting my weight, I start climbing down toward the basement acoustic darkroom. My soaked sneakers slip slightly on the rusted iron, forcing me to hook my elbows around the vertical rails until my boots find purchase again.
-
-Down below, the steady, muffled hum of the three redundant audio servers rises up the chute like the thrum of an engine room. If I can drop into Zone 4, pull the live Bluetooth buffer from the boathouse puck onto my matte-black thumb drive, and slip back up before Evelyn checks the stairwell—
-
-Heavy boots hit the front foyer slate overhead.
-
-Not Evelyn's crisp, light stride. Slow, heavy duty boots, followed by the metallic rattle of the front deadbolt being thrown from inside.
-
-Cole is back from the causeway.
-
-"She's not on the ridge road," Cole's thick coastal drawl carries faintly down through the cedar floor joists above me. "And the Civic's still sitting in the turnaround with the trunk popped. She didn't leave the point, Evie."
-
-I freeze halfway down the iron ladder, one sneakered foot braced on a rung, my teeth clamped hard together so they won't chatter. Salt water drips steadily from the hem of my soaked jeans, pattering softly onto the wooden dumbwaiter tray hanging in the darkness below me.
-
-"Check the study," Evelyn's voice answers, sharp and tight, footsteps crossing the kitchen tile directly above my head. "She copied the 2:14 AM pantry file off the tower before she bolted down to the cove. If she got back up the cliff, she's after the basement drive—or she's trying to unhook Julian from that radiator."
-
-"My wrist is bleeding through the damn gauze," Cole snaps, his boots thudding heavily toward the kitchen island. "And the salt water got into it down at the dock. If I find her, I'm not using zip ties."
-
-"Check the basement stairs first," Evelyn says. "Use your spare key on Zone 4—throw the exterior deadbolt on the steel door if she's inside and leave her there until high tide. Her spliced confession is already sitting in the county drop, and the bronze cleat is still in her spare-tire well."
-
-Cold sweat breaks across the back of my neck.
-
-If Cole walks down the basement stairs and checks Zone 4, he'll see the steel fire door standing open—or hear my soaked sneakers dripping inside the shaft. Worse, if he locks that exterior deadbolt from the stairwell, I'll be sealed inside the concrete vault with zero cell signal until Cole and Evelyn decide how to stage the bodies. I can't outrun a Glock in a concrete box, and I can't climb back into the kitchen while both of them are standing ten steps from the pantry door.
+Heavy boots thunder across the foyer slate toward the basement stairs, taking the landing in two loud bounds.
 
 ***
 
-I run my right hand slowly up the rough cedar framing beside the iron ladder, feeling blindly in the dark.
+I don't wait in the study. I slip into the dark north hall, skirt the stairwell landing while Cole's boots hammer downward into the basement, and feel my way along the cool wainscoting into the kitchen. Without a single standby LED, the room is ink-black. My hip grazes the limestone island corner before I find the narrow cedar doorway of the pantry corridor.
 
-Right beside my shoulder hangs a thick, braided hemp rope drawn taut over an overhead iron pulley wheel. Below the pulley, suspended inside a narrow wooden guide channel, hangs the manual dumbwaiter's heavy cast-iron counterweight—a solid block of pig iron used to balance loaded trays between the basement and the kitchen.
+Behind the recessed spice rack, the dumbwaiter shaft smells of cold concrete and machine oil, thick with settled dust from the dropped counterweight. I tuck the rusted oyster knife into my jeans waistband, grab the cold iron ladder rungs, and climb down fast into the pitch-black cellar. My raw left wrist burns against the metal, and the heavy duffel bangs awkwardly against the brick chimney chase behind my shoulders with every downward reach.
 
-A thick steel cotter pin locks the pulley wheel's brake arm into the shaft frame.
+Halfway down the shaft, the looped 2:14 AM WAV file swells louder—Evelyn's laugh echoing off soundproofed charcoal foam, followed by Cole's heavy voice cursing as he reaches the open steel fire door of Zone 4. His flashlight beam flickers across the far darkroom wall below me, throwing long jagged shadows off the server racks.
 
-Above me, the flush cedar door under the foyer stairs creaks open. Heavy boots pause on the top concrete landing. Cole's flashlight beam slices downward through the stairwell, though the thick cedar paneling of the shaft hides me completely for now.
+I drop softly off the bottom iron rung onto the darkroom concrete, keeping my knees bent to absorb the impact without a sound, and press my back flat against the charcoal foam panels just inside the northeast corner.
 
-"Julian's still cuffed to the sunroom radiator?" Cole calls back up from the landing, his voice echoing off the concrete stairs.
+Julian's acoustic dead-zone.
 
-"He's not going anywhere," Evelyn answers from the kitchen. "I checked the cuffs myself before I locked the slider. Get down there and check the server rack. If the Bluetooth puck in the boathouse was live, I want those drives wiped before we move them."
+The moment I step inside the corner angle, the booming speaker echo from the center of the room drops to a flat, eerie hush. Sound waves cancel out against the angled baffling here, swallowing my ragged breathing and the faint drip of seawater from my soaked jeans. It feels like stepping underwater without the cold—a pocket of dead air engineered to let Julian calibrate directional mics without room bounce.
 
-I brace my left forearm tight against the iron ladder rung, wrap my freezing right fingers around the steel cotter pin, and twist.
+Across the room, Cole's flashlight beam sweeps wildly across the three humming audio servers, the drafting table, and the open *ARCHIVE* cabinet. The shattered cast-iron counterweight still lies on the concrete sill beside the ladder behind him, surrounded by gray concrete dust. His left wrist is wrapped in blood-soaked gauze; in his right hand, he grips his duty pistol, turning in tight circles as he hunts the speaker throwing Evelyn's voice back at him.
 
-Salt rust fights me for half a second. My scraped palm slips once on the wet steel, sending a sharp sting up my wrist. I choke down a gasp, jam my thumb against the ring loop, and yank with every ounce of strength left in my shoulder.
+"Shut it off!" Cole roars at the dark, swinging his beam toward the center console. He steps over the fallen monitor cable, his heavy boots kicking a loose stool sideways across the floor.
 
-The steel pin pops free.
+Footsteps clatter fast down the basement stairs behind him.
 
-The braided hemp rope screams through the dry iron pulley wheel, throwing up a choking cloud of cedar dust and rust. The heavy cast-iron counterweight drops like a guillotine down the wooden guide channel and smashes straight into the basement concrete tray at the bottom of the shaft.
+Evelyn bursts through the Zone 4 doorway. She isn't holding the spare Glock—Cole must have taken it back or left her to grab whatever weapon sat closest in the study, because in her right hand she grips the heavy brass pipe wrench off Julian's desk blotter.
 
-*BOOM.*
+"Cole, it's a loop!" Evelyn snaps, sweeping her own small penlight across the foam walls. "She's not at the console—she triggered it from upstairs!"
 
-The impact shakes the entire cedar framing around me, rattling glass spice jars behind the pantry panel above and echoing like a shotgun blast up the brick chimney chase.
+I shift my weight slightly to draw the oyster knife from my waistband, and the brass zipper of my navy duffel scrapes faintly against the steel edge of the nearby archive rack.
 
-"What the hell was that?" Cole's voice echoes sharply from the basement stairs. Heavy boots immediately thunder downward two steps at a time, racing toward the Zone 4 steel fire door.
+Evelyn's penlight snaps straight toward the northeast corner.
 
-"Cole, wait—" Evelyn's crisp heels clatter across the slate toward the foyer stairwell door, drawn straight after him by the crash. She pauses only long enough to sweep her flashlight once toward the pantry doorway, then follows him down the concrete steps.
+She doesn't wait for Cole to turn his pistol. She lunges across the darkroom floor, swinging the heavy brass wrench in a flat, vicious arc straight at my head.
 
-I don't wait to hear the fire door slam. Coughing silently against my soaked sleeve to muffle the dust in my throat, I grab the iron rungs above my head and haul my waterlogged legs up the ladder as fast as my trembling muscles allow. My bruised knee bangs hard against the cedar framing. I shove the recessed spice-rack panel open and peer out through the crack.
+I duck low into the corner angle, pulling my shoulders tight into the acoustic foam. The dead-zone swallows the whisper of my dry wool sweater and the scrape of my sneakers on concrete. Because Evelyn lost my exact distance the instant my breathing vanished into the baffled corner, her aim goes wide.
 
-Empty kitchen. Gray storm light through the sunroom arch, catching the pale edge of the manila envelope on the island. Below the floorboards, muffled voices echo off concrete as Cole reaches the darkroom threshold.
+The heavy brass wrench whistles past my temple and smashes with a shower of blue sparks into the steel studio monitor behind me.
 
-I scramble out of the pantry corridor, pull the rusted oyster knife back out of my waistband just in case, and sprint silently across the tile toward the sunroom to free Julian before Evelyn realizes the basement crash was empty bait.
+***
+
+Glass explodes across the concrete. Cole spins blindly toward the crash, shouting Evelyn's name as his flashlight beam bounces off shattered monitor glass and blinds them both for a heartbeat.
+
+I don't give Evelyn a second swing. I yank the rusted oyster knife from my waistband, lunge forward under her raised arm, and slash hard across her waxed-canvas sleeve.
+
+Evelyn gasps, stumbling sideways into Cole's chest as the blade rips fabric and scores her forearm. The two of them collide in the dark, Cole's duty pistol knocking hard against the drafting table while he curses and tries to catch his balance without firing into her back.
+
+I spin past both of them, burst out through the open Zone 4 doorway into the basement stairwell, and grab the heavy steel fire door.
+
+"Clara!" Evelyn screams from inside the darkroom, scrambling off the floor while Cole fires one blind, deafening shot into the charcoal foam wall behind her.
+
+I throw my entire weight against the steel door. It swings fast on its heavy hinges and slams into the jamb with a bone-jarring *CLANG*—a fraction of a second after Evelyn throws herself out through the gap, colliding hard against the concrete stairwell wall—leaving Cole Halstead trapped inside alone.
+
+I yank the rusted **B-4** mortise key from my jeans pocket, jam it into the exterior brass cylinder, and throw the deadbolt home. Steel locks into steel.
+
+Inside Zone 4, Cole's heavy boots slam furiously against the reinforced door, his muffled shouts and the dull *thump* of his shoulder swallowed almost instantly by the charcoal foam. Without a phone or a key on the inside—and with the only spare B-4 key sitting warm in my pocket—he isn't coming out of that concrete box until someone unlocks this mortise cylinder from the hall.
+
+Evelyn doesn't stay to fight me on the stairs. She scrambles up the concrete steps ahead of me in the dark, her breathing ragged and fast, leaving her dropped brass wrench behind in the darkroom. One hand clamps over her bleeding forearm; the other clutches a small backup drive pulled from the study tower tucked inside her torn waxed-canvas jacket.
+
+I sprint up the stairs two at a time behind her, the heavy duffel banging hard against my ribs, my sneakers slipping once on the top landing before I shoulder the foyer basement door wide.
+
+When I burst out into the foyer, Julian is already emerging from the north hall, his eyes wide in the dark as he tries to track the commotion. Across the slate, Evelyn drags the heavy cedar foyer bench with scraping legs beneath the foyer skylight hatch—the one glass roof panel the exterior steel hurricane shutters couldn't cover when the breaker dropped.
+
+"Stop her!" I shout, lunging across the wet slate as Julian steps forward to block the hall. His bare hands come up empty.
+
+Evelyn doesn't look down. The cedar bench groans under her boots as she scrambles up, unlatches the brass skylight crank with blood-slick fingers, and shoves the heavy glass hatch upward into the howling gale. Freezing rain pours straight down onto the foyer slate, soaking her hair and shoulders in a heartbeat as she reaches for the slick cedar roof framing.
+
+Then, high above the dark spruce trees, blue-and-red light bars flare bright through the coastal fog, painting the wet skylight glass overhead in pulsing crimson and cobalt while twin sirens cut through the roar of the Atlantic gale.

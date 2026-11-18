@@ -68,11 +68,11 @@ He didn't hire me to bury a murder. He hired me as a human tripwire—and whoeve
 
 "Then explain the video," I say, my voice dropping low. "Because I saw the paused frame on your basement monitor, Julian. Two-fourteen in the morning. You in a hooded slicker, dragging a rolled canvas rug out of the sunroom toward the boathouse hatch."
 
-Julian shakes his head sharply. "That's what I've been trying to scrub out of the drive since last week! Somebody spoofed the exterior feed—or put someone my height in my spare foul-weather slicker and walked right in front of the infrared lens while the indoor array breaker was tripped. Look at the drafting table down there. Would a man who dumped his wife in a rug spend three weeks calculating whether a Boston Whaler could even clear the east shoal at high water?"
+Julian shakes his head sharply. "That's what I've been trying to scrub out of the drive since last week! Somebody spoofed the exterior feed—or put someone my height in my spare foul-weather slicker and walked right in front of the infrared lens while the indoor array breaker was tripped. Look at the drafting table down there. Would a man who dumped his wife in a rug spend three weeks calculating whether a fiberglass skiff could even clear the east shoal at high water?"
 
-I don't answer immediately. My thoughts race back to the darkroom—the loose right sleeve on the slicker, the 4:12 PM spectral-analysis render while Julian was ninety miles south on I-95, and the St. Andrews passport scan from Tuesday afternoon.
+I don't answer immediately. My thoughts race back to the darkroom—the loose right sleeve on the slicker, the 4:12 PM spectral-analysis render while Julian was ninety miles south on I-95, and the St. Andrews passport scan from Tuesday morning.
 
-"Evelyn's alive," I tell him flatly. "She scanned her own passport at a private marina in St. Andrews, New Brunswick, on Tuesday."
+"Evelyn's alive," I tell him flatly. "She scanned her own passport at a private marina in St. Andrews, New Brunswick, Tuesday morning."
 
 Julian stares at me as if the floor just dropped out from under him. "She's *alive*?"
 

@@ -72,9 +72,9 @@ A rusted brass mortise key, old teeth darkened with verdigris along the grooves,
 
 I stare at it sitting in the middle of the bleached cedar patch. Even the grease along the key's collar looks smudged, like someone handled it with wet or gloved fingers before it slipped down behind the trim.
 
-*Basement Zone 4.* The exact label that makes sense for the flush cedar door under the floating oak staircase—the acoustic darkroom Julian warned me would void my fifty-thousand-dollar contract the second I tripped its perimeter latch.
+*Basement Zone 4.* The exact label that makes sense for the steel fire door at the bottom of the stairwell under the floating oak staircase—the acoustic darkroom Julian warned me would void my fifty-thousand-dollar contract the second I tripped its perimeter latch.
 
-Why would a rusted key to Julian's high-security defense-patent darkroom be wedged *behind* a freshly bleached baseboard in the sunroom? And if that door down the hall really uses a modern electronic breach alarm, why does the basement lock still take an old-fashioned brass mortise key?
+Why would a rusted key to Julian's high-security defense-patent darkroom be wedged *behind* a freshly bleached baseboard in the sunroom? And if that steel door at the bottom of the basement stairs really uses a modern electronic breach alarm, why does its secondary mortise cylinder still take an old-fashioned brass key?
 
 ***
 
@@ -82,7 +82,7 @@ I don't pick the key up with bare fingers. Instead, I pull a clean square of aci
 
 Before I drop the wool rug back over the scarred wood, I take one more look at the corner where the key fell out. Look closely at the seam, and the logic falls apart in a way that makes the back of my neck go cold.
 
-If Julian dropped his own basement key behind the baseboard while scrubbing the floor, he would have pulled the trim off to get it back—not left a five-minute pry job unfinished right under a rug he knew I'd have to move to inventory. Which leaves two ugly possibilities: either someone *else* crept into this house after October fourteenth, scrubbed the floorboard, and lost the key while trying to hide it—or Julian didn't lose it at all. He knew I'd peel back this rug eventually.
+If Julian dropped his own basement key behind the baseboard while scrubbing the floor, he would have pulled the trim off to get it back—not left a five-minute pry job unfinished right under a rug he knew I'd have to move to inventory. Which leaves two ugly possibilities: either someone *else* crept into this house after October fourteenth, scrubbed the floorboard, and lost their only spare Zone 4 key while trying to hide the bleach—or Julian didn't lose it at all. He knew I'd peel back this rug eventually.
 
 I push the heavy wool rug back down flat against the cedar, line the coffee table leg back into its exact carpet indentation, and step out into the mudroom to grab my jacket off the foyer hook.
 

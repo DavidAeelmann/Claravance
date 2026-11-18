@@ -1,79 +1,73 @@
 # Chapter 18
 
-Evelyn was sitting in a damp cedar berth office in St. Andrews, New Brunswick, waiting for a private water-taxi captain to fuel his twin outboards, when her burner phone buzzed twice against the laminate counter.
+The brass padlock clatters against the cedar frame. Iron hinges groan as the double door swings inward, letting a cold wedge of gray gale light cut across the boathouse floor.
 
-She read Cole’s text once: *He didn't hire local movers. Brought in a woman from Portland named Clara Vance. Former Harbor Mutual fraud investigator. Already poking around the cove.*
+Deputy Cole Halstead steps over the threshold. A bundle of thick black zip ties hangs looped over his left forearm. In his right hand, he carries a heavy aluminum Maglite, thumb resting near the switch. He hasn't drawn his duty weapon yet; Evelyn told him the cleaner was already bound to the piling.
 
-Evelyn set her coffee cup down without spilling a drop. Cold rain rattled the single-pane window behind the counter, blurring the gray masts rocking in Passamaquoddy Bay.
+"Evelyn, Julian's cuffed to the—" Cole starts, his coastal drawl flat and unhurried.
 
-She had expected Julian to hire a bonded estate liquidator from Camden—someone with cardboard boxes, bubble wrap, and zero curiosity about why a dead woman’s life jacket smelled like municipal tap water. An insurance fraud investigator was another matter entirely. Investigators got paid to spot discrepancies, and Julian had hired one on purpose.
+"Watch her!" Evelyn snaps, swinging the Glock back toward the teak piling.
 
-She pulled up Clara Vance’s name in a cached search browser on her burner. Two minutes later, she had the outline: fired by Harbor Mutual after an unsubstantiated arson accusation, buried under the remainder of a forty-two-thousand-dollar civil judgment, living out of a duffel bag. Julian hadn't hired a cleaner. He had hired a cornered bloodhound who couldn't afford to walk away from a paycheck—and couldn't stop herself from pulling loose threads once she saw them.
+I don't wait. Waiting means dying on wet cedar planks with a zip-tied corpse story already typed on Evelyn's tablet. I drive off my knees with everything left in my calves, keeping low beneath the bait table's overhang as I vault forward across the damp decking before Evelyn can clear Cole's broad shoulder with her muzzle. My sneakers skid once on the wet moss, then catch.
 
-Which meant Julian wasn't just trying to bury his trust theft before probate. He was using an outsider to flush out the frame.
+Cole turns a half-beat too late. His left arm comes up instinctively to block my rush, and I slash the rusted oyster knife hard across the meat of his wrist.
 
-"Passport, miss," the water-taxi captain called from the marina desk, nodding toward the Canadian port security officer running a routine berth manifest audit on all departing vessels that morning.
+The pitted steel bites clean through his sheriff's windbreaker cuff and into flesh. Cole bellows, stumbling backward against the stacked lobster traps as dark blood wells instantly over his knuckles. The Maglite clatters across the cedar boards, rolling into the bilge shadow, while the bundle of zip ties scatters around his boots. My smartphone—still lying beneath the bottom trap—gets kicked deeper into the gloom under his heel. He grabs his bleeding wrist with his right hand, swearing foully as he blocks the narrow aisle between the workbench and the slipway.
 
-Evelyn hesitated for a fraction of a second. Her secondary papers were in the bottom of her duffel, buried beneath spare wool sweaters, and the pier gate officer was already eyeing the dock clock against the morning tide. If she delayed twenty minutes to dig out the alias folder, she missed the morning slack-water window down the Maine coast before dusk.
+Evelyn's Glock barks once, deafening inside the tight cedar box. Cordite and diesel fumes sting my nose. A splintered plank erupts beside my left shoulder, showering my cheek with wet sawdust, because Cole's bulk is still blocking half her lane and she has `E_MERCER_IPAD_MINI_02` tucked awkwardly under her left elbow. She shoves Cole's shoulder hard to clear a second shot, her face pale and furious in the gray doorway light.
 
-She slid her primary passport across the pier gate scanner instead. A routine berth audit in New Brunswick wouldn't ping Knox County Sheriff’s dispatch. Even if it logged on an automated border manifest, Cole would bury any inquiry at the county desk before a state trooper ever saw it.
+I don't waste a breath diving for my smartphone beneath the lobster traps. The raw 2:14 AM WAV file is already sitting on the matte-black thumb drive wedged tight inside my jeans watch pocket, and Evelyn's own boast just streamed live through the Bluetooth puck into the basement server. I won't survive long enough to hit send on a phone anyway.
 
-The crossing took nearly five hours down the coast in chopping gray swells, diesel exhaust hanging thick in the wheelhouse air. By Tuesday afternoon, Evelyn was back on Salt Point, dropped onto the slick granite shelf below the eastern headland before the fog closed in. She waited until the water taxi's wake dissolved into the white surf, slipped briefly into the empty house while Clara Vance was in town at the general store to test two crushed Ambien tablets in the master bath sink—leaving twenty-eight pills in the bottle—and then laid low in an abandoned gun battery on the eastern point overnight before creeping toward the cove at dawn on Wednesday.
-
-Down the shoreline, Maren Lindqvist’s oyster shack sat quiet, smoke curling thin and gray from the tin chimney. Maren had taken five thousand dollars in cash to keep her mouth shut; even if Clara Vance poked around the cove, Maren wouldn't risk her commercial license by naming names.
-
-Evelyn skirted the tide line, crept beneath the cedar eaves of the Mercer boathouse, and sliced the gray paint seam along the side casement window with a utility blade. The sash swung inward without a sound, leaving the rusted brass padlock on the main plank doors untouched. She climbed into the dark cedar loft behind the stacked lobster traps, pulled a dry wool blanket around her shoulders, and watched the back cliff stairs through the slats, patient as a heron.
+I spin toward the open slipway gap, tuck my chin, and throw myself sideways into the freezing cove channel.
 
 ***
 
-Late Wednesday afternoon, while Julian was still driving up from Portland and Clara Vance walked down the wet slate path toward Maren Lindqvist’s shack, Evelyn used the pantry keypad code to slip inside the empty glass house. Cole had already shoved her spare olive-canvas weekender—still clipped with its October 17 Bar Harbor ferry tag—deep behind Julian's coats on Sunday night after bleaching the sunroom floorboards, planting one more piece of bait in the foyer closet.
+Black Atlantic water swallows me whole.
 
-She didn't turn on a single overhead light. She moved along the cedar floorboards in dry socks, taking in the familiar scent of Julian’s unscented soap and lemon oil, undercut by stale bourbon from the study. The house felt different with a stranger living in it—chairs angled slightly off their marks, a mug left drying beside the sink.
+The cold hits like an iron bar across the ribs, driving the air straight out of my lungs. My jeans and dry spare sneakers instantly double in weight, dragging at my hips as I kick frantically beneath the surface. Above me, muted through the churning swell, heavy boots thunder across the boathouse planks. Another gunshot cracks—sharp and flat—followed by a dull *thwack* as a bullet punches into the harbor water behind my heels.
 
-Before touching the guest suite, she stepped upstairs into the master bath, shook two more Ambien tablets out of her prescription bottle—leaving twenty-six inside—and crushed them between two folded squares of tissue. Downstairs in the living room, she tipped the fine white powder into the left-hand cut-crystal rocks glass already set out on Julian's credenza tray—the pour he would hand straight to his new cleaner—and swirled a splash of bourbon over it until the residue settled pale at the bottom. Tonight, Clara would drink herself straight into a seven-hour blackout, and Julian wouldn't suspect a thing until the county deputy kicked in his door.
+The outgoing chop pulls hard at my legs, tugging me toward the barnacle-crusted pilings. I keep swimming blind under the dark timber beams, salt water searing the back of my throat with every kick, until my left shoulder scrapes rough granite. Salt fills my mouth. My fingers numb so fast I can barely tell if I'm still gripping the wooden handle of the oyster knife.
 
-In the guest suite, Clara’s faded navy duffel sat beside the cast-iron radiator, zipped neatly to the corner. A crumpled brown paper bag from the Salt Point general store sat wedged behind the radiator pipes—packing tape, cardboard boxes, nothing else Evelyn needed to touch. She knelt, unzipped the duffel's side pocket, and lifted out the spare silver Honda key fob. She left the five-thousand-dollar cash envelope untouched beneath the folded shirts. Money wasn't the bait anymore, and missing cash would only spook Clara into bolting for the causeway before the storm peaked.
+I break the surface gasping, clinging to the jagged rock shelf just north of Maren Lindqvist's shuttered oyster shack. Salt spray blinds my eyes. My teeth chatter so violently I nearly bite my tongue.
 
-She stepped quietly out onto the front gravel turnaround under cover of the coastal fog, tapped the trunk release on the fob, and shoved Clara’s spare key into her own waxed-canvas pocket. Clara’s 2014 Civic sat crooked near the turnaround pines, its rear bumper dusted with harbor grit and its muffler shield hanging slightly loose. From her waterproof dry-bag Evelyn pulled her own missing kelp-crusted duck boots, the mud-streaked navy nylon tote, and a bleach-stained boat rag wrapped tight around a rusted bronze cleat.
+Up at the boathouse, the double doors stand wide open. Cole's heavy silhouette fills the frame, his right hand clamped tight around his bleeding left wrist while Evelyn's pale face appears beside his shoulder, scanning the churning cove through the driving rain.
 
-She tucked all three deep into the Civic’s spare-tire well, beneath the carpet flap, and eased the trunk lid down just shy of the latch. No loud *clunk* to carry through the rain. Just a dark seam above the bumper—an invitation for Julian to look inside at dawn, or for Cole to pop open during a warrant sweep.
+"She went under the pilings!" Cole shouts over the surf. "Get up to the house—she doesn't have a car key, and the road's already going under!"
 
-The original plan—letting Julian hang alone in probate—was dead. Clara Vance knew about the trust shortfall, the sunroom floorboards, and the Montblanc. If Clara walked off Salt Point on Friday with her notes intact, the state police would tear Cole’s drowning report apart before sunset.
+I press flat against the wet kelp ledge until Evelyn turns back toward the cliff stairs, her waxed-canvas jacket disappearing into the mist. Cole lingers for three beats, cursing under his breath as he wraps a rag from his belt around his wrist, then cuts toward the gravel spur to seal off the ridge road.
 
-Evelyn slipped back out the service porch before Julian’s headlights hit the gate, climbed back into the dark boathouse loft, and powered on the directional Wi-Fi range extender Julian had mounted for cove telemetry. From the loft slats, her iPad Mini locked onto the house’s local smart-home mesh using her old admin credentials, keeping the tablet's cellular radio dark until morning. She needed a second body in the frame—someone desperate enough to take cash from a crooked widower and panic when the tide turned.
+I haul myself onto the slick granite shelf, shivering so hard my knees buckle twice against the stone. My left wrist—gashed deep by the rusted blade and frayed zip tie—throbs furiously where salt water hits the open cut. My fingers are stiff, blue-white around the knuckles, yet my right hand is still locked around the swollen oak handle of the rusted oyster knife.
 
-Julian’s own *Mercer Soundworks* acoustic engine made the job almost effortless. Because the house microphones isolated human speech from ambient rain before compressing the logs, Clara’s voice sat on its own clean frequency band. Evelyn pulled Clara’s vocal tracks from the Monday NDA intake and the Tuesday kitchen exchanges, loading them into a raw audio-stitching utility on the tablet. Over the next two hours, while rain drummed steadily against the boathouse shingles overhead, Evelyn clipped syllables, matched breathing pauses, and layered the track over the house’s rain-on-glass ambient noise bed.
+I press my left palm flat against my jeans watch pocket. Through the soaked denim, I feel the hard rectangular ridge of the encrypted matte-black thumb drive wedged tight in the coin seam. The **B-4** mortise key, brass front-door key, and pocket steel multi-tool still sit heavy in my front pocket beside the damp nitrile gloves and the soaked strip of Maren's tide chart.
 
-When she played it back through a single wired earbud, the forty-second confession sounded seamless—a cornered woman breaking down over helping Julian drag a body toward the cove.
+I don't have a phone, and I don't have a dry stitch of clothing. What I have is one shot to reach Julian's basement acoustic drive before Cole and Evelyn lock down the glass house and wait for high water to drown us both. Even if I tried to hike the shoreline north toward the mainland woods, the granite bluffs pinch off into sheer cliffs past the headland. There is no back road off Salt Point once the storm surge takes the causeway.
 
-*VANCE_CONFESSION_FINAL.wav.*
+I stumble across the crushed oyster shells toward Maren's dark shack, half-hoping to see her oilskin coat or a kerosene lamp behind the salt-crusted glass. The padlock on her shed door hangs tight. Her aluminum skiff sits chained high above the tide line, empty and dripping, and the gravel turnout beside her shack stands bare—no rusted pickup truck parked under the pines. Tire ruts cut fresh through the wet pine needles, pointing up toward the harbor road. Wherever Maren drove this afternoon, she left before the storm peaked. I pull the soaked tide-chart strip from my pocket, press it flat against the cedar clapboard, and scratch seven jagged words onto the blank reverse side with the point of the oyster knife—*CALL STATE POLICE — FRAME AT MERCER HOUSE*—before wedging the folded paper tight behind Maren's door latch where she can't miss it when she gets back.
 
-All she had to do was wake the cellular bridge within range of the house hub tomorrow morning, and the automated sync would push the file straight into the Knox County evidence drop.
+Behind me, white surf booms hard against the boathouse pilings, showering the oyster-shell apron with bitter spray. I turn toward the base of the cliff stairs, grip the wet granite rail, and start climbing.
 
 ***
 
-At 2:14 AM on Thursday, Evelyn slipped back inside the quiet house through the service porch and stood in the dark shadow of the kitchen island, expecting to find Clara knocked out upstairs and Julian asleep in his room—only to find Julian slumped flat on the living room sofa instead, his breathing slow and heavy beside the half-empty spiked glass he had poured for himself by mistake.
+The slate steps feel twice as steep going up with waterlogged sneakers and lead-heavy denim.
 
-A sharp metallic *click* echoed from the narrow pantry corridor.
+Halfway up the granite face, a gust off Penobscot Bay slams me flat against the wet stone wall. My scraped palm burns against the lichen. Cold rainwater streams down my neck inside my collar, soaking what little warmth my skin had left. Wind howls through the spruce trees along the ridge, carrying the steady, rhythmic boom of surf breaking over the outer rocks. Every breath tastes like iron and salt.
 
-Evelyn went completely still. She stepped silently to the pantry threshold and peered through the crack. The cedar spice rack swung inward on oiled hinges, revealing the black square of the old manual dumbwaiter shaft. A narrow beam of flashlight swung down into the gap, followed by the scrape of rubber soles against iron ladder rungs.
+Every step upward is a race against the clock in Evelyn's head. *5:15 PM.* High water over the causeway. If she and Cole seal the house before I can pull the live Bluetooth recording off the basement server—or trigger an emergency data dump from Julian's study—there won't be a single witness left alive when the storm clears at dawn. And if I don't get out of these soaked clothes and into cover soon, hypothermia will finish what Evelyn's Glock missed.
 
-Clara Vance had found the shaft.
+I crest the top slate tread, dropping low behind the sodden juniper bushes that border the back lawn. My ribs ache with every ragged inhale. Rainwater drips off my chin onto my soaked flannel shirt, and my teeth click together whenever I stop moving for more than two seconds. If I wait here in the wind, my hands will lock up too stiff to turn a key or swing a knife.
 
-Evelyn didn't curse, and she didn't rush. She waited until the muffled *thump* of Clara’s sneakers landing on the basement concrete echoed faintly up the chute. Then Evelyn swung the spice-rack panel shut, lifted a heavy oak kitchen chair off the tile so the legs wouldn't scrape, and wedged the chair back tight beneath the pantry doorframe latch. Nobody could push that panel open from inside the shaft.
+The Mercer Glass House looms out of the coastal fog like a dark lantern. No interior lights burn in the living room or the study. Through the gale-lashed mist, the cedar deck looks empty, though the back porch floodlight flickers once and dies as the wind rattles the grid. Above the roofline, spruce boughs whip sideways in the darkening twilight. Even the service porch keypad beside the kitchen door glows faint amber through the drizzle—one way in, if I can reach it before Evelyn steps out of the hallway.
 
-She moved quickly down the dark basement stairs, silent on the treads.
+I sprint across the wet grass in a low crouch, sneakers squelching softly against the soaked turf, and vault onto the cedar deck steps beside the sunroom. The heavy glass slider—the one I threw wide open before bolting down to the cove—now sits shut, its brass thumb-latch thrown from inside. Cole must have locked it behind me after he cuffed Julian and marched down to the boathouse. I test the outer handle gently without rattling the track. Dead solid.
 
-Through the heavy steel fire door of Zone 4, she could hear the faint rustle of paper—Clara rifling through Julian’s locked archive cabinet. Evelyn reached out, slid her spare key into the cold brass mortise cylinder, and threw the exterior deadbolt home.
+I press my shoulder against the cedar siding, wiping salt spray from my eyes with a freezing sleeve, and peer through the rain-streaked glass into the sunroom.
 
-Steel clicked into steel. No handle on the inside. No cell signal through three inches of acoustic foam; Evelyn had watched Julian test that soundproofed room a dozen times when he built his prototypes. Clara Vance would sit on that concrete floor until Julian woke up, or until the morning tide turned.
+Inside, the house looks cavernous and still, lit only by the gray storm glow bleeding through the tall ocean windows. The gray wool rug still lies crooked over the bleached cedar boards where I kicked it back yesterday. Beyond it, slumped sideways against the interior wall beneath the cast-iron baseboard radiator, sits Julian Mercer.
 
-Evelyn climbed back up to the foyer, cracked the front deadbolt just enough to leave the door unlatched when Julian woke up hungover at dawn—making sure he would step onto the porch and spot Clara's popped trunk—and slipped out the service porch into the freezing mist.
+His left wrist is locked to the iron radiator pipe with a pair of steel handcuffs. Dark bruising swells along his left cheekbone, and his charcoal merino sweater hangs torn at the collar where Cole dragged him out of the study. As my shadow crosses the glass, Julian's head jerks up. His gray eyes lock onto mine—wide, terrified, frantically shaking his head toward the front hall while his free hand taps silently against his chest in a sharp warning.
 
-Ten minutes later, she stood inside the dark boathouse, checking the magazine of the spare Glock service pistol Cole had stashed for her behind the yellow sea kayak. Above the cliff edge, the glass house looked peaceful in the pre-dawn gray—a trap with both mice already inside the box. She set her iPad Mini on the cedar workbench, armed its scheduled cellular sync for nine-fifteen, and checked the laminated NOAA tide table tacked beside the slipway door. High water would crest over the causeway road by dusk, sealing Salt Point off from the mainland.
+Evelyn is already inside the house. Or waiting just beyond the kitchen arch with Cole's pistol, watching the sunroom glass for my silhouette.
 
-If Cole arrived early with zip ties and his cruiser lights dark, they could stage Clara and Julian down by the cove slipway before the afternoon tide peaked. A suicide note drafted on Julian’s own tablet, a spliced confession already sitting in the county drop, and a rising Atlantic gale would scrub the rest clean before Augusta ever sent a diver.
+I drop lower beneath the sill, heart hammering hard against my ribs, and glance south across the open inlet toward the mainland road.
 
-Evelyn walked to the narrow casement window, looked up toward the dark ridge road, and thumbed open her burner phone. She typed ten words into a blank message to Cole and hit send.
-
-*The cleaner found the shaft. Come early. Bring zip ties.*
+White foam surges wildly across the low-lying asphalt of the tidal causeway, swallowing the steel guardrails in gray-green chop. Right at the throat of the flooded road, blocking both lanes from shoulder to shoulder, sits Deputy Cole Halstead's sheriff's cruiser—parked dead sideways across the asphalt, light bar dark, sealing Salt Point off from the mainland. Nobody drives in. Nobody drives out.

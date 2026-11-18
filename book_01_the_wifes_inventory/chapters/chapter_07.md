@@ -18,7 +18,7 @@ Still, the relief doesn't last long enough to catch my breath. Yesterday I thoug
 
 I walk slowly down the oak treads to the foyer first, before touching a single sweater upstairs.
 
-Underneath the floating staircase, the flush cedar door to Basement Zone 4 sits sealed tight. Beneath the matte brass knob, a tiny pinpoint LED embedded in the trim glows steady red—armed, hardwired straight into the Mercer Soundworks security hub. Even with the rusted B-4 key wrapped inside my waxed jacket pocket on the foyer peg, shoving old brass into that mortise cylinder right now will fire an instant breach ping straight to Portland *and* Julian's phone.
+Underneath the floating staircase, I crack the unlocked cedar stairwell door an inch and peer down the concrete steps at the heavy steel fire door of Basement Zone 4. Beneath its matte brass mortise knob, a tiny pinpoint LED embedded in the steel frame glows steady red—armed, hardwired straight into the Mercer Soundworks security hub. Even with the rusted B-4 key wrapped inside my waxed jacket pocket on the foyer peg, shoving old brass into that lower mortise cylinder right now will fire an instant breach ping straight to Portland *and* Julian's phone.
 
 I crouch beside the cedar seam, listening. Nothing moves behind the insulated paneling. No server fan hum, no footsteps. Yet last night during the power flicker, that wall tablet beside the pantry logged **PERIMETER BYPASS ACTIVE** before Julian wiped the screen. If I'm going into that room before Thursday night, I have to figure out how someone bypassed the door without touching this deadbolt.
 

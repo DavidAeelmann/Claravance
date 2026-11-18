@@ -42,15 +42,15 @@ Instead, the steel surface is buried under three weeks of frantic paper, stacked
 
 A laminated Maine coastal tide chart lies weighted at the corners with brass acoustic weights, October fourteenth's 2:14 AM high-water mark circled twice in red felt-tip pen. Beside it sits a thick printout of Salt Point Harbor VHF repeater logs, with yellow highlighter dragged across every dead-carrier squelch burst between one-thirty and three in the morning—the exact anomaly Maren Lindqvist warned me Evelyn asked about two days before the storm. Marginalia in Julian's sharp handwriting flags a forty-second gap where the harbor transponder signal dropped cleanly off the coastal tower without a single power-loss error code. Beneath the repeater sheets lies a printed Coast Guard search-and-rescue drift grid, with red arrows sketched by hand showing how a swamped hull would drift northwest toward the outer bell buoy rather than wash back into the cove. A cold ceramic coffee mug sits half-empty near the edge, a dry ring of grounds crusted inside the rim, beside a worn silver mechanical pencil with its eraser chewed flat.
 
-Under the corner of the tide table lies a yellow legal pad covered in Julian's neat, cramped block handwriting—columns of boat-hull draft depths compared against the granite ledge depth at low water, tide-current drift estimates in knots, and fuel-burn tables for a twin-outboard skiff running without navigation lights. At the bottom of the page sits a single underlined question scrawled hard enough to dent the paper below:
+Under the corner of the tide table lies a yellow legal pad covered in Julian's neat, cramped block handwriting—columns of boat-hull draft depths compared against the granite ledge depth at low water, tide-current drift estimates in knots, and fuel-burn tables for a single-outboard fiberglass skiff running without navigation lights. At the bottom of the page sits a single underlined question scrawled hard enough to dent the paper below:
 
-*How did the Whaler clear the outer bar at 2:14 without hitting the east shoal?*
+*How did the Mercer skiff clear the outer bar at 2:14 without hitting the east shoal?*
 
 My chest tightens.
 
-If Julian Mercer dragged Evelyn's body out of the sunroom in a rolled canvas rug at 2:14 AM, why is he sitting in a soundproofed cellar three weeks later calculating whether a Boston Whaler could clear the east shoal at high tide? A killer who dumped his wife off the outer ledge doesn't spend hours poring over Coast Guard drift grids and harbor repeater logs trying to figure out where his own boat went. Unless the man on that infrared video isn't the one who took the boat out—or unless Julian is building a paper defense so thick he can fool a Boston grand jury. Every scrap of paper on this steel table reads less like a killer's trophy stash and more like a cornered man trying to reconstruct how his own wife vanished off his own dock.
+If Julian Mercer dragged Evelyn's body out of the sunroom in a rolled canvas rug at 2:14 AM, why is he sitting in a soundproofed cellar three weeks later calculating whether a fiberglass skiff could clear the east shoal at high tide? A killer who dumped his wife off the outer ledge doesn't spend hours poring over Coast Guard drift grids and harbor repeater logs trying to figure out where his own boat went. Unless the man on that infrared video isn't the one who took the boat out—or unless Julian is building a paper defense so thick he can fool a Boston grand jury. Every scrap of paper on this steel table reads less like a killer's trophy stash and more like a cornered man trying to reconstruct how his own wife vanished off his own dock.
 
-And yet the timing still doesn't add up. If Evelyn scanned her passport in New Brunswick yesterday afternoon—and if Cole Halstead already holds administrator PINs to the house—then someone else has been using this basement too.
+And yet the timing still doesn't add up. If Evelyn scanned her passport in New Brunswick Tuesday morning—and if Cole Halstead already holds administrator PINs to the house—then someone else has been using this basement too.
 
 I glance back across the room toward the glowing left-hand monitor.
 
@@ -72,7 +72,7 @@ Time is running out. My soles are damp from the cold concrete edge near the wall
 
 I slide the flat steel tip into the narrow seam between the cabinet door and its steel frame, just above the chrome cam latch, and brace my left shoulder against the side panel. Cold enamel bites through my flannel sleeve. I throw my weight into the handle, twisting the multi-tool slowly so the blade won't snap against the hardened lock plate. For two endless seconds, the steel resists, my fingers cramping around the folded handle as sweat cools down my spine. Then the metal groans softly—once, twice—before the cheap cam tongue bends inward with a sharp *snap* of yielding steel that sounds deafeningly loud inside the foam-lined room.
 
-I freeze for three heartbeats, holding my breath, waiting for footsteps above the joists or a floorboard creak in the foyer. Even the server rack's steady fan hum suddenly feels too quiet, as if the whole house is holding its breath right above my head. Nothing moves.
+I freeze, holding my breath, waiting for footsteps above the joists or a floorboard creak in the foyer. Even the server rack's steady fan hum suddenly feels too quiet, as if the whole house is holding its breath right above my head. Nothing moves.
 
 I pull the gray door open, catching the edge with my fingertips so the bent latch doesn't scrape back against the frame.
 

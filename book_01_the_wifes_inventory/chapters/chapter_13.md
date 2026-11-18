@@ -28,13 +28,13 @@ I unfold the narrow utility blade on my multi-tool and slice cleanly beneath the
 
 ***
 
-Inside the padded kraft sleeve sit three items: a bound sheaf of notarized financial schedules, a heavy spiral-bound printout of raw acoustic transcripts, and a matte-black encrypted thumb drive taped to a yellow index card.
+Inside the padded kraft sleeve sit four items: a bound sheaf of notarized financial schedules, three cleanly sliced cream-rag sketchbook pages, a heavy spiral-bound printout of raw acoustic transcripts, and a matte-black encrypted thumb drive taped to a yellow index card.
 
-I spread the financial sheaf across the steel worktable under the blue monitor wash first.
+I spread the financial sheaf and the loose sketchbook sheets across the steel worktable under the blue monitor wash first.
 
-Every page bears the raised notary seal of a Boston firm dated October tenth—four days *before* the storm. Not Julian's frantic post-disappearance scrambling. These are original wire receipts, bridge-loan ledger sheets, and signed trust-collateral transfers showing Julian Mercer systematically draining $2,400,000 out of The Evelyn Mercer Irrevocable Trust over fourteen months to keep Mercer Soundworks afloat while his acoustic patent stalled in federal review. Six separate wire draws carry Evelyn's secondary signatory initials in cramped blue ink—each stroke slightly stiff, traced over pencil guidelines still faintly visible under the glare of the monitor.
+Every financial page bears the raised notary seal of a Boston firm dated October tenth—four days *before* the storm. These are original wire receipts, bridge-loan ledger sheets, and signed trust-collateral transfers showing Julian Mercer systematically draining $2,400,000 out of The Evelyn Mercer Irrevocable Trust over fourteen months to keep Mercer Soundworks afloat while his acoustic patent stalled in federal review. Six separate wire draws carry Evelyn's secondary signatory initials in cramped blue ink—each stroke slightly stiff, traced over pencil guidelines. Beside them lie the three missing pages sliced from Evelyn's studio sketchbook, covered in dozens of penciled practice tracings of her own stiffened *E.M.* initials—as if someone deliberately practiced faking a clumsy forgery.
 
-Julian didn't just miss a payment. He forged Evelyn's signature on six staggered transfers, and the October tenth audit packet proves he knew the Boston trustees were days away from uncovering the deficit before Evelyn ever stepped onto a dock. Anyone at Suffolk County DA's office holding these notarized sheets wouldn't need a murder body to put Julian Mercer in state prison for wire fraud—the paper trail alone is a ten-year sentence.
+Julian didn't just miss a payment. Someone in this house was either building a paper trail to frame him for forgery on top of embezzlement, or Julian locked both the audit packet and Evelyn's practice sheets together because he couldn't explain either one without going to prison for wire fraud.
 
 I set the notarized sheets aside and flip open the spiral-bound printout.
 
@@ -44,16 +44,16 @@ I turn to the 02:14 AM tab, squinting at the dense columns of decibel spikes and
 
 Half the lines are buried under `[GALE GUST — 42 KT]` and `[RAIN IMPACT — GLASS]`, yet three fragments jump off the page in bold type:
 
-> `02:14:09 [SUNROOM_EAST]` — *Speaker A (Muffled):* "...told you not to leave the key on the hook—"
-> `02:14:17 [SUNROOM_EAST]` — *Speaker B (Low):* "Drop the bag. Tide's already turning at the point."
-> `02:14:31 [BOATHOUSE_LINT]` — *Speaker A:* "—can't take the Whaler if the—"
+> `02:14:09 [SUNROOM_EAST]` — *Speaker A (Muffled):* "...careful with the varnish—"
+> `02:14:17 [SUNROOM_EAST]` — *Speaker B (Low):* "Nobody's checking the oarlocks at five in the morning—"
+> `02:14:31 [BOATHOUSE_LINT]` — *Speaker A:* "—leave the Montblanc on the—"
 > `02:14:44 [BOATHOUSE_LINT]` — `[METALLIC LATCH IMPACT — 68 dB // SIGNAL CLIPPED]`
 
 After 02:14:44, the transcript drops into six minutes of dead static—every microphone channel cut simultaneously at the main breaker before resuming at 02:21:02 with nothing but empty rain beating against the cove pilings.
 
-I sit back slowly on the edge of the rolling studio stool, staring at the paper until the lines blur. Even the acoustic hydrophone anchored out in the cove channel logged a brief rhythmic oar-splash at 02:18:11—four minutes *after* the sunroom latch slammed—before the gale surge drowned the sensor out. Whoever rowed out into that cove didn't start the Boston Whaler's twin outboards at the dock; they pulled away silently on oars under cover of the blackout, waiting until they cleared the point before firing the engine or cutting the transponder.
+I sit back slowly on the edge of the rolling studio stool, staring at the paper until the lines blur. Even the acoustic hydrophone anchored out in the cove channel logged a brief rhythmic oar-splash at 02:18:11—four minutes *after* the sunroom latch slammed—before the gale surge drowned the sensor out. Whoever rowed out into that cove didn't start the Mercer skiff's outboard at the dock; they pulled away silently on oars under cover of the blackout, waiting until they cleared the point before firing the engine or cutting the transponder.
 
-Two people were standing inside the sunroom and boathouse corridor at 2:14 AM during the storm—arguing over a boat key and a bag—seconds before someone killed the array at the breaker box. Yet on the drafting table across the room, Julian spent three weeks frantically calculating *how* a Boston Whaler could clear the east shoal without running aground.
+Two people were standing inside the sunroom and boathouse corridor at 2:14 AM during the storm—moving varnished oars and mentioning a fountain pen—seconds before someone killed the array at the breaker box. Yet on the drafting table across the room, Julian spent three weeks frantically calculating *how* a fiberglass skiff could clear the east shoal without running aground.
 
 If Julian was one of those voices—if he killed his wife at 2:14 AM—why would he keep notarized proof of his own $2.4M felony locked in the same cabinet as an unedited transcript of the crime? Unless someone else is building a frame—or unless this cellar is both a vault and a deliberate puzzle box left for whoever finally pried that locker open.
 

@@ -1,89 +1,93 @@
 # Chapter 19
 
-I don't argue with a matte-black Glock pointed at my sternum.
+Dusk drops over Salt Point like a wet wool blanket, turning the gale-lashed fog around the glass house the color of bruised slate.
 
-I lower my smartphone slowly, crouch beside the scarred workbench, and set the phone face-down on the damp cedar planks. The cold wood bites through my sneakers. My scraped palm stings where I caught myself on the granite cliff stairs, and the salt wind pouring through the open casement behind me raises goosebumps along my forearms.
+I stay crouched beneath the sunroom sill until the cold starts locking the muscles in my calves. Julian is still slumped against the interior cast-iron radiator, his bruised face pale in the storm gloom, his eyes fixed on the front hall arch. He doesn't dare look back at the glass again.
 
-"Back away from it," Evelyn says. She doesn't blink, and the muzzle doesn't waver by a hair. "Hands where I can see them. Move toward the slipway piling."
+Every second I wait out here on the cedar deck, Cole Halstead is walking closer up the gravel spur from the flooded causeway.
 
-I step backward two paces, keeping my palms open at shoulder height. Evelyn steps forward, kicks my phone briskly across the boards until it slides to a stop beneath the stacked lobster traps, and grabs a thick black marine cable tie from an open plastic bin on the bench. All my decrypted audio—the 2:14 AM WAV file from the pantry, the Portland cloud links—sits under those traps, useless unless I walk out of here upright.
+I ease backward down the deck steps, keeping my shoulders tight against the wet cedar siding as I skirt the blind north wall of the house toward the front turnaround. Rain whips sideways across the gravel. My soaked jeans chafe raw against my thighs with every step, and my waterlogged sneakers squelch softly on the pine needles.
 
-"On your knees," she orders. "Back against the teak piling. Hands behind it."
+My silver 2014 Civic sits parked near the pines where I left it Tuesday, its trunk lid still popped slightly ajar in the mist. No cruiser sits in the driveway; Cole left his rig sideways across the causeway throat and hiked back up the ridge on foot. Even if I had a working key fob, there is nowhere left to drive.
 
-There is no cover between me and the open harbor water slapping the slipway beams. If I lunge, she shoots me at point-blank range and tells Cole the cleaner charged her. I drop onto the wet planks beside the heavy teak piling that anchors the edge of the bait table. Salt dampness soaks straight through the knees of my jeans.
+I creep onto the front porch beneath the cedar overhang, staying low under the tall glass sidelights. Wind-driven rain drums against the slate steps behind me, masking the sound of my breathing. Inside, the foyer is dark. No shadows move across the slate, and no light bleeds from the living room arch. Down the north hall, a floorboard creaks softly near Julian's study—Evelyn checking the server rack, or hunting for the `RAW_BUFFER_OCT14_15` partition I copied this morning before bolting for the cove.
 
-Evelyn steps behind the piling, keeping the pistol pressed hard against the back of my skull while her left hand yanks my wrists together behind the rough timber. She loops the black nylon tie around both wrists, cinches it through the ratchet teeth, and pulls until the plastic bites deep into my skin. My shoulders wrench back at a sharp angle. The piling reeks of creosote and rotting kelp, sharp against the wet cedar. I test the nylon once with my thumbs—zero give, locked down tight enough to cut off circulation to my fingers within minutes.
+I reach into my soaked front pocket, pull out the brass house key Julian gave me Monday night, and slide it into the deadbolt. My fingers are so stiff with cold I have to brace my thumb against the bow to turn it.
 
-"Cole will be down here as soon as he finishes clearing your pathetic little distraction at the front door," Evelyn says, stepping back around the piling where she can watch both me and the double doors. She sets the pistol down for half a second—never out of reach of her right hand—and picks up a sleek iPad Mini from the workbench.
+The brass cylinder rotates with a faint, oiled click. I hold my breath, push the heavy door inward just wide enough to slip my shoulders through, and step onto the foyer slate. My wet sneakers squeak once against the stone—too loud in the quiet hall.
 
-`E_MERCER_IPAD_MINI_02.` The same burner tablet that just uploaded my fabricated confession to the county evidence drop.
+I freeze beside the coat closet, listening. The foyer smells faintly of Julian's lemon oil and the brackish rainwater he swabbed off the slate at dawn. Down the hall, the guest suite door stands half-ajar; my faded navy duffel is still sitting beside the radiator with five thousand dollars in cash tucked under my spare shirts, useless if I don't survive the next hour. Nothing moves down the north corridor except the distant, steady hum of the study cooling fans.
 
-She wakes the screen, opens a blank document, and begins tapping with crisp, unhurried thumbs.
+I tuck the rusted oyster knife firmly into the waistband of my jeans so both hands are free, then glide silently across the foyer toward the kitchen arch. On the limestone island sits the padded manila envelope from the basement—untouched, its *OCT 14 — MASTER BACKUP* stamp pale in the gray light. I leave it where it is for now; I can't climb a vertical iron shaft with a soaked manila folder tucked under my arm, and reaching the basement server to pull Evelyn's live Bluetooth confession is the only play that buries both of them.
 
-"What are you writing?" I ask, keeping my voice flat so she doesn't hear how hard my ribs are hammering.
+Halfway across the kitchen tile, crisp footsteps tap rapidly back down the north hall. Someone just shut the study server cabinet.
 
-"Julian's apology," Evelyn replies without looking up. "He's terribly sorry about the two point four million. Even sorrier that the woman he hired to scrub the house panicked when the sheriff's deputy showed up at the door."
+Evelyn is coming out of the study.
 
-***
-
-My wrists throb, already going numb from the tight nylon bite. Every muscle in my back cramps against the rough teak, and my dry sneakers slip slightly on the wet moss coating the cedar planks as I try to take weight off my knees.
-
-I shift my hips slightly to ease the pressure on my shoulders, and my right knuckles brush the splintered wooden lip of the bait table bolted right beside the piling. Something cold and jagged pricks the heel of my hand.
-
-I freeze, keeping my face angled up toward Evelyn so she doesn't see my shoulders tense.
-
-Wedged deep into a split seam along the underside of the bait table rail sits an old rusted oyster knife—short, thick steel blade, swollen oak handle jammed tight by years of salt crust.
-
-I don't touch it yet. Instead, I let my eyes drop toward the lower leg of the bait table, just beside my left boot. Mounted to the cedar brace sits a small matte-black *Mercer Soundworks* Bluetooth intercom puck—the exact same low-power relay unit Julian installed in the pantry and the basement. A tiny blue LED glows steadily beneath its plastic rim.
-
-Active. Paired straight to the house's acoustic server, which automatically logs any live voice pickup whenever the relay stays open.
-
-Evelyn doesn't notice it under the shadow of the table lip. Why would she? She spent three weeks in New Brunswick and two days in the loft above my head, assuming Julian's smart-home array was just a passive trap she could turn against him.
-
-If Cole walks through that door with a second set of zip ties, the blue LED won't save me. I need Evelyn talking—and I need my hands free before Cole turns the latch.
-
-"We already decrypted the pantry mic, Evelyn," I say, letting a thin edge of contempt bleed into my voice. "We heard you laughing with Cole at two-fourteen in the morning while wiping down an oar. And you made a mistake in St. Andrews. You scanned your real passport at the marina desk. That ping hit an insurance-database watch before you even crossed Passamaquoddy Bay."
-
-Evelyn's thumbs pause on the glass screen. She looks up at me, her dark eyes cool and amused.
-
-"You think a pantry recording or a private marina manifest in New Brunswick matters once the tide comes in?" she asks. "Nobody in Augusta is going to subpoena Canadian ferry logs for a dead fraud investigator and an embezzler who walked into the Atlantic together."
-
-"The Coast Guard—"
-
-"Won't even launch a boat until tomorrow morning," Evelyn cuts in, stepping two paces closer to the bait table so she can lean one hip against the edge. Right above the glowing blue intercom puck. "High water crests over the causeway at five-fifteen. By the time state police reach the headland, you and Julian will already be drifting past the outer shoal."
-
-She says it cleanly, without a trace of doubt, like she's reading off an invoice. Every syllable carries straight into the open mic beneath her hip, streaming back to the basement server Julian locked behind steel—assuming Julian hasn't already been cuffed by Cole upstairs. Behind my left shoulder, black harbor water swells and sucks against the timber slipway planks, freezing and deep enough to swallow a boat hook whole. If I get these wrists free, the channel is my only exit.
-
-"You didn't even leave the life jacket salty," I push, shifting my wrists quietly higher behind the piling until the taut nylon ridge between my palms presses squarely against the rusted steel edge of the oyster knife. "Cole soaked it in the mudroom sink with tap water. That's sloppy, Evelyn. Even a rookie medical examiner checks for salt residue."
-
-Evelyn smiles—a thin, cold curve of her mouth. "Cole wrote the report, Clara. There won't be a second medical examiner, because there won't be a body until the crabs are finished with it. Everything you cataloged in that house was staged to trigger a Slayer Statute forfeiture and buy me time until the insurance trust cleared."
+I bolt the last few paces into the narrow cedar pantry corridor, yank the recessed spice-rack panel inward, and slip behind the shelving into the pitch-black dumbwaiter shaft just as a flashlight beam sweeps across the kitchen limestone.
 
 ***
 
-The rusted blade bites into the thick nylon cable tie. Once. Twice.
+I pull the spice-rack door flush against its magnetic catch, sealing myself inside total darkness.
 
-The plastic is tough, built to hold heavy oak lobster traps together in winter surf, and my wrists are slick with sweat and cold sea air. Every time I saw my hands downward across the pitted steel, the piling vibrates faintly against my spine. I keep my jaw loose, my shoulders dropped, and my breathing steady so Evelyn doesn't spot the rhythm in my arms. Keep her talking. Keep her ego feeding that blue LED under the bait table.
+The vertical shaft smells of dry cedar dust and machine oil, sharp with damp concrete rising from below. My breath plumes cold in the tight space. Every muscle in my back shivers uncontrollably, my wet flannel shirt clinging like ice to my ribs while my raw left wrist throbs in time with my pulse. Up above, Evelyn's footsteps stop right outside the pantry corridor, then turn away toward the living room.
 
-"Why me?" I ask, watching her fingers return to the tablet screen. "You had Julian cornered. Why drag an outsider onto the rock?"
+I grope with my left hand until my fingers close around the cold iron ladder rung bolted to the brick chimney chase. Slowly, testing every rung before shifting my weight, I start climbing down toward the basement acoustic darkroom. My soaked sneakers slip slightly on the rusted iron, forcing me to hook my elbows around the vertical rails until my boots find purchase again.
 
-"Because Julian hired you," Evelyn says, tapping out another line of his fake suicide note. "I couldn't have a former Harbor Mutual fraud investigator walking back across that causeway with photos of my floorboards and an unedited acoustic drive in her pocket. You had eighteen thousand dollars in court debt and a fired investigator's record, Clara. You made yourself the perfect accomplice the day you signed that NDA for five grand in cash."
+Down below, the steady, muffled hum of the three redundant audio servers rises up the chute like the thrum of an engine room. If I can drop into Zone 4, pull the live Bluetooth buffer from the boathouse puck onto my matte-black thumb drive, and slip back up before Evelyn checks the stairwell—
 
-A sharp strand of nylon parts beneath my wrists. The tie loosens by a hair, biting slightly less into my left thumb, though creosote and salt grit sting the raw skin along my forearm. Cold spray mists upward through the gaps in the slipway planks beneath my sneakers, soaking my ankles while the outgoing tide sucks hard at the pilings below.
+Heavy boots hit the front foyer slate overhead.
 
-Evelyn glances down at the iPad, then reads aloud in a dry, mocking cadence: *"I couldn't bear what I did to Evelyn, and when Miss Vance threatened to go to the state police unless I tripled her fee, I panicked—"*
+Not Evelyn's crisp, light stride. Slow, heavy duty boots, followed by the metallic rattle of the front deadbolt being thrown from inside.
 
-She stops mid-sentence, tilting her head slightly as a gust rattles the corrugated tin roof overhead and shakes loose a shower of pine needles along the eaves.
+Cole is back from the causeway.
 
-I saw hard against the rusted steel while her eyes are off my shoulders. Another two strands snap cleanly. Warm blood wells fast along my left wrist where the jagged nylon and rusted steel slice deep into the skin above my palm, giving me just enough slack to twist my fingers toward the swollen oak handle wedged in the bait table seam.
+"She's not on the ridge road," Cole's thick coastal drawl carries faintly down through the cedar floor joists above me. "And the Civic's still sitting in the turnaround with the trunk popped. She didn't leave the point, Evie."
 
-"You're really going to let Cole take half your father's trust?" I ask, stalling for a few more seconds, praying the frayed center core of the zip tie gives way before the cliff stairs creak. "He's a county deputy with a crooked tooth and a gambling debt. Once Julian's dead, Cole owns you."
+I freeze halfway down the iron ladder, one sneakered foot braced on a rung, my teeth clamped hard together so they won't chatter. Salt water drips steadily from the hem of my soaked jeans, pattering softly down into the empty concrete shaft below me.
 
-Evelyn's jaw hardens. She takes one step toward me, raising the Glock until the dark muzzle aims straight between my eyes. "Cole knows what happens to people who—"
+"Check the study," Evelyn's voice answers, sharp and tight, footsteps crossing the kitchen tile directly above my head. "She copied the 2:14 AM pantry file off the tower before she bolted down to the cove. If she got back up the cliff, she's after the basement drive—or she's trying to unhook Julian from that radiator."
 
-Outside the north wall of the boathouse, heavy boots crunch hard across the crushed oyster shells.
+"My wrist is bleeding through the damn gauze," Cole snaps, his boots thudding heavily toward the kitchen island. "And the salt water got into it down at the dock. If I find her, I'm not using zip ties."
 
-Once. Twice. Deliberate, unhurried strides coming down from the cliff stairs, followed by the rattle of a sheriff's key ring and the metallic *clink* of a padlock key sliding into brass.
+"Check the basement stairs first," Evelyn says. "Use your spare key on Zone 4—throw the exterior deadbolt on the steel door if she's inside and leave her there until high tide. Her spliced confession is already sitting in the county drop, and the bronze cleat is still in her spare-tire well."
 
-Evelyn turns her head and right shoulder toward the double doors as the heavy iron latch rattles from outside, shifting her weight off her heels for half a second.
+Cold sweat breaks across the back of my neck.
 
-I yank my wrists apart with everything left in my shoulders. The frayed nylon zip tie snaps clean, and my right hand closes tight around the swollen oak handle of the rusted oyster knife wedged beneath the rail.
+If Cole walks down the basement stairs and checks Zone 4, he'll see the steel fire door standing open—or hear my soaked sneakers dripping inside the shaft. Worse, if he locks that exterior deadbolt from the stairwell, I'll be sealed inside the concrete vault with zero cell signal until Cole and Evelyn decide how to stage the bodies. I can't outrun a Glock in a concrete box, and I can't climb back into the kitchen while both of them are standing ten steps from the pantry door.
+
+***
+
+I run my right hand slowly up the rough cedar framing beside the iron ladder, feeling blindly in the dark.
+
+Right beside my shoulder hangs a thick, braided hemp rope drawn taut over an overhead iron pulley wheel. Below the pulley, suspended inside a recessed side channel beside the iron rungs, hangs the manual dumbwaiter's heavy cast-iron counterweight—a solid block of pig iron left behind when the old cab was stripped out.
+
+A thick steel cotter pin locks the pulley wheel's brake arm into the shaft frame.
+
+Above me, the flush cedar door under the foyer stairs creaks open. Heavy boots pause on the top concrete landing. Cole's flashlight beam slices downward through the stairwell, though the thick cedar paneling of the shaft hides me completely for now.
+
+"Julian's still cuffed to the sunroom radiator?" Cole calls back up from the landing, his voice echoing off the concrete stairs.
+
+"He's not going anywhere," Evelyn answers from the kitchen. "I checked the cuffs myself before I locked the slider. Get down there and check the server rack. If the Bluetooth puck in the boathouse was live, I want those drives wiped before we move them."
+
+I brace my left forearm tight against the iron ladder rung, wrap my freezing right fingers around the steel cotter pin, and twist.
+
+Salt rust fights me for half a second. My scraped palm slips once on the wet steel, sending a sharp sting up my wrist. I choke down a gasp, jam my thumb against the ring loop, and yank with every ounce of strength left in my shoulder.
+
+The steel pin pops free.
+
+The braided hemp rope screams through the dry iron pulley wheel, throwing up a choking cloud of cedar dust and rust. The heavy cast-iron counterweight drops like a guillotine down the recessed side channel and slams straight onto the concrete sill beside the ladder at the bottom of the shaft.
+
+*BOOM.*
+
+The impact shakes the entire cedar framing around me, rattling glass spice jars behind the pantry panel above and echoing like a shotgun blast up the brick chimney chase.
+
+"What the hell was that?" Cole's voice echoes sharply from the basement stairs. Heavy boots immediately thunder downward two steps at a time, racing toward the Zone 4 steel fire door.
+
+"Cole, wait—" Evelyn's crisp heels clatter across the slate toward the foyer stairwell door, drawn straight after him by the crash. She pauses only long enough to sweep her flashlight once toward the pantry doorway, then follows him down the concrete steps.
+
+I don't wait to hear the fire door slam. Coughing silently against my soaked sleeve to muffle the dust in my throat, I grab the iron rungs above my head and haul my waterlogged legs up the ladder as fast as my trembling muscles allow. My bruised knee bangs hard against the cedar framing. I shove the recessed spice-rack panel open and peer out through the crack.
+
+Empty kitchen. Gray storm light through the sunroom arch, catching the pale edge of the manila envelope on the island. Below the floorboards, muffled voices echo off concrete as Cole reaches the darkroom threshold.
+
+I scramble out of the pantry corridor, pull the rusted oyster knife back out of my waistband just in case, and sprint silently across the tile toward the sunroom to free Julian before Evelyn realizes the basement crash was empty bait.

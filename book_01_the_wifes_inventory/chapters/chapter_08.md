@@ -18,7 +18,7 @@ Halstead steps into the frame. He hasn't bothered to take off his navy patrol wi
 
 He reaches into the open breaker panel with his left hand and pulls a short black jumper cable from his windbreaker pocket.
 
-My throat goes dry. He isn't shutting down the house power—the recessed lights along the kitchen soffit stay dim and steady on backup, and the crawlspace dehumidifier keeps humming underfoot. Instead, he isolates a single lower bus labeled **EXT-DECK / LOGS**, clips a matte-black bridge across two copper terminals, and checks the digital readout on his wristwatch.
+He isn't shutting down the house power—the recessed lights along the kitchen soffit stay dim and steady on backup, and the crawlspace dehumidifier keeps humming underfoot. Instead, he isolates a single lower bus labeled **EXT-DECK / LOGS**, clips a matte-black bridge across two copper terminals, and checks the digital readout on his wristwatch.
 
 Forty minutes. That's the standard rolling buffer window on commercial Mercer Soundworks hubs before an offline node triggers a hard tamper alert to the owner's phone. Julian thinks his security architecture is airtight, yet Halstead just bypassed the exterior deck camera logs in one practiced motion without tripping a single chime.
 
@@ -85,8 +85,6 @@ He listens for several seconds, shifting his weight from heel to toe. Through th
 Another pause. A sharp, impatient exhale hits the cedar slats, carrying the faint scent of wintergreen mint.
 
 "She's taking too long in the master suite," Halstead mutters into the phone, his fingers drumming once against the door frame a hand's breadth from my face. "Move the deadline to Thursday."
-
-My stomach knots tight enough to burn.
 
 *She's taking too long.* He isn't talking about Evelyn. He's talking about *me*. And whoever is on the other end of that burner phone isn't Julian Mercer—because Julian already moved the Boston probate deadline to Thursday night over soup yesterday. Unless someone else is running a parallel clock inside this house, and I just walked straight into the middle of it. My throat feels scraped raw as I force myself to breathe silently through my nose, terrified the slightest whistle of air will carry through the louvers.
 

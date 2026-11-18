@@ -12,7 +12,7 @@ At the timber gate, two cedar posts flank a brass keypad mounted on rusted pipe.
 
 I punch the pin from the broker's message. Nothing clicks. My skin feels clammy as I wipe dried sea salt off the brass buttons and press the numbers harder. A sharp beep cuts the fog, and the gate motor grinds under wet gravel, dragging the cedar barrier back just wide enough for my Civic.
 
-Behind me, the gate latches shut with a heavy hydraulic clunk. My chest tightens at the sound, a small ugly panic I swallow down before shifting into drive. Once you pass a private gate on a one-road peninsula, you don't slip out unnoticed.
+Behind me, the gate latches shut with a heavy hydraulic clunk. I swallow hard and shift into drive. Once you pass a private gate on a one-road peninsula, you don't slip out unnoticed.
 
 Past the spruce stand, the Mercer house looms low over the cliff edge like a glass aquarium bolted onto dark stone. Weathered cedar siding fades into the mist while tall black-framed windows face the open cove, dark except for one thin amber strip glowing beneath the eaves. The turnaround floodlight pole stands dead overhead.
 
@@ -82,7 +82,7 @@ Fifty crisp hundreds, split cleanly into two Portsmouth bank bands. Real ink, bl
 
 "Got it."
 
-"Three." He pivots toward the underside of the floating oak staircase, where a flush cedar door blends into the wall paneling save for a matte brass deadbolt. "That leads to my acoustic darkroom and prototype servers for Mercer Soundworks. Half those units fall under Defense Department noise-cancellation NDAs. If you trip the perimeter latch, my security vendor in Portland logs an automatic breach alert and your contract voids immediately. Clear?"
+"Three." He pivots toward the underside of the floating oak staircase, where a flush cedar stairwell door blends into the wall paneling. "Those concrete steps lead down to my acoustic darkroom and prototype servers for Mercer Soundworks—behind a reinforced steel fire door with a matte brass deadbolt. Half those units fall under Defense Department noise-cancellation NDAs. If you trip the perimeter latch on that steel door, my security vendor in Portland logs an automatic breach alert and your contract voids immediately. Clear?"
 
 "I'm here to pack sweaters, Mr. Mercer, not steal defense patents."
 
@@ -100,7 +100,7 @@ I stand beside the maple table until my pulse slows in my ears.
 
 The house doesn't stay quiet when you stop moving. Beneath the slate floor, a dehumidifier rumbles like an idling truck engine. Wind pushes against the seaward glass panes with a low, rubbery flex, while behind the limestone island a refrigerator compressor shuts off with a sharp metallic click.
 
-Exhaustion hits me all at once—hollow behind my eyes, stale coffee sour in my throat. Four days until Friday. Four days of walking on eggshells in a cold house where every door has a rule attached to it, trying not to remember how quickly Harbor Mutual crushed me the last time I trusted my gut instead of keeping my mouth shut.
+Exhaustion hits me all at once. Four days until Friday. Four days of walking on eggshells in a cold house where every door has a rule attached to it, trying not to remember how quickly Harbor Mutual crushed me the last time I trusted my gut instead of keeping my mouth shut.
 
 I hoist my duffel strap onto my shoulder, grab my damp waxed jacket off the chair back, and walk toward the foyer stairs.
 
@@ -114,7 +114,7 @@ At the back of the closet floor, shoved behind the hem of Julian's longest charc
 
 I freeze with my wet jacket in my left hand.
 
-Three weeks. Twenty-one days since Evelyn Mercer took a wooden skiff past the breakwater during an October squall and vanished into freezing water. Coast Guard called off the active search days later. Estate lawyers are filing probate on Friday.
+Three weeks. Twenty-one days since Evelyn Mercer took a fiberglass skiff past the breakwater during an October squall and vanished into freezing water. Coast Guard called off the active search days later. Estate lawyers are filing probate on Friday.
 
 Yet Evelyn's travel bag isn't upstairs waiting for acid-free tissue. It's jammed behind Julian's coats a stride from the front door, packed full enough that the canvas sides bulge taut.
 

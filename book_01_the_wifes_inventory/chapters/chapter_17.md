@@ -1,81 +1,89 @@
 # Chapter 17
 
-Evelyn Mercer sat at Julian’s walnut desk for twenty minutes after he left for the Boston train, staring at the *Bramwell & Shaw* quarterly variance sheet without blinking.
+I don't argue with a matte-black Glock pointed at my sternum.
 
-Two million four hundred thousand dollars. Not borrowed cleanly against Mercer Soundworks equity, and not disclosed in any of the patent-litigation filings Julian left on the top shelf. He had siphoned it in six staggered wire transfers across fourteen months, using her forged initials on the trustee authorization lines.
+I lower my smartphone slowly, crouch beside the scarred workbench, and set the phone face-down on the damp cedar planks. The cold wood bites through my sneakers. My scraped palm stings where I caught myself on the granite cliff stairs, and the salt wind pouring through the open casement behind me raises goosebumps along my forearms.
 
-She folded the variance sheet twice, aligned the crease with the edge of the blotter, and slid it into her leather portfolio.
+"Back away from it," Evelyn says. She doesn't blink, and the muzzle doesn't waver by a hair. "Hands where I can see them. Move toward the slipway piling."
 
-Julian had offered her a quiet restructuring agreement over breakfast two days earlier—an amended trust schedule and a mutual nondisclosure clause that would keep the shortfall buried until his acoustic patent buyout closed in December. He had spoken in that soft, measured cadence he used with investors, as if embezzling her father’s estate were a minor cash-flow timing error. Evelyn had poured him fresh coffee, nodded once, and told him she needed the weekend to review the numbers with her own eyes.
+I step backward two paces, keeping my palms open at shoulder height. Evelyn steps forward, kicks my phone briskly across the boards until it slides to a stop beneath the stacked lobster traps, and grabs a thick black marine cable tie from an open plastic bin on the bench. All my decrypted audio—the 2:14 AM WAV file from the pantry, the Portland cloud links—sits under those traps, useless unless I walk out of here upright.
 
-She did not want a quiet restructuring, and she did not want a fraud arrest that would freeze the marital trust inside Mercer Soundworks' corporate bankruptcy for five years. Under Maine's Slayer Statute, a husband indicted for murder forfeited every dime of the estate—leaving Evelyn to walk away clean under a new name with her father's offshore reserve and a three-million-dollar life-insurance payout routed through a Cayman bearer trust her father established before his stroke. Her father had given Julian the seed capital, the Salt Point deed, and the family name that opened doors in Boston. Julian had repaid him by treating the trust like a personal line of credit.
+"On your knees," she orders. "Back against the teak piling. Hands behind it."
 
-Evelyn carried her coffee cup upstairs, pausing briefly at the threshold of her studio. The painters Julian had hired in late September had finished the white trim along the north wall and sealed the tall sash window shut with two thick coats of oil enamel. Julian claimed he wanted the winter drafts out before November. Evelyn hadn't bothered to have them scrape it open; she had already decided she wouldn't be living in this house by Thanksgiving.
+There is no cover between me and the open harbor water slapping the slipway beams. If I lunge, she shoots me at point-blank range and tells Cole the cleaner charged her. I drop onto the wet planks beside the heavy teak piling that anchors the edge of the bait table. Salt dampness soaks straight through the knees of my jeans.
 
-She continued into the master suite. The tall glass house felt hollow when Julian was away, full of his cedar shavings and unscented soap, every surface wiped sterile by a cleaning crew that came twice a month. In the master bathroom, she opened the mirrored cabinet and weighed the full orange bottle of thirty Ambien tablets in her palm. Too neat. If Julian choked on a spiked nightcap in his own bed, the state medical examiner would run a full toxicology screen before the body was cold, and every probate lawyer in Boston would look straight at the widow who stood to inherit his remaining shares. She set the unopened bottle back behind her face cream. Dead husbands invited audits. Missing wives invited sympathy, until the sympathy curdled into a murder indictment.
+Evelyn steps behind the piling, keeping the pistol pressed hard against the back of my skull while her left hand yanks my wrists together behind the rough timber. She loops the black nylon tie around both wrists, cinches it through the ratchet teeth, and pulls until the plastic bites deep into my skin. My shoulders wrench back at a sharp angle. The piling reeks of creosote and rotting kelp, sharp against the wet cedar. I test the nylon once with my thumbs—zero give, locked down tight enough to cut off circulation to my fingers within minutes.
 
-***
+"Cole will be down here as soon as he finishes clearing your pathetic little distraction at the front door," Evelyn says, stepping back around the piling where she can watch both me and the double doors. She sets the pistol down for half a second—never out of reach of her right hand—and picks up a sleek iPad Mini from the workbench.
 
-Two days before the squall, on Monday afternoon, Evelyn walked down the wet slate stairs to Maren Lindqvist’s oyster shack with five thousand dollars in crisp twenties tucked inside her waxed-canvas pocket.
+`E_MERCER_IPAD_MINI_02.` The same burner tablet that just uploaded my fabricated confession to the county evidence drop.
 
-The shack smelled of salt marsh and rusted tin, sharp with hand-rolled tobacco. Maren had two months of unpaid mooring fees hanging over her commercial license, and she knew better than to turn down cash without a bank paper trail. She didn't ask why Julian’s wife wanted to know how to disable a Boston Whaler’s GPS transponder without tripping the main battery alarm. She simply took the envelope, counted the corners with cracked, salt-stained thumbs, and showed Evelyn which gray wire sat behind the helm console—plus how to pull the fuse without leaving pry marks on the housing.
+She wakes the screen, opens a blank document, and begins tapping with crisp, unhurried thumbs.
 
-That night, Evelyn met Deputy Cole Halstead at the locked boathouse.
+"What are you writing?" I ask, keeping my voice flat so she doesn't hear how hard my ribs are hammering.
 
-Cole hadn't changed since they were sixteen and sneaking beers onto the granite ledges below the lighthouse. Broad-shouldered, clean-shaven, with a crooked front incisor and a slow coastal drawl that made mainlanders underestimate him by half. He leaned against the workbench in his sheriff’s windbreaker, watching her with steady, unhurried eyes.
-
-"You're sure about the weather window?" Cole asked.
-
-"Wednesday night," Evelyn said. She spread a folded NOAA marine forecast across the scarred wood. "Small-craft gale starts rolling in off Penobscot Bay after ten. By eleven-fifteen, visibility drops below a quarter mile. Nobody on the ridge will look twice at an empty skiff drifting toward the east shoal."
-
-Cole tapped the chart once with his left index finger, then jotted a tide window in the margin with his own heavy silver Montblanc fountain pen. "Coast Guard won't launch a chopper in forty-knot gusts. They'll kick coastal search to the county desk at first light."
-
-"Which means you take the 5:30 AM call," Evelyn said. "You log the empty skiff, note the missing life jacket, and file it as probable accidental drowning before the state troopers even wake up."
-
-"And the trust?"
-
-"When the probate lawyers audit Julian next month, they'll find two point four million missing from my father’s account," she told him, smoothing the corner of the chart flat. "They'll find a husband who couldn't pay his patent lawyers, a wife who conveniently vanished before she could sign off on his theft, and a husband facing a Slayer Statute forfeiture. You won't have to manufacture a motive, Cole. Julian already built it."
-
-Cole’s mouth twitched into a brief, humorless grin. "Three hundred thousand when the estate clears?"
-
-"Half in cash once the grand jury indicts him," Evelyn said. "The rest when the life-insurance trust clears."
-
-Cole studied her in the dim yellow glow of the boathouse bulkhead light. "And if the state police decide an empty boat isn't enough to hold him? They'll pull the sunroom rug up sooner or later, Evie. Look at the way he keeps this place."
-
-"The night before the estate cleaner arrives, you'll come back after dark and splash bleach and linseed oil over three boards beneath the gray rug," she said. "Let them wonder what Julian scrubbed out of the cedar after the squall. A clean widower looks innocent. A widower who bleached his own floorboards looks desperate."
-
-Cole nodded slowly, his gaze drifting toward the narrow ceiling vent above the workbench. "And if he changes the keypad code before next week?"
-
-"Then use the dumbwaiter behind the pantry spice rack," Evelyn replied. "Julian forgot it even existed the day the contractors paneled over the kitchen wall. The shaft drops straight past the acoustic sensors into the basement hall."
-
-On Wednesday evening, while Julian was locked in his basement darkroom running late patent simulations, Evelyn packed her olive-canvas weekender in the mudroom—ready to carry aboard the Canadian transport boat at the shoal—and tucked her spare clothes inside.
-
-At eleven-fifteen, rain hammered the sunroom glass.
-
-Cole arrived through the back service porch using the pantry keypad code Evelyn had given him in September. He didn't track mud across the slate. He stood at the mudroom sink, soaked the crisp orange spare life jacket under the tap faucet until the canvas straps darkened, and hung it neatly on peg two. Beside the boot rack, Evelyn set down a pair of her spare kelp-crusted duck boots and a mud-streaked navy tote—insurance if they ever needed fresh physical props.
-
-"Salt water leaves white crust when it dries," Evelyn noted from the doorway, pulling her hood up against the coming rain.
-
-"Nobody from Augusta is going to lick a life vest," Cole said, shutting off the tap. "Let's move the boat."
+"Julian's apology," Evelyn replies without looking up. "He's terribly sorry about the two point four million. Even sorrier that the woman he hired to scrub the house panicked when the sheriff's deputy showed up at the door."
 
 ***
 
-They returned through the pantry corridor at 2:14 AM, soaked to the knees and smelling of diesel and cold harbor kelp.
+My wrists throb, already going numb from the tight nylon bite. Every muscle in my back cramps against the rough teak, and my dry sneakers slip slightly on the wet moss coating the cedar planks as I try to take weight off my knees.
 
-Julian was asleep upstairs, two floors above the acoustic baffling. Even so, the heavy back latch clicked louder than Evelyn liked in the quiet hall, followed by the dull *thud* of Cole’s shoulder bumping the cedar trim as they carried the spare varnished oars inside to scrub off the marsh mud before stashing them in the boathouse.
+I shift my hips slightly to ease the pressure on my shoulders, and my right knuckles brush the splintered wooden lip of the bait table bolted right beside the piling. Something cold and jagged pricks the heel of my hand.
 
-"Careful with the varnish," Evelyn murmured, pulling a dry shop rag from her pocket as Cole set the blades against the wainscoting.
+I freeze, keeping my face angled up toward Evelyn so she doesn't see my shoulders tense.
 
-"You're smearing the—" Cole caught himself, lowering his voice as she wiped a dark smudge of harbor grease off the wood. "Nobody's checking the oarlocks at five in the morning, Evie."
+Wedged deep into a split seam along the underside of the bait table rail sits an old rusted oyster knife—short, thick steel blade, swollen oak handle jammed tight by years of salt crust.
 
-Evelyn laughed softly, the tension of the squall finally bleeding out of her shoulders. The skiff was prepped at the slipway with its transponder dead, ready for Cole to tow past the outer rocks on his launch. By noon tomorrow, she would be across the New Brunswick line under her secondary passport, waiting for Julian to hang himself in probate.
+I don't touch it yet. Instead, I let my eyes drop toward the lower leg of the bait table, just beside my left boot. Mounted to the cedar brace sits a small matte-black *Mercer Soundworks* Bluetooth intercom puck—the exact same low-power relay unit Julian installed in the pantry and the basement. A tiny blue LED glows steadily beneath its plastic rim.
 
-"Leave my Montblanc on the blotter," she added as they moved toward the sunroom arch, her voice dropping back to business. "Make it look like I was interrupted mid-sketch before the squall. And grab his spare rain slicker from the mudroom peg before you go—give the exterior infrared camera something to archive in case he fights the probate audit."
+Active. Paired straight to the house's acoustic server, which automatically logs any live voice pickup whenever the relay stays open.
 
-Cole pulled on Julian’s spare hooded slicker, hoisted a weighted canvas drop-cloth rolled tight like a body from the utility alcove, and dragged it out across the wet sunroom threshold straight past the infrared deck lens toward the boathouse hatch—burying one last piece of quiet leverage inside Julian’s own local server.
+Evelyn doesn't notice it under the shadow of the table lip. Why would she? She spent three weeks hiding out after New Brunswick and two days camped in the boathouse loft above my head with a directional Wi-Fi extender, tapping into Julian's smart-home mesh to stitch my Monday intake audio into a fake confession—assuming the house array was just a passive trap she could turn against him.
 
-A heavy service door thudded shut behind them. She left Cole in the mudroom to stow the wet rag and stepped into the dark sunroom. Moonlight didn't pierce the storm clouds, so she navigated by memory across the gray wool rug toward the east baseboard. Using the flat edge of a pocketknife, she pried the loose oak trim back just far enough to slide the spare stamped brass **B-4** basement key into the gap—her physical backup for the basement deadbolt once she disarmed the hub with her administrator PIN, so she wouldn't have to pry the door or leave tool marks on Julian's frame.
+If Cole walks through that door with a second set of zip ties, the blue LED won't save me. I need Evelyn talking—and I need my hands free before Cole turns the latch.
 
-She pressed the baseboard flush with her heel and climbed the back stairs to her studio to check that no personal notes remained beside the calendar.
+"We already decrypted the pantry mic, Evelyn," I say, letting a thin edge of contempt bleed into my voice. "We heard you laughing with Cole at two-fourteen in the morning while wiping down an oar. And you made a mistake in St. Andrews. You scanned your real passport at the marina desk. That ping hit an insurance-database watch before you even crossed Passamaquoddy Bay."
 
-She pocketed her own fountain pen by mistake in the dark while sweeping the desk drawer, unaware that Cole—stepping up behind her to set the blotter straight—had accidentally laid down his own identical left-handed silver Montblanc uncapped on the green leather before following her back down the stairs.
+Evelyn's thumbs pause on the glass screen. She looks up at me, her dark eyes cool and amused.
+
+"You think a pantry recording or a private marina manifest in New Brunswick matters once the tide comes in?" she asks. "Or Maren Lindqvist's five thousand dollars? She thought she was helping an abused wife vanish, Clara. She won't say a word to state police, and nobody in Augusta is going to subpoena Canadian ferry logs for a dead fraud investigator and an embezzler who walked into the Atlantic together."
+
+"The Coast Guard—"
+
+"Won't even launch a boat until tomorrow morning," Evelyn cuts in, stepping two paces closer to the bait table so she can lean one hip against the edge. Right above the glowing blue intercom puck. "High water crests over the causeway at five-fifteen. By the time state police reach the headland, you and Julian will already be drifting past the outer shoal."
+
+She says it cleanly, without a trace of doubt, like she's reading off an invoice. Every syllable carries straight into the open mic beneath her hip, streaming back to the basement server Julian locked behind steel—assuming Julian hasn't already been cuffed by Cole upstairs. Behind my left shoulder, black harbor water swells and sucks against the timber slipway planks, freezing and deep enough to swallow a boat hook whole. If I get these wrists free, the channel is my only exit.
+
+"You didn't even leave the life jacket salty," I push, shifting my wrists quietly higher behind the piling until the taut nylon ridge between my palms presses squarely against the rusted steel edge of the oyster knife. "Cole soaked it in the mudroom sink with tap water, and you crushed Ambien in the master bath while Julian was hauling cartons at noon. That's sloppy, Evelyn. Even a rookie medical examiner checks for salt residue."
+
+Evelyn smiles—a thin, cold curve of her mouth. "Cole wrote the report, Clara. There won't be a second medical examiner, because there won't be a body until the crabs are finished with it. Everything you cataloged in that house was staged to trigger a Slayer Statute forfeiture on his marital share—handing me three million in a Cayman bearer trust the day Julian's charged with my murder."
+
+***
+
+The rusted blade bites into the thick nylon cable tie. Once. Twice.
+
+The plastic is tough, built to hold heavy oak lobster traps together in winter surf, and my wrists are slick with sweat and cold sea air. Every time I saw my hands downward across the pitted steel, the piling vibrates faintly against my spine. I keep my jaw loose, my shoulders dropped, and my breathing steady so Evelyn doesn't spot the rhythm in my arms. Keep her talking. Keep her ego feeding that blue LED under the bait table.
+
+"Why me?" I ask, watching her fingers return to the tablet screen. "You had Julian cornered. Why drag an outsider onto the rock?"
+
+"Because Julian hired you," Evelyn says, tapping out another line of his fake suicide note. "I couldn't have a former Harbor Mutual fraud investigator walking back across that causeway with photos of my floorboards and an unedited acoustic drive in her pocket. You had eighteen thousand dollars in court debt and a fired investigator's record, Clara. You made yourself the perfect accomplice the day you signed that NDA for five grand in cash."
+
+A sharp strand of nylon parts beneath my wrists. The tie loosens by a hair, biting slightly less into my left thumb, though creosote and salt grit sting the raw skin along my forearm. Cold spray mists upward through the gaps in the slipway planks beneath my sneakers, soaking my ankles while the outgoing tide sucks hard at the pilings below.
+
+Evelyn glances down at the iPad, then reads aloud in a dry, mocking cadence: *"I couldn't bear what I did to Evelyn, and when Miss Vance threatened to go to the state police unless I tripled her fee, I panicked—"*
+
+She stops mid-sentence, tilting her head slightly as a gust rattles the corrugated tin roof overhead and shakes loose a shower of pine needles along the eaves.
+
+I saw hard against the rusted steel while her eyes are off my shoulders. Another two strands snap cleanly. Warm blood wells fast along my left wrist where the jagged nylon and rusted steel slice deep into the skin above my palm, giving me just enough slack to twist my fingers toward the swollen oak handle wedged in the bait table seam.
+
+"You're really going to let Cole take half your father's trust?" I ask, stalling for a few more seconds, praying the frayed center core of the zip tie gives way before the cliff stairs creak. "He's a county deputy with a crooked tooth and a gambling debt. Once Julian's dead, Cole owns you."
+
+Evelyn's jaw hardens. She takes one step toward me, raising the Glock until the dark muzzle aims straight between my eyes. "Cole knows what happens to people who—"
+
+Outside the north wall of the boathouse, heavy boots crunch hard across the crushed oyster shells.
+
+Once. Twice. Deliberate, unhurried strides coming down from the cliff stairs, followed by the rattle of a sheriff's key ring and the metallic *clink* of a padlock key sliding into brass.
+
+Evelyn turns her head and right shoulder toward the double doors as the heavy iron latch rattles from outside, shifting her weight off her heels for half a second.
+
+I yank my wrists apart with everything left in my shoulders. The frayed nylon zip tie snaps clean, and my right hand closes tight around the swollen oak handle of the rusted oyster knife wedged beneath the rail.

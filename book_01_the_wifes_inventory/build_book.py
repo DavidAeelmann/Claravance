@@ -781,13 +781,13 @@ def validate_outputs(epub_path: str, docx_path: str, pdf_path: str, expected_cha
 def main():
     ensure_cover_1600x2560(COVER_PATH)
     chapters = parse_markdown_chapters("full_manuscript.md")
-    assert len(chapters) == 25, f"Expected 25 chapters, got {len(chapters)}"
+    assert len(chapters) == 23, f"Expected 23 chapters, got {len(chapters)}"
     preview_data = parse_back_matter("back_matter_book2_preview.md")
 
     build_epub(chapters, preview_data, COVER_PATH, EPUB_OUTPUT)
     build_docx(chapters, preview_data, DOCX_OUTPUT)
     page_count = build_pdf(chapters, preview_data, PDF_OUTPUT)
-    validate_outputs(EPUB_OUTPUT, DOCX_OUTPUT, PDF_OUTPUT, expected_chapters=25, page_count=page_count)
+    validate_outputs(EPUB_OUTPUT, DOCX_OUTPUT, PDF_OUTPUT, expected_chapters=23, page_count=page_count)
 
 
 if __name__ == "__main__":

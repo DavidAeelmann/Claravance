@@ -58,7 +58,7 @@ She sets her mug down beside a rusted pair of wire cutters, her thumb rubbing ne
 
 "And what do you think?"
 
-Maren lifts her chin, her voice dropping so low I have to step closer to catch it over the surf. "I think Julian doesn't know a cleat hitch from a shoelace. If he took that Boston Whaler out in a thirty-knot southeast blow at two in the morning, he'd have piled it onto the ledges before he cleared the cove mouth."
+Maren lifts her chin, her voice dropping so low I have to step closer to catch it over the surf. "I think Julian doesn't know a cleat hitch from a shoelace. If he took that fiberglass skiff out in a thirty-knot southeast blow at two in the morning, he'd have piled it onto the ledges before he cleared the cove mouth."
 
 My pulse quickens. "Then how did the boat clear the harbor?"
 

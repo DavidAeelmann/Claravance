@@ -13,7 +13,7 @@ Even inside the heated cab, the key smells faintly of cold iron and pine resin.
 
 My left wrist still itches beneath my wool cuff where the Salt Point stitches came out, a thin pink ridge against pale skin. Seven hours ago, I had a ten o'clock interview lined up on Congress Street for a daylight desk job auditing flooded boat hulls. Safe work. Clean chain-of-custody. Zero locked rooms.
 
-Then Sloane flipped a glossy photograph over on the diner Formica and showed me three words written in my younger sister's slanted, left-leaning cursive in the corner of a mountain guest ledger:
+Then Sloane flipped a glossy photograph over on the diner Formica and showed me three words written in my younger sister's cramped, back-slanted cursive in the corner of a mountain guest ledger:
 
 *Don't trust him.*
 

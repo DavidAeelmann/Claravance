@@ -1,91 +1,99 @@
 # Chapter 23
 
-Cole's heavy boots hit the kitchen tile. A bright white flashlight beam slices through the pitch-black foyer arch, sweeping across the slate floor inches behind my heels as I drag Julian silently down the north hall.
+Two weeks after Salt Point, the cast-iron radiator in my Portland studio still ticks like a bad heart, and the harbor wind still rattles the single-pane glass.
 
-"Julian!" Cole bellows from the kitchen, his voice echoing off the cold stone. "Get out here! You're not getting off this rock!"
+I stand over the scarred kitchen counter with a mug of black coffee, staring at two sheets of heavy bond paper laid side by side under the bare overhead bulb. The first is a stamped satisfaction-of-judgment notice from the Cumberland County clerk: $18,412 paid in full, zero balance remaining from the $42,000 defamation suit that broke my career three years ago. The second is a crisp, embossed letter from the Maine Department of Public Safety restoring my private investigator bond, effective Monday morning.
 
-I shove Julian through the open doorway of his study and pull the heavy walnut door nearly shut, leaving a narrow crack to watch the dark hall. Inside the study, the smoked-glass server rack hums steadily on its UPS battery backup, throwing a faint amber glow across the desk blotter. The room smells of warm dust and cedar shavings. Beside the keyboard, the heavy brass pipe wrench I left behind this morning still gleams dully in the amber LED light, though I don't trade the oyster knife for it; I need reach and speed, not dead weight.
+The $5,000 cash from Salt Point, the $13,500 cashier's check from the anonymous Boston estate firm, and a few hundred dollars from my checking account wiped the slate clean.
 
-Julian leans against the doorframe, chest heaving, one hand pressed to his bruised cheekbone. "The hurricane shutters are locked onto the emergency loop. Without grid power, we can't raise them from the foyer, and the front deadbolt won't hold Cole for ten seconds if he takes a chair to the glass behind the slats."
+My left wrist still carries a pale pink seam under the cuff of my dry wool sweater where the Salt Point stitches came out, and my bruised knee aches whenever the November air turns sharp. Two weeks of depositions in Rockland took care of the rest. Detective Sergeant Ward and the Knox County district attorney didn't need much persuasion once their techs pulled the mirrored boathouse audio off the Zone Four RAID drive and matched the left-handed Montblanc nib against Cole's yellow warning slip. Evelyn and Cole are sitting in separate cells without bail, and Julian's bail hearing got pushed back after the state auditor finished tallying his $2.4 million probate shortfall.
 
-"We're not going out through the windows," I whisper, keeping the navy canvas duffel strapped tight across my back and the rusted oyster knife gripped in my right hand. "You built an acoustic house, Julian. Use it."
+I didn't ask for a press quote. I gave my statement, signed the chain-of-custody logs, and drove back down Route 1 before the Boston reporters found the causeway. Even Maren Lindqvist came through clean—the state prosecutor granted her full immunity as the reporting witness, and three days ago a wooden crate of Salt Point oysters showed up on my landing with a single harbor receipt tucked under the twine: *Dock's paid. Keep your head down.*
 
-I drop into the leather desk chair, wake the UPS-backed console monitor, and pull up the *Mercer Soundworks* zone router. Every speaker on the ground floor is dead except the basement array—which runs off Zone 4's dedicated battery bank. Even the exterior cellular bridge is dark without main power, meaning nothing uploads out tonight until we physically hand the drives to state police. A tiny green status line confirms the boathouse Bluetooth puck's live stream already mirrored straight onto the Zone 4 RAID drive twenty minutes ago. Evelyn's entire confession is sitting down there in the dark.
+The studio is almost empty now. Two cardboard boxes sit taped beside the door, smelling faintly of damp packing paper and dust. My faded navy canvas duffel rests zipped on the bare mattress, no longer packed for a midnight run, and my 2014 silver Honda Civic waits at the curb downstairs with its spare-tire well scrubbed clean by state evidence techs and its loose muffler shield finally bolted tight. For the first time in thirty-six months, I don't owe a dime to a lawyer or a court clerk.
 
-I select `MIC_04_PANTRY_021407.wav`, set the output channel to `ZONE_4_DARKROOM_MONITORS`, and crank the gain to maximum. My thumb hovers over the trackpad for one beat. If Cole hears Evelyn's voice echoing from the basement, he won't check the kitchen closets—he'll charge straight down the concrete stairs to kill the playback before it can be copied again.
+I pick up the restored bond letter, fold it neatly along its crease, and slide it into my jacket pocket.
 
-"Hold the study door," I tell Julian, pointing toward the floor-to-ceiling walnut shelving in the corner. "When Evelyn comes up the hall, get behind the shelves and stay quiet. Do not come out until I call your name."
+At ten o'clock, I have an intake interview with a regional marine-insurance adjuster on Congress Street. Standard desk audits. Flooded hulls, dock claims, documented chain-of-custody. Daylight work with real witnesses and paper trails that don't end inside a soundproofed basement box.
 
-I hit `PLAY_LOOP`, then tap the monitor power button so the screen goes black. No amber glow to give Julian away if Evelyn steps into the doorway.
-
-Down beneath our sneakers, muffled through two layers of cedar and concrete, Evelyn's recorded voice—clear, unhurried, laughing beside an oak oar—booms through the basement darkroom speakers.
-
-Out in the foyer, Cole's flashlight beam jerks violently toward the basement stairwell door. He stops dead on the slate.
-
-"Evie?" Cole shouts, confusion sharpening into raw panic as his own coastal drawl echoes faintly up through the floorboards beneath him. "She's back in Zone 4! She's playing the pantry tape!"
-
-Heavy boots thunder across the foyer slate toward the basement stairs, taking the landing in two loud bounds.
+I switch off the kitchen bulb, shoulder my canvas duffel to carry it down to the Civic trunk, and lock the apartment door behind me.
 
 ***
 
-I don't wait in the study. I slip into the dark north hall, skirt the stairwell landing while Cole's boots hammer downward into the basement, and feel my way along the cool wainscoting into the kitchen. Without a single standby LED, the room is ink-black. My hip grazes the marble island corner before I find the narrow cedar doorway of the pantry corridor.
+Ten minutes later, I push through the heavy glass door of Becky's Diner on Commercial Street.
 
-Behind the recessed spice rack, the dumbwaiter shaft smells of cold concrete and machine oil, thick with settled dust from the dropped counterweight. I tuck the rusted oyster knife into my jeans waistband, grab the cold iron ladder rungs, and climb down fast into the pitch-black cellar. My raw left wrist burns against the metal, and the heavy duffel bangs awkwardly against the brick chimney chase behind my shoulders with every downward reach.
+Steam from the flat-top grill hits my face the second I step inside, thick with bacon grease, wet wool, and burnt diner coffee. Outside the fogged front window, lobster boats idle along the working pier while gulls wheel through the gray morning mist. I drop my duffel onto the bench of a corner vinyl booth, peel off my damp coat, and slide in facing the street door out of habit.
 
-Halfway down the shaft, the looped 2:14 AM WAV file swells louder—Evelyn's laugh echoing off soundproofed charcoal foam, followed by Cole's heavy voice cursing as he reaches the open steel fire door of Zone 4. His flashlight beam flickers across the far darkroom wall below me, throwing long jagged shadows off the server racks.
+The waitress tops off a chipped ceramic mug before I even ask. I wrap both palms around the porcelain, letting the heat soak into my knuckles, and pull out the printed marine-insurance application I brought to review before ten.
 
-I drop softly off the bottom iron rung onto the darkroom concrete, keeping my knees bent to absorb the impact without a sound, and press my back flat against the charcoal foam panels just inside the northeast corner.
+Then the brass bell over the street door jingles once, and a woman in a tailored charcoal wool coat walks straight toward my booth without glancing at the host stand.
 
-Julian's acoustic dead-zone.
+She is in her late forties, sharp-jawed, with silver-streaked dark hair pulled back into a tight knot and a slim oxblood leather briefcase tucked under one arm. Her leather boots show zero salt crust along the welts—someone who stepped out of a heated town car at the curb, not a working pier. She doesn't ask if the seat is taken. She simply unbuttons her coat, slides onto the red vinyl across from me, and sets her briefcase flat on the Formica between the salt shaker and the ketchup bottle.
 
-The moment I step inside the corner angle, the booming speaker echo from the center of the room drops to a flat, eerie hush. Sound waves cancel out against the angled baffling here, swallowing my ragged breathing and the faint drip of seawater from my soaked jeans. It feels like stepping underwater without the cold—a pocket of dead air engineered to let Julian calibrate directional mics without room bounce.
+"Ms. Vance," she says. Her voice is crisp, low, and clipped with the kind of Back Bay certainty that never waits in line. "You're harder to pin down than a probate subpoena. Your cell number has been disconnected since November fifth."
 
-Across the room, Cole's flashlight beam sweeps wildly across the three humming audio servers, the drafting table, and the open *ARCHIVE* cabinet. The shattered cast-iron counterweight still lies in the bottom of the dumbwaiter tray behind him, surrounded by gray concrete dust. His left wrist is wrapped in blood-soaked gauze; in his right hand, he grips his duty pistol, turning in tight circles as he hunts the speaker throwing Evelyn's voice back at him.
+"Dropped it in a boathouse," I say, keeping my hands around the warm mug. "Who are you?"
 
-"Shut it off!" Cole roars at the dark, swinging his beam toward the center console. He steps over the fallen monitor cable, his heavy boots kicking a loose stool sideways across the floor.
+"Sloane Mercer-Hall." She reaches into her coat pocket and lays a heavy cream business card beside my coffee. No title on the front—just a State Street address in Boston and a direct private line. "Managing partner at Mercer-Hall Fiduciary. We issued the thirteen-thousand-five-hundred-dollar cashier's check Detective Ward handed you at Salt Point."
 
-Footsteps clatter fast down the basement stairs behind him.
+I look down at the cream card, then back up at her eyes. They are cool gray, steady, and completely unbothered by the clatter of plates behind her.
 
-Evelyn bursts through the Zone 4 doorway. She isn't holding the spare Glock—Cole must have taken it back or left her to grab whatever weapon sat closest in the study, because in her right hand she grips the heavy brass pipe wrench off Julian's desk blotter.
+"Mercer-Hall?" I ask.
 
-"Cole, it's a loop!" Evelyn snaps, sweeping her own small penlight across the foam walls. "She's not at the console—she triggered it from upstairs!"
+"Distant branch," Sloane replies without missing a beat. "My grandfather founded the fiduciary arm in Boston. Julian's side took the acoustics patents and the coastal land. We hadn't spoken in a decade until he retained us six weeks ago to hold an archiving escrow."
 
-I shift my weight slightly to draw the oyster knife from my waistband, and the brass zipper of my navy duffel scrapes faintly against the steel edge of the nearby archive rack.
+"Julian told me he hired me out of his own pocket," I say.
 
-Evelyn's penlight snaps straight toward the northeast corner.
+"He did," Sloane says, folding her gloved hands over her briefcase. "Using an escrow account we administered for his late father-in-law's trust. When the Maine State Police froze his personal assets on charges of embezzlement and attempted arson, our contingency clause triggered automatically. The completion balance belonged to whichever contractor delivered an unredacted accounting of the estate."
 
-She doesn't wait for Cole to turn his pistol. She lunges across the darkroom floor, swinging the heavy brass wrench in a flat, vicious arc straight at my head.
+She pauses while the waitress walks past with a steaming pot of coffee, then waits until the booth behind us clears.
 
-I duck low into the corner angle, pulling my shoulders tight into the acoustic foam. The dead-zone swallows the whisper of my dry wool sweater and the scrape of my sneakers on concrete. Because Evelyn lost my exact distance the instant my breathing vanished into the baffled corner, her aim goes wide.
+"You turned over two point four million dollars' worth of forged probate records when you could have taken fifty thousand in cash over a gas stove and walked," Sloane says quietly. "Most people in your financial position take the cash."
 
-The heavy brass wrench whistles past my temple and smashes with a shower of blue sparks into the steel studio monitor behind me.
+"Most people don't like getting locked in a darkroom," I answer. "If you're here for a receipt, the clerk's office already cleared the check."
+
+"I'm not here for a receipt, Clara." Sloane unsnaps the brass latches on her oxblood briefcase. "I'm here because my firm represents families whose problems cannot survive a public probate docket. Quiet-clean archiving. Discreet asset verification. You have your investigator bond back as of this morning, and you have zero debt left on your name."
+
+I keep my face still. She knows when my bond cleared. She knows my judgment balance. That kind of reach doesn't stop at a probate filing.
+
+"I have an interview on Congress Street at ten," I say, sliding my marine-insurance application an inch toward the edge of the table. "I'm done working off-book in someone else's house."
+
+Sloane doesn't argue. She doesn't raise her voice, and she doesn't lean forward to sell me a pitch.
+
+"Triple the Salt Point rate," she says evenly. "Forty-five thousand dollars. Ten days in northern Vermont, starting tomorrow morning. A private mountain lodge closed for the winter after a sudden family disappearance. Same rules—inventory the estate, flag any irregularities before probate counsel arrives, and stay out of the local sheriff's way."
+
+I pick up my coffee mug, take a slow sip of the bitter brew, and set it back down squarely on the paper placemat. My fingers brush the folded bond letter inside my jacket pocket—proof that I finally bought my own name back.
+
+"Pass," I say. "Find another cleaner."
 
 ***
 
-Glass explodes across the concrete. Cole spins blindly toward the crash, shouting Evelyn's name as his flashlight beam bounces off shattered monitor glass and blinds them both for a heartbeat.
+For a long beat, neither of us moves. Outside the fogged glass, a tugboat horn groans low across Portland Harbor, vibrating faintly through the Formica tabletop.
 
-I don't give Evelyn a second swing. I yank the rusted oyster knife from my waistband, lunge forward under her raised arm, and slash hard across her waxed-canvas sleeve.
+Sloane studies my face with calm, clinical patience. Then, without a word, she reaches inside her open briefcase and pulls out two items.
 
-Evelyn gasps, stumbling sideways into Cole's chest as the blade rips fabric and scores her forearm. The two of them collide in the dark, Cole's duty pistol knocking hard against the drafting table while he curses and tries to catch his balance without firing into her back.
+First, she sets down a heavy brass skeleton key, worn smooth along the bow from decades of use. Faint pine resin darkens the teeth along the bit, smelling sharply of cold iron and winter woods even across the diner table. A blank manila tag hangs from the bow by a twist of copper wire.
 
-I spin past both of them, burst out through the open Zone 4 doorway into the basement stairwell, and grab the heavy steel fire door.
+Beside it, she slides a glossy color photograph across the scarred Formica until it stops just short of my coffee mug.
 
-"Clara!" Evelyn screams from inside the darkroom, scrambling off the floor while Cole fires one blind, deafening shot into the charcoal foam wall behind her.
+I glance down despite myself. The shot shows a sprawling timber-and-stone lodge buried halfway to its cedar eaves in fresh Vermont snow, dark spruce crowding the drive behind a wrought-iron gate. Smoke curls thin and gray from a massive stone chimney against a flat white sky.
 
-I throw my entire weight against the steel door. It swings fast on its heavy hinges and slams into the jamb with a bone-jarring *CLANG*—a fraction of a second after Evelyn throws herself out through the gap, colliding hard against the concrete stairwell wall—leaving Cole Halstead trapped inside alone.
+"I said no, Ms. Mercer-Hall," I tell her, sliding my palm over the edge of the marine-insurance packet and reaching for my coat on the hook. "Take your key back to Boston."
 
-I yank the rusted **B-4** mortise key from my jeans pocket, jam it into the exterior brass cylinder, and throw the deadbolt home. Steel locks into steel.
+"I'm not asking you to take the contract on faith," Sloane says softly, resting one gloved fingertip on the white border of the photograph. "Look at the back."
 
-Inside Zone 4, Cole's heavy boots slam furiously against the reinforced door, his muffled shouts and the dull *thump* of his shoulder swallowed almost instantly by the charcoal foam. Without a phone or a key on the inside, he isn't coming out of that concrete box until someone unlocks this mortise cylinder from the hall.
+I hesitate. Every instinct I burned into my ribs at Salt Point tells me to stand up, grab my duffel off the bench, and walk out into the cold salt air before I touch another piece of bait. Six years ago, I stopped looking for shortcuts because shortcuts cost me my sister's trail and my career. I didn't survive forty-eight hours in a coastal kill-box just to climb into another rich family's locked house in the snow.
 
-Evelyn doesn't stay to fight me on the stairs. She scrambles up the concrete steps ahead of me in the dark, her breathing ragged and fast, leaving her dropped brass wrench behind in the darkroom. One hand clamps over her bleeding forearm; the other clutches the silver Montblanc fountain pen she pocketed upstairs during her sweep and a small backup drive pulled from the study tower tucked inside her torn waxed-canvas jacket.
+Yet Sloane hasn't moved her hand. She watches me with the quiet certainty of someone who already knows what the ink on the reverse side is going to cost me.
 
-I sprint up the stairs two at a time behind her, the heavy duffel banging hard against my ribs, my sneakers slipping once on the top landing before I shoulder the foyer basement door wide.
+Slowly, my fingers lift the corner of the glossy print.
 
-When I burst out into the foyer, Julian is already emerging from the north hall, his eyes wide in the dark as he tries to track the commotion. Across the slate, Evelyn drags the heavy cedar foyer bench with scraping legs beneath the foyer skylight hatch—the one glass roof panel the exterior steel hurricane shutters couldn't cover when the breaker dropped.
+I flip the photograph over.
 
-"Stop her!" I shout, lunging across the wet slate as Julian steps forward to block the hall. His bare hands come up empty.
+Taped neatly to the matte backing is a high-resolution scan of a lined paper guest ledger—only a single corner of the page, cropped tight around a date stamp and a signature line.
 
-Evelyn doesn't look down. The cedar bench groans under her boots as she scrambles up, unlatches the brass skylight crank with blood-slick fingers, and shoves the heavy glass hatch upward into the howling gale. Freezing rain pours straight down onto the foyer slate, soaking her hair and shoulders in a heartbeat as she reaches for the slick cedar roof framing.
+The date reads two days ago.
 
-Then, high above the dark spruce trees, blue-and-red light bars flare bright through the coastal fog, painting the wet skylight glass overhead in pulsing crimson and cobalt while twin sirens cut through the roar of the Atlantic gale.
+And written cleanly in the margin beside a room number, in the cramped, unmistakable back-slanted cursive I haven't seen on paper since the night my younger sister vanished six years ago, is a three-word note in Maya's handwriting:
+
+*Don't trust him.*

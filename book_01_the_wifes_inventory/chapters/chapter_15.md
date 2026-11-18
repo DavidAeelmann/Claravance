@@ -2,7 +2,7 @@
 
 I do not drop the brass wrench. My fingers stay locked around the cold knurled handle while I stare past the foyer sidelights at my silver Civic sitting in the mist.
 
-The trunk lid hovers open just enough to show a dark seam above the bumper latch. Yesterday afternoon, my spare key fob was zipped inside the side pocket of my navy duffel in the guest suite. Whoever lifted it didn't rush. They walked through my room, popped my trunk under cover of the fog, and tucked a dead woman's kelp-crusted duck boots into my spare-tire well.
+The trunk lid hovers open just enough to show a dark seam above the bumper latch. Until Tuesday afternoon, my spare key fob was zipped inside the side pocket of my navy duffel in the guest suite—Cole Halstead must have lifted it when he drove up here while I was at the general store. Whoever popped my trunk under cover of the fog didn't rush; they walked right up to my car and tucked a dead woman's kelp-crusted duck boots into my spare-tire well.
 
 "We can't leave those boots on the slate," Julian says. His voice sounds scraped raw, like gravel under a heel. He rubs the back of his neck, eyes darting toward the front door. "If Cole Halstead rolls up that driveway with a warrant, he's not going to ask who unlocked your trunk."
 
@@ -12,7 +12,7 @@ I step back from the foyer arch, my damp wool socks squelching faintly against t
 
 "Get a towel for the floor," I tell him. "Then take me to your study. All of it—the server rack, the admin key, whatever you hid behind that basement partition."
 
-Julian hesitates for half a beat. A faint twitch pulls at the corner of his mouth. "The study rack only mirrors the house array. The raw acoustic buffers are encrypted on the thumb drive you're holding."
+Julian hesitates. A faint twitch pulls at the corner of his mouth. "The study rack only mirrors the house array. The raw acoustic buffers are encrypted on the thumb drive you're holding."
 
 "You wrote the encryption," I say, tapping the flat of the wrench against my thigh. "Which means you have the master key upstairs. Move."
 
@@ -130,6 +130,6 @@ I stare at the waveform on the screen. Someone took clean vocal samples from my 
 
 "They didn't just plant the boots," I say, my voice barely above a whisper.
 
-Across the monitor, the sync queue flashes green: `UPLOADED TO KNOX_COUNTY_EVIDENCE_DROP`.
+Across the monitor, the sync queue flashes green: `UPLOADED TO KNOX_COUNTY_EVIDENCE_DROP`. A split second later, a red banner drops across the network window: `OUTBOUND WAN GATEWAY LOCKED — ADMIN OVERRIDE`. Evelyn's remote iPad didn't just push a fake confession—it killed the house router's external upload path before our raw WAV file could leave the study.
 
 Down on the gravel ridge road, faint through the rain-lashed glass, a siren chirps once—two miles out and closing fast.

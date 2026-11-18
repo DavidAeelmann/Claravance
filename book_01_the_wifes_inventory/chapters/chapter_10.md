@@ -28,7 +28,7 @@ Julian's fingers stop moving against the crystal. The fire pops once against the
 
 "Your Harbor Mutual license isn't active, Clara," he says softly, his voice dropping an octave without losing its polite edge. "You're working as a private contractor under an NDA. Finish the house interior by four tomorrow, hand me the clean inventory, and the remaining ten thousand wires to your account before the courier hits the causeway. Walk away short of that, and we both know what the breach clause costs."
 
-My stomach sinks. He didn't even need to raise his voice to remind me who holds the leash—or that my Civic is parked outside with a court judgment sitting on the passenger seat.
+He didn't even need to raise his voice to remind me who holds the leash—or that my Civic is parked outside with a court judgment sitting on the passenger seat.
 
 "Leave the boathouse off the preliminary schedule," he adds smoothly. "I told you on Monday night—the county seal stays until the Coast Guard signs the final closure memo. Focus on what's inside the house."
 
@@ -62,7 +62,7 @@ I tilt the first page toward the hallway's amber spill and read fast.
 
 *Notice of Default & Acceleration — Mercer Soundworks LLC.*
 
-My pulse jumps hard against my collar. The firm isn't just waiting on a patent buyout. Three weeks ago—October fifteenth, the exact morning after Evelyn vanished—Bramwell & Shaw served Julian with a formal demand for $2,400,000 in misappropriated licensing collateral pulled from The Evelyn Mercer Irrevocable Trust, giving him thirty days to cure the shortfall before criminal referral to the Suffolk County DA. Below the signature block, a handwritten pencil tally in Julian's neat block script lists three failed bridge-loan dates, every single one crossed out.
+The firm isn't just waiting on a patent buyout. Three weeks ago—October fifteenth, the exact morning after Evelyn vanished—Bramwell & Shaw served Julian with a formal demand for $2,400,000 in misappropriated licensing collateral pulled from The Evelyn Mercer Irrevocable Trust, giving him thirty days to cure the shortfall before criminal referral to the Suffolk County DA. Below the signature block, a handwritten pencil tally in Julian's neat block script lists three failed bridge-loan dates, every single one crossed out.
 
 Two point four million dollars. Embezzled straight out of his wife's trust, with a hard legal guillotine set to drop in nine days unless Evelyn's probate estate freezes the trust audit and hands Julian controlling signatory power. No wonder he moved the preliminary inventory up to Thursday night. If the Boston courier clears the estate schedule before the thirty-day cure expires, Julian buries the shortfall inside his patent buyout.
 
@@ -104,10 +104,10 @@ Not Julian's Mercer Soundworks app—that guest link expired at five. It's a sil
 
 I tap the banner with a thumb that suddenly feels numb.
 
-**CUSTOMS / MARINA SCANNER HIT — PRIORITY WATCH**
-**NAME:** MERCER, EVELYN S.
-**DOCUMENT:** US PASSPORT #••••••8412
-**PORT:** ST. ANDREWS PRIVATE MARINA, NEW BRUNSWICK
+**CUSTOMS / MARINA SCANNER HIT — PRIORITY WATCH**  
+**NAME:** MERCER, EVELYN S.  
+**DOCUMENT:** US PASSPORT #••••••3907  
+**PORT:** ST. ANDREWS PRIVATE MARINA, NEW BRUNSWICK  
 **TIMESTAMP:** NOV 3, 2026 — 09:42 AST
 
 I stare at the glowing white text in the dark bedroom until my eyes burn. Yesterday morning. While Julian stood in this kitchen telling me she drowned three weeks ago, Evelyn Mercer walked off a dock across the Canadian border and scanned her own passport.

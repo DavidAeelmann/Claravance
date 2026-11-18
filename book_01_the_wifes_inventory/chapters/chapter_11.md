@@ -52,8 +52,6 @@ I lift my phone and aim the dim screen into the opening.
 
 Behind the pantry spice rack drops a narrow, pitch-black utility shaft framed in rough-sawn hemlock studs—an original 1970s manual dumbwaiter chase that someone stripped of its wooden cab decades ago. A braided hemp counterweight line hangs taut down the left side beside a rusted cast-iron pulley wheel bolted to the upper header. Bolted straight into the concrete-block masonry on the right runs a vertical iron service ladder, vanishing down through the subfloor joists into the dark cellar below. Along the lower edge of the cedar sill, a strip of fresh gray duct tape holds a loose bundle of black coaxial cable flat against the stud so it won't snag a climber's boot.
 
-My pulse hammers hard in my ears.
-
 Tuesday night, when the storm knocked out the main grid and the generator kicked in, the smart-home tablet flashed **MOTION DETECTED — BASEMENT ZONE 4 (PERIMETER BYPASS ACTIVE)** while the foyer deadbolt sat untouched and armed. Nobody picked that mortise lock under the stairs. Somebody climbed straight down this hidden pantry shaft behind the spice rack, dropping into the acoustic darkroom without tripping a single door contact. Using the rusted B-4 key on the foyer door would have lit up Julian's phone in three seconds; this shaft is the blind spot.
 
 And judging by the fresh thumbprint in the latch dust, someone used this shaft within the last hour.

@@ -10,13 +10,13 @@ My stomach knots tight as I kill the engine and grab the brown paper bag from th
 
 The front door isn't deadbolted. It opens the moment I turn the brass handle, letting me step straight into the warm, airless foyer.
 
-Julian stands near the limestone kitchen island, stirring something pale in a copper saucepan over a low induction burner. The house smells faintly of sage and simmering chicken stock—the first real food smell since I arrived—though the dining table remains bare.
+Julian stands near the limestone kitchen island, stirring something pale in a copper saucepan on the stainless-steel gas range against the back wall. The house smells faintly of sage and simmering chicken stock—the first real food smell since I arrived—though the dining table remains bare.
 
 "You're soaked," he says, glancing over his shoulder as I drop my brown paper bag onto the maple table. "Did you catch the washout detour?"
 
 "Went through Salt Point harbor like you said." I pull off my dripping waxed jacket carefully, keeping the breast pocket angled away from his sightline, and hang it on the brass foyer peg beside the coat closet. "Picked up heavy tape and markers. Kept the receipt."
 
-"Good. Put it on the counter." He turns the burner down with a soft electronic beep, his gray eyes tracking me as I bend to unlace my wet boots beside the mudroom tray. "I'm making leek soup. Eat before you go back upstairs—probate counsel called again while you were out, and they're pushing the preliminary filing window up to Thursday night if the Zurich lawyers file an emergency freeze."
+"Good. Put it on the counter." He clicks the gas knob down, his gray eyes tracking me as I bend to unlace my wet boots beside the mudroom tray. "I'm making leek soup. Eat before you go back upstairs—probate counsel called again while you were out, and they're pushing the preliminary filing window up to Thursday night if the Zurich lawyers file an emergency freeze."
 
 Thursday. Twenty-four hours shaved off an already impossible deadline, trapping me inside this glass house through the worst of the November storm while Boston lawyers circle overhead.
 
@@ -126,4 +126,4 @@ He doesn't look at me. His shoulder stays stiff, his back angled sharply toward 
 
 "Power surge trips the old basement sensors," he says, voice flat and controlled again, though the skin across the back of his neck has flushed dark red. "Happens every November storm. Finish your soup if it's still warm, Clara. We're starting the master closet at eight sharp tomorrow."
 
-I don't touch the spoon. Across the foyer, underneath the floating oak treads, the flush cedar door to Basement Zone 4 sits dead silent in the shadows—and the matte brass deadbolt gleams dry and untouched.
+I don't touch the spoon. Across the foyer, underneath the floating oak treads, the flush cedar stairwell door leading down to Basement Zone 4 sits dead silent in the shadows—and its latch plate gleams dry and untouched.
