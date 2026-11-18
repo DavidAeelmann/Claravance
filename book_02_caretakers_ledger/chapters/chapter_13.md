@@ -30,19 +30,23 @@ For three seconds neither of us breathes. My mind refuses to square the sister I
 
 I reach out before I even think, my fingers catching her cold wool sleeve just to prove she isn't a trick of carbon monoxide and exhaustion. She flinches sharply as my elbow brushes her ribs, biting down on a gasp, then grabs my forearm with both hands—holding on so tight her nails dig through my coat.
 
-"Six years," I whisper, my eyes burning suddenly in the soot-dark air. "Not a postcard. Not a call on your birthday. I thought you were dead in a ditch off Route 7."
+"Six years," I whisper, my eyes burning suddenly in the soot-dark air. "Not a postcard. Not a call on your birthday. Do you know how many county Jane Doe logs I read in Portland? I drove past the burned shell of your apartment on Pearl Street three winters in a row because I couldn't make myself believe you got out."
 
-"I couldn't," Nina says, her voice dry and papery, worn thin from days of silence. She lets out a shaky breath that turns into a wet cough she smothers against her sleeve. "If I called Portland, they'd have watched your apartment next. Look at me, Tessa—I'm sorry."
+"I couldn't," Nina says, her voice dry and papery, worn thin from days of silence. She lets out a shaky breath that turns into a wet cough she smothers against her sleeve. "If I called Portland, they'd have watched your apartment next. They burned my place down to make a point, Tessa. If they knew I had a sister who carried a badge—"
 
-Her eyes drop to my left wrist where the torn coat cuff rides back, exposing the thin pink Salt Point scar. Her thumb brushes the raised line gently. "What happened in Maine?"
+"I lost my badge three months after you vanished," I cut in, my voice cracking sharper than I mean it to. Anger and relief tangle so tight in my chest I can barely pull air past the coal grit. "And you still didn't call. You let me bury an empty box in my head for six years."
 
-"A ferry dock," I say, squeezing her freezing, ink-stained hand. Her bones feel fragile beneath the wool, like a bird's wing. "I cleared the judgment. I came up here the second Margot showed me the ledger scan."
+Nina doesn't flinch away from the anger. She holds my forearm harder, her eyes shining wet and dark in the red penlight glow, her thumb sliding down until it catches the thin pink ridge of the Salt Point scar peeking out beneath my torn cuff.
+
+"What happened in Maine?" she asks quietly, her voice steadier than mine.
+
+"A ferry dock," I say, letting my forehead drop for one second against the rough wool of her shoulder. Her collarbone feels sharp as wire beneath the sweater, like a bird's wing. "I cleared the judgment. I came up here the second Margot showed me the ledger scan."
 
 Nina eases herself back against the warm brick chimney, wincing as her ribs press against the mortar. Beside her rolled wool blanket sits a dented aluminum thermos, a half-empty box of saltines, a fountain pen with its cap off, and a heavy rectangular bundle wrapped tight in oiled brown canvas. She unscrews the thermos cap and nudges it toward my knees; lukewarm tap water sloshes inside.
 
 I take two slow swallows, washing the coal grit off my tongue, then hand the steel cup back.
 
-"Wait," I say softly, pulling the folded Guest Ledger page and the glossy Cragmont photograph from my breast pocket. "How did you know Margot would send *me*?"
+Pulling the folded Guest Ledger page and the glossy Cragmont photograph from my breast pocket, I smooth them across my knee. "How did you know Margot would send *me*?"
 
 "I was auditing Arthur's private trust as *Lena Talbot*," Nina whispers, keeping one ear cocked toward the floorboards of Room 4 outside our louver. "My cover gave me access to *Kiefer-Hall Fiduciary*'s estate-trust archive portal. Two weeks ago, an internal escrow alert popped across my screen when you turned down Graham Kiefer's fifty-thousand-dollar bribe at Salt Point."
 

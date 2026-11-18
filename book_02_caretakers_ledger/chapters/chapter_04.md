@@ -8,13 +8,13 @@ I rise slowly from behind the butcher block with both empty palms raised beside 
 
 The man outside doesn't lower the barrel. Behind the glass, his silhouette shifts sideways as a heavy key ring jingles against his hip. A bolt snaps back inside the rear kitchen door. Cold air rushes across my ankles as he kicks the timber slab inward and steps over the threshold, filling the doorway in a snow-crusted waxed parka and size-eleven Vibram lug boots.
 
-Up close, he smells strongly of pine resin, lamp kerosene, and wintergreen smokeless tobacco. Deep weathered lines bracket his mouth beneath a salt-and-pepper beard trimmed short against his jaw. He's pushing fifty, broad through the shoulders, and his left thumb rests steady across the shotgun's top tang safety.
+Up close, he reeks of wintergreen smokeless tobacco and lamp kerosene. Deep weathered lines bracket his mouth beneath a salt-and-pepper beard trimmed short against his face. He's pushing fifty, broad through the shoulders, and his left thumb rests steady across the shotgun's top tang safety.
 
 "I'm Hollis Greer," he says, his eyes flicking from my wet snow boots to the brass key on the island. "Winter caretaker. Who gave you a master key to the front mortise?"
 
 "Margot Kiefer-Hall. State Street." I nod toward the Great Hall archway without dropping my hands. "My navy duffel is behind the study curtains. I hid it when the stairs locked overhead."
 
-Hollis's jaw tightens. He spits a thin dark stream of tobacco juice into the stainless kitchen sink beside the door, then steps past me—keeping the shotgun muzzle angled toward my knees—and snatches the brass skeleton key off the butcher block with his gloved right hand.
+Hollis spits a thin dark stream of tobacco juice into the stainless kitchen sink beside the door, then steps past me—keeping the shotgun muzzle angled toward my knees—and snatches the brass skeleton key off the butcher block with his gloved right hand.
 
 "You shouldn't be in here," he mutters, shoving the key into his parka pocket. "Generator threw a fuel line an hour ago, and some local trespasser broke into the east gable earlier today. I locked the third-floor fire door from the landing to pen him up and snapped a broken key tip into the ward until I could fetch my twelve-gauge from the barn, then went down the back stairs and padlocked the front storm door so nobody else wandered in."
 
@@ -34,7 +34,7 @@ He reads Margot's signed estate-archiving authorization twice, his gloved thumb 
 
 "Ten days," he says, his voice dropping low. "You stay out of the third floor until I clear that attic lock in daylight, and you keep clear of the carriage barn. Snow's too deep by the woodshed anyway."
 
-"My briefing says Arthur Cutler, his wife, and the caretaker left three snowmobiles idling by the woodshed Tuesday night," I say, zipping the portfolio back inside my navy duffel. I sling the bag over my shoulder—no chance I'm leaving Margot's contract out of my sight again—and follow him back toward the kitchen. "Wait. If you're the caretaker, why did the Boston trustees think you walked out with them?"
+"My briefing says Arthur Cutler, his wife, and the caretaker left three snowmobiles idling by the woodshed Tuesday night," I say, zipping the portfolio back inside my navy duffel. I sling the bag over my shoulder—no chance I'm leaving Margot's contract out of my sight again—and follow him back toward the kitchen. "If you're the caretaker, why did the Boston trustees think you walked out with them?"
 
 Hollis pauses at the kitchen threshold, his broad back blocking the porch light. "Because I took my pickup down to the county line Tuesday afternoon to buy shearling blankets before the whiteout hit. Bridge washed out below the ridge, so I couldn't get back up until an hour ago. Somebody else took those sleds—or tried to."
 
@@ -62,7 +62,7 @@ Then I drop my left hand near the lower cowling seam, right above the brass fuel
 
 Sharp, raw gasoline vapor stings my nostrils. Not burnt exhaust. Unburned ninety-one octane liquid, pooled wet around the brass drain valve where someone slipped a rubber siphon hose over the fitting and drained the tanks dry into the three red plastic jerrycans stacked beside the woodshed cordwood rack.
 
-I straighten slowly, wiping a flake of snow off my sleeve so Hollis doesn't see my jaw clench. Nobody rode these sleds. Nobody left them idling in a blizzard either. Someone drained them by hand in the dark to sell a story to Boston.
+I straighten slowly, wiping a flake of snow off my sleeve while keeping my face blank. Nobody rode these sleds. Nobody left them idling in a blizzard either. Someone drained them by hand in the dark to sell a story to Boston.
 
 ***
 

@@ -94,18 +94,12 @@ I close the cover gently, aligning the corner flush under the brass paperweight 
 
 It feels substantial in my hand—heavy brass core under lacquer. I turn the nib under my phone's dim glow.
 
-The iridium tip at the point isn't worn evenly. The left tine—from the writer's perspective—is beveled flat and polished smooth from years of dragging at a steep push-angle across heavy cotton rag paper.
+The iridium tip at the point isn't worn evenly. The left tine—from the writer's perspective—is beveled flat and polished smooth from years of dragging at an odd backward angle across heavy cotton rag paper.
 
-I freeze, turning the pen slowly between my thumb and forefinger. My chest tightens against the quiet room.
-
-Most adjusters only care about numbers. I learned to read handwriting slant six years ago, staring at the last postcard my younger sister Nina mailed out of Burlington before she vanished off every bank grid in New England. Right-handed writers pull a fountain pen across the page, wearing down the center or outer right edge of the nib. To grind down the *left* side of a rigid gold nib like that, you have to push the pen left-handed—curling your wrist above the line or driving the tip backward against the grain.
-
-I flip the sketchbook corner up again, double-checking the ink labels on the early pages. Every letter leans right. Clean downstrokes, zero ink smears across the margins. Lydia Kiefer was right-handed.
-
-So whose left-handed fountain pen is sitting uncapped on her desk?
+Yet when I flip the sketchbook corner up again, every ink label on the early botanical plates leans forward at a clean, steady right-hand slant.
 
 Down the hall, the rhythmic tapping of Graham's keyboard stops.
 
-I drop the Montblanc back onto the green leather blotter—a fraction off-angle, my pulse jumping into my ears—and slide my phone into my pocket. A floorboard creaks softly outside in the runner-carpeted hall. Slow, deliberate weight shifting from one foot to the other, stopping directly outside the cracked studio door.
+I set the Montblanc back onto the green leather blotter—a fraction off-angle—and slide my phone into my pocket. A floorboard creaks softly outside in the runner-carpeted hall. Slow, deliberate weight shifting from one foot to the other, stopping directly outside the cracked studio door.
 
 My fingers curl around the cold brass house key in my pocket. Outside in the dark hallway, the doorknob turns slowly, metal clicking against the latch plate.

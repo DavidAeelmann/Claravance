@@ -4,7 +4,7 @@ I don't argue with a matte-black Glock pointed at my sternum.
 
 I lower my smartphone slowly, crouch beside the scarred workbench, and set the phone face-down on the damp cedar planks. The cold wood bites through my sneakers. My scraped palm stings where I caught myself on the granite cliff stairs, and the salt wind pouring through the open casement behind me raises goosebumps along my forearms.
 
-"Back away from it," Evelyn says. She doesn't blink, and the muzzle doesn't waver by a hair. "Hands where I can see them. Move toward the slipway piling."
+"Back away from it," Evelyn says. The muzzle doesn't waver by a hair. "Hands where I can see them. Move toward the slipway piling."
 
 I step backward two paces, keeping my palms open at shoulder height. Evelyn steps forward, kicks my phone briskly across the boards until it slides to a stop beneath the stacked lobster traps, and grabs a thick black marine cable tie from an open plastic bin on the bench. All my decrypted audio—the 2:09 AM WAV file from the pantry, the Portland cloud links—sits under those traps, useless unless I walk out of here upright.
 
@@ -78,7 +78,7 @@ I saw hard against the rusted steel while her eyes are off my shoulders. Another
 
 "You're really going to let Cole take half your father's trust?" I ask, stalling for a few more seconds, praying the frayed center core of the zip tie gives way before the cliff stairs creak. "He's a county deputy with a crooked tooth and a gambling debt. Once Julian's dead, Cole owns you."
 
-Evelyn's jaw hardens. She takes one step toward me, raising the Glock until the dark muzzle aims straight between my eyes. "Cole knows what happens to people who—"
+Evelyn takes one step toward me, raising the Glock until the dark muzzle aims straight between my eyes. "Cole knows what happens to people who—"
 
 Outside the north wall of the boathouse, heavy boots crunch hard across the crushed oyster shells.
 

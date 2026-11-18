@@ -6,7 +6,7 @@ I stand on the upper landing watching him pause by the front door to tap a tempo
 
 "Don't bother with the kitchenware today," he says, pulling his wool coat collar up against the wet drizzle spitting off the cove. "Focus on the master suite closet and Lydia's vanity. Everything needs to be photographed and logged before tomorrow night."
 
-"I'll stay on schedule," I say, leaning casually against the oak rail so he doesn't see my pulse jumping under my collar. "Did the Boston lawyers confirm Thursday?"
+"I'll stay on schedule," I say, leaning casually against the oak rail. "Did the Boston lawyers confirm Thursday?"
 
 "They're sending a courier out tomorrow evening if I upload the preliminary inventory by five." His gray eyes lift to mine, tired and sharp beneath the foyer sconce. "Don't leave the property without texting me first. The wind's supposed to peak around noon, and I don't want you stranded on the causeway if high water washes over the culvert."
 
@@ -112,6 +112,6 @@ Halstead steps inside, pulling the door shut behind him—and the camera feed fr
 
 I tighten the brass slip-nut under the vanity with two frantic twists of my gloved fingers, blot the wet paper towel dry across the slate tile so not a drop remains, and yank the nitrile gloves off. I shove them deep into my jeans pocket alongside my multi-tool and slip out into the upper hall. If I stay trapped up here in the master suite, Halstead will either corner me at the top of the stairs or walk straight back out before I learn what he's doing inside Graham's kitchen.
 
-My pulse hammers behind my ears. Every rational instinct tells me to grab my duffel, sprint for the Civic, and let Boston sort out this rotten house—except walking out before Thursday means eating a fifty-thousand-dollar NDA breach I can't pay.
+Every rational instinct tells me to grab my duffel, sprint for the Civic, and let Boston sort out this rotten house—except walking out before Thursday means eating a fifty-thousand-dollar NDA breach I can't pay.
 
 I take the narrow back service stairs in my stockinged feet, hugging the plaster wall where the treads won't creak, and freeze two steps above the lower landing as the heavy steel door of the kitchen breaker box clicks open just around the corner.

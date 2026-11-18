@@ -52,9 +52,9 @@ I take a slow sip of the bitter coffee to buy myself a beat. "Depends on the pol
 
 "Then lawyers subpoena phone pings, toll transponders, and bank pulls," I say mildly, watching his fingers tighten around the ceramic handle. "Why? Is Lydia's family contesting the probate petition on Friday?"
 
-Graham looks down at his coffee, his jaw working once under thin skin. "Lydia's brother lives in Zurich. He hasn't spoken to her since their father died, and he's already retained a firm in Boston to freeze our joint accounts until a formal death certificate clears. Meanwhile, Kiefer Soundworks has a patent buyout sitting in escrow with a defense prime out of Arlington."
+Graham looks down at his coffee. "Lydia's brother lives in Zurich. He hasn't spoken to her since their father died, and he's already retained a firm in Boston to freeze our joint accounts until a formal death certificate clears. Meanwhile, Kiefer Soundworks has a patent buyout sitting in escrow with a defense prime out of Arlington."
 
-There it is—the real crack beneath the grief-stricken widower act. I keep my expression neutral, nodding slowly like a sympathetic clerk, though my pulse quickens behind my collar. "Probate freeze locks up company equity?"
+There it is—the real crack beneath the grief-stricken widower act. I keep my expression neutral, nodding slowly like a sympathetic clerk, watching his hands. "Probate freeze locks up company equity?"
 
 "Locks up everything," he says, voice dropping an octave into something rawer, less rehearsed. "My R&D payroll clears next Wednesday. If the probate judge freezes the marital trust before Friday's filing, the Arlington buyer walks away from the acquisition, and my creditors call the lab lease by Thanksgiving. That's why I need an independent, itemized ledger on Friday at five. Not because I want her sweaters out of sight. Because if I miss that filing window, I lose twelve years of work."
 
@@ -100,6 +100,6 @@ My fingers tighten around the cold ceramic mug. Behind me, the sliding glass doo
 
 "The sunroom rugs are first on the ledger," he says, glancing down toward the empty mudflat where ripples still spread across the gray channel. "Maren Lindqvist keeps to herself down there. Don't waste your afternoon chatting if she wanders up the beach—she's been trying to dispute our cove boundary line for six years."
 
-"Doesn't look like she's wandering up here." I turn back inside before he can read my face, my pulse still drumming hard behind my ears. Two fingers. A chin jerk toward a locked boathouse Graham told me the Coast Guard already cleared.
+"Doesn't look like she's wandering up here." I turn back inside before he can read my face. Two fingers. A chin jerk toward a locked boathouse Graham told me the Coast Guard already cleared.
 
 Graham steps aside to let me pass, his hand lingering on the glass door frame. Down by the water, the locked boathouse roof glistens wetly in the fog, its side casement shuttered tight from the inside.

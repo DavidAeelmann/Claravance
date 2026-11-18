@@ -90,9 +90,9 @@ My chest feels hollow. Either the sediment at the bottom of that glass was nothi
 
 "And the medicine cabinet?"
 
-"Ibuprofen, retinol, standard prescriptions," I say without blinking. "Nothing missing."
+"Ibuprofen, retinol, standard prescriptions," I say evenly. "Nothing missing."
 
-His jaw relaxes a fraction, though his eyes stay guarded. "Good. Get some sleep. Tomorrow's going to be a long haul before the courier arrives."
+His shoulders drop a fraction, though his eyes stay guarded. "Good. Get some sleep. Tomorrow's going to be a long haul before the courier arrives."
 
 I leave the glass two-thirds full on the coaster, say goodnight, and climb the oak stairs to the guest suite. Once the privacy latch clicks shut and I wedge the desk chair tight under the knob, I lean back against the panel for five seconds, letting my breath out in a long, shaking line. Two point four million dollars in trust embezzlement. A deputy with administrator PINs. A flashlight sweeping inside a locked boathouse. Downstairs, the living room hearth screen clanks shut as Julian banks the fire for the night, and the cast-iron radiator under my window ticks sharply as steam surges through the pipes.
 

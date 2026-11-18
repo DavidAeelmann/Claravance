@@ -20,7 +20,10 @@ Any occurrence in a draft triggers automatic Critic rejection and rewrite:
 7. **Purposeful Micro-Actions Only:** Do not narrate granular body/object mechanics unless Tessa is deliberately setting a tamper-trap—and if she is, give half a sentence of interior thought so the reader knows why.
 8. **Plausible Clue Placement:** Meticulous antagonists never leave smoking guns in plain sight by accident. Either bury clues inside logical blind spots (sealed autoclave flues, shredder bags, false bulkheads) or explicitly register Tessa's paranoia that the clue was planted as bait or left mid-purge.
 9. **Subtext-First Dialogue:** Characters lie by deflecting to logistics, maritime law, or underwriting procedure. Use `said` or physical action beats for 90%+ of attributions; ban adverbs on dialogue tags (*"he said coldly"*).
-10. **Non-Visual Sensory Grounding:** Every scene must anchor at least two non-visual details (medical formalin, wet cedar crate shavings, Latakia pipe tobacco, salt rime, diesel exhaust, 60-cycle transformer hum, wet brick).
+10. **Non-Visual Sensory Grounding (No 3-Item Smell Lists):** Anchor scenes with one unexpected, sharp sensory detail (medical formalin, wet cedar shavings, Latakia tobacco, 60-cycle transformer hum)—never a formulaic three-item list (`smelling of X, Y, and Z`).
+11. **Zero "Chapter-Reset" Inventory/Backstory Recaps:** Introduce Tessa's scars, `$41,000` balance, Civic, and `WARD C` key once when active. Never start or pad chapters with pocket pat-downs or backstory recitals.
+12. **Somatic Cliché & Pivot Bans:** Never use `"Wait."` / `"—Wait."` monologue pivots or `"Not X. Just Y."` contrastive fragments. Cap `pulse`, `stomach`, `heartbeats`, `blink`, `jaw tightens`, and `cold sweat` to at most 1–2 organic uses across the entire book.
+13. **Separate Observation from Deduction:** Plant physical evidence and let the reader connect the dots a beat before Tessa explains it—no immediate three-sentence forensic lectures upon finding a clue. Vary scene-to-scene investigation and escape mechanics.
 
 ## 4. Scene-Expansion Pacing Rule
 - Each ~1,750–2,200-word chapter MUST be drafted across **3 discrete ~600–750-word scene beats** (Entry/Friction → Escalation/Subtext → Physical Discovery/Early Cut). Never compress or summarize transitions.

@@ -64,7 +64,7 @@ I unzip the duffel and lay the items out under the harsh rig floodlights, keepin
 
 First, I set down the encrypted matte-black thumb drive (`RAW_BUFFER_OCT14_15`) beside the yellow warning slip Cole wrote on Tuesday. "Raw acoustic server buffer from the night of October fourteenth, plus Cole's left-handed handwriting sample," I tell him. "Match his slant against the left-handed nib wear on the silver Montblanc sitting on Lydia's studio blotter upstairs. He accidentally laid down his own pen at two-fourteen instead of hers."
 
-Ward's jaw tightens as he bags both items with gloved fingers. "And the rest?"
+Ward bags both items with gloved fingers. "And the rest?"
 
 "The orange life jacket on mudroom peg two is soaked with tap water, not sea salt, and Lydia planted a bronze cleat in my Civic's spare-tire well," I say, nodding toward the glass house. "Your crime-scene team will also find dissolved Ambien in the master bath U-bend, a brass pipe wrench inside Zone Four, and the rusted oyster knife I dropped on the foyer slate."
 

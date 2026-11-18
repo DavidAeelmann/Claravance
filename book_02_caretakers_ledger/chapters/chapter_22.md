@@ -48,7 +48,7 @@ Yet Nina is sitting two feet away—bruised, exhausted, and still guarding that 
 
 "You co-signed Escrow Account `#884-19B` in October 2020," I say flatly. "You paid Hollis Greer a hundred and forty-five thousand dollars to bury three dead children under fake hypothermia autopsies. If we hand that original ledger to your compliance counsel first, page forty-four will vanish into a shredder before lunch."
 
-Margot doesn't blink. "If that ledger hits a public docket unredacted, Cutler Biotech stock craters by morning, federal regulators freeze Kiefer-Hall's institutional bond pool, and forty pension funds lose their shirts. Take the hundred thousand, Tessa. Your sister gets a clean name, and nobody has to spend three years in federal depositions."
+Margot holds my gaze. "If that ledger hits a public docket unredacted, Cutler Biotech stock craters by morning, federal regulators freeze Kiefer-Hall's institutional bond pool, and forty pension funds lose their shirts. Take the hundred thousand, Tessa. Your sister gets a clean name, and nobody has to spend three years in federal depositions."
 
 ***
 
@@ -58,7 +58,7 @@ I reach past the wire slip on the steel tray table and push the blue privacy cur
 
 "Ms. Halvorsen," I call out, my voice carrying clean down the hallway.
 
-Margot's jaw locks white beneath the plum bruise on her cheekbone, though she doesn't turn around or step back. She keeps her hands folded calmly inside the pockets of her borrowed trench coat while the state trooper beside the doorframe shifts his weight onto his heels.
+Margot's face goes rigid beneath the plum bruise on her cheekbone, though she doesn't turn around or step back. She keeps her hands folded calmly inside the pockets of her borrowed trench coat while the state trooper beside the doorframe shifts his weight onto his heels.
 
 Nina stands up from the rolling chair, suppressing a wince as she straightens, and walks straight past Margot into the corridor. She unbuttons her navy fleece, draws the oilskin-wrapped **Caretaker's Ledger** clear, and places the original calfskin book directly into Halvorsen's gloved hands. Beside it, I drop two sealed hospital biohazard bags onto the courier's clipboard—the wrapped **crystal brandy stopper** and the **half-charred nitroglycerin rescue-spray canister** from my coat pocket.
 

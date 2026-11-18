@@ -34,7 +34,7 @@ I test the cellar knob gently. Locked with an interior mortise bolt. I slide Mar
 
 I ease the heavy plank door open, slip onto the top cellar tread, and pull the door nearly shut behind me, leaving half an inch of clearance so the latch won't click loud in the silent kitchen.
 
-Warm, oily air rises from below, smelling heavily of diesel exhaust, damp concrete, and hot cast iron. The steady mechanical thrum of the backup generator grows louder with every step down the steep wooden stairs.
+Warm, oily air rises from below, heavy with diesel exhaust. The steady mechanical thrum of the backup generator grows louder with every step down the steep wooden stairs.
 
 At the bottom, a narrow concrete vault opens around a massive, soot-streaked cast-iron boiler flanked by two tall black heating-oil tanks. A single caged work bulb hangs low over the diesel generator in the far corner, casting harsh yellow light across copper supply pipes, pressure gauges, and gray block walls.
 
@@ -70,15 +70,15 @@ I snatch my hand back with a sharp hiss. The bare copper pipe burns blistering h
 
 Someone isn't heating the guest rooms or the Great Hall. Hollis Greer—or whoever set this manual bypass valve—has been pumping eighteen gallons' worth of scalding boiler heat straight up the east chimney chase into the locked third-floor attic for two straight days.
 
-Wait. Not Hollis. Hollis locked the third-floor fire door from the *outside*—or told me he locked a trespasser inside the east gable. Why would Hollis burn eighteen gallons of his own heating oil to keep a trespasser warm? Unless he never checked the manual bypass damper behind the boiler, or someone else slipped down here after Tuesday's storm and cranked the East Attic valve wide open.
+Not Hollis. Hollis locked the third-floor fire door from the *outside*—or told me he locked a trespasser inside the east gable. Why would Hollis burn eighteen gallons of his own heating oil to keep a trespasser warm? Unless he never checked the manual bypass damper behind the boiler, or someone else slipped down here after Tuesday's storm and cranked the East Attic valve wide open.
 
-I step past the hot cast-iron furnace jacket toward the back corner of the concrete vault, where the whitewashed brick chimney stack drops straight into the cellar floor. The air back here smells different—cold limestone dampness cutting through the diesel fumes, mixed with fine gray coal dust.
+I step past the hot cast-iron furnace jacket toward the back corner of the concrete vault, where the whitewashed brick chimney stack drops straight into the cellar floor. The air back here smells of cold limestone dampness cutting through the diesel fumes.
 
 Set low into the brick base—barely waist-high—sits a heavy vertical cast-iron damper plate riding inside greased steel side tracks, held in place by a thick iron counterweight lever. Above the frame, a slanted brick shaft angles steeply upward through the rear foundation wall toward the hillside behind the kitchen wing.
 
 *Coal & Ash Chute.* The dotted red line from Arthur's 1904 survey map.
 
-I step closer, crouching to check the soot-dusted concrete floor beneath the iron damper lip. Most of the basement dust sits thick and undisturbed—Wait.
+I step closer, crouching to check the soot-dusted concrete floor beneath the iron damper lip. Most of the basement dust sits thick and undisturbed—except directly under the plate.
 
 Right below the bottom edge of the iron damper, the fine gray soot has been swept clean in a narrow smear, as if the sliding plate was hoisted up recently. A fresh smudge of dark-blue fountain ink stains the rusty iron counterweight handle, barely an inch from a pale scrape in the soot where someone's boot heel slipped.
 

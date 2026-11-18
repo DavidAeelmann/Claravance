@@ -62,7 +62,7 @@ Walking out of this house tonight starts looking less like a choice and more lik
 
 Halstead stops beside the kitchen sink. He turns the tap for a second, wets a paper towel, and drops to one knee to wipe the faint muddy heel-print he left near the breaker box off the slate tile. When he straightens and tosses the wet towel into the pull-out trash drawer, he pauses to glance at the empty dishwasher rack before turning toward the back service stairs.
 
-For three agonizing heartbeats, he stares straight up the narrow stairwell I just vacated.
+He stares straight up the narrow stairwell I just vacated.
 
 He takes one step toward the bottom tread, his left hand resting lightly on his utility belt.
 
@@ -74,7 +74,7 @@ He stops with one boot on the bottom stair, pulls a battered black flip-phone fr
 
 He steps sideways into the narrow pantry corridor to stay out of sight of the front windows, stopping so close to the louvered cedar door that the wet wool of his sleeve nearly brushes the outside slats.
 
-I can smell him through the wood—rainwater, stale coffee, and the sharp metallic tang of gun oil.
+I can smell him through the wood—wet wool and the sharp tang of gun oil.
 
 "Yeah," Halstead mutters, his voice pitched low enough to stay under the hum of the refrigerator's backup battery. "I'm inside now. The deck bus is bridged."
 

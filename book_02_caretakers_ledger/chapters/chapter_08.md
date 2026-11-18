@@ -34,7 +34,7 @@ A wiry man in his early fifties steps down onto the running board, wearing an Es
 
 "Tessa Calder," I say, stopping just outside his arm's reach while keeping my breathing steady. "And I'm not hiking for fun. Arthur Cutler's cellar boiler is burning through fuel oil, my car's ignition harness was snipped outside your gate last night, and I need a tow truck out of St. Johnsbury before noon."
 
-Pike doesn't blink. He shifts the cinnamon toothpick to the other cheek and spits lightly into the snowbank. "Can't get a wrecker up here even if you paid double. Covered bridge three bends below the county line washed an abutment during Tuesday's thaw-and-freeze. State highway crew dropped barricades at dawn. Nobody's rolling past the bend till Friday night at the earliest."
+Pike shifts the cinnamon toothpick to the other cheek and spits lightly into the snowbank. "Can't get a wrecker up here even if you paid double. Covered bridge three bends below the county line washed an abutment during Tuesday's thaw-and-freeze. State highway crew dropped barricades at dawn. Nobody's rolling past the bend till Friday night at the earliest."
 
 Another clean lie. Tuesday's storm was a subzero blizzard, not a spring thaw—there wasn't enough meltwater on this ridge to float a pine cone, let alone wash out a granite bridge abutment.
 
@@ -54,7 +54,7 @@ Hollis Greer didn't just radio Pike at the gate this morning. He drove down in h
 
 "I'd like to use your truck radio to call my Boston office," I say, keeping my tone stubborn and bureaucratic. "My cell's dead on this ridge, and the lodge landline hasn't had a dial tone since Tuesday. If you won't let a wrecker up, at least patch a status call through dispatch."
 
-Pike's jaw tightens. He pulls the cab door half-shut, blocking my view of the visor envelope with his shoulder. "County VHF doesn't patch commercial calls to Boston, miss. And Hollis told me the lodge's copper trunk snapped under an ice limb during the squall. Nothing goes in or out on wire till the power company runs a line truck."
+Pike pulls the cab door half-shut, blocking my view of the visor envelope with his shoulder. "County VHF doesn't patch commercial calls to Boston, miss. And Hollis told me the lodge's copper trunk snapped under an ice limb during the squall. Nothing goes in or out on wire till the power company runs a line truck."
 
 Before I can push back, the black Motorola dispatch console bolted beneath his dashboard squawks loud through the cold air.
 

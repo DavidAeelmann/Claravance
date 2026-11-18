@@ -52,7 +52,7 @@ In the orange firelight from the burning woodshed, the faceted glass inside the 
 
 "Not after the state medical examiner swabs this stopper and tests the residue inside your charred spray canister," I say, keeping my voice steady over the roar of the fire. "I pulled your burned *CutlerCor* blister packs out of your vanity porcelain bowl, Simone. Nina watched you press that tampered nozzle under Arthur's tongue at eleven-forty Tuesday night. You poisoned your husband on his own study rug, packed him in salt to fake his time of death, and then wedged an iron bar across the cellar bulkhead to burn Hollis alive."
 
-Simone's pale fingers go rigid against the door frame. Her jaw trembles in the freezing draft as the truth settles over her—Nina didn't die in the snow, and the evidence didn't burn in the hearth. She stares at the sealed crystal stopper in my palm, then past my shoulder toward the side of the burning lodge.
+Simone's pale fingers go rigid against the door frame. Her shoulders shake in the freezing draft as the truth settles over her—Nina didn't die in the snow, and the evidence didn't burn in the hearth. She stares at the sealed crystal stopper in my palm, then past my shoulder toward the side of the burning lodge.
 
 Her eyes widen in pure, unmasked terror.
 
@@ -72,4 +72,4 @@ His bloodshot eyes lock straight onto **Nina**, who has stepped half out from be
 
 "Leave her alone, Hollis!" I shout, stepping sideways off the SUV running board to draw his aim toward me, my fingers tightening on Arthur's walnut cane.
 
-Orange firelight glints off the missing joint of his scarred right hand. Hollis doesn't even blink in my direction. He staggers several steps forward through the crusted drift, boots crunching loud in the frozen quiet between the SUV and the woodshed, and raises the snub-nose revolver across the snowlit hood of Margot's truck—aiming straight at Nina's heart while frost glints cold along the steel barrel and his scarred right hand tightens on the iced grip.
+Orange firelight glints off the missing joint of his scarred right hand. Hollis ignores me completely. He staggers several steps forward through the crusted drift, boots crunching loud in the frozen quiet between the SUV and the woodshed, and raises the snub-nose revolver across the snowlit hood of Margot's truck—aiming straight at Nina's heart while frost glints cold along the steel barrel and his scarred right hand tightens on the iced grip.

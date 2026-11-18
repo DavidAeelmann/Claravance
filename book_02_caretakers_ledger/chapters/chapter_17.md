@@ -1,20 +1,18 @@
 ## Chapter 17
 
-When my vision clears, Hollis's heavy boot is planted square between my shoulder blades, and he's wrenching my wrists behind my back to cinch a second black nylon zip tie over the first. He hauls me upright onto my knees beside the stone hearth, levels the twelve-gauge barrel beneath my chin, and demands to know where Lena hid the Caretaker's Ledger.
+When my vision clears, Hollis's heavy boot is planted square beside my temple, and the twelve-gauge double-barreled shotgun is leveled an inch from my nose.
 
-My wrists are numb where the double nylon ratchets bite into my wool cuffs.
+Cold radiates up through the Great Hall flagstones into my shoulder. A thin trickle of blood from my scraped temple dries sticky against my jaw, tasting of copper and hearth dust. Across the room, the black iron poker hisses softly where its hooked tip rests in the glowing birch coals.
 
-Cold radiates up through the Great Hall flagstones into my knees, sharp enough to make my teeth ache. A thin trickle of blood from my scraped temple dries sticky against my jaw, tasting faintly of copper and hearth dust. Behind me, the black iron poker hisses softly as its hooked tip settles deeper into the glowing birch coals.
+Hollis stands two paces back, the shotgun balanced across his forearm. His scarred right hand rests near the trigger guard, stained dark with soot and wintergreen spit.
 
-Hollis stands two paces back, the twelve-gauge double-barreled shotgun balanced across his forearm. His scarred right hand rests near the trigger guard, stained dark with soot and wintergreen spit.
-
-Across the hearth, Margot Kiefer-Hall sits slumped in the worn leather armchair, white nylon rope cutting deep into the camel hair sleeves of her coat. A plum bruise swells along her left cheekbone, yet her eyes stay fixed on the dark archway leading toward the pantry—the same direction I came from before Simone blindsided me with the brass desk weight.
+Across the hearth, Margot Kiefer-Hall sits slumped in the worn leather armchair, white nylon rope cutting deep into the camel hair sleeves of her coat. A plum bruise swells along her left cheekbone, yet her eyes stay fixed on the dark archway leading toward the pantry—the direction I came from before Simone blindsided me with the brass desk weight.
 
 "Empty her coat," Hollis says, nodding toward me with the shotgun barrel. "Everything on the hearthstone."
 
-Simone steps around the corner of the study archway. She has set the heavy brass desk weight on the corner of the oak lectern, though her fingers still tremble violently against the hem of her cashmere turtleneck. Raynaud's circulation, or panic. Either way, her fingertips look dead white in the orange firelight.
+Simone steps around the corner of the study archway. She has set the heavy brass desk weight on the oak lectern, though her fingers still tremble violently against the hem of her cashmere turtleneck. Raynaud's circulation, or panic. Either way, her fingertips look dead white in the orange firelight.
 
-She drops to one knee beside me—her weight pinning my bruised shoulder hard against the floorboards—and yanks my wool coat open.
+She drops to one knee beside me—her weight pinning my bruised shoulder against the floorboards—and yanks my wool coat open.
 
 "Don't bother with the duffel," Hollis says. "I already saw the sliced leather inside. Check her pockets."
 
@@ -28,41 +26,21 @@ Next, Simone drags out the heavy brass skeleton key, the snapped steel key tip, 
 
 Simone shoves her hand into my inner breast pocket, patting the lining flat before yanking out only the stamped brass room tag. She glances down at the stamped letters—**ROOM 4 — ATTIC EAST**—and scoffs once under her breath.
 
-"A room key tag," she says, tossing the flat brass rectangle onto the flagstones right behind my heels. "She's not carrying the ledger, Hollis. I told you."
+"A room key tag," she says, tossing the flat brass rectangle onto the flagstones. "She's not carrying the ledger, Hollis. I told you."
 
-The brass tag clatters softly against the stone, sliding an inch behind my left boot heel.
+Hollis doesn't look at the brass tag. He keeps the shotgun leveled at my chest while he steps sideways toward the grate, reaches down with his left hand, and pulls the black iron poker clear of the birch coals.
 
-Hollis doesn't look at the brass tag. He keeps the shotgun muzzle leveled at my chest while he steps sideways toward the grate, reaches down with his left hand, and pulls the black iron poker clear of the birch coals.
+The hooked tip glows dull orange, radiating dry heat across the hearthstone.
 
-The hooked tip glows dull orange, radiating dry heat that smells of scorched iron and baked dust.
+"Last chance," Hollis says. "Where did Lena stash the Caretaker's Ledger?"
 
-***
-
-"Last chance," Hollis says. He holds the glowing poker low beside his hip, keeping the shotgun cradled steady against his shoulder. "Where did Lena stash the Caretaker's Ledger?"
-
-My ribs ache every time I pull a breath through my nose. Above the shattered clerestory glass, the wind claws at the east gable flashing, carrying the hollow rattle of frozen spruce branches. If I tell him the truth—that Nina is thirty paces above our heads inside Room 4 with the oilskin-wrapped ledger—he will march up the back stairs with the twelve-gauge and burn the attic down around her.
-
-I shift my weight slightly backward onto my heels, letting my wool coat hem brush the cold flagstones behind me.
-
-My bound fingers grope blindly across the grit until the sharp stamped corner of the **brass room tag** scrapes my right palm.
-
-I curl my middle and ring fingers around the flat metal, tucking it tight against the underside of my wrist where the outer nylon zip tie crosses my wool cuff.
-
-"It's not in the house," I say, keeping my voice flat.
-
-Hollis tilts the iron poker an inch closer to Margot's leather armchair. The heat off the tip makes Margot pull her chin back against the high leather wing, though she refuses to close her eyes.
-
-"Don't waste my time," Hollis says. "Lena hasn't stepped outside this lodge since Tuesday night's blizzard."
-
-"She didn't have to," I say. Behind my back, I angle the sharp stamped edge of the brass tag straight against the raised plastic housing of the outer zip tie—right where the nylon locking tooth grips the ribbed tail. "She dropped it down the coal chute before I met her in the icehouse. I carried it down the drive when I went to check my Civic."
+"It's not in the house," I say, pushing myself up onto one elbow. Above the shattered clerestory glass, the wind claws at the east gable flashing, carrying the hollow rattle of frozen spruce branches. If I tell him Nina is thirty paces above our heads inside Room 4, he will march up the back stairs and burn the attic down around her. "She dropped it down the coal chute before I met her in the icehouse. I carried it down the drive when I went to check my Civic."
 
 Simone takes a sharp half-step forward from the lectern. "She walked down to the gates?"
 
-"You saw my snowshoe tracks," I say, looking straight at Hollis. "The ones you found yesterday afternoon before you called Simone on the intercom. I didn't leave the ledger in the study. I locked it inside the spare tire well under the Civic's trunk mat."
+"You saw my snowshoe tracks," I say, looking straight at Hollis. "The ones you found yesterday afternoon before you called Simone on the intercom. I locked it inside the spare tire well under the Civic's trunk mat."
 
-I press my thumb hard against the flat face of the brass tag and drag its milled corner across the nylon ratchet. Once. Twice. The hard plastic resists, slick with sweat, then gives a faint dry *click* as the brass edge bites a shallow groove into the casing.
-
-Hollis studies my face in the orange firelight. He isn't stupid. He knows my Civic has a clipped distributor wire and four sliced tire chains sitting three-quarters of a mile down an unplowed logging grade. Yet he also knows I walked back up that same grade yesterday afternoon, and if I hid an unredacted ledger in a locked trunk down by the county turnaround, leaving it there until morning means risking Pike or a state plow driver spotting the tire ruts. Every second he argues with Simone costs him his only clean exit before daylight.
+Hollis studies my face in the firelight. He isn't stupid. He knows my Civic has a clipped distributor wire and four sliced tire chains sitting three-quarters of a mile down an unplowed logging grade. Yet he also knows I walked back up that same grade yesterday afternoon, and if I hid an unredacted ledger in a locked trunk down by the county turnaround, leaving it there until morning means risking Pike or a state plow driver spotting the tire ruts.
 
 "Why put it in a dead car?" he asks softly.
 
@@ -72,40 +50,84 @@ Margot lets out a short, bitter sound through her nose. "You told me you were au
 
 "I was," I say. "Arthur's."
 
-Behind my back, I saw the brass corner deeper into the nylon tooth. My right index finger splits open slightly against the sharp stamped edge, slicking the metal warm, which only helps me brace it tighter against the plastic ratchet. One more deep score and the locking pawl will weaken enough to snap if I drive my elbows apart.
-
 Hollis shifts his weight toward the archway. "Simone, take the truck keys off the pegboard and—"
 
 "No," Simone snaps. Her voice cracks high in the rafters. "I'm not walking down that dark road alone while you stay up here with a shotgun and a dead body in the icehouse. It's two in the morning. If you want what's in her trunk, go get it yourself."
 
 "And leave you here with Margot?" Hollis asks. His jaw muscles bunch beneath his gray stubble. "You already offered her the icehouse key an hour ago."
 
-"Then tie her to the lectern!" Simone points a shaking finger toward me. "Wait until five o'clock! Who cares about her sister's ledger if the trust vests at five?"
+"Then lock them both in the study," Simone says, pointing toward the heavy walnut doors beside the hearth. "There's no phone, the shutters are bolted from outside, and the key is on your ring. I'll sit right here in the hall with the poker while you drive down to the gates."
 
-"I care," Hollis says. His voice drops cold and flat. "Because my name is on page forty-four."
-
-He takes one step toward me, raising the glowing poker toward my scraped cheek—close enough that the radiant heat dries the blood on my jaw and singes the loose hairs near my temple.
+Hollis considers the walnut doors for two seconds, then nods once with the shotgun barrel. "Up. Both of you. Move."
 
 ***
 
-"Hollis," Margot says sharply from the armchair. "Look at the flue."
+Hollis shoves me through the open study doorway first, then drags Margot upright by her camel hair collar—keeping the white nylon rope cinched tight around her wrists—and pushes her stumbling across the Persian rug behind me.
 
-I don't look up. I keep my eyes locked on Hollis's trigger finger while I drive the brass corner one last time into the scored plastic tooth behind my back. Warm blood runs down my wrist under the wool cuff, slicking the brass tag against my palm, and then the notched nylon casing finally parts half its thickness with a sharp *snick* against my thumb.
+The heavy walnut door slams shut against the jamb. A brass mortise key turns twice in the cylinder from the hall side, followed by the heavy scrape of an oak chair wedged under the outer doorknob.
 
-A faint, hollow *clank* echoes down the stone chimney shaft—metal striking cast iron high above our heads, like a heavy pipe wrench turning a rusted gate valve. Cold soot flakes drift down onto the iron grate, sizzling instantly against the birch coals.
+Pitch darkness swallows the study. Only a faint orange hairline glows along the bottom gap of the door from the Great Hall fire, leaving the walnut bookcases and Arthur's massive desk as black shapes against the shuttered windows. The room smells of old cigarillos and cold varnish.
 
-Hollis freezes. The glowing iron poker hovers close enough to my face that my eyes water from the dry heat.
+Margot drops onto the edge of the leather sofa beside the desk, breathing hard through her nose. Even in the dark, she doesn't whimper.
 
-"What is that?" Simone whispers, backing away from the lectern toward the study wall. "Hollis, there's nobody up there."
+"This is your brilliant field work, Tessa?" she asks, her voice low, clipped, and furious. "You told me you didn't have the ledger."
 
-Another metallic groan vibrates down the stone chimney breast, followed by a sudden, rushing hiss inside the plaster walls where the third-floor gravity water tank riser meets the attic flue. Old oak pipes shudder under the sudden pressure.
+"I don't," I say, crossing to the walnut door and testing the brass handle. Dead solid. No play in the latch, and the chair wedged under the outer lever keeps the spindle from turning even if I had a pick. "My sister has it."
 
-Nina. She must have heard Hollis's voice carrying up the service chase and traced the drain pipe straight to the chimney crown.
+Silence settles between us for three seconds. Across the room, the floorboard creaks softly as Margot shifts her bound wrists against the sofa arm.
 
-"Move!" I yell at Margot, throwing my weight sideways off my knees toward the leather armchair just as the overhead iron damper bangs wide open.
+"Lena Talbot," Margot says slowly. "Your sister was *Lena Talbot*."
 
-A solid column of freezing cistern water drops straight down the stone chimney flue.
+"Nina," I correct her, feeling along the dark oak trim of the apothecary cabinet beside the desk. Hollis smashed the glass panels Tuesday night when he chased her out, leaving jagged shards along the mahogany shelf. I need a wedge, a lever, or a blade. "You flagged my name in your Boston portal two weeks ago because you knew who I was. You wired a satellite tracker into my portfolio, sent me up an unplowed mountain in a storm, and didn't mention Arthur Cutler was already dead."
 
-It hits the glowing birch coals and the red-hot iron grate all at once.
+"I paid you forty-five thousand dollars to find a body before five o'clock Friday," Margot snaps back. "You took the check. Don't stand in the dark and pretend you came up here for probate hygiene."
 
-The Great Hall hearth detonates in a roaring geyser of scalding white steam, wet soot, and blinding gray ash that blasts outward across the flagstones, choking out every ember and swallowing the firelight in pitch darkness.
+"I came up here for my sister." My fingers brush the cold brass hinge pin of the smashed apothecary door, then drop to the heavy **wrought-iron log tongs** leaning against the study's cold stone fireplace. They're three feet of solid forged iron, flat-tipped and heavy enough to pry a mortise strike plate off an oak jamb if I can get enough bite behind the stop.
+
+"Help me," I say, stepping back toward the door. "The chair under the outer knob won't budge unless we pop the hinge pins on this side or pry the strike plate out of the frame. Your wrists are tied, not your legs. Brace your shoulder against the bottom panel and push when I say."
+
+Margot doesn't move from the sofa. "And when we get out into the hall? Hollis has a twelve-gauge and Simone has a red-hot poker."
+
+"Hollis is heading down the drive to check my Civic," I tell her, jamming the flat iron tip of the tongs into the narrow gap between the walnut doorjamb and the brass strike plate. "If we stay in here until he finds an empty trunk, he comes back up that road and burns this room with both of us inside it. Get off the sofa, Margot."
+
+A rustle of camel hair wool crosses the rug. Margot steps up beside me in the dark, her shoulder brushing mine—tense, stiff, smelling faintly of cold espresso and soot.
+
+"On three," I whisper.
+
+I wedge the iron tongs deeper behind the brass plate, wrap both hands around the cold shaft, and heave sideways with every ounce of weight in my back. Margot drives her hip and shoulder hard against the lower walnut panel.
+
+Wood groans. Paint cracks along the stop molding.
+
+The iron tip slips once off the greased brass lip—slamming my right hand straight into the jagged edge of the shattered **strike-plate housing**.
+
+Sharp pain flares across my **right index knuckle** as warm blood wells instantly over the torn skin, slicking the iron shaft. I bite down hard on my lip to keep from cursing out loud and wrap my wool cuff around the wet iron to keep my grip.
+
+"Again," I rasp.
+
+***
+
+Behind the walnut door, voices rise sharply in the Great Hall.
+
+"I'm taking the truck," Hollis says, his heavy boots crossing the flagstones toward the mudroom. "Keep the poker in the coals. If either of them rattles that knob, put a shell through the lower panel."
+
+"Don't tell me how to watch a door," Simone snaps.
+
+I jam the iron tongs back into the splintered gap above the mortise bolt, ignoring the hot throb across my split index knuckle, and lever downward with both elbows. Margot throws her weight against the panel beside me. The pine stop-strip splits with a dry, muffled *crack*, giving me half an inch of purchase behind the deadbolt throw.
+
+One more hard pry will pop the brass keeper clean out of the jamb.
+
+Then, from somewhere high above the Great Hall hearth, a faint, hollow *clank* echoes down the stone chimney shaft—metal striking cast iron, like a heavy pipe wrench turning a rusted gate valve.
+
+Margot freezes beside me, her shoulder rigid against the door. "What was that?"
+
+"Get down," I breathe, dropping flat onto my knees and dragging Margot's camel hair sleeve down beside me behind the heavy walnut desk.
+
+Another metallic groan vibrates through the plaster wall, followed by a sudden, rushing hiss inside the Great Hall chimney breast where the third-floor gravity water tank riser meets the attic flue.
+
+"Hollis!" Simone screams from the hall. "There's someone up—"
+
+The overhead iron damper bangs wide open.
+
+A solid column of freezing cistern water drops straight down the Great Hall chimney flue, hitting the glowing birch coals and the red-hot grate all at once.
+
+The hearth detonates in a roaring geyser of scalding white steam, wet soot, and blinding gray ash that blasts outward against the study door—blowing our splintered walnut latch clean off its cracked keeper and flinging the heavy door wide open into the dark room.

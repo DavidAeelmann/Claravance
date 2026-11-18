@@ -36,11 +36,11 @@ Margot doesn't flinch. She doesn't even glance toward the kitchen door. Instead,
 
 Margot walks across the flagstones, lifts the leather **$45,000 NDA portfolio** out of my open navy duffel, and flips it open on the oak reception lectern beside the sliced Guest Ledger. She pulls a slender silver penknife from her camel hair coat pocket, slices cleanly down the stitched leather spine of the portfolio, and peels back the heavy calfskin lining.
 
-Wedged inside a routed foam hollow sits a flat, thumb-sized matte-black circuit board wired to a lithium coin cell, blinking a tiny amber diode once every four seconds. My throat goes dry. Margot didn't just buy my debt—she wired a live satellite tracker straight into the leather spine I carried into my own sister's hiding place.
+Wedged inside a routed foam hollow sits a flat, thumb-sized matte-black circuit board wired to a lithium coin cell, blinking a tiny amber diode once every four seconds. Margot didn't just buy my debt—she wired a live satellite tracker straight into the leather spine I carried into my own sister's hiding place.
 
 "An **Iridium satellite burst-transceiver**," Margot says, holding the black chip up between two gloved fingers so the firelight catches the copper antenna trace. "It pinged from the second-floor west guest room until four-thirty this afternoon, then moved straight downstairs into Arthur's study. You moved her bag, Hollis—and she left the portfolio behind before she bolted."
 
-Hollis's jaw goes rigid, the muscle bunching beneath his gray stubble. He stares at the blinking black chip in Margot's fingers, then looks sharply across the hearth at Simone.
+Hollis stares at the blinking black chip in Margot's fingers, then looks sharply across the hearth at Simone.
 
 "You told me she was trapped in the icehouse," Hollis snaps, his boots shifting on the stone.
 

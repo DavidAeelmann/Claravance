@@ -38,13 +38,13 @@ The **Stone Icehouse** sits half-buried in the hillside, its pitched cedar-shing
 
 I grip the cold iron bar with both hands, brace my boot against the granite sill, and heave upward until the steel clears the upper staple. Frozen condensation pops along the iron. The bar slides free with a dull metallic scrape, and I lay it silently in the snow before pulling the swollen timber door open just wide enough to slip inside.
 
-The door groans on rusted strap hinges. Inside, the air hits me even colder than the wind outside—dead, stagnant subzero chill thick with the smell of wet granite, sour sawdust, and damp burlap.
+The door groans on rusted strap hinges. Inside, the air hits me even colder than the wind outside—dead, stagnant subzero chill thick with the sour tang of wet sawdust.
 
 I pull the door nearly shut behind me, leaving a narrow crack for air, and click my penlight on.
 
 The narrow beam sweeps over stacked blocks of gray river ice packed in thick yellow sawdust along the east wall, a rusted hand-crank block-and-tackle hanging from a dark spruce beam overhead, and a row of burlap salt sacks leaning against the damp stone. Iron meat hooks dangle empty from a crossbeam near the low rafters. In the center of the dirt-and-flagstone floor, the sawdust mound looks freshly turned—heaped high and uneven over a long, tarp-wrapped shape, with coarse white rock salt scattered thick across the top to keep the frost solid.
 
-My stomach tightens. I step across the crunching salt crystals, kneel beside the mound, and pull back the stiff corner of the blue poly tarp.
+I step across the crunching salt crystals, kneel beside the mound, and pull back the stiff corner of the blue poly tarp.
 
 ***
 

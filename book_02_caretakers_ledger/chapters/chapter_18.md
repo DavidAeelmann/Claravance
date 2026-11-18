@@ -4,19 +4,13 @@ Scalding white steam hits my cheeks like a wet wool blanket, stinging the raw sc
 
 Wet birch ash fills the air, thick and greasy, choking every breath down to a shallow rasp. Behind me, the iron grate hisses violently as cistern water continues to pour down the stone chimney flue, turning the Great Hall hearth into a black, boiling cauldron. Nobody can see across the flagstones.
 
-I drive my elbows apart as hard as my bruised ribs allow.
+I drop the wrought-iron log tongs onto the carpet, grab Margot's camel hair sleeve with my left hand, and haul her low through the blown-open study doorway into the blinding white fog. The heavy walnut chair Hollis wedged under the knob skids sideways across the flagstones and clatters against the reception lectern. Nobody can see two paces ahead through the boiling cloud, and the roar of steam from the chimney flue swallows the sound of our boots.
 
-The scored locking pawl on the outer black nylon zip tie snaps clean with a sharp *pop*. My wrists still catch on the second inner tie, biting deep into my wool cuffs until my fingers go numb. I drop blindly to my knees beside the stone hearth apron, feel the hot steam draft across the nape of my neck, and sweep my bound palms across the wet slate until my knuckles strike cold steel.
+I drop blindly to my knees beside the stone hearth apron, feel the hot steam draft across the nape of my neck, and sweep my palms across the wet slate until my split index knuckle strikes cold steel. My **steel multi-tool**, the cracked **Iridium satellite burst-transceiver**, Margot's silver uplink fob, and my keys sit scattered right where Simone dumped them beside the boots. Every second counts before Hollis or Simone recovers from the blast. Before shoving the gear deep into my right coat pocket, I jam my thumb hard onto the silver fob's recessed panic button—holding it down until a single faint amber LED blinks once through the soot, firing a blind SOS burst toward Boston. My split knuckle stings sharply against the cold metal keys, and I leave the sodden yellow legal pad behind in the wet gray birch ash.
 
-My multi-tool. Simone dumped it right beside Margot's boots, next to the cracked transceiver and the brass skeleton key.
+Beside me, Margot coughs violently into her camel hair collar, stumbling against the edge of the hearth apron as she strains against the white nylon rope around her elbows. "Tessa—he's got a backup revolver in his chore coat. Get out of the hall."
 
-I twist my right wrist awkwardly behind my back, wedge the steel handle against my hip bone, and hook my left thumbnail into the wire-cutter notch until the folding jaws pop open. My split index finger slides warm against the steel grip. I feed the inner nylon strap between the jaws and clamp both hands shut with every ounce of weight I have left. One hard squeeze. The plastic parts cleanly, and my arms swing free with a rush of hot blood down to my fingertips.
-
-Beside me, Margot coughs violently into her camel hair collar, straining against the white nylon rope around her elbows. "Tessa—"
-
-"Stay down behind the leather wing," I whisper, scooping my **steel multi-tool**, the cracked **Iridium satellite burst-transceiver**, Margot's silver uplink fob, and my keys off the wet apron. Before shoving them deep into my right coat pocket, I jam my thumb hard onto the silver fob's recessed panic button—holding it down until a single faint amber LED blinks once through the soot, firing a blind SOS burst toward Boston. My split index finger stings sharply against the cold metal keys, and my bruised knees ache against the wet stone flags as I leave the sodden yellow legal pad behind in the wet gray birch ash.
-
-Margot twists her bound wrists against the white nylon rope, her voice tight against the steam. "He's got a backup revolver in his chore coat, Tessa—get out of the hall."
+"Stay down behind the heavy leather wing," I whisper, shoving her low behind the tall fireside armchair before I can even draw my folding pocket blade to cut her ropes.
 
 A shadow lunges out of the gray fog toward my left shoulder, swinging something heavy and square—Arthur's brass desk weight.
 

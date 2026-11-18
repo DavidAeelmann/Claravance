@@ -20,7 +20,7 @@ I pocket the multi-tool, click my penlight off so no stray beam leaks through th
 
 The grate settles against the brick frame with a dull clack.
 
-Two heartbeats later, a match flares yellow-orange through the crack beneath the timber door behind me. A hollow *whoosh* shakes the plank wall as gasoline catches across the dry cedar shingles, sending the sharp stink of burning pitch and scorched paint racing up toward the rafters. Heat radiates against the soles of my boots.
+A second later, a match flares yellow-orange through the crack beneath the timber door behind me. A hollow *whoosh* shakes the plank wall as gasoline catches across the dry cedar shingles, sending the sharp stink of burning pitch and scorched paint racing up toward the rafters. Heat radiates against the soles of my boots.
 
 I kick my snow-caked boots free of the rusted iron grate and let gravity slide me headfirst into the dark, soot-choked brick throat.
 

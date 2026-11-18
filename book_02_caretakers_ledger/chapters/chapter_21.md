@@ -56,7 +56,7 @@ I drive my knee hard into his sternum, pinning him flat against the ice until th
 
 Hollis lies panting in the churned snow, steam rising off his torn wool chore coat as the orange firelight from the burning woodshed dances across his soot-blackened face. His left wrist hangs swollen and purple against his ribs, and his right hand twitches empty in the slush.
 
-I reach into his open chore coat pocket with my split, aching fingers—finding the exact coil of **black nylon zip ties** he used on me in the Great Hall an hour ago.
+I reach into his open chore coat pocket with my split, aching fingers—finding a fresh coil of heavy **black nylon zip ties** stuffed deep beside two loose twelve-gauge buckshot shells.
 
 "Roll over," I order, hooking his collar with my left hand and dragging him upright against the cold forged iron of the **wrought-iron gate**. His heavy boots drag deep troughs through the slush.
 

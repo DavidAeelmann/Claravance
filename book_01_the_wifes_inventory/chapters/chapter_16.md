@@ -18,7 +18,7 @@ Graham grabs my forearm before I can turn toward the hall. His grip is clammy, f
 
 "Tell him you found them on the porch steps and brought them in out of the rain," I snap. "Don't mention my trunk. Don't mention New Brunswick. Just keep him standing on the front slate until I get back up the hill."
 
-"Wait—where are you going?"
+"Where are you going?"
 
 I don't answer from the study. I stride fast down the north hall, my sneakers silent on the runner, and cut through the sunroom doorway where the gray wool rug still lies crooked over the bleached cedar boards. The padded manila envelope from the basement sits on the kitchen island behind me, out of reach if Cole comes through the front door first. Good. Let Cole waste his time chasing paper inside the house.
 
@@ -26,9 +26,9 @@ I don't answer from the study. I stride fast down the north hall, my sneakers si
 
 Graham's face goes tight with fresh panic. "Tessa, don't go down there alone. If Lydia's iPad just synced within local mesh range, she isn't in New Brunswick."
 
-I already know that. The thought sits like cold lead in my stomach, right beside the memory of how fast a county prosecutor would bury a disgraced insurance investigator with a faked confession on file. Running guarantees prison. Staying in the study guarantees handcuffs.
+I already know that. I know how fast a county prosecutor would bury a disgraced insurance investigator with a faked confession on file. Running guarantees prison. Staying in the study guarantees cold steel handcuffs before I can even pull my coat off the foyer peg.
 
-I throw the sunroom slider latch. The heavy glass panel groans on its aluminum track as I haul it wide, letting the gale rush straight across the bleached floorboards. Freezing salt wind slams into my face, tasting of kelp, wet cedar, and coming storm.
+I throw the sunroom slider latch. The heavy glass panel groans on its aluminum track as I haul it wide, letting the Atlantic gale rush straight across the bleached floorboards. Freezing salt wind slams into my face, tasting of kelp and coming storm.
 
 ***
 
@@ -60,7 +60,7 @@ I press flat against the wet shingles and hold my breath. Rain patters against t
 
 My sneakers hit damp cedar decking with a dull thud.
 
-The boathouse smells strongly of diesel fuel, wet hemp rope, and stagnant low-tide mud. Beneath the center plank floor, black harbor water slaps steadily against wooden pilings, sending hollow echoes up through the seams. Gray daylight filters through the salt-clouded transom above the double doors, painting pale stripes across stacked lobster traps, coiled dock lines, and a scarred cedar workbench along the far wall.
+The boathouse smells strongly of diesel fuel and stagnant low-tide mud. Beneath the center plank floor, black harbor water slaps steadily against wooden pilings, sending hollow echoes up through the seams. Gray daylight filters through the salt-clouded transom above the double doors, painting pale stripes across stacked lobster traps, coiled dock lines, and a scarred cedar workbench along the far wall.
 
 Suspended from the rafters overhead hangs a long yellow fiberglass sea kayak, swaying almost imperceptibly in the cold draft pouring through the open casement behind me.
 

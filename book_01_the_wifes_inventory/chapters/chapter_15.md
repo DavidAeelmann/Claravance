@@ -96,7 +96,7 @@ A heavy door thuds shut. The waveform drops flat.
 
 Graham sits frozen in the leather chair, staring at the flat green line on the monitor. His face has drained to the color of wet ash. "She's laughing," he whispers. "My God. She's standing in my hallway at two in the morning, wiping down a staged oar, and she's *laughing*."
 
-"She's alive, and Cole Halstead is her cleaner," I say, my pulse hammering hard against my ribs. Fear and cold clarity snap together in my chest. "Which means every minute we sit in this room, we're giving them time to build the next layer."
+"She's alive, and Cole Halstead is her cleaner," I say. "Which means every minute we sit in this room, we're giving them time to build the next layer."
 
 I yank my phone from my back pocket and open a blank cable-transfer prompt. "Export that WAV file. Copy it straight to my phone and push a duplicate to your off-site cloud before Cole cuts the fiber line."
 

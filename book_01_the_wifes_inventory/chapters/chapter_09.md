@@ -22,7 +22,7 @@ Maren stands under the corrugated tin awning beside a stack of black plastic oys
 
 "I'm not leaving tonight, Maren." I stop just outside the amber pool of her porch light, tucking my cold hands deep into my jacket pockets. "And we both know Deputy Halstead didn't come up to the Mercer house at eleven this morning to check a frayed mooring line."
 
-Maren's jaw tightens. She sets the oyster knife down on the wet cedar plank with a sharp *clack* and strips off her right glove, revealing knuckles red and swollen from cold brine.
+Maren sets the oyster knife down on the wet cedar plank with a sharp *clack* and strips off her right glove, revealing knuckles red and swollen from cold brine.
 
 "I didn't see any deputy," she says, turning back to her cages. "I was out checking my outer lines till noon."
 
@@ -38,7 +38,7 @@ For a long second, the only sound between us is the steady slap of incoming chop
 
 "Come inside before someone on the ridge spots you standing under my bulb," Maren mutters, shoving the heavy plank door inward with her hip.
 
-The sorting shed is narrow, damp, and fiercely warm near the center, where a kerosene space heater hums beside a workbench cluttered with hydraulic hose fittings, twine spools, and stacked tide almanacs. The air smells thick of boiled coffee, wet hemp rope, and raw brine. There isn't a chair to spare, so I stay near the threshold while Maren pours steaming black coffee from a dented steel thermos into a chipped ceramic mug and shoves it toward a crate beside my elbow.
+The sorting shed is narrow, damp, and fiercely warm near the center, where a kerosene space heater hums beside a workbench cluttered with hydraulic hose fittings, twine spools, and stacked tide almanacs. The air smells thick of boiled coffee and raw brine. There isn't a chair to spare, so I stay near the threshold while Maren pours steaming black coffee from a dented steel thermos into a chipped ceramic mug and shoves it toward a crate beside my elbow.
 
 "Drink it or don't," she says, keeping her own gloved hands curled around a second mug. "I don't hold with gossip, Miss Vance. My aquaculture lease comes up for county renewal in January, and my brother-in-law runs a lobster boat out of Camden that gets boarded by the sheriff's marine unit twice a month whenever someone crosses them."
 
@@ -60,7 +60,7 @@ She sets her mug down beside a rusted pair of wire cutters, her thumb rubbing ne
 
 Maren lifts her chin, her voice dropping so low I have to step closer to catch it over the surf. "I think Julian doesn't know a cleat hitch from a shoelace. If he took that fiberglass skiff out in a thirty-knot southeast blow at two in the morning, he'd have piled it onto the ledges before he cleared the cove mouth."
 
-My pulse quickens. "Then how did the boat clear the harbor?"
+"Then how did the boat clear the harbor?"
 
 "Same way it went out two nights *before* the storm," Maren says, wiping her damp palm down her oilskin apron. "Evelyn came down here on Monday afternoon—October twelfth, two days before the squall hit. Walked down the cliff trail alone in a thin cashmere sweater, no coat, shivering like a wet cat. Didn't even have boots on, just leather loafers ruined by the kelp."
 

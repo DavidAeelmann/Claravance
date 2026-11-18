@@ -14,7 +14,7 @@ Three hits load before a horn taps behind me. Nothing criminal—just a clean de
 
 Then red-and-blue strobe lights flare across my rearview mirror, turning the gray mist behind me into alternating bruises of color.
 
-My stomach drops into my boots. I haven't cleared forty. I signal right, ease onto the gravel shoulder beside a stand of bare sumac, and kill the rattling engine.
+I haven't cleared forty. I signal right, ease onto the gravel shoulder beside a stand of bare sumac, and kill the rattling engine.
 
 A Knox County sheriff's cruiser pulls in behind me, leaving its light bar pulsing against the fog. My fingers tremble slightly as I fish my expired registration card and license out of the glovebox, keeping both hands visible on top of the steering wheel while boots crunch up the gravel shoulder.
 
@@ -32,21 +32,19 @@ Deputy Cole Halstead doesn't look surprised. In fact, the corner of his mouth do
 
 "Graham Kiefer's place," he says, not asking. "I signed the marine incident report out there three weeks ago. Quiet property. Folks on the peninsula don't care much for strangers poking through private grief before the lawyers clear the paperwork."
 
-My pulse jumps against my collar. Graham told me he hired an out-of-town archivist specifically so local clerks wouldn't gossip with Cole Halstead—yet Halstead knows my name, my car, and where I'm staying before I've spent twenty-four hours on the point.
+Graham told me he hired an out-of-town archivist specifically so local clerks wouldn't gossip with Cole Halstead—yet Halstead knows my name, my car, and where I'm staying before I've spent twenty-four hours on the point.
 
-"I'm just boxing winter coats and logging furniture," I say evenly, keeping my chin up even though my chest feels tight. "Not poking into anything."
+"I'm just boxing winter coats and logging furniture," I say evenly, keeping my chin up. "Not poking into anything."
 
 "Good." Halstead pulls a thin yellow warning pad from his slicker breast pocket, clicks a black ballpoint pen against his thigh, and flips the metal clipboard open against his forearm. "Keep it that way. We get a lot of fog tourists wandering down private boat launches this time of year, thinking a missing person case is their weekend podcast. Steps down to that cove are slick enough to break a hip, and the boathouse is locked under county seal."
 
-*County seal.* Graham said the Coast Guard cleared the boathouse and left it locked against dampness. Nobody mentioned a county seal, and the rusted B-4 key wrapped in tissue suddenly feels like a lead brick pressing against my ribs through the waxed canvas. If Halstead asks me to step out for a trunk check or pats down my pockets, my whole story unravels on the side of the road.
+*County seal.* Graham said the Coast Guard cleared the boathouse and left it locked against dampness. Nobody mentioned a county seal, and the rusted B-4 key wrapped in tissue suddenly feels like a lead brick against my ribs. If Halstead asks me to step out for a trunk check, my whole story unravels on the side of the road.
 
 Halstead scribbles my plate number and date across the yellow slip.
 
 I watch his hands.
 
-He braces the clipboard tightly against his right hip—and curls his left wrist over the top of the yellow paper, pushing the ballpoint pen across the lines with a heavy, practiced slant.
-
-Every muscle in my back locks stiff against the car seat. Left-handed. Not a clumsy ambidextrous scrawl, either—a deep, hooked left-handed push that drags the metal nib at the exact steep angle ground into the silver Montblanc sitting on Lydia Kiefer's walnut blotter.
+He braces the clipboard tightly against his right hip—and curls his left wrist over the top of the yellow paper, dragging the pen backward against the grain in a deep, hooked push.
 
 "Fix that brake bulb before Friday," Halstead says, tearing the yellow copy off cleanly and holding it through the window. "Wouldn't want to write you a real ticket on your way back down the causeway."
 
@@ -82,7 +80,7 @@ Maren pours black coffee into a paper cup, snapping the plastic lid down with he
 
 "Two people," I murmur, pretending to inspect a pair of insulated leather gloves. "What did two fingers mean this morning? Who else was down at that boathouse?"
 
-Maren's jaw sets hard, her eyes flicking once toward the kid by the register before dropping back to her coffee lid. "I don't name names in public, and I don't lose my mooring permit over rich folks' messes," she mutters, reaching past me to grab a handful of paper napkins from the dispenser. Her cracked knuckles brush the back of my hand—cold as wet slate. "Just don't take Graham's word on what time the storm hit. And don't trust a deputy who writes left-handed when he's supposed to be off shift."
+Maren's eyes flick once toward the kid by the register before dropping back to her coffee lid. "I don't name names in public, and I don't lose my mooring permit over rich folks' messes," she mutters, reaching past me to grab a handful of paper napkins from the dispenser. Her cracked knuckles brush the back of my hand—cold as wet slate. "Just don't take Graham's word on what time the storm hit. And don't trust a deputy who writes left-handed when he's supposed to be off shift."
 
 The clerk clears his throat from the counter, tossing my receipt into a brown paper bag beside the tape rolls. "Eighteen forty-two, miss."
 

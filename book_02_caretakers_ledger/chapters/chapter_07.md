@@ -60,7 +60,7 @@ I step over to the sitting table, keeping my back angled slightly toward Hollis 
 
 With my left hand, I lift the heavy crystal stopper an inch out of the carafe neck.
 
-A sticky, translucent oil smudge coats the frosted glass grip of the stopper—smelling unmistakably of Simone's compounded lavender cuticle oil. I tilt the faceted crystal toward the gray window light, confirming the fresh palm-print sheen along the rim, then set the stopper back down gently without clinking the neck, my pulse hammering against my ribs.
+A sticky, translucent oil smudge coats the frosted glass grip of the stopper—smelling unmistakably of Simone's compounded lavender cuticle oil. I tilt the faceted crystal toward the gray window light, confirming the fresh palm-print sheen along the rim, then set the stopper back down gently without clinking the neck.
 
 Arthur Cutler suffered from severe gout and heart trouble. His wife wears compounded lavender oil, her spotless winter coat is hidden in Hollis's pickup truck, the silver blister sleeve for his *nitroglycerin* rescue spray is missing from the bathroom counter, and someone wearing that exact oil poured brandy here right before vanishing with the glass.
 
@@ -78,7 +78,7 @@ Hollis pushes off the doorframe with an irritable sigh, fishing a small brass ke
 
 *"Hollis—you copy? County plow's down at the lower turnout. Gate's drifted over."*
 
-Hollis freezes, his jaw clenching. He unclips the radio with his scarred right hand, holding the talk button down with his index finger while his eyes stay locked on me. "Copy, Enoch. Stay at the turnaround. I'm coming down in ten."
+Hollis freezes. He unclips the radio with his scarred right hand, holding the talk button down with his index finger while his eyes stay locked on me. "Copy, Enoch. Stay at the turnaround. I'm coming down in ten."
 
 He tosses the small brass jewelry key onto the bedcover without stepping closer. "Log the watch rolls and leave the folder on the table. Don't leave this floor till I'm back from the gate."
 

@@ -14,7 +14,7 @@ Beside each patient's initials sits a neat entry in Arthur Cutler's fountain-pen
 
 At the bottom of every single page, Arthur Cutler's signature sits on the left line, and **Margot Kiefer-Hall's** crisp black signature sits on the right.
 
-"Why did Margot sign off on hospital hush money?" I ask softly, my stomach sinking as the numbers blur together.
+"Why did Margot sign off on hospital hush money?" I ask softly, watching the crisp black numbers blur together under the dim red beam.
 
 "Her firm underwrote the thirty-eight-million-dollar institutional bond that kept *Cutler Biotech* solvent after the FDA delayed full approval," Nina says quietly, tracing a penciled margin note beside a 2023 transfer. "If those deaths hit the clinical registry, the bondholders pull their capital overnight and *Kiefer-Hall Fiduciary* eats the federal clawback."
 
@@ -38,7 +38,7 @@ I stretch my stiff legs against the baseboard, then walk softly across to the th
 
 I return to the frosted east gable window, where Nina is scraping a thumbnail-sized peephole through the interior rime ice with the edge of a tarnished copper penny.
 
-"Wait," I say softly, crouching beside her in the dark. "Tuesday night—after Arthur collapsed in the study—how did Hollis stage the snowmobiles without leaving tracks back to the house?"
+I crouch beside her in the dark. "Tuesday night—after Arthur collapsed in the study—how did Hollis stage the snowmobiles without leaving tracks back to the house?"
 
 "He used the wind," Nina whispers, pressing her cheek near the cold glass. "The blizzard was dropping two inches an hour by midnight. I couldn't get down past the second-floor landing with my cracked ribs, so I watched the woodshed bay from this window between one and two in the morning."
 
@@ -70,7 +70,7 @@ First comes **Enoch Pike's** dented county snowplow pickup, its amber roof strob
 
 Right behind Pike's bumper, idling smoothly on heavy studded tires, rolls a **black armored SUV** with Massachusetts plates. Its suspension settles stiffly onto the packed snow of the forecourt, and exhaust steams white in the subzero air.
 
-"Margot," I whisper, my stomach knotting tight as the SUV slides to a stop beside the porch steps.
+"Margot," I whisper as the SUV slides to a stop beside the porch steps.
 
 The passenger door opens. A tall woman in a tailored camel hair coat steps out onto the packed snow, clutching a leather briefcase in one gloved hand while Pike climbs down from his plow cab with a heavy flashlight. Even from three stories up, I recognize the silver-streaked bob and the crisp, unhurried posture from State Street. She doesn't look around for my Civic, and she doesn't glance toward the woodshed. She walks straight for the porch like she already knows the layout by heart.
 

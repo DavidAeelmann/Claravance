@@ -38,7 +38,7 @@ I pull my steel multi-tool, snap out the thin awl blade, and slide it into the n
 
 The frost cracks with a sharp snap. The door swings inward an inch.
 
-I slip inside and pull the cedar slab shut behind me, plunging into pitch blackness that smells strongly of hot motor oil, wet rubber, and melted snow dripping onto concrete.
+I slip inside and pull the cedar slab shut behind me, plunging into pitch blackness thick with the smell of hot motor oil.
 
 I click my penlight on, cupping three fingers tightly over the lens.
 
@@ -64,7 +64,7 @@ Beside the coat sits a heavy plastic milk crate packed tight with cross-cut pape
 
 `...DEATH CODE: ACCIDENTAL HYPOTHERMIA (RURAL CORONER)...`
 
-My stomach knots tight against my ribs. I drop the two paper strips into my inside breast pocket beside the charred *Cutler Biotech* payout voucher, tuck the canvas tarp back down over the crate, and slip out the side service door before Hollis steps onto the front porch.
+I drop the two paper strips into my inside breast pocket beside the charred *Cutler Biotech* payout voucher, tuck the canvas tarp back down over the crate, and slip out the side service door before Hollis steps onto the front porch.
 
 ***
 
@@ -74,7 +74,7 @@ Behind me up the ridge, the two amber coach lamps glow faintly on the lodge's fr
 
 I slip through the narrow pedestrian gap beside the fieldstone pillar into the dark spruce turnout where I left my 2014 silver Honda Civic.
 
-The turnout sits quiet and dark under heavy boughs. No other tire tracks show in the snow around my bumper—Wait.
+The turnout sits quiet and dark under heavy boughs. No other tire tracks show in the snow around my bumper.
 
 I stop two paces behind the rear quarter panel and crouch low, shielding my penlight against my palm.
 

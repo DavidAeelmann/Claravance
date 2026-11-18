@@ -6,7 +6,7 @@ I punch the four-digit pin at the timber gate, my knuckles white around the wet 
 
 Graham's charcoal Audi sits parked under the dark spruce eaves. Cole Halstead's sheriff's cruiser isn't here—yet two fresh, deep-lugged tire tracks cut straight across the wet gravel apron beside the turnaround, reversing cleanly back toward the gate. Halstead didn't just patrol past the causeway. He drove all the way up Graham's private drive, turned around, and left before I got back from the harbor.
 
-My stomach knots tight as I kill the engine and grab the brown paper bag from the general store. Inside my waxed jacket pocket, the tissue-wrapped B-4 key feels heavier with every step up the slate pavers.
+I kill the engine and grab the brown paper bag from the general store. Inside my waxed jacket pocket, the tissue-wrapped B-4 key feels heavier with every step up the slate pavers.
 
 The front door isn't deadbolted. It opens the moment I turn the brass handle, letting me step straight into the warm, airless foyer.
 
@@ -30,7 +30,7 @@ The cheap privacy bolt is unlocked, just as I left it. Inside, my navy canvas du
 
 The stray lining thread I hooked gently over the zipper teeth last night is gone—snapped clean or pushed back inside the seam when someone unzipped the pocket and zipped it shut again.
 
-My throat goes dry. I rip the zipper open and dig into the inner pocket.
+I rip the zipper open and dig into the inner pocket.
 
 Both Portsmouth bank bands are still there. Fifty crisp hundreds, untouched. I check my laptop sleeve next—the matte lid sits slightly warm along the battery edge, though I shut it down cold before breakfast. Whoever opened my duffel didn't take my cash. They wanted to see what I brought into this house—or check whether I'd stashed anything from the studio or sunroom inside my bag.
 
@@ -88,7 +88,7 @@ His towel stills between his fingers. "What about it?"
 
 "You said Lydia went down to the cove around ten-thirty to check the mooring line," I say, watching his gray eyes carefully. "When I drove in last night, the turnaround floodlight was out, and you told me not to go down the cliff stairs after dark. Were the dock lights on that night? Or did the squall knock the power out before she went down?"
 
-Graham doesn't blink. For a split second, the polite, controlled host vanishes, replaced by something sharp and cornered behind his ribs.
+Graham's face goes still. For a split second, the polite, controlled host vanishes, replaced by something sharp and cornered behind his ribs.
 
 "Who told you to ask about my dock lights?" he asks quietly, setting the damp dish towel down flat across the limestone edge.
 
@@ -100,7 +100,7 @@ Every recessed LED downlight overhead flickers violently, dims to an orange fila
 
 Pitch blackness swallows the foyer, the kitchen, and the thirty-foot ocean glass wall all at once. Only the faint blue pulse of the smart-home wall tablet mounted beside the kitchen pantry stays lit on battery backup, throwing a pale square of light across Graham's cheekbones.
 
-For three heartbeats, neither of us moves in the dark. Rain hammers the roof slate overhead like buckshot. Outside, the cove wind howls straight through the spruce tops, drowning out the buoy bell. In the sudden quiet between gusts, the dehumidifier beneath the slate floor has stopped humming, leaving the whole house sounding hollow and exposed.
+Neither of us moves in the dark. Rain hammers the roof slate overhead like buckshot. Outside, the cove wind howls straight through the spruce tops, drowning out the buoy bell. In the sudden quiet between gusts, the dehumidifier beneath the slate floor has stopped humming, leaving the whole house sounding hollow and exposed.
 
 "Stay where you are," Graham says, his voice tight and stripped of all its earlier polish. "The backup diesel generator takes a few seconds to kick over."
 

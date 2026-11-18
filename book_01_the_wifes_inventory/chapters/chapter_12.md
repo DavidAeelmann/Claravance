@@ -28,7 +28,7 @@ Not a killer scrubbing evidence. Somebody down here was frantically trying to he
 
 I step away from the monitors and move quietly across the dark room, letting the pale blue screen glow guide me toward the far side of the basement. Every step across the interlocking rubber mats absorbs the weight of my heels without a whisper.
 
-The air down here feels thick and deadened, smelling of warm electronics, rubberized matting, and damp poured concrete. Halfway across the floor, I pass through the northeast corner, where floor-to-ceiling wedge baffling angles sharply inward behind a pair of heavy freestanding bass traps wrapped in dark charcoal acoustic cloth.
+The air down here feels thick and deadened, smelling of warm electronics and damp concrete. Halfway across the floor, I pass through the northeast corner, where floor-to-ceiling wedge baffling angles sharply inward behind a pair of heavy freestanding bass traps wrapped in dark charcoal acoustic cloth.
 
 The moment I step into that corner pocket, the low hum of the three server fans vanishes completely.
 

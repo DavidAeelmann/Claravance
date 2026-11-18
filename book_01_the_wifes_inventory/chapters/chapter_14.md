@@ -8,7 +8,7 @@ Julian stands at the threshold of the open fire door, the concrete basement stai
 
 "I didn't use the foyer door," I say, keeping the steel worktable between us and shifting my grip on the folded multi-tool in my palm. "Put the wrench down, Julian. Right now."
 
-Julian's jaw tightens. He takes one slow step onto the darkroom concrete, his gaze flicking toward the open gray cabinet marked `ARCHIVE — DO NOT ERASE`, then back to the sliced red tamper tape dangling off the kraft flap.
+Julian takes one slow step onto the darkroom concrete, his gaze flicking toward the open gray cabinet marked `ARCHIVE — DO NOT ERASE`, then back to the sliced red tamper tape dangling off the kraft flap.
 
 "You broke into my private cabinet," he says flatly.
 

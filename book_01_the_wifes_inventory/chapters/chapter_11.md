@@ -14,7 +14,7 @@ At 2:14 AM, a sharp metallic *clack* carries straight up through the house's ced
 
 Not the muffled groan of the front deadbolt, and not the hydraulic gate out by the gravel road. It sounds like a heavy steel latch dropping home inside a hollow wall directly beneath the kitchen wing—short, resonant, and unmistakable in the dead quiet between wind gusts. For two seconds after the snap, a faint vibration hums through the baseboard radiator pipes, as if a counterweight or cable just settled against timber framing.
 
-I freeze with my hand on the guest-suite doorknob, counting five slow heartbeats.
+I freeze with my hand on the guest-suite doorknob.
 
 Nothing else moves on the upper landing. I ease the cedar latch open without letting the tongue click, step out into the hallway, and pause beside the master suite door. The seam along the bottom threshold is pitch dark. I lean close enough to smell cedar polish and faint bourbon on the air, listening for steady breathing or floorboards shifting inside. Nothing. Either the swapped glass knocked Julian out cold until morning, or he isn't upstairs in his bed at all.
 

@@ -4,7 +4,7 @@ The key turns twice in the upper stairwell lock, iron scraping dry brass, and th
 
 I don't move. My boots stay planted on the cold flagstones beside the oak lectern while my lungs pull in thin, kerosene-tainted air. Overhead, the heavy floorboard doesn't groan again. Whoever stands on the attic landing isn't pacing. They're listening.
 
-Wait. If they locked the stairwell door from above, they didn't lock me *into* the Great Hall—they locked themselves *out* of it, or sealed the third floor against me. Either way, the front oak door behind my back is still my way out. I pivot slowly toward the porch threshold, keeping my heels off the stone so my snow-damp treads don't squeak.
+If they locked the stairwell door from above, they didn't lock me *into* the Great Hall—they locked themselves *out* of it, or sealed the third floor against me. Either way, the front oak door behind my back is still my way out. I pivot slowly toward the porch threshold, keeping my heels off the stone so my snow-damp treads don't squeak.
 
 My left hand still grips Margot's brass skeleton key. My right fingers close around the cold steel frame of my multi-tool inside my coat pocket. Before I cross the hall, I glance back at the lectern. If I leave the torn corner scrap and the brass room tag sitting on the wet glue, anyone who comes downstairs will know I stood right here and read their work. I peel the freshly stamped **ROOM 4 — ATTIC EAST** tag off the tacky binding—a thin strand of hide glue stretches and snaps—and slip both the brass tag and the tiny triangular scrap of Nina's ink into my inside breast pocket.
 
@@ -26,13 +26,13 @@ I cross the Great Hall along the shadowed wall beneath the mounted stag heads, a
 
 The hall mudroom.
 
-I push the door wide with my elbow, holding my breath against the stale smell of wet wool, cedar mothballs, and dried road salt.
+I push the door wide with my elbow, holding my breath against the stale tang of cedar mothballs.
 
 ***
 
 No overhead bulb burns in the mudroom, so I pull the small penlight from my coat pocket and cup my fingers over the lens to keep the beam narrow and low.
 
-The space is cramped. Iron hooks line the cedar wall. Three heavy waxed-canvas parkas hang undisturbed along the pegs, their brass snaps dull with tarnish. Beneath the bench, pairs of rubber chore boots sit neatly aligned on a galvanized drip tray. The paneling smells faintly of damp wool and cedar oil. Nobody has tracked snow in here for days.
+The space is cramped. Iron hooks line the cedar wall. Three heavy waxed-canvas parkas hang undisturbed along the pegs, their brass snaps dull with tarnish. Beneath the bench, pairs of rubber chore boots sit neatly aligned on a galvanized drip tray. Nobody has tracked snow in here for days.
 
 My light sweeps the corner umbrella stand—and stops.
 
@@ -56,7 +56,7 @@ I reach the second-floor gallery landing. A wide corridor stretches left and rig
 
 No carpet covers those upper treads. Just bare pine boards leading straight up to a heavy oak-and-iron fire door at the top.
 
-I climb slowly, placing the ball of each boot near the riser so the old pine doesn't pop under my weight. When I reach the top landing, the smell hits me before my hand touches the brass hardware—fresh lamp kerosene mixed with sharp pine resin and heavy gun oil.
+I climb slowly, placing the ball of each boot near the riser so the old pine doesn't pop under my weight. When I reach the top landing, the smell hits me before my hand touches the brass hardware—lamp kerosene and heavy gun oil.
 
 ***
 

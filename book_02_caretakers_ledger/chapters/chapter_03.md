@@ -4,7 +4,7 @@ The dumbwaiter cable slams against the wooden guide rollers somewhere below the 
 
 I pull back from the third-floor fire door and descend the bare pine stairs without turning on my penlight. Darkness wraps the gallery corridor thick enough to press against my eyelids. No furnace blower hums beneath the floorboards now. Without the generator, the lodge settles into the cold creak of timber rafters contracting in the subzero drop outside.
 
-At the east end of the gallery, a narrow service door stands half-latched beside a linen press. I push it open with my knuckles. Steep, pie-shaped back stairs spiral downward behind the main chimney stack, smelling strongly of cold bacon grease, damp plaster, and stale coffee grounds.
+At the east end of the gallery, a narrow service door stands half-latched beside a linen press. I push it open with my knuckles. Steep, pie-shaped back stairs spiral downward behind the main chimney stack, thick with the smell of cold bacon grease.
 
 I take the treads sideways, one hand trailing the rough plaster wall to keep my balance. If the person behind the third-floor fire door didn't just drop that dumbwaiter car by accident—if somebody else is riding the shafts or sending cargo down from the attic—they're moving faster than I am.
 
@@ -20,7 +20,7 @@ In the back corner of the wooden tray sits a small, uncapped amber glass bottle 
 
 Beside the bottle lies a fresh crescent smudge of dark-blue fountain ink on the maple lip, no wider than a fingernail. I reach higher into the dark shaft and run two fingers along the hemp hoist rope. Warmth lingers on the braided fibers, and a faint smear of pine turpentine clings to the wood guide rail where someone braced a hand on the descent.
 
-My pulse beats hard behind my ears. The man who oiled the upper deadbolt threw that lock from the stairwell side, snapped a key tip into the cylinder, and went down to padlock the front porch door. Meanwhile, whoever was penned behind that attic door dropped straight down this service shaft two minutes ago—leaving behind a still-warm bottle of hide glue from earlier when they pinned the `ROOM 4 — ATTIC EAST` tag to the guest ledger.
+The man who oiled the upper deadbolt threw that lock from the stairwell side, snapped a key tip into the cylinder, and went down to padlock the front porch door. Meanwhile, whoever was penned behind that attic door dropped straight down this service shaft two minutes ago—leaving behind a still-warm bottle of hide glue from earlier when they pinned the `ROOM 4 — ATTIC EAST` tag to the guest ledger.
 
 Two people are moving inside Cragmont Lodge. One of them is wearing heavy winter boots and burning paper in the hearth. The other is using the walls—and left me a key tag written in Nina's ink.
 
@@ -30,7 +30,7 @@ I click the penlight off and ease the pantry door shut until the wooden latch ca
 
 I cross the dark kitchen back toward the Great Hall archway, keeping the butcher block between my ribs and the frosted rear porch window.
 
-Back in the main hall, the birch embers in the fieldstone hearth have dimmed to a faint cherry crust beneath gray ash. No boots sound overhead. I check the heavy velvet drapes beside the study archway first; my navy duffel still sits tucked behind the folds, untouched.
+Back in the main hall, the birch embers in the fieldstone hearth have dimmed to a faint cherry crust beneath gray ash. No boots sound overhead.
 
 I pull Margot's heavy brass skeleton key from my left pocket and kneel beside the locked mahogany doors of Arthur's study. If the same nineteenth-century mortise wards run through the ground floor, the master bit should throw this bolt too.
 
@@ -80,7 +80,7 @@ I click the penlight off and fold the scorched voucher corner inside my breast p
 
 Someone drove a heavy mud-terrain pickup up this mountain within the last hour, parked inside the carriage barn, padlocked the outer front storm door behind me, and burned *Cutler Biotech* clinical payout vouchers in this hearth using lamp kerosene. Meanwhile, a second person—carrying warm hide glue in the pantry dumbwaiter—sliced Nina's page out of the guest ledger, left me a directional tag for **ROOM 4 — ATTIC EAST**, and dropped back down the wall before the generator died.
 
-Wait. If the person in heavy boots locked the third-floor fire door from *above* while I stood at the lectern, how did they get downstairs to padlock the front storm door? Unless the man who parked in the barn and padlocked the storm door *wasn't* the person on the third floor—or the person upstairs climbed down an exterior fire escape or service stair after sealing the attic.
+If the person in heavy boots locked the third-floor fire door from *above* while I stood at the lectern, how did they get downstairs to padlock the front storm door? Unless the man who parked in the barn and padlocked the storm door *wasn't* the person on the third floor—or the person upstairs climbed down an exterior fire escape or service stair after sealing the attic.
 
 No. Stop guessing and check the kitchen exit.
 

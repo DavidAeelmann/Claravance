@@ -72,7 +72,7 @@ Thick wool blankets lie folded into a narrow sleeping berth along the warm brick
 
 No ledger. No person hiding in the berth right now. Whoever lives inside this wall slipped out before I climbed the stairs—maybe down through the dumbwaiter shaft, or out toward the stone icehouse where I heard them whisper last night.
 
-Wait. If they bolted out of the coal chute at midnight when Hollis came down the cellar stairs, after pushing that ledger scan through the copper trunk before dawn yesterday, they're still moving inside the house's walls.
+If they bolted out of the coal chute at midnight when Hollis came down the cellar stairs, after pushing that ledger scan through the copper trunk before dawn yesterday, they're still moving inside the house's walls.
 
 I swing the cedar louver shut and turn back toward the blistering-hot radiator beside the draftsman's table.
 
@@ -88,7 +88,7 @@ Three guest names sit logged in neat faded ink at the top for Tuesday, December 
 
 Arrows point from the exterior icehouse floor down into a rough rectangle labeled: *A.C. — ROCK SALT / SAWDUST — DIED TUES 11:40 PM*. Beside it, a second arrow points down the back wall of the icehouse into a shaft marked: *COAL CHUTE TO BOILER — NO LOCK ON FLAP.* In the margin sits one final word, underlined twice in heavy ink: *LEDGER IN WALL.*
 
-My pulse hammers hard in my ears.
+I stare at the two-word postscript until the ink blurs.
 
 Arthur Cutler didn't vanish on a snowmobile Tuesday night. He died at eleven-forty Tuesday night—and his body is packed under rock salt and sawdust inside the stone icehouse twenty paces behind the kitchen.
 

@@ -39,11 +39,11 @@ Someone drove a heavy truck up this mountain within the last hour. And judging b
 
 I kill the Civic's headlights, leave the car tucked in the dark spruce turnout outside the pillars, and slip through the narrow pedestrian gap beside the stone post with my duffel slung over one shoulder.
 
-Cold air bites into my lungs like crushed glass, dry and thin, smelling of cedar needles and woodsmoke. Wait—not old soot from a cold flue. Fresh birch smoke, sharp and resinous, drifting down from the ridge above.
+Cold air bites into my lungs like crushed glass, carrying fresh birch smoke, sharp and resinous, down from the ridge above.
 
 My boots crunch softly in the truck ruts as I climb the final bend of the drive.
 
-Cragmont Lodge rises against the gray twilight sky like a stone fortress wedged into the granite mountainside. Steep timber gables sag under thick white drifts. Every window across the three-story front elevation stands dark, heavy interior timber shutters latched tight behind frosted panes. The turnaround in front of the wide stone porch is empty—no pickup truck in sight—Wait.
+Cragmont Lodge rises against the gray twilight sky like a stone fortress wedged into the granite mountainside. Steep timber gables sag under thick white drifts. Every window across the three-story front elevation stands dark, heavy interior timber shutters latched tight behind frosted panes. The turnaround in front of the wide stone porch is empty—no pickup truck in sight.
 
 I follow the fresh tire ruts with my eyes. They don't stop at the front steps. They curve past the main house toward a timber carriage barn fifty paces back in the trees, where a pair of double barn doors stands padlocked from the outside, fresh snow kicked loose around the threshold.
 
@@ -69,7 +69,7 @@ Someone used the hearth to ash a stack of files less than twenty minutes ago.
 
 To my right, beside the archway leading to the study, stands a slanted oak reception lectern—the old-fashioned kind built for nineteenth-century hunting clubs. Resting open across its brass lip is a thick, maroon-leather guest ledger.
 
-My pulse beats hard against my collarbones as I cross the flagstones.
+I cross the flagstones, keeping my boots quiet on the slate.
 
 I recognize the cream, red-ruled paper from the cropped fax printout taped to the back of Margot's photograph. Same faded header print. Same column lines for *Date*, *Guest*, and *Room*.
 

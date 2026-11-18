@@ -46,7 +46,7 @@ Graham leads me past a pale limestone kitchen island and stops beside a narrow m
 
 Six dense pages of legal print. Non-disclosure, non-disparagement, a blanket ban on photographing any hardware or paperwork on the premises, and a fifty-thousand-dollar liquidated damages clause in bold ink near the bottom.
 
-My stomach twists at that number. *Fifty thousand.* Whoever drafted this contract looked up my civil judgment from Harbor Mutual—knew I couldn't survive a second lawsuit or afford a lawyer to fight a breach claim. If Graham decides I broke his rules, he owns what's left of my life. For a sharp second I want to grab my duffel and drive back across that causeway before the tide rises.
+*Fifty thousand.* Whoever drafted this contract looked up my civil judgment from Harbor Mutual—knew I couldn't survive a second lawsuit or afford a lawyer to fight a breach claim. If Graham decides I broke his rules, he owns what's left of my life. For a sharp second I want to grab my duffel and drive back across that causeway before the tide rises.
 
 Then I picture the clerk's ivory letter sitting on my passenger seat, and the eviction threshold waiting on Monday. I stay in the chair.
 
@@ -96,7 +96,7 @@ He heads up the oak treads without waiting for me to answer. His wool socks make
 
 ***
 
-I stand beside the maple table until my pulse slows in my ears.
+I stand beside the maple table, listening to the house settle.
 
 The house doesn't stay quiet when you stop moving. Beneath the slate floor, a dehumidifier rumbles like an idling truck engine. Wind pushes against the seaward glass panes with a low, rubbery flex, while behind the limestone island a refrigerator compressor shuts off with a sharp metallic click.
 
