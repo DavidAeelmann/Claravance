@@ -24,6 +24,8 @@ BOOK_COPYRIGHT = "© 2026 David Seelmann"
 BOOK_UUID = str(uuid.uuid5(uuid.NAMESPACE_DNS, "the-wifes-inventory-david-seelmann-book-1"))
 
 COVER_PATH = "cover_final.jpg"
+MAP_PATH = "Gemini_Generated_Image_texmwatexmwatexm.jpg"
+MAP_TITLE = "Salt Point Estate Map"
 EPUB_OUTPUT = "The_Wifes_Inventory.epub"
 DOCX_OUTPUT = "The_Wifes_Inventory_print.docx"
 PDF_OUTPUT = "The_Wifes_Inventory_print.pdf"
@@ -241,6 +243,18 @@ blockquote p {
   letter-spacing: 0.08em;
   margin-top: 2em;
 }
+.map-page {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.map-img {
+  max-width: 100%;
+  max-height: 92vh;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
 """
 
     cover_xhtml = """<?xml version="1.0" encoding="utf-8"?>
@@ -282,24 +296,35 @@ blockquote p {
 </div>""",
     )
 
+    map_xhtml = wrap_xhtml_doc(
+        MAP_TITLE,
+        f"""<div class="map-page">
+  <img class="map-img" src="map.jpg" alt="{html.escape(MAP_TITLE)}"/>
+</div>""",
+    )
+
     manifest_items = [
         'id="css" href="styles.css" media-type="text/css"',
         'id="cover-image" href="cover.jpg" media-type="image/jpeg" properties="cover-image"',
+        'id="map-image" href="map.jpg" media-type="image/jpeg"',
         'id="coverpage" href="cover.xhtml" media-type="application/xhtml+xml"',
         'id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"',
         'id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"',
         'id="titlepage" href="title.xhtml" media-type="application/xhtml+xml"',
         'id="copyrightpage" href="copyright.xhtml" media-type="application/xhtml+xml"',
+        'id="mappage" href="map.xhtml" media-type="application/xhtml+xml"',
     ]
     spine_items = [
         '<itemref idref="coverpage" linear="yes"/>',
         '<itemref idref="titlepage"/>',
         '<itemref idref="copyrightpage"/>',
+        '<itemref idref="mappage"/>',
     ]
     nav_links = [
         '<li><a href="cover.xhtml">Cover</a></li>',
         '<li><a href="title.xhtml">Title Page</a></li>',
         '<li><a href="copyright.xhtml">Copyright</a></li>',
+        f'<li><a href="map.xhtml">{html.escape(MAP_TITLE)}</a></li>',
     ]
     ncx_points = []
     play_order = 1
@@ -317,6 +342,7 @@ blockquote p {
     add_ncx("nav-cover", "Cover", "cover.xhtml")
     add_ncx("nav-title", "Title Page", "title.xhtml")
     add_ncx("nav-copyright", "Copyright", "copyright.xhtml")
+    add_ncx("nav-map", MAP_TITLE, "map.xhtml")
 
     chapter_files = {}
     for idx, (ch_title, ch_blocks) in enumerate(chapters, 1):
@@ -402,18 +428,22 @@ blockquote p {
 
     with open(cover_path, "rb") as cf:
         cover_bytes = cf.read()
+    with open(MAP_PATH, "rb") as mf:
+        map_bytes = mf.read()
 
     with zipfile.ZipFile(output_path, "w") as zf:
         zf.writestr("mimetype", "application/epub+zip", compress_type=zipfile.ZIP_STORED)
         zf.writestr("META-INF/container.xml", container_xml, compress_type=zipfile.ZIP_DEFLATED)
         zf.writestr("OEBPS/styles.css", css.strip(), compress_type=zipfile.ZIP_DEFLATED)
         zf.writestr("OEBPS/cover.jpg", cover_bytes, compress_type=zipfile.ZIP_DEFLATED)
+        zf.writestr("OEBPS/map.jpg", map_bytes, compress_type=zipfile.ZIP_DEFLATED)
         zf.writestr("OEBPS/cover.xhtml", cover_xhtml, compress_type=zipfile.ZIP_DEFLATED)
         zf.writestr("OEBPS/content.opf", content_opf, compress_type=zipfile.ZIP_DEFLATED)
         zf.writestr("OEBPS/toc.ncx", toc_ncx, compress_type=zipfile.ZIP_DEFLATED)
         zf.writestr("OEBPS/nav.xhtml", nav_xhtml, compress_type=zipfile.ZIP_DEFLATED)
         zf.writestr("OEBPS/title.xhtml", title_xhtml, compress_type=zipfile.ZIP_DEFLATED)
         zf.writestr("OEBPS/copyright.xhtml", copyright_xhtml, compress_type=zipfile.ZIP_DEFLATED)
+        zf.writestr("OEBPS/map.xhtml", map_xhtml, compress_type=zipfile.ZIP_DEFLATED)
         for fname, content in chapter_files.items():
             zf.writestr(f"OEBPS/{fname}", content, compress_type=zipfile.ZIP_DEFLATED)
 
@@ -514,6 +544,13 @@ def build_docx(chapters, preview_data, output_path: str):
         p.paragraph_format.space_after = Pt(8)
         r = p.add_run(line)
         r.font.size = Pt(9.5)
+
+    # Map Page
+    doc.add_section(WD_SECTION.NEW_PAGE)
+    p_map = doc.add_paragraph()
+    p_map.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p_map.paragraph_format.space_before = Pt(24)
+    p_map.add_run().add_picture(MAP_PATH, width=Inches(4.0))
 
     def render_section(heading_text: str, subheading_text, blocks):
         doc.add_section(WD_SECTION.NEW_PAGE)
@@ -625,6 +662,7 @@ def build_pdf(chapters, preview_data, output_path: str) -> int:
 \usepackage{mathptmx}
 \usepackage{microtype}
 \usepackage{setspace}
+\usepackage{graphicx}
 \setstretch{1.15}
 \setlength{\parindent}{0.25in}
 \setlength{\parskip}{0pt}
@@ -668,6 +706,13 @@ def build_pdf(chapters, preview_data, output_path: str) -> int:
 {\footnotesize Original suspense fiction by David Seelmann. Characters, locales, and incidents portrayed in this novel are fictitious.\par}
 \end{center}
 \clearpage
+\thispagestyle{empty}
+\begin{center}
+\vspace*{\fill}
+\includegraphics[width=\textwidth,height=0.92\textheight,keepaspectratio]{map.jpg}
+\vspace*{\fill}
+\end{center}
+\clearpage
 \pagestyle{plain}
 """
     ]
@@ -703,6 +748,8 @@ def build_pdf(chapters, preview_data, output_path: str) -> int:
 
     tex_source = "".join(tex_parts)
     with tempfile.TemporaryDirectory() as tmpdir:
+        with open(MAP_PATH, "rb") as mf, open(os.path.join(tmpdir, "map.jpg"), "wb") as out_mf:
+            out_mf.write(mf.read())
         tex_file = os.path.join(tmpdir, "book.tex")
         with open(tex_file, "w", encoding="utf-8") as f:
             f.write(tex_source)
@@ -754,7 +801,7 @@ def validate_outputs(epub_path: str, docx_path: str, pdf_path: str, expected_cha
     assert os.path.exists(docx_path) and os.path.getsize(docx_path) > 100_000, "DOCX missing or too small"
     check_doc = Document(docx_path)
     assert check_doc.core_properties.author == "David Seelmann"
-    assert len(check_doc.sections) == expected_chapters + 2
+    assert len(check_doc.sections) == expected_chapters + 3
     full_docx_text = "\n".join(p.text for p in check_doc.paragraphs)
     assert "DAVID SEELMANN" in full_docx_text
     assert "© 2026 David Seelmann" in full_docx_text
