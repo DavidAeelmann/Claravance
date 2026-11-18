@@ -32,9 +32,9 @@ Inside the padded kraft sleeve sit four items: a bound sheaf of notarized financ
 
 I spread the financial sheaf and the loose sketchbook sheets across the steel worktable under the blue monitor wash first.
 
-Every financial page bears the raised notary seal of a Boston firm dated October tenth—four days *before* the storm. These are original wire receipts, bridge-loan ledger sheets, and signed trust-collateral transfers showing Julian Mercer systematically draining $2,400,000 out of The Evelyn Mercer Irrevocable Trust over fourteen months to keep Mercer Soundworks afloat while his acoustic patent stalled in federal review. Six separate wire draws carry Evelyn's secondary signatory initials in cramped blue ink—each stroke slightly stiff, traced over pencil guidelines. Beside them lie the three missing pages sliced from Evelyn's studio sketchbook, covered in dozens of penciled practice tracings of her own stiffened *E.M.* initials—as if someone deliberately practiced faking a clumsy forgery.
+Every financial page bears the raised notary seal of a Boston firm dated October tenth—four days *before* the storm. These are original wire receipts, bridge-loan ledger sheets, and signed trust-collateral transfers showing Julian Mercer systematically draining $2,400,000 out of The Evelyn Mercer Irrevocable Trust over fourteen months to keep Mercer Soundworks afloat while his acoustic patent stalled in federal review. Six separate wire draws carry Evelyn's secondary signatory initials in cramped blue ink—each stroke slightly stiff, traced over pencil guidelines. Beside them lie the three missing pages sliced from Evelyn's studio sketchbook, covered in dozens of penciled practice tracings of Evelyn's *E.M.* initials.
 
-Julian didn't just miss a payment. Someone in this house was either building a paper trail to frame him for forgery on top of embezzlement, or Julian locked both the audit packet and Evelyn's practice sheets together because he couldn't explain either one without going to prison for wire fraud.
+Julian didn't just miss a payment—he sliced sheets out of his wife's own sketchbook to practice forging her signature on six trust transfers, then locked the evidence inside his archive cabinet before the probate lawyers could audit the room. Anyone at the Suffolk County DA's office holding these notarized sheets wouldn't need a body to put Julian Mercer in state prison for wire fraud.
 
 I set the notarized sheets aside and flip open the spiral-bound printout.
 
@@ -45,8 +45,11 @@ I turn to the 02:14 AM tab, squinting at the dense columns of decibel spikes and
 Half the lines are buried under `[GALE GUST — 42 KT]` and `[RAIN IMPACT — GLASS]`, yet three fragments jump off the page in bold type:
 
 > `02:14:09 [SUNROOM_EAST]` — *Speaker A (Muffled):* "...careful with the varnish—"
+
 > `02:14:17 [SUNROOM_EAST]` — *Speaker B (Low):* "Nobody's checking the oarlocks at five in the morning—"
+
 > `02:14:31 [BOATHOUSE_LINT]` — *Speaker A:* "—leave the Montblanc on the—"
+
 > `02:14:44 [BOATHOUSE_LINT]` — `[METALLIC LATCH IMPACT — 68 dB // SIGNAL CLIPPED]`
 
 After 02:14:44, the transcript drops into six minutes of dead static—every microphone channel cut simultaneously at the main breaker before resuming at 02:21:02 with nothing but empty rain beating against the cove pilings.

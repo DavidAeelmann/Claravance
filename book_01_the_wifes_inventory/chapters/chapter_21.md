@@ -76,7 +76,7 @@ I throw my entire weight against the steel door. It swings fast on its heavy hin
 
 I yank the rusted **B-4** mortise key from my jeans pocket, jam it into the exterior brass cylinder, and throw the deadbolt home. Steel locks into steel.
 
-Inside Zone 4, Cole's heavy boots slam furiously against the reinforced door, his muffled shouts and the dull *thump* of his shoulder swallowed almost instantly by the charcoal foam. Without a phone or a key on the inside—and with the only spare B-4 key sitting warm in my pocket—he isn't coming out of that concrete box until someone unlocks this mortise cylinder from the hall.
+Inside Zone 4, Cole's heavy boots slam furiously against the reinforced door, his muffled shouts and the dull *thump* of his shoulder swallowed almost instantly by the charcoal foam. With his left wrist slashed open, he won't haul himself up a vertical iron shaft fast—and with the only spare B-4 key sitting warm in my pocket, he isn't coming out through that steel door until someone unlocks it from the hall.
 
 Evelyn doesn't stay to fight me on the stairs. She scrambles up the concrete steps ahead of me in the dark, her breathing ragged and fast, leaving her dropped brass wrench behind in the darkroom. One hand clamps over her bleeding forearm; the other clutches a small backup drive pulled from the study tower tucked inside her torn waxed-canvas jacket.
 

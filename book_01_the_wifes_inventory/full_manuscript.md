@@ -1172,7 +1172,7 @@ My chest feels hollow. Either the sediment at the bottom of that glass was nothi
 
 His jaw relaxes a fraction, though his eyes stay guarded. "Good. Get some sleep. Tomorrow's going to be a long haul before the courier arrives."
 
-I leave the glass two-thirds full on the coaster, say goodnight, and climb the oak stairs to the guest suite. Once the heavy cedar door is locked and deadbolted behind me, I lean back against the panel for five seconds, letting my breath out in a long, shaking line. Two point four million dollars in trust embezzlement. A deputy with administrator PINs. A flashlight sweeping inside a locked boathouse. Downstairs, the living room hearth screen clanks shut as Julian banks the fire for the night, and the cast-iron radiator under my window ticks sharply as steam surges through the pipes.
+I leave the glass two-thirds full on the coaster, say goodnight, and climb the oak stairs to the guest suite. Once the privacy latch clicks shut and I wedge the desk chair tight under the knob, I lean back against the panel for five seconds, letting my breath out in a long, shaking line. Two point four million dollars in trust embezzlement. A deputy with administrator PINs. A flashlight sweeping inside a locked boathouse. Downstairs, the living room hearth screen clanks shut as Julian banks the fire for the night, and the cast-iron radiator under my window ticks sharply as steam surges through the pipes.
 
 I cross to the radiator, check that the brown paper hardware bag tucked behind the iron fins hasn't been shifted, and pull my laptop out of the faded navy duffel. My hands are stiff from the cold room as I thumb the power button, watching the encrypted partition prompt blink awake against the dark quilt. I sit on the edge of the stripped bed, letting the pale screen illuminate my knees while I plug in my phone cable and push the demand-letter photos straight into my off-site vault.
 
@@ -1426,9 +1426,9 @@ Inside the padded kraft sleeve sit four items: a bound sheaf of notarized financ
 
 I spread the financial sheaf and the loose sketchbook sheets across the steel worktable under the blue monitor wash first.
 
-Every financial page bears the raised notary seal of a Boston firm dated October tenth—four days *before* the storm. These are original wire receipts, bridge-loan ledger sheets, and signed trust-collateral transfers showing Julian Mercer systematically draining $2,400,000 out of The Evelyn Mercer Irrevocable Trust over fourteen months to keep Mercer Soundworks afloat while his acoustic patent stalled in federal review. Six separate wire draws carry Evelyn's secondary signatory initials in cramped blue ink—each stroke slightly stiff, traced over pencil guidelines. Beside them lie the three missing pages sliced from Evelyn's studio sketchbook, covered in dozens of penciled practice tracings of her own stiffened *E.M.* initials—as if someone deliberately practiced faking a clumsy forgery.
+Every financial page bears the raised notary seal of a Boston firm dated October tenth—four days *before* the storm. These are original wire receipts, bridge-loan ledger sheets, and signed trust-collateral transfers showing Julian Mercer systematically draining $2,400,000 out of The Evelyn Mercer Irrevocable Trust over fourteen months to keep Mercer Soundworks afloat while his acoustic patent stalled in federal review. Six separate wire draws carry Evelyn's secondary signatory initials in cramped blue ink—each stroke slightly stiff, traced over pencil guidelines. Beside them lie the three missing pages sliced from Evelyn's studio sketchbook, covered in dozens of penciled practice tracings of Evelyn's *E.M.* initials.
 
-Julian didn't just miss a payment. Someone in this house was either building a paper trail to frame him for forgery on top of embezzlement, or Julian locked both the audit packet and Evelyn's practice sheets together because he couldn't explain either one without going to prison for wire fraud.
+Julian didn't just miss a payment—he sliced sheets out of his wife's own sketchbook to practice forging her signature on six trust transfers, then locked the evidence inside his archive cabinet before the probate lawyers could audit the room. Anyone at the Suffolk County DA's office holding these notarized sheets wouldn't need a body to put Julian Mercer in state prison for wire fraud.
 
 I set the notarized sheets aside and flip open the spiral-bound printout.
 
@@ -1439,8 +1439,11 @@ I turn to the 02:14 AM tab, squinting at the dense columns of decibel spikes and
 Half the lines are buried under `[GALE GUST — 42 KT]` and `[RAIN IMPACT — GLASS]`, yet three fragments jump off the page in bold type:
 
 > `02:14:09 [SUNROOM_EAST]` — *Speaker A (Muffled):* "...careful with the varnish—"
+
 > `02:14:17 [SUNROOM_EAST]` — *Speaker B (Low):* "Nobody's checking the oarlocks at five in the morning—"
+
 > `02:14:31 [BOATHOUSE_LINT]` — *Speaker A:* "—leave the Montblanc on the—"
+
 > `02:14:44 [BOATHOUSE_LINT]` — `[METALLIC LATCH IMPACT — 68 dB // SIGNAL CLIPPED]`
 
 After 02:14:44, the transcript drops into six minutes of dead static—every microphone channel cut simultaneously at the main breaker before resuming at 02:21:02 with nothing but empty rain beating against the cove pilings.
@@ -1703,7 +1706,7 @@ It's my voice.
 
 *"—didn't mean for the skiff to drift that far out,"* my voice sobs through the speakers, breathless and ragged, layered over the exact rain-on-glass ambient hiss from the study mics. *"Julian said if I helped him move her out of the sunroom before high tide, he'd double the wire to twenty grand. I just—I needed the judgment cleared. I didn't know she wasn't breathing when we wrapped the rug—"*
 
-I stare at the waveform on the screen. Someone took clean vocal samples from my Monday night NDA intake, my kitchen arguments with Julian, and my phone calls from the guest suite, then stitched the cadence together over a house-mic noise bed. The splices are invisible to the naked ear. To a county prosecutor—or a sheriff's deputy who already has Evelyn's duck boots waiting in my Civic trunk—it sounds like a panicked accomplice breaking down.
+I stare at the waveform on the screen. Someone took clean vocal samples from my Monday night NDA intake, my kitchen arguments with Julian, and my phone calls from the guest suite, then stitched the cadence together over a house-mic noise bed. The splices are invisible to the naked ear. To a county prosecutor—or a sheriff's deputy who already has a bleach-stained boat rag and bronze cleat waiting in my Civic trunk—it sounds like a panicked accomplice breaking down.
 
 "They didn't just plant the boots," I say, my voice barely above a whisper.
 
@@ -2239,7 +2242,7 @@ I throw my entire weight against the steel door. It swings fast on its heavy hin
 
 I yank the rusted **B-4** mortise key from my jeans pocket, jam it into the exterior brass cylinder, and throw the deadbolt home. Steel locks into steel.
 
-Inside Zone 4, Cole's heavy boots slam furiously against the reinforced door, his muffled shouts and the dull *thump* of his shoulder swallowed almost instantly by the charcoal foam. Without a phone or a key on the inside—and with the only spare B-4 key sitting warm in my pocket—he isn't coming out of that concrete box until someone unlocks this mortise cylinder from the hall.
+Inside Zone 4, Cole's heavy boots slam furiously against the reinforced door, his muffled shouts and the dull *thump* of his shoulder swallowed almost instantly by the charcoal foam. With his left wrist slashed open, he won't haul himself up a vertical iron shaft fast—and with the only spare B-4 key sitting warm in my pocket, he isn't coming out through that steel door until someone unlocks it from the hall.
 
 Evelyn doesn't stay to fight me on the stairs. She scrambles up the concrete steps ahead of me in the dark, her breathing ragged and fast, leaving her dropped brass wrench behind in the darkroom. One hand clamps over her bleeding forearm; the other clutches a small backup drive pulled from the study tower tucked inside her torn waxed-canvas jacket.
 

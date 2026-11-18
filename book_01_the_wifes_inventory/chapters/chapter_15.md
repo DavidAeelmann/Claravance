@@ -128,7 +128,7 @@ It's my voice.
 
 *"—didn't mean for the skiff to drift that far out,"* my voice sobs through the speakers, breathless and ragged, layered over the exact rain-on-glass ambient hiss from the study mics. *"Julian said if I helped him move her out of the sunroom before high tide, he'd double the wire to twenty grand. I just—I needed the judgment cleared. I didn't know she wasn't breathing when we wrapped the rug—"*
 
-I stare at the waveform on the screen. Someone took clean vocal samples from my Monday night NDA intake, my kitchen arguments with Julian, and my phone calls from the guest suite, then stitched the cadence together over a house-mic noise bed. The splices are invisible to the naked ear. To a county prosecutor—or a sheriff's deputy who already has Evelyn's duck boots waiting in my Civic trunk—it sounds like a panicked accomplice breaking down.
+I stare at the waveform on the screen. Someone took clean vocal samples from my Monday night NDA intake, my kitchen arguments with Julian, and my phone calls from the guest suite, then stitched the cadence together over a house-mic noise bed. The splices are invisible to the naked ear. To a county prosecutor—or a sheriff's deputy who already has a bleach-stained boat rag and bronze cleat waiting in my Civic trunk—it sounds like a panicked accomplice breaking down.
 
 "They didn't just plant the boots," I say, my voice barely above a whisper.
 
