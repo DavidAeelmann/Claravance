@@ -1,42 +1,45 @@
 # 04 — Live State & Continuity Tracker (*The Quarantine Manifest*)
 
-- **Current Manuscript Status:** Initialized (Chapter 1 Locked Verbatim from Book 2 Preview; Chapters 2–23 Pending Outline & Drafting)
-- **Completed Chapters:** 1 / 23
-- **Cumulative Word Count:** 1,275 words (`chapters/chapter_01.md`)
-- **Current Timeline Anchor:** Wednesday, December 16, 2026, ~3:35 PM (Tide turns at 4:00 PM) — Barrow Island (`B.I.Q.S.-04`), Lower Narragansett Bay, R.I.
+- **Current Manuscript Status:** Chapters 1–7 Complete & Linted (0 Violations — Act I & Act IIa Launch Complete)
+- **Completed Chapters:** 7 / 23
+- **Cumulative Word Count:** 11,809 words (`chapter_01.md` – `chapter_07.md`)
+- **Current Timeline Anchor:** Wednesday, December 16, 2026, `5:56 PM` (`4 minutes` to missed Portland check-in; midnight dump deadline in `6 hours`) — Aft Cockpit of the *Harbor Bell* at the Coal Pier, Barrow Island (`B.I.Q.S.-04`), Lower Narragansett Bay, R.I.
 - **Active POV:** **Tessa Calder** (1st-Person Present)
 
 ---
 
-## 1. Character Locations & Immediate Tactical Status (End of Chapter 1)
-- **Tessa Calder:** Trapped inside the pitch-black, `4°C` brick basement morgue vault of **Ward C** on Barrow Island; lights just snapped off and exterior iron bulkhead doors bolted shut.
-- **Nina Calder:** Safe inside Tessa's third-floor apartment on the Eastern Promenade in Portland, Maine, guarded downstairs by two U.S. Marshals under AUSA Nora Halvorsen's federal whistleblower immunity order.
-- **Victor Garroway & Operative (Steel Toe-Tap):** On Barrow Island (operative just bolted Ward C from outside).
-- **Margot Kiefer-Hall:** Out on `$500,000` surety bond in Boston (status on-island TBD per Book 3 Act I).
+## 1. Character Locations & Immediate Tactical Status (End of Chapter 7)
+- **Tessa Calder:** Crouched behind the aft cockpit coaming of Garroway's 38-foot twin-diesel launch ***Harbor Bell*** at the Coal Pier as the rusted iron side door of the **Disinfection Steam Plant** thirty paces up the shore causeway bangs open and a halogen searchlight sweeps the iced granite slipway rails toward the boat's stern.
+- **Nina Calder:** Safe in Portland, Maine under AUSA Nora Halvorsen's federal protection (her biostatistics expertise is the missing piece Tessa wishes she had on the island to decode the coded sample IDs).
+- **Victor Garroway & Margot Kiefer-Hall:** Inside the Administration & Customs House burning files (Garroway holding the *Harbor Bell* magnetic kill-switch fob and Harbor Mutual port-clearance forms; Margot secretly hunting the 1998 Kiefer-Hall charter-trust instruments to betray Garroway).
+- **Conrad (Steel Toe-Tap Operative):** Sweeping the waterfront / Disinfection Steam Plant perimeter with a halogen searchlight (holds or guards the high-security tubular key to `Crate #06`).
 
 ---
 
 ## 2. Tessa's Physical State, Attire & Inventory
-- **Physical State:** Healthy but chilled by December sleet; thin pink scar on **left wrist** (Salt Point); tight pink scar across **right index knuckle** (Cragmont Lodge, sutures removed Dec 13).
-- **Inventory:** Faded navy canvas duffel, wool coat, leather gloves, folding steel multi-tool, heavy flashlight, phone, and tarnished marine-brass mortise key (`B.I.Q.S.-04 — WARD C`) + folded 1998 `Calder Maritime & Cargo` carbon survey sheet countersigned by Victor Garroway.
-- **On Autopsy Table / Vault:** Original 1998 `Calder Maritime & Cargo` black leather manifest binder (open to the final line circled twice in fresh red grease pencil), freshly pried Portland Custom House Wharf shipping crate, crowbar, yellow hydraulic hand-truck, and four `4°C` stainless-steel refrigeration lockers.
+- **Physical State:** Soaked to the calves/shins and wool sleeves; **right index knuckle scar** split and raw inside damp glove; **left wrist Salt Point scar** raw; bruised hip; chilled by freezing sleet.
+- **Inventory:** Faded navy canvas duffel strapped across shoulders (containing dry **1998 `C.M.C.` black leather manifest binder**), wet wool coat, **forged-steel crowbar** (behind belt), damp leather gloves, **folding steel multi-tool** (in coat pocket), heavy aluminum flashlight, 10x jeweler's loupe, phone (`0` signal bars due to RF jammer), `B.I.Q.S.-04 — WARD C` brass key, and folded 1998 `C.M.C.` carbon sheet.
+- **Verified on *Harbor Bell*:**
+  - `Crate #06` (`B.I.Q.S.-04 / NORTHERN CROSS — SPECIMEN 06 / DONOR #12-C (CALDER, E. M.) — 4°C CRYOGENIC LOCK`) chained under canvas tarp on aft deck, secured by a seven-pin radial tubular key lock.
+  - NOAA Block Island Sound bathymetry chart pinned with red grease-pencil `X` at **`00:30 EBB — 200 FT`**, plus Harbor Mutual clearance clipboard signed by Victor Garroway.
+  - Helm disabled (magnetic kill-switch fob removed, engine hatch screwed shut, VHF microphone unplugged and locked in cuddy safe).
 
 ---
 
 ## 3. Active Threats & Environmental Conditions
-- **Immediate Trap:** Pitch-dark `4°C` brick morgue vault sealed from outside; mail skiff leaves at 4:00 PM when the south current hits the riprap channel.
-- **Series Stakes:** Uncovering what is inside the 1998 refrigerated crates, whose name is circled in red grease pencil on the 1998 passenger-and-specimen log, and stopping Garroway's purge before Nina is endangered.
+- **Immediate Threat:** Halogen searchlight sweeping from the Disinfection Steam Plant directly toward the *Harbor Bell*'s stern (`5:56 PM`).
+- **Midnight Disposal Clock:** Garroway plans to dump `Crate #06` (`CALDER, ELENA M.`) at `00:30 EBB` in 200 feet of water off Block Island.
 
 ---
 
-## 4. Active Fair-Play Clues Planted
-- Dual pneumatic hand-truck ruts & steel toe-tap heel print in slush.
-- Live 3-phase submarine power cable humming under Ward C.
-- Latakia Turkish pipe tobacco + medical formalin + wet cedar crate shavings.
-- Freshly pried Portland Custom House Wharf crate + four `4°C` lockers.
-- 1998 `Calder Maritime & Cargo` binder open to the Block Island passenger-and-specimen log with the final line circled twice in red grease pencil.
+## 4. Active Fair-Play Clues Planted / Resolved
+- **Clue #1 (Hand-truck ruts & steel toe-tap):** Yellow hydraulic hand-truck spotted parked at the head of the iced granite slipway rails beside spare anchor chain.
+- **Clue #2 (3-phase submarine cable hum):** Active; next step is inspecting the Disinfection Steam Plant switchgear.
+- **Clue #3 (Latakia tobacco, formalin, cedar shavings & 2023 compressor plates):** Pipe-tamper coated in Latakia resin & Harbor Mutual clearance clipboard found in *Harbor Bell* wheelhouse.
+- **Clue #4 (Empty Locker 4 & circled `ELENA M. CALDER` line):** Brass plate on `Crate #06` confirmed under tarp (`DONOR #12-C (CALDER, E. M.)`); locked with 7-pin tubular key.
+- **Clue #8 (North Ledge Signal Tower USCG microwave repeater):** Confirmed the *Harbor Bell* VHF is disabled, leaving North Ledge repeater + Customs House radio room as the only mainland comm path.
 
 ---
 
-## 5. Last Chapter Summary (Chapter 1 — ≤100 Words)
-Armed with her father's tarnished `B.I.Q.S.-04 — WARD C` brass key and 1998 carbon survey sheet countersigned by Victor Garroway, Tessa takes a mail skiff to "abandoned" Barrow Island on a 40-minute tide window. Finding fresh hand-truck ruts, a steel toe-tap boot print, a live submarine power cable, and the scent of Garroway's Turkish pipe tobacco, she unlocks Ward C's basement morgue. Inside, she finds four `4°C` refrigeration lockers, a freshly pried Portland wharf crate, and her father's 1998 manifest binder circled twice in red grease pencil—before the lights snap off and the iron bulkhead bolts shut.
+## 5. Last Chapter Summary (Chapter 7 — ≤100 Words)
+After Garroway and Conrad lock the pier gate, Tessa pries the storm-culvert grate and boards the ***Harbor Bell***. Under the stern tarp, she confirms `Crate #06` (`DONOR #12-C (CALDER, E. M.)`) is chained for scuttling and sealed by a seven-pin radial tubular lock. Inside the wheelhouse, she finds a NOAA chart marking the `00:30 EBB — 200 FT` Block Island dump site and Garroway's pre-signed clearance forms—with the magnetic kill-fob pulled and VHF mic locked in the safe. At `5:56 PM`, the Steam Plant door bangs open and a halogen searchlight sweeps toward the stern.
