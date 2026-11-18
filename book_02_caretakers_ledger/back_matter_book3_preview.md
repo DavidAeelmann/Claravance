@@ -81,7 +81,7 @@ I depress the lever and push the tin-clad door open a crack.
 
 Inside runs a long, whitewashed brick vault lit by low-wattage amber bulkhead cages. Along the left wall stand four stainless-steel refrigeration lockers wired into a digital temperature manifold reading **four degrees Celsius**. Across the center of the concrete floor, sitting on a yellow hydraulic hand-truck beside a crowbar and a pile of damp pine slats, is a freshly pried shipping crate stenciled with the faded crest of the **Portland Custom House Wharf**.
 
-And resting open on a steel stainless autopsy table under the center amber bulb is a black leather cargo manifest binder—its spine stamped with the gold-leaf emblem of **Vance Maritime & Cargo, 1998**.
+And resting open on a stainless-steel autopsy table under the center amber bulb is a black leather cargo manifest binder—its spine stamped with the gold-leaf emblem of **Vance Maritime & Cargo, 1998**.
 
 I take two silent steps across the concrete drain grate, pull my phone out to photograph the open page, and freeze.
 

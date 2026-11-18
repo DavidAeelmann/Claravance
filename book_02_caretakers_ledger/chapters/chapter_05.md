@@ -61,6 +61,7 @@ Arthur's second wife, Celeste Vane, didn't ride a snowmobile into a blizzard. He
 Beside the coat sits a heavy plastic milk crate packed tight with cross-cut paper strips—thousands of confetti-sized ribbons spilling out of a busted commercial shredder bag. I pinch two wider strips near the crate rim where the blades jammed and left half a line of print intact.
 
 `...VANECOR PEDIATRIC TRIAL — AUTOPSY TRANSFER...`
+
 `...DEATH CODE: ACCIDENTAL HYPOTHERMIA (RURAL CORONER)...`
 
 My stomach knots tight against my ribs. I drop the two paper strips into my inside breast pocket beside the charred *Vane Biotech* payout voucher, tuck the canvas tarp back down over the crate, and slip out the side service door before Hollis steps onto the front porch.

@@ -58,7 +58,7 @@ Hollis tilts the iron poker an inch closer to Sloane's leather armchair. The hea
 
 Celeste takes a sharp half-step forward from the lectern. "She walked down to the gates?"
 
-"You saw my snowshoe tracks," I say, looking straight at Hollis. "The ones you found yesterday afternoon before you jammed the intercom. I didn't leave the ledger in the study. I locked it inside the spare tire well under the Civic's trunk mat."
+"You saw my snowshoe tracks," I say, looking straight at Hollis. "The ones you found yesterday afternoon before you called Celeste on the intercom. I didn't leave the ledger in the study. I locked it inside the spare tire well under the Civic's trunk mat."
 
 I press my thumb hard against the flat face of the brass tag and drag its milled corner across the nylon ratchet. Once. Twice. The hard plastic resists, slick with sweat, then gives a faint dry *click* as the brass edge bites a shallow groove into the casing.
 

@@ -454,6 +454,7 @@ Arthur's second wife, Celeste Vane, didn't ride a snowmobile into a blizzard. He
 Beside the coat sits a heavy plastic milk crate packed tight with cross-cut paper strips—thousands of confetti-sized ribbons spilling out of a busted commercial shredder bag. I pinch two wider strips near the crate rim where the blades jammed and left half a line of print intact.
 
 `...VANECOR PEDIATRIC TRIAL — AUTOPSY TRANSFER...`
+
 `...DEATH CODE: ACCIDENTAL HYPOTHERMIA (RURAL CORONER)...`
 
 My stomach knots tight against my ribs. I drop the two paper strips into my inside breast pocket beside the charred *Vane Biotech* payout voucher, tuck the canvas tarp back down over the crate, and slip out the side service door before Hollis steps onto the front porch.
@@ -1214,7 +1215,7 @@ Downstairs, two stories below our feet, a heavy timber door slams hard against t
 
 Maya doesn't flinch. Her gaze stays locked on the folded **three-page Survivorship Covenant** I've laid beside the Guest Ledger sheet on the blanket between us, along with the wrapped crystal brandy stopper and the half-charred silver rescue-spray canister from Celeste's vanity.
 
-"Arthur died at eleven-forty Tuesday night," I tell her, keeping my voice low enough that it barely carries past the copper pipe. "I just saw his body under the rock salt in the icehouse. Thin socks, swollen gout toe, blue fingernails. Celeste swapped his cardiac rescue spray with *VaneCor* capsules—she's alive in the West Wing right now, burning the blister packs over a porcelain bowl. And she just torched the icehouse door thinking I was still inside."
+"I just saw Arthur's body under the rock salt in the icehouse," I tell her, keeping my voice low enough that it barely carries past the copper pipe. "Thin socks, swollen gout toe, blue fingernails. And Celeste is holed up in the West Wing right now, burning the remaining *VaneCor* blister packs over a porcelain bowl—right before she torched the icehouse gable thinking I was still inside."
 
 Maya's jaw sets hard, her thumb brushing the edge of the charred canister. "She has until five o'clock tomorrow afternoon. If Arthur isn't certified dead before five, the thirty-eight-million-dollar voting block vests to her instead of the institutional bondholders."
 
@@ -1231,9 +1232,9 @@ She flips past sixty pages of handwritten farm deliveries, timber leases, and ca
 My beam catches a fresh blue sticky-note tab Maya left on the margin, right beside six neat columns of wire transfers.
 
 > *CASE #VT-20-114 (PEDIATRIC CARDIAC / HYPOTHERMIA RECLASSIFICATION) — $145,000.00*
->
+
 > *DISBURSED VIA: STATE STREET ESCROW ACCT #884-19B (BOSTON)*
->
+
 > *COURIER / CLEARANCE: H. GREER*
 
 I reach into my breast pocket and lay the **charred Vane Biotech voucher corner**—the one I pulled out of the Great Hall hearth yesterday evening—flat against the ruled margin. The `$145,000.00` payout figure matches to the cent.
@@ -1562,7 +1563,7 @@ Hollis tilts the iron poker an inch closer to Sloane's leather armchair. The hea
 
 Celeste takes a sharp half-step forward from the lectern. "She walked down to the gates?"
 
-"You saw my snowshoe tracks," I say, looking straight at Hollis. "The ones you found yesterday afternoon before you jammed the intercom. I didn't leave the ledger in the study. I locked it inside the spare tire well under the Civic's trunk mat."
+"You saw my snowshoe tracks," I say, looking straight at Hollis. "The ones you found yesterday afternoon before you called Celeste on the intercom. I didn't leave the ledger in the study. I locked it inside the spare tire well under the Civic's trunk mat."
 
 I press my thumb hard against the flat face of the brass tag and drag its milled corner across the nylon ratchet. Once. Twice. The hard plastic resists, slick with sweat, then gives a faint dry *click* as the brass edge bites a shallow groove into the casing.
 

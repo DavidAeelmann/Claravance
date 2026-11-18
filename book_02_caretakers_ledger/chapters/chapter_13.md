@@ -72,7 +72,7 @@ Downstairs, two stories below our feet, a heavy timber door slams hard against t
 
 Maya doesn't flinch. Her gaze stays locked on the folded **three-page Survivorship Covenant** I've laid beside the Guest Ledger sheet on the blanket between us, along with the wrapped crystal brandy stopper and the half-charred silver rescue-spray canister from Celeste's vanity.
 
-"Arthur died at eleven-forty Tuesday night," I tell her, keeping my voice low enough that it barely carries past the copper pipe. "I just saw his body under the rock salt in the icehouse. Thin socks, swollen gout toe, blue fingernails. Celeste swapped his cardiac rescue spray with *VaneCor* capsules—she's alive in the West Wing right now, burning the blister packs over a porcelain bowl. And she just torched the icehouse door thinking I was still inside."
+"I just saw Arthur's body under the rock salt in the icehouse," I tell her, keeping my voice low enough that it barely carries past the copper pipe. "Thin socks, swollen gout toe, blue fingernails. And Celeste is holed up in the West Wing right now, burning the remaining *VaneCor* blister packs over a porcelain bowl—right before she torched the icehouse gable thinking I was still inside."
 
 Maya's jaw sets hard, her thumb brushing the edge of the charred canister. "She has until five o'clock tomorrow afternoon. If Arthur isn't certified dead before five, the thirty-eight-million-dollar voting block vests to her instead of the institutional bondholders."
 
@@ -89,9 +89,9 @@ She flips past sixty pages of handwritten farm deliveries, timber leases, and ca
 My beam catches a fresh blue sticky-note tab Maya left on the margin, right beside six neat columns of wire transfers.
 
 > *CASE #VT-20-114 (PEDIATRIC CARDIAC / HYPOTHERMIA RECLASSIFICATION) — $145,000.00*
->
+
 > *DISBURSED VIA: STATE STREET ESCROW ACCT #884-19B (BOSTON)*
->
+
 > *COURIER / CLEARANCE: H. GREER*
 
 I reach into my breast pocket and lay the **charred Vane Biotech voucher corner**—the one I pulled out of the Great Hall hearth yesterday evening—flat against the ruled margin. The `$145,000.00` payout figure matches to the cent.
