@@ -30,7 +30,7 @@ At the bottom, the commercial kitchen sits pitch-black except for a tiny amber p
 
 Hollis said he locked the pantry hall from his side. I test the swinging baize door separating the kitchen from the Great Hall—sure enough, a heavy brass deadbolt locks it fast from the hall side. He meant to keep me out of the main floor at night, forgetting—or not caring—that the narrow plank door tucked behind the walk-in larder drops straight down to the sub-basement boiler vault.
 
-I test the cellar knob gently. Locked with an interior mortise bolt. I slide Sloane's brass skeleton key into the oiled keyhole, brace the iron latch with my left thumb so it doesn't snap, and turn the wards. They glide without a scrape.
+I test the cellar knob gently. Locked with an interior mortise bolt. I slide Margot's brass skeleton key into the oiled keyhole, brace the iron latch with my left thumb so it doesn't snap, and turn the wards. They glide without a scrape.
 
 I ease the heavy plank door open, slip onto the top cellar tread, and pull the door nearly shut behind me, leaving half an inch of clearance so the latch won't click loud in the silent kitchen.
 
@@ -90,4 +90,4 @@ The iron plate slides upward a fraction of an inch in its greased tracks. A knif
 
 Then a faint, ragged whisper slides through the narrow iron gap in the dark:
 
-"Clara? Don't turn your flashlight on."
+"Tessa? Don't turn your flashlight on."

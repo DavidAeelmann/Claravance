@@ -1,14 +1,14 @@
 # Chapter 2
 
-I slide the cedar closet door shut with my hip, leaving just enough gap for the latch not to click, and hang my damp waxed jacket on the brass hook beside the bench. My heart slams against my ribs so hard my throat tastes copper. By the time Julian's stockinged feet hit the bottom oak tread, I'm already stooping to lift my duffel off the slate floor.
+I slide the cedar closet door shut with my hip, leaving just enough gap for the latch not to click, and hang my damp waxed jacket on the brass hook beside the bench. My heart slams against my ribs so hard my throat tastes copper. By the time Graham's stockinged feet hit the bottom oak tread, I'm already stooping to lift my duffel off the slate floor.
 
 He stops near the archway, phone still pressed loosely against his thigh. His eyes flick from my wet coat on the hook to the closed closet door, then settle on my face. For one tight second, neither of us moves. If he saw the gap in the cedar slats, or noticed the trench coat hem shifted inside, he doesn't show it.
 
 "I forgot the Wi-Fi password," he says, holding up a square of torn cardstock he must have scribbled on upstairs. "And you left your front-door key on the maple table."
 
-"Thanks." I step past him to retrieve the heavy brass key, keeping my posture loose while my palms sweat against the canvas duffel strap. The key feels ice-cold in my grip. "Which room is Evelyn's studio? If you want a preliminary ledger by Friday, I'd rather map the layout tonight than waste daylight."
+"Thanks." I step past him to retrieve the heavy brass key, keeping my posture loose while my palms sweat against the canvas duffel strap. The key feels ice-cold in my grip. "Which room is Lydia's studio? If you want a preliminary ledger by Friday, I'd rather map the layout tonight than waste daylight."
 
-Julian's mouth tightens—not quite a smile, more like a man checking off an unexpected box. "End of the upper hall, opposite the master suite. Don't start boxing anything tonight, Ms. Vance. Just get some sleep. The wind off the cove gets loud after midnight."
+Graham's mouth tightens—not quite a smile, more like a man checking off an unexpected box. "End of the upper hall, opposite the master suite. Don't start boxing anything tonight, Ms. Calder. Just get some sleep. The wind off the cove gets loud after midnight."
 
 "I sleep fine with noise."
 
@@ -22,23 +22,23 @@ I sit on the edge of the mattress. The springs barely give. Somewhere under the 
 
 For a long minute I just stare at the closed bedroom door. Five thousand dollars sits zipped inside my bag—enough to pay off the immediate bank levy before Monday morning—yet my chest feels tight as if I've already spent it and missed the catch. At Harbor Mutual, after I refused to sign off on a fraudulent Commercial Street warehouse fire clearance, the senior partner didn't even raise his voice in the conference room. He just slid a termination notice across mahogany, told me my own notes proved I'd tampered with an insured lockbox, and let the civil judgment bleed me dry for three years. Men with quiet voices and good lawyers don't need to yell when they corner you.
 
-I open my laptop anyway. My hands shake slightly as the screen brightens. Fifty thousand dollars in liquidated damages hangs over my head if Julian catches me wandering where I shouldn't, yet a dead woman's packed weekender is sitting downstairs with a ferry stub stamped three days after she drowned.
+I open my laptop anyway. My hands shake slightly as the screen brightens. Fifty thousand dollars in liquidated damages hangs over my head if Graham catches me wandering where I shouldn't, yet a dead woman's packed weekender is sitting downstairs with a ferry stub stamped three days after she drowned.
 
 Walking away means losing my apartment on Monday. Staying means sharing a roof with a man who either shoved his wife off a skiff or hid her luggage behind his coats and lied to the Coast Guard.
 
-I open the shared spreadsheet Julian emailed earlier. Fifty blank rows, pre-formatted with columns for *Room*, *Item Description*, *Estimated Value*, and *Box Number*. Clean, sterile, corporate. Beside it, I open a local encrypted note on my hard drive—offline, unsynced—and type four lines:
+I open the shared spreadsheet Graham emailed earlier. Fifty blank rows, pre-formatted with columns for *Room*, *Item Description*, *Estimated Value*, and *Box Number*. Clean, sterile, corporate. Beside it, I open a local encrypted note on my hard drive—offline, unsynced—and type four lines:
 
 *1. Porch deck: fresh linseed/sealer smell, planks dry.*
 
 *2. Mudroom tray: right half wiped clean, women's boots gone.*
 
-*3. Foyer closet: E.M. olive weekender, packed heavy, unlocked padlock.*
+*3. Foyer closet: L.K. olive weekender, packed heavy, unlocked padlock.*
 
 *4. Bar Harbor Slip 4 ferry stub: OCT 17 (Drowning reported Oct 14, 11:30 PM).*
 
-I stare at the glowing screen until the radiator under the window ticks sharply, making me flinch. If Julian is running a probate fraud—say, Evelyn walked out on him and he staged a drowning to claim life insurance—then the weekender makes sense. Almost. Except why leave the Bar Harbor stub tied to the handle where any probate lawyer or hired cleaner might trip over it?
+I stare at the glowing screen until the radiator under the window ticks sharply, making me flinch. If Graham is running a probate fraud—say, Lydia walked out on him and he staged a drowning to claim life insurance—then the weekender makes sense. Almost. Except why leave the Bar Harbor stub tied to the handle where any probate lawyer or hired cleaner might trip over it?
 
-Unless Evelyn didn't leave it there. Unless someone else brought that bag back to Salt Point after October 17, and Julian stuffed it behind his coats when he couldn't figure out how to burn it without smoke.
+Unless Lydia didn't leave it there. Unless someone else brought that bag back to Salt Point after October 17, and Graham stuffed it behind his coats when he couldn't figure out how to burn it without smoke.
 
 Downstairs, a door shuts softly—the study, maybe, or the kitchen porch. Then heavy footsteps cross the slate foyer and climb halfway up the main stairs before pausing near the office landing.
 
@@ -46,13 +46,13 @@ I slip my wet boots off, pull on thick wool socks from my duffel, and tuck my ph
 
 ***
 
-The upper hallway runs along the landward spine of the house, carpeted in a gray wool runner that swallows my steps. Light spills dimly from beneath the crack of Julian's office door halfway down, accompanied by the faint, rhythmic tap of someone typing on a mechanical keyboard. Every few seconds the tapping stops, followed by the soft rustle of paper, then starts up again.
+The upper hallway runs along the landward spine of the house, carpeted in a gray wool runner that swallows my steps. Light spills dimly from beneath the crack of Graham's office door halfway down, accompanied by the faint, rhythmic tap of someone typing on a mechanical keyboard. Every few seconds the tapping stops, followed by the soft rustle of paper, then starts up again.
 
 I keep close to the drywall so the floor joists won't groan and slip past his door toward the far end, where double doors stand slightly ajar.
 
-Evelyn's studio smells different from the rest of the house. Beneath the sterile lemon polish Julian's cleaning crew must have used downstairs, this room still holds turpentine, dried gesso, and dusty linen paper. Moonlight filters dimly through a tall seaward sash window, catching stacks of stretched canvases leaned face-inward against the plaster wall.
+Lydia's studio smells different from the rest of the house. Beneath the sterile lemon polish Graham's cleaning crew must have used downstairs, this room still holds turpentine, dried gesso, and dusty linen paper. Moonlight filters dimly through a tall seaward sash window, catching stacks of stretched canvases leaned face-inward against the plaster wall.
 
-I step inside and push the heavy door nearly shut behind me, leaving a sliver open so I can hear if Julian's typing stops down the hall. I don't flip the overhead switch. Instead, I pull my phone from my pocket and toggle the screen brightness down to its lowest notch, using just the pale glow of the display to sweep the perimeter.
+I step inside and push the heavy door nearly shut behind me, leaving a sliver open so I can hear if Graham's typing stops down the hall. I don't flip the overhead switch. Instead, I pull my phone from my pocket and toggle the screen brightness down to its lowest notch, using just the pale glow of the display to sweep the perimeter.
 
 It looks like a working botanical studio frozen mid-project—until you look closer.
 
@@ -66,7 +66,7 @@ I nudge the drawer shut without letting the wood bump the stop. On the opposite 
 
 Then I turn toward the tall sash window overlooking the cove.
 
-During our brief phone call before I left Portland, Julian's broker had passed along a weird little detail from the client intake notes—Evelyn hated central air, kept her studio window cracked even in October storms so the turpentine wouldn't give her migraines. It was the kind of throwaway human touch brokers repeat to make a grieving husband sound attentive.
+During our brief phone call before I left Portland, Graham's broker had passed along a weird little detail from the client intake notes—Lydia hated central air, kept her studio window cracked even in October storms so the turpentine wouldn't give her migraines. It was the kind of throwaway human touch brokers repeat to make a grieving husband sound attentive.
 
 I cross to the window, careful not to clip the easel leg, and set both palms against the painted wooden sash. I push upward.
 
@@ -74,7 +74,7 @@ Nothing gives.
 
 I angle my phone light along the inner track. Fresh white semi-gloss paint bridges the seam between the upper sash and the outer frame—thick, uncracked, cured hard without a single scrape mark where anyone tried to pry it loose. When paint cures across a sash seam like that, it takes days to harden without blistering. Nobody opened this window in October. Nobody aired out turpentine here before the storm.
 
-Either the broker garbled his intake notes, or Julian never set foot in this studio while Evelyn was alive—or worse, someone painted over weathered trim after she vanished to seal out the draft, or cover pry marks from the outside.
+Either the broker garbled his intake notes, or Graham never set foot in this studio while Lydia was alive—or worse, someone painted over weathered trim after she vanished to seal out the draft, or cover pry marks from the outside.
 
 I step back from the window, wiping dry paint dust off my fingertips onto my jeans, and drift toward the center walnut desk. If this whole room is staged for probate—or staged for me—the desk is where the story breaks.
 
@@ -84,7 +84,7 @@ A thick green leather blotter covers the center of the walnut table. Centered on
 
 Leaving a fountain pen uncapped on a blotter ruins the nib within days, drying the ink feed into a gummy crust. Someone laid it out like a stage prop—or dropped it in a hurry.
 
-I resist the urge to pick it up right away. At Harbor Mutual, the fastest way to blow an arson audit was smudging a burn pattern before you logged your baseline photos. I raise my phone, keep the flash off, and snap two crisp shots of the desk layout—the angle of the sketchbook, the position of the paperweight, the exact direction the gold nib points. If Julian walks in tomorrow and finds things shifted, I want to know whether *I* slipped up or someone else rearranged the room after me.
+I resist the urge to pick it up right away. At Harbor Mutual, the fastest way to blow an arson audit was smudging a burn pattern before you logged your baseline photos. I raise my phone, keep the flash off, and snap two crisp shots of the desk layout—the angle of the sketchbook, the position of the paperweight, the exact direction the gold nib points. If Graham walks in tomorrow and finds things shifted, I want to know whether *I* slipped up or someone else rearranged the room after me.
 
 Then I lift the brass paperweight just enough to open the sketchbook from the bottom corner.
 
@@ -98,13 +98,13 @@ The iridium tip at the point isn't worn evenly. The left tine—from the writer'
 
 I freeze, turning the pen slowly between my thumb and forefinger. My chest tightens against the quiet room.
 
-Most adjusters only care about numbers. I learned to read handwriting slant six years ago, staring at the last postcard my younger sister Maya mailed out of Burlington before she vanished off every bank grid in New England. Right-handed writers pull a fountain pen across the page, wearing down the center or outer right edge of the nib. To grind down the *left* side of a rigid gold nib like that, you have to push the pen left-handed—curling your wrist above the line or driving the tip backward against the grain.
+Most adjusters only care about numbers. I learned to read handwriting slant six years ago, staring at the last postcard my younger sister Nina mailed out of Burlington before she vanished off every bank grid in New England. Right-handed writers pull a fountain pen across the page, wearing down the center or outer right edge of the nib. To grind down the *left* side of a rigid gold nib like that, you have to push the pen left-handed—curling your wrist above the line or driving the tip backward against the grain.
 
-I flip the sketchbook corner up again, double-checking the ink labels on the early pages. Every letter leans right. Clean downstrokes, zero ink smears across the margins. Evelyn Mercer was right-handed.
+I flip the sketchbook corner up again, double-checking the ink labels on the early pages. Every letter leans right. Clean downstrokes, zero ink smears across the margins. Lydia Kiefer was right-handed.
 
 So whose left-handed fountain pen is sitting uncapped on her desk?
 
-Down the hall, the rhythmic tapping of Julian's keyboard stops.
+Down the hall, the rhythmic tapping of Graham's keyboard stops.
 
 I drop the Montblanc back onto the green leather blotter—a fraction off-angle, my pulse jumping into my ears—and slide my phone into my pocket. A floorboard creaks softly outside in the runner-carpeted hall. Slow, deliberate weight shifting from one foot to the other, stopping directly outside the cracked studio door.
 

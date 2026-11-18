@@ -16,7 +16,7 @@ Fresh waffle-tread tire tracks from Hollis's F-250 curve in beside the gate pill
 
 I push off into the trees again before the wind erases my balance. By nine-thirty, my thighs burn from breaking trail through knee-deep drifts, and cold sweat cools along my spine under the heavy wool coat. Halfway down the mountain, I cross a frozen granite brook where gray ice groans under the snowshoe webbing, then follow the timbered ridge parallel to the unplowed logging spur.
 
-Two hours of hard climbing and sliding down the grade brings me out above the lower county line, where the private Blackthorne track meets the salted town road.
+Two hours of hard climbing and sliding down the grade brings me out above the lower county line, where the private Cragmont track meets the salted town road.
 
 Ahead, through a clearing in the bare maples, a bright orange-and-black county plow truck sits idling crosswise across the snow-packed turnaround, its heavy steel V-blade angled like a roadblock between two frozen culverts.
 
@@ -32,13 +32,13 @@ A wiry man in his early fifties steps down onto the running board, wearing an Es
 
 "You're the Boston clerk Hollis mentioned on the radio," he says, resting one gloved hand on the open cab door. "Deputy Enoch Pike. County road's closed past this turnaround, miss. You shouldn't be hiking down here alone."
 
-"Clara Vance," I say, stopping just outside his arm's reach while keeping my breathing steady. "And I'm not hiking for fun. Arthur Vane's cellar boiler is burning through fuel oil, my car's ignition harness was snipped outside your gate last night, and I need a tow truck out of St. Johnsbury before noon."
+"Tessa Calder," I say, stopping just outside his arm's reach while keeping my breathing steady. "And I'm not hiking for fun. Arthur Cutler's cellar boiler is burning through fuel oil, my car's ignition harness was snipped outside your gate last night, and I need a tow truck out of St. Johnsbury before noon."
 
 Pike doesn't blink. He shifts the cinnamon toothpick to the other cheek and spits lightly into the snowbank. "Can't get a wrecker up here even if you paid double. Covered bridge three bends below the county line washed an abutment during Tuesday's thaw-and-freeze. State highway crew dropped barricades at dawn. Nobody's rolling past the bend till Friday night at the earliest."
 
 Another clean lie. Tuesday's storm was a subzero blizzard, not a spring thaw—there wasn't enough meltwater on this ridge to float a pine cone, let alone wash out a granite bridge abutment.
 
-"That's funny," I say, stepping two paces closer to the open cab door as if trying to get out of the wind. "Sloane Mercer-Hall's office called the county highway garage yesterday afternoon and nobody mentioned a washed-out bridge. And your hopper's empty—no detour signs, no salt."
+"That's funny," I say, stepping two paces closer to the open cab door as if trying to get out of the wind. "Margot Kiefer-Hall's office called the county highway garage yesterday afternoon and nobody mentioned a washed-out bridge. And your hopper's empty—no detour signs, no salt."
 
 Pike's mouth flattens into a hard line. "County garage doesn't plow private timber spurs, and I dropped the barricades at the bridge two hours ago," he replies smoothly, reaching back into the cab to turn down his heater fan. "Look, Hollis Greer's a friend of mine. He's got his hands full keeping that lodge from freezing while the family's out on the sleds. Walk back up before the wind picks up, and I'll send a wrecker up Friday evening once the crew clears the span."
 
@@ -48,7 +48,7 @@ Right above his knit cap, clipped behind the driver's sun visor, sits a thick wh
 
 Pressed squarely into the cooled wax sits a distinct, three-pad grease smudge—index, middle, and pinky, with a smooth blank space where a right ring fingertip should be. Even from three paces outside the cab, the uneven thickness of the envelope screams folded cash.
 
-Hollis Greer didn't just radio Pike at the gate this morning. He drove down in his F-250, met Pike at the lower turnout, and paid him off in cash to keep Blackthorne Lodge's only road sealed shut until Friday night—right after Celeste Vane's $38,000,000 survivorship deadline clears at five o'clock.
+Hollis Greer didn't just radio Pike at the gate this morning. He drove down in his F-250, met Pike at the lower turnout, and paid him off in cash to keep Cragmont Lodge's only road sealed shut until Friday night—right after Simone Cutler's $38,000,000 survivorship deadline clears at five o'clock.
 
 ***
 
@@ -60,13 +60,13 @@ Before I can push back, the black Motorola dispatch console bolted beneath his d
 
 Static hisses, followed by the clipped, nasal voice of an Essex County dispatcher.
 
-*"Essex Dispatch to Unit Fourteen—Pike, you copy? Automated trunk audit just flagged a copper line-short on the old Blackthorne Spur from early Wednesday morning. Someone pushed a fax carrier through to a Boston six-one-seven exchange before dawn, then the line dead-shorted mid-upload. You near the gate?"*
+*"Essex Dispatch to Unit Fourteen—Pike, you copy? Automated trunk audit just flagged a copper line-short on the old Cragmont Spur from early Wednesday morning. Someone pushed a fax carrier through to a Boston six-one-seven exchange before dawn, then the line dead-shorted mid-upload. You near the gate?"*
 
 Pike freezes with one boot on the steel running board. His face drains of color.
 
 I don't move a muscle either, staring past his shoulder at the glowing green LED on the radio face.
 
-Blackthorne Lodge's landline wasn't snapped by an ice limb during Tuesday night's blizzard. Someone inside that "offline" house pushed a fax carrier out through the copper trunk before dawn Wednesday—and got cut off mid-upload when someone else inside the lodge ripped the wire straight out of the wall.
+Cragmont Lodge's landline wasn't snapped by an ice limb during Tuesday night's blizzard. Someone inside that "offline" house pushed a fax carrier out through the copper trunk before dawn Wednesday—and got cut off mid-upload when someone else inside the lodge ripped the wire straight out of the wall.
 
 Whoever is hiding in that east attic pipe chase isn't a random squatter. They're trying to push those pages out before Friday at five o'clock.
 

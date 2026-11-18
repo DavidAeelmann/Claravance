@@ -2,9 +2,9 @@
 
 I don't reach for my multi-tool. Twin twelve-gauge muzzles sit an inch from frosted glass, and men holding shotguns in the dark don't wait for explanations.
 
-I rise slowly from behind the butcher block with both empty palms raised beside my ears. The halogen beam blinds me for two heartbeats before dipping toward the maple island. I reach into my left coat pocket with two fingers, lift Sloane's heavy brass skeleton key by the bow, and lay it flat on the butcher block.
+I rise slowly from behind the butcher block with both empty palms raised beside my ears. The halogen beam blinds me for two heartbeats before dipping toward the maple island. I reach into my left coat pocket with two fingers, lift Margot's heavy brass skeleton key by the bow, and lay it flat on the butcher block.
 
-"Boston fiduciary office," I say, keeping my voice flat and dry, the same clerk cadence I used to bore insurance adjusters in Portland. "Sloane Mercer-Hall sent me up to catalog the estate before the county probate clerk arrives. Check the leather portfolio in my duffel if you want."
+"Boston fiduciary office," I say, keeping my voice flat and dry, the same clerk cadence I used to bore insurance adjusters in Portland. "Margot Kiefer-Hall sent me up to catalog the estate before the county probate clerk arrives. Check the leather portfolio in my duffel if you want."
 
 The man outside doesn't lower the barrel. Behind the glass, his silhouette shifts sideways as a heavy key ring jingles against his hip. A bolt snaps back inside the rear kitchen door. Cold air rushes across my ankles as he kicks the timber slab inward and steps over the threshold, filling the doorway in a snow-crusted waxed parka and size-eleven Vibram lug boots.
 
@@ -12,7 +12,7 @@ Up close, he smells strongly of pine resin, lamp kerosene, and wintergreen smoke
 
 "I'm Hollis Greer," he says, his eyes flicking from my wet snow boots to the brass key on the island. "Winter caretaker. Who gave you a master key to the front mortise?"
 
-"Sloane Mercer-Hall. State Street." I nod toward the Great Hall archway without dropping my hands. "My navy duffel is behind the study curtains. I hid it when the stairs locked overhead."
+"Margot Kiefer-Hall. State Street." I nod toward the Great Hall archway without dropping my hands. "My navy duffel is behind the study curtains. I hid it when the stairs locked overhead."
 
 Hollis's jaw tightens. He spits a thin dark stream of tobacco juice into the stainless kitchen sink beside the door, then steps past me—keeping the shotgun muzzle angled toward my knees—and snatches the brass skeleton key off the butcher block with his gloved right hand.
 
@@ -28,13 +28,13 @@ Hollis studies my face in the pale snow-glare from the door. For a second, I thi
 
 ***
 
-Ten minutes later, Hollis stands beside the Great Hall hearth while a single battery lantern he pulled from his coat illuminates the leather *Mercer-Hall Fiduciary* portfolio in my lap. He doesn't touch the hearth ash. He doesn't glance at the sliced guest ledger on the lectern either, though the faint smell of lamp kerosene still hangs thick around the fireplace stones.
+Ten minutes later, Hollis stands beside the Great Hall hearth while a single battery lantern he pulled from his coat illuminates the leather *Kiefer-Hall Fiduciary* portfolio in my lap. He doesn't touch the hearth ash. He doesn't glance at the sliced guest ledger on the lectern either, though the faint smell of lamp kerosene still hangs thick around the fireplace stones.
 
-He reads Sloane's signed estate-archiving authorization twice, his gloved thumb smudging the embossed State Street seal, then hands the folder back without a word.
+He reads Margot's signed estate-archiving authorization twice, his gloved thumb smudging the embossed State Street seal, then hands the folder back without a word.
 
 "Ten days," he says, his voice dropping low. "You stay out of the third floor until I clear that attic lock in daylight, and you keep clear of the carriage barn. Snow's too deep by the woodshed anyway."
 
-"My briefing says Arthur Vane, his wife, and the caretaker left three snowmobiles idling by the woodshed Tuesday night," I say, zipping the portfolio back inside my navy duffel. I sling the bag over my shoulder—no chance I'm leaving Sloane's contract out of my sight again—and follow him back toward the kitchen. "Wait. If you're the caretaker, why did the Boston trustees think you walked out with them?"
+"My briefing says Arthur Cutler, his wife, and the caretaker left three snowmobiles idling by the woodshed Tuesday night," I say, zipping the portfolio back inside my navy duffel. I sling the bag over my shoulder—no chance I'm leaving Margot's contract out of my sight again—and follow him back toward the kitchen. "Wait. If you're the caretaker, why did the Boston trustees think you walked out with them?"
 
 Hollis pauses at the kitchen threshold, his broad back blocking the porch light. "Because I took my pickup down to the county line Tuesday afternoon to buy shearling blankets before the whiteout hit. Bridge washed out below the ridge, so I couldn't get back up until an hour ago. Somebody else took those sleds—or tried to."
 

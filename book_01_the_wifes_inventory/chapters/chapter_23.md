@@ -6,7 +6,7 @@ I stand over the scarred kitchen counter with a mug of black coffee, staring at 
 
 The $5,000 cash from Salt Point, the $13,500 cashier's check from the anonymous Boston estate firm, and a few hundred dollars from my checking account wiped the slate clean.
 
-My left wrist still carries a pale pink seam under the cuff of my dry wool sweater where the Salt Point stitches came out, and my bruised knee aches whenever the November air turns sharp. Two weeks of depositions in Rockland took care of the rest. Detective Sergeant Ward and the Knox County district attorney didn't need much persuasion once their techs pulled the mirrored boathouse audio off the Zone Four RAID drive and matched the left-handed Montblanc nib against Cole's yellow warning slip. Evelyn and Cole are sitting in separate cells without bail, and Julian's bail hearing got pushed back after the state auditor finished tallying his $2.4 million probate shortfall.
+My left wrist still carries a pale pink seam under the cuff of my dry wool sweater where the Salt Point stitches came out, and my bruised knee aches whenever the November air turns sharp. Two weeks of depositions in Rockland took care of the rest. Detective Sergeant Ward and the Knox County district attorney didn't need much persuasion once their techs pulled the mirrored boathouse audio off the Zone Four RAID drive and matched the left-handed Montblanc nib against Cole's yellow warning slip. Lydia and Cole are sitting in separate cells without bail, and Graham's bail hearing got pushed back after the state auditor finished tallying his $2.4 million probate shortfall.
 
 I didn't ask for a press quote. I gave my statement, signed the chain-of-custody logs, and drove back down Route 1 before the Boston reporters found the causeway. Even Maren Lindqvist came through clean—the state prosecutor granted her full immunity as the reporting witness, and three days ago a wooden crate of Salt Point oysters showed up on my landing with a single harbor receipt tucked under the twine: *Dock's paid. Keep your head down.*
 
@@ -30,35 +30,35 @@ Then the brass bell over the street door jingles once, and a woman in a tailored
 
 She is in her late forties, sharp-jawed, with silver-streaked dark hair pulled back into a tight knot and a slim oxblood leather briefcase tucked under one arm. Her leather boots show zero salt crust along the welts—someone who stepped out of a heated town car at the curb, not a working pier. She doesn't ask if the seat is taken. She simply unbuttons her coat, slides onto the red vinyl across from me, and sets her briefcase flat on the Formica between the salt shaker and the ketchup bottle.
 
-"Ms. Vance," she says. Her voice is crisp, low, and clipped with the kind of Back Bay certainty that never waits in line. "You're harder to pin down than a probate subpoena. Your cell number has been disconnected since November fifth."
+"Ms. Calder," she says. Her voice is crisp, low, and clipped with the kind of Back Bay certainty that never waits in line. "You're harder to pin down than a probate subpoena. Your cell number has been disconnected since November fifth."
 
 "Dropped it in a boathouse," I say, keeping my hands around the warm mug. "Who are you?"
 
-"Sloane Mercer-Hall." She reaches into her coat pocket and lays a heavy cream business card beside my coffee. No title on the front—just a State Street address in Boston and a direct private line. "Managing partner at Mercer-Hall Fiduciary. We issued the thirteen-thousand-five-hundred-dollar cashier's check Detective Ward handed you at Salt Point."
+"Margot Kiefer-Hall." She reaches into her coat pocket and lays a heavy cream business card beside my coffee. No title on the front—just a State Street address in Boston and a direct private line. "Managing partner at Kiefer-Hall Fiduciary. We issued the thirteen-thousand-five-hundred-dollar cashier's check Detective Ward handed you at Salt Point."
 
 I look down at the cream card, then back up at her eyes. They are cool gray, steady, and completely unbothered by the clatter of plates behind her.
 
-"Mercer-Hall?" I ask.
+"Kiefer-Hall?" I ask.
 
-"Distant branch," Sloane replies without missing a beat. "My grandfather founded the fiduciary arm in Boston. Julian's side took the acoustics patents and the coastal land. We hadn't spoken in a decade until he retained us six weeks ago to hold an archiving escrow."
+"Distant branch," Margot replies without missing a beat. "My grandfather founded the fiduciary arm in Boston. Graham's side took the acoustics patents and the coastal land. We hadn't spoken in a decade until he retained us six weeks ago to hold an archiving escrow."
 
-"Julian told me he hired me out of his own pocket," I say.
+"Graham told me he hired me out of his own pocket," I say.
 
-"He did," Sloane says, folding her gloved hands over her briefcase. "Using an escrow account we administered for his late father-in-law's trust. When the Maine State Police froze his personal assets on charges of embezzlement and attempted arson, our contingency clause triggered automatically. The completion balance belonged to whichever contractor delivered an unredacted accounting of the estate."
+"He did," Margot says, folding her gloved hands over her briefcase. "Using an escrow account we administered for his late father-in-law's trust. When the Maine State Police froze his personal assets on charges of embezzlement and attempted arson, our contingency clause triggered automatically. The completion balance belonged to whichever contractor delivered an unredacted accounting of the estate."
 
 She pauses while the waitress walks past with a steaming pot of coffee, then waits until the booth behind us clears.
 
-"You turned over two point four million dollars' worth of forged probate records when you could have taken fifty thousand in cash over a gas stove and walked," Sloane says quietly. "Most people in your financial position take the cash."
+"You turned over two point four million dollars' worth of forged probate records when you could have taken fifty thousand in cash over a gas stove and walked," Margot says quietly. "Most people in your financial position take the cash."
 
 "Most people don't like getting locked in a darkroom," I answer. "If you're here for a receipt, the clerk's office already cleared the check."
 
-"I'm not here for a receipt, Clara." Sloane unsnaps the brass latches on her oxblood briefcase. "I'm here because my firm represents families whose problems cannot survive a public probate docket. Quiet-clean archiving. Discreet asset verification. You have your investigator bond back as of this morning, and you have zero debt left on your name."
+"I'm not here for a receipt, Tessa." Margot unsnaps the brass latches on her oxblood briefcase. "I'm here because my firm represents families whose problems cannot survive a public probate docket. Quiet-clean archiving. Discreet asset verification. You have your investigator bond back as of this morning, and you have zero debt left on your name."
 
 I keep my face still. She knows when my bond cleared. She knows my judgment balance. That kind of reach doesn't stop at a probate filing.
 
 "I have an interview on Congress Street at ten," I say, sliding my marine-insurance application an inch toward the edge of the table. "I'm done working off-book in someone else's house."
 
-Sloane doesn't argue. She doesn't raise her voice, and she doesn't lean forward to sell me a pitch.
+Margot doesn't argue. She doesn't raise her voice, and she doesn't lean forward to sell me a pitch.
 
 "Triple the Salt Point rate," she says evenly. "Forty-five thousand dollars. Ten days in northern Vermont, starting tomorrow morning. A private mountain lodge closed for the winter after a sudden family disappearance. Same rules—inventory the estate, flag any irregularities before probate counsel arrives, and stay out of the local sheriff's way."
 
@@ -70,7 +70,7 @@ I pick up my coffee mug, take a slow sip of the bitter brew, and set it back dow
 
 For a long beat, neither of us moves. Outside the fogged glass, a tugboat horn groans low across Portland Harbor, vibrating faintly through the Formica tabletop.
 
-Sloane studies my face with calm, clinical patience. Then, without a word, she reaches inside her open briefcase and pulls out two items.
+Margot studies my face with calm, clinical patience. Then, without a word, she reaches inside her open briefcase and pulls out two items.
 
 First, she sets down a heavy brass skeleton key, worn smooth along the bow from decades of use. Faint pine resin darkens the teeth along the bit, smelling sharply of cold iron and winter woods even across the diner table. A blank manila tag hangs from the bow by a twist of copper wire.
 
@@ -78,13 +78,13 @@ Beside it, she slides a glossy color photograph across the scarred Formica until
 
 I glance down despite myself. The shot shows a sprawling timber-and-stone lodge buried halfway to its cedar eaves in fresh Vermont snow, dark spruce crowding the drive behind a wrought-iron gate. Smoke curls thin and gray from a massive stone chimney against a flat white sky.
 
-"I said no, Ms. Mercer-Hall," I tell her, sliding my palm over the edge of the marine-insurance packet and reaching for my coat on the hook. "Take your key back to Boston."
+"I said no, Ms. Kiefer-Hall," I tell her, sliding my palm over the edge of the marine-insurance packet and reaching for my coat on the hook. "Take your key back to Boston."
 
-"I'm not asking you to take the contract on faith," Sloane says softly, resting one gloved fingertip on the white border of the photograph. "Look at the back."
+"I'm not asking you to take the contract on faith," Margot says softly, resting one gloved fingertip on the white border of the photograph. "Look at the back."
 
 I hesitate. Every instinct I burned into my ribs at Salt Point tells me to stand up, grab my duffel off the bench, and walk out into the cold salt air before I touch another piece of bait. Six years ago, I stopped looking for shortcuts because shortcuts cost me my sister's trail and my career. I didn't survive forty-eight hours in a coastal kill-box just to climb into another rich family's locked house in the snow.
 
-Yet Sloane hasn't moved her hand. She watches me with the quiet certainty of someone who already knows what the ink on the reverse side is going to cost me.
+Yet Margot hasn't moved her hand. She watches me with the quiet certainty of someone who already knows what the ink on the reverse side is going to cost me.
 
 Slowly, my fingers lift the corner of the glossy print.
 
@@ -94,6 +94,6 @@ Taped neatly to the matte backing is a high-resolution scan of a lined paper gue
 
 The date reads two days ago.
 
-And written cleanly in the margin beside a room number, in the cramped, unmistakable back-slanted cursive I haven't seen on paper since the night my younger sister vanished six years ago, is a three-word note in Maya's handwriting:
+And written cleanly in the margin beside a room number, in the cramped, unmistakable back-slanted cursive I haven't seen on paper since the night my younger sister vanished six years ago, is a three-word note in Nina's handwriting:
 
 *Don't trust him.*

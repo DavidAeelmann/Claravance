@@ -18,7 +18,7 @@ from docx.shared import Inches, Pt
 
 BOOK_TITLE = "The Caretaker's Ledger"
 BOOK_SUBTITLE = "A Gripping Locked-Room Psychological Thriller"
-BOOK_SERIES = "A Clara Vance Thriller — Book 2"
+BOOK_SERIES = "A Tessa Calder Thriller — Book 2"
 BOOK_AUTHOR = "David Seelmann"
 BOOK_COPYRIGHT = "© 2026 David Seelmann"
 BOOK_UUID = str(uuid.uuid5(uuid.NAMESPACE_DNS, "the-caretakers-ledger-david-seelmann-book-2"))
@@ -97,7 +97,7 @@ def parse_back_matter(preview_path: str):
 
     lines = raw.splitlines()
     title = "Sneak Peek: Book 3"
-    subtitle = "A Clara Vance Thriller — Book 3 by David Seelmann (Chapter 1 Preview)"
+    subtitle = "A Tessa Calder Thriller — Book 3 by David Seelmann (Chapter 1 Preview)"
     body_lines = []
     for line in lines:
         s = line.strip()
@@ -654,7 +654,7 @@ def build_pdf(chapters, preview_data, output_path: str) -> int:
 \vspace{0.2in}
 {\large\itshape A Gripping Locked-Room Psychological Thriller\par}
 \vspace{0.25in}
-{\normalsize\bfseries A Clara Vance Thriller --- Book 2\par}
+{\normalsize\bfseries A Tessa Calder Thriller --- Book 2\par}
 \vfill
 {\Large\bfseries DAVID SEELMANN\par}
 \vspace*{0.8in}
@@ -666,7 +666,7 @@ def build_pdf(chapters, preview_data, output_path: str) -> int:
 {\bfseries \copyright\ 2026 David Seelmann\par}
 \vspace{0.2in}
 {\small The Caretaker's Ledger: A Gripping Locked-Room Psychological Thriller\par}
-{\small A Clara Vance Thriller --- Book 2 by David Seelmann\par}
+{\small A Tessa Calder Thriller --- Book 2 by David Seelmann\par}
 \vspace{0.15in}
 {\footnotesize First Print \& Digital Edition --- 2026\par}
 \vspace{0.15in}

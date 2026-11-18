@@ -20,7 +20,7 @@ Hollis clatters halfway down the wooden treads, his double-barreled shotgun leve
 
 "Freezing," I snap back, letting genuine anger sharpen my voice. "My guest-room radiator is stone-cold, and the pipes in the wall kept hammering like someone was hitting them with a wrench. You left the cellar unlocked after bleeding the generator, so I came down to crack the Zone 2 valve."
 
-A lie, though the locked mortise bolt wouldn't hold against a good lawyer if he checked his key ring—and right now, Sloane's skeleton key sits deep in my left pocket. Hollis's gaze narrows on the brass wheel under my palm.
+A lie, though the locked mortise bolt wouldn't hold against a good lawyer if he checked his key ring—and right now, Margot's skeleton key sits deep in my left pocket. Hollis's gaze narrows on the brass wheel under my palm.
 
 "That valve's seized," he says, stepping past the oil tanks toward the furnace jacket. My ribs lock tight as he stops three paces from the brick coal chute, squinting into the shadow behind the boiler.
 
@@ -50,9 +50,9 @@ Hollis leans one shoulder against the outer doorjamb, cradling his shotgun acros
 
 "Fine by me," I reply, clicking my ballpoint pen as I step onto the pale wool rug.
 
-The master bedroom looks staged for a magazine shoot—or scrubbed clean in a hurry. Arthur Vane's king-sized bed sits made with military-tight hospital corners. Against the east wall stands Celeste Vane's mirrored dressing table, its glass top wiped nearly bare except for a silver hairbrush, a tortoiseshell comb, and a small amber dropper bottle labeled *Compounded Lavender Oil — Rx 4412*.
+The master bedroom looks staged for a magazine shoot—or scrubbed clean in a hurry. Arthur Cutler's king-sized bed sits made with military-tight hospital corners. Against the east wall stands Simone Cutler's mirrored dressing table, its glass top wiped nearly bare except for a silver hairbrush, a tortoiseshell comb, and a small amber dropper bottle labeled *Compounded Lavender Oil — Rx 4412*.
 
-I log the dressing table on my yellow pad, unscrew the dropper cap for half a second to confirm the scent, and screw it back down while Hollis watches from the door. Next, I step into the walk-in cedar closet. Arthur's tweed jackets and flannel shirts hang evenly spaced on wooden hangers, while Celeste's winter coats leave a clean, empty gap where the white-and-navy *Moncler* down jacket should hang. On the bathroom marble counter beyond the open arch sits an empty cardboard carton for a sublingual *nitroglycerin* rescue spray, its silver blister sleeve missing and its torn flap bent flat beside a dry porcelain soap dish.
+I log the dressing table on my yellow pad, unscrew the dropper cap for half a second to confirm the scent, and screw it back down while Hollis watches from the door. Next, I step into the walk-in cedar closet. Arthur's tweed jackets and flannel shirts hang evenly spaced on wooden hangers, while Simone's winter coats leave a clean, empty gap where the white-and-navy *Moncler* down jacket should hang. On the bathroom marble counter beyond the open arch sits an empty cardboard carton for a sublingual *nitroglycerin* rescue spray, its silver blister sleeve missing and its torn flap bent flat beside a dry porcelain soap dish.
 
 Beside the shuttered bay window sits a small walnut sitting table holding a heavy cut-crystal brandy carafe and a single dry brass coaster. No glass sits beside it, though a faint, tacky amber ring stains the polished coaster face—as if someone poured a stiff nightcap and carried an unwashed tumbler out of the room in a hurry. The walnut veneer around the coaster is wiped bone-dry, leaving a sharp dust line where a second heavy base used to rest.
 
@@ -60,15 +60,15 @@ I step over to the sitting table, keeping my back angled slightly toward Hollis 
 
 With my left hand, I lift the heavy crystal stopper an inch out of the carafe neck.
 
-A sticky, translucent oil smudge coats the frosted glass grip of the stopper—smelling unmistakably of Celeste's compounded lavender cuticle oil. I tilt the faceted crystal toward the gray window light, confirming the fresh palm-print sheen along the rim, then set the stopper back down gently without clinking the neck, my pulse hammering against my ribs.
+A sticky, translucent oil smudge coats the frosted glass grip of the stopper—smelling unmistakably of Simone's compounded lavender cuticle oil. I tilt the faceted crystal toward the gray window light, confirming the fresh palm-print sheen along the rim, then set the stopper back down gently without clinking the neck, my pulse hammering against my ribs.
 
-Arthur Vane suffered from severe gout and heart trouble. His wife wears compounded lavender oil, her spotless winter coat is hidden in Hollis's pickup truck, the silver blister sleeve for his *nitroglycerin* rescue spray is missing from the bathroom counter, and someone wearing that exact oil poured brandy here right before vanishing with the glass.
+Arthur Cutler suffered from severe gout and heart trouble. His wife wears compounded lavender oil, her spotless winter coat is hidden in Hollis's pickup truck, the silver blister sleeve for his *nitroglycerin* rescue spray is missing from the bathroom counter, and someone wearing that exact oil poured brandy here right before vanishing with the glass.
 
 ***
 
 "Keep moving," Hollis mutters from the doorway, shifting his weight against the jamb. "I need to check the front gate plow line before nine."
 
-I nod without looking up, crossing to the tall rosewood chest of drawers flanking Celeste's dressing table. The top three drawers hold folded cashmere sweaters—every sleeve neat, zero suitcases packed, contradicting the idea that she threw clothes in a bag for a midnight ride.
+I nod without looking up, crossing to the tall rosewood chest of drawers flanking Simone's dressing table. The top three drawers hold folded cashmere sweaters—every sleeve neat, zero suitcases packed, contradicting the idea that she threw clothes in a bag for a midnight ride.
 
 I pull on the small brass drop-handles of the bottom jewelry drawer. Locked.
 
@@ -90,10 +90,10 @@ The tiny bolt snaps open. Inside sits a dark green velvet tray lined with empty 
 
 I lift the corner of the tray and pull the crisp white sheets into the gray window light.
 
-It isn't a jewelry receipt. It's a three-page **Survivorship & Voting-Share Covenant** stamped with *Mercer-Hall Fiduciary* letterhead and signed by both Arthur Vane and Sloane Mercer-Hall. Halfway down page two, a highlighted clause jumps off the paper in sharp black type:
+It isn't a jewelry receipt. It's a three-page **Survivorship & Voting-Share Covenant** stamped with *Kiefer-Hall Fiduciary* letterhead and signed by both Arthur Cutler and Margot Kiefer-Hall. Halfway down page two, a highlighted clause jumps off the paper in sharp black type:
 
-> *In the event Arthur Vane is not legally certified deceased prior to **5:00 PM EST on Friday, December 5**, all Class-A voting shares ($38,000,000 par value) shall vest irrevocably in **Celeste Vane** as sole beneficiary.*
+> *In the event Arthur Cutler is not legally certified deceased prior to **5:00 PM EST on Friday, December 5**, all Class-A voting shares ($38,000,000 par value) shall vest irrevocably in **Simone Cutler** as sole beneficiary.*
 
 My fingers go cold around the paper. I fold the covenant sheets flat into my breast pocket, then cross to the sitting table, wrap the smudged crystal brandy stopper inside a clean linen handkerchief from my pocket, and drop it into my coat. I leave the empty carafe neck uncovered—Hollis won't notice one missing stopper before he gets back from the gate.
 
-Today is Thursday. Tomorrow at five o'clock, thirty-eight million dollars changes hands—and Celeste Vane isn't missing in a Vermont snowbank. She's hiding somewhere on this ridge, waiting out the clock.
+Today is Thursday. Tomorrow at five o'clock, thirty-eight million dollars changes hands—and Simone Cutler isn't missing in a Vermont snowbank. She's hiding somewhere on this ridge, waiting out the clock.

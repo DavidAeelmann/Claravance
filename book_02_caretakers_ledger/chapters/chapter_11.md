@@ -2,11 +2,11 @@
 
 The red alarm buzzer rattles the plaster walls, sharp enough to set my molars on edge.
 
-Celeste lunges back toward the vanity for the fallen candlestick, her cashmere sleeve catching the edge of the porcelain washbasin. I don't stay to fight her for it. I kick the velvet-padded vanity stool sideways into her shins, yank the parlor door open, and bolt straight across the dark West Wing corridor toward the narrow service door beside the linen closet.
+Simone lunges back toward the vanity for the fallen candlestick, her cashmere sleeve catching the edge of the porcelain washbasin. I don't stay to fight her for it. I kick the velvet-padded vanity stool sideways into her shins, yank the parlor door open, and bolt straight across the dark West Wing corridor toward the narrow service door beside the linen closet.
 
 Behind me, heavy boots hit the top landing of the main oak staircase—Enoch Pike, breathing hard, rack-clacking a twelve-gauge shell into the chamber. Wood creaks under his weight as he turns west down the gallery, his flashlight beam slicing across the dust-coated baseboards.
 
-"West Wing!" Celeste screams from the parlor doorway, her voice cracking shrill above the intercom buzz. "She's in the hall! She took the canister!"
+"West Wing!" Simone screams from the parlor doorway, her voice cracking shrill above the intercom buzz. "She's in the hall! She took the canister!"
 
 I slip through the service door, pull it shut behind my shoulder, and ease the brass thumb-turn quietly so it doesn't click against the strike plate. The narrow, uncarpeted back stairs drop steeply beside the dark dumbwaiter shaft. I take them two at a time in total darkness, my boots slapping bare pine treads while my palm trails the cold plaster wall to keep my balance. Below me, the commercial kitchen sits dead quiet, lit only by the faint green LED on the stove and the gray blur of falling snow pressing against the frosted pantry window.
 
@@ -26,7 +26,7 @@ Bitter night air hits my face like a slap. Fat, wet flakes swirl down out of a p
 
 The wind cuts across the back clearing, carrying the sharp tang of woodsmoke from the lodge chimney and the damp, metallic bite of fresh snow. Farther out toward the front drive, Pike's heavy flashlight beam sweeps once across the snow-covered spruce boughs near the porch, then clicks off as he takes up post by the main steps.
 
-I pull the sliced Guest Ledger page from my inside breast pocket, shielding the paper under my coat lapel while I click my penlight on for three seconds. Maya's cramped, back-slanted blue-ink schematic sits crisp against the ruled margin: a rough box labeled *ICEHOUSE — BEHIND WOODSHED*, an arrow pointing straight to *A.V. — ROCK SALT / SAWDUST — DIED TUES 11:40 PM*, and a dotted line running from the back wall labeled *COAL CHUTE TO BOILER — NO LOCK ON FLAP*.
+I pull the sliced Guest Ledger page from my inside breast pocket, shielding the paper under my coat lapel while I click my penlight on for three seconds. Nina's cramped, back-slanted blue-ink schematic sits crisp against the ruled margin: a rough box labeled *ICEHOUSE — BEHIND WOODSHED*, an arrow pointing straight to *A.C. — ROCK SALT / SAWDUST — DIED TUES 11:40 PM*, and a dotted line running from the back wall labeled *COAL CHUTE TO BOILER — NO LOCK ON FLAP*.
 
 I click the penlight dark, tuck the ledger sheet back inside my wool coat, and skirt the dark timber wall of the woodshed. Passing the three silent Arctic Cat snowmobiles, I notice one of the red plastic fuel jerrycans that sat stacked beside the cordwood rack earlier is gone—only a square melted ring in the crusted snow marks where it stood.
 
@@ -50,7 +50,7 @@ My stomach tightens. I step across the crunching salt crystals, kneel beside the
 
 Coarse rock salt spills across my knees, clicking like gravel in the dead quiet.
 
-Beneath the tarp lies **Arthur Vane**.
+Beneath the tarp lies **Arthur Cutler**.
 
 Frost coats his silver beard and his pale, sunken cheeks, freezing his features into a rigid grimace. He wears the exact heavy cashmere cardigan and dark flannel trousers from Tuesday night—not a winter parka, not snow bibs, and no gloves. His skin shows zero blistered windburn on his nose or earlobes; he didn't freeze to death in a mountain whiteout. A faint trace of imported clove tobacco clings to his wool collar, layered under the sharp, bitter ghost of compounded lavender oil where someone leaned close to his chest.
 
@@ -58,13 +58,13 @@ I aim the penlight down along the stiffened wool legs to his feet.
 
 He's barefoot inside thin black dress socks, the wool crusted white with rock salt. His **left big toe** is visibly swollen and purple-gray beneath the stretched sock—the severe gout flare that kept him tethered to his rubber-ferruled walnut cane inside the house. His fingernails have turned dark slate-blue from acute cardiac arrest, and his right hand lies curled empty against his thigh.
 
-Arthur Vane never set foot on a snowmobile Tuesday night. He died inside the lodge, and Hollis and Celeste packed him in rock salt here to buy themselves until five o'clock tomorrow afternoon before Sloane's bondholders could claim his voting shares.
+Arthur Cutler never set foot on a snowmobile Tuesday night. He died inside the lodge, and Hollis and Simone packed him in rock salt here to buy themselves until five o'clock tomorrow afternoon before Margot's bondholders could claim his voting shares.
 
 "Eleven-forty," I whisper to the cold stone, my breath misting white around the penlight beam.
 
 I pull the blue tarp gently back over Arthur's face and stand up, my knees trembling from the damp cold seeping through my trousers. Behind the stacked ice blocks at the far rear wall of the granite vault, a square patch of dark brick breaks the fieldstone—framed by a heavy, rust-pitted iron grate about waist-high off the floor. A thin rim of dry soot outlines the lower mortar joint, and a faint, warm draft leaks upward around the warped iron edge from the boiler vault far below.
 
-Maya's schematic wasn't guessing. The brick **coal chute** drops straight down from the back of the icehouse toward the sub-basement boiler room.
+Nina's schematic wasn't guessing. The brick **coal chute** drops straight down from the back of the icehouse toward the sub-basement boiler room.
 
 I step over a collapsed salt sack to test the rusted latch pin on the grate—and freeze as crunching footsteps race across the crusted snow right outside the icehouse door.
 
@@ -72,7 +72,7 @@ No time to hide behind the ice blocks or wrestle the iron pin loose. I click the
 
 A heavy iron bar crashes down through the exterior wall staples, rattling the timber frame and sealing me in pitch blackness.
 
-"Hollis!" Celeste's voice carries muffled through the thick timber planks, breathless and sharp with panic. "She's in the icehouse! I heard the latch!"
+"Hollis!" Simone's voice carries muffled through the thick timber planks, breathless and sharp with panic. "She's in the icehouse! I heard the latch!"
 
 No answer comes from the yard—Hollis must still be inside the lodge, sweeping my guest room or the cellar.
 
@@ -80,4 +80,4 @@ I lunge back to the door and throw my shoulder against the frozen planks, testin
 
 Then comes the unmistakable slosh of liquid splashing hard against the dry cedar shingles and the bottom sill of the plank door. Thin, biting **petrol fumes** immediately seep under the threshold crack, stinging my eyes and coating the back of my throat with raw gasoline.
 
-A tin jerrycan thuds down into the snow outside, followed by the rapid crunch of Celeste's boots sprinting back toward the lodge porch—going inside for matches or a lighter.
+A tin jerrycan thuds down into the snow outside, followed by the rapid crunch of Simone's boots sprinting back toward the lodge porch—going inside for matches or a lighter.

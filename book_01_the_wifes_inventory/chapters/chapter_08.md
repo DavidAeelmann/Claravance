@@ -14,13 +14,13 @@ I ease my weight back onto my heels. Upstairs in the master suite, two unfolded 
 
 Through the angled wooden slats, I have a thin, slanted view of the corridor and the gray-painted breaker box mounted beside the mudroom arch.
 
-Halstead steps into the frame. He hasn't bothered to take off his navy patrol windbreaker, and rain beads dark across his broad shoulders. Water drips from the brim of his cap onto the slate, leaving small dark spots near the baseboard. He moves with zero hurry. No nervous glancing toward the front hall, no quick check of the driveway windows. He knows Julian's Audi is ninety miles south on I-95.
+Halstead steps into the frame. He hasn't bothered to take off his navy patrol windbreaker, and rain beads dark across his broad shoulders. Water drips from the brim of his cap onto the slate, leaving small dark spots near the baseboard. He moves with zero hurry. No nervous glancing toward the front hall, no quick check of the driveway windows. He knows Graham's Audi is ninety miles south on I-95.
 
 He reaches into the open breaker panel with his left hand and pulls a short black jumper cable from his windbreaker pocket.
 
 He isn't shutting down the house power—the recessed lights along the kitchen soffit stay dim and steady on backup, and the crawlspace dehumidifier keeps humming underfoot. Instead, he isolates a single lower bus labeled **EXT-DECK / LOGS**, clips a matte-black bridge across two copper terminals, and checks the digital readout on his wristwatch.
 
-Forty minutes. That's the standard rolling buffer window on commercial Mercer Soundworks hubs before an offline node triggers a hard tamper alert to the owner's phone. Julian thinks his security architecture is airtight, yet Halstead just bypassed the exterior deck camera logs in one practiced motion without tripping a single chime.
+Forty minutes. That's the standard rolling buffer window on commercial Kiefer Soundworks hubs before an offline node triggers a hard tamper alert to the owner's phone. Graham thinks his security architecture is airtight, yet Halstead just bypassed the exterior deck camera logs in one practiced motion without tripping a single chime.
 
 No hesitation. No squinting at the circuit map taped inside the panel door.
 
@@ -34,31 +34,31 @@ Outside the slats, Halstead's heavy rubber-lugged boots stop near the limestone 
 
 ***
 
-Through the narrow louvers, I watch him cross to the wall-mounted smart-home tablet beside the mudroom arch—the same glass panel Julian wiped clean last night when Basement Zone 4 flashed a breach ping.
+Through the narrow louvers, I watch him cross to the wall-mounted smart-home tablet beside the mudroom arch—the same glass panel Graham wiped clean last night when Basement Zone 4 flashed a breach ping.
 
 Halstead raises his left index finger and taps a six-digit sequence straight onto the dark screen, unlocking the administrator tier on the first try.
 
-Cold dread settles heavy behind my sternum. A small-town deputy pulling over speeders on Route 1 doesn't hold administrator credentials to a billionaire patent holder's private residence. Either Julian handed him the keys to the kingdom and lied straight to my face last night over soup, or someone else inside this marriage gave Halstead the back door long before October fourteenth.
+Cold dread settles heavy behind my sternum. A small-town deputy pulling over speeders on Route 1 doesn't hold administrator credentials to a billionaire patent holder's private residence. Either Graham handed him the keys to the kingdom and lied straight to my face last night over soup, or someone else inside this marriage gave Halstead the back door long before October fourteenth.
 
 Halstead scrolls briskly through the morning's event log, his crooked front tooth catching the pale blue glow of the screen as his jaw tightens. He pauses on the master suite motion sensors—tracking my footsteps from half an hour ago—and taps twice to purge his own keypad entry from the local cache. Back at Harbor Mutual, I spent four years auditing staged commercial losses where a warehouse manager disabled a single motion zone before a fire; the cover-up always looked cleaner on paper than real life. Watching Halstead scrub his own footprint in real time carries that same rotten precision.
 
 Then he turns toward the kitchen counter.
 
-He rests his left palm against the side of the stainless-steel French press Julian left out before leaving for Portland, testing the glass carafe for warmth. Finding it cold, he glances toward the sink, checks the mail tray beside the toaster—nothing there except a hardware-store flyer and Julian's dry-cleaning receipt—and walks briskly into the mudroom.
+He rests his left palm against the side of the stainless-steel French press Graham left out before leaving for Portland, testing the glass carafe for warmth. Finding it cold, he glances toward the sink, checks the mail tray beside the toaster—nothing there except a hardware-store flyer and Graham's dry-cleaning receipt—and walks briskly into the mudroom.
 
 I shift half a step to follow him through the slats, keeping my weight off the middle floorboards where cedar joists tend to pop. A loose glass jar of dried rosemary rattles faintly against a vinegar bottle beside my elbow. I clamp my forearm tight against the glass until the vibration stops.
 
 Through the mudroom arch, Halstead drops to one knee beside the dark rubber boot tray, his windbreaker rustling against the cedar trim. He lifts the crisp, salt-free life vest off peg two, runs his thumb along the brass zipper pull, and sets it back on the hook with an exactness that makes my skin prickle. He isn't a cop inspecting evidence. He looks like a stagehand checking his props before curtain.
 
-His gaze sweeps the coat pegs next—my waxed canvas jacket hanging between Julian's charcoal wool coat and a yellow oilskin slicker. Inside that waxed breast pocket sits the rusted B-4 brass key wrapped in acid-free tissue.
+His gaze sweeps the coat pegs next—my waxed canvas jacket hanging between Graham's charcoal wool coat and a yellow oilskin slicker. Inside that waxed breast pocket sits the rusted B-4 brass key wrapped in acid-free tissue.
 
 My fingers curl involuntarily into my jeans palms. If he pats that pocket, the metal key will clink straight through the canvas, and I'll have to explain why a contract inventory clerk is hoarding a basement key she was explicitly told never to touch.
 
-Halstead doesn't touch the coats. He checks the deadbolt throw on the mudroom's exterior side door, tests the brass handle once with a gloved thumb, and drops his eyes to the empty right half of the rubber boot tray where Evelyn's duck boots ought to sit. Then he stands, brushes pine needles off his knee, and turns back toward the kitchen.
+Halstead doesn't touch the coats. He checks the deadbolt throw on the mudroom's exterior side door, tests the brass handle once with a gloved thumb, and drops his eyes to the empty right half of the rubber boot tray where Lydia's duck boots ought to sit. Then he stands, brushes pine needles off his knee, and turns back toward the kitchen.
 
-My hand drops automatically to the folded steel multi-tool in my jeans pocket, though I know what good a short utility blade will do against a broad-shouldered deputy carrying a county-issued Glock on his hip. If he pulls this louvered door open, I have nowhere to run except straight back into shelves of pickled beets and flour canisters. Worse, my Civic sits out across the wet gravel turnaround, penned behind a heavy hydraulic timber gate whose remote hangs from Julian's key ring in Portland.
+My hand drops automatically to the folded steel multi-tool in my jeans pocket, though I know what good a short utility blade will do against a broad-shouldered deputy carrying a county-issued Glock on his hip. If he pulls this louvered door open, I have nowhere to run except straight back into shelves of pickled beets and flour canisters. Worse, my Civic sits out across the wet gravel turnaround, penned behind a heavy hydraulic timber gate whose remote hangs from Graham's key ring in Portland.
 
-Walking out of this house tonight starts looking less like a choice and more like the only way I survive until Friday. Yet the thought of my Civic sitting in the turnaround with an eighteen-thousand-dollar court judgment on the passenger seat—and Julian's fifty-thousand-dollar NDA breach hanging over my head—pins my heels to the cedar floor. I can't afford to run blind. Not without proof that clears my name and pays what I'm owed.
+Walking out of this house tonight starts looking less like a choice and more like the only way I survive until Friday. Yet the thought of my Civic sitting in the turnaround with an eighteen-thousand-dollar court judgment on the passenger seat—and Graham's fifty-thousand-dollar NDA breach hanging over my head—pins my heels to the cedar floor. I can't afford to run blind. Not without proof that clears my name and pays what I'm owed.
 
 Halstead stops beside the kitchen sink. He turns the tap for a second, wets a paper towel, and drops to one knee to wipe the faint muddy heel-print he left near the breaker box off the slate tile. When he straightens and tosses the wet towel into the pull-out trash drawer, he pauses to glance at the empty dishwasher rack before turning toward the back service stairs.
 
@@ -86,7 +86,7 @@ Another pause. A sharp, impatient exhale hits the cedar slats, carrying the fain
 
 "She's taking too long in the master suite," Halstead mutters into the phone, his fingers drumming once against the door frame a hand's breadth from my face. "Move the deadline to Thursday."
 
-*She's taking too long.* He isn't talking about Evelyn. He's talking about *me*. And whoever is on the other end of that burner phone isn't Julian Mercer—because Julian already moved the Boston probate deadline to Thursday night over soup yesterday. Unless someone else is running a parallel clock inside this house, and I just walked straight into the middle of it. My throat feels scraped raw as I force myself to breathe silently through my nose, terrified the slightest whistle of air will carry through the louvers.
+*She's taking too long.* He isn't talking about Lydia. He's talking about *me*. And whoever is on the other end of that burner phone isn't Graham Kiefer—because Graham already moved the Boston probate deadline to Thursday night over soup yesterday. Unless someone else is running a parallel clock inside this house, and I just walked straight into the middle of it. My throat feels scraped raw as I force myself to breathe silently through my nose, terrified the slightest whistle of air will carry through the louvers.
 
 Halstead listens for two more beats, his mouth flattening into a hard line. Outside, a gust of harbor wind rattles the glass pantry entry door in its weatherstripping, sending a cold draft straight under the cedar threshold across my ankles.
 

@@ -4,7 +4,7 @@ Hollis marches me up the main oak staircase at a brisk clip, the battery lantern
 
 "Drop your bag there," he says, his free hand resting on the shotgun grip. "I'm going down to bleed the fuel line on the basement generator so the pipes don't burst overnight. You're going to walk down to your car at the iron gates, grab whatever inventory binders and battery packs you brought from Boston, and bring them back inside before nine-fifteen."
 
-"My Civic is parked outside the gate," I say, setting my navy canvas duffel carefully on the closet floor. I push the zipper tight over Sloane's leather NDA portfolio and pull the closet door halfway shut. "The drive isn't plowed. Walking down and back in snowdrifts takes twenty minutes."
+"My Civic is parked outside the gate," I say, setting my navy canvas duffel carefully on the closet floor. I push the zipper tight over Margot's leather NDA portfolio and pull the closet door halfway shut. "The drive isn't plowed. Walking down and back in snowdrifts takes twenty minutes."
 
 "Then start walking," Hollis replies. "I'll be watching the drive from the front porch once I kick the boiler back on. Stay on the truck ruts and don't wander toward the barn."
 
@@ -12,7 +12,7 @@ He waits until I step back into the gallery corridor, then follows me downstairs
 
 I don't waste a second.
 
-The moment the cellar door latches behind him, I step to the waxed parka hanging on the peg and slide two fingers into the right flap pocket. Cold iron keys jingle softly against wintergreen tobacco tins. My fingertips close around the familiar heavy bow of Sloane's brass skeleton key.
+The moment the cellar door latches behind him, I step to the waxed parka hanging on the peg and slide two fingers into the right flap pocket. Cold iron keys jingle softly against wintergreen tobacco tins. My fingertips close around the familiar heavy bow of Margot's brass skeleton key.
 
 I lift it clean out of his pocket, drop it back into my own left coat pocket, and step out the rear kitchen porch door into the freezing dark.
 
@@ -56,15 +56,15 @@ Two things sit side by side on the ridged bedliner.
 
 First, a woman's fitted white-and-navy *Moncler* down coat, quilted and spotless, sits folded neatly over a pair of small fur-trimmed winter boots. I lean close for one second. Beneath the cold nylon hangs a faint, unmistakable trace of compounded lavender cuticle oil.
 
-Arthur's second wife, Celeste Vane, didn't ride a snowmobile into a blizzard. Her winter coat sits dry in Hollis Greer's pickup.
+Arthur's second wife, Simone Cutler, didn't ride a snowmobile into a blizzard. Her winter coat sits dry in Hollis Greer's pickup.
 
 Beside the coat sits a heavy plastic milk crate packed tight with cross-cut paper strips—thousands of confetti-sized ribbons spilling out of a busted commercial shredder bag. I pinch two wider strips near the crate rim where the blades jammed and left half a line of print intact.
 
-`...VANECOR PEDIATRIC TRIAL — AUTOPSY TRANSFER...`
+`...CUTLERCOR PEDIATRIC TRIAL — AUTOPSY TRANSFER...`
 
 `...DEATH CODE: ACCIDENTAL HYPOTHERMIA (RURAL CORONER)...`
 
-My stomach knots tight against my ribs. I drop the two paper strips into my inside breast pocket beside the charred *Vane Biotech* payout voucher, tuck the canvas tarp back down over the crate, and slip out the side service door before Hollis steps onto the front porch.
+My stomach knots tight against my ribs. I drop the two paper strips into my inside breast pocket beside the charred *Cutler Biotech* payout voucher, tuck the canvas tarp back down over the crate, and slip out the side service door before Hollis steps onto the front porch.
 
 ***
 
@@ -94,7 +94,7 @@ No spare fuse fixes a cut harness in subzero dark without crimps and wire stripp
 
 I check the glovebox first. My folded Maine PI bond letter and the $0 Cumberland County satisfaction-of-judgment notice still sit tucked behind the registration sleeve, untouched. Two weeks ago, clearing that judgment felt like the finish line. Now it feels like a ticket into a different locked room. Hollis wasn't looking for my papers—he just wanted my wheels dead before I figured out what's in the woodshed.
 
-I move quietly to the Civic's trunk, pop the latch with the key, and pull out three things I keep packed for Maine winter fieldwork: a spare lithium battery pack for my penlight, a pair of lightweight aluminum snowshoes strapped inside a canvas cover, and my compact encrypted field tablet inside a magnetic weatherproof case. If Hollis tosses my navy duffel upstairs tonight, I don't want him finding a backup drive with my Salt Point notes or photos of the *VaneCor* strips.
+I move quietly to the Civic's trunk, pop the latch with the key, and pull out three things I keep packed for Maine winter fieldwork: a spare lithium battery pack for my penlight, a pair of lightweight aluminum snowshoes strapped inside a canvas cover, and my compact encrypted field tablet inside a magnetic weatherproof case. If Hollis tosses my navy duffel upstairs tonight, I don't want him finding a backup drive with my Salt Point notes or photos of the *CutlerCor* strips.
 
 I slide the magnetic tablet case high up behind the rear driver's-side wheel well liner where road slush won't hit it, then shoulder the small canvas daypack with the snowshoes and battery brick—making sure the aluminum frames stay hidden inside the bag so Hollis only sees an ordinary binder pack from the porch. I close the trunk gently without slamming the latch, step back through the narrow gap between the fieldstone gate pillars, and start up the truck ruts.
 

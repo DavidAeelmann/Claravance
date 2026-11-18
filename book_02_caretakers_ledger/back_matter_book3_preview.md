@@ -1,5 +1,5 @@
 # Sneak Peek: The Quarantine Manifest
-### A Clara Vance Thriller — Book 3 by David Seelmann
+### A Tessa Calder Thriller — Book 3 by David Seelmann
 
 ## Chapter 1
 
@@ -13,21 +13,21 @@ Behind the wheelhouse glass, the boatman shifts his throttle into neutral while 
 
 "Forty minutes is plenty," I say, adjusting the strap of my faded navy canvas duffel across my left shoulder.
 
-Beneath my right glove, the pink scar seam across my index knuckle pulls tight against the cold leather—my souvenir from a burning mountain ridge in Vermont twelve days ago. Under my left cuff sits the thinner scar from Salt Point. My checking account back in Portland still holds forty-two thousand dollars of Mercer-Hall Fiduciary's money, and my sister **Maya** is currently locked inside my third-floor apartment on the Eastern Promenade with two federal marshals parked downstairs on Congress Street.
+Beneath my right glove, the pink scar seam across my index knuckle pulls tight against the cold leather—my souvenir from a burning mountain ridge in Vermont twelve days ago. Under my left cuff sits the thinner scar from Salt Point. My checking account back in Portland still holds forty-two thousand dollars of Kiefer-Hall Fiduciary's money, and my sister **Nina** is currently locked inside my third-floor apartment on the Eastern Promenade with two federal marshals parked downstairs on Congress Street.
 
 Safe. Exonerated. Breathing clean harbor air.
 
 I should be sitting beside her at my kitchen table drinking hot coffee.
 
-Instead, I reach into my right coat pocket and wrap my gloved fingers around the two objects Maya and I pulled out of her rusted Burlington lockbox forty-eight hours ago.
+Instead, I reach into my right coat pocket and wrap my gloved fingers around the two objects Nina and I pulled out of her rusted Burlington lockbox forty-eight hours ago.
 
-The first is a heavy **mortise ward key** cast in tarnished marine brass, its bow stamped with the same octagonal port-clearance code that sat on the back cover of Arthur Vane's calfskin ledger:
+The first is a heavy **mortise ward key** cast in tarnished marine brass, its bow stamped with the same octagonal port-clearance code that sat on the back cover of Arthur Cutler's calfskin ledger:
 
 `B.I.Q.S.-04 — WARD C.`
 
-The second is a folded carbon sheet torn from my late father's **1998 Vance Maritime & Cargo** survey logbook. Across the bottom of that yellowed sheet—certifying the offload of six refrigerated steel containment crates into Barrow Island's decommissioned basement morgue—sits a countersignature in thick black fountain ink that I have stared at in civil court nightmares for three years:
+The second is a folded carbon sheet torn from my late father's **1998 Calder Maritime & Cargo** survey logbook. Across the bottom of that yellowed sheet—certifying the offload of six refrigerated steel containment crates into Barrow Island's decommissioned basement morgue—sits a countersignature in thick black fountain ink that I have stared at in civil court nightmares for three years:
 
-**Victor Haldane.**
+**Victor Garroway.**
 
 Chief marine underwriter at **Harbor Mutual Insurance**. The exact man who testified under oath that I falsified the Commercial Street warehouse crane logs in Portland, stripped my investigator's license, and buried me under an eighteen-thousand-dollar judgment to make sure I never audited that wharf fire again.
 
@@ -69,7 +69,7 @@ The greased hinges don't squeak.
 
 Warm air drifts up the stone stairwell—carrying the sharp, unmistakable scent of **medical formalin**, **wet cedar crate shavings**, and **expensive Turkish pipe tobacco**.
 
-Victor Haldane's tobacco. The same sweet, cloying Latakia blend that filled the Harbor Mutual conference room the afternoon he handed me my termination papers.
+Victor Garroway's tobacco. The same sweet, cloying Latakia blend that filled the Harbor Mutual conference room the afternoon he handed me my termination papers.
 
 I descend the twelve granite steps in total silence, keeping my weight on the outside edges of my boots where the stone meets the brick wall. At the bottom of the well stands a heavy oak fire door sheathed in riveted galvanized tin. Directly below the brass lever sits an antique mortise keyhole—its faceplate freshly wiped clean of verdigris.
 
@@ -81,7 +81,7 @@ I depress the lever and push the tin-clad door open a crack.
 
 Inside runs a long, whitewashed brick vault lit by low-wattage amber bulkhead cages. Along the left wall stand four stainless-steel refrigeration lockers wired into a digital temperature manifold reading **four degrees Celsius**. Across the center of the concrete floor, sitting on a yellow hydraulic hand-truck beside a crowbar and a pile of damp pine slats, is a freshly pried shipping crate stenciled with the faded crest of the **Portland Custom House Wharf**.
 
-And resting open on a stainless-steel autopsy table under the center amber bulb is a black leather cargo manifest binder—its spine stamped with the gold-leaf emblem of **Vance Maritime & Cargo, 1998**.
+And resting open on a stainless-steel autopsy table under the center amber bulb is a black leather cargo manifest binder—its spine stamped with the gold-leaf emblem of **Calder Maritime & Cargo, 1998**.
 
 I take two silent steps across the concrete drain grate, pull my phone out to photograph the open page, and freeze.
 
@@ -93,10 +93,10 @@ Behind me at the top of the granite stairwell, the heavy iron bulkhead doors sla
 
 ***
 
-**Continue Clara Vance's story in Book 3 of the series:**
+**Continue Tessa Calder's story in Book 3 of the series:**
 
 **THE QUARANTINE MANIFEST**
 
-*A Clara Vance Thriller (Book 3) by David Seelmann*
+*A Tessa Calder Thriller (Book 3) by David Seelmann*
 
 *If you enjoyed The Caretaker's Ledger, please consider leaving a review on Amazon and following David Seelmann for new release alerts.*

@@ -24,7 +24,7 @@ Once. Twice.
 
 The jagged steel key tip slides backward out of the brass wards and drops with a sharp metallic clink onto the cardboard sheet below.
 
-I pull the legal pad backing slowly back toward me under the door, pocket the broken key tip, and slide Sloane's brass skeleton key into the cleared cylinder. The deadbolt throws with a heavy click. I step into the attic corridor, immediately turn the skeleton key from the inside, and throw the heavy wrought-iron slide bolt mounted on the attic side of the jamb so Hollis's master key can't open it from the stairwell while I search Room 4.
+I pull the legal pad backing slowly back toward me under the door, pocket the broken key tip, and slide Margot's brass skeleton key into the cleared cylinder. The deadbolt throws with a heavy click. I step into the attic corridor, immediately turn the skeleton key from the inside, and throw the heavy wrought-iron slide bolt mounted on the attic side of the jamb so Hollis's master key can't open it from the stairwell while I search Room 4.
 
 ***
 
@@ -34,7 +34,7 @@ Four paneled doors line the corridor, two on each side. I test the first three k
 
 At the far east end of the gable, a heavy oak door stands closed with a tarnished brass plate screwed above the knob: **4**.
 
-I test the brass handle. Locked—though no key blocks the cylinder here. I slip Sloane's skeleton key into the slot, turn the wards until the latch clicks, and push the door inward.
+I test the brass handle. Locked—though no key blocks the cylinder here. I slip Margot's skeleton key into the slot, turn the wards until the latch clicks, and push the door inward.
 
 Warm air rushes out over my face, carrying the sharp, resinous bite of pine turpentine mixed with wool, stale sweat, and dried blood.
 
@@ -44,11 +44,11 @@ I step inside and close the door behind me without latching it, clicking my penl
 
 From the dormer glass, anyone standing at this desk has a clear, unobstructed sightline straight down onto the carriage barn roof, the woodshed snowmobile bay, and the narrow footpath leading to the stone icehouse.
 
-On the blotter lies a small glass bottle of *Noodler's Prussian Blue* waterproof archival ink, its cap screwed crooked, beside a black resin fountain pen with a fine steel nib stained with the exact ink Maya bought by the bottle in college.
+On the blotter lies a small glass bottle of *Noodler's Prussian Blue* waterproof archival ink, its cap screwed crooked, beside a black resin fountain pen with a fine steel nib stained with the exact ink Nina bought by the bottle in college.
 
 My throat goes tight. She always tilted her notebooks forty degrees clockwise in school so her left wrist wouldn't drag through wet ink, and she favored fine steel nibs because ballpoints skipped on slick paper.
 
-Beside the ink bottle sits a cracked ceramic mug holding cold black tea, a roll of surgical adhesive tape, and three crumpled squares of sterile gauze stiff with dried rust-brown blood. Under the blotter edge sticks a laminated Boston estate-archivist badge made out to **MARA ABBOTT — BLACKTHORNE ARCHIVE**, its corner creased from being shoved into a boot or sleeve. The photo on the badge is blurry and low-contrast, stamped over a generic winter parka, yet the jawline beneath the knit cap stops my breath cold.
+Beside the ink bottle sits a cracked ceramic mug holding cold black tea, a roll of surgical adhesive tape, and three crumpled squares of sterile gauze stiff with dried rust-brown blood. Under the blotter edge sticks a laminated Boston estate-archivist badge made out to **LENA TALBOT — CRAGMONT ARCHIVE**, its corner creased from being shoved into a boot or sleeve. The photo on the badge is blurry and low-contrast, stamped over a generic winter parka, yet the jawline beneath the knit cap stops my breath cold.
 
 Someone living up here took a bad cut or rib injury within the last forty-eight hours—and used the lodge's heat to survive while Hollis thought he locked a trespasser out.
 
@@ -80,17 +80,17 @@ Something white catches my eye, wedged tightly down inside the narrow gap betwee
 
 I pull my steel multi-tool, pinch the flat pliers onto the corner of the paper, and ease it gently up out of the hot iron slot without tearing the fibers.
 
-It's a full sheet of heavy cream, red-ruled ledger paper. Along the left margin runs a jagged, straight-blade cut—matching the sliced binding of the maroon guest ledger down on the Great Hall lectern. I pull the tiny triangular scrap from my breast pocket and hold it against the missing bottom-right corner. The torn paper fibers and the tail of Maya's cursive *m* line up edge to edge without a hair's gap.
+It's a full sheet of heavy cream, red-ruled ledger paper. Along the left margin runs a jagged, straight-blade cut—matching the sliced binding of the maroon guest ledger down on the Great Hall lectern. I pull the tiny triangular scrap from my breast pocket and hold it against the missing bottom-right corner. The torn paper fibers and the tail of Nina's cursive *m* line up edge to edge without a hair's gap.
 
 I smooth the warm paper flat on the draftsman's table beneath the gray window light.
 
-Three guest names sit logged in neat faded ink at the top for Tuesday, December 2: *Arthur Vane — Master*, *Celeste Vane — Master*, *Mara Abbott — Room 4*. Beneath them, filling the blank lower half of the page in cramped, back-slanted blue cursive, sits a hand-drawn schematic of the **Stone Icehouse** behind the kitchen wing.
+Three guest names sit logged in neat faded ink at the top for Tuesday, December 2: *Arthur Cutler — Master*, *Simone Cutler — Master*, *Lena Talbot — Room 4*. Beneath them, filling the blank lower half of the page in cramped, back-slanted blue cursive, sits a hand-drawn schematic of the **Stone Icehouse** behind the kitchen wing.
 
-Arrows point from the exterior icehouse floor down into a rough rectangle labeled: *A.V. — ROCK SALT / SAWDUST — DIED TUES 11:40 PM*. Beside it, a second arrow points down the back wall of the icehouse into a shaft marked: *COAL CHUTE TO BOILER — NO LOCK ON FLAP.* In the margin sits one final word, underlined twice in heavy ink: *LEDGER IN WALL.*
+Arrows point from the exterior icehouse floor down into a rough rectangle labeled: *A.C. — ROCK SALT / SAWDUST — DIED TUES 11:40 PM*. Beside it, a second arrow points down the back wall of the icehouse into a shaft marked: *COAL CHUTE TO BOILER — NO LOCK ON FLAP.* In the margin sits one final word, underlined twice in heavy ink: *LEDGER IN WALL.*
 
 My pulse hammers hard in my ears.
 
-Arthur Vane didn't vanish on a snowmobile Tuesday night. He died at eleven-forty Tuesday night—and his body is packed under rock salt and sawdust inside the stone icehouse twenty paces behind the kitchen.
+Arthur Cutler didn't vanish on a snowmobile Tuesday night. He died at eleven-forty Tuesday night—and his body is packed under rock salt and sawdust inside the stone icehouse twenty paces behind the kitchen.
 
 I fold the sliced ledger page fast into my inside breast pocket—just as a heavy door slams violently downstairs in the kitchen wing, rattling the floorboards beneath my boots.
 

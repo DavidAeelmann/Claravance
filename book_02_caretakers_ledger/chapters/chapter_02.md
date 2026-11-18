@@ -6,7 +6,7 @@ I don't move. My boots stay planted on the cold flagstones beside the oak lecter
 
 Wait. If they locked the stairwell door from above, they didn't lock me *into* the Great Hall—they locked themselves *out* of it, or sealed the third floor against me. Either way, the front oak door behind my back is still my way out. I pivot slowly toward the porch threshold, keeping my heels off the stone so my snow-damp treads don't squeak.
 
-My left hand still grips Sloane's brass skeleton key. My right fingers close around the cold steel frame of my multi-tool inside my coat pocket. Before I cross the hall, I glance back at the lectern. If I leave the torn corner scrap and the brass room tag sitting on the wet glue, anyone who comes downstairs will know I stood right here and read their work. I peel the freshly stamped **ROOM 4 — ATTIC EAST** tag off the tacky binding—a thin strand of hide glue stretches and snaps—and slip both the brass tag and the tiny triangular scrap of Maya's ink into my inside breast pocket.
+My left hand still grips Margot's brass skeleton key. My right fingers close around the cold steel frame of my multi-tool inside my coat pocket. Before I cross the hall, I glance back at the lectern. If I leave the torn corner scrap and the brass room tag sitting on the wet glue, anyone who comes downstairs will know I stood right here and read their work. I peel the freshly stamped **ROOM 4 — ATTIC EAST** tag off the tacky binding—a thin strand of hide glue stretches and snaps—and slip both the brass tag and the tiny triangular scrap of Nina's ink into my inside breast pocket.
 
 I cross the flagstones toward the front oak door and test the heavy iron thumb-turn. It slides smoothly. I pull the inward-swinging oak slab open half a hand's breadth—and freeze.
 
@@ -18,7 +18,7 @@ I ease the inner oak door shut and throw the thumb-turn back into place before t
 
 Trapped inside. Just like Salt Point, except there is no ocean glass to smash here—only thick granite walls and heavy interior timber shutters bolted tight over every ground-floor window. Even the high clerestory panes near the rafters sit too far above the stone floor to reach without a rigging ladder.
 
-I shift the strap of my navy duffel higher on my shoulder, feeling the stiff leather spine of Sloane's nondisclosure portfolio press against my ribs. Four walls. Two staircases—one grand oak flight rising straight across the Great Hall to the second-floor gallery, and whatever service stairs hide behind the kitchen archway.
+I shift the strap of my navy duffel higher on my shoulder, feeling the stiff leather spine of Margot's nondisclosure portfolio press against my ribs. Four walls. Two staircases—one grand oak flight rising straight across the Great Hall to the second-floor gallery, and whatever service stairs hide behind the kitchen archway.
 
 If the person upstairs wanted me dead in the next thirty seconds, they'd be coming down those stairs with a rifle. Instead, they locked the top door. Why lock yourself upstairs unless you're guarding something up there—or buying time to clear out through another exit?
 
@@ -36,17 +36,17 @@ The space is cramped. Iron hooks line the cedar wall. Three heavy waxed-canvas p
 
 My light sweeps the corner umbrella stand—and stops.
 
-A heavy walnut walking cane fitted with a custom, oversized rubber ferrule leans upright against the cedar wainscoting. The dark wood handle is worn pale along the *left* side of the curve where a palm leaned hard against it, and a brass collar halfway down the shaft bears an engraved monogram: *A.V.* Beside it sits a small brass tin of orthopedic heel wax, its lid crusted with dried yellow balm.
+A heavy walnut walking cane fitted with a custom, oversized rubber ferrule leans upright against the cedar wainscoting. The dark wood handle is worn pale along the *left* side of the curve where a palm leaned hard against it, and a brass collar halfway down the shaft bears an engraved monogram: *A.C.* Beside it sits a small brass tin of orthopedic heel wax, its lid crusted with dried yellow balm.
 
 Beside the cane sits a pair of tall, shearling-lined leather snow boots. I crouch and run one bare knuckle across the leather toes and rubber treads. Bone-dry. Not a speck of melted snow, salt crust, or pine needle sits trapped in the lug pattern. I straighten slowly, clicking the penlight off in my palm.
 
-Sloane's briefing packet claimed pharmaceutical heir Arthur Vane, his second wife, and their winter caretaker walked out into Tuesday night's blizzard and rode three snowmobiles off the ridge. Maybe Arthur didn't ride a snowmobile. Maybe he only walked to the woodshed—except even on flat floorboards, a man who wears down the walnut grip of a custom orthopedic cane doesn't hike into a whiteout wearing thin house slippers while leaving his shearling snow boots dry in the mudroom.
+Margot's briefing packet claimed pharmaceutical heir Arthur Cutler, his second wife, and their winter caretaker walked out into Tuesday night's blizzard and rode three snowmobiles off the ridge. Maybe Arthur didn't ride a snowmobile. Maybe he only walked to the woodshed—except even on flat floorboards, a man who wears down the walnut grip of a custom orthopedic cane doesn't hike into a whiteout wearing thin house slippers while leaving his shearling snow boots dry in the mudroom.
 
 I step back out into the dim Great Hall and test the study archway next. The tall mahogany doors stand closed, their brass lever handles cold under my thumb. Locked. I crouch and peer through the keyhole—pitch black, no key resting on the inside, and no draft moving beneath the threshold.
 
 Across the hall, the wide oak staircase climbs into shadow toward the second-floor balcony. Above that, invisible from the flagstones, sits the third-floor landing where the key turned.
 
-If I wait down here in the dark, whoever is upstairs controls the high ground, the phone lines, and every exterior shutter. My chest feels tight, the familiar cold knot sitting behind my sternum—the same trap I swore off in Portland this morning before Sloane slid Maya's cursive across the Formica. I can't walk out. The outer storm door is padlocked from the porch, and Maya's ink is still fresh on that torn corner in my pocket.
+If I wait down here in the dark, whoever is upstairs controls the high ground, the phone lines, and every exterior shutter. My chest feels tight, the familiar cold knot sitting behind my sternum—the same trap I swore off in Portland this morning before Margot slid Nina's cursive across the Formica. I can't walk out. The outer storm door is padlocked from the porch, and Nina's ink is still fresh on that torn corner in my pocket.
 
 I sling my duffel off my shoulder and tuck it deep behind the heavy velvet drapes flanking the study archway where it won't slow me down on the stairs. My boots hug the wall stringer where oak treads carry the most support as I start up the main staircase.
 
@@ -62,7 +62,7 @@ I climb slowly, placing the ball of each boot near the riser so the old pine doe
 
 I shield my penlight between two fingers and flick the beam onto the fire door's mortise deadbolt plate.
 
-The brass escutcheon gleams clean against the dark oak, wiped recently enough that no dust coats the bevel. Fresh oil glistens in the keyhole slot—the same slickness I felt when Sloane's skeleton key slid into the front porch lock without a scrape.
+The brass escutcheon gleams clean against the dark oak, wiped recently enough that no dust coats the bevel. Fresh oil glistens in the keyhole slot—the same slickness I felt when Margot's skeleton key slid into the front porch lock without a scrape.
 
 Then I tilt the narrow beam sideways across the polished brass plate just above the cylinder.
 
@@ -72,7 +72,7 @@ Where the ring finger pad should press against the brass, there is only a smooth
 
 I hold the light steady for two seconds, tracing the spacing of the three oily ridges. Left-handed writers smudge ink from the heel of the palm; right-handed mechanics brace the cylinder with their right thumb on the knob and their right fingertips spread flat against the upper plate. The missing pad belongs to a right ring finger—either bandaged stiff, or missing its tip entirely.
 
-I click the penlight off and slip it back into my coat. Then I pull Sloane's brass skeleton key from my left pocket. The front door took it without a fight, oiled by the same hand. If Blackthorne Lodge runs on old nineteenth-century mortise wards, one master bit might throw this upper deadbolt too.
+I click the penlight off and slip it back into my coat. Then I pull Margot's brass skeleton key from my left pocket. The front door took it without a fight, oiled by the same hand. If Cragmont Lodge runs on old nineteenth-century mortise wards, one master bit might throw this upper deadbolt too.
 
 I slide the brass bit gently into the oiled keyhole. It stops halfway in—blocked inside the cylinder by the snapped-off steel tip of a broken key wedged tight against the tumbler.
 

@@ -6,7 +6,7 @@ I click my penlight on, grip the cold aluminum barrel between my teeth, and lung
 
 I flip out the heavy needle-nose pliers on my steel multi-tool, yank my right glove off with my teeth so I can feel the steel, and clamp the jaws onto the rusted cotter pin.
 
-My left wrist screams as I twist. The iron pin groans, flakes of red rust showering onto my wet coat sleeves, and refuses to turn. Outside in the yard, a porch door slams shut in the distance—Celeste is already heading back from the lodge kitchen with matches or a lighter, and the smell of gasoline under the sill grows stronger by the second.
+My left wrist screams as I twist. The iron pin groans, flakes of red rust showering onto my wet coat sleeves, and refuses to turn. Outside in the yard, a porch door slams shut in the distance—Simone is already heading back from the lodge kitchen with matches or a lighter, and the smell of gasoline under the sill grows stronger by the second.
 
 I switch grips, bracing my right boot against the damp stone beside the chute, and haul back on the pliers with both hands. Salt grit crunches under my heel.
 
@@ -48,7 +48,7 @@ I tap the upper left corner next. Same dead thud. Then I tap the upper right cor
 
 The metal rings back with a sharp, hollow *clink*—a recessed void sitting right behind the corner lip.
 
-Maya's schematic note flashes back through my head: *COAL CHUTE TO BOILER — NO LOCK ON FLAP.* It isn't locked from the outside. It's held by a gravity counterweight pin recessed in the brick side-slot, designed to trip whenever coal hits the lip.
+Nina's schematic note flashes back through my head: *COAL CHUTE TO BOILER — NO LOCK ON FLAP.* It isn't locked from the outside. It's held by a gravity counterweight pin recessed in the brick side-slot, designed to trip whenever coal hits the lip.
 
 I reach up with the tip of my multi-tool's flat screwdriver, feeling along the right mortar joint until the steel blade drops into a narrow vertical slot coated in hardened grease and coal dust. My bare right fingers numb fast against the cold metal as I trace the groove. Near the top of the notch sits a thumb-thick iron pin, crusted tight with fused ash and old furnace scale. I flip out the multi-tool's awl and scrape the grit away bit by bit, grit pattering softly onto the iron baffle beneath my chin, until the pin moves a fraction inside its housing.
 
@@ -64,7 +64,7 @@ I freeze, gripping the brick lip with both hands and hooking my boot heels hard 
 
 Below me, a bright white flashlight beam sweeps sharply across the concrete floor near the furnace jacket. Wet Vibram boot soles squeak once against the damp cement as **Hollis Greer** pivots toward the ash-pit wall, the twin barrels of his shotgun gleaming dull blue in the glare. His heavy canvas chore coat smells faintly of wet wool and stove oil. The sweetish tang of wintergreen smokeless tobacco drifts upward, cutting straight through the furnace diesel.
 
-He didn't come down here to fix the furnace. He's sweeping the basement while Celeste torches the icehouse, making sure I didn't slip back in through the cellar bulkhead or hide behind the twin oil drums in the corner.
+He didn't come down here to fix the furnace. He's sweeping the basement while Simone torches the icehouse, making sure I didn't slip back in through the cellar bulkhead or hide behind the twin oil drums in the corner.
 
 Behind my heels, black petrol smoke rolls thicker down the chute, spilling past my cheek in a thin gray ribbon toward the boiler room lights. A chunk of loose mortar breaks off beneath my left boot toe and clatters loud down the iron baffle onto the floor.
 
