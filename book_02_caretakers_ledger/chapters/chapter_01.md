@@ -86,10 +86,3 @@ And resting directly on top of the sliced binding, where the wet glue is still t
 Above my head, directly across the third-floor rafters where the attic corridor runs, a heavy floorboard groans under the slow, deliberate shift of a boot.
 
 Then a key turns in the upper stairwell lock, sealing me inside the hall.
-
-***
-
-**Continue Clara Vance's story in Book 2 of the series:**
-**THE CARETAKER'S LEDGER**
-*A Clara Vance Thriller (Book 2) by David Seelmann*
-*If you enjoyed The Wife's Inventory, please consider leaving a review on Amazon and following David Seelmann for new release alerts.*

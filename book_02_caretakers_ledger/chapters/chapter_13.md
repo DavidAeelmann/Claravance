@@ -52,19 +52,19 @@ I take two slow swallows, washing the coal grit off my tongue, then hand the ste
 
 "And the margin note," I say, tapping *Don't trust him.* "Why not write my name? Why not tell me where to look?"
 
-"Because if Hollis saw *Clara* on the lobby Guest Ledger, he'd know *Mara Abbott* was tied to Boston's auditor," Maya says sharply, her eyes bright in the red light. "He would have burned this house down with me in the walls before you ever left Portland. *Don't trust him* looked like a dead-end archivist warning about Arthur—something Sloane would tape to your briefing photo without a second thought, while only you would know my left-handed cursive."
-
-"And you knew Hollis would slice the page out."
-
-"He took his skinning knife to it Wednesday dusk while my alias was still wet on the bottom line," Maya says. "He was already in the Great Hall burning duplicate clinical manifests when your headlights hit the gate."
-
-She reaches out and taps the brass **ROOM 4 — ATTIC EAST** tag resting in my palm.
-
-"Hollis ducked into the study for his shotgun," Maya whispers. "I had ninety seconds. I dropped down the pantry dumbwaiter, grabbed the hide glue off the butler's shelf, and pressed that tag onto the tacky spine so you'd know where to look if he locked you in. I climbed back up before he threw the third-floor deadbolt—then rode the car right back down past you when he cut the generator, leaving the glue bottle in the tray."
+"Because if Hollis saw *Clara* on the lobby Guest Ledger, he'd know *Mara Abbott* was tied to Boston's auditor," Maya says sharply, her eyes bright in the red light. "He would have burned this house down with me in the walls before you ever left Portland. *Don't trust him* looked like a dead-end archivist warning about Arthur—something Sloane would tape to your briefing photo without a second thought, while only you would know my cramped, back-slanted cursive."
 
 "You rigged the boiler damper too," I say, nodding toward the scalding copper riser humming beside my knee. "Eighteen gallons of fuel oil in forty-eight hours."
 
 "If I froze to death in the rafters, nobody was ever going to read what's inside this oilskin," Maya says, pulling her knees tighter to her chest as the chill from my wet coat radiates through the tight space. "Hollis cracked two of my ribs Tuesday night when he caught me in the study hallway—I barely made it into the dumbwaiter before he fired."
+
+"Wait—you were inside the study when Arthur died?" I ask, keeping my voice low enough that it barely carries past the copper pipe.
+
+"I was behind the walnut desk photographing the ledger when he walked in at eleven-thirty-eight," Maya whispers, her fingers tightening on her knees. "He had a massive cardiac spasm on the rug and begged Celeste for his nitroglycerin spray. She walked over to the apothecary cabinet, pumped a tampered canister twice under his tongue, and washed it down with brandy rimmed with crushed *VaneCor* powder. She watched the mantel clock until he stopped breathing at eleven-forty—and then she screamed for Hollis."
+
+"The same Hollis who torched your apartment in Burlington?"
+
+"I saw his right hand on the steering wheel of his pickup outside the fire six years ago," Maya says grimly. "Missing the top joint of his ring finger. And when you arrived at dusk yesterday while he was out padlocking the barn, I slipped down the dumbwaiter, sliced my page out of the lobby Guest Ledger so he wouldn't spot my margin note, and glued the Room 4 brass tag over the tear so you'd find the Icehouse map I left in the radiator."
 
 ***
 
@@ -89,7 +89,9 @@ She flips past sixty pages of handwritten farm deliveries, timber leases, and ca
 My beam catches a fresh blue sticky-note tab Maya left on the margin, right beside six neat columns of wire transfers.
 
 > *CASE #VT-20-114 (PEDIATRIC CARDIAC / HYPOTHERMIA RECLASSIFICATION) — $145,000.00*
+>
 > *DISBURSED VIA: STATE STREET ESCROW ACCT #884-19B (BOSTON)*
+>
 > *COURIER / CLEARANCE: H. GREER*
 
 I reach into my breast pocket and lay the **charred Vane Biotech voucher corner**—the one I pulled out of the Great Hall hearth yesterday evening—flat against the ruled margin. The `$145,000.00` payout figure matches to the cent.

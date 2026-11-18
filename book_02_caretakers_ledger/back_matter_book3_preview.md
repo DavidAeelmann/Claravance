@@ -94,6 +94,9 @@ Behind me at the top of the granite stairwell, the heavy iron bulkhead doors sla
 ***
 
 **Continue Clara Vance's story in Book 3 of the series:**
+
 **THE QUARANTINE MANIFEST**
+
 *A Clara Vance Thriller (Book 3) by David Seelmann*
+
 *If you enjoyed The Caretaker's Ledger, please consider leaving a review on Amazon and following David Seelmann for new release alerts.*

@@ -46,7 +46,7 @@ A matte-charcoal Ford F-250 crew cab pickup fills the center of the concrete bay
 
 Warm. Not lukewarm—radiating dry, metallic heat straight through my skin. The truck hasn't been parked for two hours. Hollis didn't drive back up at four-thirty; he parked here less than ninety minutes ago.
 
-I step quietly along the concrete floor beside the driver's door. Through the tinted glass, a half-empty plastic bottle of wintergreen spit sits in the center console beside a heavy pair of bolt cutters with fresh silver scrapes along the jaws. Beside the timber workbench against the west wall sit three red five-gallon plastic jerrycans, their brass vent caps unscrewed slightly, filling the cold bay with the sharp tang of raw ninety-one octane gasoline.
+I step quietly along the concrete floor beside the driver's door. Through the tinted glass, a half-empty plastic bottle of wintergreen spit sits in the center console beside a heavy pair of bolt cutters with fresh silver scrapes along the jaws. Beside the timber workbench against the west wall hangs a coiled rubber siphon hose and a brass hand-pump, filling the cold bay with the sharp tang of raw ninety-one octane gasoline.
 
 The siphoned snowmobile fuel.
 

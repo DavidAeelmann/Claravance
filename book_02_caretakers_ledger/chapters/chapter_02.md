@@ -46,7 +46,7 @@ I step back out into the dim Great Hall and test the study archway next. The tal
 
 Across the hall, the wide oak staircase climbs into shadow toward the second-floor balcony. Above that, invisible from the flagstones, sits the third-floor landing where the key turned.
 
-If I wait down here in the dark, whoever is upstairs controls the high ground, the phone lines, and every exterior shutter. My chest feels tight, the familiar cold knot sitting behind my sternum—the same trap I swore off in Portland yesterday morning before Sloane slid Maya's cursive across the Formica. I can't walk out. The outer storm door is padlocked from the porch, and Maya's ink is still fresh on that torn corner in my pocket.
+If I wait down here in the dark, whoever is upstairs controls the high ground, the phone lines, and every exterior shutter. My chest feels tight, the familiar cold knot sitting behind my sternum—the same trap I swore off in Portland this morning before Sloane slid Maya's cursive across the Formica. I can't walk out. The outer storm door is padlocked from the porch, and Maya's ink is still fresh on that torn corner in my pocket.
 
 I sling my duffel off my shoulder and tuck it deep behind the heavy velvet drapes flanking the study archway where it won't slow me down on the stairs. My boots hug the wall stringer where oak treads carry the most support as I start up the main staircase.
 

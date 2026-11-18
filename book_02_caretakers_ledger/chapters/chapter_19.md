@@ -1,111 +1,81 @@
 ## Chapter 19
 
-My wrists are numb where the double nylon ratchets bite into my wool cuffs.
+Dry furnace heat and stale coal dust hit our faces as Maya and I drop down the narrow wooden cellar stairs into the sub-basement boiler vault. Old pine treads groan beneath our wet boots, slick with tracked snow from the pantry floor.
 
-Cold radiates up through the Great Hall flagstones into my knees, sharp enough to make my teeth ache. A thin trickle of blood from my scraped temple dries sticky against my jaw, tasting faintly of copper and hearth dust. Behind me, the black iron poker hisses softly as its hooked tip settles deeper into the glowing birch coals.
+Behind us, the heavy oak flour chest scrapes violently across the linoleum and slams against the upper doorjamb as Hollis rams his shoulder into the frame. Splinters crack overhead, followed by a muffled curse. We have seconds before he clears the stairs with his revolver.
 
-Hollis stands two paces back, the twelve-gauge pump shotgun balanced across his forearm. His scarred right hand rests near the trigger guard, stained dark with soot and wintergreen spit.
+Through the high, frosted **cellar light-well** set into the granite foundation wall, erratic orange firelight pulses against the packed snow outside. Greasy black diesel smoke curls down around the sill, seeping through the warped pine sash and filling the low concrete vault with the bitter stench of burning fuel. Beside us, the massive cast-iron oil furnace hums unevenly, its copper supply manifold still circulating hot water straight up the **East Attic riser** toward Room 4. The radiator pipes clank overhead like someone knocking on iron.
 
-Across the hearth, Sloane Mercer-Hall sits slumped in the worn leather armchair, white nylon rope cutting deep into the camel hair sleeves of her coat. A plum bruise swells along her left cheekbone, yet her eyes stay fixed on the dark archway leading toward the pantry—the same direction I came from before Celeste blindsided me with the brass desk weight.
+My chest burns from coal grit and steam. Every muscle in my shoulders aches from swinging Arthur's cane, and my split index finger throbs inside my coat pocket against the cold keys. Six years of silence, and now we are trapped in a burning cellar with a killer who burned Maya's apartment in Burlington to cover three dead children.
 
-"Empty her coat," Hollis says, nodding toward me with the shotgun barrel. "Everything on the hearthstone."
+"Here," I whisper, setting the **gallon tin of lamp kerosene** beside the furnace jacket and hooking Arthur's walnut cane under my arm so both hands are free.
 
-Celeste steps around the corner of the study archway. She has set the heavy brass desk weight on the corner of the oak lectern, though her fingers still tremble violently against the hem of her cashmere turtleneck. Raynaud's circulation, or panic. Either way, her fingertips look dead white in the orange firelight.
+I drag an empty galvanized ash bucket beneath the mouth of the **brick coal chute**—the same dark tunnel I dropped through two hours ago when the icehouse gable burned. Cold night air drafts down the steep brick throat from the burned-out gable vent above, carrying clean pine needles and frost against my wet cheeks. It smells like survival.
 
-She drops to one knee beside me—her weight pinning my bruised shoulder hard against the floorboards—and yanks my wool coat open.
+Maya steps onto the overturned ash bucket, bracing her left palm against the rough mortar. Her breath catches sharply in her chest, though she doesn't make a sound—just a quick, tight grimace before she sets her jaw again. Buttoned tight inside her heavy flannel shirt, the oilskin-wrapped **Caretaker's Ledger** bulges stiffly against her ribs—six years of her life reduced to forty-four ink-ruled pages, and I am not losing her to a dark shaft tonight.
 
-"Don't bother with the duffel," Hollis says. "I already saw the sliced leather inside. Check her pockets."
+"Go," I urge, cupping my hands beneath her laced leather boot heel to boost her upward into the brick throat. "Don't stop until you hit the cold stone inside the icehouse. If the gable framing shifted, stay left along the granite wall. Arthur's body is still under the salt by the north wall."
 
-Celeste reaches into my right coat pocket first. Her cold knuckles brush my ribs as she pulls out the **Iridium satellite burst-transceiver**, Sloane's silver uplink fob, my steel multi-tool, and the small penlight, tossing each piece onto the stone hearth apron beside Sloane's boots.
+Maya hauls herself headfirst into the narrow chute, scraping her elbows over loose coal clinkers as she drags her knees clear of the iron lip. Halfway up the shaft, she pauses just long enough to catch her breath, looking back down into the dim vault. "Clara—the bulkhead—"
 
-Sloane's jaw tightens when the transceiver hits the stone. Cracked plastic. The recessed green status light remains dead, though the silver uplink fob beside it catches a dull orange glint from the birch coals. She knows what I tried to do in the gallery before Celeste swung the brass weight, and she knows we only have one shot left at getting an emergency packet out over the ridge.
+I glance across the concrete floor toward the **exterior cellar bulkhead** stairs. Just as I noticed earlier tonight, the heavy wrought-iron crossbar sits dropped inside its steel brackets on the interior frame. Even if we lifted that iron bar, hauling the sloped timber doors open against the drift would take too long and put us straight in the open snow beneath the kitchen windows—while Hollis stood at the top of the stairs with a revolver.
 
-Next, Celeste drags out the heavy brass skeleton key, the snapped steel key tip, the yellow legal pad, and the sealed zip-top plastic evidence baggie holding both the wrapped crystal brandy stopper and the half-charred silver *nitroglycerin* rescue-spray canister. Her breath catches sharply. She stares down at the blackened metal cylinder resting beside the glass stopper, and for a second the color drains completely out of her cheeks.
-
-"She took that from the master suite," Celeste says, her voice thin and brittle. She whips her hand back as if the plastic baggie burned her. "Hollis, she's been through my vanity."
-
-"Keep going," Hollis says.
-
-Celeste shoves her hand into my inner breast pocket, yanking out the folded *VaneCor* strips, the charred voucher corner, the three-page Survivorship Covenant, and the flat stamped brass room tag. She glances down at the stamped letters—**ROOM 4 — ATTIC EAST**—and scoffs once under her breath.
-
-"A room key tag," she says, tossing the flat brass rectangle onto the flagstones right behind my heels. "She's not carrying the ledger, Hollis. I told you."
-
-The brass tag clatters softly against the stone, sliding an inch behind my left boot heel.
-
-Hollis doesn't look at the brass tag. He keeps the shotgun muzzle leveled at my chest while he steps sideways toward the grate, reaches down with his left hand, and pulls the black iron poker clear of the birch coals.
-
-The hooked tip glows dull orange, radiating dry heat that smells of scorched iron and baked dust.
+The upper cellar door bursts inward at the top of the wooden steps.
 
 ***
 
-"Last chance," Hollis says. He holds the glowing poker low beside his hip, keeping the shotgun cradled steady against his shoulder. "Where did Mara stash the Caretaker's Ledger?"
+Hollis doesn't shout. He comes down the steep pine treads two at a time, his heavy Vibram boots pounding the risers as orange firelight from the frosted light-well catches the snub-nose steel revolver in his scarred right hand. His wool chore coat hangs open, dusted gray from the Great Hall hearth, and his face is smeared black with wet birch soot.
 
-My ribs ache every time I pull a breath through my nose. Above the shattered clerestory glass, the wind claws at the east gable flashing, carrying the hollow rattle of frozen spruce branches. If I tell him the truth—that Maya is thirty paces above our heads inside Room 4 with the oilskin-wrapped ledger—he will march up the back stairs with the twelve-gauge and burn the attic down around her.
+"Maya!" I hiss up the brick chute. "Climb!"
 
-I shift my weight slightly backward onto my heels, letting my wool coat hem brush the cold flagstones behind me.
+I uncap the **gallon tin of lamp kerosene**, whip my arm wide across the concrete floor between the furnace casing and the coal-chute wall, and fling the slick liquid straight across the base of the wooden stairs before dropping the empty tin with a loud metallic clatter against the ash bin. Greasy fumes rise instantly off the cold slab, stinging my nostrils beneath the diesel smoke.
 
-My bound fingers grope blindly across the grit until the sharp stamped corner of the **brass room tag** scrapes my right palm.
+Hollis hits the wet concrete at full stride. His left boot hydroplanes sideways across the kerosene slick, throwing his shoulder hard into the hot iron boiler jacket with a dull *boom* that shakes the copper feed pipes.
 
-I curl my middle and ring fingers around the flat metal, tucking it tight against the underside of my wrist where the outer nylon zip tie crosses my wool cuff.
+A bright orange muzzle flash splits the dark vault.
 
-"It's not in the house," I say, keeping my voice flat.
+The revolver report deafens my left ear in the tight concrete room. Lead sparks viciously off the cast-iron furnace flue close above my coat collar, showering my hair with hot rust scale and stinging cordite smoke. The boiler's pressure relief valve whistles once in protest.
 
-Hollis tilts the iron poker an inch closer to Sloane's leather armchair. The heat off the tip makes Sloane pull her chin back against the high leather wing, though she refuses to close her eyes.
+I dive sideways behind the heavy brick ash-pit pier, pressing my cheek against the cold masonry until my right hand finds the **hairline copper bell-wire loop** I rigged earlier tonight—taut as a guitar string where it runs up to the rusted counterweight pin holding the heavy cast-iron **ash-pit baffle** open above the coal-chute mouth. The thin wire bites into my wool glove as I draw up the slack, holding my breath so Hollis won't hear me over the roar of the oil burner. One premature tug drops the iron plate empty and traps Maya on the wrong side of the chute. I have to wait until his arm crosses the sill.
 
-"Don't waste my time," Hollis says. "Mara hasn't stepped outside this lodge since Tuesday night's blizzard."
+Hollis recovers his footing in the kerosene puddle, coughing hard in the diesel smoke drifting down from the light-well. He doesn't waste another blind shot into the dark furnace shadows. Instead, he steps slowly past the humming oil burner, his heavy boots squelching in the spilled lamp fuel, and freezes beside the brick coal chute as he tracks the faint scrape of Maya's boots echoing down from the stone throat above.
 
-"She didn't have to," I say. Behind my back, I angle the sharp stamped edge of the brass tag straight against the raised plastic housing of the outer zip tie—right where the nylon locking tooth grips the ribbed tail. "She dropped it down the coal chute before I met her in the icehouse. I carried it down the drive when I went to check my Civic."
+He knows she's carrying the ledger. And he knows the chute leads straight up to the burned-out stone icehouse where Arthur's body lies packed in salt.
 
-Celeste takes a sharp half-step forward from the lectern. "She walked down to the gates?"
+He raises his left hand toward the **brass coal-chute latch** to yank the heavy iron hatch down and seal Maya inside.
 
-"You saw my snowshoe tracks," I say, looking straight at Hollis. "The ones you found yesterday afternoon before you jammed the intercom. I didn't leave the ledger in the study. I locked it inside the spare tire well under the Civic's trunk mat."
+In the pulsing orange glow from the high cellar window, the polished brass handle catches a dull, greasy reflection—his own bare handprint gleaming dark against the worn metal. Six years of quiet arrogance, pressed straight onto the brass lever beside the cast-iron counterweight housing.
 
-I press my thumb hard against the flat face of the brass tag and drag its milled corner across the nylon ratchet. Once. Twice. The hard plastic resists, slick with sweat, then gives a faint dry *click* as the brass edge bites a shallow groove into the casing.
+His left wrist crosses directly beneath the raised vertical iron baffle lip as his gloved fingers close tight on the latch.
 
-Hollis studies my face in the orange firelight. He isn't stupid. He knows my Civic has a clipped distributor wire and four sliced tire chains sitting three-quarters of a mile down an unplowed logging grade. Yet he also knows I walked back up that same grade yesterday afternoon, and if I hid an unredacted ledger in a locked trunk down by the county turnaround, leaving it there until morning means risking Pike or a state plow driver spotting the tire ruts. Every second he argues with Celeste costs him his only clean exit before daylight.
-
-"Why put it in a dead car?" he asks softly.
-
-"Because Pike's county plow is sitting outside your turnaround," I say. "If I died up here, somebody would eventually tow that Civic off the shoulder and pop the trunk. You burned a house in Burlington six years ago, Hollis. I wasn't leaving the only paper copy of those pediatric payoffs inside your wood-frame lodge."
-
-Sloane lets out a short, bitter sound through her nose. "You told me you were auditing inventory, Clara."
-
-"I was," I say. "Arthur's."
-
-Behind my back, I saw the brass corner deeper into the nylon tooth. My right index finger splits open slightly against the sharp stamped edge, slicking the metal warm, which only helps me brace it tighter against the plastic ratchet. One more deep score and the locking pawl will weaken enough to snap if I drive my elbows apart.
-
-Hollis shifts his weight toward the archway. "Celeste, take the truck keys off the pegboard and—"
-
-"No," Celeste snaps. Her voice cracks high in the rafters. "I'm not walking down that dark road alone while you stay up here with a shotgun and a dead body in the icehouse. It's two in the morning. If you want what's in her trunk, go get it yourself."
-
-"And leave you here with Sloane?" Hollis asks. His jaw muscles bunch beneath his gray stubble. "You already offered her the icehouse key an hour ago."
-
-"Then tie her to the lectern!" Celeste points a shaking finger toward me. "Wait until five o'clock! Who cares about her sister's ledger if the trust vests at five?"
-
-"I care," Hollis says. His voice drops cold and flat. "Because my name is on page forty-four."
-
-He takes one step toward me, raising the glowing poker toward my scraped cheek—close enough that the radiant heat dries the blood on my jaw and singes the loose hairs near my temple.
+I don't hesitate. I wrap the hairline copper bell-wire twice around my torn wool sleeve, brace my wet boot heel hard against the brick pier, and yank backward with my full body weight.
 
 ***
 
-"Hollis," Sloane says sharply from the armchair. "Look at the flue."
+The counterweight pin shears free from the rusted bracket with a sharp metallic *ping*.
 
-I don't look up. I keep my eyes locked on Hollis's trigger finger while I drive the brass corner one last time into the scored plastic tooth behind my back. Warm blood runs down my wrist under the wool cuff, slicking the brass tag against my palm, and then the notched nylon casing finally parts half its thickness with a sharp *snick* against my thumb.
+The heavy cast-iron **ash-pit baffle** drops straight down its vertical steel tracks like a drop-forged shear.
 
-A faint, hollow *clank* echoes down the stone chimney shaft—metal striking cast iron high above our heads, like a heavy pipe wrench turning a rusted gate valve. Cold soot flakes drift down onto the iron grate, sizzling instantly against the birch coals.
+It slams onto the iron lip with a bone-jarring *clang* that shakes soot loose from the ceiling joists and rattles the furnace grates.
 
-Hollis freezes. The glowing iron poker hovers close enough to my face that my eyes water from the dry heat.
+Hollis lets out a guttural, choked roar as the thick iron edge pins his **left wrist and forearm** flat against the brick sill, crushing the bone against the mortar. The snub-nose revolver drops from his right hand for half a beat as he twists violently against the steel tracks, then his scarred right fingers snatch the pistol back up off the concrete before it can slide into the kerosene.
 
-"What is that?" Celeste whispers, backing away from the lectern toward the study wall. "Hollis, there's nobody up there."
+"Clara!" he bellows, thrashing against the iron jaw with his shoulder while swinging the revolver blindly toward the furnace pier. His boots kick the overturned ash bucket sideways across the concrete.
 
-Another metallic groan vibrates down the stone chimney breast, followed by a sudden, rushing hiss inside the plaster walls where the third-floor gravity water tank riser meets the attic flue. Old oak pipes shudder under the sudden pressure.
+A second shot explodes into the brick mortar beside my cheek, spraying grit into my eyes. I duck beneath the iron oil feed pipe, snatch Arthur's walnut cane from the floor, and scramble headfirst onto the raised brick sill into the **brick coal chute** right behind Maya's boots. Rough brick edges tear at my wool coat sleeves as I haul myself upward by my elbows, choking on thick coal dust and pine ash while the brass handle of Arthur's cane clatters against the masonry behind my heels. Every pull drives the cold air from the icehouse deeper into my bruised chest.
 
-Maya. She must have heard Hollis's voice carrying up the service chase and traced the drain pipe straight to the chimney crown.
+Below in the concrete vault, Hollis fires a third wild round straight upward into the dark chute, the bullet ricocheting off the brick arch behind my boot heels with a sharp whine. Then the hammer clicks dryly on an empty chamber—or he stops to keep his right hand free to pry at the iron baffle.
 
-"Move!" I yell at Sloane, throwing my weight sideways off my knees toward the leather armchair just as the overhead iron damper bangs wide open.
+Outside in the subzero snow beside the foundation, light, frantic footsteps crunch rapidly toward the **exterior cellar bulkhead**—moving fast across the crusted drift.
 
-A solid column of freezing cistern water drops straight down the stone chimney flue.
+Celeste. She must have bolted out the front porch door in the smoke, heading straight for Sloane's armored SUV in the turnaround, and realized the sub-basement bulkhead sat right along the foundation path.
 
-It hits the glowing birch coals and the red-hot iron grate all at once.
+Through the high frosted light-well, I see her pale silhouette pause beside the sloped timber bulkhead doors. She bends down, grabs a heavy **iron pry-bar** propped against the foundation stones, and jams it straight through the exterior steel hasp—wedging the cellar bulkhead shut from the outside in the snow so nobody below can push out.
 
-The Great Hall hearth detonates in a roaring geyser of scalding white steam, wet soot, and blinding gray ash that blasts outward across the flagstones, choking out every ember and swallowing the firelight in pitch darkness.
+Seconds later, her boots race back up the rear kitchen porch steps. The upper cellar door at the top of the wooden stairs slams shut, and the heavy brass deadbolt clicks home from the kitchen side. She didn't just lock us down there. She locked Hollis in with the diesel fire so nobody could walk out to contradict her story before five o'clock.
+
+"Celeste!" Hollis screams from the dark vault below, yanking furiously against the cast-iron baffle as greasy black diesel smoke pours thick through the burning kitchen floorboards overhead. Dry timber joists pop like rifle shots above the boiler room, showering red sparks across the oil furnace jacket. "Celeste—unlock the damn door!"
+
+No answer comes down the stairs. Only the roar of diesel flames eating along the exterior carriage-wing joists, and the sharp hiss of melting snow dripping down the granite cellar wall into the spilled kerosene.
+
+Above me, Maya's cold, ink-stained hand reaches down from the dark brick throat, her fingers locking tight around my wool sleeve to haul me upward toward the freezing night air and the snow-choked opening of the charred stone icehouse. Greasy black diesel smoke chases us straight up the shaft.

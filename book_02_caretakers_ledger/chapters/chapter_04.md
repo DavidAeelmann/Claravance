@@ -60,7 +60,7 @@ I rise and move to the middle sled, leaning across the seat as if checking the h
 
 Then I drop my left hand near the lower cowling seam, right above the brass fuel petcock and reserve drain line.
 
-Sharp, raw gasoline vapor stings my nostrils. Not burnt exhaust. Unburned ninety-one octane liquid, pooled wet around the brass drain valve where someone slipped a rubber siphon hose over the fitting and drained the tanks dry into jerrycans.
+Sharp, raw gasoline vapor stings my nostrils. Not burnt exhaust. Unburned ninety-one octane liquid, pooled wet around the brass drain valve where someone slipped a rubber siphon hose over the fitting and drained the tanks dry into the three red plastic jerrycans stacked beside the woodshed cordwood rack.
 
 I straighten slowly, wiping a flake of snow off my sleeve so Hollis doesn't see my jaw clench. Nobody rode these sleds. Nobody left them idling in a blizzard either. Someone drained them by hand in the dark to sell a story to Boston.
 

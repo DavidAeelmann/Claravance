@@ -24,7 +24,7 @@ Celeste's chin lifts a fraction. "Arthur left the house on his own, Sloane. Holl
 
 Hollis spits a dark stream of wintergreen juice straight into the birch embers, where it hisses against the hot stone.
 
-"Your investigator's dead, Miss Mercer-Hall," Hollis says flatly, his scarred right hand shifting along the shotgun fore-end. "She went down the icehouse coal chute two hours ago when the whole timber roof went up in petrol. You're welcome to dig through the ash pit tomorrow morning if you want what's left of her."
+"Your investigator's dead, Miss Mercer-Hall," Hollis says flatly, his scarred right hand shifting along the shotgun fore-end. "She went down the icehouse coal chute two hours ago when the timber gable vent went up in petrol. You're welcome to dig through the ash pit tomorrow morning if you want what's left of her."
 
 My chest tightens against the cold oak floorboards.
 
@@ -50,7 +50,7 @@ Hollis's jaw goes rigid, the muscle bunching beneath his gray stubble. He stares
 
 Hollis spits again, narrowing his eyes. "You didn't drive four hours in a blizzard just to lecture us about an auditor, Miss Mercer-Hall."
 
-"No," Sloane says evenly. "Six years ago, Arthur swore to me every paper copy of the 2020 escrow disbursements had been burned. When that anonymous fax hit my Boston desk Tuesday night, I assumed Mara Abbott sent it before stumbling onto Arthur's murder—not my old signatures. I wired a tracker into Clara Vance's portfolio so she'd lead me straight to Arthur's body before five o'clock tomorrow—until she flipped that fax over at Becky's Diner and went dead silent."
+"No," Sloane says evenly. "Six years ago, Arthur swore to me every paper copy of the 2020 escrow disbursements had been burned. When that anonymous fax hit my Boston desk Wednesday morning, I assumed Mara Abbott sent it before stumbling onto Arthur's murder—not my old signatures. I wired a tracker into Clara Vance's portfolio so she'd lead me straight to Arthur's body before five o'clock tomorrow—until she flipped that fax over at Becky's Diner and went dead silent."
 
 "And now?" Celeste asks, her voice tight.
 

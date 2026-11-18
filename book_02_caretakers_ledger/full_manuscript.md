@@ -15,7 +15,7 @@ Even inside the heated cab, the key smells faintly of cold iron and pine resin.
 
 My left wrist still itches beneath my wool cuff where the Salt Point stitches came out, a thin pink ridge against pale skin. Seven hours ago, I had a ten o'clock interview lined up on Congress Street for a daylight desk job auditing flooded boat hulls. Safe work. Clean chain-of-custody. Zero locked rooms.
 
-Then Sloane flipped a glossy photograph over on the diner Formica and showed me three words written in my younger sister's slanted, left-leaning cursive in the corner of a mountain guest ledger:
+Then Sloane flipped a glossy photograph over on the diner Formica and showed me three words written in my younger sister's cramped, back-slanted cursive in the corner of a mountain guest ledger:
 
 *Don't trust him.*
 
@@ -79,7 +79,7 @@ Except when I look down at the open ledger under the gray clerestory light, my b
 
 The top sheet hasn't been turned. It has been sliced clean out along the leather spine with a straight-edged blade, leaving a jagged fringe of cream paper still glued into the binding.
 
-Only the bottom right corner of the missing page tore loose before the blade finished its cut—a tiny triangular scrap pinned beneath a heavy brass desk weight. On that scrap sits the tail of a single cursive letter *m* in dark blue ink, slanting left. Maya's ink.
+Only the bottom right corner of the missing page tore loose before the blade finished its cut—a tiny triangular scrap pinned beneath a heavy brass desk weight. On that scrap sits the tail of a single cursive letter *m* in dark blue ink, back-slanted. Maya's ink.
 
 And resting directly on top of the sliced binding, where the wet glue is still tacky to the touch, sits a freshly stamped brass room tag on a steel ring.
 
@@ -89,16 +89,9 @@ Above my head, directly across the third-floor rafters where the attic corridor 
 
 Then a key turns in the upper stairwell lock, sealing me inside the hall.
 
-***
-
-**Continue Clara Vance's story in Book 2 of the series:**
-**THE CARETAKER'S LEDGER**
-*A Clara Vance Thriller (Book 2) by David Seelmann*
-*If you enjoyed The Wife's Inventory, please consider leaving a review on Amazon and following David Seelmann for new release alerts.*
-
 ---
 
-# Chapter 2
+## Chapter 2
 
 The key turns twice in the upper stairwell lock, iron scraping dry brass, and then the third-floor rafters fall silent.
 
@@ -146,7 +139,7 @@ I step back out into the dim Great Hall and test the study archway next. The tal
 
 Across the hall, the wide oak staircase climbs into shadow toward the second-floor balcony. Above that, invisible from the flagstones, sits the third-floor landing where the key turned.
 
-If I wait down here in the dark, whoever is upstairs controls the high ground, the phone lines, and every exterior shutter. My chest feels tight, the familiar cold knot sitting behind my sternum—the same trap I swore off in Portland yesterday morning before Sloane slid Maya's cursive across the Formica. I can't walk out. The outer storm door is padlocked from the porch, and Maya's ink is still fresh on that torn corner in my pocket.
+If I wait down here in the dark, whoever is upstairs controls the high ground, the phone lines, and every exterior shutter. My chest feels tight, the familiar cold knot sitting behind my sternum—the same trap I swore off in Portland this morning before Sloane slid Maya's cursive across the Formica. I can't walk out. The outer storm door is padlocked from the porch, and Maya's ink is still fresh on that torn corner in my pocket.
 
 I sling my duffel off my shoulder and tuck it deep behind the heavy velvet drapes flanking the study archway where it won't slow me down on the stairs. My boots hug the wall stringer where oak treads carry the most support as I start up the main staircase.
 
@@ -190,7 +183,7 @@ Before I can pull back from the oak panel, a sharp metallic hiss erupts inside t
 
 ---
 
-# Chapter 3
+## Chapter 3
 
 The dumbwaiter cable slams against the wooden guide rollers somewhere below the second floor, then stops with a dull thud of hemp rope slackening inside the wall.
 
@@ -294,7 +287,7 @@ Through the glass, a broad-shouldered man in a snow-crusted waxed parka raises a
 
 ---
 
-# Chapter 4
+## Chapter 4
 
 I don't reach for my multi-tool. Twin twelve-gauge muzzles sit an inch from frosted glass, and men holding shotguns in the dark don't wait for explanations.
 
@@ -356,7 +349,7 @@ I rise and move to the middle sled, leaning across the seat as if checking the h
 
 Then I drop my left hand near the lower cowling seam, right above the brass fuel petcock and reserve drain line.
 
-Sharp, raw gasoline vapor stings my nostrils. Not burnt exhaust. Unburned ninety-one octane liquid, pooled wet around the brass drain valve where someone slipped a rubber siphon hose over the fitting and drained the tanks dry into jerrycans.
+Sharp, raw gasoline vapor stings my nostrils. Not burnt exhaust. Unburned ninety-one octane liquid, pooled wet around the brass drain valve where someone slipped a rubber siphon hose over the fitting and drained the tanks dry into the three red plastic jerrycans stacked beside the woodshed cordwood rack.
 
 I straighten slowly, wiping a flake of snow off my sleeve so Hollis doesn't see my jaw clench. Nobody rode these sleds. Nobody left them idling in a blizzard either. Someone drained them by hand in the dark to sell a story to Boston.
 
@@ -398,7 +391,7 @@ Someone walked toward that icehouse *after* the storm stopped—bleeding ink fro
 
 ---
 
-# Chapter 5
+## Chapter 5
 
 Hollis marches me up the main oak staircase at a brisk clip, the battery lantern swinging shadows across the dark portraits on the second-floor landing. He opens the second door on the west side of the gallery—a cold guest room with twin four-poster beds and shuttered windows—and jerks his chin toward the cedar closet.
 
@@ -446,7 +439,7 @@ A matte-charcoal Ford F-250 crew cab pickup fills the center of the concrete bay
 
 Warm. Not lukewarm—radiating dry, metallic heat straight through my skin. The truck hasn't been parked for two hours. Hollis didn't drive back up at four-thirty; he parked here less than ninety minutes ago.
 
-I step quietly along the concrete floor beside the driver's door. Through the tinted glass, a half-empty plastic bottle of wintergreen spit sits in the center console beside a heavy pair of bolt cutters with fresh silver scrapes along the jaws. Beside the timber workbench against the west wall sit three red five-gallon plastic jerrycans, their brass vent caps unscrewed slightly, filling the cold bay with the sharp tang of raw ninety-one octane gasoline.
+I step quietly along the concrete floor beside the driver's door. Through the tinted glass, a half-empty plastic bottle of wintergreen spit sits in the center console beside a heavy pair of bolt cutters with fresh silver scrapes along the jaws. Beside the timber workbench against the west wall hangs a coiled rubber siphon hose and a brass hand-pump, filling the cold bay with the sharp tang of raw ninety-one octane gasoline.
 
 The siphoned snowmobile fuel.
 
@@ -501,7 +494,7 @@ Up on the ridge, a heavy halogen flashlight beam flares bright from the lodge's 
 
 ---
 
-# Chapter 6
+## Chapter 6
 
 Hollis doesn't ask about my Civic when I step back onto the kitchen porch at nine-fifteen. He just sweeps his halogen beam once across the canvas daypack on my shoulder, grunts, and slides the heavy brass deadbolt across the kitchen door behind my boots.
 
@@ -515,7 +508,7 @@ I slide my canvas daypack with the snowshoes and spare lithium brick onto the to
 
 I pull a six-inch strand of dark gray thread from the frayed hem of my coat lining. I wedge one end into the upper doorjamb gap just above the brass hinge and tuck the loose tail flat against the molding—a crude tamper-trap so I'll know if Hollis checks my room while I'm downstairs.
 
-A shiver runs straight between my shoulder blades, and I tuck my bare fingers into my armpits to stop them from shaking. Two weeks ago, paying off that eighteen-thousand-dollar judgment felt like buying my life back. Back in Portland, I walked out of Becky's Diner thinking the worst thing in my life was a flooded basement audit. Now I'm locked inside a freezing mountain fortress with a sabotaged car, a caretaker who carries bolt cutters, and a dead man's cane sitting dry in the hall mudroom.
+A shiver runs straight between my shoulder blades, and I tuck my bare fingers into my armpits to stop them from shaking. Two weeks ago, paying off that eighteen-thousand-dollar judgment felt like buying my life back. This morning in Portland, I walked into Becky's Diner thinking the worst thing ahead of me was auditing flooded boat hulls. Now I'm locked inside a freezing mountain fortress with a sabotaged car, a caretaker who carries bolt cutters, and a dead man's cane sitting dry in the hall mudroom.
 
 I sit on the edge of the stripped four-poster mattress in my coat and boots, listening to the low thrum of the diesel generator vibrating through the floorboards. Unlike Maine, there is no ocean surf or distant harbor buoy out here—only dead winter silence pressing against the granite walls.
 
@@ -543,7 +536,7 @@ At the bottom, a narrow concrete vault opens around a massive, soot-streaked cas
 
 Nobody sits on the wooden stool beside the boiler workbench. Hollis must have bled the fuel line, flipped the main breaker, and gone back up to bed—or locked himself into the caretaker's wing.
 
-I step quietly onto the concrete floor, checking the far corner of the vault first. No second stair leads out of this cellar—only a sloping concrete bulkhead ramp covered by heavy steel cellar doors bolted shut from the inside with a dropped iron bar. Across the workbench sit two spare brass pressure gauges, a coffee tin of pipe fittings, and a half-empty bottle of lamp kerosene matching the smell from the Great Hall hearth.
+I step quietly onto the concrete floor, checking the far corner of the vault first. No second stair leads out of this cellar—only a sloping concrete bulkhead ramp covered by heavy timber cellar doors bolted shut from the inside with a dropped iron bar. Across the workbench sit two spare brass pressure gauges, a coffee tin of pipe fittings, and a half-empty bottle of lamp kerosene matching the smell from the Great Hall hearth.
 
 My gaze swings back to the twin black heating-oil tanks beside the boiler.
 
@@ -597,7 +590,7 @@ Then a faint, ragged whisper slides through the narrow iron gap in the dark:
 
 ---
 
-# Chapter 7
+## Chapter 7
 
 "Who's in there?" I whisper, keeping my lips an inch from the cold iron gap while my boot heel presses the soot-swept floor.
 
@@ -699,7 +692,7 @@ Today is Thursday. Tomorrow at five o'clock, thirty-eight million dollars change
 
 ---
 
-# Chapter 8
+## Chapter 8
 
 At eight-fifteen, Hollis's Ford F-250 rumbles back up the drive from the iron gates and disappears behind the carriage barn. Five minutes later, the side barn door thuds shut, and his heavy boots crunch past the woodshed toward the kitchen porch.
 
@@ -789,7 +782,7 @@ I scramble up the frozen bank into the trees before his boots hit the gravel, he
 
 ---
 
-# Chapter 9
+## Chapter 9
 
 The climb back up the spruce ridge takes two hours through drifting powder, every step heavier than the last. Twice I pause behind granite boulders to catch my breath while Pike's orange plow grinds slowly up the logging spur below, its amber roof strobe sweeping pale flashes across the treetops. Sweat cools fast against my ribs beneath my wool sweater, chilling me down to the bone whenever I stop moving.
 
@@ -815,11 +808,11 @@ Once. Twice.
 
 The jagged steel key tip slides backward out of the brass wards and drops with a sharp metallic clink onto the cardboard sheet below.
 
-I pull the legal pad backing slowly back toward me under the door, pocket the broken key tip, and slide Sloane's brass skeleton key into the cleared cylinder. The deadbolt throws with a heavy click. I step into the attic corridor and immediately turn the skeleton key from the inside, re-locking the fire door behind me so Hollis can't walk up unannounced while I search Room 4.
+I pull the legal pad backing slowly back toward me under the door, pocket the broken key tip, and slide Sloane's brass skeleton key into the cleared cylinder. The deadbolt throws with a heavy click. I step into the attic corridor, immediately turn the skeleton key from the inside, and throw the heavy wrought-iron slide bolt mounted on the attic side of the jamb so Hollis's master key can't open it from the stairwell while I search Room 4.
 
 ***
 
-The third-floor attic corridor stretches narrow and dim beneath steep timber rafters, smelling strongly of cedar dust, hot iron, and pine turpentine.
+The third-floor attic corridor stretches narrow and dim beneath steep timber rafters, the air dry and stifling from a radiator valve hissing somewhere at the far east end.
 
 Four paneled doors line the corridor, two on each side. I test the first three knobs quickly—unlocked, empty storage rooms stacked with sheet-draped wicker furniture, moth-eaten wool rugs, and rusted steamer trunks. Every cast-iron radiator along the west wall sits ice-cold.
 
@@ -835,9 +828,9 @@ I step inside and close the door behind me without latching it, clicking my penl
 
 From the dormer glass, anyone standing at this desk has a clear, unobstructed sightline straight down onto the carriage barn roof, the woodshed snowmobile bay, and the narrow footpath leading to the stone icehouse.
 
-On the blotter lies a small glass bottle of *Noodler's Prussian Blue* waterproof archival ink, its cap screwed crooked, beside a black resin fountain pen with a fine steel nib stained dark blue along the left tine.
+On the blotter lies a small glass bottle of *Noodler's Prussian Blue* waterproof archival ink, its cap screwed crooked, beside a black resin fountain pen with a fine steel nib stained with the exact ink Maya bought by the bottle in college.
 
-My throat goes tight. Left-handed nib wear. Waterproof Prussian Blue ink—the exact ink on that torn corner scrap in my breast pocket. Maya always tilted her notebooks forty degrees clockwise in school so her left wrist wouldn't drag through wet ink, and she favored fine steel nibs because ballpoints skipped on slick paper.
+My throat goes tight. She always tilted her notebooks forty degrees clockwise in school so her left wrist wouldn't drag through wet ink, and she favored fine steel nibs because ballpoints skipped on slick paper.
 
 Beside the ink bottle sits a cracked ceramic mug holding cold black tea, a roll of surgical adhesive tape, and three crumpled squares of sterile gauze stiff with dried rust-brown blood. Under the blotter edge sticks a laminated Boston estate-archivist badge made out to **MARA ABBOTT — BLACKTHORNE ARCHIVE**, its corner creased from being shoved into a boot or sleeve. The photo on the badge is blurry and low-contrast, stamped over a generic winter parka, yet the jawline beneath the knit cap stops my breath cold.
 
@@ -863,7 +856,7 @@ Thick wool blankets lie folded into a narrow sleeping berth along the warm brick
 
 No ledger. No person hiding in the berth right now. Whoever lives inside this wall slipped out before I climbed the stairs—maybe down through the dumbwaiter shaft, or out toward the stone icehouse where I heard them whisper last night.
 
-Wait. If they bolted out of the coal chute at midnight when Hollis came down the cellar stairs, and tried to push a twelve-page fax through the copper trunk at ten-fifty-two this morning, they're still moving inside the house's walls.
+Wait. If they bolted out of the coal chute at midnight when Hollis came down the cellar stairs, after pushing that ledger scan through the copper trunk before dawn yesterday, they're still moving inside the house's walls.
 
 I swing the cedar louver shut and turn back toward the blistering-hot radiator beside the draftsman's table.
 
@@ -875,7 +868,7 @@ It's a full sheet of heavy cream, red-ruled ledger paper. Along the left margin 
 
 I smooth the warm paper flat on the draftsman's table beneath the gray window light.
 
-Three guest names sit logged in neat faded ink at the top for Tuesday, December 2: *Arthur Vane — Master*, *Celeste Vane — Master*, *Mara Abbott — Room 4*. Beneath them, filling the blank lower half of the page in rapid, left-slanting blue cursive, sits a hand-drawn schematic of the **Stone Icehouse** behind the kitchen wing.
+Three guest names sit logged in neat faded ink at the top for Tuesday, December 2: *Arthur Vane — Master*, *Celeste Vane — Master*, *Mara Abbott — Room 4*. Beneath them, filling the blank lower half of the page in cramped, back-slanted blue cursive, sits a hand-drawn schematic of the **Stone Icehouse** behind the kitchen wing.
 
 Arrows point from the exterior icehouse floor down into a rough rectangle labeled: *A.V. — ROCK SALT / SAWDUST — DIED TUES 11:40 PM*. Beside it, a second arrow points down the back wall of the icehouse into a shaft marked: *COAL CHUTE TO BOILER — NO LOCK ON FLAP.* In the margin sits one final word, underlined twice in heavy ink: *LEDGER IN WALL.*
 
@@ -889,7 +882,7 @@ Wet boots stride fast across the Great Hall flagstones below, followed by the sh
 
 ---
 
-# Chapter 10
+## Chapter 10
 
 I don't try the third-floor stairs. Whoever just snapped a shotgun safety off in the Great Hall is already climbing the main oak flight below, and meeting twelve-gauge buckshot on a narrow pine landing leaves zero room to duck.
 
@@ -971,7 +964,7 @@ A piercing buzzer erupts through the corridor outside—loud enough to rattle th
 
 ---
 
-# Chapter 11
+## Chapter 11
 
 The red alarm buzzer rattles the plaster walls, sharp enough to set my molars on edge.
 
@@ -999,7 +992,7 @@ Bitter night air hits my face like a slap. Fat, wet flakes swirl down out of a p
 
 The wind cuts across the back clearing, carrying the sharp tang of woodsmoke from the lodge chimney and the damp, metallic bite of fresh snow. Farther out toward the front drive, Pike's heavy flashlight beam sweeps once across the snow-covered spruce boughs near the porch, then clicks off as he takes up post by the main steps.
 
-I pull the sliced Guest Ledger page from my inside breast pocket, shielding the paper under my coat lapel while I click my penlight on for three seconds. Maya's left-slanting blue-ink schematic sits crisp against the ruled margin: a rough box labeled *ICEHOUSE — BEHIND WOODSHED*, an arrow pointing straight to *A.V. — ROCK SALT / SAWDUST — DIED TUES 11:40 PM*, and a dotted line running from the back wall labeled *COAL CHUTE TO BOILER — NO LOCK ON FLAP*.
+I pull the sliced Guest Ledger page from my inside breast pocket, shielding the paper under my coat lapel while I click my penlight on for three seconds. Maya's cramped, back-slanted blue-ink schematic sits crisp against the ruled margin: a rough box labeled *ICEHOUSE — BEHIND WOODSHED*, an arrow pointing straight to *A.V. — ROCK SALT / SAWDUST — DIED TUES 11:40 PM*, and a dotted line running from the back wall labeled *COAL CHUTE TO BOILER — NO LOCK ON FLAP*.
 
 I click the penlight dark, tuck the ledger sheet back inside my wool coat, and skirt the dark timber wall of the woodshed. Passing the three silent Arctic Cat snowmobiles, I notice one of the red plastic fuel jerrycans that sat stacked beside the cordwood rack earlier is gone—only a square melted ring in the crusted snow marks where it stood.
 
@@ -1057,7 +1050,7 @@ A tin jerrycan thuds down into the snow outside, followed by the rapid crunch of
 
 ---
 
-# Chapter 12
+## Chapter 12
 
 Raw gasoline fumes thicken under the icehouse threshold, sharp enough to water my eyes and coat the back of my tongue in the pitch dark.
 
@@ -1147,7 +1140,7 @@ A cold, ink-stained hand clamps tight across my mouth in the pitch dark, pressin
 
 ---
 
-# Chapter 13
+## Chapter 13
 
 Below the floorboards of the pipe-chase junction, Hollis kicks through a pile of broken brick and furnace clinkers, coughing hard as black petrol smoke pours out of the shattered coal-chute mouth into the boiler vault.
 
@@ -1201,19 +1194,19 @@ I take two slow swallows, washing the coal grit off my tongue, then hand the ste
 
 "And the margin note," I say, tapping *Don't trust him.* "Why not write my name? Why not tell me where to look?"
 
-"Because if Hollis saw *Clara* on the lobby Guest Ledger, he'd know *Mara Abbott* was tied to Boston's auditor," Maya says sharply, her eyes bright in the red light. "He would have burned this house down with me in the walls before you ever left Portland. *Don't trust him* looked like a dead-end archivist warning about Arthur—something Sloane would tape to your briefing photo without a second thought, while only you would know my left-handed cursive."
-
-"And you knew Hollis would slice the page out."
-
-"He took his skinning knife to it Wednesday dusk while my alias was still wet on the bottom line," Maya says. "He was already in the Great Hall burning duplicate clinical manifests when your headlights hit the gate."
-
-She reaches out and taps the brass **ROOM 4 — ATTIC EAST** tag resting in my palm.
-
-"Hollis ducked into the study for his shotgun," Maya whispers. "I had ninety seconds. I dropped down the pantry dumbwaiter, grabbed the hide glue off the butler's shelf, and pressed that tag onto the tacky spine so you'd know where to look if he locked you in. I climbed back up before he threw the third-floor deadbolt—then rode the car right back down past you when he cut the generator, leaving the glue bottle in the tray."
+"Because if Hollis saw *Clara* on the lobby Guest Ledger, he'd know *Mara Abbott* was tied to Boston's auditor," Maya says sharply, her eyes bright in the red light. "He would have burned this house down with me in the walls before you ever left Portland. *Don't trust him* looked like a dead-end archivist warning about Arthur—something Sloane would tape to your briefing photo without a second thought, while only you would know my cramped, back-slanted cursive."
 
 "You rigged the boiler damper too," I say, nodding toward the scalding copper riser humming beside my knee. "Eighteen gallons of fuel oil in forty-eight hours."
 
 "If I froze to death in the rafters, nobody was ever going to read what's inside this oilskin," Maya says, pulling her knees tighter to her chest as the chill from my wet coat radiates through the tight space. "Hollis cracked two of my ribs Tuesday night when he caught me in the study hallway—I barely made it into the dumbwaiter before he fired."
+
+"Wait—you were inside the study when Arthur died?" I ask, keeping my voice low enough that it barely carries past the copper pipe.
+
+"I was behind the walnut desk photographing the ledger when he walked in at eleven-thirty-eight," Maya whispers, her fingers tightening on her knees. "He had a massive cardiac spasm on the rug and begged Celeste for his nitroglycerin spray. She walked over to the apothecary cabinet, pumped a tampered canister twice under his tongue, and washed it down with brandy rimmed with crushed *VaneCor* powder. She watched the mantel clock until he stopped breathing at eleven-forty—and then she screamed for Hollis."
+
+"The same Hollis who torched your apartment in Burlington?"
+
+"I saw his right hand on the steering wheel of his pickup outside the fire six years ago," Maya says grimly. "Missing the top joint of his ring finger. And when you arrived at dusk yesterday while he was out padlocking the barn, I slipped down the dumbwaiter, sliced my page out of the lobby Guest Ledger so he wouldn't spot my margin note, and glued the Room 4 brass tag over the tear so you'd find the Icehouse map I left in the radiator."
 
 ***
 
@@ -1238,7 +1231,9 @@ She flips past sixty pages of handwritten farm deliveries, timber leases, and ca
 My beam catches a fresh blue sticky-note tab Maya left on the margin, right beside six neat columns of wire transfers.
 
 > *CASE #VT-20-114 (PEDIATRIC CARDIAC / HYPOTHERMIA RECLASSIFICATION) — $145,000.00*
+>
 > *DISBURSED VIA: STATE STREET ESCROW ACCT #884-19B (BOSTON)*
+>
 > *COURIER / CLEARANCE: H. GREER*
 
 I reach into my breast pocket and lay the **charred Vane Biotech voucher corner**—the one I pulled out of the Great Hall hearth yesterday evening—flat against the ruled margin. The `$145,000.00` payout figure matches to the cent.
@@ -1253,7 +1248,7 @@ On the right line, written in crisp, slanted black ink above the printed title *
 
 ---
 
-# Chapter 14
+## Chapter 14
 
 Under the shielded cone of my penlight, the **Caretaker's Ledger** feels cold and heavy in my lap, its rag-paper pages stiff from six years in an oiled shroud.
 
@@ -1281,7 +1276,7 @@ At the bottom of every single page, Arthur Vane's signature sits on the left lin
 
 "Which means Sloane doesn't want justice," Maya says, her dark eyes flat in the dim light. "She needs Arthur's corpse found before five o'clock tomorrow so she can hand her bondholders their thirty-eight million—and she needs this ledger burned before anyone connects her escrow account to the dead kids."
 
-I close the calfskin cover gently and tie the hemp twine back around the oiled canvas. Every piece of the last thirty-six hours clicks into place with ugly symmetry: the $15,000 advance wired before I even crossed the state line, the rush to beat a Friday storm, the brass skeleton key Sloane dropped into my palm at Becky's Diner. My head throbs from coal soot, freezing drafts, and thirty hours without real sleep. Sloane didn't hire me because I was a good forensic auditor; she hired me because my Maine PI license was freshly restored, I was hungry enough to ignore a rushed NDA, and she figured I'd stumble over Arthur's body in the dark while she cleaned up the rest. And if Hollis killed me before Friday afternoon, nobody in Portland or Boston would look twice at a dead private investigator with an expired bond history.
+I close the calfskin cover gently and tie the hemp twine back around the oiled canvas. Every piece of the last thirty-six hours clicks into place with ugly symmetry: the forty-five-thousand-dollar contract she dangled at Becky's Diner, the rush to beat a Friday storm, the brass skeleton key Sloane dropped into my palm. My head throbs from coal soot, freezing drafts, and thirty hours without real sleep. Sloane didn't hire me because I was a good forensic auditor; she hired me because my Maine PI license was freshly restored, I was hungry enough to ignore a rushed NDA, and she figured I'd stumble over Arthur's body in the dark while she cleaned up the rest. And if Hollis killed me before Friday afternoon, nobody in Portland or Boston would look twice at a dead private investigator with an expired bond history.
 
 ***
 
@@ -1339,7 +1334,7 @@ Maya's hand tightens around the oilskin-wrapped **Caretaker's Ledger** against h
 
 ---
 
-# Chapter 15
+## Chapter 15
 
 By ten-forty-five, the voices downstairs grow sharper, carrying clearly up the dry air of the brick pipe chase behind Room 4.
 
@@ -1365,7 +1360,7 @@ Celeste's chin lifts a fraction. "Arthur left the house on his own, Sloane. Holl
 
 Hollis spits a dark stream of wintergreen juice straight into the birch embers, where it hisses against the hot stone.
 
-"Your investigator's dead, Miss Mercer-Hall," Hollis says flatly, his scarred right hand shifting along the shotgun fore-end. "She went down the icehouse coal chute two hours ago when the whole timber roof went up in petrol. You're welcome to dig through the ash pit tomorrow morning if you want what's left of her."
+"Your investigator's dead, Miss Mercer-Hall," Hollis says flatly, his scarred right hand shifting along the shotgun fore-end. "She went down the icehouse coal chute two hours ago when the timber gable vent went up in petrol. You're welcome to dig through the ash pit tomorrow morning if you want what's left of her."
 
 My chest tightens against the cold oak floorboards.
 
@@ -1391,7 +1386,7 @@ Hollis's jaw goes rigid, the muscle bunching beneath his gray stubble. He stares
 
 Hollis spits again, narrowing his eyes. "You didn't drive four hours in a blizzard just to lecture us about an auditor, Miss Mercer-Hall."
 
-"No," Sloane says evenly. "Six years ago, Arthur swore to me every paper copy of the 2020 escrow disbursements had been burned. When that anonymous fax hit my Boston desk Tuesday night, I assumed Mara Abbott sent it before stumbling onto Arthur's murder—not my old signatures. I wired a tracker into Clara Vance's portfolio so she'd lead me straight to Arthur's body before five o'clock tomorrow—until she flipped that fax over at Becky's Diner and went dead silent."
+"No," Sloane says evenly. "Six years ago, Arthur swore to me every paper copy of the 2020 escrow disbursements had been burned. When that anonymous fax hit my Boston desk Wednesday morning, I assumed Mara Abbott sent it before stumbling onto Arthur's murder—not my old signatures. I wired a tracker into Clara Vance's portfolio so she'd lead me straight to Arthur's body before five o'clock tomorrow—until she flipped that fax over at Becky's Diner and went dead silent."
 
 "And now?" Celeste asks, her voice tight.
 
@@ -1429,7 +1424,7 @@ Before Sloane can draw whatever sits inside her coat pocket, Hollis vaults acros
 
 ---
 
-# Chapter 16
+## Chapter 16
 
 I don't move until Hollis's boots haul Sloane across the shattered glass toward the front foyer, shouting at Pike through the side sidelight.
 
@@ -1463,7 +1458,7 @@ I crouch beside the cast-iron **ash-pit damper**. The heavy vertical baffle sits
 
 Behind the furnace, a short concrete stair rises to the **exterior cellar bulkhead**, its angled timber doors barred from the inside by a heavy wrought-iron crossbar dropped into steel brackets. Snow packs silently against the frosted glass light-well beside the frame. Knowing that inside bar is seated—and knowing how easily someone could wedge it from outside in the snow—tells me this basement isn't an exit if the kitchen stairs get cut off.
 
-Next, I cross to the oil drum rack beside the stairs, note the red float sitting near the bottom quarter of the tank's sight glass, and lift a spare, unopened **gallon tin of lamp kerosene**—the same high-flash fuel Hollis used to burn the clinical manifests in the hearth yesterday. The tin sloshes heavy against my hip as I carry it quietly up the cellar steps and stash it inside the dark broom alcove just inside the pantry swing-door, where either Maya or I can reach it without crossing the Great Hall.
+Next, I cross to the oil drum rack beside the stairs, note the red float sitting near the bottom quarter of the tank's sight glass, and lift a spare, unopened **gallon tin of lamp kerosene**—the same high-flash fuel Hollis used to burn the clinical manifests in the hearth Wednesday night. The tin sloshes heavy against my hip as I carry it quietly up the cellar steps and stash it inside the dark broom alcove just inside the pantry swing-door—tucking the sealed evidence baggie with Celeste's charred spray canister, the crystal brandy stopper, the folded *VaneCor* strips, and the Survivorship Covenant behind the tin so I don't lose them if Hollis corners me in the hall.
 
 My gauze-wrapped right hand is gray with coal soot and grease. I wipe my knuckles on my wool trousers, step silently up to the cracked pantry swing-door, and peer through the narrow hinge gap into the **Great Hall**.
 
@@ -1507,171 +1502,9 @@ Cold steel presses tight behind my right ear as **Hollis Greer** steps out of th
 
 ---
 
-# Chapter 17
+## Chapter 17
 
-Six years earlier, the Burlington biostatistics office hummed with dead-hour fluorescent buzz and the dry hiss of an old radiator against rain-streaked glass.
-
-At twenty-one, Maya Vance sat alone at her corner terminal past nine o'clock on an October Tuesday, watching three pediatric EKG strips scroll across her monitor. Every baseline trace showed the exact same jagged QT-interval spike forty-eight hours after the escalated *VaneCor* dose from batches *VC-09-412* and *VC-09-418*. Yet the clinical closeout sheets filed with the Boston underwriters listed all three children under *non-drug environmental fatalities*—two accidental hypothermia deaths in Essex County and one winter creek drowning outside St. Johnsbury. Even the county death timestamps were staggered by twelve hours to keep the trial safety board from flagging a cluster.
-
-Maya printed the raw variance tables, folded the sheets inside her canvas satchel alongside her fountain pen, and walked three blocks through freezing October rain to the coin laundromat on Pine Street.
-
-When she walked back up the hill forty minutes later, orange flames were already punching through the second-floor sash windows of her apartment. The wet night air stank of lamp kerosene and scorching pine lath. A dark pickup idled across the street with its headlights off, rainwater beading thick across the hood. Through the wet windshield glass, Maya caught a brief glimpse of a square-jawed man in a canvas chore coat resting his right hand on the steering wheel—missing the top joint of his right ring finger.
-
-Maya backed silently into the narrow brick alley behind the laundromat, pressing her damp wool coat flat against a rusted steel dumpster as distant fire sirens wailed up from the waterfront. Her hands shook so hard in the cold rain she could barely zip her canvas satchel shut over the EKG printouts and the single copied escrow slip bearing *Mercer-Hall Fiduciary*'s State Street account header.
-
-She didn't go to the Burlington police, and she didn't call Clara in Portland. All she had were unsigned raw EKG printouts—nothing proving who authorized the hush-money wire—and within twelve hours of the apartment fire, *Vane Biotech* filed a felony complaint framing her for stealing proprietary clinical data. Walking into a precinct meant getting locked in a holding cell before anyone read her charts. If Vane Biotech's fixers knew where she lived, they would check her sister's address next, and Clara was already fighting enough battles on the waterfront. Maya boarded a midnight Greyhound south with forty dollars in her pocket, cut her hair short in a bus-station sink, and spent six years working seasonal library and estate-archivist contracts in Portsmouth, Bangor, and Montpelier under borrowed names—never once calling Clara on her birthday—until a private fiduciary audit listing brought **Mara Abbott** to Blackthorne Lodge.
-
-For six weeks at Blackthorne, Maya catalogued nineteenth-century timber deeds in the cold east parlor by day and mapped every service shaft, dumbwaiter pulley, and sub-basement pipe chase by night—waiting for Arthur Vane to leave his study unlocked. She kept her blue inkwell tucked inside her boot liner and slept with one ear tuned to the caretaker's heavy Vibram boots on the stairs below.
-
-***
-
-On Tuesday night—twenty hours before Clara's Civic climbed the logging road—the December blizzard rattled the study shutters like dry gravel.
-
-Maya stood barefoot in wool socks behind Arthur Vane's walnut desk, shielding the tiny green screen of her digital camera with her sweater sleeve. A half-smoked clove cigarillo sat cold in the brass ashtray beside the blotter, and the house generator hummed steady beneath the wind while frost crept across the lower corners of the window sashes behind the heavy velvet drapes.
-
-She had waited until midnight to pick the mahogany apothecary lock with a bent bobby pin. Inside, wrapped in oiled brown canvas behind a row of bound tax ledgers and a crystal brandy decanter, lay the **Caretaker's Ledger**. Beside the decanter sat two unmarked *VaneCor* blister packs and a small mortar dusted with fine white alkaloid powder.
-
-Maya turned the heavy rag-paper leaves carefully with her ink-stained left hand until she reached **Page 44**. Her camera shutter clicked twice, silent inside her cupped palm, capturing the `$145,000.00` escrow disbursement and **Sloane Mercer-Hall's** crisp black signature beside Arthur's scrawl. She had barely turned to Page 45 when uneven footsteps shuffled across the Great Hall flagstones—too soft for boots—and the heavy study door swung inward without a sound.
-
-Maya froze, her left hand still flat on the open ledger.
-
-**Arthur Vane** stood in the archway wearing his heavy cashmere cardigan, dark flannel trousers, and thin black dress socks—no boots, and no **orthopedic walnut cane**, which sat five paces away in the Great Hall mudroom rack. His silver beard glistened with sweat, and he leaned heavily against the oak doorframe to keep weight off his swollen left big toe.
-
-"Who the hell let you into that cabinet?" Arthur rasped, his face darkening as his eyes dropped to the open calfskin book on his blotter. "Did Boston send you up here to sniff through my drawers?"
-
-Behind his shoulder stepped **Celeste Vane**. She wore a black cashmere turtleneck, and the sharp, sweet scent of **compounded lavender cuticle oil** reached Maya's nostrils before Celeste even crossed the rug. Her right palm brushed the crystal brandy stopper on the apothecary tray as she stepped past the bookcase, leaving a faint oily sheen across the faceted glass. She didn't look surprised to see the archivist standing behind her husband's desk; her pale eyes flicked once to the open *VaneCor* blister packs beside the decanter and then straight back to Arthur's graying face.
-
-Arthur lurched two steps toward the desk, his right hand snatching at the ledger corner—then stopped dead in the center of the wool rug. His chest heaved once, sharp and shallow. Both hands flew to his sternum as his knees buckled, dropping him onto one hip beside the mahogany chair.
-
-"My spray," Arthur choked out, his lips turning slate-gray in the desk lamp glow. "Celeste—the cabinet—now."
-
-Celeste didn't hurry. She walked calmly to the open apothecary shelf, lifted a silver **nitroglycerin rescue-spray canister** between her pale, steady fingers, and knelt beside her husband on the rug. Maya watched from behind the desk as Celeste tilted Arthur's chin back, pressed the tampered nozzle twice beneath his tongue, and held a crystal brandy glass—already rimmed with faint white powder at the base—against his lower lip. She didn't look at Arthur's eyes; she watched the brass mantel clock tick past eleven-thirty-nine.
-
-Arthur swallowed once, his throat clicking dryly. His fingers twitched once against the wool rug pile. Then his eyes rolled upward toward the dark rafters, his right hand curling empty against his thigh.
-
-At **11:40 PM**, Arthur Vane stopped breathing on the study rug.
-
-***
-
-Celeste didn't check for a pulse, and she didn't reach for the landline telephone beside the blotter. She stood up smoothly, slipped the silver canister into her cashmere pocket, and looked straight across the desk at Maya. In the lamplight, Celeste's pale face showed no grief at all—only the sharp, cold arithmetic of a woman who knew Friday's five o'clock vesting deadline was still seventy-two hours away.
-
-"Hollis!" Celeste screamed toward the hall, her voice ringing sharp off the flagstones. "She's in the study! She's got the book!"
-
-Maya didn't wait for the caretaker to clear the foyer. She slammed the calfskin **Caretaker's Ledger** shut, hugged it tight against her ribs, and bolted left through the narrow service door into the dark butler's pantry.
-
-Heavy Vibram boots thundered across the Great Hall behind her, sliding once on the polished oak threshold.
-
-Maya lunged for the wooden dumbwaiter hatch just as the pantry swing-door exploded inward. A deafening **shotgun blast** tore through the oak frame inches from her shoulder, showering her neck with hot pine splinters and driving her sideways against the brick shaft lip. White-hot pain lanced through her lower left ribs as she hauled herself headfirst into the wooden car, kicked the hatch shut, and dragged herself hand-over-hand up the frayed hemp rope toward the third floor. Blood soaked warm into the left side of her gray wool sweater before she reached the attic landing, and every pull on the pulley rope scraped raw blisters across her palms.
-
-An hour later, after the house went quiet while Hollis and Celeste worked in the yard, Maya slipped down the pipe chase to the sub-basement boiler room and threw the manual brass damper wide—diverting heat straight up the **East Attic riser** into **Room 4** so she wouldn't freeze to death while hiding behind the chimney stack. Back behind the false cedar louver, she wrapped yellowed medical tape tight around her bruised ribs, biting down on her wool sleeve so she wouldn't groan aloud, and scraped a thumbnail peephole through the frost on the east gable pane.
-
-Below in the blowing blizzard, Hollis Greer backed his Ford F-250 out of the carriage barn without headlights, dragged a blue poly tarp out of the kitchen larder toward the stone icehouse, and packed Arthur's body under rock salt and sawdust. Then Hollis and Celeste walked out to the three Arctic Cat snowmobiles with a brass hand-pump and two red jerrycans, draining every drop of fuel from the tanks while turning the ignition keys to `ON`. When Hollis tramped back up the porch steps an hour later, he padlocked the carriage barn doors from the outside and tossed his spare *VaneCor* manifest crates into the truck bed.
-
-Maya knew she couldn't survive a week in the attic with cracked ribs, and she knew Hollis would never let her walk down the logging road alive. Even if she reached the iron gates on foot, the county road was unplowed and six miles from the nearest farmhouse.
-
-Before dawn, while Hollis drove down the unplowed ridge in his pickup to pay Enoch Pike's plow retainer, she crept down the service chase to the dark second-floor caretaker's office, where the estate backup fax line carried barely thirty seconds of dial tone before Hollis severed the exterior junction box. With no time to feed a forty-four-page ledger through a thermal modem, her fingers trembled from blood loss and cold as she pulled a folded photocopy of the lobby **Guest Ledger** from her satchel—signed at the bottom under her *Mara Abbott* alias. Two weeks earlier, logging Arthur's estate files on *Mercer-Hall Fiduciary*'s estate-trust archive portal, Maya had seen the internal Salt Point escrow alert flagging Clara Vance as Sloane's new primary quiet-clean field contractor. She couldn't risk writing Clara's name where Hollis might read it and burn the lodge down around her. Instead, she pressed her left-handed fountain pen into the margin with **Noodler's Prussian Blue** ink and wrote three words in the exact slanted cursive with the looping `m` tail her sister had teased her about since grade school: *Don't trust him.*
-
-She fed the single cropped sheet into *Mercer-Hall Fiduciary*'s overnight Boston compliance fax line, listening to the modem tones squeal softly in the dark before the paper dropped into the catch tray and the green transmission LED blinked steady—knowing Sloane would hand it to Clara as a missing-archivist exhibit, and praying Clara would recognize her hand.
-
----
-
-## Chapter 18
-
-Wednesday dusk settled over Blackthorne Ridge like wet slate.
-
-Hollis Greer stood in the Great Hall beside the fieldstone hearth, letting the warmth thaw the stiffness from his knees. His size-eleven Vibram boots smelled of diesel exhaust and pine slush from the carriage barn. Five minutes earlier, he had backed the charcoal F-250 inside the timber stalls, snapped the heavy brass padlock shut on the exterior doors, and oiled the front oak mortise lock so the deadbolt would turn without a squeak.
-
-A tin of wintergreen tobacco sat tucked inside his lower lip. He spat into the birch logs, then uncapped a metal gallon can of lamp kerosene.
-
-The girl—Mara Abbott, or whatever name she had forged on her Burlington library card—had gotten a transmission out before he severed the junction box in the cellar. He knew it because the thermal fax tray in Arthur's study still held the warm curl of a test-page header routed to a State Street number in Boston. She had been bleeding from the grazing shot along her ribs since Tuesday night, hiding somewhere in the walls like a trapped rat, and still she had found a way to signal someone down on the coast.
-
-Hollis tipped the kerosene can over the neat stack of duplicate *VaneCor* clinical manifests piled on the iron grate. Thick, greasy fumes rose instantly, biting the back of his throat. He struck a wooden kitchen match against the fieldstone mantel and dropped it onto the wet bond paper.
-
-Yellow flame jumped across the typed columns, curling the edges black. Within seconds, the heat drove the smell of burnt paper and kerosene up toward the rafters. He watched the manifests collapse into gray birch ash, making sure no legible corner survived the draft.
-
-Arthur was dead, packed under dry salt-ice inside the granite icehouse where his body temperature would hold steady until the wind died. Forty-eight hours left until Friday at five o'clock, when the thirty-eight-million-dollar survivorship clause vested to Celeste and the estate cleared its audit. Nobody from Boston was supposed to reach the ridge before Enoch Pike's plow cleared the county road on Saturday morning. Hollis had driven down to the turnaround an hour ago solely to hand Pike his winter retainer envelope in person and haul back two fresh cans of kerosene. The heavy mud-terrain tires had cut deep ruts through the gate drift on the climb back up, though another hour of wind off the ridge would erase them clean.
-
-Hollis crossed the flagstones to the slanted oak lectern beside the study archway.
-
-The maroon-leather Guest Ledger lay open to the current week. Near the top right margin, written in a cramped, left-leaning cursive with dark blue ink, sat the single line Mara had photographed before she ran.
-
-*Don't trust him.*
-
-Hollis set his bare right hand flat against the leather binding to steady the spine. His fingers were stiff from the cold outside, stained near the knuckles with gun oil and dark pine resin from the barn latch. Where the distal tip of his ring finger was missing, the scarred stump pressed just shy of the margin, leaving a clean three-point smudge of oil and resin across the maroon leather.
-
-He drew his straight-edged skinning blade from his belt sheath.
-
-Resting the flat of the steel against the inner gutter, Hollis pulled the blade straight down along the glued binding. The cream paper parted with a crisp hiss. He tugged the freed sheet clear, folded it twice, and jammed it into his wool coat pocket—missing the tiny triangular scrap at the bottom right corner that caught beneath the heavy brass desk weight and tore off with the final downward tail of a blue cursive *m*.
-
-He turned back toward the hearth to feed the stolen sheet to the coals.
-
-Down at the bottom of the private drive, pale twin beams cut through the black spruce.
-
-Hollis froze beside the lectern.
-
-Through the narrow gap between the shutter slats of the front sidelight, headlights swept across the wrought-iron gate pillars, paused at the drift, and then died. No engine revved to climb the grade. Whoever had just reached the gate was coming up on foot.
-
-He checked his pocket watch. Four-forty. Pike had promised an hour ago at the county turnaround that no passenger car could clear the lower switchbacks without chains, and even with chains, nobody turned off the state road unless they already knew the lodge was there.
-
-Boston had sent someone anyway.
-
-Hollis left the sliced Guest Ledger open on the oak lectern, the brass desk weight still pinning the torn blue corner. He crossed quietly through the archway into Arthur's walnut study, checked the brass dial on the wall safe behind the survey maps to verify the *VaneCor* master binders were still gone, and knelt beside the gun cabinet. He pulled his twelve-gauge pump shotgun from the cedar rack. Two brass buckshot shells slid into the magazine tube until the spring clicked tight.
-
-From the second-floor West Wing, not a sound reached the study. Celeste was keeping behind the shuttered guest suite as ordered, nursing her nerves and waiting for Friday afternoon. She had no stomach for blood or soot, which suited Hollis fine as long as she stayed out of his sightlines.
-
-Ninety seconds. That was all it took for him to step down the back service hall, check the cellar bulkhead bolt from the inside to be sure Mara hadn't pried it loose, and test the kitchen pantry latch. Everything held. He climbed the narrow rear stairs to the third-floor landing so he could watch the front door from above, his rubber soles silent on the waxed pine treads. If a state auditor or a Mercer-Hall lawyer was walking up the drive in the dark, he wanted the high ground before the front oak lock turned.
-
-By the time Hollis reached the third-floor corridor, the heavy brass mortise lock downstairs clicked once.
-
-He froze.
-
-Cool air drafted up the stairwell from the Great Hall, carrying wet wool, pine needles, and the faint clink of keys. Someone had stepped inside.
-
-Hollis eased forward onto his right boot at the top of the attic threshold. Beneath his heel, a dry floorboard groaned loudly in the quiet rafters.
-
-Downstairs, every footstep stopped.
-
-Hollis didn't wait for the visitor to look up—and he didn't want Mara slipping down behind him while he dealt with Boston. He stepped back onto the stairwell landing, pulled the heavy oak-and-iron fire door shut, and turned the oiled deadbolt from the outside—snapping a spare broken key tip into the warded cylinder to jam it tight before slipping silently down the back service stairs to padlock the front porch storm door.
-
-***
-
-On the Great Hall flagstones, Friday morning arrived in a blind blur of copper dust and rope burn.
-
-Two o'clock.
-
-Hollis knelt with one heavy boot planted square between Clara Vance's shoulder blades, driving the air out of her lungs against the cold stone. Beneath his knee, she didn't thrash or beg. Her right hand twitched once toward her deep wool coat pocket, as if reaching for a hidden blade or a key, before he wrenched both wrists behind the small of her back and cinched a thick black nylon zip tie through the ratchet until the plastic bit into her wool cuffs. Her faded navy duffel lay kicked open three paces away beside the study archway, its leather NDA portfolio sliced down the spine.
-
-"Check her pockets, Celeste," Hollis said. His left shoulder ached where the chandelier glass had grazed him an hour ago, and his throat felt raw with smoke. A fresh pinch of wintergreen stung his lower gum, metallic and sharp.
-
-Celeste stood two paces back near the study archway, holding Arthur's heavy brass desk weight by one corner like a butcher's cleaver. Her pale hair hung loose around her collar, and her hands shook from the cold drafting off the shattered clerestory glass.
-
-"She's not carrying the ledger," Celeste said. She didn't step closer to the flagstones. "Look at her coat. Nothing thick enough for a bound book."
-
-"She found it," Hollis said. He pulled a second zip tie from his belt with his teeth, looped it over the first for insurance, and jerked the tail tight with his scarred right hand. "You heard her up in the gallery before the glass came down. She and her sister had an hour alone in this house while you were locked in the study waiting for the wire."
-
-Across the hearth, Sloane Mercer-Hall sat slumped in the worn leather armchair, white nylon rope knotted tight around her elbows and ankles. A dark plum bruise swelled along her left cheekbone where Hollis had clipped her with the shotgun butt. Her camel hair coat was smeared with gray hearth ash, and her eyes stayed fixed on Clara.
-
-Hollis hooked two fingers into Clara's wool collar and hauled her upright onto her knees beside the stone hearth, spinning her toward the firelight.
-
-He let his boot drop off her back and stepped clear, bringing the twelve-gauge barrel up until the cold steel muzzle hovered just under Clara's chin. Her left cheek was scraped raw from the flagstones, dark blood beading along her temple, yet her gray eyes didn't drop from his face.
-
-"I burned out a house in Burlington six years ago to keep your little sister quiet," Hollis said, keeping his voice low enough that it wouldn't carry up the dumbwaiter shaft. "Then she walked into my lodge under a fake name and stole my ledger out of a dead man's study."
-
-Clara swallowed once. Her chest rose and fell in shallow, measured pulls. "You missed her rib in the dark," she said. "And you missed the cellar phone line before she sent the scan."
-
-Hollis shifted the shotgun stock tighter against his shoulder. The birch coals behind him threw dry heat across the back of his neck. Somewhere above the rafters, the wind rattled the loose tin flashing on the east gable, steady and cold.
-
-"Where did Mara hide the Caretaker's Ledger?" he asked. "Tell me before I put a slug through Sloane's kneecap and let you watch her bleed out on Arthur's rug."
-
-Sloane didn't flinch in the leather chair, though her jaw locked white under the ash smudge.
-
-Clara looked past the shotgun barrel, straight at the glowing grate where the black iron poker rested among the birch coals, its hooked tip already turning dull orange in the draft. Her wrists shifted slightly behind her back, hidden against the folds of her wool coat.
-
-"Not in the house," Clara said.
-
----
-
-## Chapter 19
+When my vision clears, Hollis's heavy boot is planted square between my shoulder blades, and he's wrenching my wrists behind my back to cinch a second black nylon zip tie over the first. He hauls me upright onto my knees beside the stone hearth, levels the twelve-gauge barrel beneath my chin, and demands to know where Mara hid the Caretaker's Ledger.
 
 My wrists are numb where the double nylon ratchets bite into my wool cuffs.
 
@@ -1693,13 +1526,11 @@ Celeste reaches into my right coat pocket first. Her cold knuckles brush my ribs
 
 Sloane's jaw tightens when the transceiver hits the stone. Cracked plastic. The recessed green status light remains dead, though the silver uplink fob beside it catches a dull orange glint from the birch coals. She knows what I tried to do in the gallery before Celeste swung the brass weight, and she knows we only have one shot left at getting an emergency packet out over the ridge.
 
-Next, Celeste drags out the heavy brass skeleton key, the snapped steel key tip, the yellow legal pad, and the sealed zip-top plastic evidence baggie holding both the wrapped crystal brandy stopper and the half-charred silver *nitroglycerin* rescue-spray canister. Her breath catches sharply. She stares down at the blackened metal cylinder resting beside the glass stopper, and for a second the color drains completely out of her cheeks.
+Next, Celeste drags out the heavy brass skeleton key, the snapped steel key tip, and the yellow legal pad, tossing them beside the multi-tool. She flips through the pad's blank lower pages, her mouth tightening at the short probate notes from the Master Suite.
 
-"She took that from the master suite," Celeste says, her voice thin and brittle. She whips her hand back as if the plastic baggie burned her. "Hollis, she's been through my vanity."
+"Keep going," Hollis says, his boot shifting on the flagstones.
 
-"Keep going," Hollis says.
-
-Celeste shoves her hand into my inner breast pocket, yanking out the folded *VaneCor* strips, the charred voucher corner, the three-page Survivorship Covenant, and the flat stamped brass room tag. She glances down at the stamped letters—**ROOM 4 — ATTIC EAST**—and scoffs once under her breath.
+Celeste shoves her hand into my inner breast pocket, patting the lining flat before yanking out only the stamped brass room tag. She glances down at the stamped letters—**ROOM 4 — ATTIC EAST**—and scoffs once under her breath.
 
 "A room key tag," she says, tossing the flat brass rectangle onto the flagstones right behind my heels. "She's not carrying the ledger, Hollis. I told you."
 
@@ -1785,7 +1616,7 @@ The Great Hall hearth detonates in a roaring geyser of scalding white steam, wet
 
 ---
 
-## Chapter 20
+## Chapter 18
 
 Scalding white steam hits my cheeks like a wet wool blanket, stinging the raw scrape along my jaw.
 
@@ -1801,7 +1632,7 @@ I twist my right wrist awkwardly behind my back, wedge the steel handle against 
 
 Beside me, Sloane coughs violently into her camel hair collar, straining against the white nylon rope around her elbows. "Clara—"
 
-"Stay down behind the leather wing," I whisper, scooping up the cracked **Iridium satellite burst-transceiver**, Sloane's silver uplink fob, my keys, the wrapped **crystal brandy stopper**, and the **half-charred rescue-spray canister** off the wet apron and shoving them deep into my right coat pocket. My split index finger stings sharply against the cold metal keys. I grab the folded *VaneCor* strips and the three-page Survivorship Covenant with my other hand, cramming them inside my wool coat, and leave the sodden yellow legal pad behind in the ash.
+"Stay down behind the leather wing," I whisper, scooping up the cracked **Iridium satellite burst-transceiver**, Sloane's silver uplink fob, and my keys off the wet apron and shoving them deep into my right coat pocket. My split index finger stings sharply against the cold metal keys, and my bruised knees ache against the wet stone flags as I leave the sodden yellow legal pad behind in the wet gray birch ash.
 
 Sloane twists her bound wrists against the white nylon rope, her voice tight against the steam. "He's got a backup revolver in his chore coat, Clara—get out of the hall."
 
@@ -1859,7 +1690,7 @@ I catch her by the elbow before her knees buckle, steadying her against the cold
 
 "I heard Hollis's voice in the chimney chase," Maya whispers, pressing her ink-stained palm against her bruised side as she glances toward the shaking kitchen door. Her breath whistles thinly through clenched teeth. "He's got a snub-nose revolver in his chore coat—I saw him load it in the barn Tuesday night. We can't go out the front."
 
-I reach into the dark **broom alcove** beside the dumbwaiter shaft and haul out the spare **gallon tin of lamp kerosene** I stashed there an hour ago, hooking my fingers through the cold wire bail. "Sub-basement," I tell her, nodding toward the narrow cellar stair door behind the flour bins while shifting Arthur's walnut cane into my left hand. "I rigged the ash-pit counterweight on the coal chute. We climb out through the stone icehouse."
+I reach into the dark **broom alcove** beside the dumbwaiter shaft, shove the stashed evidence baggie and Covenant back into my coat pocket, and haul out the spare **gallon tin of lamp kerosene** I left there an hour ago, hooking my fingers through the cold wire bail. "Sub-basement," I tell her, nodding toward the narrow cellar stair door behind the flour bins while shifting Arthur's walnut cane into my left hand. "I rigged the ash-pit counterweight on the coal chute. We climb out through the stone icehouse."
 
 I shove the heavy oak flour chest sideways across the pantry door to buy us a few extra heartbeats, then pull the cellar latch open. Dry furnace heat and old coal dust rise from the steep wooden steps below.
 
@@ -1881,7 +1712,7 @@ As the plow blade shears past the kitchen foundation, the steel corner rips clea
 
 ---
 
-## Chapter 21
+## Chapter 19
 
 Dry furnace heat and stale coal dust hit our faces as Maya and I drop down the narrow wooden cellar stairs into the sub-basement boiler vault. Old pine treads groan beneath our wet boots, slick with tracked snow from the pantry floor.
 
@@ -1893,11 +1724,11 @@ My chest burns from coal grit and steam. Every muscle in my shoulders aches from
 
 "Here," I whisper, setting the **gallon tin of lamp kerosene** beside the furnace jacket and hooking Arthur's walnut cane under my arm so both hands are free.
 
-I drag an empty galvanized ash bucket beneath the mouth of the **brick coal chute**—the same dark tunnel I dropped through two hours ago when the icehouse roof burned. Cold night air drafts down the steep brick throat from the collapsed icehouse shingles above, carrying clean pine needles and frost against my wet cheeks. It smells like survival.
+I drag an empty galvanized ash bucket beneath the mouth of the **brick coal chute**—the same dark tunnel I dropped through two hours ago when the icehouse gable burned. Cold night air drafts down the steep brick throat from the burned-out gable vent above, carrying clean pine needles and frost against my wet cheeks. It smells like survival.
 
 Maya steps onto the overturned ash bucket, bracing her left palm against the rough mortar. Her breath catches sharply in her chest, though she doesn't make a sound—just a quick, tight grimace before she sets her jaw again. Buttoned tight inside her heavy flannel shirt, the oilskin-wrapped **Caretaker's Ledger** bulges stiffly against her ribs—six years of her life reduced to forty-four ink-ruled pages, and I am not losing her to a dark shaft tonight.
 
-"Go," I urge, cupping my hands beneath her laced leather boot heel to boost her upward into the brick throat. "Don't stop until you hit the cold stone inside the icehouse. If the roof beam shifted, stay left along the granite wall. Arthur's body is still under the salt by the north wall."
+"Go," I urge, cupping my hands beneath her laced leather boot heel to boost her upward into the brick throat. "Don't stop until you hit the cold stone inside the icehouse. If the gable framing shifted, stay left along the granite wall. Arthur's body is still under the salt by the north wall."
 
 Maya hauls herself headfirst into the narrow chute, scraping her elbows over loose coal clinkers as she drags her knees clear of the iron lip. Halfway up the shaft, she pauses just long enough to catch her breath, looking back down into the dim vault. "Clara—the bulkhead—"
 
@@ -1937,7 +1768,7 @@ I don't hesitate. I wrap the hairline copper bell-wire twice around my torn wool
 
 The counterweight pin shears free from the rusted bracket with a sharp metallic *ping*.
 
-The heavy cast-iron **ash-pit baffle** drops straight down its vertical steel tracks like a guillotine blade.
+The heavy cast-iron **ash-pit baffle** drops straight down its vertical steel tracks like a drop-forged shear.
 
 It slams onto the iron lip with a bone-jarring *clang* that shakes soot loose from the ceiling joists and rattles the furnace grates.
 
@@ -1961,17 +1792,17 @@ Seconds later, her boots race back up the rear kitchen porch steps. The upper ce
 
 No answer comes down the stairs. Only the roar of diesel flames eating along the exterior carriage-wing joists, and the sharp hiss of melting snow dripping down the granite cellar wall into the spilled kerosene.
 
-Above me, Maya's cold, ink-stained hand reaches down from the dark brick throat, her fingers locking tight around my wool sleeve to haul me upward toward the freezing night air and the snow-choked opening of the collapsed stone icehouse. Greasy black diesel smoke chases us straight up the shaft.
+Above me, Maya's cold, ink-stained hand reaches down from the dark brick throat, her fingers locking tight around my wool sleeve to haul me upward toward the freezing night air and the snow-choked opening of the charred stone icehouse. Greasy black diesel smoke chases us straight up the shaft.
 
 ---
 
-## Chapter 22
+## Chapter 20
 
 Subzero night air hits my soot-caked lungs like crushed ice as Maya hauls me up over the brick lip of the **stone icehouse**.
 
-We collapse side by side onto the frozen rock salt beside the north granite wall. Just beyond our boots, beneath a half-melted drift of sawdust and burlap, **Arthur Vane's** rigid silhouette lies exactly where I found him hours ago—still wearing his thin dress socks, his swollen left toe stiff under the salt crust. Greasy black diesel smoke curls upward from the brick coal chute behind us, and the smell of burning pine shingles hangs sharp over the damp salt air. Even in the dark, the contrast is brutal—scalding smoke rising from below while freezing wind cuts down through the collapsed roof above, turning the sweat on my collar into thin ice.
+We collapse side by side onto the frozen rock salt beside the north granite wall. Just beyond our boots, beneath a half-melted drift of sawdust and burlap, **Arthur Vane's** rigid silhouette lies exactly where I found him hours ago—still wearing his thin dress socks, his swollen left toe stiff under the salt crust. Greasy black diesel smoke curls upward from the brick coal chute behind us, and the smell of burning pine shingles hangs sharp over the damp salt air. Even in the dark, the contrast is brutal—scalding smoke rising from below while freezing wind cuts down through the burned-out gable vent above, turning the sweat on my collar into thin ice.
 
-"Up," I rasp, catching Maya's elbow and nudging her toward the splintered cedar rafters where the roof caved in during Celeste's earlier arson attempt. "Through the roof vent frame—before the smoke fills the pit and chokes us out."
+"Up," I rasp, catching Maya's elbow and nudging her toward the splintered cedar rafters where the timber gable vent burned through above the door during Celeste's arson attempt. "Through the vent frame—before the smoke fills the pit and chokes us out."
 
 Maya bites down hard against the pain in her side and climbs first, her laced leather boots finding purchase on the frosted granite blocks and charred timber lath. Twice a loose slate shingle slides beneath her heel, clattering back down onto the rock salt beside Arthur's corpse. She squeezes through the jagged **icehouse roof vent** opening into the open drift, gasping softly as she hits the crusted snow outside, then turns back to grip my wool collar and haul me clear of the soot-blackened beams.
 
@@ -2043,7 +1874,7 @@ Orange firelight glints off the missing joint of his scarred right hand. Hollis 
 
 ---
 
-## Chapter 23
+## Chapter 21
 
 The snub-nose revolver cracks once across the frosted hood of Sloane's SUV.
 
@@ -2053,9 +1884,9 @@ A chip of gray granite explodes off the gate pillar inches from Maya's ear, show
 
 Cold powder fills my boots, soaking my wool socks instantly. Right beside my hip sit the three dead Arctic Cat snowmobiles—ignition keys still turned to `ON` and brass reserve drain cocks wiped clean—next to the two **red plastic gasoline jerrycans** Hollis used Tuesday night to siphon their fuel tanks dry. Both cans are heavy, sloshing full with raw winter-grade unleaded.
 
-I grab the nearest jerrycan by its molded handle, wrench the yellow vent cap off with my teeth, and tip the open spout sideways down the shallow plow-cut trench that separates the woodshed bay from the SUV's front bumper. Thick, clear gasoline pours across the packed ice in a wide, glistening ribbon, pooling against the frozen tire ruts and biting my nostrils instantly with sharp chemical fumes that cut straight through the greasy diesel smoke from the burning carriage barn. My split index finger stings violently where cold fuel splashes across my knuckles. I toss the empty plastic can sideways into the woodshed drift so it won't explode in my hands.
+I grab the nearest jerrycan by its molded handle, wrench the yellow vent cap off with my teeth, and tip the open spout sideways down the shallow plow-cut trench that separates the woodshed bay from the SUV's front bumper. Thick, clear gasoline pours across the packed ice in a wide, glistening ribbon, pooling against the frozen tire ruts and biting my nostrils instantly with sharp chemical fumes that cut straight through the greasy diesel smoke from the burning woodshed. My split index finger stings violently where cold fuel splashes across my knuckles. I toss the empty plastic can sideways into the woodshed drift so it won't explode in my hands.
 
-Hollis's heavy Vibram boots crunch rapidly around the far fender of Sloane's truck. He can't see Maya behind the cordwood stack yet, and his crushed left arm hangs useless against his ribs, yet he keeps the snub-nose revolver raised steady in his scarred right hand. Every second he closes the gap across the iced turnaround, his dark shadow stretching long across the snow in the barn fire's orange glare.
+Hollis's heavy Vibram boots crunch rapidly around the far fender of Sloane's truck. He can't see Maya behind the cordwood stack yet, and his crushed left arm hangs useless against his ribs, yet he keeps the snub-nose revolver raised steady in his scarred right hand. Every second he closes the gap across the iced turnaround, his dark shadow stretching long across the snow in the woodshed fire's orange glare.
 
 I need a spark before he clears the hood.
 
@@ -2131,7 +1962,7 @@ I lean my forehead briefly against the cold iron gate pillar, letting my lungs f
 
 ---
 
-## Chapter 24
+## Chapter 22
 
 Gray Friday dawn breaks over Blackthorne Ridge in a flat wash of freezing sleet and wet pine smoke.
 
@@ -2141,7 +1972,7 @@ I sit on the open tailgate of an Essex County ambulance beside my sabotaged Hond
 
 Down by the wrought-iron gates, two Vermont State Police troopers unfasten Hollis Greer from the iron spear, clap steel handcuffs over his uninjured right wrist, and load him onto a rolling backboard. His soot-smeared jaw stays locked shut, though his eyes never leave Maya until the ambulance doors swing closed.
 
-Across the plowed apron, **Celeste Vane** sits in the back seat of a state cruiser with her pale wrists cuffed in front of her cashmere turtleneck. A state fire marshal carries the black leather *VaneCor* medical case off the passenger seat of Sloane's SUV in a clear evidence bag, right behind a pair of forensic techs rolling **Arthur Vane's** salt-packed body bag out of the collapsed stone icehouse on a plastic sled.
+Across the plowed apron, **Celeste Vane** sits in the back seat of a state cruiser with her pale wrists cuffed in front of her cashmere turtleneck. A state fire marshal carries the black leather *VaneCor* medical case off the passenger seat of Sloane's SUV in a clear evidence bag, right behind a pair of forensic techs rolling **Arthur Vane's** salt-packed body bag out of the charred stone icehouse on a plastic sled.
 
 Time of death pending toxicology, yet the state medical examiner's preliminary freeze-chart puts Arthur dead at least forty-eight hours—hours ahead of Friday's five-o'clock survivorship deadline.
 
@@ -2213,7 +2044,7 @@ Beside my gurney, Maya slowly flips the warm photocopy packet over to the final 
 
 ---
 
-## Chapter 25
+## Chapter 23
 
 Ten days after the fire on Blackthorne Ridge, December rain hits Portland Harbor sideways off the Casco Bay chop.
 

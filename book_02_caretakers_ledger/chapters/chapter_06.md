@@ -12,7 +12,7 @@ I slide my canvas daypack with the snowshoes and spare lithium brick onto the to
 
 I pull a six-inch strand of dark gray thread from the frayed hem of my coat lining. I wedge one end into the upper doorjamb gap just above the brass hinge and tuck the loose tail flat against the molding—a crude tamper-trap so I'll know if Hollis checks my room while I'm downstairs.
 
-A shiver runs straight between my shoulder blades, and I tuck my bare fingers into my armpits to stop them from shaking. Two weeks ago, paying off that eighteen-thousand-dollar judgment felt like buying my life back. Back in Portland, I walked out of Becky's Diner thinking the worst thing in my life was a flooded basement audit. Now I'm locked inside a freezing mountain fortress with a sabotaged car, a caretaker who carries bolt cutters, and a dead man's cane sitting dry in the hall mudroom.
+A shiver runs straight between my shoulder blades, and I tuck my bare fingers into my armpits to stop them from shaking. Two weeks ago, paying off that eighteen-thousand-dollar judgment felt like buying my life back. This morning in Portland, I walked into Becky's Diner thinking the worst thing ahead of me was auditing flooded boat hulls. Now I'm locked inside a freezing mountain fortress with a sabotaged car, a caretaker who carries bolt cutters, and a dead man's cane sitting dry in the hall mudroom.
 
 I sit on the edge of the stripped four-poster mattress in my coat and boots, listening to the low thrum of the diesel generator vibrating through the floorboards. Unlike Maine, there is no ocean surf or distant harbor buoy out here—only dead winter silence pressing against the granite walls.
 
@@ -40,7 +40,7 @@ At the bottom, a narrow concrete vault opens around a massive, soot-streaked cas
 
 Nobody sits on the wooden stool beside the boiler workbench. Hollis must have bled the fuel line, flipped the main breaker, and gone back up to bed—or locked himself into the caretaker's wing.
 
-I step quietly onto the concrete floor, checking the far corner of the vault first. No second stair leads out of this cellar—only a sloping concrete bulkhead ramp covered by heavy steel cellar doors bolted shut from the inside with a dropped iron bar. Across the workbench sit two spare brass pressure gauges, a coffee tin of pipe fittings, and a half-empty bottle of lamp kerosene matching the smell from the Great Hall hearth.
+I step quietly onto the concrete floor, checking the far corner of the vault first. No second stair leads out of this cellar—only a sloping concrete bulkhead ramp covered by heavy timber cellar doors bolted shut from the inside with a dropped iron bar. Across the workbench sit two spare brass pressure gauges, a coffee tin of pipe fittings, and a half-empty bottle of lamp kerosene matching the smell from the Great Hall hearth.
 
 My gaze swings back to the twin black heating-oil tanks beside the boiler.
 

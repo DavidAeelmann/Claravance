@@ -1,93 +1,75 @@
 ## Chapter 20
 
-Scalding white steam hits my cheeks like a wet wool blanket, stinging the raw scrape along my jaw.
+Subzero night air hits my soot-caked lungs like crushed ice as Maya hauls me up over the brick lip of the **stone icehouse**.
 
-Wet birch ash fills the air, thick and greasy, choking every breath down to a shallow rasp. Behind me, the iron grate hisses violently as cistern water continues to pour down the stone chimney flue, turning the Great Hall hearth into a black, boiling cauldron. Nobody can see across the flagstones.
+We collapse side by side onto the frozen rock salt beside the north granite wall. Just beyond our boots, beneath a half-melted drift of sawdust and burlap, **Arthur Vane's** rigid silhouette lies exactly where I found him hours ago—still wearing his thin dress socks, his swollen left toe stiff under the salt crust. Greasy black diesel smoke curls upward from the brick coal chute behind us, and the smell of burning pine shingles hangs sharp over the damp salt air. Even in the dark, the contrast is brutal—scalding smoke rising from below while freezing wind cuts down through the burned-out gable vent above, turning the sweat on my collar into thin ice.
 
-I drive my elbows apart as hard as my bruised ribs allow.
+"Up," I rasp, catching Maya's elbow and nudging her toward the splintered cedar rafters where the timber gable vent burned through above the door during Celeste's arson attempt. "Through the vent frame—before the smoke fills the pit and chokes us out."
 
-The scored locking pawl on the outer black nylon zip tie snaps clean with a sharp *pop*. My wrists still catch on the second inner tie, biting deep into my wool cuffs until my fingers go numb. I drop blindly to my knees beside the stone hearth apron, feel the hot steam draft across the nape of my neck, and sweep my bound palms across the wet slate until my knuckles strike cold steel.
+Maya bites down hard against the pain in her side and climbs first, her laced leather boots finding purchase on the frosted granite blocks and charred timber lath. Twice a loose slate shingle slides beneath her heel, clattering back down onto the rock salt beside Arthur's corpse. She squeezes through the jagged **icehouse roof vent** opening into the open drift, gasping softly as she hits the crusted snow outside, then turns back to grip my wool collar and haul me clear of the soot-blackened beams.
 
-My multi-tool. Celeste dumped it right beside Sloane's boots, next to the cracked transceiver and the brass skeleton key.
+We drop knee-deep into crusted powder behind the kitchen wing. Frost immediately stiffens my wet coat sleeves, and the sudden subzero wind cuts straight through the sweat on my neck. Behind us, the stone icehouse vents thick gray coal smoke into the pine canopy like a broken chimney.
 
-I twist my right wrist awkwardly behind my back, wedge the steel handle against my hip bone, and hook my left thumbnail into the wire-cutter notch until the folding jaws pop open. My split index finger slides warm against the steel grip. I feed the inner nylon strap between the jaws and clamp both hands shut with every ounce of weight I have left. One hard squeeze. The plastic parts cleanly, and my arms swing free with a rush of hot blood down to my fingertips.
+Ahead across the snowbound forecourt, the **woodshed and generator bay** behind the kitchen wing are a roaring torch of orange diesel flame, sending thick black smoke billowing across the white spruce canopy. Sparks whirl upward into the freezing dark like red insects. The fire has already jumped the eaves onto the rear kitchen roof, turning the frosted upper rafters orange. Further down the drive, Deputy Pike's county snowplow sits nose-deep in the frozen ditch, its amber roof strobe still sweeping uselessly across empty snow—and Pike himself nowhere in sight near the cab, probably scrambling down the logging road on foot to save his own neck.
 
-Beside me, Sloane coughs violently into her camel hair collar, straining against the white nylon rope around her elbows. "Clara—"
+Near the front porch steps, the headlights of **Sloane's black armored SUV** flare abruptly to life, cutting twin white beams through the drifting ash. Heavy studded snow tires crunch softly as the suspension settles under someone's weight.
 
-"Stay down behind the leather wing," I whisper, scooping up the cracked **Iridium satellite burst-transceiver**, Sloane's silver uplink fob, my keys, the wrapped **crystal brandy stopper**, and the **half-charred rescue-spray canister** off the wet apron and shoving them deep into my right coat pocket. My split index finger stings sharply against the cold metal keys. I grab the folded *VaneCor* strips and the three-page Survivorship Covenant with my other hand, cramming them inside my wool coat, and leave the sodden yellow legal pad behind in the ash.
+Celeste.
 
-Sloane twists her bound wrists against the white nylon rope, her voice tight against the steam. "He's got a backup revolver in his chore coat, Clara—get out of the hall."
+She stands beside the open driver's door in her soot-streaked cashmere turtleneck and winter boots, clutching a black leather medical case packed with *VaneCor* vials and a thick brass-tagged binder under her left arm. She must have snatched Sloane's spare key fob off the mudroom console before locking Hollis in the basement—leaving Sloane tied inside the Great Hall while the kitchen joists burned.
 
-A shadow lunges out of the gray fog toward my left shoulder, swinging something heavy and square—Arthur's brass desk weight.
-
-Celeste. I know her stride before I even see her face.
-
-I drop flat onto one palm, scoop a double handful of freezing, soot-thick birch slurry straight off the hearth apron, and fling it upward into the dark gap where her cashmere collar meets the steam.
-
-The wet soot catches her square across the eyes. Celeste shrieks, stumbling backward over the fallen chandelier chains and crashing hard into the slanted oak lectern, sending the heavy brass desk weight clattering across the flagstones.
-
-"Hollis!" she screams, clawing blindly at her face as wet gray ash streaks down her turtleneck. "She's loose—she's heading for the study!"
-
-Heavy Vibram boots scrape across broken chandelier glass near the hearth. A metallic *shuck-clack* echoes through the steam as Hollis chambers a fresh buckshot shell into his twelve-gauge.
+She tosses the medical case onto the passenger seat, climbs behind the wheel, and reaches for the push-button start, her white-gloved fingers shaking violently in the dashboard glow.
 
 ***
 
-I don't run toward the front oak door—Pike's county plow is idling somewhere outside in the turnaround, and the porch steps are an open shooting gallery.
+"Maya—stay behind the stone pillar!" I shout, sprinting straight across the glazed ice of the turnaround with **Arthur's walnut cane** gripped tight in my gloved hand. Freezing wind cuts through my torn coat sleeves, stinging the fresh scrapes on my wrists.
 
-Instead, I stay low beneath the drifting steam bank and cut left past the study archway toward the **mudroom coat rack**, where **Arthur Vane's custom walnut orthopedic cane** still leans untouched against the cedar paneling. My fingers close around the curved brass handle. Heavy hardwood, weighted at the **unworn rubber ferrule** that proved Arthur never walked out of this lodge into Tuesday's blizzard—and solid enough to break bone.
+My boots slide twice on the packed slush. I catch my balance against the rear quarter-panel just as the heavy V8 engine turns over with a low, throaty rumble, exhaust pluming thick and white into the orange-lit snow.
 
-Behind me, the twelve-gauge roars inside the Great Hall.
+Celeste slams the driver's door shut—or tries to.
 
-Wood splinters explode off the oak lectern frame, showering my coat back with stinging chips as buckshot tears through the empty leather armchair where I knelt moments earlier. Sloane lets out a muffled curse from the floor beside the hearthstone, unhit, as the concussion rattles the mounted stag heads along the timber walls.
+I drive the **brass handle of Arthur's walnut cane** straight into the closing door gap, jamming the heavy armored steel frame wide against the latch striker. The walnut shaft groans under the impact, though the hardwood holds.
 
-I shove through the swinging baize door into the **commercial kitchen**.
+Celeste shrieks and throws her shoulder against the door to force it shut, reaching with her right hand for the console gearshift lever. "Get off the car, Clara! You're dead if you stay up here!"
 
-Cold tile meets my boots. Pale silver frost-glare spills through the tall pantry window, catching the row of heavy copper saucepans hanging above the butcher-block island while wet soot drifts in from the hall behind me. Against the far wall, the massive black cast-iron range radiates faint residual warmth from the pilot manifold, while the walk-in cold larder door stands latched beside the pastry counter.
+I wedge my hip into the door gap, yank the **steel multi-tool** out of my coat pocket with my right hand, and flip open the needle-nose pliers. Beneath the left side of the steering column, the black plastic **kick-panel fuse cover** pops free with one sharp tug of my boot toe, exposing neat rows of colored blade fuses and square relays. Cold leather smells of espresso and damp cashmere inside the heated cab.
 
-I slip behind the stainless-steel prep table and edge toward the **butler's pantry** doorway, gripping Arthur's walnut cane with both hands like a batter's bat. The steel counter chills my hip through my wet wool coat. Beyond the baize swing-door, Celeste is still coughing violently in the Great Hall, screaming at Hollis not to leave her alone in the dark with Sloane.
+Celeste grabs a heavy brass flashlight off the center console and swings it straight at my temple.
 
-The kitchen swing-door bangs wide open against the plaster wall, rattling a rack of iron skillets along the brick chimney breast.
+I duck inside the arc, taking the blow across my left shoulder blade. White pain flares down my arm, nearly numbing my fingers, yet my pliers lock cleanly onto the square **ignition relay** inside the fuse block. My split index finger slips once against the steel grip, smearing warm blood across the plastic housing before I clamp down harder.
 
-Hollis steps across the threshold, coughing hard from the birch smoke, his scarred right hand locked around the shotgun's trigger guard while his left sleeve wipes gray ash from his eyes. His heavy Vibram soles crunch over dry coarse salt spilled from the larder shelf. For two heartbeats he pauses beside the cast-iron range, listening in the dark, his wintergreen breath ragged in the quiet kitchen.
+I twist and yank.
 
-He catches my silhouette shifting against the frosted pantry glass and swings the twin-barrels up.
+The plastic relay snaps free in my steel jaws with a faint dry crack. Instantly, the V8 engine cuts dead, the headlights wink out, and the dashboard goes black—leaving only the pulsing orange glow of the burning woodshed reflecting off the windshield and the cold click of cooling exhaust pipes beneath the chassis.
 
-I step inside his reach before the muzzle clears the island corner and swing **Arthur's weighted walnut cane** upward with every ounce of shoulder I have left.
+"Give me the keys," I pant, gripping Celeste's cashmere wrist and hauling her half out onto the running board before she can reach the console again. I snatch Sloane's spare key fob from the cup holder with my left hand and fling it sideways into the deep snowbank behind the porch steps. "And leave the *VaneCor* case on the seat. Nobody is driving down that logging road tonight, and nobody is burying Arthur's death until the state police walk through that study."
 
-The heavy hardwood shaft catches the shotgun's wooden fore-end square against the steel magazine tube, driving the barrel skyward just as Hollis's finger jerks the trigger.
+Celeste kicks wildly at my shins with her leather boot, her pale hair whipping across her soot-streaked cheeks. "You think you won?" she spits, grabbing at the door pillar to keep from hitting the snow. "You're standing in the middle of nowhere with a dead satellite tracker and zero cell bars! Even if you survive tonight, Sloane Mercer-Hall will bury your sister's ledger under six layers of federal injunctions before noon—and the thirty-eight million still vests to me at five! Nobody's coming up that road before Saturday!"
 
-The deafening blast blows three copper saucepans clean off their iron hooks overhead, raining brass and plaster dust across the stainless-steel counter and stinging my cheeks with hot grit. Before Hollis can pump the slide, I bring the brass-handled cane down across the **wooden shotgun stock** where it meets his hip—once, twice—cracking the walnut grip clean through at the wrist pin against the oak pantry doorjamb.
+I reach into my right coat pocket with my free hand and hold the sealed **zip-top evidence baggie**—containing the wrapped **crystal brandy stopper** and the **half-charred silver nitroglycerin rescue-spray canister**—straight in front of her face. With my thumb, I pin the folded **three-page Survivorship Covenant** against the plastic baggie so she sees every piece of her timeline at once.
 
-Hollis grunts hard as the splintered stock tears out of his scarred right hand, sending the jammed barrel clattering across the kitchen flagstones. He lunges blindly with his left fist, catching the edge of my wool collar before I twist free, kick the heavy butcher-block stool across his shins, and slam the pantry door shut between us.
+In the orange firelight from the burning woodshed, the faceted glass inside the clean plastic still gleams faintly with **compounded lavender cuticle oil**—the exact signature of the woman who stood beside Arthur's study desk at eleven-forty Tuesday night while his walnut cane sat untouched in the mudroom rack. The sharp medicinal scent of the burning diesel bay hangs thick around us.
+
+"Not after the state medical examiner swabs this stopper and tests the residue inside your charred spray canister," I say, keeping my voice steady over the roar of the fire. "I pulled your burned *VaneCor* blister packs out of your vanity porcelain bowl, Celeste. Maya watched you press that tampered nozzle under Arthur's tongue at eleven-forty Tuesday night. You poisoned your husband on his own study rug, packed him in salt to fake his time of death, and then wedged an iron bar across the cellar bulkhead to burn Hollis alive."
+
+Celeste's pale fingers go rigid against the door frame. Her jaw trembles in the freezing draft as the truth settles over her—Maya didn't die in the snow, and the evidence didn't burn in the hearth. She stares at the sealed crystal stopper in my palm, then past my shoulder toward the side of the burning lodge.
+
+Her eyes widen in pure, unmasked terror.
 
 ***
 
-"Clara!"
+A deafening crash of shattering glass and splintered cedar sash erupts from the **frosted cellar light-well** beside the kitchen foundation. Thick shards of frosted pane scatter across the orange-lit snowbank, followed by a gout of greasy black diesel smoke pouring out of the basement gap.
 
-The wooden **dumbwaiter hatch** in the pantry wall slides upward with a dry scrape of hemp rope.
+I spin sideways, shoving Celeste hard against the SUV's rear fender just as a dark, soot-blackened figure heaves himself upward out of the broken basement window frame into the snowdrift. Celeste drops onto one knee in the slush behind the rear tire, scrambling backward out of his sightline with her hands pressed over her mouth.
 
-**Maya** drops out onto the pine floorboards, landing hard on her laced leather boots and biting back a sharp gasp against the pain in her side. Her dark hair sticks damply to her forehead, and buttoned tight inside her heavy flannel shirt sits the oilskin-wrapped **Caretaker's Ledger**.
+**Hollis.**
 
-I catch her by the elbow before her knees buckle, steadying her against the cold larder shelves. "You flooded the flue," I breathe, feeling the feverish heat radiating off her gray wool sweater.
+His wool chore coat sleeve is ripped clean to the elbow where he tore his crushed **left wrist** free from the cast-iron ash baffle—leaving a jagged trail of dark blood across the white snowbank as he rolls to his feet in the firelight. His left arm hangs limp and twisted against his ribs, slick with wet kerosene, ash, and freezing blood, yet his scarred right hand still grips the steel **snub-nose revolver**. He wheezes harshly in the subzero air, every breath rattling wetly in his soot-choked chest as steam curls off his torn coat shoulders.
 
-"I heard Hollis's voice in the chimney chase," Maya whispers, pressing her ink-stained palm against her bruised side as she glances toward the shaking kitchen door. Her breath whistles thinly through clenched teeth. "He's got a snub-nose revolver in his chore coat—I saw him load it in the barn Tuesday night. We can't go out the front."
+He doesn't look at Celeste crouching behind the wheel well. He doesn't even glance at the burning woodshed behind him, where orange flames are already licking into the spruce boughs and sending burning pine needles drifting across the forecourt.
 
-I reach into the dark **broom alcove** beside the dumbwaiter shaft and haul out the spare **gallon tin of lamp kerosene** I stashed there an hour ago, hooking my fingers through the cold wire bail. "Sub-basement," I tell her, nodding toward the narrow cellar stair door behind the flour bins while shifting Arthur's walnut cane into my left hand. "I rigged the ash-pit counterweight on the coal chute. We climb out through the stone icehouse."
+His bloodshot eyes lock straight onto **Maya**, who has stepped half out from behind the granite gate pillar beside the drive with the oilskin-wrapped **Caretaker's Ledger** clutched tight against her chest. She doesn't drop the book, and she doesn't back away into the spruce. Her pale face is lit bright orange by the burning rafters, her breath hanging in thin white plumes against the dark timber.
 
-I shove the heavy oak flour chest sideways across the pantry door to buy us a few extra heartbeats, then pull the cellar latch open. Dry furnace heat and old coal dust rise from the steep wooden steps below.
+"Leave her alone, Hollis!" I shout, stepping sideways off the SUV running board to draw his aim toward me, my fingers tightening on Arthur's walnut cane.
 
-Heavy boots slam twice against the pantry door behind us, splintering the pine latch housing. Metal scrapes against oak as Hollis jams a pry-bar or his revolver butt into the frame, his voice muffled and hoarse through the thick timber.
-
-Before the door gives way, three rapid **gunshots** crack across the snowbound forecourt—sharp revolver reports fired into the air, followed instantly by the high, frantic roar of a heavy diesel engine redlining in low gear.
-
-I yank the frosted pantry window shutter open an inch and look out across the moonlit drift. Freezing wind needles my eyes, carrying the sour bite of unburned exhaust.
-
-**Deputy Enoch Pike** is inside the cab of his idling county plow truck, wheeling the massive yellow blade wildly across the iced turnaround after hearing the shotgun blasts inside the lodge. His amber roof strobe sweeps erratically across the black spruce walls.
-
-"He's panicking," Maya breathes beside my shoulder, gripping the edge of the pantry shelf. "He thinks Hollis is cleaning house and he's next on the list."
-
-Pike slams the heavy snowplow truck straight into reverse, loses traction on the glazed ice sheet beside the rear drive, and guns the throttle forward in blind terror to clear the narrow lane—ramming the steel plow wing **straight through the double timber doors of the woodshed and generator bay** beside the kitchen wing.
-
-Pine planks explode outward in a spray of splinters and torn brass hardware, exposing the spare diesel reserve tank and the snowmobiles lined along the side wall. The heavy iron padlock snaps off its staple and skitters across the snow.
-
-As the plow blade shears past the kitchen foundation, the steel corner rips clean through the **exterior copper diesel reserve line** feeding the sub-basement tank. Raw red-dyed fuel sprays sideways across the snowbank in a thick, glistening arc, hissing loudly in the subzero air as orange sparks shower off the torn iron hasp beneath Pike's spinning rear tires. An instant later, a dull blue-orange *whump* catches along the soaked pine siding, sending greasy black diesel smoke rolling toward the lodge's rear eaves. Fire races straight toward the kitchen wing.
+Orange firelight glints off the missing joint of his scarred right hand. Hollis doesn't even blink in my direction. He staggers several steps forward through the crusted drift, boots crunching loud in the frozen quiet between the SUV and the woodshed, and raises the snub-nose revolver across the snowlit hood of Sloane's truck—aiming straight at Maya's heart while frost glints cold along the steel barrel and his scarred right hand tightens on the iced grip.

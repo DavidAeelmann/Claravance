@@ -26,7 +26,7 @@ Bitter night air hits my face like a slap. Fat, wet flakes swirl down out of a p
 
 The wind cuts across the back clearing, carrying the sharp tang of woodsmoke from the lodge chimney and the damp, metallic bite of fresh snow. Farther out toward the front drive, Pike's heavy flashlight beam sweeps once across the snow-covered spruce boughs near the porch, then clicks off as he takes up post by the main steps.
 
-I pull the sliced Guest Ledger page from my inside breast pocket, shielding the paper under my coat lapel while I click my penlight on for three seconds. Maya's left-slanting blue-ink schematic sits crisp against the ruled margin: a rough box labeled *ICEHOUSE — BEHIND WOODSHED*, an arrow pointing straight to *A.V. — ROCK SALT / SAWDUST — DIED TUES 11:40 PM*, and a dotted line running from the back wall labeled *COAL CHUTE TO BOILER — NO LOCK ON FLAP*.
+I pull the sliced Guest Ledger page from my inside breast pocket, shielding the paper under my coat lapel while I click my penlight on for three seconds. Maya's cramped, back-slanted blue-ink schematic sits crisp against the ruled margin: a rough box labeled *ICEHOUSE — BEHIND WOODSHED*, an arrow pointing straight to *A.V. — ROCK SALT / SAWDUST — DIED TUES 11:40 PM*, and a dotted line running from the back wall labeled *COAL CHUTE TO BOILER — NO LOCK ON FLAP*.
 
 I click the penlight dark, tuck the ledger sheet back inside my wool coat, and skirt the dark timber wall of the woodshed. Passing the three silent Arctic Cat snowmobiles, I notice one of the red plastic fuel jerrycans that sat stacked beside the cordwood rack earlier is gone—only a square melted ring in the crusted snow marks where it stood.
 
