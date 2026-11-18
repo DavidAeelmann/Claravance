@@ -12,7 +12,7 @@ He has changed out of his charcoal suit into a dark merino crewneck, though his 
 
 "I'm fine with water, Graham."
 
-"Nonsense. You've been hauling boxes alone all day." He pours two fingers of amber bourbon into a pair of heavy cut-crystal rocks glasses and carries them over without waiting for an answer. He sets one on the slate coaster nearest my elbow and keeps the other in his right hand while lowering himself into the armchair opposite mine. "Besides, we need to lock down tomorrow's schedule before the Boston courier drives out."
+"Nonsense. You've been hauling boxes alone all day." He pours two fingers of amber bourbon into his heavy cut-crystal rocks glass already sitting out on the front coaster of the tray, pulls a clean second tumbler from the cabinet above, and carries them over without waiting for an answer. Absentmindedly, he sets the pre-set tray glass on the slate coaster nearest my elbow and keeps the cabinet glass in his right hand while lowering himself into the armchair opposite mine. "Besides, we need to lock down tomorrow's schedule before the Boston courier drives out."
 
 I stare at the amber liquid catching the firelight. There's no ice in either glass, just neat bourbon—and near the bottom curve of my tumbler, a faint pale sediment swirls slowly through the liquor like undissolved chalk.
 
@@ -82,7 +82,7 @@ Graham drinks.
 
 He takes a slow, measured swallow, his gray eyes fixed steadily on mine over the crystal rim. He doesn't grimace. He doesn't spit it out or pause mid-sip. He swallows cleanly and sets the glass back on the tray, wiping a drop off his thumb.
 
-My chest feels hollow. Either the sediment at the bottom of that glass was nothing more than barrel char from an old bottle—or someone else dropped crushed tablets into one of the pre-set tumblers on the credenza tray before Graham even came home from Portland, expecting him to pour me a nightcap.
+My chest feels hollow. Either the sediment at the bottom of that glass was nothing more than barrel char from an old bottle—or someone else dropped crushed tablets into Graham's habitual rocks glass on the credenza tray before he even came home from Portland, expecting him to drink his usual nightcap.
 
 "You're quiet tonight, Tessa," he says softly, leaning forward with his forearms resting on his knees. "Tell me honestly. Did you find anything unusual in the master suite today? Anything that looked out of place?"
 
@@ -100,7 +100,7 @@ I cross to the radiator, check that the brown paper hardware bag tucked behind t
 
 Before the upload bar even finishes, my phone vibrates sharply against my thigh.
 
-Not Graham's Kiefer Soundworks app—that guest link expired at five. It's a silent push alert from an old Harbor Mutual cross-border maritime watch I left running on a dormant terminal in Portland three years ago, tied to flagged high-net-worth hull policies along the Maine-New Brunswick coast. When I set up my private notes file on Lydia Kiefer Monday night, I quietly dropped her passport number from the Coast Guard missing-person bulletin into the watch queue on a hunch, never expecting a single hit to come back.
+Not Graham's Kiefer Soundworks app—that guest link expired at five. It's a silent push alert from an automated CanPass private-marina berth registry watch I still had bolted to an old marine-underwriting broker portal from my Portland days, tied to flagged high-net-worth hull policies along the Maine-New Brunswick coast. When I set up my private notes file on Lydia Kiefer Monday night, I quietly dropped her passport number from the Coast Guard missing-person bulletin into the watch queue on a hunch, never expecting a single hit to come back.
 
 I tap the banner with a thumb that suddenly feels numb.
 

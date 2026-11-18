@@ -56,7 +56,7 @@ She says it cleanly, without a trace of doubt, like she's reading off an invoice
 
 "You didn't even leave the life jacket salty," I push, shifting my wrists quietly higher behind the piling until the taut nylon ridge between my palms presses squarely against the rusted steel edge of the oyster knife. "Cole soaked it in the mudroom sink with tap water, and you flushed crushed Ambien down the master bath sink before spiking the bourbon on the credenza. That's sloppy, Lydia. Even a rookie medical examiner checks for salt residue."
 
-Lydia smiles—a thin, cold curve of her mouth. "Cole wrote the report, Tessa. There won't be a second medical examiner, because there won't be a body until the crabs are finished with it. Everything you cataloged in that house was staged to trigger a Slayer Statute forfeiture on his marital share—handing me three million in a Cayman bearer trust the day Graham's charged with my murder."
+Lydia smiles—a thin, cold curve of her mouth. "Cole wrote the report, Tessa. There won't be a second medical examiner, because there won't be a body until the crabs are finished with it. Everything you cataloged in that house was staged to trigger a Slayer Statute forfeiture on his marital share—handing my Cayman bearer trust three million in contingent probate assets the day Graham's suicide note confesses to my murder."
 
 ***
 

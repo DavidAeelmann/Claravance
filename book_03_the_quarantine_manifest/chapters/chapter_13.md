@@ -40,7 +40,7 @@ Margot lowers the thermal slip onto the blotter, her fingers trembling once befo
 
 I turn, keeping my hands clear of my coat, and rest my hip against the edge of the mahogany desk. Up close, the stove heat hasn't erased the gray exhaustion beneath her eyes. Her tailored wool coat smells of expensive bergamot and woodsmoke, and her right hand holds the compact steel frame steady enough to mean business. Rainwater drips from the hem of my coat onto the pine floorboards, pooling between us.
 
-"You were in the archival file room," she says, her gaze dropping to the faded navy duffel resting against my wet boots. "I heard the lock turn twenty minutes ago. You have my grandfather's 1998 charter-trust instruments."
+"You were in the archival file room," she says, her gaze dropping to the faded navy duffel resting against my wet boots. "I heard the mortise click two minutes ago when you stepped back into the hall. You have my grandfather's 1998 charter-trust instruments."
 
 "I do."
 

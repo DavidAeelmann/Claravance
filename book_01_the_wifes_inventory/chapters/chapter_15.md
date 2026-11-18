@@ -130,7 +130,7 @@ It's my voice.
 
 I stare at the waveform on the screen. Someone took clean vocal samples from my Monday night NDA intake, my kitchen arguments with Graham, and my phone calls from the guest suite, then stitched the cadence together over a house-mic noise bed. The splices are invisible to the naked ear. To a county prosecutor—or a sheriff's deputy who already has a bleach-stained boat rag and bronze cleat waiting in my Civic trunk—it sounds like a panicked accomplice breaking down.
 
-"They didn't just plant the boots," I say, my voice barely above a whisper.
+"They didn't just plant the boots," I say, my voice barely above a whisper. "Lydia broke her pick off in the archive lock when she heard me coming down the pantry stairs, then bolted the cellar from outside to buy time while she rendered that file."
 
 Across the monitor, the sync queue flashes green: `UPLOADED TO KNOX_COUNTY_EVIDENCE_DROP`. A split second later, a red banner drops across the network window: `OUTBOUND WAN GATEWAY LOCKED — ADMIN OVERRIDE`. Lydia's remote iPad didn't just push a fake confession—it killed the house router's external upload path before our raw WAV file could leave the study.
 
