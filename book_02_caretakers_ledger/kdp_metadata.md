@@ -16,53 +16,53 @@
 ## 2. High-Converting Amazon Store Blurb (Markdown & KDP HTML)
 
 ### Clean Store Blurb
-**Rule #1: Lock the iron gates behind you before the snowplow stops.**
-**Rule #2: Burn every ledger page dated after Tuesday’s blizzard.**
-**Rule #3: Never unlock Room 4 in the East Attic.**
+Rule #1: Inventory the estate before the county sheriff reaches the mountain.
+Rule #2: Stay clear of the padlocked carriage barn and the stone icehouse.
+Rule #3: Never unlock Room 4 in the East Attic.
 
-For the first time in three years, **Clara Vance** is debt-free. Her $18,412 court judgment is paid in full, her Maine private investigator bond is restored, and she has a safe daylight desk job waiting in Portland. She swore off live-in cleanups for wealthy families with blood on their floorboards.
+For the first time in three years, Clara Vance is debt-free. Her $18,412 court judgment is paid in full, her Maine private investigator bond is restored, and she has a safe daylight desk job waiting in Portland. She swore she was done walking into locked houses for wealthy families with secrets under their floorboards.
 
-Until Boston fiduciary partner **Sloane Mercer-Hall** slides a forty-five-thousand-dollar contract—and a heavy brass skeleton key—across a diner booth.
+Then Boston fiduciary partner Sloane Mercer-Hall slides a $45,000 contract—and a heavy brass skeleton key—across a diner booth.
 
-High in the snowbound Northeast Kingdom of Vermont, pharmaceutical heir **Arthur Vane**, his second wife **Celeste**, and their live-in winter caretaker walked out of **Blackthorne Lodge** during Tuesday night’s whiteout, leaving three snowmobiles idling by the woodshed until the tanks ran dry. The family trustees want the stone fortress quietly inventoried and purged of private papers before the county sheriff asks why nobody came back.
+High in the snowbound Northeast Kingdom of Vermont, pharmaceutical heir Arthur Vane, his second wife Celeste, and their winter caretaker walked out of Blackthorne Lodge during Tuesday night’s blizzard, leaving three snowmobiles idling by the woodshed until the tanks ran dry. The family trustees want the isolated stone fortress quietly cataloged and cleared of private papers before local law enforcement asks why nobody came back.
 
-Clara refuses—until she flips over a photograph of the lodge's guest ledger and sees three words written two days ago in the unmistakable left-slanting cursive of her younger sister **Maya**, who vanished off the grid six years ago:
+Clara refuses—until she flips over a photograph of the lodge’s guest ledger and sees three words written two days ago in the unmistakable, back-slanted cursive of her younger sister Maya, who vanished off the grid six years ago:
 
-*Don’t trust him.*
+Don’t trust him.
 
-When Clara chains her tires up the unplowed mountain road, she finds fresh mud-terrain truck ruts cutting through the drifts, a padlocked carriage barn, and a hearth still glowing with lamp kerosene and burnt bond paper. On the lectern, the guest ledger page has been sliced clean out with a razor—leaving behind wet glue, a freshly stamped brass tag for **ROOM 4 — ATTIC EAST**, and the slow groan of a heavy boot across the rafters overhead.
+When Clara chains her tires up the unplowed mountain spur, the cover story falls apart on impact. Fresh truck ruts cut through the drifts, the hearth still reeks of lamp kerosene and burnt clinical vouchers, and the guest ledger page has been sliced clean out with a blade—leaving behind tacky hide glue and a brass room tag for ROOM 4 — ATTIC EAST. Worse, Arthur Vane’s orthopedic cane and winter boots are still bone-dry in the mudroom, the snowmobile tanks were siphoned by hand, and the cellar boiler is secretly pumping eighteen gallons of fuel oil straight up into the locked third-floor attic.
 
-Then a key turns in the upper stairwell lock, sealing her inside.
+Then someone padlocks the outer storm door from the porch, takes bolt cutters to her car in the snow, and chambers a twelve-gauge shell in the dark.
 
-Trapped miles past the plow line with a killer who knows every hidden coal chute and icehouse tunnel on the ridge, Clara has until the weekend thaw to audit a family’s buried clinical cover-up—and uncover whether her sister is a witness, a prisoner, or the caretaker holding the blade.
+Cut off miles above the plow line with a $38,000,000 survivorship clock ticking toward Friday at five, Clara must navigate the lodge’s hidden coal chutes and chimney walls to expose a deadly clinical cover-up—before the caretaker finishes burying everyone on the ridge.
 
-*Perfect for fans of Freida McFadden, Ruth Ware, and Lisa Jewell, **The Caretaker's Ledger** is a relentless, claustrophobic locked-mountain thriller packed with tactile forensic clues and razor-sharp twists.*
+Perfect for fans of Freida McFadden, Ruth Ware, and Lisa Jewell, The Caretaker's Ledger is a relentless, claustrophobic locked-mountain thriller packed with tactile forensic clues and razor-sharp twists.
 
 ---
 
 ### KDP-Ready HTML Blurb (Copy-Paste into Amazon Book Description)
 ```html
-<p><b>Rule #1: Lock the iron gates behind you before the snowplow stops.<br>
-Rule #2: Burn every ledger page dated after Tuesday’s blizzard.<br>
-Rule #3: Never unlock Room 4 in the East Attic.</b></p>
+<p><b>Rule #1:</b> Inventory the estate before the county sheriff reaches the mountain.<br>
+<b>Rule #2:</b> Stay clear of the padlocked carriage barn and the stone icehouse.<br>
+<b>Rule #3:</b> Never unlock Room 4 in the East Attic.</p>
 
-<p>For the first time in three years, <b>Clara Vance</b> is debt-free. Her $18,412 court judgment is paid in full, her private investigator bond is restored, and she has a safe daylight desk job waiting in Portland. She swore off live-in cleanups for wealthy families with blood on their floorboards.</p>
+<p>For the first time in three years, Clara Vance is debt-free. Her $18,412 court judgment is paid in full, her Maine private investigator bond is restored, and she has a safe daylight desk job waiting in Portland. She swore she was done walking into locked houses for wealthy families with secrets under their floorboards.</p>
 
-<p>Until Boston fiduciary partner <b>Sloane Mercer-Hall</b> slides a $45,000 contract—and a heavy brass skeleton key—across a diner booth.</p>
+<p>Then Boston fiduciary partner Sloane Mercer-Hall slides a $45,000 contract—and a heavy brass skeleton key—across a diner booth.</p>
 
-<p>High in the snowbound Northeast Kingdom of Vermont, pharmaceutical heir <b>Arthur Vane</b>, his second wife <b>Celeste</b>, and their winter caretaker walked out of <b>Blackthorne Lodge</b> during Tuesday night’s whiteout, leaving three snowmobiles idling by the woodshed until the tanks ran dry. The trustees want the stone estate quietly inventoried and cleared before the sheriff asks why nobody came back.</p>
+<p>High in the snowbound Northeast Kingdom of Vermont, pharmaceutical heir Arthur Vane, his second wife Celeste, and their winter caretaker walked out of Blackthorne Lodge during Tuesday night’s blizzard, leaving three snowmobiles idling by the woodshed until the tanks ran dry. The family trustees want the isolated stone fortress quietly cataloged and cleared of private papers before local law enforcement asks why nobody came back.</p>
 
-<p>Clara refuses—until she flips over a photograph of the lodge's guest ledger and sees three words written two days ago in the left-slanting cursive of her sister <b>Maya</b>, who vanished six years ago:</p>
+<p>Clara refuses—until she flips over a photograph of the lodge’s guest ledger and sees three words written two days ago in the unmistakable, back-slanted cursive of her younger sister Maya, who vanished off the grid six years ago:</p>
 
 <p><i>Don’t trust him.</i></p>
 
-<p>When Clara chains her tires up the unplowed mountain road, she finds fresh truck ruts in the powder, a padlocked barn, and a fireplace still glowing with kerosene and burnt paper. The guest ledger page has been sliced out with a straight blade—leaving behind wet glue, a brass tag for <b>ROOM 4 — ATTIC EAST</b>, and the slow groan of a boot across the rafters overhead.</p>
+<p>When Clara chains her tires up the unplowed mountain spur, the cover story falls apart on impact. Fresh truck ruts cut through the drifts, the hearth still reeks of lamp kerosene and burnt clinical vouchers, and the guest ledger page has been sliced clean out with a blade—leaving behind tacky hide glue and a brass room tag for <b>ROOM 4 — ATTIC EAST</b>. Worse, Arthur Vane’s orthopedic cane and winter boots are still bone-dry in the mudroom, the snowmobile tanks were siphoned by hand, and the cellar boiler is secretly pumping eighteen gallons of fuel oil straight up into the locked third-floor attic.</p>
 
-<p>Then a key turns in the upper stairwell lock, sealing her inside.</p>
+<p>Then someone padlocks the outer storm door from the porch, takes bolt cutters to her car in the snow, and chambers a twelve-gauge shell in the dark.</p>
 
-<p>Trapped miles past the plow line with someone hunting her through the walls, Clara must audit a deadly family cover-up and discover whether her sister is a prisoner, a witness… or the caretaker holding the blade.</p>
+<p>Cut off miles above the plow line with a $38,000,000 survivorship clock ticking toward Friday at five, Clara must navigate the lodge’s hidden coal chutes and chimney walls to expose a deadly clinical cover-up—before the caretaker finishes burying everyone on the ridge.</p>
 
-<p><i>Perfect for fans of Freida McFadden, Ruth Ware, and Lisa Jewell, <b>The Caretaker's Ledger</b> is a fast-paced locked-room psychological thriller that will keep you turning pages late into the night.</i></p>
+<p><i>Perfect for fans of Freida McFadden, Ruth Ware, and Lisa Jewell, <b>The Caretaker's Ledger</b> is a relentless, claustrophobic locked-mountain thriller packed with tactile forensic clues and razor-sharp twists.</i></p>
 ```
 
 ---
