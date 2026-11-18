@@ -1,10 +1,10 @@
 # The Wife's Inventory
-*A Tessa Calder Thriller (Book 1) — By David Seelmann*
+
+### By David Seelmann
 
 ---
 
-
-## Chapter 1
+# Chapter 1
 
 The Salt Point causeway sits barely higher than the tide line, a narrow ribbon of wet asphalt stretched between black granite ledges and dark water. My Civic's muffler shield rattles through the floorboards. I grip the wheel until my palms ache, watching salt spray speck the windshield faster than my worn wipers can clear it.
 
@@ -146,7 +146,9 @@ My thumb stops on the paper edge. Lydia Kiefer supposedly drowned at eleven-thir
 
 Directly above the main hall, floorboards pop. Footsteps start down toward the oak stairs.
 
-## Chapter 2
+---
+
+# Chapter 2
 
 I slide the cedar closet door shut with my hip, leaving just enough gap for the latch not to click, and hang my damp waxed jacket on the brass hook beside the bench. By the time Graham's stockinged feet hit the bottom oak tread, I'm already stooping to lift my duffel off the slate floor.
 
@@ -246,7 +248,9 @@ I slide my phone into my pocket and step back toward the oak flat-files. Stair t
 
 My fingers find the brass house key in my pocket. Outside in the dark hallway, the doorknob turns slowly, metal clicking against the latch plate.
 
-## Chapter 3
+---
+
+# Chapter 3
 
 The studio door swings inward smoothly, flooding the edge of the floorboards with pale amber light from the hallway sconces.
 
@@ -350,7 +354,9 @@ Behind me, the sliding glass door rolls open with a heavy rubber sigh, and Graha
 
 Graham steps aside to let me pass, his hand lingering on the glass door frame. Down by the water, the locked boathouse roof glistens wetly in the fog, its side casement shuttered tight from the inside.
 
-## Chapter 4
+---
+
+# Chapter 4
 
 By noon, the supply truck from Rockland drops twenty flat-packed wardrobe cartons inside the timber gate, forcing Graham to drive his Audi down the gravel lane to haul them back up to the house.
 
@@ -450,7 +456,9 @@ Just before I twist the ignition, I glance once at the tall glass panes of the s
 
 He hasn't gone back to his desk. He's standing right at the window, watching me unlock my door, one hand resting flat against the glass while gray fog curls around the roof eaves behind him.
 
-## Chapter 5
+---
+
+# Chapter 5
 
 My Civic's heater takes half the causeway just to push lukewarm air against the fogged windshield. Behind me, the timber gate grinds shut until spruce trees swallow the glass house, yet my shoulders stay hunched as if Graham's hand is still pressed flat against that second-story pane.
 
@@ -570,7 +578,9 @@ I fold the strip twice and tuck it inside my jeans watch pocket, separate from t
 
 Outside, mist swallows the lobster boats at the pier. Beyond the harbor bend, the causeway waits—one wet ribbon leading straight back behind Graham Kiefer's locked gate, where a left-handed deputy drove fifteen minutes ahead of me.
 
-## Chapter 6
+---
+
+# Chapter 6
 
 By the time my Civic climbs back onto the Salt Point causeway, wind has swung east like Maren predicted, driving horizontal rain across the asphalt. Surf pounds the granite culvert, slapping my windshield like wet gravel. Even with the defroster on full, condensation fogs the glass corners, shrinking the road to two slick tire ruts between churning gray swells.
 
@@ -700,7 +710,9 @@ He doesn't turn around. His back stays angled sharply toward the kitchen as he t
 
 I don't touch the spoon. Across the foyer, underneath the floating oak treads, the flush cedar stairwell door to Basement Zone 4 sits silent in the shadows—its latch plate dry and untouched.
 
-## Chapter 7
+---
+
+# Chapter 7
 
 At seven-fifteen Wednesday morning, Graham leaves for Portland in a charcoal suit with his leather briefcase locked inside the Audi's trunk.
 
@@ -814,7 +826,9 @@ Every rational instinct tells me to grab my duffel, sprint for the Civic, and le
 
 I take the narrow back service stairs in my stockinged feet, hugging the plaster wall where the treads won't creak, and freeze two steps above the lower landing as the heavy steel door of the kitchen breaker box clicks open just around the corner.
 
-## Chapter 8
+---
+
+# Chapter 8
 
 The steel breaker-box door groans softly on its hinges around the corner of the pantry corridor.
 
@@ -926,7 +940,9 @@ Through the slats, I watch the green keypad LED outside the glass wink back to s
 
 I stay wedged behind the spice shelves until the gray coastal fog swallows his dark silhouette down the cove stairs, my fingers clamped so hard around the louvered cedar edge that a splinter drives straight under my thumbnail.
 
-## Chapter 9
+---
+
+# Chapter 9
 
 At four-thirty, the coastal fog thickens into wet iron-gray dusk, and my guest-access link on the Kiefer Soundworks app flashes a thirty-minute expiration warning.
 
@@ -1036,7 +1052,9 @@ Before I can take a step down toward the seawall, gravel crunches through the fo
 
 Twin xenon headlights flare through wet spruce as the hydraulic timber gate groans open, and Graham's charcoal Audi sweeps into the Kiefer Glass House drive.
 
-## Chapter 10
+---
+
+# Chapter 10
 
 I make it through the mudroom side door three breaths before Graham's garage bay groans open.
 
@@ -1158,7 +1176,9 @@ I tap the attachment.
 
 I stare at the glowing white text in the dark bedroom until my eyes burn. Yesterday morning. While Graham stood in this kitchen telling me she drowned nearly three weeks ago, Lydia Kiefer walked off a dock across the Canadian border and scanned her own passport.
 
-## Chapter 11
+---
+
+# Chapter 11
 
 At 1:52 AM, the cast-iron radiator under my window ticks once and goes dead silent.
 
@@ -1254,7 +1274,9 @@ The screen sits paused inside a bare-bones media timeline player, frozen on a gr
 
 On the frozen screen stands Graham Kiefer in a dark rain slicker with the hood pulled low over his brow, his face angled half-away from the boathouse-apron lens as he drags a heavy, rolled canvas rug out of the sunroom patio doors toward the open hatch of the boathouse slip. The rug sags sharply in the middle under dead weight, its wet hem leaving a dark smear across the granite flagstones behind his heels.
 
-## Chapter 12
+---
+
+# Chapter 12
 
 I lean over the steel worktable, keeping my heels planted flat on the rubber mat so I don't jar the aluminum tripod again.
 
@@ -1338,7 +1360,9 @@ A heavy steel deadbolt slides home into the strike plate from the *outside* with
 
 On the inner door frame, the tiny pinpoint LED above the mortise lock winks from dark to steady, glaring red.
 
-## Chapter 13
+---
+
+# Chapter 13
 
 The pinpoint red LED above the fire door glares steady against the dark concrete.
 
@@ -1428,7 +1452,9 @@ He's still wearing yesterday's dark merino crewneck, wrinkled now and dusted acr
 
 Behind his heels on the foyer slate, half-lit by the gray morning window, sits a pair of muddy women's winter duck boots—fresh wet kelp clinging to the rubber soles, dripping dark rainwater onto the stone tile beside an open, mud-streaked navy nylon tote.
 
-## Chapter 14
+---
+
+# Chapter 14
 
 Neither of us moves for five seconds.
 
@@ -1504,7 +1530,7 @@ He's still holding back half his deck. And whoever locked me in the cellar at tw
 
 Graham shakes his head sharply. "That's what I've been trying to scrub out of the drive since last week! Somebody spoofed the exterior feed—or put someone my height in my spare foul-weather slicker and walked right in front of the infrared lens while the indoor array breaker was tripped. Look at the drafting table down there. Would a man who dumped his wife in a rug spend three weeks calculating whether a fiberglass skiff could even clear the east shoal at high water?"
 
-I don't answer immediately. My thoughts race back to the darkroom—the loose right sleeve on the slicker, the 4:12 PM spectral-analysis render while Graham was ninety miles south on I-95, and the St. Andrews passport scan from Tuesday morning.
+I don't answer immediately. My thoughts race back to the darkroom—the tight shoulders pulling the slicker cuff short above a thick wrist, the three failed passphrase lockouts at 4:45 PM while Graham was ninety miles south on I-95, and the St. Andrews passport scan from Tuesday morning.
 
 "Lydia's alive," I tell him flatly. "She scanned her own passport at a private marina in St. Andrews, New Brunswick, Tuesday morning."
 
@@ -1532,7 +1558,9 @@ I stare at the open trunk. "Give me the thirty-two-character passphrase for the 
 
 Graham shakes his head. "Not until you finish the mandatory upstairs inventory photos for the Arlington probate packet. If Bramwell and Shaw's five o'clock courier walks into an incomplete file, I default either way. Shoot the rooms; I'll mount it this afternoon."
 
-## Chapter 15
+---
+
+# Chapter 15
 
 By three-thirty in the afternoon, gray rain lashes the sidelights harder, and Graham's phone still hasn't pinged with the Boston courier's ferry-approach confirmation. I do not drop the brass wrench. My fingers stay locked around the cold knurled handle while I stare past the foyer glass at my silver Civic sitting in the mist.
 
@@ -1670,7 +1698,9 @@ Across the monitor, the sync queue flashes green: `UPLOADED TO KNOX_COUNTY_EVIDE
 
 Down on the gravel ridge road, faint through the rain-lashed glass, a siren chirps once—two miles out and closing fast.
 
-## Chapter 16
+---
+
+# Chapter 16
 
 The siren cuts out once near the ridge bend, then starts up again—closer, bouncing off the granite ledges above the house. Five minutes out, maybe less.
 
@@ -1764,7 +1794,9 @@ I freeze between the narrow casement window behind my heels and the dark muzzle 
 
 "Put the phone on the dock, Tessa," Lydia says, her voice calm and level over the slap of the rising tide. "You weren't supposed to find the dumbwaiter shaft."
 
-## Chapter 17
+---
+
+# Chapter 17
 
 I don't argue with a matte-black Glock pointed at my sternum.
 
@@ -1854,7 +1886,9 @@ Lydia turns her head and right shoulder toward the double doors as the heavy iro
 
 I yank my wrists apart with everything left in my shoulders. The frayed nylon zip tie snaps clean, and my right hand closes tight around the swollen oak handle of the rusted oyster knife wedged beneath the rail.
 
-## Chapter 18
+---
+
+# Chapter 18
 
 The brass padlock clatters against the cedar frame. Iron hinges groan as the double door swings inward, letting a cold wedge of gray gale light cut across the boathouse floor.
 
@@ -1932,7 +1966,9 @@ I drop lower beneath the sill and glance south across the open inlet toward the 
 
 White foam surges wildly across the low-lying asphalt of the tidal causeway, swallowing the steel guardrails in gray-green chop. Right at the throat of the flooded road, blocking both lanes from shoulder to shoulder, sits Deputy Cole Halstead's sheriff's cruiser—parked dead sideways across the asphalt, light bar dark, sealing Salt Point off from the mainland. Nobody drives in. Nobody drives out.
 
-## Chapter 19
+---
+
+# Chapter 19
 
 Dusk drops over Salt Point like a wet wool blanket, turning the gale-lashed fog around the glass house the color of bruised slate.
 
@@ -2022,7 +2058,9 @@ Empty kitchen. Gray storm glare through the sunroom arch, catching the pale edge
 
 I haul myself onto the pantry floor, yank the rusted oyster knife from my waistband, and sprint silently across the tile toward the sunroom.
 
-## Chapter 20
+---
+
+# Chapter 20
 
 Graham flinches back against the cast-iron radiator as I drop to my knees beside him on the bleached cedar floorboards. The room smells faintly of linseed oil and cold ocean dampness seeping around the sealed slider track.
 
@@ -2120,7 +2158,9 @@ The house plunges into pitch-black darkness, cutting off even the gray storm glo
 
 At the same exact second, Lydia kills the generator transfer switch and throws the manual storm-shutter lockdown switch beside the main breaker. Heavy steel hurricane shutters roar downward inside their exterior aluminum tracks. They slam shut with a deafening metallic *CRASH* across the sunroom glass, the foyer sidelights, and the north-hall windows—sealing every exit in black steel while Cole's boots hit the foyer slate behind us.
 
-## Chapter 21
+---
+
+# Chapter 21
 
 Cole's heavy boots hit the kitchen tile. A bright white flashlight beam slices through the pitch-black foyer arch, sweeping across the slate floor inches behind my heels as I drag Graham silently down the north hall.
 
@@ -2212,7 +2252,9 @@ Lydia doesn't look down. The cedar bench groans under her boots as she scrambles
 
 Then, high above the dark spruce trees, blue-and-red light bars flare bright through the coastal fog, painting the wet skylight glass overhead in pulsing crimson and cobalt while twin sirens cut through the roar of the Atlantic gale.
 
-## Chapter 22
+---
+
+# Chapter 22
 
 Rain drives straight down through the open skylight, turning the slate foyer into a black mirror under the strobing blue-and-red glare.
 
@@ -2316,7 +2358,9 @@ I set my coffee cup down on the metal step and sign the clipboard receipt with s
 
 I fold the pink evidence receipt once and slide it into my damp jeans pocket beside my multi-tool. Above the spruce ridge, the storm clouds break open just enough to show a thin edge of cold stars over Penobscot Bay—no completion check in hand, a busted phone in an evidence bag, and Monday's court levy still waiting on Congress Street.
 
-## Chapter 23
+---
+
+# Chapter 23
 
 Four weeks after Salt Point, the cast-iron radiator in my Portland studio still ticks like a bad heart, and the harbor wind still rattles the single-pane glass.
 

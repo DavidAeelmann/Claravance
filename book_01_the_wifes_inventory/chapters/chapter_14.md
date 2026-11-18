@@ -74,7 +74,7 @@ He's still holding back half his deck. And whoever locked me in the cellar at tw
 
 Graham shakes his head sharply. "That's what I've been trying to scrub out of the drive since last week! Somebody spoofed the exterior feed—or put someone my height in my spare foul-weather slicker and walked right in front of the infrared lens while the indoor array breaker was tripped. Look at the drafting table down there. Would a man who dumped his wife in a rug spend three weeks calculating whether a fiberglass skiff could even clear the east shoal at high water?"
 
-I don't answer immediately. My thoughts race back to the darkroom—the loose right sleeve on the slicker, the 4:12 PM spectral-analysis render while Graham was ninety miles south on I-95, and the St. Andrews passport scan from Tuesday morning.
+I don't answer immediately. My thoughts race back to the darkroom—the tight shoulders pulling the slicker cuff short above a thick wrist, the three failed passphrase lockouts at 4:45 PM while Graham was ninety miles south on I-95, and the St. Andrews passport scan from Tuesday morning.
 
 "Lydia's alive," I tell him flatly. "She scanned her own passport at a private marina in St. Andrews, New Brunswick, Tuesday morning."
 

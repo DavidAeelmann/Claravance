@@ -56,7 +56,7 @@
 
 ### Chapter 12
 - **POV & Setting:** Tessa; Basement Zone 4 Acoustic Darkroom (Thu, Nov 5, 2:20 AM).
-- **Beat Summary:** Tessa inspects the unified Soundworks rack: 5 tracks (`SUNROOM_EAST`, `MIC_04_PANTRY`, `STAIRWELL_4`, `BOATHOUSE_LINT`, `HYDROPHONE_COVE`), 3 redundant servers + `ARCHIVE` directory, dedicated UPS battery bank, compact cellular bridge, and 3 blind spots; a `4:12 PM` Wed wind-filter batch-render log; and the northeast acoustic dead-zone (directional foam baffles & bass traps absorbing mid-to-high frequencies). The steel drafting table reveals Graham frantically reconstructing skiff drift and transponder gaps. As she pries open the `ARCHIVE — DO NOT ERASE` steel locker and lifts a padded envelope, someone slams and deadbolts Zone 4's steel fire door from outside.
+- **Beat Summary:** Tessa inspects the unified Soundworks rack: 5 tracks (`SUNROOM_EAST`, `MIC_04_PANTRY`, `STAIRWELL_4`, `BOATHOUSE_LINT`, `HYDROPHONE_COVE`), 3 redundant servers + `ARCHIVE` directory, dedicated UPS battery bank, compact cellular bridge, and 3 blind spots; an `Oct 21 – Nov 4, 7:05 AM` wind-filter batch-render log plus a `4:45 PM` Wed alert showing three failed passphrase lockouts; and the northeast acoustic dead-zone (directional foam baffles & bass traps absorbing mid-to-high frequencies). The steel drafting table reveals Graham frantically reconstructing skiff drift and transponder gaps. As she pries open the `ARCHIVE — DO NOT ERASE` steel locker and lifts a padded envelope, someone slams and deadbolts Zone 4's steel fire door from outside.
 
 ### Chapter 13
 - **POV & Setting:** Tessa; Basement Zone 4 (Thu, Nov 5, 2:30 AM – 6:05 AM).
