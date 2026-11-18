@@ -14,45 +14,45 @@
 ## 2. High-Converting Amazon Store Blurb (Markdown & KDP HTML)
 
 ### Clean Store Blurb
-**Rule #1: Catalog every dress, every receipt, and every photograph.**
-**Rule #2: Never open the acoustic darkroom under the stairs.**
-**Rule #3: Don’t ask why the missing wife’s packed suitcase is still in the hall.**
+**Rule #1:** Catalog every dress, every canvas, and every piece of jewelry.  
+**Rule #2:** Never open the steel door to the acoustic darkroom under the stairs.  
+**Rule #3:** Don’t ask why the drowned wife’s packed suitcase is still hidden in the hall closet.
 
-Disgraced fraud investigator **Clara Vance** doesn’t ask questions—she erases messes. When you’re buried under an $18,412 court judgment and living out of a navy canvas duffel bag, you take the contracts nobody else will touch.
+Blacklisted insurance fraud investigator Clara Vance learned the hard way that telling the truth doesn't pay the rent. Buried under an $18,412 court judgment and days away from a bank levy, she’s reduced to taking the off-the-books contracts nobody else will touch.
 
-So when grieving tech founder **Julian Mercer** offers her $15,000 cash for fourteen days of live-in "estate archiving" at his secluded glass-and-cedar house on Salt Point, Maine, Clara signs the fifty-thousand-dollar NDA without blinking. Three weeks ago, Julian’s brilliant, reclusive wife, **Evelyn**, took a skiff into a midnight squall and never came back. Now Julian wants her belongings quietly boxed and cleared before the Boston probate lawyers—and the press—descend.
+When grieving tech founder Julian Mercer offers her $15,000 cash for four days of emergency estate cataloging at his glass-and-cedar house on Salt Point, Maine, Clara signs his fifty-thousand-dollar NDA without blinking. Three weeks ago, Julian’s wealthy wife, Evelyn, took a skiff into an October squall and vanished into freezing water. Now Julian needs her belongings itemized and boxed before Boston probate lawyers—and the press—lock down the estate on Friday.
 
-It should be simple. Pack the closet. Shred the drafts. Collect the check.
+It should be simple. Log the closet. Pack the studio. Collect the cash.
 
-Except Evelyn’s prescription bottles are full of the wrong pills. Her favorite silver fountain pen shows ink wear for a left-handed writer—and Evelyn was right-handed. And beneath the heavy wool rug in the sunroom, someone scrubbed bleach into the cedar floorboards until the wood turned bone-white.
+Except the luggage tag on Evelyn’s hidden weekender is stamped three days *after* she supposedly drowned. Her silver fountain pen is ground down for a left-handed writer—and Evelyn was right-handed. Crushed sleeping pills cake the master bathroom drainpipe, and beneath the heavy wool rug in the sunroom, someone recently scrubbed household bleach and linseed oil into the cedar floorboards until the wood turned bone-pale.
 
-Worse, the smart-home acoustic server Julian claims is "offline" just recorded a whisper from inside the walls at 2:14 a.m.
+Worse, the house’s high-end acoustic array isn't just recording the storm outside—someone is using it from the shadows to stitch Clara’s own voice into a murder confession.
 
-As a November nor'easter floods the only tidal causeway off the peninsula, Clara realizes she didn't come to Salt Point to clean up a dead woman’s past. She stepped straight into a frame job built for two—and she has until Friday’s high tide to figure out whether her employer is a grieving widower, a cold-blooded killer… or bait.
+As a November gale floods the only tidal causeway off the peninsula, Clara realizes she wasn't hired to pack a dead woman’s wardrobe. She walked straight into a frame job built for two—and she has until high water to figure out whether her employer is a grieving widower, a cold-blooded killer… or bait.
 
-*Perfect for fans of Freida McFadden, Lisa Jewell, and Ruth Ware, **The Wife's Inventory** is a razor-sharp, locked-room domestic suspense thriller packed with forensic twists and a heroine who refuses to be buried.*
+*Perfect for fans of Freida McFadden, Lisa Jewell, and Ruth Ware, **The Wife's Inventory** is a razor-sharp, locked-room coastal suspense thriller packed with forensic twists and a heroine who refuses to be buried.*
 
 ---
 
 ### KDP-Ready HTML Blurb (Copy-Paste into Amazon Book Description)
 ```html
-<p><b>Rule #1: Catalog every dress, every receipt, and every photograph.<br>
-Rule #2: Never open the acoustic darkroom under the stairs.<br>
-Rule #3: Don’t ask why the missing wife’s packed suitcase is still in the hall.</b></p>
+<p><b>Rule #1:</b> Catalog every dress, every canvas, and every piece of jewelry.<br>
+<b>Rule #2:</b> Never open the steel door to the acoustic darkroom under the stairs.<br>
+<b>Rule #3:</b> Don’t ask why the drowned wife’s packed suitcase is still hidden in the hall closet.</p>
 
-<p>Disgraced fraud investigator <b>Clara Vance</b> doesn’t ask questions—she erases messes. When you’re buried under an $18,412 court judgment and living out of a duffel bag, you take the contracts nobody else will touch.</p>
+<p>Blacklisted insurance fraud investigator Clara Vance learned the hard way that telling the truth doesn't pay the rent. Buried under an $18,412 court judgment and days away from a bank levy, she’s reduced to taking the off-the-books contracts nobody else will touch.</p>
 
-<p>So when grieving tech founder <b>Julian Mercer</b> offers her $15,000 cash for fourteen days of live-in "estate archiving" at his secluded glass-and-cedar house on Salt Point, Maine, Clara signs the NDA without blinking. Three weeks ago, Julian’s brilliant, reclusive wife, <b>Evelyn</b>, took a skiff into a midnight squall and never came back. Now Julian wants her belongings quietly boxed and cleared before the probate lawyers—and the press—descend.</p>
+<p>When grieving tech founder Julian Mercer offers her $15,000 cash for four days of emergency estate cataloging at his glass-and-cedar house on Salt Point, Maine, Clara signs his fifty-thousand-dollar NDA without blinking. Three weeks ago, Julian’s wealthy wife, Evelyn, took a skiff into an October squall and vanished into freezing water. Now Julian needs her belongings itemized and boxed before Boston probate lawyers—and the press—lock down the estate on Friday.</p>
 
-<p>It should be simple. Pack the closet. Shred the drafts. Collect the check.</p>
+<p>It should be simple. Log the closet. Pack the studio. Collect the cash.</p>
 
-<p>Except Evelyn’s prescription bottles are full of the wrong pills. Her favorite fountain pen shows ink wear for a left-handed writer—and Evelyn was right-handed. And beneath the rug in the sunroom, someone scrubbed bleach into cedar floorboards until the wood turned bone-white.</p>
+<p>Except the luggage tag on Evelyn’s hidden weekender is stamped three days <i>after</i> she supposedly drowned. Her silver fountain pen is ground down for a left-handed writer—and Evelyn was right-handed. Crushed sleeping pills cake the master bathroom drainpipe, and beneath the heavy wool rug in the sunroom, someone recently scrubbed household bleach and linseed oil into the cedar floorboards until the wood turned bone-pale.</p>
 
-<p>Worse, the smart-home server Julian claims is "offline" just recorded a whisper from inside the walls at 2:14 a.m.</p>
+<p>Worse, the house’s high-end acoustic array isn't just recording the storm outside—someone is using it from the shadows to stitch Clara’s own voice into a murder confession.</p>
 
-<p>Clara came to Salt Point to clean up a dead woman’s past. Instead, she’s stepped straight into a trap built for two—and she has until Friday’s high tide to figure out whether her employer is a grieving widower, a cold-blooded killer… or bait.</p>
+<p>As a November gale floods the only tidal causeway off the peninsula, Clara realizes she wasn't hired to pack a dead woman’s wardrobe. She walked straight into a frame job built for two—and she has until high water to figure out whether her employer is a grieving widower, a cold-blooded killer… or bait.</p>
 
-<p><i>Perfect for fans of Freida McFadden, Lisa Jewell, and Ruth Ware, <b>The Wife's Inventory</b> is a claustrophobic, fast-paced domestic psychological thriller that will keep you turning pages until the final twist.</i></p>
+<p><i>Perfect for fans of Freida McFadden, Lisa Jewell, and Ruth Ware, <b>The Wife's Inventory</b> is a razor-sharp, locked-room coastal suspense thriller packed with forensic twists and a heroine who refuses to be buried.</i></p>
 ```
 
 ---
