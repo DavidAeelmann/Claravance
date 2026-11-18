@@ -23,7 +23,7 @@ BOOK_AUTHOR = "David Seelmann"
 BOOK_COPYRIGHT = "© 2026 David Seelmann"
 BOOK_UUID = str(uuid.uuid5(uuid.NAMESPACE_DNS, "the-wifes-inventory-david-seelmann-book-1"))
 
-COVER_PATH = "cover_final.jpg"
+COVER_PATH = "cover_1.jpg"
 MAP_PATH = "Gemini_Generated_Image_texmwatexmwatexm.jpg"
 MAP_TITLE = "Salt Point Estate Map"
 EPUB_OUTPUT = "The_Wifes_Inventory.epub"

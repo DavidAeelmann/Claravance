@@ -23,7 +23,7 @@ BOOK_AUTHOR = "David Seelmann"
 BOOK_COPYRIGHT = "© 2026 David Seelmann"
 BOOK_UUID = str(uuid.uuid5(uuid.NAMESPACE_DNS, "the-caretakers-ledger-david-seelmann-book-2"))
 
-COVER_PATH = "cover_final.jpg"
+COVER_PATH = "cover_2.jpg"
 MAP_PATH = "Gemini_Generated_Image_oo8w71oo8w71oo8w.jpg"
 MAP_TITLE = "Cragmont Lodge Map"
 EPUB_OUTPUT = "The_Caretakers_Ledger.epub"
