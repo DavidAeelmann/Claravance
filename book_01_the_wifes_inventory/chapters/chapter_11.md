@@ -1,24 +1,24 @@
 # Chapter 11
 
-At two in the morning, the cast-iron radiator under my window ticks once and goes dead silent.
+At 1:52 AM, the cast-iron radiator under my window ticks once and goes dead silent.
 
-I lie on top of the stripped quilt fully dressed in my jeans and flannel shirt, staring at the faint blue glow of my laptop screen on the nightstand. Lydia Kiefer's St. Andrews passport timestamp sits burned behind my eyelids: *November 3, 09:42 AST.* Forty hours ago, a woman supposedly drowned in a coastal gale walked off a private dock in New Brunswick. Right now, her husband is sleeping down the hall after swallowing a bourbon glass swirled with chalky sediment, and at four this afternoon I'm supposed to hand him a clean probate schedule.
+I lie on top of the stripped quilt fully dressed in my jeans and flannel shirt, staring at the faint blue glow of my laptop screen on the nightstand. Lydia Kiefer's St. Andrews passport timestamp sits burned behind my eyelids: *November 3, 09:42 AST.* Forty hours ago, a woman supposedly drowned in a coastal gale walked off a private dock in New Brunswick. Right now, her husband is sleeping upstairs after swallowing a bourbon glass swirled with chalky sediment, and at four this afternoon I'm supposed to hand him a clean probate schedule.
 
 Every creditor notice taped to my Portland door taught me one rule: nobody puts my signature on crooked books, and nobody traps me in a house while they rewrite the ledger. Walking out at dawn isn't an option anymore—not with a county deputy holding co-owner installer PINs to this house and a fifty-thousand-dollar breach clause waiting if I run without hard proof of October fourteenth.
 
 I swing my legs off the bed, pull on a pair of thick wool socks, and tuck my phone into my back jeans pocket. My knuckles brush the heavy brass front-door key beside my multi-tool—a thin margin of safety in a house that feels more like a locked vault by the hour.
 
-At 2:14 AM, a sharp metallic *clack* carries straight up through the house's cedar framing.
+At 2:27 AM, a sharp metallic *clack* carries straight down the ground-floor framing from the kitchen wing.
 
-Not the muffled groan of the front deadbolt, and not the hydraulic gate out by the gravel road. It sounds like a heavy steel latch dropping home inside a hollow wall directly beneath the kitchen wing—short, resonant, and unmistakable in the dead quiet between wind gusts. For two seconds after the snap, a faint vibration hums through the baseboard radiator pipes, as if a counterweight or cable just settled against timber framing.
+Not the muffled groan of the front deadbolt, and not the hydraulic gate out by the gravel road. It sounds like a heavy steel latch dropping home inside a hollow wall near the pantry—short, resonant, and unmistakable in the dead quiet between wind gusts. For two seconds after the snap, a faint vibration hums through the baseboard radiator pipes, as if a counterweight or cable just settled against timber framing.
 
 I freeze with my hand on the guest-suite doorknob.
 
-Nothing else moves on the upper landing. I ease the cedar latch open without letting the tongue click, step out into the hallway, and pause beside the master suite door. The seam along the bottom threshold is pitch dark. I lean close enough to smell cedar polish and faint bourbon on the air, listening for steady breathing or floorboards shifting inside. Nothing. Either the swapped glass knocked Graham out cold until morning, or he isn't upstairs in his bed at all.
+Nothing else moves in the north hall. I ease the cedar latch open without letting the tongue click, step out into the corridor, and pause at the foot of the main oak stairs. The upper landing is pitch dark. I listen hard for steady breathing or floorboards shifting overhead in the master suite. Nothing. Either the swapped glass knocked Graham out cold until morning, or he isn't upstairs in his bed at all.
 
-I turn toward the rear corridor and take the narrow back service stairs down to the kitchen wing, hugging the plaster wall where the pine treads stay quiet. Halfway down, a gust of gale wind slams against the seaward glass of the sunroom, rattling the mullions hard enough to make me pause with one foot hovering in midair until the glass settles.
+I turn away from the stairs and pad down the north hall toward the kitchen wing, hugging the plaster wall where the oak planks stay quiet. Halfway down, a gust of gale wind slams against the seaward glass of the sunroom, rattling the mullions hard enough to make me pause mid-stride until the glass settles.
 
-Below me, the house hums in its overnight idle: crawlspace dehumidifier thumping softly underfoot, wind rattling the glass pantry entry door in its rubber seals. Through the living room arch, the hearth sits cold and gray. Two crystal tumblers still sit in the living room where Graham and I left them before ten, though from here I can't tell whether Graham finished his swapped pour after I went upstairs.
+Ahead of me, the house hums in its overnight idle: crawlspace dehumidifier thumping softly underfoot, wind rattling the glass pantry entry door in its rubber seals. Through the living room arch, the hearth sits cold and gray. Two crystal tumblers still sit in the living room where Graham and I left them before ten, though from here I can't tell whether Graham finished his swapped pour after I went to bed.
 
 I duck into the mudroom first, keeping low beneath the smart-home wall tablet's dim blue standby glow, and slide my fingers into the breast pocket of my waxed canvas jacket. The small tissue-wrapped lump of the rusted **B-4** key is still there. I pull it out, peel back a corner of the acid-free tissue to feel the warded brass teeth, and drop it straight into my front jeans pocket beside my folding steel multi-tool. If I end up locked out of the pantry shaft downstairs, that old key might be the only thing between me and the foyer stairs.
 

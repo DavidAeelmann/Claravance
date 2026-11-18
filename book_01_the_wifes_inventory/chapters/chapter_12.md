@@ -16,7 +16,7 @@ I glance nervously toward the steel fire door under the foyer stairs, its heavy 
 
 I nudge the desk mouse just enough to wake the right-hand monitor without playing the video.
 
-A batch-render log fills the screen, dated from October sixteenth through yesterday afternoon. Someone spent three weeks running wind-noise filters over a single eight-minute window—02:09 to 02:17—trying to pull human voices out from under gale roar. The last render timestamp reads 4:12 PM, right before dusk. At four-twelve yesterday, Graham's Audi was ninety miles south on I-95, and I was down at Maren's cove shed. Somebody stood right here scrubbing audio while the house sat empty—minutes before I spotted a flashlight inside the locked boathouse.
+A batch-render log fills the screen, dated from October twenty-first through yesterday morning. Someone spent two weeks running wind-noise filters over a single eight-minute window—02:09 to 02:17—trying to pull human voices out from under gale roar. The last completed render timestamp reads November 4 at 7:05 AM, ten minutes before Graham left for Portland. Below it sits a red terminal alert stamped 4:45 PM: three failed passphrase lockouts on the encrypted export queue. At four-forty-five yesterday, Graham's Audi was ninety miles south on I-95, and I was down at Maren's cove shed. Somebody stood right here trying to scrub or pull that audio while the house sat empty—minutes before I spotted a flashlight inside the locked boathouse.
 
 Either someone down here was trying to hear what happened on October fifteenth—or trying to erase a voice before today's courier arrives.
 
@@ -46,7 +46,7 @@ Still, if Lydia scanned her passport in New Brunswick Tuesday morning—and Cole
 
 I glance back across the room toward the glowing left-hand monitor.
 
-In the grainy infrared frame, Graham's rain slicker hood is pulled low over his brow. You can't see his eyes, and you can't see his left hand—it's buried deep inside the canvas fold of the rug, while the right sleeve hangs slightly loose at the wrist as if the coat fits a broader shoulder.
+In the grainy infrared frame, the rain slicker's hood is pulled low over the figure's brow. You can't see the eyes, and the left hand is buried deep inside the canvas fold of the rug—yet the slicker's shoulders strain tight across a heavier frame, pulling the right cuff short above a thick wrist and metal watchband.
 
 Before I can cross back to zoom in on the slicker's cuff, the cold beam of my phone catches a tall gray steel cabinet bolted into the masonry beside the drafting table.
 
@@ -70,7 +70,7 @@ I pull the gray door open, catching the edge with my fingertips so the bent latc
 
 Inside, the cabinet holds no spare server drives and no audio reels. The upper and lower shelves sit completely bare, wiped clean enough that not even a curl of solder wire or a loose thumbscrew remains on the gray steel.
 
-On the middle shelf lies a single thick padded manila envelope, its brass clasp bent flat beneath overlapping strips of red tamper-evident tape. Someone scrawled `OCT 14 — MASTER BACKUP / DO NOT OPEN BEFORE PROBATE` across the front in thick black marker—Graham's block script, slightly slanted at the end as if his hand shook when he wrote it. Through the stiff kraft paper, I can feel the sharp rectangular edge of folded legal documents and a smaller, hard plastic lump like an encrypted thumb drive tucked inside the lower corner. Not a speck of dust sits on the envelope's upper edge; whoever owns this locker checked it recently, probably right before the 2:14 AM latch click woke me upstairs.
+On the middle shelf lies a single thick padded manila envelope, its brass clasp bent flat beneath overlapping strips of red tamper-evident tape. Someone scrawled `OCT 14 — MASTER BACKUP / DO NOT OPEN BEFORE PROBATE` across the front in thick black marker—Graham's block script, slightly slanted at the end as if his hand shook when he wrote it. Through the stiff kraft paper, I can feel the sharp rectangular edge of folded legal documents and a smaller, hard plastic lump like an encrypted thumb drive tucked inside the lower corner. Not a speck of dust sits on the envelope's upper edge; whoever owns this locker checked it recently, probably right before the 2:27 AM latch click echoed from the kitchen wing.
 
 I reach in, wrap my fingers around the padded envelope, and lift it clear of the metal shelf.
 

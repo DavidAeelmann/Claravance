@@ -1,6 +1,6 @@
 # Chapter 9
 
-By half past four, the coastal fog thickens into wet iron-gray dusk, and my guest-access link on the Kiefer Soundworks app flashes a five-minute expiration warning.
+At four-thirty, the coastal fog thickens into wet iron-gray dusk, and my guest-access link on the Kiefer Soundworks app flashes a thirty-minute expiration warning.
 
 I stand in the mudroom, pulling my waxed jacket off the peg beside Graham's wool coat. My fingers brush the breast pocket automatically, checking the tissue-wrapped B-4 key inside the lining. Upstairs, three wardrobe cartons sit neatly taped in the master closet—enough work to pass a glance when Graham returns.
 
@@ -68,17 +68,17 @@ Maren lifts her chin, her voice dropping so low I have to step closer to catch i
 
 "Then how did the boat clear the harbor?"
 
-"Same way it went out two nights *before* the storm," Maren says, wiping her damp palm down her oilskin apron. "Lydia came down here on Monday afternoon—October twelfth, two days before the gale hit. Walked down the cliff trail alone in a thin cashmere sweater, no coat, shivering like a wet cat. Didn't even have boots on, just leather loafers ruined by the kelp. Dropped that five-grand envelope beside my twine spools before she even asked her question."
+"Same way it went out two nights *before* the storm," Maren says, wiping her damp palm down her oilskin apron. "Lydia came down here on Monday afternoon—October twelfth, two days before the gale hit. Walked down the cliff trail alone in a thin cashmere sweater, no coat, shivering like a wet cat. Didn't even have boots on, just leather loafers ruined by the kelp. Dropped that five-grand envelope beside my twine spools before she even asked her favor."
 
 I stay completely still. "What did she want?"
 
-"Asked me if I had any spare marine flares, then stood right where you're standing watching me splice a lead line." Maren's mouth twists into a bitter line. "She picked up an old brass GPS bracket off my bench, turned it over in her hands, and started asking casual questions about commercial skiffs. Wanted to know how hard it is to kill a boat's GPS transponder without blowing the main helm fuse—whether pulling the antenna coax leaves a dead-signal log on the harbor repeater or just looks like storm interference."
+"Wanted me to keep my sorting-shed dock lights killed and stay indoors behind drawn shades once the storm rolled in—said she was staging a surprise late-night launch for a private photography project and didn't want neighbor floodlights ruining the cove." Maren's mouth twists into a bitter line. "While I was counting the bills, she picked up an old brass bracket off my bench and started making casual small talk about harbor VHF repeater coverage—whether a hard southeast squall knocks out local marine radio reception along the point."
 
-Lydia Kiefer didn't get ambushed in her sleep on October fourteenth. Two days before the gale, while Graham claims she was locked in her studio sketching coastal pines, she was standing in a cove sorting shed paying five grand in hush money and asking how to make a boat vanish off coastal radar without tripping a fuse. A boat without a live transponder can't be tracked by the Coast Guard—and a woman who cuts her own coax cable doesn't need to be dragged off a dock in the middle of the night.
+Lydia Kiefer didn't get ambushed in her sleep on October fourteenth. Two days before the gale, while Graham claims she was locked in her studio sketching coastal pines, she was standing in a cove sorting shed paying five grand in hush money to buy a dark, empty shoreline—and using VHF repeater chatter as polite cover.
 
-"Did she say why?" I ask, keeping my voice steady.
+"Did she say why she cared about the radio?" I ask, keeping my voice steady.
 
-"Said she was writing a magazine profile on off-grid lobster poaching." Maren snorts softly, without a shred of humor. "Woman couldn't tell a Jonah crab from a quahog, and she suddenly cared about VHF repeaters and dead-signal logs. Now get out of here before dusk drops completely. I've already said ten times more than my mooring is worth. If Graham—or Cole—sees you coming up off my beach, they'll seal that gate before you hit your car."
+"Said she was writing a magazine profile on off-grid lobster poaching." Maren snorts softly, without a shred of humor. "Woman couldn't tell a Jonah crab from a quahog, and she suddenly cared about VHF repeaters and storm interference. Now get out of here before dusk drops completely. I've already said ten times more than my mooring is worth. If Graham—or Cole—sees you coming up off my beach, they'll seal that gate before you hit your car."
 
 ***
 

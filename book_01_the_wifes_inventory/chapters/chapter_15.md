@@ -1,22 +1,22 @@
 # Chapter 15
 
-I do not drop the brass wrench. My fingers stay locked around the cold knurled handle while I stare past the foyer sidelights at my silver Civic sitting in the mist.
+By three-thirty in the afternoon, gray rain lashes the sidelights harder, and Graham's phone still hasn't pinged with the Boston courier's ferry-approach confirmation. I do not drop the brass wrench. My fingers stay locked around the cold knurled handle while I stare past the foyer glass at my silver Civic sitting in the mist.
 
 The trunk lid hovers open just enough to show a dark seam above the bumper latch. Whoever popped my Civic under cover of fog didn't use a crowbar; they used the spare key fob sitting in my guest-room duffel.
 
-"We can't leave those boots on the slate," Graham says, voice scraped raw. He rubs the back of his neck, glancing toward the front door. "If Cole Halstead rolls up that driveway with a warrant, he won't ask who unlocked your trunk."
+"We can't leave those boots on the slate," Graham says, voice scraped raw from seven hours of a silent, teeth-gritted truce while I shot every upstairs closet and linen shelf for his Arlington file. He rubs the back of his neck, glancing toward the front door. "If Cole Halstead rolls up that driveway with a warrant, he won't ask who unlocked your trunk."
 
-"Cole doesn't have a warrant yet," I say. "If he did, he wouldn't wait until dawn to kick the door in. He's stacking the paper first."
+"Cole doesn't have a warrant yet," I say. "If he did, he wouldn't wait until mid-afternoon to kick the door in. He's stacking the paper first."
 
-I step back from the foyer arch, my damp wool socks squelching faintly against stone. Exhaustion sits behind my eyes like wet sand, grit-sharp after two sleepless nights. Walking out now leaves five grand on the table and puts me on the causeway with a dirty trunk.
+Exhaustion sits behind my eyes like wet sand, grit-sharp after two sleepless nights. Walking out now leaves five grand on the table and puts me on the causeway with a dirty trunk.
 
-"Get a towel for the floor," I tell him. "Then take me to your study. All of it—the server rack, the admin key, whatever you hid behind that basement partition."
+"Get a towel for the floor," I tell him. "The upstairs inventory is on your cloud. Now take me to your study. All of it—the server rack, the admin key, whatever you hid behind that basement partition."
 
 Graham hesitates. A faint twitch pulls at the corner of his mouth. "The study rack only mirrors the house array. The raw acoustic buffers are encrypted on the thumb drive you're holding."
 
 "You wrote the encryption," I say, tapping the flat of the wrench against my thigh. "Which means you have the master key upstairs. Move."
 
-He doesn't argue. He grabs a folded dish towel from the kitchen threshold, swabs the brackish puddle off the foyer slate in three tight strokes, shoves the kelp-crusted duck boots into the back of the foyer coat closet, and tosses the rag into the mudroom sink. I detour past the guest suite just long enough to pull on my dry spare sneakers and check my navy duffel. The $5,000 envelope still sits untouched under my folded shirts inside the main compartment, yet when I yank open the outer side pouch—the exact zipper pull I noticed flipped outward last night—my spare Civic key fob is gone. Not Graham sweeping my bag last night: Lydia lifted that fob before dark so she could walk out into the fog after midnight, pop my trunk silently, and drop her duck boots, bleach rag, and bronze cleat into my spare-tire well. I yank the duffel shut and hurry down the north hall.
+He doesn't argue. He grabs a folded dish towel from the kitchen threshold, swabs the brackish puddle off the foyer slate in three tight strokes, shoves the kelp-crusted duck boots into the back of the foyer coat closet, and tosses the rag into the mudroom sink. I detour past my ground-floor guest suite just long enough to stow my camera and check my navy duffel. The $5,000 envelope still sits untouched under my folded shirts inside the main compartment, yet when I yank open the outer side pouch—the exact zipper pull I tucked flat Tuesday night now flipped outward—my spare Civic key fob is gone. Not Graham sweeping my bag last night: Lydia lifted that fob before dark so she could walk out into the fog after midnight, pop my trunk silently, and drop her duck boots, bleach rag, and bronze cleat into my spare-tire well. I yank the duffel shut and hurry down the north hall.
 
 Graham's study sits off the north hall, opposite the sunroom. Unlike the glass-and-cedar showcase rooms at the front of the house, this room is narrow, lined with dark acoustic baffling and floor-to-ceiling walnut shelving. The air smells like warm dust and cedar shavings, overlaid with the faint metallic tang of electronics running hot.
 
@@ -46,9 +46,9 @@ On the right-hand screen, unlocked behind the terminal window, sits a local dire
 
 While Graham keeps both hands visible near the desk edge, I flip the folder open with my free hand. Inside sits a two-page Boston investigator's memo dated October twenty-first—complete with my Commercial Street fire-manifest termination, my $18,412 Cumberland County judgment, and Graham's own typed screening notes stapled on top:
 
-*Refused dirty sign-off 2023. $18,412 levy pending Nov. Cornered enough to take cash; stubborn enough not to walk past staged wood or a dry life vest. Put under $50k IP NDA to prevent county leaks until Arlington clears. Watch what Oct 15 tampering she flags first.*
+*Refused dirty sign-off 2023. $18,412 levy pending Nov. Cornered enough to take cash; stubborn enough not to walk past a six-minute Zone 4 dropout or a dry life vest. Put under $50k IP NDA to prevent county leaks until Arlington clears. Watch what Oct 15 tampering she flags first.*
 
-I slide the stapled memo across the blotter over his mouse hand. "October twenty-first," I say, tapping the note with the brass wrench. "You ran a background check on my eviction ledger the exact day you spotted the sunroom scar. You didn't hire me because you trusted me, Graham. You bought a cornered investigator for a silent tripwire—and left me blind while Cole Halstead ran county plates on me."
+I slide the stapled memo across the blotter over his mouse hand. "October twenty-first," I say, tapping the note with the brass wrench. "You ran a background check on my eviction ledger the exact day you spotted the Zone Four dropout and the dry life vest. You didn't hire me because you trusted me, Graham. You bought a cornered investigator for a silent tripwire—and left me blind while Cole Halstead ran county plates on me."
 
 Graham doesn't pull his hand back. His jaw works once beneath gray stubble. "I needed the Arlington inventory finished before November fourteenth, and I needed eyes nobody in Knox County had bought yet. If I briefed a stranger on day one and you walked straight to a deputy, I went to prison before I knew who was dirty."
 
@@ -90,7 +90,7 @@ Then Lydia laughs.
 
 It's a short, bright sound, completely unbothered by the storm howling outside the glass. Beneath the laugh, a wet rag squeaks rhythmically along varnished wood—someone wiping down an oar shaft.
 
-*"Leave the Montblanc on the blotter,"* Lydia says, her footsteps fading toward the stairwell. *"If Graham wants to play tidy widower, let him explain why the ink's still wet."*
+*"Leave the Montblanc beside the smudged note on the blotter,"* Lydia says, her footsteps fading toward the stairwell. *"If Graham wants to play tidy widower, let him explain a rushed departure list in the studio."*
 
 A heavy door thuds shut. The waveform drops flat.
 

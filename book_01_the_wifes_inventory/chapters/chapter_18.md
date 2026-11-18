@@ -30,9 +30,11 @@ The outgoing chop pulls hard at my legs, tugging me toward the barnacle-crusted 
 
 I break the surface gasping, clinging to the jagged rock shelf just north of Maren Lindqvist's shuttered cove sorting shed. Salt spray blinds my eyes. My jaw locks so violently my molars crack together, and every thought feels wrapped in wet wool—slow, narrow, reduced to *hold the rock, don't let the undertow take your boots.*
 
-Up at the boathouse, the double doors stand wide open. Cole's heavy silhouette fills the frame, his right hand clamped tight around his bleeding left wrist while Lydia's pale face appears beside his shoulder, scanning the churning cove through the driving rain.
+Up at the boathouse, the double doors stand wide open. Cole's heavy silhouette fills the frame, his right hand clamped tight around his bleeding left wrist while Lydia's pale face appears beside his shoulder, scanning the churning cove through the driving rain. As she lunges toward the slipway edge for another shot, Cole steps in front of her to grab her arm, his boot skidding on wet kelp—and his elbow clips her wrist, knocking the matte-black Glock 26 straight out of her hand into the black slipway water with a sharp *plunk*.
 
-"She went under the pilings!" Cole shouts over the surf, stepping in front of Lydia's shoulder while clamping one hand over his bleeding cuff. "Get up to the house and finish Graham's suicide note on that tablet! The surge is taking the causeway—I'll lock down the spur before she crawls out and blows this wide open!"
+"Damn it, Cole!" Lydia hisses, staring down into the churning gap.
+
+"Leave it—she went under the pilings!" Cole shouts over the surf, clamping one hand over his bleeding cuff. "Get up to the house and finish Graham's suicide note on that tablet! The surge is taking the causeway—I'll lock down the spur before she crawls out and blows this wide open!"
 
 I press flat against the wet kelp ledge until Lydia turns back toward the cliff stairs, her waxed-canvas jacket disappearing into the mist. Cole lingers for three beats, cursing under his breath as he wraps a rag from his belt around his wrist, then cuts toward the gravel spur to seal off the ridge road.
 
@@ -54,7 +56,7 @@ The slate steps feel twice as steep going up in waterlogged sneakers and lead-he
 
 Halfway up the rock face, a gust off Penobscot Bay slams me flat against wet granite. My scraped right palm tears open afresh on the lichen, and violent shivering spasms lock both quads until I drop onto one knee on the slick riser. For three slow beats my head swims—a quiet fog whispering I should sit out of the wind for thirty seconds. That's how hypothermia kills you on cold stone: it convinces you to pause. I force my stiff jaw open, count ten steps aloud through locked teeth, and haul myself upward by my elbows.
 
-Every step races Lydia's *5:15 PM* surge. If she and Cole seal the house before I pull the live boathouse relay off the basement server, nobody survives this gale to contradict their script.
+By quarter to five, darkening twilight settles over the headland. Every step races Lydia's *5:15 PM* surge. If she and Cole seal the house before I pull the live boathouse relay off the basement server, nobody survives this gale to contradict their script.
 
 I crest the top slate tread, dropping low behind the sodden juniper bushes that border the back lawn. My ribs ache with every ragged inhale, and my clumsy fingers barely feel the rusted knife handle pressed against my thigh. If I wait here in the wind, my hands will lock too stiff to turn a key.
 

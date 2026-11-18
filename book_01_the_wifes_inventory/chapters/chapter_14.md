@@ -60,9 +60,9 @@ He stops mid-sentence. His fingers lock hard around the edge of the limestone co
 
 "Lydia," I finish for him.
 
-Graham nods once, slowly. "On October twenty-first—a week after the storm—I noticed unexplained server anomalies in Zone Four, a six-minute dropout in the October fifteenth acoustic logs. Checking upstairs, I spotted a bleached patch under the sunroom rug and realized the life vest Halstead logged smelled like tap water, with a crisp lot stamp that never came off our skiff. Someone tampered with my house, and I couldn't walk into a state police barracks screaming conspiracy while sitting on a two-point-four-million-dollar trust deficit."
+Graham nods once, slowly. "On October twenty-first—a week after the storm—I noticed unexplained server anomalies in Zone Four, a six-minute dropout in the October fifteenth acoustic logs. Checking the mudroom, I realized the life vest Halstead logged smelled like tap water, with a crisp lot stamp that never came off our skiff. Someone tampered with my house, and I couldn't walk into a state police barracks screaming conspiracy while sitting on a two-point-four-million-dollar trust deficit."
 
-"And whoever came back right before Monday re-wiped that sunroom scar with fresh linseed oil," I say, shifting my grip on the brass wrench. "Which still doesn't explain why you hired a blacklisted fraud investigator under a fifty-thousand-dollar gag clause to pack sweaters."
+"And someone staged the bleached sunroom floor under the rug on November first, right before I arrived," I say, shifting my grip on the brass wrench. "Whoever pried the baseboard to mop leaked bleach dropped a pilfered legacy B-4 basement key behind the trim and didn't notice until after they hammered it back. Which still doesn't explain why you hired a blacklisted fraud investigator under a fifty-thousand-dollar gag clause to pack sweaters."
 
 Graham's mouth shuts in a tight line. For two seconds he looks toward the hallway as if weighing how much of his hand sits unlocked on his study desk. "The Arlington probate deadline is real, Tessa. Anything else sits encrypted upstairs—not on my tongue while you're holding a pipe wrench."
 
@@ -88,8 +88,16 @@ Graham's jaw goes slack.
 
 I keep three paces behind him, gripping the brass wrench, and stop on the foyer slate. Pale dawn gray filters straight down through the high cedar-framed skylight hatch above the foyer coat bench—the sole glass panel clear above the hurricane-shutter housings capping the lower bays—catching a cold puddle by the stairs.
 
+"And the olive weekender shoved behind your wool overcoats?" I ask, nodding toward the tall cedar closet beside the stairs. "Bar Harbor–Yarmouth, Slip Four, stamped October seventeenth—three days after you say she drowned."
+
+Graham turns sharply, pulls the closet door wide, and parts two heavy wool coats. His shoulders drop an inch as he stares at the green canvas bag. "That wasn't here Sunday night. Halstead came by Monday morning to drop off a supplemental marine report while I was in the cellar—he stood right in this vestibule for five minutes."
+
 Through the tall glass sidelights, mist curls across the wet gravel turnaround. My silver 2014 Honda Civic sits parked near the pines—except its rear trunk lid stands popped ajar above the bumper latch.
 
 Graham points down at the kelp-crusted women's duck boots and mud-streaked navy tote dripping brackish rainwater onto the stone tile.
 
 "When I woke up at five-forty-five and found the front door unlatched, I stepped onto the porch," Graham says quietly. "Your trunk was popped open. I found those boots—and a bleach-stained boat rag wrapped around a rusted bronze cleat—shoved down inside your spare-tire well, Tessa. They didn't just plant them to bury me. They planted them to put you in the sunroom right beside me."
+
+I stare at the open trunk. "Give me the thirty-two-character passphrase for the raw basement partition. Right now."
+
+Graham shakes his head. "Not until you finish the mandatory upstairs inventory photos for the Arlington probate packet. If Bramwell and Shaw's five o'clock courier walks into an incomplete file, I default either way. Shoot the rooms; I'll mount it this afternoon."

@@ -18,7 +18,7 @@ I pocket the phone and drive. The heavy brass wrench sits on the desk blotter be
 
 Graham grabs my forearm before I can turn toward the hall. His grip is clammy, fingers digging through my flannel sleeve. "Tessa, listen to me. You don't understand what Cole is when nobody's watching. If he has a warrant, he's not coming up here to read us our rights."
 
-"Then stall him," I say, prying his fingers off my wrist one by one. "Lock the front deadbolt. Leave the chain on. Make him hold the warrant paper up against the glass sidelights until you've read every line. Even a dirty deputy won't kick in a glass front door in broad daylight without burning a few minutes on the porch."
+"Then stall him," I say, prying his fingers off my wrist one by one. "Lock the front deadbolt. Leave the chain on. Make him hold the warrant paper up against the glass sidelights until you've read every line. Even a dirty deputy won't kick in a glass front door at quarter past four in plain sight without burning a few minutes on the porch."
 
 "And what am I supposed to tell him about the boots in the foyer?"
 
@@ -48,7 +48,7 @@ I force myself down the next flight of steps, keeping one hand brushing the wet 
 
 Near the bottom of the cliff, the wind flattens out beneath the rock overhang, though surf still booms against the timber pilings below. Through the drifting fog to my left, Maren Lindqvist's weathered cove sorting shed sits dark and shuttered above the tide line, her aluminum skiff pulled high onto the gravel apron and chained to an iron ring. No light in her window. No woodsmoke curling from her tin stove pipe.
 
-Directly ahead sits the Kiefer boathouse—gray cedar shingles weathered almost black by salt spray, double plank doors chained tight with a heavy brass padlock.
+Directly ahead sits the Kiefer boathouse—gray cedar shingles weathered almost black by salt spray, double plank doors chained tight with one heavy brass padlock and the faded county paper seal sliced clean along its edge.
 
 I drop off the bottom slate step onto the crushed oyster shells beside the north wall, ducking low beneath the eaves. Up on the ridge, the siren chirps one final time and dies. Seconds later, gravel crunches faintly overhead—tires rolling up the Kiefer turnaround.
 

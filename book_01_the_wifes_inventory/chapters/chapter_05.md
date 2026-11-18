@@ -16,7 +16,7 @@ Then red-and-blue strobe lights flare across my rearview mirror, turning the mis
 
 I haven't cleared forty. I signal right, ease onto the gravel shoulder beside bare sumac, and kill the engine.
 
-A Knox County sheriff's cruiser pulls in behind me, leaving its light bar pulsing against the fog. I fish my expired registration card and license out of the glovebox, keeping both hands visible on top of the steering wheel while boots crunch up the gravel shoulder.
+A Knox County sheriff's cruiser pulls in behind me, leaving its light bar pulsing against the fog. I fish my creased registration card and license out of the glovebox, keeping both hands visible on top of the steering wheel while boots crunch up the gravel shoulder.
 
 The deputy who stops beside my driver's window is broad-shouldered under a heavy navy patrol slicker, clean-shaven, with steady pale eyes that take in the rusted Civic fender and my Portland plates before settling on my face. When he speaks, a slow coastal drawl softens the edges of his words, and a slight crookedness in his upper front incisor catches the dim cab light.
 
@@ -96,7 +96,7 @@ I grab my brown paper bag off the counter, force a polite nod at the kid in the 
 
 Back inside my Civic, I lock both doors manually and exhale into the cold cab until condensation clouds the windshield.
 
-Deputy Cole Halstead writes left-handed, holds a county seal on a boathouse Graham claims the Coast Guard cleared, and already knows my name. A left-handed deputy doesn't prove who beveled the Montblanc nib upstairs—plenty of people write left-handed, or grind down a tine from a damaged feed. Paired with a county seal Graham never mentioned and Maren's warning, though, it puts Halstead beside that studio desk until something clears him.
+Deputy Cole Halstead writes left-handed—curling his wrist over the top of the page—holds a county seal on a boathouse Graham claims the Coast Guard cleared, and already knows my name. A left-handed deputy doesn't prove who dragged a wet cuff across the departure checklist beside that uncapped Montblanc upstairs—plenty of people hook their wrist when they write. Paired with a county seal Graham never mentioned and Maren's warning, though, it puts Halstead beside that studio desk until something clears him.
 
 Either Graham isn't running a solo con, or something uglier is moving through that glass house without him.
 
@@ -106,7 +106,7 @@ Something white catches my eye inside the open sack, wedged between the tape rol
 
 I pull the receipt out and freeze.
 
-Folded inside is a torn strip of glossy tide-chart paper—like the stack pinned beside the coffee urns where Maren stood. Someone tore off the bottom November column and circled one line in thick carpenter's pencil:
+Folded inside is a torn strip of glossy tide-chart paper—like the stack pinned beside the coffee urns where Maren stood. Someone tore off the October column, circled *Oct 15* at the top, and boxed one line in thick carpenter's pencil:
 
 *2:14 AM — High Water.*
 

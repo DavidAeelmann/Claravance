@@ -26,7 +26,7 @@ Graham's ladle stops against the copper rim. "Because the trust carries a moral-
 
 "Then we work late tonight," he adds smoothly, ladling broth into two white stoneware bowls without asking whether I'm hungry. "Grab a spoon, Tessa. Let's talk through the basement exclusions and the mudroom gear."
 
-Before I sit down at the island, I excuse myself to run my brown store bag and laptop upstairs—and really to check my guest room.
+Before I sit down at the island, I excuse myself to run my brown store bag and laptop down the north hall—and really to check my guest room.
 
 The cheap privacy bolt is unlocked, just as I left it. Inside, my navy canvas duffel sits undisturbed on the luggage rack. I crouch beside it, squinting under the dim bedside lamp.
 
@@ -34,7 +34,7 @@ The stray lining thread I hooked gently over the zipper teeth last night is gone
 
 I rip the zipper open and dig inside.
 
-Both Portsmouth bank bands are intact—fifty crisp hundreds. I check my laptop sleeve next; the matte lid feels slightly warm along the battery edge, though I shut it down cold before breakfast. Whoever opened my duffel didn't steal cash. They wanted to see what I brought—or check whether I'd stashed anything from the studio or sunroom inside.
+The Portsmouth bank band is intact—all fifty crisp hundreds. I check my laptop sleeve next; the matte lid feels slightly warm along the battery edge, though I shut it down cold before breakfast. Whoever opened my duffel didn't steal cash. They wanted to see what I brought—or check whether I'd stashed anything from the studio or sunroom inside.
 
 My encrypted local note sits behind a twelve-character passphrase, yet that warm battery tells me the rules changed while I was in town. I'm a suspect inside a locked perimeter, and a broken brake lamp gives a local deputy an excuse to impound my car the second I try to leave.
 
@@ -104,7 +104,7 @@ Neither of us moves in the dark. Rain batters the roof slate like buckshot while
 
 "Stay put," Graham says, his voice tight and stripped of polish. "The diesel generator takes a few seconds to kick over."
 
-I don't stay put. My hand drops toward my waxed jacket two paces away—checking the B-4 key inside the breast pocket—while my eyes lock onto the glowing tablet beside the pantry. If the grid is down across Salt Point, nobody calls the sheriff without a hardline, and my phone sits upstairs on one bar.
+I don't stay put. My hand drops toward my waxed jacket two paces away—checking the B-4 key inside the breast pocket—while my eyes lock onto the glowing tablet beside the pantry. If the grid is down across Salt Point, nobody calls the sheriff without a hardline, and my phone sits in the guest room on one bar.
 
 With a heavy *thump* beneath the floorboards, the exterior generator fires up, flooding the kitchen with the low drone of diesel exhaust.
 

@@ -54,7 +54,7 @@ Beside the rescue rig's diesel-rumbling fender, Maren Lindqvist stands in her ye
 
 A plainclothes Maine State Police detective—lean, gray-templed, wearing a drenched nylon windbreaker with a badge clipped to his belt—steps away from the open rear hatch of the tactical rig and walks over with a clipboard and an evidence box.
 
-"Ms. Calder," he says. "Detective Sergeant Ward. My techs pulled the UPS-backed RAID server out of Zone Four—your boathouse stream came through clean. Dispatch confirmed Halstead's cruiser blocking the causeway and the radio blackout, and our digital unit matched that county-drop confession to the iPad Mini Mrs. Kiefer dropped in the foyer. We also logged the bleach rag and bronze cleat in your Civic's spare-tire well, the wet duck boots in the coat closet, and the bleach jugs and scratched oars inside the boathouse."
+"Ms. Calder," he says. "Detective Sergeant Ward. My techs pulled the UPS-backed RAID server out of Zone Four—your boathouse stream came through clean. Dispatch confirmed Halstead's cruiser blocking the causeway and the radio blackout, and our digital unit matched that county-drop confession to the iPad Mini we recovered beside the sunroom radiator. We also logged the bleach rag and bronze cleat in your Civic's spare-tire well, the wet duck boots in the coat closet, and the bleach jugs and scratched oars inside the boathouse."
 
 "Good," I say, lifting the faded navy canvas duffel off my shoulder and setting it squarely on the tailgate of the rescue rig. "Because the house holds the rest of the paper trail."
 
@@ -64,9 +64,9 @@ I unzip the duffel and lay the items out under the harsh rig floodlights, keepin
 
 First, I set down the encrypted matte-black thumb drive (`RAW_BUFFER_OCT14_15`) beside the yellow warning slip Cole wrote on Tuesday and the knotted glove finger holding my foil-wrapped P-trap swab. "Raw acoustic server buffer from October fourteenth, placing Cole and Lydia inside the sunroom and boathouse around two-fourteen—plus Cole's Tuesday warning slip as a known left-handed exemplar, and a swab of unconfirmed white crystalline paste from the master bath brass P-trap."
 
-Ward bags each item cleanly with gloved fingers, gesturing to a waiting evidence tech beside the rig. "Tell the studio team to lift latent prints off that silver Montblanc barrel before moving it, and pull Halstead's October fifteenth incident report and staging notes for questioned-documents comparison against this warning slip. Nib wear alone won't convict anybody—I want his prints on the barrel, his installer-PIN logs, his handwriting, and that two-fourteen recording side by side."
+Ward bags each item cleanly with gloved fingers, gesturing to a waiting evidence tech beside the rig. "Tell the studio team to lift latent prints off that untouched silver Montblanc barrel before moving it, and pull Halstead's October fifteenth incident report and staging notes for questioned-documents comparison against this warning slip and the left-handed hooked-writer ink smear on the handwritten studio departure note. I want his prints on the barrel, his installer-PIN logs, his handwriting, and that two-fourteen recording side by side."
 
-"Check the half-finished crystal rocks glass on the living-room tray too," I add, nodding toward the glass house. "Lab toxicology should tell you whether that P-trap swab matches the sediment inside it. And pull the Coast Guard serial and lot stamp off the orange life vest on mudroom peg two—there are photos in my cloud backup—for salinity swabs and recovery-log checks, plus a brass pipe wrench inside Zone Four and the oyster knife on the foyer slate."
+"Check the half-finished crystal rocks glass on the living-room tray too," I add, nodding toward the glass house. "Lab toxicology should tell you whether that P-trap swab matches the sediment inside it. And pull the Coast Guard serial and lot stamp off the orange life vest on mudroom peg two—there are photos in my cloud backup—for salinity swabs and recovery-log checks, plus a wrought-iron fireplace poker inside Zone Four and the oyster knife on the foyer slate."
 
 Ward makes three brisk ticks on his clipboard, already speaking low into his shoulder mic to relay the toxicology and life-vest orders inside. Then his eyes drop back to my open duffel.
 
@@ -92,18 +92,12 @@ An hour later, the storm has thinned to a cold, steady drizzle. Most of the grav
 
 I sit on the edge of the ambulance step, letting a paramedic finish knotting three neat stitches across my gashed left wrist and tape clean gauze over the seam while a fresh paper cup of black coffee warms my hands. The wool blanket smells faintly of bleach and cedar smoke. For the first time in four days, nobody is watching me through glass, and nobody is waiting on the other side of a locked door.
 
-Detective Ward walks back over from the yellow crime-scene tape strung across the Kiefer porch, his boots crunching steadily across the wet gravel. His windbreaker drips onto the stone. In his gloved hand, he holds a thick, uncreased white escrow envelope sealed with waxless adhesive and stamped across the flap with a courier voucher.
+Detective Ward walks back over from the yellow crime-scene tape strung across the Kiefer porch, his boots crunching steadily across the wet gravel. His windbreaker drips onto the stone. In his gloved hand, he holds a carbon-copy Maine State Police property receipt and a clear evidence sleeve containing my cracked, waterlogged phone screen—pulled off the boathouse slipway sill by his dive tech.
 
-"We finished the inventory search on the heavy wool overcoat Mr. Kiefer grabbed from the foyer closet before transport," Ward says, stopping just inside the yellow glow of the ambulance bay. "Found this sealed inside his inner breast pocket, addressed to you. Looks like he picked up the pre-closing escrow packet from his Boston fiduciary agent while he was in Portland yesterday, keeping it on his person until today's five o'clock sign-off. When my sergeant called the State Street compliance line on the voucher, the on-call partner verified that Mr. Kiefer's felony arrest triggered their completion-release clause—and authorized us to hand it over directly as earned contractor property."
+"We finished the preliminary inventory on the house and Mr. Kiefer's wool overcoat before transport," Ward says, stopping just inside the yellow glow of the ambulance bay. "Coat pockets held his truck keys, a shattered cell phone, and a Portland fiduciary courier receipt—nothing else. Your Civic's trunk has been photographed and cleared so a flatbed can winch you out once the causeway tide drops."
 
-I set my coffee cup down on the metal step and take the envelope. The paper is heavy, cotton-stock stationery—nothing like the cheap manila folders Graham kept in his study.
+I set my coffee cup down on the metal step and sign the clipboard receipt with stiff, bandaged fingers. "What about the five-thousand-dollar cash retainer in my duffel?"
 
-I slide my thumb under the flap and pull out a countersigned cashier's check.
+"Logged as disputed estate funds pending probate review, though your signed margin rider and the *Bramwell and Shaw* default file back up your contract," Ward says, tearing off the pink carbon copy and handing it over. "Keep your phone number current with the Rockland district attorney's clerk once you replace that handset. We'll need you in person for grand jury depositions."
 
-Thirteen thousand five hundred dollars. The ten-thousand-dollar completion balance, plus a three-thousand-five-hundred-dollar rush-deadline and storm-hazard adjustment.
-
-My eyes drop to the signature block at the bottom right.
-
-Graham Kiefer's name isn't there.
-
-Instead, stamped cleanly above two crisp, unfamiliar initials in dark blue ink, is the header of a private Boston estate firm I have never heard of—and a handwritten postscript in the memo line: *Escrow cleared upon accounting. Expect our courier in Portland.*
+I fold the pink evidence receipt once and slide it into my damp jeans pocket beside my multi-tool. Above the spruce ridge, the storm clouds break open just enough to show a thin edge of cold stars over Penobscot Bay—no completion check in hand, a busted phone in an evidence bag, and Monday's court levy still waiting on Congress Street.

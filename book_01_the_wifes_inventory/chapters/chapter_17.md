@@ -42,15 +42,11 @@ Lydia doesn't notice it under the shadow of the table lip. After weeks hiding ac
 
 If Cole walks through that door with a second set of zip ties, the blue LED won't save me. I need Lydia talking—and I need my hands free before Cole turns the latch.
 
-"We already decrypted the pantry mic, Lydia," I say, letting a thin edge of contempt bleed into my voice. "We heard you laughing with Cole at two in the morning while wiping down an oar. And you made a mistake in St. Andrews. You scanned your real passport at the marina desk. That clearance ping hit a marine underwriters' watch before you even crossed Passamaquoddy Bay."
+"We already decrypted the pantry mic, Lydia," I say, letting a thin edge of contempt bleed into my voice. "We heard you laughing with Cole at two in the morning while wiping down an oar—and telling him to leave the Montblanc beside that smudged departure note on the blotter. And you made a mistake in St. Andrews. You scanned your real passport at the marina desk. That clearance ping hit a marine underwriters' watch before you even crossed Passamaquoddy Bay."
 
-Lydia's thumbs pause on the glass screen. For a beat she simply stares at me, then lets out a sharp, genuinely amused laugh—the kind of polished, effortless sound you hear across a Boston charity gala when a guest mispronounces a Bordeaux vintage.
+Lydia's thumbs pause on the glass screen. Her composure thins for half a beat before she forces a cold smile back onto her mouth.
 
-"Oh, Tessa," she murmurs, tilting her head while the neat knot of dark hair stays untouched by the draft. "You really do think like a fired claims clerk, don't you? You actually imagined I *slipped up* at St. Andrews."
-
-"You put your passport number on a public port registry."
-
-"I put it on a private customs kiosk *deliberately* Tuesday morning," Lydia corrects me, slow and indulgent, as if explaining interest rates to a slow child. "Did you think my father's offshore courier clears a seven-figure wire on an expired driver's license? Better yet—any state detective who pulls Canadian port logs sees me alive in New Brunswick on November third, while Cole already tucked my October seventeenth Bar Harbor weekender behind Graham's wool coats Monday morning. When Graham pushed his little Arlington buyout instead of folding, we simply staged the sunroom floor November first so investigators assume he intercepted me coming home from Bar Harbor and killed me on his own cedar planks. And your five o'clock Boston courier? I canceled him an hour ago—told Bramwell and Shaw the causeway was underwater."
+"The Cayman fiduciary wouldn't release the bearer keys without a live cross-border passport check," she says evenly, tilting her head while the neat knot of dark hair stays untouched by the draft. "I gambled a private New Brunswick marina wouldn't trip a U.S. marine underwriters' watch before Graham was dead. It doesn't matter—nobody in Augusta pulls Canadian port logs for a disgraced embezzler who confesses in writing and walks into the Atlantic. A signed confession to murdering me triggers the trust's moral-turpitude forfeiture clause posthumously, blocking his estate and Kiefer Soundworks' creditors from tying up the remaining three million. Cole already shoved my Bar Harbor–Yarmouth weekender behind Graham's wool coats Monday morning. When Graham pushed his Arlington buyout instead of folding, we staged the sunroom floor November first—though clumsy Cole dropped his pilfered B-4 basement key behind the pried baseboard mopping leaked bleach and didn't notice until after we hammered the trim back. And your five o'clock Boston courier? I canceled him an hour ago."
 
 "The Coast Guard—"
 
@@ -80,7 +76,7 @@ She stops mid-sentence, tilting her head slightly as a gust rattles the corrugat
 
 I saw hard against the rusted steel while her eyes are off my shoulders. Another two strands snap cleanly. Warm blood wells fast along my left wrist where the jagged nylon and rusted steel slice deep into the skin above my palm, giving me just enough slack to twist my fingers toward the swollen oak handle wedged in the bait table seam.
 
-"You're really going to let Cole take half your father's trust?" I ask, stalling for a few more seconds, praying the frayed center core of the zip tie gives way before the cliff stairs creak. "He's a county deputy with a crooked tooth and a gambling debt. Once Graham's dead, Cole owns you."
+"You're really going to let Cole take half your father's trust?" I ask, stalling for a few more seconds, praying the frayed center core of the zip tie gives way before the cliff stairs creak. "He's a county deputy with a crooked tooth, a badge on the line, and a grudge. Once Graham's dead, Cole owns you."
 
 Lydia takes one step toward me, raising the Glock until the dark muzzle aims straight between my eyes. "Cole knows what happens to people who—"
 

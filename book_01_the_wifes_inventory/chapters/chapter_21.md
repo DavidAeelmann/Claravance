@@ -46,7 +46,7 @@ Across the room, Cole's flashlight beam sweeps wildly across the three humming a
 
 Footsteps clatter fast down the basement stairs behind him.
 
-Lydia bursts through the Zone 4 doorway. She isn't holding the spare Glock—Cole must have taken it back or left her to grab whatever weapon sat closest in the study, because in her right hand she grips the heavy brass pipe wrench off Graham's desk blotter.
+Lydia bursts through the Zone 4 doorway. She lost Cole's spare Glock in the slipway water down at the cove, so she grabbed whatever iron sat closest on her way through the living room—in her right hand, she grips a heavy wrought-iron fireplace poker from the hearth.
 
 "Cole, it's a loop!" Lydia snaps, sweeping her own small penlight across the foam walls. "She's not at the console—she triggered it from upstairs!"
 
@@ -54,11 +54,11 @@ I shift my weight slightly to draw the oyster knife from my waistband, and the b
 
 Lydia's penlight snaps straight toward the northeast corner.
 
-She doesn't wait for Cole to turn his pistol. She lunges across the darkroom floor, swinging the heavy brass wrench in a flat, vicious arc straight at my head.
+She doesn't wait for Cole to turn his pistol. She lunges across the darkroom floor, swinging the heavy wrought-iron poker in a flat, vicious arc straight at my head.
 
 I duck low into the corner angle, pulling my shoulders tight against the charcoal foam. Once I freeze clear of the steel rack, the baffling swallows my breathing and steals the echo Lydia needs to judge my distance in the dark. Her aim goes wide.
 
-The heavy brass wrench whistles past my temple and smashes with a shower of blue sparks into the steel studio monitor behind me.
+The heavy iron poker whistles past my temple and smashes with a shower of blue sparks into the steel studio monitor behind me.
 
 ***
 
@@ -78,11 +78,11 @@ I yank the rusted **B-4** mortise key from my jeans pocket, jam it into the exte
 
 Inside Zone 4, Cole's heavy boots slam furiously against the reinforced door, his muffled shouts and the dull *thump* of his shoulder swallowed almost instantly by the charcoal foam. With his left wrist slashed open, he won't haul himself up a vertical iron shaft fast—and with the only spare B-4 key sitting warm in my pocket, he isn't coming out through that steel door until someone unlocks it from the hall.
 
-Lydia doesn't stay to fight me on the stairs. She scrambles up the concrete steps ahead of me in the dark, her breathing ragged and fast, leaving her dropped brass wrench behind in the darkroom. One hand clamps over her bleeding forearm; the other clutches a small backup drive pulled from the study tower tucked inside her torn waxed-canvas jacket.
+Lydia doesn't stay to fight me on the stairs. She scrambles up the concrete steps ahead of me in the dark, her breathing ragged and fast, leaving her dropped fireplace poker behind in the darkroom. One hand clamps over her bleeding forearm; the other clutches a small backup drive pulled from the study tower tucked inside her torn waxed-canvas jacket.
 
 I sprint up the stairs two at a time behind her, the heavy duffel banging hard against my ribs, my sneakers slipping once on the top landing before I shoulder the foyer basement door wide.
 
-When I burst out into the foyer, Graham is already emerging from the north hall, his eyes wide in the dark as he tries to track the commotion. Across the slate, Lydia drags the heavy cedar foyer bench with scraping legs beneath the foyer skylight hatch—the one glass roof panel the exterior steel hurricane shutters couldn't cover when the breaker dropped.
+When I burst out into the foyer, Graham is already emerging from the north hall, his eyes wide in the dark as he tries to track the commotion. Across the slate, Lydia drags the heavy cedar foyer bench with scraping legs beneath the low-slung foyer skylight hatch—the one glass roof panel in the sloping vestibule ceiling that the exterior steel hurricane shutters couldn't cover when the breaker dropped.
 
 "Stop her!" I shout, lunging across the wet slate as Graham steps forward to block the hall. His bare hands come up empty.
 

@@ -10,9 +10,9 @@ Graham stops in the doorway. He's holding an empty ceramic mug by the handle, we
 
 "Couldn't sleep." I set the lamp base back onto the flat-file gently so it doesn't scrape. "And you want a preliminary ledger by Friday. Figured I'd count the flat-file drawers and get a rough box estimate before daylight."
 
-He steps inside anyway, crossing the threshold slowly as if testing the air. Smelling for smoke, maybe, or checking whether I pried a drawer off its runners. He stops beside the walnut desk, looking down at the uncapped Montblanc I dropped a fraction off-angle. For a tense beat I wait for him to notice the shift—to accuse me of snooping, invoke the fifty-thousand-dollar NDA, and throw me back across the causeway without a dime of the remaining ten grand.
+He steps inside anyway, crossing the threshold slowly as if testing the air. Smelling for smoke, maybe, or checking whether I pried a drawer off its runners. He stops beside the walnut desk, glancing down at the uncapped Montblanc and the smudged scratch pad on the blotter. For a tense beat I wait for him to notice the slight shift in the brass paperweight—to accuse me of snooping, invoke the fifty-thousand-dollar NDA, and throw me back across the causeway without a dime of the remaining ten grand.
 
-Instead, his shoulders drop slightly. He reaches out, caps the silver fountain pen with a soft metallic click, and aligns it parallel to the leather blotter edge.
+Instead, his shoulders drop slightly. He doesn't touch the pen or the pad, just lets his gaze linger on the blotter before turning toward the window.
 
 "Lydia hated overhead lights," he says, looking out toward the black cove water through the painted-shut sash. "She worked under that brass lamp until two in the morning when a commission was due. I left the room untouched for the lawyers."
 
@@ -22,7 +22,7 @@ Graham turns his head toward me, gray eyes unreadable in the half-light. "Meanin
 
 "Nothing. Just neat for an active studio." I've already pushed too far—the exact compulsive itch that cost me my Harbor Mutual license. I force a tired shrug and gesture toward the hallway. "I'll log the canvases first thing after breakfast. Goodnight, Graham."
 
-He doesn't move out of the doorway until I'm inches away, forcing me to brush past his sleeve to reach the runner. He smells faintly of cedar shavings and cold rain, even though he hasn't stepped outside since I arrived. As I walk down the hall toward my guest room, I don't hear him follow—just the soft click of the studio door pulling shut behind him, followed by the metallic snick of a key turning in a lock that wasn't engaged ten minutes ago.
+He doesn't move out of the doorway until I'm inches away, forcing me to brush past his sleeve to reach the runner. He smells faintly of cedar shavings and cold rain, even though he hasn't stepped outside since I arrived. As I head down the oak stairs toward my ground-floor guest room, I don't hear him follow—just the soft click of the studio door pulling shut behind him, followed by the metallic snick of a key turning in a lock overhead before I reach the bottom tread.
 
 Back in my room, I wedge the wooden desk chair under the cheap privacy knob before sitting on the edge of the iron bed. Five grand in my duffel won't feel safe until it hits a teller window in Portland, and Friday morning suddenly feels an ocean away.
 
@@ -78,7 +78,7 @@ The back deck wraps the seaward face of the house in weathered cedar planks, sli
 
 I step out onto the deck with my empty mug, claiming I want to check the morning light on the sunroom windows before pulling the inventory sheets. Behind the glass, Graham is already wiping down a spotless limestone counter to erase my coffee ring.
 
-From up here, the boathouse roof looks tight and well-kept, cedar shingles darker than the main house where spray hits them. Heavy galvanized padlocks secure both the seaward boat-bay hatch and the landward double entry doors, while the side casement facing the cliff sits shuttered from inside. If the Coast Guard cleared it nearly three weeks ago, nobody bothered to unlatch the shutters for ventilation.
+From up here, the boathouse roof looks tight and well-kept, cedar shingles darker than the main house where spray hits them. A single heavy brass padlock secures the landward double entry doors, paired with a faded county paper seal sliced clean along the edge, while the side casement facing the cliff sits shuttered from inside. If the Coast Guard cleared it nearly three weeks ago, nobody bothered to unlatch the shutters for ventilation.
 
 Low tide lifts the thick stench of exposed mussel beds and wet bladderwrack up the bluff. Out beyond the granite ledge, the fog has thinned just enough to reveal the flat mud channel between Kiefer's cove and the neighboring spit—the same wooden shack on pilings I passed on the causeway last night. The yellow porch bulb is switched off now, leaving wet cedar shingles gray against the tide line.
 

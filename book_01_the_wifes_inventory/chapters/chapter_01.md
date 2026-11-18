@@ -32,7 +32,7 @@ The black door swings back. Graham Kiefer stands in the threshold with one palm 
 
 ***
 
-Inside, the foyer feels chilled and airless, smelling faintly of unscented soap and cold slate. High overhead, rain ticks against a cedar-framed skylight hatch set into the roof pitch above a heavy coat bench and the stair landing rail—the sole pane sitting clear above the exterior hurricane-shutter housings hooded over the lower window bays. Beyond the dining room, a massive wall of ocean glass frames black water and white foam churning below the cliff, throwing my tired face back at me over the drop.
+Inside, the front entry foyer is a low-slung, single-story cedar vestibule projecting out from the main two-story wing, smelling faintly of unscented soap and cold slate. Directly above the heavy coat bench, rain ticks against a low skylight hatch set into the sloping eight-foot pitched roof—the sole pane sitting clear above the exterior hurricane-shutter housings hooded over the lower window bays. Through the archway into the main house and beyond the dining room, a massive wall of ocean glass frames black water and white foam churning below the cliff, throwing my tired face back at me over the drop.
 
 Graham leads me past a pale limestone kitchen island and stops beside a narrow maple table near the stairs. A thick manila folder sits dead center next to a black rollerball pen.
 
@@ -76,7 +76,7 @@ Graham studies me for two beats, his jaw tight—then reaches for the pen. Witho
 
 I uncap the pen, sign *Tessa Calder* across the three lines, and slide the white envelope toward me to thumb through the bills inside.
 
-Fifty crisp hundreds, split cleanly into two Portsmouth bank bands. Real ink, blue security strips catching the recessed LED downlights. Enough to hold off Monday's levy. I tuck the envelope inside my duffel's inner pocket and hook a stray lining thread over the zipper teeth—a silent tell if anyone searches my bag overnight.
+Fifty crisp hundreds, bound in a single five-thousand-dollar Portsmouth bank band. Real ink, blue security strips catching the recessed LED downlights. Enough to hold off Monday's levy. I tuck the envelope inside my duffel's inner pocket and hook a stray lining thread over the zipper teeth—a silent tell if anyone searches my bag overnight.
 
 "House rules," Graham says, straightening now that the ink is dry. "One: everything from the master closet, the upstairs studio, and the living areas goes onto the shared spreadsheet. Photograph anything worth over five hundred dollars before wrapping it in acid-free tissue."
 
@@ -90,11 +90,11 @@ Fifty crisp hundreds, split cleanly into two Portsmouth bank bands. Real ink, bl
 
 "I'm here to pack sweaters, Mr. Kiefer, not steal defense patents."
 
-"Graham." He reaches into his pocket and drops a heavy brass house key onto the maple wood. Not a smart-lock fob—just worn metal teeth. "The porch keypad rotates codes every two days. Use the brass key for the front door. Your room is top of the landing, first left. Towels are on the rail."
+"Graham." He reaches into his pocket and drops a heavy brass house key onto the maple wood. Not a smart-lock fob—just worn metal teeth. "The porch keypad rotates codes every two days. Use the brass key for the front door. Your guest suite is down the ground-floor north hall, first left. Towels are on the rail."
 
 Before I can ask where the green archival totes are stacked, his phone buzzes once against the limestone counter.
 
-Graham glances down at the screen. The tense line between his eyebrows deepens for a fraction of a second before smoothing out. "Estate counsel again. Take ten minutes to drop your bag upstairs. I'll be in the second-floor office if you need the Wi-Fi password."
+Graham glances down at the screen. The tense line between his eyebrows deepens for a fraction of a second before smoothing out. "Estate counsel again. Take ten minutes to drop your bag in the guest suite. My study is across the north hall from you, though I'm taking this call upstairs in the master suite for privacy—I'll bring down the Wi-Fi password in a minute."
 
 He heads up the oak treads without waiting for me to answer. His wool socks make no sound on the wood. Halfway up, he pauses just long enough to glance back—not at me, I notice, tracking his angle, but toward the front foyer behind my shoulder. Then he rounds the upper corner, and a heavy latch clicks shut overhead.
 
@@ -126,11 +126,11 @@ I crouch slowly, bracing one shoulder against the cedar jamb. Graham aligns enve
 
 Too late either way. My fingers are already on the brass handle.
 
-A tiny tarnished padlock hangs through the zipper eye, unlocked, the clasp pushed loosely through without clicking shut. Tied to the leather grip by an elastic cord is a stiff paper luggage stub, blue ink printed vertically along a perforated edge—the kind the Bar Harbor commuter ferries loop onto deck baggage.
+A tiny tarnished padlock hangs through the zipper eye, unlocked, the clasp pushed loosely through without clicking shut. Tied to the leather grip by an elastic cord is a stiff paper luggage stub, blue ink printed vertically along a perforated edge—the kind the Bar Harbor–Yarmouth crossing ferries loop onto deck baggage.
 
 I tilt the cardstock toward the light from the foyer sconce.
 
-The port ink at the top is smudged: *BAR HARBOR — SLIP 4*.
+The port ink at the top is smudged: *BAR HARBOR–YARMOUTH — SLIP 4*.
 
 Below it, the date stamp is dry and black.
 
@@ -138,4 +138,4 @@ Below it, the date stamp is dry and black.
 
 My thumb stops on the paper edge. Lydia Kiefer supposedly drowned at eleven-thirty at night on October 14.
 
-Directly above the foyer ceiling, floorboards pop. Footsteps start down toward the oak stairs.
+Directly above the main hall, floorboards pop. Footsteps start down toward the oak stairs.

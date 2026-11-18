@@ -52,7 +52,7 @@ I freeze four rungs down, wedging my wet back against the rear hemlock framing a
 
 "The forfeiture clause strips Graham's signature the second a state detective finds him beside the sunroom glass—and my father's courier already holds the Cayman keys," Lydia answers coolly, as if correcting a deckhand. "Take Graham's key ring off the study desk, check the basement stairs, and throw the exterior deadbolt on the steel door if she's inside. Let high water finish it."
 
-Every drip falling from my soaked jeans hem down into the concrete shaft sounds loud enough to carry through the floor joists. If Cole walks down the concrete stairs into Zone 4, he'll spot the open steel fire door in three seconds—or catch the wet darkroom floor under his Maglite beam. I can't outrun a Glock inside a padded concrete box, and I can't climb back into the kitchen while both of them stand ten paces from the pantry door.
+Every drip falling from my soaked jeans hem down into the concrete shaft sounds loud enough to carry through the floor joists. If Cole walks down the concrete stairs into Zone 4, he'll spot the open steel fire door in three seconds—or catch the wet darkroom floor under his Maglite beam. I can't outrun Cole's duty pistol inside a padded concrete box, and I can't climb back into the kitchen while both of them stand ten paces from the pantry door.
 
 ***
 

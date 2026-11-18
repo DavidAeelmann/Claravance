@@ -8,7 +8,7 @@ Twenty minutes later, Graham calls me down to the living room.
 
 He has changed out of his charcoal suit into a dark merino crewneck, though his shoulders still carry the stiff tension of a man who spent four hours staring down an interstate. Wet wool and cedar smoke hang in the air. A fire mutters low behind the blackened hearth screen, filling the glass-walled room with dry birch heat while salt rain ticks steadily against the seaward panes. Outside the floor-to-ceiling windows, Salt Point Cove is a wall of wet ink, not a single dock light burning along the entire point.
 
-"You look frozen," Graham says, gesturing toward the low leather sofa as he crosses to the walnut credenza. "The radiator in the guest wing isn't keeping up with this southeast wind. Have a drink before you head up for the night."
+"You look frozen," Graham says, gesturing toward the low leather sofa as he crosses to the walnut credenza. "The radiator in the guest wing isn't keeping up with this southeast wind. Have a drink before you turn in for the night."
 
 "I'm fine with water, Graham."
 
@@ -31,6 +31,8 @@ Graham's fingers stop moving against the crystal. The fire pops once against the
 He didn't even need to raise his voice to remind me who holds the leash—or that my Civic is parked outside with a court judgment sitting on the passenger seat.
 
 "Leave the boathouse off the preliminary schedule," he adds smoothly. "I told you on Monday night—the county seal stays until the Coast Guard signs the final closure memo. Focus on what's inside the house."
+
+*County seal.* He hadn't said a word about a county seal Monday night—only that the Coast Guard cleared the boathouse and locked it against damp. Now he's matching Halstead's script word for word.
 
 Before I can ask who was sweeping a flashlight across the boathouse windows an hour ago, Graham's phone buzzes twice on the side table. He glances at the display, his mouth thinning.
 
@@ -96,9 +98,9 @@ He didn't blink, and the second pour sits crystal-clear in front of me. The deca
 
 A tiny flash of disappointment crosses his gray eyes before he looks back at the fire. "Good. Get some sleep. Tomorrow's going to be a long haul before the courier arrives."
 
-I leave the glass two-thirds full on the coaster, say goodnight, and climb the oak stairs to the guest suite. Once the privacy latch clicks shut and I wedge the desk chair tight under the knob, I lean back against the panel for five seconds. Two point four million dollars in trust embezzlement. Three million poised to roll into a Cayman bearer structure. A deputy with co-owner installer PINs. A flashlight sweeping inside a locked boathouse. Downstairs, the hearth screen clanks shut as Graham banks the fire for the night, and the cast-iron radiator under my window ticks sharply as steam surges through the pipes.
+I leave the glass two-thirds full on the coaster, say goodnight, and walk down the north hall to the guest suite. Once the privacy latch clicks shut and I wedge the desk chair tight under the knob, I lean back against the panel for five seconds. Two point four million dollars in trust embezzlement. Three million poised to roll into a Cayman bearer structure. A deputy with co-owner installer PINs. A flashlight sweeping inside a locked boathouse. Across the main hall, the hearth screen clanks shut as Graham banks the fire for the night, and the cast-iron radiator under my window ticks sharply as steam surges through the pipes.
 
-I cross to the radiator, check that the brown paper hardware bag tucked behind the iron fins hasn't been shifted, and reach for my laptop inside the faded navy duffel. My thumb brushes the small outer side pocket first—and stops. Last night, I tucked that brass zipper pull flat beneath the canvas welt. Tonight it sits flipped half an inch outward. I yank the main compartment open fast, checking the two Portsmouth bank bands tucked under my spare shirts; all five thousand dollars sit untouched, and the laptop sleeps cool against the liner. If someone swept my bag while I was down at Maren's cove, they didn't take cash. I pull the laptop out, thumb the power button, and plug in my phone cable to push the demand-letter photos straight into my off-site vault.
+I cross to the radiator, check that the brown paper hardware bag tucked behind the iron fins hasn't been shifted, and unzip the main compartment of the faded navy duffel. The Portsmouth bank band tucked under my spare shirts sits untouched—all five thousand dollars intact—and the laptop sleeps cool against the liner. I pull the laptop out, thumb the power button, and plug in my phone cable to push the demand-letter photos straight into my off-site vault.
 
 Before the upload bar even finishes, my phone vibrates sharply against my thigh.
 

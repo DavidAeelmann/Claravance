@@ -24,7 +24,7 @@ When grieving tech founder Graham Kiefer offers her $15,000 for fourteen days of
 
 It should be simple. Log the closet. Pack the studio. Collect the check.
 
-Except the luggage tag on Lydia’s hidden weekender is stamped three days *after* she supposedly drowned. Her silver fountain pen shows left-handed nib wear—and Lydia was right-handed. White crystalline paste cakes the master bathroom drainpipe, and beneath the heavy wool rug in the sunroom, someone recently scrubbed household bleach and boiled linseed oil into the cedar floorboards until the wood turned bone-pale.
+Except the luggage tag on Lydia’s hidden weekender is stamped three days *after* she supposedly drowned. Beside an untouched silver fountain pen in her studio sits a departure note smudged along the left edge by a hooked left-handed writer—and Lydia was right-handed. White crystalline paste cakes the master bathroom drainpipe, and beneath the heavy wool rug in the sunroom, someone recently scrubbed household bleach and boiled linseed oil into the cedar floorboards until the wood turned bone-pale.
 
 Worse, the house’s high-end acoustic array isn't just recording the storm outside—someone is using it from the shadows to stitch Tessa’s own voice into a murder confession.
 
@@ -46,7 +46,7 @@ As a November gale floods the only tidal causeway off the peninsula, Tessa reali
 
 <p>It should be simple. Log the closet. Pack the studio. Collect the check.</p>
 
-<p>Except the luggage tag on Lydia’s hidden weekender is stamped three days <i>after</i> she supposedly drowned. Her silver fountain pen shows left-handed nib wear—and Lydia was right-handed. White crystalline paste cakes the master bathroom drainpipe, and beneath the heavy wool rug in the sunroom, someone recently scrubbed household bleach and boiled linseed oil into the cedar floorboards until the wood turned bone-pale.</p>
+<p>Except the luggage tag on Lydia’s hidden weekender is stamped three days <i>after</i> she supposedly drowned. Beside an untouched silver fountain pen in her studio sits a departure note smudged along the left edge by a hooked left-handed writer—and Lydia was right-handed. White crystalline paste cakes the master bathroom drainpipe, and beneath the heavy wool rug in the sunroom, someone recently scrubbed household bleach and boiled linseed oil into the cedar floorboards until the wood turned bone-pale.</p>
 
 <p>Worse, the house’s high-end acoustic array isn't just recording the storm outside—someone is using it from the shadows to stitch Tessa’s own voice into a murder confession.</p>
 

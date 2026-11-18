@@ -12,9 +12,9 @@ Graham's mouth tightens—not quite a smile, more like a man checking off an une
 
 "I sleep fine with noise."
 
-He doesn't argue. He simply watches me climb the oak stairs, his hand resting on the stainless handrail until I round the upper landing.
+He doesn't argue. He simply watches me carry my duffel down the ground-floor north hall, his hand resting on the archway trim until I turn into the guest suite.
 
-The guest suite is first left, just as he said. Small, spare, painted the color of wet chalk. A narrow iron bed sits tucked under a high casement window facing the spruce trees rather than the water, which feels like an odd mercy until I lock the bedroom door behind me and realize the brass turn-bolt slides with zero resistance. Just a cheap privacy latch anyone with a butter knife or a credit card could pop in seconds.
+The guest suite is first left off the north hall, just as he said. Small, spare, painted the color of wet chalk. A narrow iron bed sits tucked under a high casement window facing the spruce trees rather than the water, which feels like an odd mercy until I lock the bedroom door behind me and realize the brass turn-bolt slides with zero resistance. Just a cheap privacy latch anyone with a butter knife or a credit card could pop in seconds.
 
 I drop my duffel onto the luggage rack, check the lining thread I hooked over the zipper teeth downstairs—still intact—and pull my laptop from the side sleeve. The room smells of cedar mothballs and radiator dust, untouched since whoever built this house stopped expecting company.
 
@@ -38,15 +38,15 @@ I stare at the glowing screen until the radiator under the window ticks sharply,
 
 Unless someone else brought that bag back after the seventeenth—and Graham shoved it behind his coats because he didn't know who was watching the drive.
 
-Downstairs, a door shuts softly—the study, maybe, or the kitchen porch. Heavy footsteps cross the slate foyer and climb halfway up the main stairs before pausing near the office landing.
+Across the north hall, a door shuts softly—the study. Heavy footsteps cross the hardwood floor inside, followed by the scrape of a desk chair.
 
 I slip my wet boots off, pull on thick wool socks from my duffel, and tuck my phone and the brass house key into my jeans pocket. Then I ease the cheap privacy bolt open.
 
 ***
 
-The upper hallway runs along the landward spine of the house, carpeted in a gray wool runner that swallows my steps. Light spills dimly from beneath the crack of Graham's office door halfway down, accompanied by the faint, rhythmic tap of someone typing on a mechanical keyboard. Every few seconds the tapping stops, followed by the soft rustle of paper, then starts up again.
+The north hall runs along the landward spine of the house, carpeted in a gray wool runner that swallows my steps. Light spills dimly from beneath the crack of Graham's study door opposite mine, accompanied by the faint, rhythmic tap of someone typing on a mechanical keyboard. Every few seconds the tapping stops, followed by the soft rustle of paper, then starts up again.
 
-I keep close to the drywall so the floor joists won't groan and slip past his door toward the far end, where double doors stand slightly ajar.
+I keep close to the drywall so the floor joists won't groan, slip past his study door toward the main oak staircase, and climb to the upper landing. At the far end of the upstairs hall, double doors stand slightly ajar.
 
 Lydia's studio smells different from the rest of the house. Beneath the sterile lemon polish Graham's cleaning crew must have used downstairs, this room still holds turpentine, dried gesso, and dusty linen paper. Moonlight filters dimly through a tall seaward sash window, catching stacks of stretched canvases leaned face-inward against the plaster wall.
 
@@ -76,26 +76,24 @@ I wipe dry paint dust off my fingertips onto my jeans and turn toward the walnut
 
 ***
 
-A thick green leather blotter covers the center of the walnut table. Centered on it rests a linen-bound sketchbook, closed, with a tarnished brass paperweight holding the corner flat. Beside the book lies a heavy silver Montblanc fountain pen, uncapped, its black resin barrel catching the faint blue reflection of my phone.
+A thick green leather blotter covers the center of the walnut table. Centered on it rests a linen-bound sketchbook, closed, with a tarnished brass paperweight holding the corner flat. Beside the book lies a heavy silver Montblanc fountain pen, uncapped, its black resin barrel catching the faint blue reflection of my phone, next to a cream stationery scratch pad topped with a handwritten departure checklist.
 
 Leaving a fountain pen uncapped on a blotter ruins the nib within days, drying the ink feed into a gummy crust. Someone laid it out like a stage prop—or dropped it in a hurry.
 
-I resist the urge to pick it up right away. At Harbor Mutual, the fastest way to blow an arson audit was smudging a burn pattern before you logged your baseline photos. I raise my phone, keep the flash off, and snap two crisp shots of the desk layout—the angle of the sketchbook, the position of the paperweight, the exact direction the gold nib points. If Graham walks in tomorrow and finds things shifted, I want to know whether *I* slipped up or someone else rearranged the room after me.
+I resist the urge to touch the barrel. At Harbor Mutual, the fastest way to blow an audit was smearing latent prints before you logged your baseline photos. I raise my phone, keep the flash off, and snap two crisp shots of the desk layout—the angle of the sketchbook, the position of the paperweight, the exact direction the Montblanc points, and the ink lines on the scratch pad. If Graham walks in tomorrow and finds things shifted, I want to know whether *I* slipped up or someone else rearranged the room after me.
 
 Then I lift the brass paperweight just enough to open the sketchbook from the bottom corner.
 
 Fine botanical pencil studies of kelp fronds, barnacles, and beach peas fill the early pages—delicate cross-hatching, Latin binomials penciled lightly underneath. Every single stroke slopes forward, right-handed, consistent from page one through page forty. Toward the back, three blank pages show faint indentation marks where someone sliced sheets out cleanly along the binding seam with a sharp blade. Nothing torn in anger. Someone removed those pages deliberately and kept the edges neat so a casual glance wouldn't catch the missing thickness.
 
-I close the cover gently, aligning the corner flush under the brass paperweight just as I found it, and finally pick up the silver Montblanc.
+I close the cover gently, aligning the corner flush under the brass paperweight—a fraction off-angle without thinking—and lean closer to the stationery scratch pad without touching the silver Montblanc beside it.
 
-It feels substantial in my hand—heavy brass core under lacquer. I turn the nib under my phone's dim glow.
+The checklist lists four quick items: *skiff mooring line, studio shutters, cellar latch, harbor tide*. Fresh dark ink, already dry. Along the left margin of the pad, a curved smear cuts straight through the first letters of every line—the unmistakable drag of a left-handed writer hooking a wrist across wet ink.
 
-The iridium tip isn't worn evenly. On the left tine, from a writer's angle, the metal is beveled flat and polished smooth. Maybe someone dropped the nib and ground it down, or rotated their grip at an odd angle, or bought the pen secondhand—or maybe the person who last used it writes left-handed. By itself, a worn tine proves nothing.
+I flip the sketchbook corner up one more time to compare. Every ink label on the early botanical plates leans forward at a steady right-hand slant, crisp and unsmudged. Lydia wrote right-handed. Whoever jotted that departure note beside the uncapped Montblanc hooked their left hand across the page. An anomaly worth logging, nothing more.
 
-Still, I flip the sketchbook corner up again. Every ink label on the early botanical plates leans forward at a steady right-hand slant. An anomaly worth logging, nothing more.
+Downstairs, the rhythmic tapping of Graham's keyboard stops.
 
-Down the hall, the rhythmic tapping of Graham's keyboard stops.
-
-I set the Montblanc back onto the green leather blotter—a fraction off-angle—and slide my phone into my pocket. A floorboard creaks softly outside in the runner-carpeted hall. Slow, deliberate weight shifting from one foot to the other, stopping directly outside the cracked studio door.
+I slide my phone into my pocket and step back toward the oak flat-files. Stair treads creak softly from the landing, followed by slow, deliberate weight shifting across the upper runner, stopping directly outside the cracked studio door.
 
 My fingers find the brass house key in my pocket. Outside in the dark hallway, the doorknob turns slowly, metal clicking against the latch plate.

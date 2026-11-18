@@ -12,7 +12,7 @@ I stand on the upper landing watching him pause by the front door to tap a tempo
 
 "I'm not going anywhere."
 
-The moment his taillights clear the timber gate and the hydraulic barrier clunks shut, the house drops into its daytime hum—the crawlspace dehumidifier rumbling underfoot, wind ticking dry spruce needles against the seaward glass. Four hours alone. Four hours without Graham Kiefer standing over my shoulder or listening from his office down the hall.
+The moment his taillights clear the timber gate and the hydraulic barrier clunks shut, the house drops into its daytime hum—the crawlspace dehumidifier rumbling underfoot, wind ticking dry spruce needles against the seaward glass. Four hours alone. Four hours without Graham Kiefer standing over my shoulder or listening from his study across the hall.
 
 Still, the relief doesn't last long enough to catch my breath. Yesterday I thought I had until Friday to finish this ledger, collect my remaining ten grand, and vanish back to Portland before anyone dug too deep into my Harbor Mutual record. Now Graham has shaved twenty-four hours off the clock, a left-handed county deputy knows my plates, and someone already rifled through my duffel while I bought packing tape.
 
@@ -56,7 +56,7 @@ I lift the vial carefully with my gloved thumb and forefinger, holding it up tow
 
 I twist the plastic cap open cleanly and tip the tablets into my gloved palm, counting them twice.
 
-Twenty-eight white oblong pills.
+Twenty white oblong pills.
 
 I frown, pouring them carefully back into the amber plastic and snapping the childproof cap shut. People skip nights or take sleep medication sporadically; a partial bottle dispensed ten days before a storm proves nothing by itself. I log the October fourth fill date and tablet count merely as baseline inventory background, set the vial back behind the ibuprofen in line with my memory, and glance down at the left sink basin.
 
