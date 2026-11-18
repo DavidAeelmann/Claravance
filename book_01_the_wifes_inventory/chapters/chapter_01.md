@@ -14,7 +14,7 @@ I punch the pin from the broker's message. Nothing clicks. I wipe dried sea salt
 
 Behind me, the gate latches shut with a heavy hydraulic clunk. I shift into drive. Once you pass a private gate on a one-road peninsula, you don't slip out unnoticed.
 
-Past the spruce stand, the Kiefer house looms low over the cliff edge like a glass aquarium bolted onto dark stone. Weathered cedar fades into mist while black-framed windows face the cove, dark except for one amber strip under the eaves. The turnaround floodlight pole stands dead overhead.
+Past the spruce stand, the Kiefer house looms low over the cliff edge—modern glass and blackened steel bolted onto the fieldstone foundation and chimney core of Lydia's family's 1970s coastal house. Weathered cedar fades into mist while black-framed windows face the cove, dark except for one amber strip under the eaves. The turnaround floodlight pole stands dead overhead.
 
 I park beside a charcoal Audi sedan and kill the ignition. My engine ticks as it cools. Out past the breakwater, a buoy bell clangs twice, flat and distant.
 
@@ -46,17 +46,17 @@ Graham leads me past a pale limestone kitchen island and stops beside a narrow m
 
 Six dense pages of legal print. Non-disclosure, non-disparagement, a ban on photographing hardware or records on the premises, and a fifty-thousand-dollar liquidated damages clause in bold ink near the bottom.
 
-*Fifty thousand.* Whoever drafted this pulled my Harbor Mutual judgment—knew another lawsuit would bury me. For one sharp second I want to grab my duffel and beat the tide back across the causeway.
+*Fifty thousand.* Whoever drafted this pulled my Harbor Mutual judgment—knew another lawsuit would bury me. My fingers twitch toward my duffel strap; one pull and I could still beat the tide back across the causeway.
 
 Then I picture the clerk's ivory letter on my passenger seat. I stay in the chair.
 
-"Tell me something," Graham says, leaning one hip against the limestone counter. "Your broker mentioned you handled commercial fraud claims before switching to estate work. Why pack closets?"
+"Tell me something," Graham says, leaning one hip against the counter. "Your broker mentioned you handled commercial fraud claims before switching to estate work. Why pack closets?"
 
 He knows I got blacklisted for refusing to sign off on a fraudulent Commercial Street fire manifest without chain-of-custody. He just wants to hear me say it.
 
 I keep my eyes on page four. "Less paperwork. Nobody drags you into superior court over boxed wool sweaters. Though fifty grand in liquidated damages is steep for old clothes."
 
-"That clause isn't for her sweaters," Graham says evenly. "Half my acoustic prototypes and pre-buyout defense filings sit inside this house. If a contractor leaks company schematics—or runs to local reporters or county deputies with half-baked rumors before probate clears—my Arlington buyer walks. Keep it inside these walls until Friday."
+"That clause isn't for her sweaters," Graham says, his voice level. "Half my acoustic prototypes and pre-buyout defense filings sit inside this house. If a contractor leaks company schematics—or runs to local reporters or county deputies with half-baked rumors before probate clears—my Arlington buyer walks. Keep it inside these walls until Friday."
 
 "It pays cash," I say, tapping the cheap pen against the margin. "Clause four bars removing personal correspondence or digital media. If a thumb drive falls out of a coat pocket, where does it go?"
 
@@ -64,7 +64,7 @@ Graham watches my pen hand rather than my face. "Into the green archival totes i
 
 "This Friday," I say, looking up. "Your broker told me fourteen days."
 
-"Fourteen days covers the full pack-out and charity haul," he says smoothly, nudging the corner of the white cash envelope until its paper edge aligns squarely with the maple table grain. "Her clothes, kitchenware, guest linens, studio canvases. Probate counsel simply wants an itemized preliminary ledger by Friday at five so the court can seal the estate inventory before the weekend. Can you hit Friday?"
+"Fourteen days covers the full pack-out and charity haul," he says, nudging the corner of the white cash envelope until its paper edge aligns squarely with the table grain. "Her clothes, kitchenware, guest linens, studio canvases. Probate counsel simply wants an itemized preliminary ledger by Friday at five so the court can seal the estate inventory before the weekend. Can you hit Friday?"
 
 Four days to catalog an entire two-story glass house—trapped with a man who can't bear a crooked envelope on his table. "Depends how much she kept."
 
@@ -72,7 +72,7 @@ Four days to catalog an entire two-story glass house—trapped with a man who ca
 
 I flip back to page two and tap clause three with the pen cap before uncapping it. "Then fix this before I sign. Your agreement bans all photography on the premises, yet probate counsel expects condition records for high-value items. I don't step inside a fifty-thousand-dollar breach clause without chain-of-custody proof of what I logged and what was damaged before I arrived. Write in an exception for timestamped inventory photos strictly for estate verification."
 
-Graham studies me for two beats, his jaw tight—then reaches for the pen. Without arguing, he writes a single line in the margin permitting timestamped estate-verification photographs, adds his crisp *G.K.* initials and today's date, and slides the page back.
+Graham's jaw tightens as he weighs me—then he reaches for the pen. Without arguing, he writes a single line in the margin permitting timestamped estate-verification photographs, adds his crisp *G.K.* initials and today's date, and slides the page back.
 
 I uncap the pen, sign *Tessa Calder* across the three lines, and slide the white envelope toward me to thumb through the bills inside.
 
@@ -90,17 +90,17 @@ Fifty crisp hundreds, bound in a single five-thousand-dollar Portsmouth bank ban
 
 "I'm here to pack sweaters, Mr. Kiefer, not steal defense patents."
 
-"Graham." He reaches into his pocket and drops a heavy brass house key onto the maple wood. Not a smart-lock fob—just worn metal teeth. "The porch keypad rotates codes every two days. Use the brass key for the front door. Your guest suite is down the ground-floor north hall, first left. Towels are on the rail."
+"Graham." He reaches into his pocket and drops a heavy brass house key onto the tabletop, its metal teeth worn dull. "The porch keypad rotates codes every two days. Use the brass key for the front door. Your guest suite is down the ground-floor north hall, first left. Towels are on the rail."
 
-Before I can ask where the green archival totes are stacked, his phone buzzes once against the limestone counter.
+Before I can ask where the green archival totes are stacked, his phone buzzes once against the counter.
 
 Graham glances down at the screen. The tense line between his eyebrows deepens for a fraction of a second before smoothing out. "Estate counsel again. Take ten minutes to drop your bag in the guest suite. My study is across the north hall from you, though I'm taking this call upstairs in the master suite for privacy—I'll bring down the Wi-Fi password in a minute."
 
-He heads up the oak treads without waiting for me to answer. His wool socks make no sound on the wood. Halfway up, he pauses just long enough to glance back—not at me, I notice, tracking his angle, but toward the front foyer behind my shoulder. Then he rounds the upper corner, and a heavy latch clicks shut overhead.
+He heads up the treads without waiting for me to answer. His wool socks make no sound on the wood. Halfway up, he pauses just long enough to glance back—not at me, I notice, tracking his angle, but toward the front foyer behind my shoulder. Then he rounds the upper corner, and a heavy latch clicks shut overhead.
 
 ***
 
-I stand beside the maple table, listening to the house settle.
+I stand beside the table, listening to the house settle.
 
 Beneath the slate, a dehumidifier rumbles like an idling engine. Wind flexes the seaward glass, and a refrigerator compressor clicks off behind the island.
 
@@ -110,9 +110,9 @@ I hoist my duffel strap onto my shoulder, grab my damp waxed jacket off the chai
 
 My boot catches on the edge of the mudroom tray beside the front bench. On the left side of the ribbed rubber mat sits a single pair of men's duck boots, salt-crusted and angled neatly against the baseboard. The right half of the tray has been wiped spotless—an empty oval where a smaller pair of boots used to sit.
 
-I reach for the recessed handle of the tall cedar coat closet beside the bench, unwilling to leave my damp jacket dripping onto Graham's oak staircase.
+I reach for the recessed handle of the tall cedar coat closet beside the bench, unwilling to leave my damp jacket dripping onto Graham's staircase.
 
-The closet door swings open on oiled hinges. Inside, four heavy men's wool overcoats hang spaced evenly on wooden hangers, smelling sharply of cedar blocks and dry-cleaning chemical.
+The closet door swings open on oiled hinges. Inside, four heavy men's wool overcoats hang at uniform spacing on wooden hangers, smelling sharply of cedar blocks and dry-cleaning chemical.
 
 At the back of the closet floor, shoved behind the hem of Graham's longest charcoal trench coat, sits an olive-canvas weekender trimmed in saddle leather. Brass zipper teeth. A monogrammed leather tag dangling from the D-ring in gold foil letters: *L.K.*
 
@@ -138,4 +138,4 @@ Below it, the date stamp is dry and black.
 
 My thumb stops on the paper edge. Lydia Kiefer supposedly drowned at eleven-thirty at night on October 14.
 
-Directly above the main hall, floorboards pop. Footsteps start down toward the oak stairs.
+Directly above the main hall, floorboards pop. Footsteps start down toward the stairs.

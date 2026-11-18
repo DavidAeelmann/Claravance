@@ -2,7 +2,7 @@
 
 The steel breaker-box door groans softly on its hinges around the corner of the pantry corridor.
 
-I stay frozen on the second-to-last tread of the back service stairs, one hand braced against cool plaster, stockinged heels gripping the painted pine. Below me, the narrow service hall runs between the kitchen's limestone island and the walk-in cedar pantry. If Deputy Cole Halstead steps two paces left to glance up this stairwell, he'll catch me standing here without shoes, clutching a phone whose guest-app feed just went dead.
+I stay frozen on the second-to-last tread of the back service stairs, one hand braced against cool plaster, stockinged heels gripping the painted pine. Below me, the narrow service hall runs between the kitchen island and the walk-in cedar pantry. If Deputy Cole Halstead steps two paces left to glance up this stairwell, he'll catch me standing here without shoes, clutching a phone whose guest-app feed just went dead.
 
 A heavy toggle switch snaps down inside the metal panel. The refrigerator compressor in the kitchen dies with a long sigh, followed by the thin whine of a battery backup taking load under the sink.
 
@@ -22,17 +22,17 @@ Before Cole Halstead ever pinned on a sheriff's badge, he wired coastal alarms a
 
 He isn't shutting down house power; kitchen soffits stay steady on backup and the crawlspace dehumidifier hums underfoot. Instead, he isolates the lower diagnostic loop labeled **EXT-DECK / LOGS**, clips his black bridge across two copper terminals, and checks his wristwatch.
 
-Forty minutes. Bridging that jumper puts the exterior deck camera into a forty-minute service loop, muting tamper alerts to Graham's phone until the timer expires. No push notification. No chime in Portland.
+Forty minutes. Bridging that jumper puts the exterior deck camera into a forty-minute service loop, muting tamper alerts to Graham's phone until the timer expires and keeping the app quiet in Portland.
 
-No hesitation. No squinting at the circuit map.
+He doesn't hesitate, doesn't squint at the circuit map.
 
 Cole Halstead knows this wiring because he helped Lydia install it.
 
 Halstead closes the breaker door with his left palm, careful not to let the latch bang. He pauses beside the mudroom arch, listening to drizzle hiss against the deck glass, then walks straight past my louvered pantry door toward the kitchen.
 
-I hold my breath. My spine presses hard against the bottom spice shelf. A tin of smoked paprika scrapes faintly behind my shoulder blades. I freeze, calves locking up. Behind me, the cedar paneling beneath the shelves gives a fraction under my weight, as if an empty void sits behind the wood.
+I hold my breath. My spine presses hard against the bottom spice shelf. A tin of smoked paprika scrapes faintly behind my shoulder blades. I freeze, calves locking up. Behind me, the paneling beneath the shelves gives a fraction under my weight, as if an empty void sits behind the wood.
 
-Outside the slats, Halstead's heavy boots stop near the limestone island.
+Outside the slats, Halstead's heavy boots stop near the island.
 
 ***
 
@@ -72,11 +72,11 @@ He takes one step toward the bottom tread, his left hand resting lightly on his 
 
 A low, muffled buzz vibrates against Halstead's chest pocket.
 
-He stops with one boot on the bottom stair, pulls a battered black flip-phone from inside his navy windbreaker, and flips it open with his left thumb. Not his county-issued smartphone. A cheap prepaid burner.
+He stops with one boot on the bottom stair, pulls a cheap prepaid flip-phone from inside his navy windbreaker, and snaps it open with his left thumb.
 
-He steps sideways into the narrow pantry corridor to stay out of sight of the front windows, stopping so close to the louvered cedar door that the wet wool of his sleeve nearly brushes the outside slats.
+He steps sideways into the narrow pantry corridor to stay out of sight of the front windows, stopping so close to the louvered cedar door that his damp windbreaker sleeve nearly brushes the outside slats.
 
-I can smell him through the wood—wet wool and the sharp tang of gun oil.
+I can smell him through the wood—cold rain, diesel film, and the sharp tang of gun oil.
 
 "Yeah," Halstead mutters, his voice pitched low enough to stay under the hum of the refrigerator's backup battery. "I'm inside. Deck bus is bridged."
 
@@ -90,17 +90,17 @@ Another pause. A sharp, impatient exhale hits the cedar slats, carrying the fain
 
 *She's dragging her feet.* He isn't talking about Lydia—he's talking about *me*. And whoever is on that burner isn't Graham Kiefer, because Graham already moved the probate deadline to Thursday night over soup yesterday. I breathe slowly through my nose so no sound carries through the louvers.
 
-Halstead listens for two more beats, his mouth flattening into a hard line. Outside, a gust of harbor wind rattles the glass pantry entry door in its weatherstripping, sending a cold draft straight under the cedar threshold across my ankles.
+Halstead listens, his mouth flattening into a hard line. Outside, a gust of harbor wind rattles the glass pantry entry door in its weatherstripping, sending a cold draft straight under the cedar threshold across my ankles.
 
 "Don't give a damn what the Boston courier thinks," Halstead says, dropping his voice low enough that I have to strain against the battery hum to catch it. "Guy thinks a Cambridge address and a fat check let him treat this whole point like his private bank. Keep yourself tucked out of sight down the cove until dusk. I'll pull the rest before any suit from Boston sets foot on the causeway."
 
 He snaps the burner phone shut and slides it back into his windbreaker.
 
-For a long, suffocating second, he doesn't move. Through the slats, I see his left hand rise and rest flat against the painted wood frame outside my door—so close I can see the pale nick across his knuckle where he caught a latch or a boat cleat. All it takes is one casual tug on the brass knob—one glance inside to check if the pantry light was left on, or to grab a bottle of water—and I'm cornered in the dark with a folding multi-tool and an expired insurance license.
+He stands still, breathing through his nose. Through the slats, I see his left hand rise and rest flat against the painted wood frame outside my door—so close I can see the pale nick across his knuckle where he caught a latch or a boat cleat. All it takes is one casual tug on the brass knob—one glance inside to check if the pantry light was left on, or to grab a bottle of water—and I'm cornered in the dark with a folding multi-tool and an expired insurance license.
 
 A loose floorboard shifts faintly under his heel. Then his fingers curl off the trim.
 
-Instead of opening the door, Halstead turns smoothly back to the steel breaker box. He pops the latch open and yanks the black jumper cable off the copper terminals, tucking the wire back into his pocket.
+Instead of opening the door, Halstead turns back to the steel breaker box. He pops the latch open and yanks the black jumper cable off the copper terminals, tucking the wire back into his pocket.
 
 The kitchen refrigerator shudders back to full power with a deep, mechanical thrum. Outside in the mudroom, the smart-home tablet chimes once as the exterior deck camera reconnects to the house network.
 

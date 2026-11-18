@@ -12,7 +12,7 @@ Graham leans against the doorframe, chest heaving, one hand pressed to his bruis
 
 I drop into the leather desk chair, wake the UPS-backed console monitor, and pull up the *Kiefer Soundworks* zone router. Every speaker on the ground floor is dead except the basement array—which runs off Zone 4's dedicated battery bank. Even the exterior cellular bridge is dark without main power, meaning nothing uploads out tonight until we physically hand the drives to state police. A tiny green status line confirms the hardwired boathouse relay puck's live stream already mirrored straight onto the Zone 4 RAID drive twenty minutes ago. Lydia's entire confession is sitting down there in the dark.
 
-I select `MIC_04_PANTRY_020915.wav`, set the output channel to `ZONE_4_DARKROOM_MONITORS`, and crank the gain to maximum. My thumb hovers over the trackpad for one beat. If Cole hears Lydia's voice echoing from the basement, he won't check the kitchen closets—he'll charge straight down the concrete stairs to kill the playback before it can be copied again.
+I select `MIC_04_PANTRY_020915.wav`, set the output channel to `ZONE_4_DARKROOM_MONITORS`, and crank the gain to maximum. My thumb hovers over the trackpad, pulse hammering in my throat. If Cole hears Lydia's voice echoing from the basement, he won't check the kitchen closets—he'll charge straight down the concrete stairs to kill the playback before it can be copied again.
 
 "Hold the study door," I tell Graham, pointing toward the floor-to-ceiling walnut shelving in the corner. "When Lydia comes up the hall, get behind the shelves and stay quiet. Do not come out until I call your name."
 
@@ -24,11 +24,11 @@ Out in the foyer, Cole's flashlight beam jerks violently toward the basement sta
 
 "Lydie?" Cole shouts, confusion sharpening into raw panic as his own coastal drawl echoes faintly up through the floorboards beneath him. "She's back in Zone Four! She's playing the pantry tape!"
 
-Heavy boots thunder across the foyer slate toward the basement stairs, taking the landing in two loud bounds.
+Heavy boots thunder across the foyer floor toward the basement stairs, taking the landing in two loud bounds.
 
 ***
 
-I don't wait in the study. I slip into the dark north hall, skirt the stairwell landing while Cole's boots hammer downward into the basement, and feel my way along the cool wainscoting into the kitchen. Without a single standby LED, the room is ink-black. My hip grazes the limestone island corner before I find the narrow cedar doorway of the pantry corridor.
+I don't wait in the study. I slip into the dark north hall, skirt the stairwell landing while Cole's boots hammer downward into the basement, and feel my way along the cool wainscoting into the kitchen. Without a single standby LED, the room is ink-black. My hip grazes the counter corner before I find the narrow cedar doorway of the pantry corridor.
 
 Behind the recessed spice rack, the dumbwaiter shaft smells of cold concrete and machine oil, thick with settled dust from the dropped counterweight. I tuck the rusted oyster knife into my jeans waistband, grab the cold iron ladder rungs, and climb down fast into the pitch-black cellar. My raw left wrist burns against the metal, and the heavy duffel bangs awkwardly against the brick chimney chase behind my shoulders with every downward reach.
 
@@ -82,10 +82,10 @@ Lydia doesn't stay to fight me on the stairs. She scrambles up the concrete step
 
 I sprint up the stairs two at a time behind her, the heavy duffel banging hard against my ribs, my sneakers slipping once on the top landing before I shoulder the foyer basement door wide.
 
-When I burst out into the foyer, Graham is already emerging from the north hall, his eyes wide in the dark as he tries to track the commotion. Across the slate, Lydia drags the heavy cedar foyer bench with scraping legs beneath the low-slung foyer skylight hatch—the one glass roof panel in the sloping vestibule ceiling that the exterior steel hurricane shutters couldn't cover when the breaker dropped.
+When I burst out into the foyer, Graham is already emerging from the north hall, his eyes wide in the dark as he tries to track the commotion. Across the stone, Lydia drags the heavy cedar foyer bench with scraping legs beneath the low-slung foyer skylight hatch—the one glass roof panel in the sloping vestibule ceiling that the exterior steel hurricane shutters couldn't cover when the breaker dropped.
 
-"Stop her!" I shout, lunging across the wet slate as Graham steps forward to block the hall. His bare hands come up empty.
+"Stop her!" I shout, lunging across the wet floor as Graham steps forward to block the hall. His bare hands come up empty.
 
-Lydia doesn't look down. The cedar bench groans under her boots as she scrambles up, unlatches the brass skylight crank with blood-slick fingers, and shoves the heavy glass hatch upward into the howling gale. Freezing rain pours straight down onto the foyer slate, soaking her hair and shoulders in a heartbeat as she reaches for the slick cedar roof framing.
+Lydia doesn't look down. The cedar bench groans under her boots as she scrambles up, unlatches the brass skylight crank with blood-slick fingers, and shoves the heavy glass hatch upward into the howling gale. Freezing rain pours straight down onto the foyer floor, soaking her hair and shoulders in a heartbeat as she reaches for the slick cedar roof framing.
 
 Then, high above the dark spruce trees, blue-and-red light bars flare bright through the coastal fog, painting the wet skylight glass overhead in pulsing crimson and cobalt while twin sirens cut through the roar of the Atlantic gale.

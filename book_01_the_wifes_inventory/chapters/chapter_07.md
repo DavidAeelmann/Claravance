@@ -6,7 +6,7 @@ I stand on the upper landing watching him pause by the front door to tap a tempo
 
 "Don't bother with the kitchenware today," he says, pulling his wool coat collar up against the wet drizzle spitting off the cove. "Focus on the master suite closet and Lydia's vanity. Everything needs to be photographed and logged before tomorrow night."
 
-"I'll stay on schedule," I say, leaning casually against the oak rail. "Did the Boston lawyers confirm Thursday?"
+"I'll stay on schedule," I say, leaning casually against the rail. "Did the Boston lawyers confirm Thursday?"
 
 "They're sending a courier out tomorrow evening if I upload the preliminary inventory by five." His gray eyes lift to mine, tired and sharp beneath the foyer sconce. "Don't leave the property without texting me first. The wind's supposed to peak around noon, and I don't want you stranded on the causeway if high water washes over the culvert."
 
@@ -16,11 +16,11 @@ The moment his taillights clear the timber gate and the hydraulic barrier clunks
 
 Still, the relief doesn't last long enough to catch my breath. Yesterday I thought I had until Friday to finish this ledger, collect my remaining ten grand, and vanish back to Portland before anyone dug too deep into my Harbor Mutual record. Now Graham has shaved twenty-four hours off the clock, a left-handed county deputy knows my plates, and someone already rifled through my duffel while I bought packing tape.
 
-I walk slowly down the oak treads to the foyer first, before touching a single sweater upstairs.
+I walk slowly down the treads to the foyer first, before touching a single sweater upstairs.
 
 Underneath the floating staircase, I crack the unlocked cedar stairwell door an inch and peer down the concrete steps at the heavy steel fire door of Basement Zone 4. Beneath its matte brass mortise knob, a tiny pinpoint LED embedded in the steel frame glows steady red—armed, hardwired straight into the Kiefer Soundworks security hub. Even with the rusted B-4 key wrapped inside my waxed jacket pocket on the foyer peg, shoving old brass into that lower mortise cylinder right now will fire an instant breach ping straight to Portland *and* Graham's phone.
 
-I crouch beside the cedar seam, listening. Nothing moves behind the insulated paneling. No server fan hum, no footsteps. Yet last night during the power flicker, that wall tablet beside the pantry logged **PERIMETER BYPASS ACTIVE** before Graham wiped the screen. If I'm going into that room before Thursday night, I have to figure out how someone bypassed the door without touching this deadbolt.
+I crouch beside the seam, listening. Nothing moves behind the insulated paneling. Yet last night during the power flicker, that wall tablet beside the pantry logged **PERIMETER BYPASS ACTIVE** before Graham wiped the screen. If I'm going into that room before Thursday night, I have to figure out how someone bypassed the door without touching this deadbolt.
 
 I stand, collect two flattened wardrobe cartons, a roll of clear packing tape, and my clipboard from the foyer pile, and head up to the master suite.
 
@@ -30,7 +30,7 @@ Both walnut nightstands sit bare save for matching brass reading lamps and a coi
 
 I set my boxes near the walk-in closet threshold, pull a pair of thin nitrile gloves from my jeans pocket—an old habit from Harbor Mutual's evidence locker—and step inside.
 
-Two cedar-lined walls of structured wool coats, silk blouses, and leather ankle boots hang spaced evenly on wooden hangers. On the back shelf sit half a dozen hatboxes and three velvet jewelry trays. I start snapping baseline inventory photos rapidly so my cloud timestamps look clean and industrious, logging high-value items on my clipboard: a camel cashmere trench, two pairs of Italian riding boots, a Cartier tank watch with a dead battery sitting in the top velvet tray. I even pull down two of the round hatboxes—light, hollow, packed only with crisp silk scarves and cedar sachets—before sliding them back into their exact dust rings.
+Two cedar-lined walls of structured wool coats, silk blouses, and leather ankle boots hang at uniform spacing on wooden hangers. On the back shelf sit half a dozen hatboxes and three velvet jewelry trays. I start snapping baseline inventory photos rapidly so my cloud timestamps look clean and industrious, logging high-value items on my clipboard: a camel cashmere trench, two pairs of Italian riding boots, a Cartier tank watch with a dead battery sitting in the top velvet tray. I even pull down two of the round hatboxes—light, hollow, packed only with crisp silk scarves and cedar sachets—before sliding them back into their exact dust rings.
 
 Every drawer in the center walnut island slides out on oiled tracks. Folded scarves, leather driving gloves, a silver-backed hairbrush with three dark strands still caught in the bristles. Inside the top velvet jewelry tray sits a platinum wedding band beside a pair of pearl studs—the kind of daily ring a woman doesn't usually leave behind on a dresser unless she took it off before stepping onto a boat, or wanted people to think she did. Whoever packed that olive weekender sitting downstairs in the foyer coat closet cleared out her travel documents long before I arrived, leaving only the expensive props probate lawyers expect to see.
 
@@ -54,19 +54,19 @@ Ambien.
 
 I lift the vial carefully with my gloved thumb and forefinger, holding it up toward the frosted window light. The prescribing physician is an internist in Rockland, zero refills authorized. People who suffer from chronic coastal migraines don't get a thirty-day supply of heavy sleep sedatives unless they're having trouble staying down through the night—or unless they asked for something strong right before a trip.
 
-I twist the plastic cap open cleanly and tip the tablets into my gloved palm, counting them twice.
+I twist the plastic cap open and tip the tablets into my gloved palm, counting them twice.
 
 Twenty white oblong pills.
 
 I frown, pouring them carefully back into the amber plastic and snapping the childproof cap shut. People skip nights or take sleep medication sporadically; a partial bottle dispensed ten days before a storm proves nothing by itself. I log the October fourth fill date and tablet count merely as baseline inventory background, set the vial back behind the ibuprofen in line with my memory, and glance down at the left sink basin.
 
-Nothing sits in the porcelain bowl. Yet as I lean closer to check the brass pop-up drain stopper, a faint white ring catches the recessed light along the chrome seam—chalky, slightly crystalline, like pulverized powder that didn't rinse cleanly down the drain.
+Nothing sits in the porcelain bowl. Yet as I lean closer to check the brass pop-up drain stopper, a faint white ring catches the recessed light along the chrome seam—chalky, slightly crystalline, like pulverized powder that didn't rinse all the way down the drain.
 
 I pull my pocket multi-tool out, unfold the narrow pliers, and crouch beneath the limestone vanity. The curved brass P-trap under the left sink looks clean on the outside, wiped free of dust, yet if someone flushed dissolved solids down this drain recently, the lower bend could still trap residue.
 
 Holding a folded paper towel beneath the curve, I loosen the brass slip-nut slowly. A thimbleful of stale gray water drips onto the towel, followed by a damp smear of white crystalline paste caked inside the lower bend of the pipe.
 
-I stare at the chalky sludge on my nitrile glove. By eye alone, it could be scouring cleanser, calcium paste, or pulverized pill binder—an unconfirmed chemical suspect until a lab runs toxicology. Still, people who swallow a bedtime tablet whole don't leave crushed paste packed inside a sink trap. Working hypothesis: someone tested how cleanly a sedative dissolves without clouding a glass.
+I stare at the chalky sludge on my nitrile glove. Could be scouring cleanser, could be mineral buildup. No lab, no proof. Except nobody scrubs a spotless vanity drain with cleanser and leaves paste packed in the elbow. Someone wanted to see how fast a pill dissolves without clouding a glass.
 
 I pull a spare clean nitrile glove and a folded strip of heavy foil from my jeans pocket—old Harbor Mutual field habits die hard—scoop a clean sample of the white paste onto the foil, fold it tight inside the spare glove finger, and knot it shut before tucking it deep into my pocket.
 
@@ -74,7 +74,7 @@ The instant my fingers clear the pocket seam, my phone vibrates sharply against 
 
 ***
 
-I freeze on my knees under the sink, waiting for the buzz to stop. Not a call. Just a single crisp chime from the Kiefer Soundworks home-access app Graham shared with me an hour ago.
+I freeze on my knees under the sink, waiting for the buzz to stop—just a single crisp chime from the Kiefer Soundworks home-access app Graham shared with me an hour ago.
 
 I wipe my gloved fingers on the paper towel, slide out from beneath the cabinet, and pull my phone from my pocket.
 
@@ -96,7 +96,7 @@ I watch in stunned silence as Halstead checks his wristwatch, glances once over 
 
 He doesn't fumble. He doesn't try a guess.
 
-He punches six digits cleanly into the brass keypad.
+He punches six digits straight into the brass keypad.
 
 A green LED flashes on the housing, followed by the unmistakable electronic *clack* of the deadbolt retracting from inside.
 
@@ -104,7 +104,7 @@ Graham swore to me on night one that the kitchen porch keypad rotates codes ever
 
 The pantry door swings inward on the video feed.
 
-Halstead steps inside, pulling the door shut behind him—and the camera feed freezes for two seconds before dropping to a gray **FEED INTERRUPTED** warning box.
+Halstead steps inside, pulling the door shut behind him—and the camera feed stutters, then drops to a gray **FEED INTERRUPTED** warning box.
 
 I tighten the brass slip-nut under the vanity with two frantic twists of my gloved fingers, blot the wet paper towel dry across the slate tile so not a drop remains, and yank the nitrile gloves off. I shove them deep into my jeans pocket alongside my multi-tool and slip out into the upper hall. If I stay trapped up here in the master suite, Halstead will either corner me at the top of the stairs or walk straight back out before I learn what he's doing inside Graham's kitchen.
 

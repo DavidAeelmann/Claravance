@@ -1,8 +1,8 @@
 # Chapter 3
 
-The studio door swings inward smoothly, flooding the edge of the floorboards with pale amber light from the hallway sconces.
+The studio door swings inward without a sound, flooding the edge of the floorboards with pale amber light from the hallway sconces.
 
-I'm already standing beside the oak flat-files with my phone screen dark in my palm, holding an unlit brass desk lamp by its neck like I tripped over the cord trying to turn it on.
+I'm already standing beside the flat-files with my phone screen dark in my palm, holding an unlit brass desk lamp by its neck like I tripped over the cord trying to turn it on.
 
 Graham stops in the doorway. He's holding an empty ceramic mug by the handle, wearing the same frayed charcoal sweater from downstairs. His eyes jump straight past me to the walnut desk—checking the green blotter, the closed sketchbook, the silver pen—before swinging back to my wool-socked feet.
 
@@ -10,7 +10,7 @@ Graham stops in the doorway. He's holding an empty ceramic mug by the handle, we
 
 "Couldn't sleep." I set the lamp base back onto the flat-file gently so it doesn't scrape. "And you want a preliminary ledger by Friday. Figured I'd count the flat-file drawers and get a rough box estimate before daylight."
 
-He steps inside anyway, crossing the threshold slowly as if testing the air. Smelling for smoke, maybe, or checking whether I pried a drawer off its runners. He stops beside the walnut desk, glancing down at the uncapped Montblanc and the smudged scratch pad on the blotter. For a tense beat I wait for him to notice the slight shift in the brass paperweight—to accuse me of snooping, invoke the fifty-thousand-dollar NDA, and throw me back across the causeway without a dime of the remaining ten grand.
+He steps inside anyway, crossing the threshold slowly as if testing the air. Smelling for smoke, maybe, or checking whether I pried a drawer off its runners. He stops beside the desk, glancing down at the uncapped Montblanc and the smudged scratch pad on the blotter. For a tense beat I wait for him to notice the slight shift in the brass paperweight—to accuse me of snooping, invoke the fifty-thousand-dollar NDA, and throw me back across the causeway without a dime of the remaining ten grand.
 
 Instead, his shoulders drop slightly. He doesn't touch the pen or the pad, just lets his gaze linger on the blotter before turning toward the window.
 
@@ -22,7 +22,7 @@ Graham turns his head toward me, gray eyes unreadable in the half-light. "Meanin
 
 "Nothing. Just neat for an active studio." I've already pushed too far—the exact compulsive itch that cost me my Harbor Mutual license. I force a tired shrug and gesture toward the hallway. "I'll log the canvases first thing after breakfast. Goodnight, Graham."
 
-He doesn't move out of the doorway until I'm inches away, forcing me to brush past his sleeve to reach the runner. He smells faintly of cedar shavings and cold rain, even though he hasn't stepped outside since I arrived. As I head down the oak stairs toward my ground-floor guest room, I don't hear him follow—just the soft click of the studio door pulling shut behind him, followed by the metallic snick of a key turning in a lock overhead before I reach the bottom tread.
+He doesn't move out of the doorway until I'm inches away, forcing me to brush past his sleeve to reach the runner. He smells faintly of cedar shavings and cold rain, even though he hasn't stepped outside since I arrived. As I head down the stairs toward my ground-floor guest room, I don't hear him follow—just the soft click of the studio door pulling shut behind him, followed by the metallic snick of a key turning in a lock overhead before I reach the bottom tread.
 
 Back in my room, I wedge the wooden desk chair under the cheap privacy knob before sitting on the edge of the iron bed. Five grand in my duffel won't feel safe until it hits a teller window in Portland, and Friday morning suddenly feels an ocean away.
 
@@ -32,7 +32,7 @@ Downstairs at seven-thirty, the house smells like burnt French roast and wet kel
 
 Low tide has stripped the cove bare, leaving glistening black ledges and knotted rockweed exposed beneath a bruised pewter sky. Fog hangs thick over the outer breakwater, erasing the horizon until the glass dining wall feels like it's floating inside a cloud.
 
-Graham stands at the limestone island in a clean slate-gray oxford shirt, sleeves rolled above his forearms, pouring coffee from a glass carafe into two mismatched mugs. No suit. No briefcase. Just dark hollows under his eyes that look deeper in daylight than they did under the foyer sconces.
+Graham stands at the limestone island in a clean slate-gray oxford shirt, sleeves rolled above his forearms, pouring coffee from a glass carafe into two mismatched mugs. Dark hollows under his eyes look deeper in daylight than they did under the foyer sconces.
 
 "Black?" he asks, sliding one mug across the stone without looking up.
 
@@ -56,13 +56,13 @@ Graham looks down at his coffee. "Lydia's brother lives in Zurich. He hasn't spo
 
 There it is—the real crack beneath the grief-stricken widower act. I keep my expression neutral, nodding slowly like a sympathetic clerk, watching his hands. "Probate freeze locks up company equity?"
 
-"Locks up everything," he says, voice dropping an octave into something rawer, less rehearsed. "My R&D payroll clears next Wednesday. If the trustees freeze the trust before Friday's preliminary filing, the Arlington buyer walks away from the acquisition, my liquidity evaporates, and creditors call the lab lease by Thanksgiving. If the filing clears cleanly, the buyout closes—and I get the cash to settle every company obligation before an audit ever touches it."
+"Locks up everything," he says, voice dropping an octave into something rawer, less rehearsed. "My R&D payroll clears next Wednesday. If the trustees freeze the trust before Friday's preliminary filing, the Arlington buyer walks away from the acquisition, my liquidity evaporates, and creditors call the lab lease by Thanksgiving. If the filing clears on schedule, the buyout closes—and I get the cash to settle every company obligation before an audit ever touches it."
 
 "Which still doesn't explain why you hired me through a blind broker instead of calling an estate firm in Camden," I say, keeping my voice flat. "Local outfits pack faster and don't charge cash premiums."
 
-Graham's eyes lift from his mug. He looks exhausted enough to drop the polite host routine altogether. "Local outfits talk at the general store before five o'clock. Every clerk in this county knows Deputy Halstead, and Halstead's office already has three reporters sniffing around the harbor causeway. I needed someone with zero local ties who understands how to document property cleanly enough that Boston counsel can't claim I hid marital assets—or missed something inside this house."
+Graham's eyes lift from his mug. He looks exhausted enough to drop the polite host routine altogether. "Local outfits talk at the general store before five o'clock. Every clerk in this county knows Deputy Halstead, and Halstead's office already has three reporters sniffing around the harbor causeway. I needed someone with zero local ties who understands how to document property thoroughly enough that Boston counsel can't claim I hid marital assets—or missed something inside this house."
 
-I stare at him across the pale limestone. For the first time since I drove through the cedar gate, the panic behind his gray eyes looks real. I know eviction panic when I see it. Still, five-point-four million in trust money buys far sharper motive than winter sweaters.
+I stare at him across the pale counter. For the first time since I drove through the cedar gate, the panic behind his gray eyes looks real. I know eviction panic when I see it. Still, five-point-four million in trust money buys far sharper motive than winter sweaters.
 
 "What happened the night of the storm?" I ask quietly, testing the water while he's still talking. "The broker said October fourteenth. Squall came in fast?"
 
@@ -76,7 +76,7 @@ Graham pulls back behind the polished mask. "She took the fiberglass skiff out a
 
 The back deck wraps the seaward face of the house in weathered cedar planks, slick with overnight fog condensation. Below us, steep granite steps—no handrail, just like Graham warned—zig-zag down the bluff toward the dark timber boathouse squatting over the cove pilings. Green algae coats the lower treads where high water reaches during winter gales, making the drop look less like a boat landing and more like a broken neck waiting for someone in leather soles.
 
-I step out onto the deck with my empty mug, claiming I want to check the morning light on the sunroom windows before pulling the inventory sheets. Behind the glass, Graham is already wiping down a spotless limestone counter to erase my coffee ring.
+I step out onto the deck with my empty mug, claiming I want to check the morning light on the sunroom windows before pulling the inventory sheets. Behind the glass, Graham is already wiping down the spotless counter to erase my coffee ring.
 
 From up here, the boathouse roof looks tight and well-kept, cedar shingles darker than the main house where spray hits them. A single heavy brass padlock secures the landward double entry doors, paired with a faded county paper seal sliced clean along the edge, while the side casement facing the cliff sits shuttered from inside. If the Coast Guard cleared it nearly three weeks ago, nobody bothered to unlatch the shutters for ventilation.
 

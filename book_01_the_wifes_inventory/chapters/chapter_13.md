@@ -12,7 +12,7 @@ I snatch my phone off the desk, keep the screen dimmed low, and cross in my damp
 
 I press one palm gently against the hinged cedar panel.
 
-It gives a fraction—then slams hard against something wedged across the outside shelves. Through the thin crack between the cleats, I hear the unmistakable scrape of a heavy oak kitchen chair braced tight under the louvered pantry doorknob, followed by the metallic *snick* of a deadbolt turning on the mudroom side. A moment later, muffled, stockinged footsteps pad lightly across the dark kitchen slate, deliberate and unhurried, before fading toward the front hall.
+It gives a fraction—then slams hard against something wedged across the outside shelves. Through the thin crack between the cleats, I hear the unmistakable scrape of a heavy kitchen chair braced tight under the louvered pantry doorknob, followed by the metallic *snick* of a deadbolt turning on the mudroom side. A moment later, muffled, stockinged footsteps pad lightly across the dark tile, deliberate and unhurried, before fading toward the front hall.
 
 Whoever locked the basement door knows about the dumbwaiter shaft. And they just pinned me deep below the slab until morning, cutting off both exits without saying a word. If I try forcing that cedar panel from a vertical iron ladder, I'll either break my wrists or fall backward down the masonry chute.
 
@@ -24,19 +24,17 @@ My teeth chatter hard enough to click. I pull my flannel cuffs down over my wris
 
 If whoever locked me down here wanted me dead in the dark, they wouldn't have left the workstation powered on or spared the red tamper tape inside that cabinet. They sealed me in to wait for sunrise—or to buy three hours upstairs while they clean up whatever they don't want me seeing before today's courier arrives. Worse, if it wasn't Graham who threw that deadbolt, then someone else is walking around his foyer at two-thirty in the morning.
 
-I unfold the narrow utility blade on my multi-tool, slice cleanly beneath the red tamper-evident tape, and pry open the bent brass clasp.
+I unfold the narrow utility blade on my multi-tool, slice beneath the red tamper-evident tape, and pry open the bent brass clasp.
 
 ***
 
-Inside the padded kraft sleeve sit four items: a bound sheaf of notarized financial schedules, three cleanly sliced cream-rag sketchbook pages, a heavy spiral-bound printout of raw acoustic transcripts, and a matte-black encrypted thumb drive taped to a yellow index card.
+Inside the padded kraft sleeve sit four items: a bound sheaf of notarized financial schedules, three sliced cream-rag sketchbook pages, a heavy spiral-bound printout of raw acoustic transcripts, and a matte-black encrypted thumb drive taped to a yellow index card.
 
 I spread the financial sheaf and the loose sketchbook sheets across the steel worktable under the blue monitor wash first.
 
-The cover sheet and schedules form a retroactive trust-reconciliation and ratification packet bearing the raised notary seal of a Boston firm dated October tenth—four days *before* the storm—bundling six prior draws over fourteen months. These are original wire receipts, bridge-loan ledger sheets, and signed trust-collateral transfers showing Graham Kiefer systematically draining $2,400,000 out of the $5,400,000 Lydia Kiefer Irrevocable Trust over fourteen months to keep Kiefer Soundworks afloat while his acoustic patent stalled in federal review, leaving $3,000,000 remaining. Six separate wire draws carry Lydia's secondary signatory initials in cramped blue ink—each stroke slightly stiff, traced over pencil guidelines. Beside them lie the three missing pages sliced from Lydia's studio sketchbook, covered in dozens of penciled practice tracings of Lydia's *L.K.* initials.
+The cover sheet and schedules form a retroactive trust-reconciliation and ratification packet bearing the raised notary seal of a Boston firm dated October tenth—four days *before* the storm—bundling six prior draws over fourteen months. These are original wire receipts, bridge-loan ledger sheets, and signed trust-collateral transfers showing Graham Kiefer systematically draining $2,400,000 out of the Lydia Kiefer Irrevocable Trust to keep Kiefer Soundworks afloat while his acoustic patent stalled in federal review. Six separate wire draws carry Lydia's secondary signatory initials in cramped blue ink—each stroke slightly stiff, traced over faint graphite guidelines. Beside them lie the three missing pages sliced from Lydia's studio sketchbook, covered in dozens of penciled practice tracings of Lydia's *L.K.* initials, complete with light-table registration ticks along the margins.
 
-Attached to the back sits the same *Bramwell & Shaw* covenant schedule I photographed upstairs. Staring at both documents together, the math finally locks into place. If Lydia had simply reported Graham's $2.4M embezzlement to Boston police or filed for divorce, she would only have triggered his thirty-day civil cure window—giving him until November fourteenth to plug the hole with his Arlington buyout, or trapping the remaining $3,000,000 in years of bankruptcy and divorce litigation alongside Kiefer Soundworks' creditors. Only a formal murder charge invokes the trust's moral-turpitude forfeiture clause immediately, strips Graham's signatory rights overnight, and drops the full remaining $3,000,000 clean into an offshore Cayman bearer structure.
-
-Graham didn't just miss a payment—he sliced sheets out of his wife's own sketchbook to practice forging her signature on six trust transfers. Anyone holding these notarized sheets wouldn't need a body to put him in prison for wire fraud, yet whoever is framing him needs a homicide indictment instead.
+Attached to the back sits the same *Bramwell & Shaw* default schedule I photographed upstairs. Graham didn't just miss a payment—he sliced sheets out of his wife's own sketchbook to practice forging her signature on six trust transfers. Anyone holding these notarized sheets wouldn't need a body to put him in prison for wire fraud, yet whoever is framing him needs a homicide indictment instead.
 
 I set the notarized sheets aside and flip open the spiral-bound printout.
 
@@ -70,7 +68,7 @@ I pace the length of the rubberized matting to keep blood moving in my toes, sta
 
 I slip the encrypted thumb drive off the yellow index card and tuck it deep inside the small watch pocket of my jeans, beside Maren's torn tide chart. Then I slide the notarized $2.4M ledger and the 2:14 AM transcript printout back inside the padded manila envelope, tuck it under my arm, and lean against the edge of the steel worktable to wait out the dark. By five-thirty, my toes are numb inside the rubber mat's chill, and I flex my fingers every few minutes just to keep my grip loose enough to use the multi-tool if the door opens fast.
 
-At 5:58 AM, faint water pipes shudder inside the ceiling joists overhead. Someone upstairs just turned on the kitchen tap, followed by the heavy scrape of a chair sliding back across slate—the chair wedged against the pantry door.
+At 5:58 AM, faint water pipes shudder inside the ceiling joists overhead. Someone upstairs just turned on the kitchen tap, followed by the heavy scrape of a chair sliding back across the floor—the chair wedged against the pantry door.
 
 I move two steps sideways behind the worktable, keeping the heavy steel edge between myself and the fire door, and grip the folded multi-tool inside my palm. I shift my weight onto the balls of my feet, ready to bolt back into the northeast dead-zone if whoever comes down those steps carries a gun instead of a wrench.
 
@@ -80,10 +78,10 @@ They pause on the bottom landing. A brass key slides into the exterior mortise c
 
 The pinpoint red LED above the interior frame winks out.
 
-The heavy steel fire door swings inward on its pneumatic closer, revealing the concrete stairs rising toward the open cedar door on the foyer slate—letting a cold wash of gray dawn light and the smell of wet pine needles spill down from the front hall.
+The heavy steel fire door swings inward on its pneumatic closer, revealing the concrete stairs rising toward the open cedar door on the foyer floor—letting a cold wash of gray dawn light and the smell of wet pine needles spill down from the front hall.
 
 Graham Kiefer stands framed in the open doorway.
 
 He's still wearing yesterday's dark merino crewneck, wrinkled now and dusted across one shoulder with plaster grit, his eyes bloodshot and hollowed out beneath gray stubble. In his right hand, he grips a heavy brass pipe wrench low against his thigh, fingers locked tight around the knurled shaft.
 
-Behind his heels on the foyer slate, half-lit by the gray morning window, sits a pair of muddy women's winter duck boots—fresh wet kelp clinging to the rubber soles, dripping dark rainwater onto the stone tile beside an open, mud-streaked navy nylon tote.
+Behind his heels on the stone tile, half-lit by the gray morning window, sits a pair of muddy women's winter duck boots—fresh wet kelp clinging to the rubber soles, dripping dark rainwater beside an open, mud-streaked navy nylon tote.

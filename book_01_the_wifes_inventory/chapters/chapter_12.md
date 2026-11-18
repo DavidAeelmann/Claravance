@@ -10,7 +10,7 @@ I reach out with two fingers, careful not to nudge the desk mouse until I've che
 
 Graham didn't just build noise-canceling transducers down here for an Arlington patent buyer. He wired the entire property—sunroom, pantry, stairwell, boathouse, and submerged cove pilings—into one local acoustic server array. Every room upstairs feeds straight into this cellar. Even the words Graham and I traded over soup Tuesday night probably sit archived inside this aluminum rack.
 
-Beside the worktable hums a waist-high aluminum server rack, radiating warm silicon through perforated mesh. Three black chassis units sit stacked (`PRIMARY PARALLEL`, `COVE HYDROPHONE`, `AMBIENT / PERIMETER`) above a dedicated UPS battery bank bolted along the bottom rail—keeping the Zone 4 servers, monitors, and local `ARCHIVE` alive if main power drops. Atop the stack sits a compact cellular bridge, dead without grid AC while the battery bank protects local drives. Even this closed hub leaves three blind spots: Cole's exterior maintenance jumper, the pantry dumbwaiter shaft, and a storm-cut bridge that keeps local platters spinning in the dark.
+Beside the worktable hums a waist-high aluminum server rack, radiating warm silicon through perforated mesh. Three black chassis units sit stacked (`PRIMARY PARALLEL`, `COVE HYDROPHONE`, `AMBIENT / PERIMETER`) above a dedicated UPS battery bank bolted along the bottom rail—keeping the Zone 4 servers, monitors, and local `ARCHIVE` alive if main power drops. Atop the stack sits a compact cellular bridge, its status light dark, meaning anyone who knew how to jumper the deck bus or drop down the old pantry shaft could work down here in the dark without ever pinging Graham's phone.
 
 I glance nervously toward the steel fire door under the foyer stairs, its heavy pneumatic closer sealed tight against the frame. If waking these monitors tripped a silent ping upstairs—or alerted whoever climbed out of the pantry shaft before 2:14 AM—I'm betting my life the swapped bourbon kept Graham under until dawn.
 
@@ -32,9 +32,7 @@ Not total silence—low slab vibration still hums against my soles—yet the dir
 
 I leave the corner untouched and turn to the long steel drafting table against the east masonry wall. A gooseneck task lamp clamped to the corner sits unplugged, its shade dusted with pale drywall grit.
 
-No ropes. No spare license plates. No hidden stash of Lydia's winter boots or sliced sketchbook pages.
-
-Instead, the steel top looks like an insurance auditor's war room, covered in three weeks of cross-referenced charts clipped together by date. A laminated Maine tide chart sits weighted at the corners with brass acoustic blocks, October fifteenth's 2:14 AM high-water mark circled twice in red felt-tip pen. Beside it lie Salt Point Harbor VHF repeater printouts—highlighted along a forty-second transponder gap with zero tower error code, matching the anomaly Maren warned me Lydia asked about—and a Coast Guard drift grid marked with red arrows pointing northwest toward the outer bell buoy. A cold ceramic coffee mug sits half-empty near the edge, a dry ring of grounds crusted inside the rim, beside a worn silver mechanical pencil with its eraser chewed flat.
+The steel top looks like an insurance auditor's war room, covered in three weeks of cross-referenced charts clipped together by date. A laminated Maine tide chart sits weighted at the corners with brass acoustic blocks, October fifteenth's 2:14 AM high-water mark circled twice in red felt-tip pen. Beside it lie Salt Point Harbor VHF repeater printouts—highlighted along a forty-second transponder gap with zero tower error code, matching the anomaly Maren warned me Lydia asked about—and a Coast Guard drift grid marked with red arrows pointing northwest toward the outer bell buoy. A cold ceramic coffee mug sits half-empty near the edge, a dry ring of grounds crusted inside the rim, beside a worn silver mechanical pencil with its eraser chewed flat.
 
 Under the chart corner lies a yellow legal pad covered in Graham's cramped block script—hull draft depths compared against granite ledge soundings, tide-current estimates, and fuel-burn tables for a fiberglass skiff running dark. At the bottom sits a single underlined question, pressed hard enough to dent the paper below:
 
@@ -58,11 +56,11 @@ Stenciled across the upper door in faded white block paint are four words:
 
 A heavy chrome cam lock secures the center handle, its brass keyway scratched from frequent use. Thin pale smears in the gray enamel around the handle show where someone wiped fingerprints off recently—not with household lemon oil, just a quick swipe of a dry sleeve. I test the handle once; the steel door doesn't budge a hair. I reach into my front jeans pocket and pull out the rusted **B-4** key I took from behind the sunroom baseboard, holding its warded brass bit up toward the dim blue spill from the monitors. One glance tells me the old mortise bit won't fit a flat cabinet wafer lock; B-4 belongs to the heavy steel fire door behind me, not this storage locker.
 
-I slip the B-4 key back into my pocket, double-checking that the heavy brass front-door key and my folded tide strip are still tucked safely beside it, and unfold the narrow steel pry blade on my multi-tool.
+I slip the B-4 key back into my pocket and unfold the narrow steel pry blade on my multi-tool.
 
 Time is running out. The swinging hemp rope in the shaft proved somebody stood down here less than twenty minutes ago—leaving only that pitch-black northeast dead-zone if whoever owns the thumbprint comes back.
 
-I wedge the narrow steel tip between the door seam and frame just above the chrome cam latch, brace my left shoulder against the side panel, and throw my weight into the folded handle, twisting slowly so the blade won't snap against hardened steel. For two endless seconds, the lock resists as my fingers cramp. Then the cam tongue bends inward with a sharp *snap* of yielding steel that sounds deafening inside the foam-lined room.
+I wedge the narrow steel tip between the door seam and frame just above the chrome cam latch, brace my left shoulder against the side panel, and throw my weight into the folded handle, twisting slowly so the blade won't snap against hardened steel. The lock resists until my fingers cramp. Then the cam tongue bends inward with a sharp *snap* of yielding steel that sounds deafening inside the foam-lined room.
 
 I freeze, waiting for footsteps above the joists or a floorboard creak in the foyer. Even the server rack's fan hum suddenly feels too quiet above my head. Nothing stirs.
 

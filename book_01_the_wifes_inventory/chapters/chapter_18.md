@@ -28,7 +28,7 @@ The cold hits like an iron bar across the ribs, driving the air straight out of 
 
 The outgoing chop pulls hard at my legs, tugging me toward the barnacle-crusted pilings. Every kick feels sluggish, my calves knotting into tight cramps while my left wrist burns where brine pours into the raw zip-tie cut. Within thirty strokes, my fingers lose all sensation; I can't tell by touch whether I'm still gripping the oyster knife or clutching empty water, only that my right hand stays locked in a stiff claw until my shoulder scrapes rough granite.
 
-I break the surface gasping, clinging to the jagged rock shelf just north of Maren Lindqvist's shuttered cove sorting shed. Salt spray blinds my eyes. My jaw locks so violently my molars crack together, and every thought feels wrapped in wet wool—slow, narrow, reduced to *hold the rock, don't let the undertow take your boots.*
+I break the surface gasping, clinging to the jagged rock shelf just north of Maren Lindqvist's shuttered cove sorting shed. Salt spray blinds my eyes. My jaw locks so violently my molars crack together, and every thought feels sluggish, waterlogged, reduced to *hold the rock, don't let the undertow take your boots.*
 
 Up at the boathouse, the double doors stand wide open. Cole's heavy silhouette fills the frame, his right hand clamped tight around his bleeding left wrist while Lydia's pale face appears beside his shoulder, scanning the churning cove through the driving rain. As she lunges toward the slipway edge for another shot, Cole steps in front of her to grab her arm, his boot skidding on wet kelp—and his elbow clips her wrist, knocking the matte-black Glock 26 straight out of her hand into the black slipway water with a sharp *plunk*.
 
@@ -36,11 +36,11 @@ Up at the boathouse, the double doors stand wide open. Cole's heavy silhouette f
 
 "Leave it—she went under the pilings!" Cole shouts over the surf, clamping one hand over his bleeding cuff. "Get up to the house and finish Graham's suicide note on that tablet! The surge is taking the causeway—I'll lock down the spur before she crawls out and blows this wide open!"
 
-I press flat against the wet kelp ledge until Lydia turns back toward the cliff stairs, her waxed-canvas jacket disappearing into the mist. Cole lingers for three beats, cursing under his breath as he wraps a rag from his belt around his wrist, then cuts toward the gravel spur to seal off the ridge road.
+I press flat against the wet kelp ledge until Lydia turns back toward the cliff stairs, her waxed-canvas jacket disappearing into the mist. Cole wipes blood from his jaw with his sleeve, wraps a rag from his belt around his wrist, then cuts toward the gravel spur to seal off the ridge road.
 
 I haul myself onto the slick granite shelf, shivering so violently my knees buckle twice against the stone. My scraped right palm leaves pale smears on the rock, and my gashed left wrist pulses hot beneath blue-white skin. My fingers won't uncurl from the swollen oak handle of the oyster knife without me prying them loose against my hip.
 
-I press my numb left palm flat against my jeans watch pocket. Nothing registers through the skin at first—just dead weight against wet denim until I lean down and knock my wrist against the hard rectangular ridge of the matte-black thumb drive tucked inside the coin seam. The **B-4** mortise key, brass front-door key, and pocket multi-tool still weigh down my front pocket beside the damp nitrile gloves and the soaked strip of Maren's tide chart.
+I press my numb left palm flat against my jeans watch pocket. Nothing registers through the skin at first—just dead weight against wet denim until I lean down and knock my wrist against the hard rectangular ridge of the matte-black thumb drive tucked inside the coin seam. Still there. That tiny plastic rectangle holds the only unedited copy of the 2:09 AM pantry audio if the storm kills the house power before I reach the cellar.
 
 I have no phone, no dry clothes, and maybe ten minutes before my hands lock stiff. North along the shoreline, sheer granite bluffs pinch off the headland; once the storm surge swallows the causeway, nobody walks off Salt Point.
 
@@ -54,7 +54,7 @@ Behind me, white surf booms against the boathouse pilings. My calf cramps mid-st
 
 The slate steps feel twice as steep going up in waterlogged sneakers and lead-heavy denim.
 
-Halfway up the rock face, a gust off Penobscot Bay slams me flat against wet granite. My scraped right palm tears open afresh on the lichen, and violent shivering spasms lock both quads until I drop onto one knee on the slick riser. For three slow beats my head swims—a quiet fog whispering I should sit out of the wind for thirty seconds. That's how hypothermia kills you on cold stone: it convinces you to pause. I force my stiff jaw open, count ten steps aloud through locked teeth, and haul myself upward by my elbows.
+Halfway up the rock face, a gust off Penobscot Bay slams me flat against wet granite. My scraped right palm tears open afresh on the lichen, and violent shivering spasms lock both quads until I drop onto one knee on the slick riser. My head swims—a quiet fog whispering I should sit out of the wind for thirty seconds. That's how hypothermia kills you on cold stone: it convinces you to pause. I force my stiff jaw open, count ten steps aloud through locked teeth, and haul myself upward by my elbows.
 
 By quarter to five, darkening twilight settles over the headland. Every step races Lydia's *5:15 PM* surge. If she and Cole seal the house before I pull the live boathouse relay off the basement server, nobody survives this gale to contradict their script.
 
@@ -70,7 +70,7 @@ Inside, the house looks cavernous and still, lit only by the gray storm glow ble
 
 His left wrist is locked to the iron radiator pipe with a pair of steel handcuffs. Dark bruising swells along his left cheekbone, and his charcoal merino sweater hangs torn at the collar where Cole dragged him out of the study. As my shadow crosses the glass, Graham's head jerks up. His gray eyes lock onto mine—wide, terrified, frantically shaking his head toward the front hall while his free hand taps silently against his chest in a sharp warning.
 
-Lydia is already inside the house. Or waiting just beyond the kitchen arch with Cole's backup Glock, watching the sunroom glass for my silhouette.
+Lydia is already inside the house—probably waiting just beyond the kitchen arch with a kitchen knife or Graham's pipe wrench, watching the sunroom glass for my silhouette.
 
 I drop lower beneath the sill and glance south across the open inlet toward the mainland road.
 

@@ -1,6 +1,6 @@
 # Chapter 14
 
-Neither of us moves for five seconds.
+Rain ticks against the foyer glass overhead while my fingers tighten on the brass multi-tool.
 
 Graham stands at the threshold of the open fire door, the concrete basement stairs rising behind him toward gray dawn light from the foyer window, the heavy brass pipe wrench hanging low from his right hand. His eyes drop from my face to the sliced-open manila envelope tucked under my arm, then to the steel worktable where the two studio monitors still hum in pale blue wash.
 
@@ -10,7 +10,7 @@ Graham stands at the threshold of the open fire door, the concrete basement stai
 
 Graham takes one slow step onto the darkroom concrete, his gaze flicking toward the open gray cabinet marked `ARCHIVE — DO NOT ERASE`, then back to the sliced red tamper tape dangling off the kraft flap.
 
-"You broke into my private cabinet," he says flatly.
+"You broke into my private cabinet," he says.
 
 "I took a look at why you're so desperate to push probate through by five o'clock today," I counter, keeping my voice low and even. "I already photographed the *Bramwell & Shaw* default demand in your study last night. Two point four million dollars, thirty-day cure window, criminal referral to the Suffolk County DA. Every page is already backed up in Portland. If you swing that wrench, or if you throw that deadbolt again, a scheduled release drops straight into Bramwell & Shaw's inbox before noon."
 
@@ -38,25 +38,25 @@ Whatever sediment was swirling at the bottom of that bourbon glass last night, i
 
 "You forged Lydia's initials on six trust transfers," I say from the far side of the island, setting the padded manila envelope down beside the toaster while keeping the encrypted thumb drive hidden inside my watch pocket. "October tenth. Four days before the gale. You even sliced three pages out of her studio sketchbook to practice tracing her signature."
 
-Graham exhales slowly, straightening his spine against the limestone counter. Even hollowed out and shaking from the sedative, the executive reflexes snap back into place—chin angled slightly, voice dropping into careful precision.
+Graham exhales slowly, straightening his spine against the counter. Even hollowed out and shaking from the sedative, the executive reflexes snap back into place—chin angled slightly, voice dropping into careful precision.
 
 "Those draws were structured as temporary collateral advances against my pending defense-patent equity," he says tightly, avoiding my eyes. "Every cent went into Kiefer Soundworks payroll and Cambridge lab obligations while Arlington cleared federal export review. As joint signatory, I held operational authority to bridge liquidity—"
 
 "Without your wife's consent," I cut in. "You sliced three blank rag sheets from the back of her bound sketchbook so you could trace her fresh twenty-twenty-six ink signatures on a light table without leaving indentation marks on the pad. Don't dress up forgery as bridge liquidity, Graham."
 
-His jaw locks. For two seconds he looks as if he's calculating whether to deny the sketchbook pages too—until his gaze drops to the sliced red tamper tape on the manila folder.
+His jaw locks. His gaze drops to the sliced red tamper tape on the manila folder, and whatever denial he was weighing dies in his throat.
 
-"I had until November fourteenth," he says coldly, the polish cracking only at the edges. "Bramwell and Shaw served a standard thirty-day cure notice on October fifteenth. If the Arlington buyout closed inside that window, every dollar returned to the trust ledger untouched, with interest. Nobody lost a cent."
+"If Arlington closed on schedule, every dollar went back into the ledger with interest," he snaps, the polish cracking at the edges. "Nobody would have lost a cent."
 
-"Except Lydia found out—and she didn't turn you in for embezzlement."
+"Except Lydia found out—and she didn't hand you over for wire fraud."
 
-"If she'd reported civil embezzlement or filed for divorce, I'd still have until November fourteenth to cure it—or the remaining three million would lock up for years in Kiefer Soundworks bankruptcy litigation," Graham snaps, his voice rising sharp before he catches himself and forces it level again. "By framing me for murder, she triggers the moral-turpitude forfeiture clause immediately and drops all three million offshore. Think about the mechanics, Tessa—I didn't touch her on October fourteenth. I was downstairs wearing noise-canceling transducers when the storm knocked the grid out. By the time I climbed upstairs at three in the morning, the sunroom glass was latched, the skiff was gone off the slip, and Deputy Halstead was already walking up my driveway at five-thirty telling me not to touch the boathouse."
+"Because a civil suit wouldn't strip me bare fast enough for her," Graham shoots back, his voice rising sharp before he forces it level again. "Think about the mechanics, Tessa—I didn't touch her on October fourteenth. I was downstairs wearing noise-canceling transducers when the storm knocked the grid out. By the time I climbed upstairs at three in the morning, the sunroom glass was latched, the skiff was gone off the slip, and Deputy Halstead was already walking up my driveway at five-thirty telling me not to touch the boathouse."
 
 "Halstead," I repeat, watching his eyes closely. "He was in this kitchen yesterday at eleven while you were in Portland. He used a co-owner installer PIN on your wall tablet and bridged your deck camera logs at the breaker box."
 
 Graham stares at me, genuinely stunned. "He doesn't have an installer PIN. Nobody has that code except me and—"
 
-He stops mid-sentence. His fingers lock hard around the edge of the limestone counter.
+He stops mid-sentence. His fingers lock hard around the edge of the counter.
 
 "Lydia," I finish for him.
 
@@ -64,7 +64,7 @@ Graham nods once, slowly. "On October twenty-first—a week after the storm—I 
 
 "And someone staged the bleached sunroom floor under the rug on November first, right before I arrived," I say, shifting my grip on the brass wrench. "Whoever pried the baseboard to mop leaked bleach dropped a pilfered legacy B-4 basement key behind the trim and didn't notice until after they hammered it back. Which still doesn't explain why you hired a blacklisted fraud investigator under a fifty-thousand-dollar gag clause to pack sweaters."
 
-Graham's mouth shuts in a tight line. For two seconds he looks toward the hallway as if weighing how much of his hand sits unlocked on his study desk. "The Arlington probate deadline is real, Tessa. Anything else sits encrypted upstairs—not on my tongue while you're holding a pipe wrench."
+Graham's mouth shuts in a tight line. He glances toward the hallway, weighing how much of his hand sits unlocked on his study desk. "The Arlington probate deadline is real, Tessa. Anything else sits encrypted upstairs—not on my tongue while you're holding a pipe wrench."
 
 He's still holding back half his deck. And whoever locked me in the cellar at two-fifteen knows I already found the first card.
 
@@ -76,17 +76,17 @@ Graham shakes his head sharply. "That's what I've been trying to scrub out of th
 
 I don't answer immediately. My thoughts race back to the darkroom—the tight shoulders pulling the slicker cuff short above a thick wrist, the three failed passphrase lockouts at 4:45 PM while Graham was ninety miles south on I-95, and the St. Andrews passport scan from Tuesday morning.
 
-"Lydia's alive," I tell him flatly. "She scanned her own passport at a private marina in St. Andrews, New Brunswick, Tuesday morning."
+"Lydia's alive," I tell him. "She scanned her own passport at a private marina in St. Andrews, New Brunswick, Tuesday morning."
 
 Graham stares at me as if the floor just dropped out from under him. "She's *alive*?"
 
-"And whoever is helping her isn't just framing you anymore." I nod toward the foyer arch, where the gray morning light catches the wet slate floor. "What about the duck boots you left dripping by the stairs? Those are Lydia's missing pair from the master closet."
+"And whoever is helping her isn't just framing you anymore." I nod toward the foyer arch, where the gray morning light catches the wet floor. "What about the duck boots you left dripping by the stairs? Those are Lydia's missing pair from the master closet."
 
 Graham's jaw goes slack.
 
 "I didn't pull those out of the closet, Tessa," he says, stepping past the island toward the foyer arch. "Follow me."
 
-I keep three paces behind him, gripping the brass wrench, and stop on the foyer slate. Pale dawn gray filters straight down through the high cedar-framed skylight hatch above the foyer coat bench—the sole glass panel clear above the hurricane-shutter housings capping the lower bays—catching a cold puddle by the stairs.
+I keep three paces behind him, gripping the brass wrench, and stop in the hall. Pale dawn gray filters down from the bare overhead skylight where rain beads across the glass, catching a cold puddle by the stairs.
 
 "And the olive weekender shoved behind your wool overcoats?" I ask, nodding toward the tall cedar closet beside the stairs. "Bar Harbor–Yarmouth, Slip Four, stamped October seventeenth—three days after you say she drowned."
 

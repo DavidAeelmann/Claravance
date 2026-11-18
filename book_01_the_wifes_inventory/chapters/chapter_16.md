@@ -46,7 +46,7 @@ No sleep since Tuesday night. Two days of stale coffee, cold fear, and now a she
 
 I force myself down the next flight of steps, keeping one hand brushing the wet granite wall so my knees don't buckle on the moss. Salt spray stings my eyes. Below me, the cove water looks black as crankcase oil, chopping hard against the granite shelf where the boathouse pilings sink into the kelp.
 
-Near the bottom of the cliff, the wind flattens out beneath the rock overhang, though surf still booms against the timber pilings below. Through the drifting fog to my left, Maren Lindqvist's weathered cove sorting shed sits dark and shuttered above the tide line, her aluminum skiff pulled high onto the gravel apron and chained to an iron ring. No light in her window. No woodsmoke curling from her tin stove pipe.
+Near the bottom of the cliff, the wind flattens out beneath the rock overhang, though surf still booms against the timber pilings below. Through the drifting fog to my left, Maren Lindqvist's weathered cove sorting shed sits dark and shuttered above the tide line, her aluminum skiff pulled high onto the gravel apron and chained to an iron ring. Her window sits dark, the tin stovepipe cold.
 
 Directly ahead sits the Kiefer boathouse—gray cedar shingles weathered almost black by salt spray, double plank doors chained tight with one heavy brass padlock and the faded county paper seal sliced clean along its edge.
 
@@ -70,7 +70,7 @@ The boathouse smells strongly of diesel fuel and stagnant low-tide mud. Beneath 
 
 Suspended from the rafters overhead hangs a long yellow fiberglass sea kayak, swaying almost imperceptibly in the cold draft pouring through the open casement behind me.
 
-I stay crouched for one beat, letting my eyes adjust to the gloom. Nothing moves inside except the rhythmic slap of tidewater under the slipway. Up above the cliff edge, maybe ninety yards away, a car door thuds shut in the driveway—Cole's cruiser. I have three minutes, tops, before he figures out Graham is stalling him and walks around to the back deck.
+I stay crouched by the workbench, letting my eyes adjust to the gloom. Nothing moves inside except the rhythmic slap of tidewater under the slipway. Up above the cliff edge, maybe ninety yards away, a car door thuds shut in the driveway—Cole's cruiser. I have three minutes, tops, before he figures out Graham is stalling him and walks around to the back deck.
 
 I push quietly to my feet and edge along the workbench. Tucked beneath a folded blue tarp under the lower shelf sit two plastic gallon jugs—one unlabeled, the other stamped with a faded industrial bleach warning. Beside them lies a pair of cedar oars. Fresh, pale scratches score the varnished blades, matching the wet rag squeak I heard on the 2:14 AM WAV file ten minutes ago.
 

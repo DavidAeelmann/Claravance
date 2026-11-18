@@ -16,7 +16,7 @@ Graham hesitates. A faint twitch pulls at the corner of his mouth. "The study ra
 
 "You wrote the encryption," I say, tapping the flat of the wrench against my thigh. "Which means you have the master key upstairs. Move."
 
-He doesn't argue. He grabs a folded dish towel from the kitchen threshold, swabs the brackish puddle off the foyer slate in three tight strokes, shoves the kelp-crusted duck boots into the back of the foyer coat closet, and tosses the rag into the mudroom sink. I detour past my ground-floor guest suite just long enough to stow my camera and check my navy duffel. The $5,000 envelope still sits untouched under my folded shirts inside the main compartment, yet when I yank open the outer side pouch—the exact zipper pull I tucked flat Tuesday night now flipped outward—my spare Civic key fob is gone. Not Graham sweeping my bag last night: Lydia lifted that fob before dark so she could walk out into the fog after midnight, pop my trunk silently, and drop her duck boots, bleach rag, and bronze cleat into my spare-tire well. I yank the duffel shut and hurry down the north hall.
+He doesn't argue. He grabs a folded dish towel from the kitchen threshold, swabs the brackish puddle off the stone floor in three tight strokes, shoves the kelp-crusted duck boots into the back of the foyer coat closet, and tosses the rag into the mudroom sink. I detour past my ground-floor guest suite just long enough to stow my camera and check my navy duffel. The $5,000 envelope still sits untouched under my folded shirts inside the main compartment, yet when I yank open the outer side pouch—the exact zipper pull I tucked flat Tuesday night now flipped outward—my spare Civic key fob is gone. Graham hadn't swept my bag last night; Lydia lifted that fob before dark so she could walk out into the fog after midnight, pop my trunk silently, and drop her duck boots, bleach rag, and bronze cleat into my spare-tire well. I yank the duffel shut and hurry down the north hall.
 
 Graham's study sits off the north hall, opposite the sunroom. Unlike the glass-and-cedar showcase rooms at the front of the house, this room is narrow, lined with dark acoustic baffling and floor-to-ceiling walnut shelving. The air smells like warm dust and cedar shavings, overlaid with the faint metallic tang of electronics running hot.
 
@@ -34,7 +34,7 @@ His fingers hover over the keys. He doesn't type.
 
 "If I unlock the master partition," he says quietly, not looking up from the screen, "it exposes the full audit log. Every voice memo I recorded when I realized the trust money was gone. Every transfer receipt."
 
-"I already photographed your *Bramwell & Shaw* demand letter last night," I tell him, leaning a hip against the edge of the walnut desk where I can watch both his hands and the hallway door. "It's sitting on a cloud server in Portland. You're past protecting your reputation, Graham. Right now you're trying to stay out of a state prison cell."
+"I already photographed your *Bramwell & Shaw* demand letter last night," I tell him, leaning a hip against the edge of the desk where I can watch both his hands and the hallway door. "It's sitting on a cloud server in Portland. You're past protecting your reputation, Graham. Right now you're trying to stay out of a state prison cell."
 
 He exhales through his nose, a short, bitter sound, and starts typing.
 
@@ -74,13 +74,13 @@ Static fills the study—the low, rhythmic hiss of rain drumming on coastal glas
 
 "That's the pantry corridor," I murmur. "The dumbwaiter hatch."
 
-Footsteps scuff across stone—wet rubber soles squeaking faintly against slate. Then a muffled grunt as someone drags a heavy canvas bundle past the sunroom arch, brushing the cedar wall.
+Footsteps scuff across stone—wet rubber soles squeaking faintly against slate. Then a muffled grunt as someone drags a heavy canvas bundle past the sunroom arch, brushing the paneling.
 
 *"Careful with the varnish,"* a woman's voice cuts through the static.
 
 Graham goes rigid in the chair.
 
-The voice isn't panicked. It isn't pleading, or drugged, or fighting off an attacker. It's clear, crisp, and bone-dry—the cultured, slightly clipped cadence of someone who grew up in private schools and never once raised her voice to be heard.
+The voice is clear, crisp, and bone-dry—the cultured, slightly clipped cadence of someone who grew up in private schools and never once raised her voice to be heard.
 
 *"You're smearing the—" / "Nobody's checking the oarlocks at five in the morning, Lydie."*
 
@@ -104,9 +104,7 @@ I yank my phone from my back pocket and open a blank cable-transfer prompt. "Exp
 
 Graham's hand shakes as he drags the raw WAV file toward my USB transfer window. The copy bar flashes: `14%... 38%...`
 
-Before it hits fifty, the smart-home server rack in the corner chirps twice.
-
-Not an error tone. It's the two-note chime of a registered house tablet coming back within range of the main hub.
+Before it hits fifty, the smart-home server rack in the corner chirps twice—the two-note chime of a registered house tablet coming back within range of the main hub.
 
 "What is that?" I snap, grabbing the brass wrench off the desk.
 

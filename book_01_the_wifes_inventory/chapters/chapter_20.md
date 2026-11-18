@@ -52,7 +52,7 @@ He shifts an inch closer to the blue gas flame, holding the notarized pages stea
 
 My teeth are still clicking softly behind my lips. Water drips from my soaked flannel cuffs onto the limestone tile, pooling cold around my heels.
 
-For three agonizing beats, I don't yank the folder back. The math sits right there in front of me, clean and bloodless as an escrow closing sheet. Fifty grand plus a zero balance at the Cumberland County courthouse. No sheriff knocking on Monday. No four-hundred-dollar checking balance. Nobody died for those six wire transfers, and Lydia Kiefer is the monster trying to drown us both before high tide. All I have to do is drop my arm an inch and watch three sheets of paper curl into ash over a blue flame.
+My fingers lock on the counter edge, cold water dripping off my chin onto the tile, and I don't yank the folder back. The math sits right there in front of me, clean and bloodless as an escrow closing sheet. Fifty grand plus a zero balance at the Cumberland County courthouse. No sheriff knocking on Monday. No four-hundred-dollar checking balance. Nobody died for those six wire transfers, and Lydia Kiefer is the monster trying to drown us both before high tide. All I have to do is drop my arm an inch and watch three sheets of paper curl into ash over a blue flame.
 
 Then I remember the cold white binder in a Vermont sheriff's office six years ago, where nobody bothered to check the dates before closing my sister Nina's file—and the Commercial Street warehouse manifest three years later, where a senior partner offered me a quiet raise to sign off on dirty paper and look the other way. Trading three forged pages for fifty thousand dollars doesn't give me my life back. It turns me into the exact kind of hired signature I blew up my career refusing to be.
 
@@ -72,9 +72,7 @@ Graham stares at me, his hands dropping slack at his sides. "You're going to tur
 
 I march Graham down the dark hall to the guest suite, keeping the rusted oyster knife angled low at my side.
 
-Inside the guest room, the radiator ticks faintly, though the house's boiler hums softer than it did this morning. My faded navy canvas duffel sits right where I left it beside the wall. I yank the main zipper open with my left hand, shove the padded manila envelope deep inside beneath my spare clothes, and check that the $5,000 cash envelope is still tucked at the bottom. Behind the cast-iron radiator pipes sits the crumpled brown paper store bag and the yellow warning slip Cole signed left-handed on Tuesday afternoon; I snatch the yellow slip and stuff it into the duffel's outer side pocket right beside the matte-black thumb drive and the knotted glove finger holding my foil-wrapped P-trap swab.
-
-I pat my front jeans pocket to make sure the rusted **B-4** mortise key, my folding multi-tool, and the heavy brass front-door key are still sitting deep inside.
+Inside the guest room, the radiator ticks faintly, though the house's boiler hums softer than it did this morning. My faded navy canvas duffel sits right where I left it beside the wall. I yank the main zipper open with my left hand and shove the padded manila envelope deep inside beneath my spare clothes. Behind the cast-iron radiator pipes sits the crumpled brown paper store bag and the yellow warning slip Cole signed left-handed on Tuesday afternoon; I snatch the yellow slip and stuff it into the duffel's outer side pocket.
 
 I sling the heavy canvas strap over my shoulder, pull a dry dark wool sweater from the top of the bag, and drag it over my freezing flannel shirt. The dry wool smells faintly of cedar mothballs and laundry detergent. It doesn't warm my soaked jeans, but it stops my teeth from chattering long enough to think.
 
@@ -94,4 +92,4 @@ Every standby LED in the foyer dies instantly. The wall tablet beside the coat c
 
 The house plunges into pitch-black darkness, cutting off even the gray storm glow from the ridge outside.
 
-At the same exact second, Lydia kills the generator transfer switch and throws the manual storm-shutter lockdown switch beside the main breaker. Heavy steel hurricane shutters roar downward inside their exterior aluminum tracks. They slam shut with a deafening metallic *CRASH* across the sunroom glass, the foyer sidelights, and the north-hall windows—sealing every exit in black steel while Cole's boots hit the foyer slate behind us.
+At the same exact second, Lydia kills the generator transfer switch and throws the manual storm-shutter lockdown switch beside the main breaker. Heavy steel hurricane shutters roar downward inside their exterior aluminum tracks. They slam shut with a deafening metallic *CRASH* across the sunroom glass, the foyer sidelights, and the north-hall windows—sealing every exit in black steel while Cole's boots hit the stone floor behind us.

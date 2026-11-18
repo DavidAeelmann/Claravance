@@ -4,7 +4,7 @@ By the time my Civic climbs back onto the Salt Point causeway, wind has swung ea
 
 I punch the four-digit pin at the timber gate, gripping the wet frame while the cedar barrier groans open. My headlights sweep the gravel turnaround.
 
-Graham's charcoal Audi sits under the spruce eaves. Cole Halstead's cruiser isn't here—yet fresh, deep-lugged tire tracks cut across the wet gravel beside the turnaround, reversing cleanly toward the gate. Halstead drove all the way up Graham's private lane, turned around, and left before I got back from the harbor.
+Graham's charcoal Audi sits under the spruce eaves. Cole Halstead's cruiser isn't here—yet fresh, deep-lugged tire tracks cut across the wet gravel beside the turnaround, reversing straight toward the gate. Halstead drove all the way up Graham's private lane, turned around, and left before I got back from the harbor.
 
 I kill the engine and grab the brown store bag. Inside my waxed jacket pocket, the tissue-wrapped B-4 key feels heavier with every step up the slate pavers.
 
@@ -20,11 +20,11 @@ Graham stands near the limestone island, stirring something pale in a copper sau
 
 Thursday. Twenty-four hours shaved off an already impossible deadline, trapping me inside this glass house through the worst of the November storm while Boston lawyers circle overhead.
 
-"Thursday," I repeat flatly, straightening in my stockinged feet. "You told me this morning you held joint signatory control over Lydia's trust. Why does one day move the needle if you still have a normal probate window?"
+"Thursday," I repeat, straightening in my stockinged feet. "You told me this morning you held joint signatory control over Lydia's trust. Why does one day move the needle if you still have a normal probate window?"
 
 Graham's ladle stops against the copper rim. "Because the trust carries a moral-turpitude forfeiture clause," he says tightly, not looking at me. "If the Zurich side—or anyone in Maine—files a formal criminal suspicion before our preliminary inventory seals, my signatory rights strip immediately. No thirty-day cure window. No probate grace period. The Arlington buyer walks, and I'm locked out overnight."
 
-"Then we work late tonight," he adds smoothly, ladling broth into two white stoneware bowls without asking whether I'm hungry. "Grab a spoon, Tessa. Let's talk through the basement exclusions and the mudroom gear."
+"Then we work late tonight," he says, ladling broth into two white stoneware bowls without asking whether I'm hungry. "Grab a spoon, Tessa. Let's talk through the basement exclusions and the mudroom gear."
 
 Before I sit down at the island, I excuse myself to run my brown store bag and laptop down the north hall—and really to check my guest room.
 
@@ -48,11 +48,11 @@ I sit across the limestone island, cradling a bowl of leek soup I barely taste. 
 
 "Did Deputy Halstead stop by while I was in town?" I ask casually.
 
-Graham's spoon pauses halfway to his mouth. Not a flinch—just a stillness that lasts half a beat too long. "Why do you ask?"
+Graham's spoon pauses halfway to his mouth—a stillness that lasts half a beat too long. "Why do you ask?"
 
 "Saw fresh cruiser-lug tracks in the gravel turnaround," I say, keeping my eyes on my bowl like I'm just making conversation. "Thought maybe the Coast Guard sent him out with storm advisories."
 
-"He checked the gate keypad," Graham says evenly, setting his spoon down beside his napkin. "Apparently someone reported a stray dinghy drifting near the outer rocks this afternoon. He didn't even come inside."
+"He checked the gate keypad," Graham says, setting his spoon down beside his napkin. "Apparently someone reported a stray dinghy drifting near the outer rocks this afternoon. He didn't even come inside."
 
 *Liar.* Halstead never mentioned a stray dinghy when he leaned on my Civic door an hour ago—and he told me the boathouse was locked under county seal, while Graham claims the Coast Guard cleared it.
 
@@ -76,21 +76,21 @@ I reach up and lift the heavy nylon chest strap with two fingers.
 
 The orange canvas shell is crisp, stiff, and bright—not faded by summer sun, not frayed along the reflective tape, and completely free of the chalky white salt crust that cakes onto fabric the moment it dries after soaking in Penobscot Bay. Even the stainless steel D-rings along the waist buckle gleam clean, without a speck of rust or green verdigris in the crevices. The emergency whistle clipped to the shoulder strap still has its factory-fresh white pea visible inside the plastic slot.
 
-I flip the collar lining open and inhale once. The nylon smells of laundry-sink tap water and damp basement concrete—not Penobscot Bay brine or kelp rot. Still, a vest could be rinsed under a faucet after recovery, swapped for a clean spare, or pulled dry from a cabin locker; nose alone won't hold up in front of an adjuster or a judge. I kill the flash on my phone, angle the lens into the collar lining, and snap two crisp shots of the Coast Guard approval tag, manufacturer serial number, and lot stamp so I can check them against recovery logs or retail receipts later.
+I flip the collar lining open and inhale once. The nylon smells of laundry-sink tap water and damp basement concrete—not Penobscot Bay brine or kelp rot. Still, a vest can get rinsed under a faucet or swapped for a spare out of a cabin locker, and smelling tap water won't prove anything to anybody. I kill the flash on my phone, angle the lens into the collar lining, and snap two crisp shots of the Coast Guard approval tag, manufacturer serial number, and lot stamp so I can check them against recovery logs or retail receipts later.
 
 Behind me, the kitchen faucet shuts off.
 
 "Find the serial number?" Graham asks from the archway, drying his hands on a linen dish towel.
 
-"Got it." I let the vest drop back against the cedar paneling and turn slowly, gripping my notepad tight enough to dent the cardboard backing. "Graham—can I ask you something about the night of the fourteenth? Just so my notes match the Coast Guard timeline if Boston counsel asks."
+"Got it." I let the vest drop back against the paneling and turn slowly, gripping my notepad tight enough to dent the cardboard backing. "Graham—can I ask you something about the night of the fourteenth? Just so my notes match the Coast Guard timeline if Boston counsel asks."
 
 His towel stills between his fingers. "What about it?"
 
 "You said Lydia went down to the cove around ten-thirty to check the mooring line," I say, watching his gray eyes carefully. "When I drove in last night, the turnaround floodlight was out, and you told me not to go down the cliff stairs after dark. Were the dock lights on that night? Or did the squall knock the power out before she went down?"
 
-Graham pauses only half a beat, folding the damp dish towel into a neat rectangle before setting it flush with the limestone edge. No flinch. No raised voice.
+Graham pauses only half a beat, folding the damp dish towel into a neat rectangle before setting it flush with the counter edge. His face stays flat, his voice calm.
 
-"We keep the dock floodlights switched off at the main sub-panel past mid-October," he says smoothly, his tone reasonable as an insurance filing. "Salt mist shorts the exterior ground-fault loop every time the wind swings southeast, and Lydia hated the glare bouncing off the glass wall at night. If you need the circuit specs for the property schedule, I can pull the electrician's diagram tomorrow—though I wouldn't waste time asking Boston counsel about exterior breakers."
+"We keep the dock floodlights switched off at the main sub-panel past mid-October," he says, his tone reasonable as an insurance filing. "Salt mist shorts the exterior ground-fault loop every time the wind swings southeast, and Lydia hated the glare bouncing off the glass wall at night. If you need the circuit specs for the property schedule, I can pull the electrician's diagram tomorrow—though I wouldn't waste time asking Boston counsel about exterior breakers."
 
 ***
 
@@ -126,4 +126,4 @@ He doesn't turn around. His back stays angled sharply toward the kitchen as he t
 
 "Power surge trips the old basement sensors," he says, voice controlled again, though the skin across the back of his neck has flushed dark red. "Happens every November storm. Finish your soup, Tessa. We start the master closet at eight sharp."
 
-I don't touch the spoon. Across the foyer, underneath the floating oak treads, the flush cedar stairwell door to Basement Zone 4 sits silent in the shadows—its latch plate dry and untouched.
+I don't touch the spoon. Across the foyer, underneath the floating treads, the flush stairwell door to Basement Zone 4 sits silent in the shadows—its latch plate dry and untouched.

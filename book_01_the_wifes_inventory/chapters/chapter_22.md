@@ -2,21 +2,21 @@
 
 Rain drives straight down through the open skylight, turning the slate foyer into a black mirror under the strobing blue-and-red glare.
 
-Lydia has one boot on the cedar frame above her head, her torn waxed-canvas sleeve dark with blood. Before she can haul her weight onto the slick cedar roof, I drop the oyster knife onto the slate, lunge onto the bench beside her, and grab the back of her jacket collar.
+Lydia has one boot on the cedar frame above her head, her torn waxed-canvas sleeve dark with blood. Before she can haul her weight onto the slick cedar roof, I drop the oyster knife onto the floor, lunge onto the bench beside her, and grab the back of her jacket collar.
 
 "Let go!" she shrieks, kicking backward with her heel.
 
-Her boot catches my bruised knee. Pain flares white behind my eyes, sharp enough to steal my breath, but I don't release the waxed canvas. I haul backward with everything left in my shoulders. The bench tips beneath us. Both of us crash hard onto the wet slate together, Lydia's elbow cracking against the floor as the backup drive skitters across the tiles toward the stairs.
+Her boot catches my bruised knee. Pain flares white behind my eyes, sharp enough to steal my breath, but I don't release the waxed canvas. I haul backward with everything left in my shoulders. The bench tips beneath us. Both of us crash hard onto the wet floor together, Lydia's elbow cracking against the stone as the backup drive skitters across the tiles toward the stairs.
 
 Graham doesn't move to help her. He stands back against the wall, his bruised face slack in the pulsing crimson light, watching his wife thrash on the floor he tried to scrub clean.
 
-"Don't touch that drive," I pant, pinning Lydia's good wrist against the slate with my knee while my duffel strap digs into my collarbone. "And don't move."
+"Don't touch that drive," I pant, pinning Lydia's good wrist against the stone with my knee while my duffel strap digs into my collarbone. "And don't move."
 
 Heavy boots pound up the granite front steps outside. A high-powered flashlight beam sweeps across the frosted sidelight beside the door, followed by three sharp knocks that rattle the cedar jamb.
 
 "Maine State Police! Open the door!"
 
-I reach into my jeans pocket with my free hand, pull out the brass front-door key, and toss it across the slate to Graham. "Turn the deadbolt. Now."
+I reach into my jeans pocket with my free hand, pull out the brass front-door key, and toss it across the hall to Graham. "Turn the deadbolt. Now."
 
 Graham catches the key against his chest. For half a second he stares at me, then turns and fumbles the brass lock open.
 
@@ -28,7 +28,7 @@ I raise both hands slowly, stepping off Lydia's wrist as the lead trooper moves 
 
 "That backup drive by the stairs came off the study tower," I tell him, nodding toward the tiles. "And seal the upstairs studio—there's a silver Montblanc fountain pen on the blotter that needs latent print lifts before anyone touches it."
 
-Lydia glares up at me from the slate, blood slicking her cheek where her forearm brushed her face. She doesn't speak. She doesn't have to.
+Lydia glares up at me from the floor, blood slicking her cheek where her forearm brushed her face. She doesn't speak. She doesn't have to.
 
 The second trooper sweeps his beam toward Graham, then toward the open cedar door under the stairs. "Who else is in the house?"
 
@@ -54,7 +54,7 @@ Beside the rescue rig's diesel-rumbling fender, Maren Lindqvist stands in her ye
 
 A plainclothes Maine State Police detective—lean, gray-templed, wearing a drenched nylon windbreaker with a badge clipped to his belt—steps away from the open rear hatch of the tactical rig and walks over with a clipboard and an evidence box.
 
-"Ms. Calder," he says. "Detective Sergeant Ward. My techs pulled the UPS-backed RAID server out of Zone Four—your boathouse stream came through clean. Dispatch confirmed Halstead's cruiser blocking the causeway and the radio blackout, and our digital unit matched that county-drop confession to the iPad Mini we recovered beside the sunroom radiator. We also logged the bleach rag and bronze cleat in your Civic's spare-tire well, the wet duck boots in the coat closet, and the bleach jugs and scratched oars inside the boathouse."
+"Ms. Calder. Detective Sergeant Ward," he says, flipping open a rain-spotted pad. "Techs pulled the Zone Four server—your boathouse audio's intact. We've got Halstead's cruiser sideways on the causeway, the iPad Mini by the sunroom radiator, the rag and cleat in your trunk, and the bleach jugs and oars down in the boathouse."
 
 "Good," I say, lifting the faded navy canvas duffel off my shoulder and setting it squarely on the tailgate of the rescue rig. "Because the house holds the rest of the paper trail."
 
@@ -62,11 +62,11 @@ Ward pauses, his pen hovering over the plastic evidence seal. "Let's see what yo
 
 I unzip the duffel and lay the items out under the harsh rig floodlights, keeping my hands steady despite the cold biting into my scraped palm.
 
-First, I set down the encrypted matte-black thumb drive (`RAW_BUFFER_OCT14_15`) beside the yellow warning slip Cole wrote on Tuesday and the knotted glove finger holding my foil-wrapped P-trap swab. "Raw acoustic server buffer from October fourteenth, placing Cole and Lydia inside the sunroom and boathouse around two-fourteen—plus Cole's Tuesday warning slip as a known left-handed exemplar, and a swab of unconfirmed white crystalline paste from the master bath brass P-trap."
+First, I set down the encrypted matte-black thumb drive (`RAW_BUFFER_OCT14_15`) beside the yellow warning slip Cole wrote on Tuesday and the knotted glove finger holding my foil-wrapped P-trap swab. "The raw October fourteenth audio—Cole and Lydia in the sunroom and boathouse at two-fourteen. Plus the warning slip Cole wrote left-handed on Tuesday, and a swab of white paste I pulled out of the master bath P-trap."
 
-Ward bags each item cleanly with gloved fingers, gesturing to a waiting evidence tech beside the rig. "Tell the studio team to lift latent prints off that untouched silver Montblanc barrel before moving it, and pull Halstead's October fifteenth incident report and staging notes for questioned-documents comparison against this warning slip and the left-handed hooked-writer ink smear on the handwritten studio departure note. I want his prints on the barrel, his installer-PIN logs, his handwriting, and that two-fourteen recording side by side."
+Ward bags each item with gloved fingers, gesturing to a waiting evidence tech beside the rig. "Have the studio team print that silver Montblanc before anyone touches it," he tells the tech. "And pull Halstead's October fifteenth incident report so documents can match his writing against this slip and that smudged note on the blotter. I want his prints, his installer logs, and the two-fourteen tape lined up together."
 
-"Check the half-finished crystal rocks glass on the living-room tray too," I add, nodding toward the glass house. "Lab toxicology should tell you whether that P-trap swab matches the sediment inside it. And pull the Coast Guard serial and lot stamp off the orange life vest on mudroom peg two—there are photos in my cloud backup—for salinity swabs and recovery-log checks, plus a wrought-iron fireplace poker inside Zone Four and the oyster knife on the foyer slate."
+"Grab the crystal rocks glass off the living-room tray too," I tell him, nodding toward the glass house. "See if the sediment at the bottom matches what I swabbed out of the P-trap. And check the orange life vest on mudroom peg two—there are photos in my cloud backup—because it's bone-dry and never hit the bay. There's also a fireplace poker down in Zone Four and an oyster knife on the foyer floor."
 
 Ward makes three brisk ticks on his clipboard, already speaking low into his shoulder mic to relay the toxicology and life-vest orders inside. Then his eyes drop back to my open duffel.
 

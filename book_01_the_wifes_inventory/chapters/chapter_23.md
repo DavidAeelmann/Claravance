@@ -6,7 +6,7 @@ I stand over the scarred kitchen counter with a mug of black coffee, staring at 
 
 The $5,000 cash from Salt Point and the $13,500 cashier's check that arrived by certified courier in Portland a week after Salt Point—once probate escrow cleared—paid off the judgment with eighty-eight dollars to spare, leaving my four hundred in checking to cover the state bond reinstatement fee.
 
-My left wrist still carries a pale pink seam under the cuff of my dry wool sweater where the Salt Point stitches came out, and my bruised knee aches whenever the December air turns sharp. Two weeks of depositions in Rockland took care of the rest. Detective Sergeant Ward and the Knox County district attorney didn't need much persuasion once their techs pulled the mirrored boathouse audio off the Zone Four RAID drive, lifted Cole's latent prints from the untouched silver Montblanc barrel to corroborate his installer-PIN logs, the 2:14 AM audio, and his left-handed writing on the warning slip and left-edge smudged studio departure note, and got MSP toxicology confirmation identifying zolpidem in both my P-trap swab and Graham's living-room rocks glass. Coast Guard records confirmed the salt-free mudroom life vest was an unlogged spare, never pulled from Penobscot Bay. Lydia and Cole are sitting in separate cells without bail, and Graham's bail hearing got pushed back after the state auditor finished tallying his $2.4 million probate shortfall.
+My left wrist still carries a pale pink seam under the cuff of my dry wool sweater where the Salt Point stitches came out, and my bruised knee aches whenever the December air turns sharp. Two weeks of depositions in Rockland took care of the rest. Detective Sergeant Ward and the Knox County district attorney didn't need much persuasion once their techs pulled the mirrored boathouse audio off the Zone Four RAID drive. Latent prints on the untouched silver Montblanc matched Cole's installer-PIN logs and his left-handed writing on the warning slip and smudged departure note, while MSP toxicology found zolpidem in both my P-trap swab and Graham's living-room rocks glass. Coast Guard records confirmed the salt-free mudroom life vest was an unlogged spare, never pulled from Penobscot Bay. Lydia and Cole are sitting in separate cells without bail, and Graham's bail hearing got pushed back after the state auditor finished tallying his $2.4 million probate shortfall.
 
 I didn't ask for a press quote. I gave my statement, signed the chain-of-custody logs, and drove back down Route 1 before the Boston reporters found the causeway. Even Maren Lindqvist came through clean—the state prosecutor granted her full immunity as the reporting witness, and three days ago a wooden crate of Salt Point oysters showed up on my landing with a single harbor receipt tucked under the twine: *Dock's paid. Keep your head down.*
 
@@ -22,7 +22,7 @@ I switch off the kitchen bulb, shoulder my canvas duffel to carry it down to the
 
 Ten minutes later, I push through the heavy glass door of Becky's Diner on Commercial Street.
 
-Steam from the flat-top grill hits my face the second I step inside, thick with bacon grease, wet wool, and burnt diner coffee. Outside the fogged front window, lobster boats idle along the working pier while gulls wheel through the gray morning mist. I drop my duffel onto the bench of a corner vinyl booth, peel off my damp coat, and slide in facing the street door out of habit.
+Steam from the flat-top grill hits my face the second I step inside, thick with bacon grease, damp coats, and burnt diner coffee. Outside the fogged front window, lobster boats idle along the working pier while gulls wheel through the gray morning mist. I drop my duffel onto the bench of a corner vinyl booth, peel off my damp coat, and slide in facing the street door out of habit.
 
 The waitress tops off a chipped ceramic mug before I even ask. I wrap both palms around the warm porcelain and pull out the printed marine-insurance application I brought to review before ten.
 
@@ -60,7 +60,7 @@ I keep my face still. She knows when my bond cleared. She knows my judgment bala
 
 Margot doesn't argue. She doesn't raise her voice, and she doesn't lean forward to sell me a pitch.
 
-"Triple the Salt Point rate," she says evenly. "Forty-five thousand dollars. Ten days in northern Vermont, starting tonight if you can clear the notch before dark. A private mountain lodge closed for the winter after a sudden family disappearance. Same rules—inventory the estate, flag any irregularities before probate counsel arrives, and stay out of the local sheriff's way."
+"Triple the Salt Point rate," she says. "Forty-five thousand dollars. Ten days in northern Vermont, starting tonight if you can clear the notch before dark. A private mountain lodge closed for the winter after a sudden family disappearance. Same rules—inventory the estate, flag any irregularities before probate counsel arrives, and stay out of the local sheriff's way."
 
 I pick up my coffee mug, take a slow sip of the bitter brew, and set it back down squarely on the paper placemat. My fingers brush the folded bond letter inside my jacket pocket.
 
@@ -68,7 +68,7 @@ I pick up my coffee mug, take a slow sip of the bitter brew, and set it back dow
 
 ***
 
-For a long beat, neither of us moves. Outside the fogged glass, a tugboat horn groans low across Portland Harbor, vibrating faintly through the Formica tabletop.
+Outside the fogged glass, a tugboat horn groans low across Portland Harbor, vibrating faintly through the Formica tabletop.
 
 Margot studies my face with calm, clinical patience. Then, without a word, she reaches inside her open briefcase and pulls out two items.
 
@@ -94,6 +94,8 @@ Taped neatly to the matte backing is a crisp black-and-white fax printout of a l
 
 The date reads two days ago.
 
-And written cleanly in the margin beside a room number, in the cramped, unmistakable back-slanted cursive I haven't seen on paper since the night my younger sister vanished six years ago, is a three-word note in Nina's handwriting:
+Written in the margin beside a room number, in the cramped, unmistakable back-slanted cursive I haven't seen on paper since the night my younger sister vanished six years ago, is a three-word note in Nina's handwriting:
 
 *Don't trust him.*
+
+My thumb goes numb against the glossy border. Margot didn't just pull my name off a Salt Point contractor voucher, and she didn't walk into Becky's Diner because I turned down fifty grand over a gas stove. She knew exactly whose handwriting was on that fax before she ever slid it across the table.

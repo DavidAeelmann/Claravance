@@ -42,21 +42,25 @@ Lydia doesn't notice it under the shadow of the table lip. After weeks hiding ac
 
 If Cole walks through that door with a second set of zip ties, the blue LED won't save me. I need Lydia talking—and I need my hands free before Cole turns the latch.
 
-"We already decrypted the pantry mic, Lydia," I say, letting a thin edge of contempt bleed into my voice. "We heard you laughing with Cole at two in the morning while wiping down an oar—and telling him to leave the Montblanc beside that smudged departure note on the blotter. And you made a mistake in St. Andrews. You scanned your real passport at the marina desk. That clearance ping hit a marine underwriters' watch before you even crossed Passamaquoddy Bay."
+"We already decrypted the pantry mic, Lydia," I say, letting a thin edge of contempt bleed into my voice. "We heard you laughing with Cole at two in the morning while wiping down an oar—and telling him to leave the Montblanc beside that smudged departure note. You got sloppy in St. Andrews, scanning your real passport at the marina desk like an amateur. And now you're letting a county deputy run the whole frame while a Boston probate court freezes your Cayman accounts for five years."
 
-Lydia's thumbs pause on the glass screen. Her composure thins for half a beat before she forces a cold smile back onto her mouth.
+Lydia's thumbs freeze on the glass screen. Two bright spots of color flare high on her cheekbones.
 
-"The Cayman fiduciary wouldn't release the bearer keys without a live cross-border passport check," she says evenly, tilting her head while the neat knot of dark hair stays untouched by the draft. "I gambled a private New Brunswick marina wouldn't trip a U.S. marine underwriters' watch before Graham was dead. It doesn't matter—nobody in Augusta pulls Canadian port logs for a disgraced embezzler who confesses in writing and walks into the Atlantic. A signed confession to murdering me triggers the trust's moral-turpitude forfeiture clause posthumously, blocking his estate and Kiefer Soundworks' creditors from tying up the remaining three million. Cole already shoved my Bar Harbor–Yarmouth weekender behind Graham's wool coats Monday morning. When Graham pushed his Arlington buyout instead of folding, we staged the sunroom floor November first—though clumsy Cole dropped his pilfered B-4 basement key behind the pried baseboard mopping leaked bleach and didn't notice until after we hammered the trim back. And your five o'clock Boston courier? I canceled him an hour ago."
+"Cole couldn't stage a parking ticket without me," she snaps, tilting her head while the neat knot of dark hair stays untouched by the draft. "The Cayman fiduciary wouldn't release the bearer keys without a live cross-border passport check—I gambled a private New Brunswick marina wouldn't trip a U.S. marine underwriters' watch before Graham was dead. And there won't be any five-year probate freeze. A signed confession to murdering me triggers the moral-turpitude forfeiture posthumously, cutting Graham's estate and Kiefer Soundworks' creditors out overnight."
+
+"Sure. That's why Cole had to plant your weekender behind Graham's coats."
+
+"I told him to plant it Monday morning," Lydia shoots back, her voice tight with irritation. "Just like I had to clean up after him on November first when we staged the sunroom floor—the idiot dropped his pilfered B-4 basement key behind the pried baseboard while mopping leaked bleach and didn't notice until after he'd hammered the trim back. Everything in this house ran on my schedule, Tessa. Even your five o'clock Boston courier—I canceled him an hour ago."
 
 "The Coast Guard—"
 
-"Won't launch a boat until tomorrow morning," Lydia cuts in, stepping two paces closer to lean one tailored hip against the bait table—right above the glowing blue acoustic relay puck. "High water crests over the causeway at five-fifteen. Nobody in Augusta chases ferry manifests for an embezzler and a washed-up auditor who walked into the Atlantic together."
+"Won't launch a boat until tomorrow morning," Lydia cuts in, stepping two paces closer to lean one tailored hip against the bait table—right above the glowing blue acoustic relay puck. "High water crests over the causeway at five-fifteen. Nobody in Augusta chases ferry manifests or Canadian port logs for an embezzler and a washed-up auditor who walked into the Atlantic together."
 
-She says it smoothly, almost bored by how tidy the trap looks, leaning right over the open mic streaming every syllable up the conduit to Graham's basement server. Behind my left shoulder, black harbor water sucks against the slipway planks, deep enough to swallow a boat hook whole.
+She leans closer, almost bored by how tidy the trap looks, hovering right over the open mic streaming every syllable up the conduit to Graham's basement server. Behind my left shoulder, black harbor water sucks against the slipway planks, deep enough to swallow a boat hook whole.
 
 "You didn't even leave the life jacket salty," I push, shifting my wrists quietly higher behind the piling until the taut nylon ridge presses squarely against the rusted steel edge of the oyster knife. "I photographed the clean lot stamp on that vest, and I bagged a swab of the paste you flushed down the master bath P-trap before dusting Graham's rocks glass. Wait until a state lab puts that under mass spec."
 
-Lydia's mouth curves—thin and casually cruel. "Cole signed the report, darling. There won't be a second medical examiner, because there won't be a body until the crabs finish with it. By five-fifteen high tide, nobody's left on this point to argue trust law with a Boston judge."
+Lydia's mouth curves—thin and casually cruel. "Cole signed the report. There won't be a second medical examiner, because there won't be a body until the crabs finish with it. By five-fifteen high tide, nobody's left on this point to argue trust law with a Boston judge."
 
 ***
 
@@ -66,7 +70,7 @@ The plastic is tough, built for winter lobster traps, and my wrists are slick wi
 
 "Why drag me into it?" I ask, watching her manicured nails tap the tablet screen. "You already had Graham cornered."
 
-"Because Graham was arrogant enough to hire an ex-fraud investigator with eighteen grand in court debt and a dead license," Lydia says, looking down at my damp flannel as if I'd tracked mud onto her foyer slate. "Anyone desperate enough to take five grand cash under a fifty-thousand-dollar gag order makes herself the perfect accomplice the minute she walks across the porch."
+"Because Graham was arrogant enough to hire an ex-fraud investigator with eighteen grand in court debt and a dead license," Lydia says, looking down at my damp flannel as if I'd tracked mud onto her foyer floor. "Anyone desperate enough to take five grand cash under a fifty-thousand-dollar gag order makes herself the perfect accomplice the minute she walks across the porch."
 
 A sharp strand of nylon parts beneath my wrists. The tie loosens by a hair, biting slightly less into my left thumb, though creosote and salt grit sting the raw skin along my forearm. Cold spray mists upward through the gaps in the slipway planks beneath my sneakers, soaking my ankles while the outgoing tide sucks hard at the pilings below.
 
@@ -74,7 +78,7 @@ Lydia glances down at the iPad, then reads aloud in a dry, mocking cadence: *"I 
 
 She stops mid-sentence, tilting her head slightly as a gust rattles the corrugated tin roof overhead and shakes loose a shower of pine needles along the eaves.
 
-I saw hard against the rusted steel while her eyes are off my shoulders. Another two strands snap cleanly. Warm blood wells fast along my left wrist where the jagged nylon and rusted steel slice deep into the skin above my palm, giving me just enough slack to twist my fingers toward the swollen oak handle wedged in the bait table seam.
+I saw hard against the rusted steel while her eyes are off my shoulders. Another two strands snap. Warm blood wells fast along my left wrist where the jagged nylon and rusted steel slice deep into the skin above my palm, giving me just enough slack to twist my fingers toward the swollen oak handle wedged in the bait table seam.
 
 "You're really going to let Cole take half your father's trust?" I ask, stalling for a few more seconds, praying the frayed center core of the zip tie gives way before the cliff stairs creak. "He's a county deputy with a crooked tooth, a badge on the line, and a grudge. Once Graham's dead, Cole owns you."
 

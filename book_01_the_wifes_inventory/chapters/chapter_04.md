@@ -18,19 +18,19 @@ I stand, wipe dust off my jeans, and turn to the heavy gray wool rug. To log its
 
 I hook both hands under the thick bound edge nearest the baseboard and haul back.
 
-The wool is heavier than it looks—dense, stiff-backed, dragging grudgingly across the cedar planks. Dust motes swirl up into the pale light from the windows.
+The wool is heavier than it looks—dense, stiff-backed, dragging grudgingly across the floorboards. Dust motes swirl up into the pale light from the windows.
 
 I freeze on my knees, breathing through my nose. Sharp sodium hypochlorite cuts straight through the salt air, layered under the sweet-nutty reek of fresh boiled linseed oil.
 
-I lean closer to the bare cedar planks. Most of the sunroom floor has weathered to a warm honey-amber under decades of coastal sun. Along a broad jagged patch beside the baseboard, the wood grain looks stripped and bone-pale, its fibers raised where someone scrubbed with a wire brush and household bleach, then rubbed raw linseed oil over the scar to hide the chalky fade.
+I lean closer to the bare planks. Most of the sunroom floor has weathered to a warm honey-amber under decades of coastal sun. Along a broad jagged patch beside the baseboard, the wood grain looks stripped and bone-pale, its fibers raised where someone scrubbed with a wire brush and household bleach, then rubbed raw linseed oil over the scar to hide the chalky fade.
 
-A heavy wool rug traps fumes and slows evaporation, so odor alone isn't a clock. Even so, boiled linseed oil cures hard on open cedar within days, and sharp hypochlorite caught under that dense backing points toward recent cleaning—not an old October fourteenth stain. Working hypothesis, not court proof. I still need a second source before I pin a date on it.
+A heavy wool rug traps fumes and slows evaporation, so smell alone won't give me a timestamp. Still, boiled linseed oil cures hard on open wood within days, and sharp bleach caught under that dense backing wasn't from October fourteenth. Someone scrubbed this floor recently—though guessing isn't proof, and I need something solid before I call it.
 
 I pull my phone out, check the ceiling corners for cameras—just the standard glass-break sensors wired along the upper mullions—and snap three tight close-ups of the bleached grain and the oily sheen catching the window light.
 
-Then I run my bare fingertips lightly across the pale wood near the cedar baseboard. Still faintly tacky. Not wet enough to stain my skin, just enough drag to prove the oil hasn't finished curing.
+Then I run my bare fingertips lightly across the pale wood near the baseboard. Still faintly tacky. Not wet enough to stain my skin, just enough drag to prove the oil hasn't finished curing.
 
-Right above the bleached patch, the cedar baseboard trim sits a hairline proud of the plaster drywall—warped slightly, or pried loose with a flat bar and tapped back without resetting the finishing nails.
+Right above the bleached patch, the baseboard trim sits a hairline proud of the plaster drywall—warped slightly, or pried loose with a flat bar and tapped back without resetting the finishing nails.
 
 ***
 
@@ -48,21 +48,21 @@ I wait until an upstairs door shuts solidly overhead.
 
 Then I stand, cross to the hallway threshold to verify the foyer is clear, and catch sight of the mudroom tray again on my way back. That wiped-clean empty half beside Graham's duck boots keeps nagging at me. Someone scrubbed this floor recently and threw the heaviest wool rug in the house over the scar—either Graham hiding a cleanup, or someone else who didn't expect a fraud auditor to recognize boiled linseed oil on timber.
 
-I walk back into the sunroom, pull the heavy wool rug back wider—dragging the coffee table leg aside so the scarred patch lies bare—and crouch along the cedar baseboard.
+I walk back into the sunroom, pull the heavy wool rug back wider—dragging the coffee table leg aside so the scarred patch lies bare—and crouch along the baseboard.
 
 The paint along the top edge of the trim isn't cracked. Instead, two finishing nails near the corner sit raised just enough for a fingernail to catch the heads, as if someone pried the board out slightly to wipe liquid that had seeped under the molding, then tapped the wood back flush with the heel of a shoe.
 
-I wedge my thumbnail into the gap behind the baseboard and pull. Dry plaster dust sifts onto the bleached wood. Inside the dark slot between drywall and cedar, something metallic glints dully.
+I wedge my thumbnail into the gap behind the baseboard and pull. Dry plaster dust sifts onto the bleached wood. Inside the dark slot between drywall and trim, something metallic glints dully.
 
 I reach into my jeans pocket for my small steel multi-tool, flip out the flathead driver, and slide the tip carefully under the baseboard lip without scraping the paint. If I leave pry marks on Graham's woodwork, my cover dies before five o'clock, and I'm back in Portland staring at an eviction notice with a fresh lawsuit attached.
 
-I lever the trim out just enough to hook the metal glint with the screwdriver tip and drag it forward across the cedar planks.
+I lever the trim out just enough to hook the metal glint with the screwdriver tip and drag it forward across the planks.
 
 It drops onto the pale floorboards with a dull, heavy *tink*.
 
 A rusted brass mortise key, old teeth darkened with verdigris along the grooves, tied to a faded red plastic tag with a frayed cotton string. Someone stamped four characters into the metal bow with a manual punch: **B-4**.
 
-I stare at it sitting in the middle of the bleached cedar patch. Even the grease along the key's collar looks smudged, like someone handled it with wet or gloved fingers before it slipped down behind the trim.
+I stare at it sitting in the middle of the bleached patch. Even the grease along the key's collar looks smudged, like someone handled it with wet or gloved fingers before it slipped down behind the trim.
 
 *Basement Zone 4*—the acoustic darkroom Graham said ran an automatic electronic breach alert. Why hide a rusted mortise key to it behind a freshly bleached baseboard?
 
@@ -88,7 +88,7 @@ Bootsteps cross the upper hall until Graham leans briefly over the oak railing, 
 
 "I can't box sweaters without tape."
 
-He holds my gaze for a long beat, his fingers drumming once against the oak rail. "Don't take the coastal road past the lobster pound," he says pleasantly. "Road crew's patching a culvert washout. Stay on the main harbor route, and keep your receipt—I'll reimburse supplies on Friday."
+He holds my gaze, his fingers drumming once against the rail. "Don't take the coastal road past the lobster pound," he says pleasantly. "Road crew's patching a culvert washout. Stay on the main harbor route, and keep your receipt—I'll reimburse supplies on Friday."
 
 "Will do."
 

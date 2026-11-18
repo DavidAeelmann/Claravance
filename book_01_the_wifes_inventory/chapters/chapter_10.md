@@ -2,11 +2,11 @@
 
 I make it through the mudroom side door three breaths before Graham's garage bay groans open.
 
-My boots squelch once on the rubber mat. I kick them off beside the tray, hang my damp waxed jacket back on its peg—pressing the breast pocket flat so the rusted B-4 key doesn't clink against the brass hook—and take the back service stairs two at a time in my socks. By the time Graham's dress shoes cross the foyer slate below, I'm kneeling beside the master closet with a fresh strip of packing tape across my palm, pretending I've been sorting cashmere sweaters since four o'clock.
+My boots squelch once on the rubber mat. I kick them off beside the tray, hang my damp waxed jacket back on its peg—pressing the breast pocket flat so the rusted B-4 key doesn't clink against the brass hook—and take the back service stairs two at a time in my socks. By the time Graham's dress shoes cross the foyer floor below, I'm kneeling beside the master closet with a fresh strip of packing tape across my palm, pretending I've been sorting cashmere sweaters since four o'clock.
 
 Twenty minutes later, Graham calls me down to the living room.
 
-He has changed out of his charcoal suit into a dark merino crewneck, though his shoulders still carry the stiff tension of a man who spent four hours staring down an interstate. Wet wool and cedar smoke hang in the air. A fire mutters low behind the blackened hearth screen, filling the glass-walled room with dry birch heat while salt rain ticks steadily against the seaward panes. Outside the floor-to-ceiling windows, Salt Point Cove is a wall of wet ink, not a single dock light burning along the entire point.
+He has changed out of his charcoal suit into a dark merino crewneck, though his shoulders still carry the stiff tension of a man who spent four hours staring down an interstate. Woodsmoke and damp pine hang in the air. A fire mutters low behind the blackened hearth screen, filling the glass-walled room with dry birch heat while salt rain ticks steadily against the seaward panes. Outside the floor-to-ceiling windows, Salt Point Cove is a wall of wet ink, not a single dock light burning along the entire point.
 
 "You look frozen," Graham says, gesturing toward the low leather sofa as he crosses to the walnut credenza. "The radiator in the guest wing isn't keeping up with this southeast wind. Have a drink before you turn in for the night."
 
@@ -18,7 +18,7 @@ I stare at the amber liquid catching the firelight. There's no ice in either gla
 
 Upstairs in the master bath, white crystalline paste still cakes the inside of the brass P-trap. Someone tested dissolving crushed sleeping pills, then coated a single glass before Graham even drove home from Portland.
 
-"Tomorrow's courier," I say evenly, keeping my hands tucked around my knees instead of touching the coaster. "You're still expecting him at five?"
+"Tomorrow's courier," I say, keeping my hands tucked around my knees instead of touching the coaster. "You're still expecting him at five?"
 
 "Five sharp." Graham leans back, swirling his glass once. Shadows from the hearth flicker across the sharp hollow beneath his cheekbones, making him look older than he did Monday night. "The Arlington patent buyers want the preliminary probate schedule uploaded by five-thirty so their counsel can clear the lien release Friday morning. Which means every high-value item in the studio and master suite needs a signed tag and a timestamped photo by four."
 
@@ -30,7 +30,7 @@ Graham's fingers stop moving against the crystal. The fire pops once against the
 
 He didn't even need to raise his voice to remind me who holds the leash—or that my Civic is parked outside with a court judgment sitting on the passenger seat.
 
-"Leave the boathouse off the preliminary schedule," he adds smoothly. "I told you on Monday night—the county seal stays until the Coast Guard signs the final closure memo. Focus on what's inside the house."
+"Leave the boathouse off the preliminary schedule," he says. "I told you on Monday night—the county seal stays until the Coast Guard signs the final closure memo. Focus on what's inside the house."
 
 *County seal.* He hadn't said a word about a county seal Monday night—only that the Coast Guard cleared the boathouse and locked it against damp. Now he's matching Halstead's script word for word.
 
@@ -44,7 +44,7 @@ He steps out toward the foyer, already tapping the screen to his ear, leaving th
 
 I don't waste a second.
 
-The moment Graham's footsteps fade toward the kitchen archway, I lean across the low coffee table, lift my glass by its heavy base, and set it cleanly onto the brass tray beside his chair. Then I pick up his untouched glass, match the tilt of the coaster so it sits at the exact same angle he left it, and wipe the faint damp condensation ring off my slate coaster with my sleeve.
+The moment Graham's footsteps fade toward the kitchen archway, I lean across the low coffee table, lift my glass by its heavy base, and set it onto the brass tray beside his chair. Then I pick up his untouched glass, match the tilt of the coaster so it sits at the exact same angle he left it, and wipe the faint damp condensation ring off my slate coaster with my sleeve.
 
 I set his glass down in front of me. The pour levels look close enough in the low firelight, though if Graham notices the faint chalky swirl at the bottom of his own tumbler, we'll both know the game is up before he even sets the ice bucket down.
 
@@ -58,7 +58,7 @@ The room smells of lemon furniture oil and cold stone. No desk lamp burns inside
 
 I pull my phone from my jeans pocket, kill the shutter sound and flash, and lift the leather portfolio's cover.
 
-Inside lies a heavy cream envelope slit cleanly along the top flap, stamped **CERTIFIED MAIL — RETURN RECEIPT REQUESTED**. Two pages of crisp bond paper sit folded halfway out, bearing the embossed letterhead of *Bramwell & Shaw Fiduciary LLP, Boston*, clipped to a highlighted trust covenant summary. A yellow sticky note clings to the upper margin in cramped legal shorthand: *Final cure window — no further extensions.*
+Inside lies a heavy cream envelope slit along the top flap, stamped **CERTIFIED MAIL — RETURN RECEIPT REQUESTED**. Two pages of crisp bond paper sit folded halfway out, bearing the embossed letterhead of *Bramwell & Shaw Fiduciary LLP, Boston*, clipped to a highlighted trust covenant summary. A yellow sticky note clings to the upper margin in cramped legal shorthand: *Final cure window — no further extensions.*
 
 I tilt the first page toward the hallway's amber spill and read fast.
 
@@ -84,21 +84,21 @@ I lift my glass—his original, clean pour—and touch the rim to my lips withou
 
 Graham drinks.
 
-He takes a slow, measured swallow, his gray eyes fixed steadily on mine over the crystal rim. He doesn't grimace. He doesn't spit it out or pause mid-sip. He swallows cleanly and sets the glass back on the tray, wiping a drop off his thumb.
+He takes a slow, measured swallow, his gray eyes fixed steadily on mine over the crystal rim. He doesn't grimace. He doesn't spit it out or pause mid-sip. He swallows and sets the glass back on the tray, wiping a drop off his thumb.
 
 He didn't blink, and the second pour sits crystal-clear in front of me. The decanter wasn't poisoned at all. Someone pre-dusted *Graham's habitual rocks glass* on the credenza tray while he was in Portland, expecting him to pour himself a nightcap alone—and Graham handed it to me out of polite host reflex.
 
 "You're quiet tonight, Tessa," he says softly, leaning forward with his forearms resting on his knees, watching my eyes with sharp, anxious focus as if waiting for me to drop a hint. "Tell me honestly. Did you find anything unusual in the master suite today? Anything that looked out of place?"
 
-"Just a lot of cashmere and three hatboxes," I lie smoothly, keeping my gaze steady on the firelight while my fingers press against the phone in my pocket. "Lydia's jewelry tray was intact. Platinum band, pearl studs, Cartier tank watch with a dead battery. I logged them all."
+"Just a lot of cashmere and three hatboxes," I lie, keeping my gaze steady on the firelight while my fingers press against the phone in my pocket. "Lydia's jewelry tray was intact. Platinum band, pearl studs, Cartier tank watch with a dead battery. I logged them all."
 
 "And the medicine cabinet?"
 
-"Ibuprofen, retinol, standard prescriptions," I say evenly. "Nothing missing."
+"Ibuprofen, retinol, standard prescriptions," I say. "Nothing missing."
 
 A tiny flash of disappointment crosses his gray eyes before he looks back at the fire. "Good. Get some sleep. Tomorrow's going to be a long haul before the courier arrives."
 
-I leave the glass two-thirds full on the coaster, say goodnight, and walk down the north hall to the guest suite. Once the privacy latch clicks shut and I wedge the desk chair tight under the knob, I lean back against the panel for five seconds. Two point four million dollars in trust embezzlement. Three million poised to roll into a Cayman bearer structure. A deputy with co-owner installer PINs. A flashlight sweeping inside a locked boathouse. Across the main hall, the hearth screen clanks shut as Graham banks the fire for the night, and the cast-iron radiator under my window ticks sharply as steam surges through the pipes.
+I leave the glass two-thirds full on the coaster, say goodnight, and walk down the north hall to the guest suite. Once the privacy latch clicks shut and I wedge the desk chair tight under the knob, I lean back against the panel, catching my breath. Two point four million dollars in trust embezzlement. Three million poised to roll into a Cayman bearer structure. A deputy with co-owner installer PINs. A flashlight sweeping inside a locked boathouse. Across the main hall, the hearth screen clanks shut as Graham banks the fire for the night, and the cast-iron radiator under my window ticks sharply as steam surges through the pipes.
 
 I cross to the radiator, check that the brown paper hardware bag tucked behind the iron fins hasn't been shifted, and unzip the main compartment of the faded navy duffel. The Portsmouth bank band tucked under my spare shirts sits untouched—all five thousand dollars intact—and the laptop sleeps cool against the liner. I pull the laptop out, thumb the power button, and plug in my phone cable to push the demand-letter photos straight into my off-site vault.
 

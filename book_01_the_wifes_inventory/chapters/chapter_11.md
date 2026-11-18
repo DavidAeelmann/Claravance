@@ -2,25 +2,25 @@
 
 At 1:52 AM, the cast-iron radiator under my window ticks once and goes dead silent.
 
-I lie on top of the stripped quilt fully dressed in my jeans and flannel shirt, staring at the faint blue glow of my laptop screen on the nightstand. Lydia Kiefer's St. Andrews passport timestamp sits burned behind my eyelids: *November 3, 09:42 AST.* Forty hours ago, a woman supposedly drowned in a coastal gale walked off a private dock in New Brunswick. Right now, her husband is sleeping upstairs after swallowing a bourbon glass swirled with chalky sediment, and at four this afternoon I'm supposed to hand him a clean probate schedule.
+I lie awake on top of the stripped quilt in the dark, fully dressed in my jeans and flannel shirt, listening to the pipes settle. For a moment I'm back in our shared apartment in Burlington, staring at the ceiling while Nina's side of the room stayed empty—that same cold stillness before a bad phone call. Then the faint blue glow of my laptop screen on the nightstand pulls me back. Lydia Kiefer's St. Andrews passport timestamp sits burned behind my eyelids: *November 3, 09:42 AST.* Forty hours ago, a woman supposedly drowned in a coastal gale walked off a private dock in New Brunswick. Right now, her husband is sleeping upstairs after swallowing a bourbon glass swirled with chalky sediment, and at four this afternoon I'm supposed to hand him a clean probate schedule.
 
 Every creditor notice taped to my Portland door taught me one rule: nobody puts my signature on crooked books, and nobody traps me in a house while they rewrite the ledger. Walking out at dawn isn't an option anymore—not with a county deputy holding co-owner installer PINs to this house and a fifty-thousand-dollar breach clause waiting if I run without hard proof of October fourteenth.
 
-I swing my legs off the bed, pull on a pair of thick wool socks, and tuck my phone into my back jeans pocket. My knuckles brush the heavy brass front-door key beside my multi-tool—a thin margin of safety in a house that feels more like a locked vault by the hour.
+I swing my legs off the bed, pull on a pair of thick wool socks, and tuck my phone into my back jeans pocket.
 
 At 2:27 AM, a sharp metallic *clack* carries straight down the ground-floor framing from the kitchen wing.
 
-Not the muffled groan of the front deadbolt, and not the hydraulic gate out by the gravel road. It sounds like a heavy steel latch dropping home inside a hollow wall near the pantry—short, resonant, and unmistakable in the dead quiet between wind gusts. For two seconds after the snap, a faint vibration hums through the baseboard radiator pipes, as if a counterweight or cable just settled against timber framing.
+It sounds like a heavy steel latch dropping home inside a hollow wall near the pantry—short, resonant, and unmistakable in the dead quiet between wind gusts. After the snap, a faint vibration hums through the baseboard radiator pipes, as if a counterweight or cable just settled against timber framing.
 
 I freeze with my hand on the guest-suite doorknob.
 
-Nothing else moves in the north hall. I ease the cedar latch open without letting the tongue click, step out into the corridor, and pause at the foot of the main oak stairs. The upper landing is pitch dark. I listen hard for steady breathing or floorboards shifting overhead in the master suite. Nothing. Either the swapped glass knocked Graham out cold until morning, or he isn't upstairs in his bed at all.
+Nothing else moves in the north hall. I ease the cedar latch open without letting the tongue click, step out into the corridor, and pause at the foot of the main stairs. The upper landing is pitch dark. I listen hard for steady breathing or floorboards shifting overhead in the master suite. Nothing. Either the swapped glass knocked Graham out cold until morning, or he isn't upstairs in his bed at all.
 
-I turn away from the stairs and pad down the north hall toward the kitchen wing, hugging the plaster wall where the oak planks stay quiet. Halfway down, a gust of gale wind slams against the seaward glass of the sunroom, rattling the mullions hard enough to make me pause mid-stride until the glass settles.
+I turn away from the stairs and pad down the north hall toward the kitchen wing, hugging the plaster wall where the floorboards stay quiet. Halfway down, a gust of gale wind slams against the seaward glass of the sunroom, rattling the mullions hard enough to make me pause mid-stride until the glass settles.
 
 Ahead of me, the house hums in its overnight idle: crawlspace dehumidifier thumping softly underfoot, wind rattling the glass pantry entry door in its rubber seals. Through the living room arch, the hearth sits cold and gray. Two crystal tumblers still sit in the living room where Graham and I left them before ten, though from here I can't tell whether Graham finished his swapped pour after I went to bed.
 
-I duck into the mudroom first, keeping low beneath the smart-home wall tablet's dim blue standby glow, and slide my fingers into the breast pocket of my waxed canvas jacket. The small tissue-wrapped lump of the rusted **B-4** key is still there. I pull it out, peel back a corner of the acid-free tissue to feel the warded brass teeth, and drop it straight into my front jeans pocket beside my folding steel multi-tool. If I end up locked out of the pantry shaft downstairs, that old key might be the only thing between me and the foyer stairs.
+I duck into the mudroom first, keeping low beneath the smart-home wall tablet's dim blue standby glow, and slide my fingers into the breast pocket of my waxed canvas jacket. The small tissue-wrapped lump of the rusted **B-4** key is still there. I pull it out, peel back a corner of the acid-free tissue to feel the warded brass teeth, and drop it straight into my front jeans pocket. If I end up locked out of the pantry shaft downstairs, that old key might be the only thing between me and the foyer stairs.
 
 I pad silently back into the pantry corridor. Across the hall, the steel breaker-box door sits latched just as Halstead left it.
 
@@ -34,7 +34,7 @@ I set my phone upright against a glass flour canister so the dim light washes ov
 
 Once the back plank sits bare, I run my fingertips along the seam where the vertical wainscoting meets the shelf cleat.
 
-Two recessed brass flush-latches sit countersunk into the dark grain, invisible behind a row of spice jars. And smeared cleanly across the dust around the right-hand keyhole sits the fresh smudge of a thumbprint.
+Two recessed brass flush-latches sit countersunk into the dark grain, invisible behind a row of spice jars. And smeared across the dust around the right-hand keyhole sits the fresh smudge of a thumbprint.
 
 ***
 
@@ -58,7 +58,7 @@ I glance back once through the louvered pantry slats. The kitchen corridor stays
 
 Walking out blind into today's ambush is worse.
 
-I slide my phone into my back pocket, grip the iron side rail with both hands, and swing my right leg over the cedar sill. The shaft is barely wide enough for my shoulders. As I pull the hinged spice-rack panel nearly flush behind me—leaving a half-turn clearance on the inside cleat—darkness drops over me like wet wool.
+I slide my phone into my back pocket, grip the iron side rail with both hands, and swing my right leg over the cedar sill. The shaft is barely wide enough for my shoulders. As I pull the hinged spice-rack panel nearly flush behind me—leaving a half-turn clearance on the inside cleat—darkness drops over me, thick with rust and damp plaster.
 
 Iron bites straight through my wool socks on the ladder rungs. On the third rung down, my shoulder brushes the taut hemp line, nudging the cast-iron counterweight against its wooden guide channel with a faint, heavy scrape. One tug on that steel cotter pin overhead would drop dead iron straight onto the cellar slab.
 
@@ -82,13 +82,11 @@ A heavy relay clicks inside a tower against the far wall.
 
 Two wide studio monitors above the worktable flare awake in blinding blue-white light, filling the deadened cellar with the sudden hum of cooling fans.
 
-I drop into a low crouch, throwing one arm up against the glare, waiting for a siren upstairs or footsteps on the foyer slate. Nothing sounds. The foam-lined concrete swallows the fan hum before it even reaches the ceiling joists.
+I drop into a low crouch, throwing one arm up against the glare, waiting for a siren upstairs or footsteps on the foyer floor. Nothing sounds. The foam-lined concrete swallows the fan hum before it even reaches the ceiling joists.
 
 Whoever climbed out of this shaft didn't shut the workstation down—they just let the screens sleep.
 
 Slowly, I lower my arm and stand. My stockinged feet make no sound on the rubberized floor as I step closer to the steel worktable, squinting through the harsh blue glare at the left-hand studio monitor.
-
-No Kiefer Soundworks patent schematic. No security keypad prompt.
 
 The screen sits paused inside a bare-bones media timeline player, frozen on a grainy infrared exterior camera frame from the night of October fourteenth. In the upper corner, white digital numbers read 02:14 AM.
 

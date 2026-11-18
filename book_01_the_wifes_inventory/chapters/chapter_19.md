@@ -1,6 +1,6 @@
 # Chapter 19
 
-Dusk drops over Salt Point like a wet wool blanket, turning the gale-lashed fog around the glass house the color of bruised slate.
+Dusk drops over Salt Point like damp plaster, turning the gale-lashed fog around the glass house the color of bruised slate.
 
 I stay crouched beneath the sunroom sill until the cold starts locking the muscles in my calves. Graham is still slumped against the interior cast-iron radiator, his bruised face pale in the storm gloom, his eyes fixed on the front hall arch. He doesn't dare look back at the glass again.
 
@@ -16,7 +16,7 @@ I reach into my soaked front pocket, fumble twice past the multi-tool before my 
 
 The brass cylinder rotates with a faint, oiled click. I hold my breath, push the heavy door inward just wide enough to slip my shoulders through, and step onto the foyer slate. My wet sneakers squeak once against the stone—too loud in the quiet hall.
 
-I freeze beside the coat closet, listening. The foyer smells faintly of Graham's lemon oil and the brackish rainwater he swabbed off the slate at dawn. Down the hall, the guest suite door stands half-ajar; my faded navy duffel is still sitting beside the radiator with five thousand dollars in cash tucked under my spare shirts, useless if I don't survive the next hour. Nothing moves down the north corridor except the distant, steady hum of the study cooling fans.
+I freeze beside the coat closet, listening. The foyer smells faintly of Graham's lemon oil and the brackish rainwater he swabbed off the floor at dawn. Down the north hall, the guest suite door stands half-ajar; my faded navy duffel is still sitting beside the radiator with five thousand dollars in cash tucked under my spare shirts, useless if I don't survive the next hour. Nothing moves down the north corridor except the distant, steady hum of the study cooling fans.
 
 I tuck the rusted oyster knife firmly into the waistband of my jeans so both hands are free, then glide silently across the foyer toward the kitchen arch. On the limestone island sits the padded manila envelope from the basement—untouched, its *OCT 14 — MASTER BACKUP* stamp pale in the gray light. I leave it where it is for now; I can't climb a vertical iron shaft with a soaked manila folder tucked under my arm, and reaching the basement server to pull Lydia's live acoustic relay confession is the only play that buries both of them.
 
@@ -24,7 +24,7 @@ Halfway across the kitchen tile, crisp footsteps tap rapidly back down the north
 
 Lydia is coming out of the study.
 
-I bolt the last few paces into the narrow cedar pantry corridor, yank the recessed spice-rack panel inward, and slip behind the shelving into the pitch-black dumbwaiter shaft just as a flashlight beam sweeps across the kitchen limestone.
+I bolt the last few paces into the narrow cedar pantry corridor, yank the recessed spice-rack panel inward, and slip behind the shelving into the pitch-black dumbwaiter shaft just as a flashlight beam sweeps across the kitchen counter.
 
 ***
 
@@ -32,11 +32,11 @@ I pull the spice-rack door flush against its magnetic catch, sealing myself insi
 
 The vertical shaft smells of dry cedar dust and machine oil, sharp with damp concrete rising from below. Violent shivering spasms hijack my shoulders while my bruised, raw left wrist flares white-hot against my wet sleeve. Up above, Lydia's footsteps pause outside the pantry corridor, then turn toward the living room.
 
-I grope blindly until my numb forearms find the cold iron ladder rungs bolted to the masonry. Hypothermia has robbed my fingers of pinch, and my raw, abraded left wrist flares white-hot if I flex it under load. Instead of gripping the bars with my hands, I hook the crooks of both elbows over the upper iron, brace my wet wool-and-flannel back tight against the rear hemlock studs, and wedge the rubber edges of my soaked sneakers sideways against the vertical rails as I ease down four rungs below the kitchen floor joists. My waterlogged jeans drag heavy as wet canvas at my hips, threatening to pull my calves out from under me if I slip an inch.
+I grope blindly until my numb forearms find the cold iron ladder rungs bolted to the masonry. Hypothermia has robbed my fingers of pinch, and my raw, abraded left wrist flares white-hot if I flex it under load. Instead of gripping the bars with my hands, I hook the crooks of both elbows over the upper iron, brace my soaked flannel back tight against the rear hemlock studs, and wedge the rubber edges of my soaked sneakers sideways against the vertical rails as I ease down four rungs below the kitchen floor joists. My waterlogged jeans drag heavy as wet canvas at my hips, threatening to pull my calves out from under me if I slip an inch.
 
 Below me, the steady muffled hum of the three basement audio servers rises up the chute. If I can drop into Zone 4, pull the live boathouse relay buffer onto my thumb drive, and slip back up—
 
-Heavy boots hit the front foyer slate overhead.
+Heavy boots hit the front foyer floor overhead.
 
 Slow, heavy duty boots, followed by the metallic rattle of the front deadbolt being thrown from inside.
 
@@ -80,7 +80,7 @@ The impact shakes the cedar framing around my ribs, rattling glass spice jars be
 
 "What the hell was that?" Cole's voice barks from the basement stairs. Heavy boots immediately thunder downward two treads at a time toward the Zone 4 steel fire door.
 
-"Cole, wait—" Lydia's crisp heels clatter across the foyer slate toward the stairwell door, drawn straight after him by the crash. She sweeps a flashlight beam once toward the kitchen arch, then follows him down the concrete steps.
+"Cole, wait—" Lydia's crisp heels clatter across the foyer floor toward the stairwell door, drawn straight after him by the crash. She sweeps a flashlight beam once toward the kitchen arch, then follows him down the concrete steps.
 
 I don't wait for the fire door to slam. Coughing silently into my soaked sleeve to muffle the rust dust burning my lungs, I press my shoulder blades flat against the rear hemlock studs, drive upward one cramping thigh at a time, and hook my forearm bones over each iron bar in turn—refusing to trust numb fingers or put weight on my torn left wrist. Every rung sends a dull ache straight through my ribs. Halfway to the top sill, my wet sneaker skids off freezing iron; I clamp my knee hard against the side frame, catch the cedar lip under my chin, and shove the spice-rack panel open an inch.
 

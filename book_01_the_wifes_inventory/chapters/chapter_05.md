@@ -18,7 +18,7 @@ I haven't cleared forty. I signal right, ease onto the gravel shoulder beside ba
 
 A Knox County sheriff's cruiser pulls in behind me, leaving its light bar pulsing against the fog. I fish my creased registration card and license out of the glovebox, keeping both hands visible on top of the steering wheel while boots crunch up the gravel shoulder.
 
-The deputy who stops beside my driver's window is broad-shouldered under a heavy navy patrol slicker, clean-shaven, with steady pale eyes that take in the rusted Civic fender and my Portland plates before settling on my face. When he speaks, a slow coastal drawl softens the edges of his words, and a slight crookedness in his upper front incisor catches the dim cab light.
+The deputy who stops beside my driver's window is broad-shouldered under a heavy navy patrol slicker, clean-shaven, with steady pale eyes that take in the rusted Civic fender and my Portland plates before settling on my face. His brass badge catches the fog light, and for half a second I'm looking at the Vermont sheriff's deputy who shrugged across a Formica counter and closed Nina's file six years ago. When he speaks, a slow coastal drawl softens the edges of his words, and a slight crookedness in his upper front incisor catches the dim cab light.
 
 "Afternoon, ma'am. License and registration."
 
@@ -28,13 +28,13 @@ I hand the cards through the gap. Cold drizzle drifts across my knuckles. "Was I
 
 "Temporary contract. Organizing an estate out on Salt Point."
 
-Deputy Cole Halstead doesn't blink. The corner of his mouth stays flat as he hands my license back and hooks one thick forearm along my open door frame, leaning in until wet wool and wintergreen dip fill the cab.
+Deputy Cole Halstead doesn't blink. The corner of his mouth stays flat as he hands my license back and hooks one thick forearm along my open door frame, leaning in until damp oilskin and wintergreen dip fill the cab.
 
 "Kiefer's glass box," he says, blunt and unimpressed. "I wrote the marine incident report out there three weeks ago. Lydia grew up climbing those ledges before Boston money ever bolted steel and glass onto them. Folks on this point don't take kindly to mainland contractors poking through a local girl's things just to pad a probate bill."
 
 Graham told me he hired an out-of-town archivist specifically so local clerks wouldn't gossip with Cole Halstead—yet Halstead knows my name, my car, and where I'm staying before I've spent twenty-four hours on the point.
 
-"I'm boxing winter coats and logging furniture," I say evenly, keeping my chin up. "Not poking into anything."
+"I'm boxing winter coats and logging furniture," I say, keeping my chin up. "Not poking into anything."
 
 "Good. Keep it that way." Halstead pulls a thin yellow warning pad from his slicker breast pocket, clicks a black ballpoint against his thigh, and flips the metal clipboard onto his forearm. "We get fog tourists every fall wandering down private launches thinking a drowning's their weekend entertainment. Steps down to that cove are slick enough to snap an ankle, and the boathouse is locked under county seal. Stay clear of it."
 
@@ -46,7 +46,7 @@ I watch his hands.
 
 He braces the clipboard tightly against his right hip—and curls his left wrist over the top of the yellow paper, dragging the pen backward against the grain in a deep, hooked push.
 
-"Get that bulb swapped before Friday," Halstead says, tearing the yellow copy off cleanly and holding it through the window. "Wouldn't want to impound a mainland rig on the causeway over a busted lamp."
+"Get that bulb swapped before Friday," Halstead says, tearing the yellow copy off and holding it through the window. "Wouldn't want to impound a mainland rig on the causeway over a busted lamp."
 
 I take the slip by the corner without letting my fingers brush his. "Thanks, Deputy. I'll grab one at the general store."
 

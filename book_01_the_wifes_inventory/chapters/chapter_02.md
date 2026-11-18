@@ -2,7 +2,7 @@
 
 I slide the cedar closet door shut with my hip, leaving just enough gap for the latch not to click, and hang my damp waxed jacket on the brass hook beside the bench. By the time Graham's stockinged feet hit the bottom oak tread, I'm already stooping to lift my duffel off the slate floor.
 
-He stops near the archway, phone still pressed loosely against his thigh. His eyes flick from my wet coat on the hook to the closed closet door, then settle on my face. For one tight second, neither of us moves. If he saw the gap in the cedar slats, or noticed the trench coat hem shifted inside, he doesn't show it.
+He stops near the archway, phone still pressed loosely against his thigh. His eyes flick from my wet coat on the hook to the closed closet door, then settle on my face. Neither of us moves. I keep my hand loose on the duffel strap. If he saw the gap in the cedar slats, or noticed the trench coat hem shifted inside, he doesn't show it.
 
 "I forgot the Wi-Fi password," he says, holding up a square of torn cardstock he must have scribbled on upstairs. "And you left your front-door key on the maple table."
 
@@ -22,7 +22,7 @@ I sit on the edge of the mattress. The springs barely give. Somewhere under the 
 
 For a long minute I stare at the closed door. Six years ago, my younger sister Nina vanished out of northern Vermont, and local police filed the missing-person binder away after three weeks because nobody pushed past the tidy cover story. A fifty-thousand-dollar gag clause hangs over my head if Graham catches me poking where I shouldn't, yet a dead woman's packed weekender sits downstairs with a ferry stub stamped three days after she drowned.
 
-Not tossed in a corner—jammed behind Graham's wool coats, brass zipper pulled taut over packed cloth, that tiny padlock hanging unlatched. If she grabbed a bag to flee a squall, why bring it back to Salt Point on October seventeenth with the Bar Harbor stub still tied to the grip?
+It sits jammed behind Graham's wool coats, brass zipper pulled taut over packed cloth, that tiny padlock hanging unlatched. If she grabbed a bag to flee a squall, why bring it back to Salt Point on October seventeenth with the Bar Harbor stub still tied to the grip?
 
 I open my laptop anyway. Beside Graham's sterile fifty-row inventory spreadsheet, I open a local encrypted note on my hard drive—offline, unsynced—and type four lines:
 
@@ -46,7 +46,7 @@ I slip my wet boots off, pull on thick wool socks from my duffel, and tuck my ph
 
 The north hall runs along the landward spine of the house, carpeted in a gray wool runner that swallows my steps. Light spills dimly from beneath the crack of Graham's study door opposite mine, accompanied by the faint, rhythmic tap of someone typing on a mechanical keyboard. Every few seconds the tapping stops, followed by the soft rustle of paper, then starts up again.
 
-I keep close to the drywall so the floor joists won't groan, slip past his study door toward the main oak staircase, and climb to the upper landing. At the far end of the upstairs hall, double doors stand slightly ajar.
+I keep close to the drywall so the floor joists won't groan, slip past his study door toward the main staircase, and climb to the upper landing. At the far end of the upstairs hall, double doors stand slightly ajar.
 
 Lydia's studio smells different from the rest of the house. Beneath the sterile lemon polish Graham's cleaning crew must have used downstairs, this room still holds turpentine, dried gesso, and dusty linen paper. Moonlight filters dimly through a tall seaward sash window, catching stacks of stretched canvases leaned face-inward against the plaster wall.
 
@@ -80,20 +80,20 @@ A thick green leather blotter covers the center of the walnut table. Centered on
 
 Leaving a fountain pen uncapped on a blotter ruins the nib within days, drying the ink feed into a gummy crust. Someone laid it out like a stage prop—or dropped it in a hurry.
 
-I resist the urge to touch the barrel. At Harbor Mutual, the fastest way to blow an audit was smearing latent prints before you logged your baseline photos. I raise my phone, keep the flash off, and snap two crisp shots of the desk layout—the angle of the sketchbook, the position of the paperweight, the exact direction the Montblanc points, and the ink lines on the scratch pad. If Graham walks in tomorrow and finds things shifted, I want to know whether *I* slipped up or someone else rearranged the room after me.
+I resist the urge to touch the barrel. At Harbor Mutual, you never touched a scene before you photographed it; one smeared print and defense counsel ate you alive. I raise my phone, keep the flash off, and snap two crisp shots of the desk layout—the angle of the sketchbook, the position of the paperweight, the exact direction the Montblanc points, and the ink lines on the scratch pad. If Graham walks in tomorrow and finds things shifted, I want to know whether *I* slipped up or someone else rearranged the room after me.
 
 Then I lift the brass paperweight just enough to open the sketchbook from the bottom corner.
 
-Fine botanical pencil studies of kelp fronds, barnacles, and beach peas fill the early pages—delicate cross-hatching, Latin binomials penciled lightly underneath. Every single stroke slopes forward, right-handed, consistent from page one through page forty. Toward the back, three blank pages show faint indentation marks where someone sliced sheets out cleanly along the binding seam with a sharp blade. Nothing torn in anger. Someone removed those pages deliberately and kept the edges neat so a casual glance wouldn't catch the missing thickness.
+Fine botanical pencil studies of kelp fronds, barnacles, and beach peas fill the early pages—delicate cross-hatching, Latin binomials penciled lightly underneath. Every single stroke slopes forward, right-handed, consistent from page one through page forty. Toward the back, three blank pages show faint indentation marks where someone sliced sheets out flush along the binding seam with a sharp blade. Nothing torn in anger. Someone removed those pages deliberately and kept the edges neat so a casual glance wouldn't catch the missing thickness.
 
 I close the cover gently, aligning the corner flush under the brass paperweight—a fraction off-angle without thinking—and lean closer to the stationery scratch pad without touching the silver Montblanc beside it.
 
 The checklist lists four quick items: *skiff mooring line, studio shutters, cellar latch, harbor tide*. Fresh dark ink, already dry. Along the left margin of the pad, a curved smear cuts straight through the first letters of every line—the unmistakable drag of a left-handed writer hooking a wrist across wet ink.
 
-I flip the sketchbook corner up one more time to compare. Every ink label on the early botanical plates leans forward at a steady right-hand slant, crisp and unsmudged. Lydia wrote right-handed. Whoever jotted that departure note beside the uncapped Montblanc hooked their left hand across the page. An anomaly worth logging, nothing more.
+I flip the sketchbook corner up one more time to compare. Every ink label on the early botanical plates leans forward at a steady right-hand slant, crisp and unsmudged. Lydia wrote right-handed. Whoever jotted that departure note beside the uncapped Montblanc hooked their left hand across the page. Worth logging, nothing more.
 
 Downstairs, the rhythmic tapping of Graham's keyboard stops.
 
-I slide my phone into my pocket and step back toward the oak flat-files. Stair treads creak softly from the landing, followed by slow, deliberate weight shifting across the upper runner, stopping directly outside the cracked studio door.
+I slide my phone into my pocket and step back toward the flat-files. Stair treads creak softly from the landing, followed by slow, deliberate weight shifting across the upper runner, stopping directly outside the cracked studio door.
 
 My fingers find the brass house key in my pocket. Outside in the dark hallway, the doorknob turns slowly, metal clicking against the latch plate.

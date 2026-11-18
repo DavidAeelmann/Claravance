@@ -18,7 +18,7 @@ I pick my way down the last slick steps, my boots skidding once on wet kelp befo
 
 Maren stands under the corrugated tin awning beside black plastic oyster cages, pulling rubber bands off culled shells with thick orange gloves. At the crunch of my heels, she freezes with a wet oyster knife poised over the sorting table, pale eyes lifting beneath a salt-stained wool cap.
 
-"You're not supposed to be down here," she says flatly over the surf. "Road's clear up top. You can drive right out."
+"You're not supposed to be down here," she says over the surf. "Road's clear up top. You can drive right out."
 
 "I'm not leaving tonight, Maren." I stop just outside the amber porch light, tucking my hands into my pockets. "And we both know Deputy Halstead didn't walk into the Kiefer house at eleven this morning to check a mooring line."
 
@@ -48,7 +48,7 @@ Maren's eyes flick to my face—sharp, weathered, and suddenly wary. "Your deadl
 
 "Finishing the probate inventory. Clearing out." I lean slightly closer over the cluttered workbench, keeping my voice low under the kerosene heater's rattle. "Yesterday afternoon you slipped a tide chart into my grocery bag telling me to ask Graham why his dock lights were off at two-fourteen in the morning. When I asked him, he fed me a smooth excuse about ground-fault breakers and salt corrosion—then the grid dropped and Zone Four lit up with a motion alert. Today Halstead walked into that house while Graham was in Portland and told someone on a burner phone to keep the cove clear until dusk."
 
-Maren stares down into her dark coffee. For five long seconds she doesn't speak at all. Her jaw works tight beneath her salt-chapped skin, and she reaches out to nudge the kerosene heater's damper down a notch until the flame stops guttering.
+Maren stares down into her dark coffee. She doesn't speak, her jaw working tight beneath her salt-chapped skin, and reaches out to nudge the kerosene heater's damper down a notch until the flame stops guttering.
 
 "I shouldn't have put that paper in your sack," she says tightly, looking at the floorboards instead of me. "I owe three months' back dockage on my winter slip, and I'm sixty days shy of losing my boat mooring. You think I'm waiting around to testify against a Knox County deputy?"
 
@@ -100,7 +100,7 @@ I start to turn toward the upper stairs—then freeze.
 
 A narrow beam of white light sweeps past the frosted lower casement window of the boathouse.
 
-Not Maren's amber porch lamp, and not headlights off the ridge. A sharp handheld flashlight moving steadily left to right *inside* the locked boathouse, throwing a suspended kayak hull's dark silhouette against frosted glass for half a second before dipping below the sill.
+A sharp handheld flashlight sweeps steadily left to right *inside* the locked boathouse, throwing a suspended kayak hull's dark silhouette against frosted glass for half a second before dipping below the sill.
 
 Halstead told his burner caller to keep the cove clear until dusk—yet someone stands inside that sealed boathouse right now while the padlock hangs untouched on the outer doors.
 
