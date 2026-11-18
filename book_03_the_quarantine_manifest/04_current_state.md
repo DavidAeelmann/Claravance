@@ -2,7 +2,7 @@
 
 - **Current Manuscript Status:** Chapters 1–14 Complete & Linted (0 Violations)
 - **Completed Chapters:** 14 / 23
-- **Cumulative Word Count:** 24,139 words (`chapter_01.md` – `chapter_14.md`)
+- **Cumulative Word Count:** 24,262 words (`chapter_01.md` – `chapter_14.md`)
 - **Current Timeline Anchor:** Wednesday, December 16, 2026, `10:25 PM` (`10:11 PM` high water passed, tidal culvert fully charged; `00:30 EBB` dump deadline in `2 hours 5 minutes`) — Ward C Third-Floor Loft, Barrow Island (`B.I.Q.S.-04`), Lower Narragansett Bay, R.I.
 - **Active POV:** **Tessa Calder** (1st-Person Present)
 
@@ -17,8 +17,8 @@
 ---
 
 ## 2. Tessa's Physical State, Attire & Inventory
-- **Physical State:** Soaked to the knees/calves and chilled by sleet; **right index knuckle scar** split and raw; **left wrist Salt Point scar** raw; **2023 contract-lab lot codes (`12-C / LV-D2`, `GLP ARCHIVE RETENTION`) copied in blue ballpoint ink onto her left forearm**; bruised right knee, right shin & left hip.
-- **Inventory:** Faded navy canvas duffel with dry oilskin liner (containing **1998 `C.M.C.` binder**, **`$984.4M` `CutlerCor` revenue summary**, **2023 Commercial Street Wharf framing & contract-lab shipment dossier**, **1998 Kiefer-Hall charter-trust instruments**, **2003–2025 survivor annuity disbursement ledger signed by Margot**, and **Nov 11, 2014 cold-storage upgrade work order & unsigned Thomas Calder decommissioning cert**), wet wool coat, **forged-steel crowbar**, damp leather gloves, **folding steel multi-tool**, heavy aluminum flashlight, 10x jeweler's loupe, phone (`0` signal bars; photos of `$984.4M` sheet, 2023 lab voucher, and `$6.4M` Cayman SWIFT wire), **`"M"`-stamped `B.I.Q.S.-04 — WARD C` brass master key**, folded 1998 `C.M.C.` carbon sheet, **thermal wire receipt** (`$6.4M` Cayman transfer), **blue ballpoint pen**, and **coiled 4-pin marine VHF handset**.
+- **Physical State:** Chilled by sleet, trousers wet below the knees, wearing **dry spare wool sweater** (changed in Ch 9) under wet wool coat and **dry gray wool blanket** (from Ward C loft cot stack) wrapped around her shoulders; **right index knuckle scar** split and raw; **left wrist Salt Point scar** raw; **2023 contract-lab lot codes (`12-C / LV-D2`, `GLP ARCHIVE RETENTION`) copied in blue ballpoint ink onto her left forearm**; bruised right knee, right shin & left hip.
+- **Inventory:** Faded navy canvas duffel with dry oilskin liner (containing **1998 `C.M.C.` binder**, **`$984.4M` `CutlerCor` revenue summary**, **2023 Commercial Street Wharf framing & contract-lab shipment dossier**, **1998 Kiefer-Hall charter-trust instruments**, **2003–2025 survivor annuity disbursement ledger signed by Margot**, and **Nov 11, 2014 cold-storage upgrade work order & unsigned Thomas Calder decommissioning cert**), wet wool coat, **forged-steel crowbar** (strapped vertically through duffel exterior webbing), damp leather gloves, **folding steel multi-tool**, heavy aluminum flashlight, 10x jeweler's loupe, phone (`0` signal bars; photos of `$984.4M` sheet, 2023 lab voucher, and `$6.4M` Cayman SWIFT wire), **`"M"`-stamped `B.I.Q.S.-04 — WARD C` brass master key**, folded 1998 `C.M.C.` carbon sheet, **thermal wire receipt** (`$6.4M` Cayman transfer), **blue ballpoint pen**, and **coiled 4-pin marine VHF handset**.
 
 ---
 

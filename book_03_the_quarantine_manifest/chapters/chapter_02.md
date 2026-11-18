@@ -10,7 +10,7 @@ Whoever bolted me in doesn't come down the twelve granite steps. The footsteps t
 
 I wait ten seconds. Then I thumb the rubber switch on the heavy aluminum flashlight in my left palm.
 
-A tight white cone cuts through the `4°C` air, catching my own gray breath and the wet sheen on the whitewashed brick walls. The low-wattage amber bulkhead cages stay dead. Whoever killed the circuit didn't pull the main submarine cable—the smooth sixty-cycle hum of the transformer still vibrates through the soles of my boots, and the digital temperature manifold beside the lockers glows red in the dark.
+A tight white cone cuts through the `4°C` air, catching my own gray breath and the wet sheen on the whitewashed brick walls. The low-wattage amber bulkhead cages stay dead, though the digital temperature manifold beside the lockers still glows red in the dark.
 
 I cross to the tin-clad fire door first and test the brass lever. It depresses. I crack the door an inch. Total blackness up the twelve granite steps, and the sloped iron bulkhead leaves above are pinned solid from the outside. No leverage from underneath. Even with my multi-tool, I can't reach a slide-bolt welded to the outer curb.
 
@@ -24,7 +24,7 @@ My hand shakes once as I aim the flashlight beam down at the open black leather 
 
 Then I lean in and read the final line inside the double red circle.
 
-`PASSENGER / DONOR #12-C: CALDER, ELENA M. — SPECIMEN CRATE 06 (MYOCARDIAL HARVEST / 4°C FORMALIN-CRYO).`
+`PASSENGER / DONOR #12-C: CALDER, ELENA M. — SPECIMEN CRATE 06 (MYOCARDIAL HARVEST / 4°C ARCHIVE).`
 
 Below the line, written in the same square draftsman's print my father used on every harbor survey chart I grew up with, sits the vessel name and date: **`M/V NORTHERN CROSS — BLOCK ISLAND TRANSFER — NOV 19, 1998`**.
 
@@ -38,9 +38,9 @@ At the bottom margin, stamped deep into the thick rag stock, sits the circular s
 
 My mother didn't die in a hospital bed.
 
-I brace my left palm against the cold steel edge of the autopsy table, feeling the thin pink Salt Point scar pull beneath my cuff. My mother's name is typed onto a bonded specimen transfer log from a vessel that supposedly sank off Block Island twenty-six years ago. `MYOCARDIAL HARVEST.`
+I brace my left palm against the cold steel edge of the autopsy table, staring at the yellowed ledger. My mother's name is typed onto a bonded specimen transfer log from a vessel that supposedly sank off Block Island twenty-eight years ago. `MYOCARDIAL HARVEST.`
 
-Garroway didn't circle my mother's line by accident. Someone pulled this binder out of storage within the last twelve hours and marked her name in fresh red grease pencil as the priority purge.
+Garroway didn't circle my mother's line by accident. Whoever pulled the binder out was mid-transfer—checking the crate serial numbers against Locker 4 when they heard the mail skiff's diesel chugging toward the slip at `3:18 PM`, ducking up the steps to observe and leaving the padlock unlatched to trap whoever walked down.
 
 I pull the heavy black leather binder off the autopsy table, unbuckle my faded navy canvas duffel, and slide the binder flat against my spare wool sweater.
 
@@ -48,9 +48,9 @@ Before I hunt for a way out of this cellar, I need to know what is still inside 
 
 ***
 
-The four stainless-steel refrigeration units stand shoulder to shoulder along the left brick wall, humming under the red glow of the digital `4°C` manifold. Fresh copper refrigerant lines run from their rear housings into a pair of brand-new industrial compressor skids bolted to the concrete floor.
+The four stainless-steel refrigeration units stand shoulder to shoulder along the left brick wall, humming under the red glow of the digital `4°C` manifold. Fresh copper refrigerant lines run from their rear housings into a pair of brand-new industrial compressor skids and a sealed lithium backup battery bank bolted to the concrete floor.
 
-I crouch behind the first compressor skid and pull my 10x jeweler's loupe from my coat pocket.
+I crouch behind the first compressor skid and pull my loupe from my coat pocket.
 
 Someone took an angle grinder to the manufacturer's brass serial plates, leaving bright silver gouges across the painted steel housings. They missed the cast-iron lot numbers stamped into the lower mounting feet, along with a smeared corner of violet port-clearance ink: **`B.I.Q.S.-04`**.
 
@@ -58,9 +58,9 @@ I recognize the gross-weight tonnage stencil on the cast-iron base. I stared at 
 
 He didn't lose those compressors in the Portland fire. He rotated the cold-storage hardware through Portland while laying the submarine power cable across Narragansett Bay, burned the wharf to erase the customs paper trail, and buried me under a `$42,000` defamation judgment so I could never touch a maritime file again.
 
-A sharp, cloying drift of Latakia Turkish tobacco clings to the rubber door gaskets as I stand and unlatch **Locker 1**.
+A sharp, sweet drift of pipe tobacco clings to the rubber door gaskets as I stand and unlatch **Locker 1**.
 
-Cold vapor spills over my boots. Inside sit two riveted steel containment crates packed in cedar shavings, each bearing a stenciled **`M/V NORTHERN CROSS — 1998`** tag and lead customs seals wired to stainless-steel racks numbered **`#01-A`** through **`#04-B`**. Paraffin tissue blocks, glass histology slides, cryovials, and plasma aliquots packed in clear preservative racks.
+Cold vapor spills over my boots. Inside sit two riveted steel containment crates packed in cedar shavings, each bearing a stenciled **`M/V NORTHERN CROSS — 1998`** tag and lead customs seals wired to stainless-steel racks numbered **`#01-A`** through **`#04-B`**. Formalin-fixed paraffin tissue blocks, glass histology slides, and insulated vapor-phase cryovials packed in clear preservative racks—a twenty-eight-year-old human myocardium archive that Cutler Biotech could re-section and re-assay under falsified modern collection dates to fabricate its FDA post-market safety filings.
 
 Lockers 2 and 3 hold the same: three more steel containment crates, bringing the count to five, tagged up to **`DONOR #11-B`**. Five of the six crates my father signed for on the yellowed 1998 carbon sheet still sitting in my coat pocket. Every lead seal on those five crates sits intact, dulled by twenty-eight years of cold oxidation.
 
@@ -70,7 +70,7 @@ The chrome handle gives without resistance. Inside, the stainless-steel shelving
 
 Locker 4 wasn't emptied last week. The frost seal broke less than an hour ago.
 
-I swing my flashlight beam back to the center of the floor, where the freshly pried wooden outer shipping crate—stenciled with the faded crest of the **Portland Custom House Wharf**—sits crooked on the yellow hydraulic hand-truck beside a heap of damp pine slats and a heavy **forged-steel crowbar**.
+I swing my flashlight beam back to the center of the floor, where the freshly pried wooden outer shipping crate—stenciled with the faded crest of the **Portland Custom House Wharf**—sits crooked on the yellow hydraulic hand-truck beside a heap of damp pine slats and a heavy crowbar.
 
 Whoever brought that steel toe-tap down the boat-slip steps didn't wheel `Crate 06` *into* Ward C. They pried the outer Portland transit wood off in here, loaded my mother's inner steel containment crate onto the hand-truck, and wheeled it back out toward the water before I ever stepped off the mail skiff.
 
@@ -80,15 +80,15 @@ Then they came back for the 1998 binder—and caught the bulkhead padlock hangin
 
 My watch reads `3:42 PM`. Sixteen minutes until low water, when the flood tide will turn the riprap channel into a boiling rip and cut off the mail skiff.
 
-I slip my father's tarnished brass key out of my coat pocket for two seconds to check its bow under my flashlight—wondering why it turned a freshly wiped Ward C lock so cleanly. Stamped deep into the tarnished brass bow beside `B.I.Q.S.-04` sits a single block letter I barely registered in Portland: **`M`**. I drop the key back into my pocket without knowing what it means and pick up the forged-steel crowbar from the floor beside the hand-truck. The cold iron bites through my leather gloves, pulling the tight pink scar across my right index knuckle where the Vermont sutures came out three days ago.
+I slip my father's tarnished brass key out of my coat pocket for two seconds to check its bow under my flashlight—wondering why it turned a freshly wiped Ward C lock so cleanly. Stamped deep into the tarnished brass bow beside `B.I.Q.S.-04` sits a single block letter I barely registered in Portland: **`M`**. I drop the key back into my pocket without knowing what it means and pick up the crowbar from the floor beside the hand-truck.
 
 The tin-clad door leads only to a bolted bulkhead. The four `4°C` lockers back onto solid masonry. That leaves the rear wall of the morgue vault.
 
-I sweep my flashlight along the whitewashed brick past the digital manifold. Behind a rusted porcelain utility sink sits a waist-high **cast-iron sterilization door** framed in soot-blackened masonry—an 1890s brick autoclave built to burn contaminated bedding and flush contagious-ward waste before municipal sewers reached Narragansett Bay. Below the cast-iron clean-out hatch, a rectangular **granite drain culvert** slopes downward through the foundation toward the bay, smelling sharply of low-tide kelp, salt rime, and rotting eelgrass.
+I sweep my flashlight along the whitewashed brick past the digital manifold. Behind a rusted porcelain utility sink sits a waist-high **cast-iron ash door** framed in soot-blackened masonry—an 1890s brick ward incinerator and sluice shaft built to burn contaminated bedding and flush contagious-ward waste before municipal sewers reached Narragansett Bay. Below the cast-iron clean-out hatch, a rectangular **granite drain culvert** slopes downward through the foundation toward the bay, smelling sharply of low-tide kelp, salt rime, and rotting eelgrass.
 
 A faint trickle of black bay water already laps at the inner iron grate of the culvert, sending cold mist up against my shins.
 
-I wedge the flat chisel tip of the crowbar behind the rusted cast-iron dog latch of the autoclave clean-out hatch. The nineteenth-century iron groans, flaking orange scale onto my boots. Above the inner brick firebox, a narrow vertical exhaust flue rises straight up into darkness—wide enough for a pair of shoulders if I keep my elbows tucked and my duffel slung low.
+I wedge the flat chisel tip of the crowbar behind the rusted cast-iron dog latch of the incinerator clean-out hatch. The nineteenth-century iron groans, flaking orange scale onto my boots. Above the inner brick firebox, a narrow vertical exhaust flue rises straight up into darkness—wide enough for a pair of shoulders if I keep my elbows tucked and my duffel slung low.
 
 I brace both boots against the masonry plinth and throw my weight onto the crowbar.
 
@@ -98,7 +98,7 @@ Before I can haul the door open wide enough to test the flue, footsteps return a
 
 *Tick-thud. Tick-thud.*
 
-The footsteps stop right beside the bulkhead curb. Metal scrapes against a small red wall box I noticed near the top step on my way down—the manual pull-station for a **2023-retrofitted CO₂ total-flooding system**.
+The footsteps stop right beside the bulkhead curb. Metal scrapes against a small red wall box I noticed near the top step on my way down—the manual pull-station for a **2023-retrofitted CO₂ total-flooding system** installed to protect the 480-volt compressor rack and lithium backup bank without water damage.
 
 Glass shatters. A heavy brass lever clunks down.
 

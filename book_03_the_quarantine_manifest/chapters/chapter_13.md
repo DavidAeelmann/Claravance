@@ -14,7 +14,7 @@ Instead, I open my fingers slowly and let the heavy **coiled VHF handset** settl
 
 For two heartbeats, the only sound in the alcove is the soft tick of the kerosene heater and sleet rattling against the shuttered glass. Then Margot takes a half-step to her left, keeping the `.380` lined up on the base of my neck while her eyes drop past my shoulder to the glowing green banner.
 
-Even without turning my head, I hear the sudden hitch in her throat.
+Even without turning my head, I feel Margot go dead still behind my shoulder.
 
 **`TRANSFER AMOUNT: $6,400,000.00 (REMAINING ESCROW RESERVE)`**
 **`ORIGIN: STATE STREET ESCROW #884-19B (K-H FIDUCIARY)`**
@@ -28,7 +28,7 @@ Even without turning my head, I hear the sudden hitch in her throat.
 
 She doesn't stop me, though the `.380` tracks my elbow as I slide the folded **thermal wire receipt** out of my wet wool pocket and lay it flat beside her leather card case. Margot's free hand darts down, snatches the narrow curl of paper, and tilts it toward the green glow of the screen.
 
-Her eyes scan the authorization code, the `9:15 PM` timestamp, and the Grand Cayman routing string. Her knuckles go white around the receipt.
+Her eyes scan the authorization code, the `9:15 PM` timestamp, and the Grand Cayman routing string. Her thumb creases the thermal slip hard enough to tear the edge.
 
 "He suspects you," I tell her, keeping my voice low so it doesn't carry down the hall toward the front vestibule. "He knows you didn't skip half a million in federal bail just to help him burn crates in the dark. He's emptying your vault, leaving your fingerprints on the ash tubs by the stove, and letting the Marshals pick up whatever's left of you at dawn."
 
@@ -70,7 +70,7 @@ Margot studies my face for three long seconds, weighing the math the way every S
 
 "I wouldn't ask you to."
 
-While her eyes flick back to the Cayman wire on the laptop screen, I reach down, scoop the **coiled VHF handset** cleanly off the blotter, and slide it back into my deep wool pocket beside the blue ballpoint pen, the thermal receipt, and my father's brass master key. Margot sees the movement too late, her lips thinning, then lets it go—because she needs the Coast Guard on this island almost as badly as I do.
+While her eyes flick back to the Cayman wire on the laptop screen, I reach down, scoop the coiled VHF handset cleanly off the blotter, and slide it back into my deep wool pocket beside the blue ballpoint pen, the thermal receipt, and my father's brass master key. Margot sees the movement too late, her lips thinning, then lets it go—because she needs the Coast Guard on this island almost as badly as I do.
 
 ***
 
@@ -82,7 +82,7 @@ Margot's head snaps toward the front vestibule. "Window," she hisses, already ba
 
 She pivots down the hall toward the Chief Surgeon's Office, her heels clicking briskly on the pine boards as she moves to meet Garroway by the stove and keep him out of the front rooms.
 
-I grab my navy duffel by the canvas strap, sling it tight across my chest, and reach for the narrow wooden latch beside the swollen lower storm sash. My split right knuckle stings as I twist the brass thumb-turn free. The painted pine frame sticks hard in its track—swollen from forty years of salt fog—so I wedge the flat tip of my **forged-steel crowbar** under the bottom rail and pry upward with both shoulders.
+I grab my navy duffel by the canvas strap, sling it tight across my chest, and reach for the narrow wooden latch beside the swollen lower storm sash. My bruised fingers sting as I twist the brass thumb-turn free. The painted pine frame sticks hard in its track—swollen from forty years of salt fog—so I slide the crowbar from my duffel webbing, wedge its flat tip under the bottom rail, and pry upward with both shoulders.
 
 With a sharp crack of breaking ice and old putty, the sash slides open, admitting a freezing blast of sleet and salt spray off the side yard. The kerosene space heater sputters behind me as the cold draft hits the alcove.
 
@@ -92,9 +92,9 @@ In the front vestibule, the heavy exterior oak door groans on its iron hinges.
 
 I roll over the sill feet-first, ducking my head as the duffel clears the frame, and drop onto the frozen gravel along the granite foundation. The impact jars my bruised right knee and sends a fresh jolt up my left hip. Without standing upright, I reach back up, pull the swollen sash down until the glass meets the sill, and press myself flat into the dark shadow beneath the cellar bulkhead just as the alcove light blinks out.
 
-Sleet needles my neck and hands as I tuck the duffel tight under my ribs. Yellow flashlight beams sweep across the wet granite porch steps and cut through the driving sleet toward the Coal Pier. My raw left wrist burns against the rough mortar as I hold my breath, waiting for Vale's boot to round the corner of the foundation.
+Sleet needles my neck and hands as I tuck the duffel tight under my ribs. Yellow flashlight beams sweep across the wet granite porch steps and cut through the driving sleet toward the Coal Pier. My freezing palm scrapes against the rough mortar as I hold my breath, waiting for Vale's boot to round the corner of the foundation.
 
-Instead, the heavy oak portico door swings wide again, and Garroway steps out onto the granite porch threshold, his breath pluming white against the dark lintel as he looks out over the black, rain-lashed courtyard toward the marsh. A faint cherry ember glows in the bowl of his briar pipe, sending a thin ribbon of **Latakia smoke** straight into the wind. My wet wool coat clings to my ribs like cold iron as I wait in the dark.
+Instead, the heavy oak portico door swings wide again, and Garroway steps out onto the granite porch threshold, his breath pluming white against the dark lintel as he looks out over the black, rain-lashed courtyard toward the marsh. A faint cherry ember glows in the bowl of his briar pipe, sending a thin ribbon of pipe smoke straight into the wind. My wet wool coat clings to my ribs like cold iron as I wait in the dark.
 
 He doesn't sweep his light into the foundation shadow, and he doesn't step off the granite porch. He doesn't even raise his voice above a level, conversational carry that rides cleanly over the wind and the booming flood tide.
 

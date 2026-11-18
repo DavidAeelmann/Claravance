@@ -12,7 +12,7 @@ Below the granite apron, the Atlantic flood surges hard into the island's brick 
 
 Up against the weathered brick hangs a rusted iron fire-escape ladder, its lower rungs bolted into the mortar just above a stack of salt-rotted lobster traps.
 
-I sling my navy duffel tight across my chest, tuck the forged-steel crowbar securely into my belt, and test the bottom iron rung with my full weight. The anchor bolt groans in the damp brick, then holds. I climb—one freezing, sleet-slick rung after another, my split right index knuckle flaring hot every time my damp leather glove closes around the pitted iron. Halfway up the blind wall, the heavy duffel swings outward in a gust of wind and slams back against my bruised left hip, nearly wrenching my boot off the rung. Three stories up, the gale tries to peel me off the gable, sleet rattling against the slate eaves like buckshot.
+I sling my navy duffel tight across my chest, verify the crowbar is strapped tight through the exterior webbing, and test the bottom iron rung with my full weight. The anchor bolt groans in the damp brick, then holds. I climb—one freezing, sleet-slick rung after another, my split right index knuckle flaring hot every time my damp leather glove closes around the pitted iron. Halfway up the blind wall, the heavy duffel swings outward in a gust of wind and slams back against my bruised left hip, nearly wrenching my boot off the rung. Three stories up, the gale tries to peel me off the gable, sleet rattling against the slate eaves like buckshot.
 
 At the top landing, a pair of louvered storm shutters hangs from a single rusted pintle. I hook the claw of my crowbar behind the swollen wooden slat, pop the rusted hook-and-eye latch, and slip headfirst into the pitch-black **third-floor loft** of Ward C before pulling the shutter closed behind me.
 
@@ -20,7 +20,7 @@ At the top landing, a pair of louvered storm shutters hangs from a single rusted
 
 The loft smells of dry cedar dust, mouse droppings, and forty years of salt-cured pine rafters.
 
-I sit with my back against the brick chimney breast on the leeward side of the room, pulling my wet knees up to my chest while my breathing slows. Around me in the dark, rows of stacked canvas quarantine cots, rusted enamel sterilization trays, and mildewed wool blankets cast jagged shadows wherever thin slivers of sleet-lit sky bleed through the louvered eaves. Above my head, rows of iron roofing nails poke through the pine sheathing, each tip furred with white hoarfrost.
+I sit with my back against the brick chimney breast on the leeward side of the room, pull a dry gray wool blanket off the bottom of the stacked quarantine cots, and wrap it tight around my shoulders over my dry sweater and damp coat. Around me in the dark, rows of stacked canvas quarantine cots and rusted enamel sterilization trays cast jagged shadows wherever thin slivers of sleet-lit sky bleed through the louvered eaves. Above my head, rows of iron roofing nails poke through the pine sheathing, each tip furred with white hoarfrost.
 
 I pull my phone from my coat pocket and thumb the power button, shielding the dim screen inside my wool lapels.
 
@@ -28,7 +28,7 @@ Zero bars. Not even an emergency-only flicker. Garroway's portable RF jammer in 
 
 *Halvorsen's keeping Nina in a nice place, Tessa. I know which one.*
 
-Garroway's words sit in my chest like a handful of gravel. My pulse hammers against my raw left wrist as I stare at the dead signal icon. Two days ago, Nina stepped onto a federal tarmac in Portland under AUSA Nora Halvorsen's protection—safe, out of reach, and guarded by people with badges and radios. If Garroway's people in Maine compromised a federal safe house, or bribed a clerk at the U.S. Attorney's office, I have no way to warn Halvorsen from a jammed loft in Narragansett Bay. For three seconds, the old panic from Commercial Street Wharf rises in my throat—the helpless certainty that everyone I try to protect pays the bill for my stubbornness.
+Garroway's words sit in my chest like a handful of gravel. My pulse hammers under my cuff as I stare at the dead signal icon. Two days ago, Nina stepped onto a federal tarmac in Portland under AUSA Nora Halvorsen's protection—safe, out of reach, and guarded by people with badges and radios. If Garroway's people in Maine compromised a federal safe house, or bribed a clerk at the U.S. Attorney's office, I have no way to warn Halvorsen from a jammed loft in Narragansett Bay. For three seconds, the old panic from Commercial Street Wharf rises in my throat—the helpless certainty that everyone I try to protect pays the bill for my stubbornness.
 
 I close my eyes, force myself to breathe in through my nose for four counts, and run the threat the same way I run a marine survey—strip out the panic and check whether the structure holds weight.
 
@@ -44,13 +44,13 @@ I open my eyes in the dark loft. The logic holds, clean and tight on paper—yet
 
 I unclip my heavy aluminum flashlight, cup my damp leather palm over the bezel so only a thin amber slit spills onto the floorboards, and unzip the faded navy duffel between my knees.
 
-Inside, the heavy **oilskin liner** has done its job. Every sheet of paper I pulled out of the Customs House file room and Ward C's cold vault sits dry and crisp against my fingertips: the **1998 `C.M.C.` binder** with its brass three-ring spine intact, the **`$984,400,000`** *CutlerCor* revenue summary, Margot's **1998 charter-trust instruments** stacked neatly above her **signed 2003–2025 survivor annuity ledger**, the **Nov 11, 2014 cold-storage upgrade work order** with my father's unsigned decommissioning cert, and the **2023 Commercial Street Wharf dossier**. Before I touch a single page, I pat my wool coat pockets to verify my hardware is still seated: the coiled **4-pin marine VHF handset**, my father's `"M"`-stamped brass master key, and the folded thermal Cayman wire receipt.
+Inside, the heavy oilskin liner has done its job. Every sheet of paper I pulled out of the Customs House file room and Ward C's cold vault sits dry and crisp against my fingertips: the **1998 `C.M.C.` binder** with its brass three-ring spine intact, the **`$984,400,000`** *CutlerCor* revenue summary, Margot's **1998 charter-trust instruments** stacked neatly above her **signed 2003–2025 survivor annuity ledger**, the **Nov 11, 2014 cold-storage upgrade work order** with my father's unsigned decommissioning cert, and the **2023 Commercial Street Wharf dossier**. Before I touch a single page, I pat my wool coat pockets to verify my hardware is still seated: the coiled 4-pin marine VHF handset, my father's `"M"`-stamped brass master key, and the folded thermal Cayman wire receipt.
 
 If the launch goes down, or if I end up back in the rip channel before morning, paper dissolves. Even oilskin leaks if a wave catches you wrong.
 
 I slide the **Nov 2, 2023 contract-lab shipment voucher** out of the Commercial Street Wharf folder and lay it flat on my knee under the narrow flashlight beam. The carbon-copy manifest lists the Portland courier seal, the cold-pack transit temperature, and the receiving facility's coded stamp. At the bottom of the table, stamped **`GLP ARCHIVE RETENTION — DUPLICATE BLOCKS`**, sit four alphanumeric lot codes—including the paired string tied to **`12-C`** and **`LV-D2`**.
 
-I peel off my left leather glove with my teeth, push my damp wool sleeve past my elbow, and click the cheap blue **ballpoint pen** I swept off the Customs House clerk's desk.
+I peel off my left leather glove with my teeth, push my damp wool sleeve past my elbow, and click the cheap blue ballpoint pen I swept off the Customs House clerk's desk.
 
 I hold the barrel steady against the shivering in my fingers and press the ballpoint tip into the pale skin of my left forearm, just above my raw **Salt Point scar**. The ink skips once on the chill-raised skin, then catches—sharp, dark blue characters etched in neat block print down the inside of my arm: the `Nov 2, 2023` lab routing code, the GLP archive retention number, and the full **`12-C / LV-D2`** specimen lot string. Every letter stings slightly as the cold metal nib drags across my gooseflesh, leaving a permanent smudge along the cuff of my sleeve.
 
@@ -60,7 +60,7 @@ I slide the 2023 voucher back into the oilskin liner, zip the duffel tight, and 
 
 Down in the **Ward C courtyard** three stories below, gravel crunches beneath heavy boots, sharp enough to cut through the wind against the slate.
 
-I click the flashlight off instantly and crawl to the louvered gable shutter, peering through a narrow crack between the weathered slats. Two yellow flashlight beams cut across the wet granite apron below—Vale's broad-shouldered silhouette hanging back near the culvert archway, his right boot catching the stone with a faint *tick-thud*, while **Victor Garroway** steps squarely into the center of the courtyard and tilts his face up toward Ward C's dark eaves. Rainwater streams off the brim of Garroway's oilskin coat as he raises one gloved hand to shield his eyes from the sleet.
+I click the flashlight off instantly and crawl to the louvered gable shutter, peering through a narrow crack between the weathered slats. Two yellow flashlight beams cut across the wet granite apron below—Vale's broad-shouldered silhouette hanging back near the culvert archway, his right boot catching the stone with a faint *tick-thud*, while **Victor Garroway** steps squarely into the center of the courtyard and tilts his face up toward Ward C's dark eaves. Rainwater streams off the lapels of Garroway's navy cashmere overcoat as he raises one gloved hand to shield his eyes from the sleet.
 
 His voice rides cleanly up through the driving sleet, calm and unhurried over the booming tide and the wind in the slate.
 

@@ -10,7 +10,7 @@ Behind the wheelhouse glass, the boatman shifts his throttle into neutral while 
 
 "Forty minutes is plenty," I say, adjusting the strap of my faded navy canvas duffel across my left shoulder.
 
-Beneath my right glove, the pink scar seam across my index knuckle pulls tight against the cold leather—my souvenir from a burning mountain ridge in Vermont twelve days ago. Under my left cuff sits the thinner scar from Salt Point. My checking account back in Portland still holds forty-two thousand dollars of Kiefer-Hall Fiduciary's money, and my sister **Nina** is currently locked inside my third-floor apartment on the Eastern Promenade with two federal marshals parked downstairs on Congress Street.
+Beneath my right glove, the pink scar seam across my index knuckle pulls tight against the cold leather—my souvenir from a burning mountain ridge in Vermont twelve days ago. Under my left cuff sits the thinner scar from Salt Point. My checking account back in Portland still holds forty-one thousand dollars of Kiefer-Hall Fiduciary's money, and my sister **Nina** is currently locked inside my third-floor apartment on the Eastern Promenade with two federal marshals parked downstairs on Congress Street.
 
 Safe. Exonerated. Breathing clean harbor air.
 
@@ -26,7 +26,7 @@ The second is a folded carbon sheet torn from my late father's **1998 Calder Mar
 
 **Victor Garroway.**
 
-Chief marine underwriter at **Harbor Mutual Insurance**. The exact man who testified under oath that I falsified the Commercial Street warehouse crane logs in Portland, stripped my investigator's license, and buried me under an eighteen-thousand-dollar judgment to make sure I never audited that wharf fire again.
+Chief marine underwriter at **Harbor Mutual Insurance**. The exact man who testified under oath that I falsified the Commercial Street warehouse crane logs in Portland, stripped my investigator's license, and buried me under the final eighteen thousand dollars of a forty-two-thousand-dollar defamation judgment to make sure I never audited that wharf fire again.
 
 I step off the pitching bow onto the slick granite seawall, my rubber lug soles biting into wet kelp and frozen barnacles. Behind me, the mail skiff backs twenty yards off the pilings, its diesel exhaust hanging blue and sour over the chop.
 
@@ -82,7 +82,7 @@ And resting open on a stainless-steel autopsy table under the center amber bulb 
 
 I take two silent steps across the concrete drain grate, pull my phone out to photograph the open page, and freeze.
 
-The manifest sheet isn't listing refrigeration compressors or pharmaceutical vials. It's a bonded passenger-and-specimen transfer log from a vessel that supposedly sank off Block Island twenty-six years ago—and the final line item, written in my father's neat, square draftsman's print, has been circled twice in fresh red grease pencil.
+The manifest sheet isn't listing refrigeration compressors or pharmaceutical vials. It's a bonded passenger-and-specimen transfer log from a vessel that supposedly sank off Block Island twenty-eight years ago—and the final line item, written in my father's neat, square draftsman's print, has been circled twice in fresh red grease pencil.
 
 Before I can read the name inside the red circle, the amber bulkhead lights snap off, plunging the brick vault into pitch darkness.
 

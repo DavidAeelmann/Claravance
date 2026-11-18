@@ -8,7 +8,7 @@ My watch glows `7:32 PM`. Five hours until the `00:30` ebb.
 
 I keep low against the leeward brick wall of the boiler house until I clear the corner, then follow the dipped drainage swale north behind the **Customs House**—staying out of sight of its glowing first-floor shutters while black bond-paper smoke whips sideways from its chimney into the dark. Ahead, rising out of the jagged northern headland like a granite finger against the storm sky, stands the octagonal shaft of the **North Ledge Signal Tower**.
 
-Every step along the exposed gravel causeway fights the gale. My frozen trouser cuffs slap heavy against my calves, and the thin rubber soles of my boots slip twice on black ice where salt spray froze over the granite cobbles. Frozen bayberry scrub tears at my wool coat hem, and the wind pulls the breath straight out of my nose whenever I turn my face toward Block Island Sound. I keep my **forged-steel crowbar** tucked inside my coat belt so it won't catch the wind or glint under a stray glance from the Customs House porch, and press my gloved left hand over the zipper of my duffel to keep the 1998 binder dry.
+Every step along the exposed gravel causeway fights the gale. My frozen trouser cuffs slap heavy against my calves, and the thin rubber soles of my boots slip twice on black ice where salt spray froze over the granite cobbles. Frozen bayberry scrub tears at my wool coat hem, and the wind pulls the breath straight out of my nose whenever I turn my face toward Block Island Sound. I keep the crowbar strapped vertically through my duffel webbing so it won't catch the wind or glint under a stray glance from the Customs House porch, and press my gloved left hand over the zipper of my duffel to keep the 1998 binder dry.
 
 Halfway across the narrow neck of rock separating the main compound from the northern headland, the wind drops for three seconds—just long enough for a crisp metallic *tick-thud* to carry from the Customs House portico behind me.
 
@@ -26,7 +26,7 @@ No way I'm prying a bronze federal padlock with a crowbar without bringing Conra
 
 Instead, I crouch behind the leeward granite buttress where a galvanized steel conduit runs down the masonry wall from the upper gallery into a weatherproof **solar-and-battery trickle junction box**. Above me, the angled solar panel bolted to the south face of the granite shaft hums faintly in the gale, its steel mounting brackets crusted with white rime.
 
-Cold salt spray drifts up over the cliff edge, soaking my coat shoulders while the Atlantic surf booms against the black granite directly below my boots. I pull my **folding steel multi-tool** from my coat pocket, flip out the narrow driver blade, and back off the two corroded stainless-steel cover screws on the lower service collar—quiet, methodical turns in the sleet with my split right index knuckle throbbing against the steel handle.
+Cold salt spray drifts up over the cliff edge, soaking my coat shoulders while the Atlantic surf booms against the black granite directly below my boots. I pull my multi-tool from my coat pocket, flip out the narrow driver blade, and back off the two corroded stainless-steel cover screws on the lower service collar—quiet, methodical turns in the sleet with my freezing fingers.
 
 The inspection plate drops open into my palm.
 
@@ -48,11 +48,11 @@ Crossing back down the northern causeway takes twice the nerve, because the wind
 
 I drop off the gravel path just north of the **Administration & Customs House**, circling around its blind seaward gable where the granite foundation sits banked with wind-packed sleet and dead bayberry scrub. Here, sheltered from the Coal Pier sightline and the front portico lantern, the **cellar coal-ash grate** sits recessed in a low brick window well at ankle height.
 
-A warm, bitter draft leaks up between the rusted iron bars—carrying the unmistakable stench of **burning bond paper**, hot cast iron, and **Victor Garroway's sweet Latakia Turkish pipe tobacco**.
+A warm, bitter draft leaks up between the rusted iron bars—carrying the unmistakable stench of burning bond paper, hot cast iron, and Victor Garroway's sweet pipe tobacco.
 
-I kneel in the slush beside the window well, hook the curved claw of my **forged-steel crowbar** under the salt-rotted wooden sash frame behind the grate, and ease the brittle frame inward a fraction at a time until the rusted catch gives with a dry *snap* muffled by the wind. Below the sill, a narrow brick chute slopes down onto a heaped pile of cold nineteenth-century coal clinker inside a dark cellar.
+I kneel in the slush beside the window well, hook the curved claw of my crowbar under the salt-rotted wooden sash frame behind the grate, and ease the brittle frame inward a fraction at a time until the rusted catch gives with a dry *snap* muffled by the wind. Below the sill, a narrow brick chute slopes down onto a heaped pile of cold nineteenth-century coal clinker inside a dark cellar.
 
-I unbuckle my duffel, drop it quietly down onto the coal pile first so the 1998 leather binder lands soft, and slide feet-first through the narrow opening after it. My rubber lug soles crunch into old anthracite dust, kicking up a faint cloud that tastes of sulfur, wet lime, and cellar damp. Around me, brick furnace piers support a low plank ceiling lined with nineteenth-century quarantine supply shelves, empty except for rusted enamel basins and salt-crusted glass carboys. On the south masonry wall, a fresh armored trunk line from the **Steam Plant** submarine cable feeds a gray sub-panel humming softly at sixty cycles.
+I unbuckle my duffel, drop it quietly down onto the coal pile first so the 1998 leather binder lands soft, and slide feet-first through the narrow opening after it. My rubber lug soles crunch into old anthracite dust, kicking up a faint cloud that tastes of sulfur, wet lime, and cellar damp. Around me, brick furnace piers support a low plank ceiling lined with nineteenth-century quarantine supply shelves, empty except for rusted enamel basins and salt-crusted glass carboys. On the south masonry wall, a fresh armored trunk line from the **Steam Plant** submarine cable feeds a gray sub-panel humming softly against the brick.
 
 I step off the coal pile onto swept concrete, pick up my duffel, and crouch behind the central brick furnace pier beside a rusted tin **floor register** cut into the ceiling joists above.
 
@@ -66,10 +66,10 @@ Then a woman's voice cuts sharp and clear down the floor register, tight with fu
 
 Silence holds for three beats—broken only by the soft *tap-tap* of a briar pipe bowl emptying against cast iron.
 
-"The file room stays locked until the `00:30` ebb clears the breakwater," Victor Garroway says, his calm baritone drifting down the register alongside a fresh curl of Latakia smoke. "Everything in that room burns together after Conrad finishes the pier clearance. You don't need a key, Margot. You need to keep your fingerprints off the 1998 charter instruments until we're past Block Island."
+"The file room stays locked until the `00:30` ebb clears the breakwater," Victor Garroway says, his calm baritone drifting down the register alongside a fresh curl of pipe smoke. "Everything in that room burns together after Conrad finishes the pier clearance. You don't need a key, Margot. You need to keep your fingerprints off the 1998 charter instruments until we're past Block Island."
 
 "Don't play fiduciary with me," Margot shoots back, her voice dropping half an octave as footsteps cross toward the front hallway. "I know what's inside that oak door, Victor. Those 1998 charter instruments stay out of the stove, and they go into my briefcase tonight. Give me the key now, or I walk down to the launch and take my chances at Point Judith myself."
 
 A heavy oak door rattles against a deadbolt somewhere down the hall. Neither of them lowers their voice, and neither of them realizes the cellar steps behind the furnace lead straight up to the back corridor outside that same locked room.
 
-I ease off the concrete beside the coal bin, feel the cold wooden stringer of the back service stairs under my wet boot toe, and pull my father's **`"M"`**-stamped brass key from my coat pocket—its heavy notched blade warming slowly against my split index knuckle—as Garroway's boots walk back toward the roaring woodstove in the front room.
+I ease off the concrete beside the coal bin, feel the cold wooden stringer of the back service stairs under my wet boot toe, and pull my father's **`"M"`**-stamped brass key from my coat pocket—its heavy notched blade warming slowly in my palm while the cellar draft smells of sulfur and cold ash—as Garroway's boots walk back toward the roaring woodstove in the front room, heavy iron hinges creaking behind him.

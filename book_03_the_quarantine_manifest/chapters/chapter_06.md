@@ -14,7 +14,7 @@ The greased casters scream over the metal steps, picking up speed down the strai
 
 Halfway down the run, the iron frame catches the operative square across the shins. A sharp grunt tears through his rubber respirator valves, followed by the heavy crash of tubular steel tumbling onto the first-floor landing and the deafening *crack-crack* of two 9mm shots. Plaster dust and lath splinters rain down over my shoulders from the shattered ceiling above, and the concussion leaves both my ears ringing in the dark. The smell of cordite cuts sharp through the damp lime air of the gallery.
 
-I don't wait to see if he goes all the way down the stairs. I sprint across the dark gallery, yank open the **louvered wooden service door**, and swing onto the top rungs of the **iron service ladder** before pulling the door nearly flush behind me.
+I don't wait to see if he goes all the way down the stairs. I sprint across the dark gallery, yank open the louvered wooden service door, and swing onto the top rungs of the iron service ladder before pulling the door nearly flush behind me.
 
 My boots find the cold iron rungs in total darkness, the slick condensation biting through my damp soles as I drop rung by rung into the brick shaft.
 
@@ -22,7 +22,7 @@ I slide down the vertical brick shaft fast, letting the wet leather of my gloves
 
 Above me, heavy footsteps pound back up to the second-floor landing. A cubicle door bangs open, then another. He's sweeping the dark isolation stalls first, buying me sixty seconds in the cellar trench.
 
-I crouch in the wet brick trough, check my watch—`4:42 PM`—and run my gloved fingers over the oilskin seam of my duffel to make sure the 1998 binder stayed dry during the slide. Beside it, the folded 1998 carbon sheet and **WARD C** brass key sit safe inside my dry inner coat pocket. Cold air funnels down the vertical orderly shaft behind me, carrying the faint metallic echo of a pistol slide racking shut on the second floor. Then I click on my flashlight with my thumb cupped over the bezel to keep the beam to a thin pencil slit. Directly ahead, a low masonry arch opens into the **1890s brick steam tunnel**.
+I crouch in the wet brick trough, check my watch—`4:42 PM`—and run my gloved fingers over the oilskin seam of my duffel to make sure the 1998 binder stayed dry during the slide. Beside it, the folded 1998 carbon sheet and **WARD C** brass key sit safe inside my dry inner coat pocket. Cold air funnels down the vertical orderly shaft behind me, carrying the faint metallic echo of a pistol slide racking shut on the second floor. Then I click on my flashlight, cupping my thumb over the bezel to keep the beam thin. Directly ahead, a low masonry arch opens into the **1890s brick steam tunnel**.
 
 ***
 
@@ -32,7 +32,7 @@ Cold saltwater laps against my shins with every step, soaking through my boot se
 
 Directly above my head, strapped to the brick ceiling arch with brand-new galvanized steel U-bolts, runs a thick black armored conduit that doesn't belong to the nineteenth century. Fresh masonry dust still clings to the drilled anchor holes in the old brick. I peel off my wet right glove for three seconds and lay my bare palm against the PVC-and-lead jacket.
 
-Warm. Not hot like a live steam main—just faintly above freezing, vibrating with a steady, rhythmic **sixty-cycle hum** that buzzes right through the split scar on my right index knuckle.
+Warm. Not hot like a live steam main—just faintly above freezing, vibrating with a steady, rhythmic **sixty-cycle hum** that buzzes straight into my palm.
 
 The **submerged three-phase submarine power cable**.
 
@@ -42,7 +42,7 @@ Ahead in the dark, a heavy cast-aluminum waterproof junction box splits the armo
 
 Whoever controls that transformer switchgear controls the island's power—and the `4°C` vault alarms.
 
-I pull my damp leather glove back on and wade deeper into the dark brick bore, keeping my forged-steel crowbar hooked in my left hand and my flashlight slit pointed at the black water line so I don't trip over a submerged pipe flange. Every few steps, the tunnel floor dips slightly where bay water seeps through the old granite seawall joints, rising nearly to my knees before leveling out again. My teeth clamp tight to keep from chattering in the dark, and my soaked wool trousers feel like wet iron against my calves.
+I pull my damp leather glove back on and wade deeper into the dark brick bore, keeping the crowbar hooked in my left hand and my flashlight slit pointed at the black water line so I don't trip over a submerged pipe flange. Every few steps, the tunnel floor dips slightly where bay water seeps through the old granite seawall joints, rising nearly to my knees before leveling out again. My teeth clamp tight to keep from chattering in the dark, and my soaked wool trousers feel like wet iron against my calves.
 
 Ahead, a faint gray grid of winter nightfall leaks down through a rusted cast-iron sidewalk grating set into the masonry crown—a nineteenth-century ventilation shaft where the steam tunnel crosses beneath the central gravel causeway.
 
@@ -56,7 +56,7 @@ Sleet drives sideways across the treeless granite hump under a low black sky, tu
 
 Behind me to the west sits **Ward C**, dark and shuttered. A moment later, the ground-floor fire door bangs open and the steel toe-tap crunches briskly across the iced gravel above my head—the operative abandoning the upper ward to report back toward the waterfront.
 
-Fifty paces north glows the **Administration & Customs House**, warm orange lamp light leaking around its ground-floor shutters while thick black smoke curls from its brick chimney into the sleet, carrying a faint, bitter whiff of burning ledger paper and Latakia tobacco.
+Fifty paces north glows the **Administration & Customs House**, warm orange lamp light leaking around its ground-floor shutters while thick black smoke curls from its brick chimney into the sleet, carrying a faint, bitter whiff of burning ledger paper and sweet pipe smoke.
 
 Directly ahead to the south looms the cavernous corrugated-iron roof of the **Disinfection Steam Plant** and the heavy timber pilings of the **Coal Pier**, jutting out into the black swell behind the granite breakwater. Moored in the lee of the wet pier planks, a sleek, salt-streaked twin-diesel cabin launch rolls gently against heavy black rubber fender buoys, a yellow hydraulic hand-truck parked beside its stern boarding ladder. Its aft deck carries a stiff canvas tarp lashed tight over a steel winch frame.
 
@@ -70,10 +70,10 @@ As I near the seaward end of the tunnel at `5:15 PM`, the brick arch opens into 
 
 Two heavy twin-diesel bilge pumps cycle on somewhere just above my head, followed by the metallic clatter of heavy galvanized anchor chain dragging across fiberglass. A timber cleat groans under a fresh strain line. Through the rusted iron bars, I catch the faint amber reflection of a deck lantern dancing across black oil-slick water, illuminating the lower granite pilings crusted with frozen barnacles.
 
-I freeze beneath the stone pier grate, holding my breath in the dark as two pairs of boots stop on the wet timber planks directly over my head. One pair clicks with a sharp steel toe-tap. The other steps soft in wet leather soles, carrying the sweet, unmistakable drift of **Latakia Turkish pipe tobacco** down through the pier cracks. A drop of melted sleet from the planks splashes onto my forehead, ice-cold against my skin.
+I freeze beneath the stone pier grate, holding my breath in the dark as two pairs of boots stop on the wet timber planks directly over my head. One pair clicks with a sharp steel toe-tap. The other steps soft in wet leather soles, carrying the sweet drift of pipe tobacco down through the pier cracks. A drop of melted sleet from the planks splashes onto my forehead, ice-cold against my skin.
 
 "She's not in the ward," the steel toe-tap man says, his voice flat over the slap of bay waves against the pilings. "She dropped down the orderly shaft into the steam trench. Probably half-frozen already."
 
 "Then seal the pier gate and let her freeze," Victor Garroway says, his calm baritone carrying clear through the planks. "Margot and I are burning the rest of the hull files in the Customs House. Crate Six stays chained to the stern winch till the ebb. Two hundred feet, Conrad."
 
-He doesn't say my mother's name. He doesn't have to.
+He doesn't say my mother's name, and he doesn't need to. Cold bay water surges up against my shins as the two men turn back toward shore.
