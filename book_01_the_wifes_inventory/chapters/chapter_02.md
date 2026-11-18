@@ -28,9 +28,12 @@ Walking away means losing my apartment on Monday. Staying means sharing a roof w
 
 I open the shared spreadsheet Julian emailed earlier. Fifty blank rows, pre-formatted with columns for *Room*, *Item Description*, *Estimated Value*, and *Box Number*. Clean, sterile, corporate. Beside it, I open a local encrypted note on my hard drive—offline, unsynced—and type four lines:
 
-*1. Porch deck: fresh linseed/sealer smell, planks dry.*  
-*2. Mudroom tray: right half wiped clean, women's boots gone.*  
-*3. Foyer closet: E.M. olive weekender, packed heavy, unlocked padlock.*  
+*1. Porch deck: fresh linseed/sealer smell, planks dry.*
+
+*2. Mudroom tray: right half wiped clean, women's boots gone.*
+
+*3. Foyer closet: E.M. olive weekender, packed heavy, unlocked padlock.*
+
 *4. Bar Harbor Slip 4 ferry stub: OCT 17 (Drowning reported Oct 14, 11:30 PM).*
 
 I stare at the glowing screen until the radiator under the window ticks sharply, making me flinch. If Julian is running a probate fraud—say, Evelyn walked out on him and he staged a drowning to claim life insurance—then the weekender makes sense. Almost. Except why leave the Bar Harbor stub tied to the handle where any probate lawyer or hired cleaner might trip over it?

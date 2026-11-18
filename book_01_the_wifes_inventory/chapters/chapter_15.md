@@ -115,7 +115,9 @@ Julian glances over his shoulder at the rack, his eyes widening. "I wiped all th
 A fresh folder blooms onto the left monitor inside the `CLOUD_SYNC` queue.
 
 `DEVICE_ID: E_MERCER_IPAD_MINI_02`
+
 `STATUS: SYNC_COMPLETE`
+
 `FILE: VANCE_CONFESSION_FINAL.wav`
 
 "Don't touch it," I say, though my throat feels dry as chalk. "Check the header."

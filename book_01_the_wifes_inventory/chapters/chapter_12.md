@@ -82,7 +82,7 @@ On the middle shelf lies a single thick padded manila envelope, sealed tight acr
 
 I reach in, wrap my cold fingers around the padded envelope, and lift it clear of the metal shelf.
 
-Across the room, the heavy steel fire door beneath the foyer stairs cracks open slightly—just enough for a thin wedge of dark foyer shadow to cut across the blue monitor glare—then slams shut into its steel jamb with a deafening pneumatic *thud*.
+Across the room, the heavy steel fire door beneath the foyer stairs cracks open slightly—just enough for a thin wedge of dark stairwell shadow to cut across the blue monitor glare—then slams shut into its steel jamb with a deafening pneumatic *thud*.
 
 I spin around, clutching the envelope flat against my chest.
 

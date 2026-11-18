@@ -88,4 +88,4 @@ Every standby LED in the foyer dies instantly. The wall tablet beside the coat c
 
 The house plunges into pitch-black darkness, cutting off even the gray storm glow from the ridge outside.
 
-At the same exact second, Evelyn throws the manual storm-shutter lockdown switch beside the main breaker. Heavy steel hurricane shutters roar downward inside their exterior aluminum tracks. They slam shut with a deafening metallic *CRASH* across the sunroom glass, the foyer sidelights, and the north-hall windows—sealing every exit in black steel while Cole's boots hit the foyer slate behind us.
+At the same exact second, Evelyn kills the generator transfer switch and throws the manual storm-shutter lockdown switch beside the main breaker. Heavy steel hurricane shutters roar downward inside their exterior aluminum tracks. They slam shut with a deafening metallic *CRASH* across the sunroom glass, the foyer sidelights, and the north-hall windows—sealing every exit in black steel while Cole's boots hit the foyer slate behind us.

@@ -77,7 +77,7 @@ Except when I look down at the open ledger under the gray clerestory light, my b
 
 The top sheet hasn't been turned. It has been sliced clean out along the leather spine with a straight-edged blade, leaving a jagged fringe of cream paper still glued into the binding.
 
-Only the bottom right corner of the missing page tore loose before the blade finished its cut—a tiny triangular scrap pinned beneath a heavy brass desk weight. On that scrap sits the tail of a single cursive letter *m* in dark blue ink, slanting left. Maya's ink.
+Only the bottom right corner of the missing page tore loose before the blade finished its cut—a tiny triangular scrap pinned beneath a heavy brass desk weight. On that scrap sits the tail of a single cursive letter *m* in dark blue ink, back-slanted. Maya's ink.
 
 And resting directly on top of the sliced binding, where the wet glue is still tacky to the touch, sits a freshly stamped brass room tag on a steel ring.
 
@@ -90,6 +90,9 @@ Then a key turns in the upper stairwell lock, sealing me inside the hall.
 ***
 
 **Continue Clara Vance's story in Book 2 of the series:**
+
 **THE CARETAKER'S LEDGER**
+
 *A Clara Vance Thriller (Book 2) by David Seelmann*
+
 *If you enjoyed The Wife's Inventory, please consider leaving a review on Amazon and following David Seelmann for new release alerts.*

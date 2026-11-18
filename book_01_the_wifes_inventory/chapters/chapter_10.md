@@ -104,10 +104,14 @@ Not Julian's Mercer Soundworks app—that guest link expired at five. It's a sil
 
 I tap the banner with a thumb that suddenly feels numb.
 
-**CUSTOMS / MARINA SCANNER HIT — PRIORITY WATCH**  
-**NAME:** MERCER, EVELYN S.  
-**DOCUMENT:** US PASSPORT #••••••3907  
-**PORT:** ST. ANDREWS PRIVATE MARINA, NEW BRUNSWICK  
+**CUSTOMS / MARINA SCANNER HIT — PRIORITY WATCH**
+
+**NAME:** MERCER, EVELYN S.
+
+**DOCUMENT:** US PASSPORT #••••••3907
+
+**PORT:** ST. ANDREWS PRIVATE MARINA, NEW BRUNSWICK
+
 **TIMESTAMP:** NOV 3, 2026 — 09:42 AST
 
 I stare at the glowing white text in the dark bedroom until my eyes burn. Yesterday morning. While Julian stood in this kitchen telling me she drowned three weeks ago, Evelyn Mercer walked off a dock across the Canadian border and scanned her own passport.

@@ -20,7 +20,7 @@ The color drains completely out of his face, leaving the dark hollows under his 
 
 With a dull, heavy *clang*, he drops the wrench onto the bottom concrete stair tread. It rolls once and stops against the steel jamb.
 
-"I didn't lock you down here, Clara," he says quietly, raising both empty hands chest-high so I can see his palms. "I drank half that bourbon last night and blacked out on the living room sofa until quarter to six. My mouth tastes like ash, and I can barely focus on the stairs. When I woke up with my head splitting, a kitchen chair was wedged under the pantry doorknob, the Zone Four workstation was drawing power, and the front door stood unlatched."
+"I didn't lock you down here, Clara," he says quietly, raising both empty hands chest-high so I can see his palms. "I drank half that bourbon last night and blacked out on the living room sofa until quarter to six. My mouth tastes like ash, and I can barely focus on the stairs. When I woke up with my head splitting, my key ring was lying on the floor beside the sofa, a kitchen chair was wedged under the pantry doorknob, the Zone Four workstation was drawing power, and the front door stood unlatched."
 
 My grip on the multi-tool falters a fraction. "You didn't throw the deadbolt at two-fifteen?"
 
@@ -36,7 +36,7 @@ The morning light spilling through the back deck glass is thin and gray, washing
 
 Whatever sediment was swirling at the bottom of that bourbon glass last night, it hit him hard enough to leave his hands trembling.
 
-"You forged Evelyn's initials on six trust transfers," I say from the far side of the island, setting the padded manila envelope down beside the toaster while keeping the encrypted thumb drive hidden inside my watch pocket. "October tenth. Four days before the gale."
+"You forged Evelyn's initials on six trust transfers," I say from the far side of the island, setting the padded manila envelope down beside the toaster while keeping the encrypted thumb drive hidden inside my watch pocket. "October tenth. Four days before the gale. You even sliced three pages out of her studio sketchbook to practice tracing her signature."
 
 Julian lets out a long, ragged exhale and turns to face me. No practiced grief mask this morning. No smooth Mercer Soundworks pitch. He looks ten years older than he did on Monday night.
 

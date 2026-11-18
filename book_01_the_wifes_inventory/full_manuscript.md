@@ -174,9 +174,12 @@ Walking away means losing my apartment on Monday. Staying means sharing a roof w
 
 I open the shared spreadsheet Julian emailed earlier. Fifty blank rows, pre-formatted with columns for *Room*, *Item Description*, *Estimated Value*, and *Box Number*. Clean, sterile, corporate. Beside it, I open a local encrypted note on my hard drive—offline, unsynced—and type four lines:
 
-*1. Porch deck: fresh linseed/sealer smell, planks dry.*  
-*2. Mudroom tray: right half wiped clean, women's boots gone.*  
-*3. Foyer closet: E.M. olive weekender, packed heavy, unlocked padlock.*  
+*1. Porch deck: fresh linseed/sealer smell, planks dry.*
+
+*2. Mudroom tray: right half wiped clean, women's boots gone.*
+
+*3. Foyer closet: E.M. olive weekender, packed heavy, unlocked padlock.*
+
 *4. Bar Harbor Slip 4 ferry stub: OCT 17 (Drowning reported Oct 14, 11:30 PM).*
 
 I stare at the glowing screen until the radiator under the window ticks sharply, making me flinch. If Julian is running a probate fraud—say, Evelyn walked out on him and he staged a drowning to claim life insurance—then the weekender makes sense. Almost. Except why leave the Bar Harbor stub tied to the handle where any probate lawyer or hired cleaner might trip over it?
@@ -1179,10 +1182,14 @@ Not Julian's Mercer Soundworks app—that guest link expired at five. It's a sil
 
 I tap the banner with a thumb that suddenly feels numb.
 
-**CUSTOMS / MARINA SCANNER HIT — PRIORITY WATCH**  
-**NAME:** MERCER, EVELYN S.  
-**DOCUMENT:** US PASSPORT #••••••3907  
-**PORT:** ST. ANDREWS PRIVATE MARINA, NEW BRUNSWICK  
+**CUSTOMS / MARINA SCANNER HIT — PRIORITY WATCH**
+
+**NAME:** MERCER, EVELYN S.
+
+**DOCUMENT:** US PASSPORT #••••••3907
+
+**PORT:** ST. ANDREWS PRIVATE MARINA, NEW BRUNSWICK
+
 **TIMESTAMP:** NOV 3, 2026 — 09:42 AST
 
 I stare at the glowing white text in the dark bedroom until my eyes burn. Yesterday morning. While Julian stood in this kitchen telling me she drowned three weeks ago, Evelyn Mercer walked off a dock across the Canadian border and scanned her own passport.
@@ -1243,7 +1250,7 @@ I lift my phone and aim the dim screen into the opening.
 
 Behind the pantry spice rack drops a narrow, pitch-black utility shaft framed in rough-sawn hemlock studs—an original 1970s manual dumbwaiter chase that someone stripped of its wooden cab decades ago. A braided hemp counterweight line hangs taut down the left side beside a rusted cast-iron pulley wheel bolted to the upper header. Bolted straight into the concrete-block masonry on the right runs a vertical iron service ladder, vanishing down through the subfloor joists into the dark cellar below. Along the lower edge of the cedar sill, a strip of fresh gray duct tape holds a loose bundle of black coaxial cable flat against the stud so it won't snag a climber's boot.
 
-Tuesday night, when the storm knocked out the main grid and the generator kicked in, the smart-home tablet flashed **MOTION DETECTED — BASEMENT ZONE 4 (PERIMETER BYPASS ACTIVE)** while the foyer deadbolt sat untouched and armed. Nobody picked that mortise lock under the stairs. Somebody climbed straight down this hidden pantry shaft behind the spice rack, dropping into the acoustic darkroom without tripping a single door contact. Using the rusted B-4 key on the foyer door would have lit up Julian's phone in three seconds; this shaft is the blind spot.
+Tuesday night, when the storm knocked out the main grid and the generator kicked in, the smart-home tablet flashed **MOTION DETECTED — BASEMENT ZONE 4 (PERIMETER BYPASS ACTIVE)** while the Zone 4 deadbolt sat untouched and armed. Nobody picked that mortise lock under the stairs. Somebody climbed straight down this hidden pantry shaft behind the spice rack, dropping into the acoustic darkroom without tripping a single door contact. Using the rusted B-4 key on the steel fire door would have lit up Julian's phone in three seconds; this shaft is the blind spot.
 
 And judging by the fresh thumbprint in the latch dust, someone used this shaft within the last hour.
 
@@ -1375,7 +1382,7 @@ On the middle shelf lies a single thick padded manila envelope, sealed tight acr
 
 I reach in, wrap my cold fingers around the padded envelope, and lift it clear of the metal shelf.
 
-Across the room, the heavy steel fire door beneath the foyer stairs cracks open slightly—just enough for a thin wedge of dark foyer shadow to cut across the blue monitor glare—then slams shut into its steel jamb with a deafening pneumatic *thud*.
+Across the room, the heavy steel fire door beneath the foyer stairs cracks open slightly—just enough for a thin wedge of dark stairwell shadow to cut across the blue monitor glare—then slams shut into its steel jamb with a deafening pneumatic *thud*.
 
 I spin around, clutching the envelope flat against my chest.
 
@@ -1389,9 +1396,9 @@ On the inner door frame, the tiny pinpoint LED above the mortise lock winks from
 
 The pinpoint red LED above the fire door glares steady against the dark concrete.
 
-I drop the padded manila envelope onto the steel worktable and bolt straight for the mortise handle, pressing my ear against cold painted steel. On the other side of the door, footsteps cross the foyer slate—unhurried, soft-treaded, fading toward the kitchen archway before a chair leg scrapes softly across tile.
+I drop the padded manila envelope onto the steel worktable and bolt straight for the mortise handle, pressing my ear against cold painted steel. On the other side of the door, footsteps climb the concrete stairs and cross the foyer slate—unhurried, soft-treaded, fading toward the kitchen archway before a chair leg scrapes softly across tile.
 
-I don't bother testing the rusted **B-4** key in the interior keyhole. From this side, there's no thumb-turn—only a smooth brass escutcheon plate and a heavy commercial deadbolt thrown strictly from the foyer hall. Whoever locked me in didn't just pull the door shut. They threw an exterior bolt that won't budge without a key from the other side.
+I don't bother testing the rusted **B-4** key in the interior keyhole. From this side, there's no thumb-turn—only a smooth brass escutcheon plate and a heavy commercial deadbolt thrown strictly from the stairwell landing. Whoever locked me in didn't just pull the door shut. They threw an exterior bolt that won't budge without a key from the other side.
 
 Which leaves the dumbwaiter shaft.
 
@@ -1494,7 +1501,7 @@ The color drains completely out of his face, leaving the dark hollows under his 
 
 With a dull, heavy *clang*, he drops the wrench onto the bottom concrete stair tread. It rolls once and stops against the steel jamb.
 
-"I didn't lock you down here, Clara," he says quietly, raising both empty hands chest-high so I can see his palms. "I drank half that bourbon last night and blacked out on the living room sofa until quarter to six. My mouth tastes like ash, and I can barely focus on the stairs. When I woke up with my head splitting, a kitchen chair was wedged under the pantry doorknob, the Zone Four workstation was drawing power, and the front door stood unlatched."
+"I didn't lock you down here, Clara," he says quietly, raising both empty hands chest-high so I can see his palms. "I drank half that bourbon last night and blacked out on the living room sofa until quarter to six. My mouth tastes like ash, and I can barely focus on the stairs. When I woke up with my head splitting, my key ring was lying on the floor beside the sofa, a kitchen chair was wedged under the pantry doorknob, the Zone Four workstation was drawing power, and the front door stood unlatched."
 
 My grip on the multi-tool falters a fraction. "You didn't throw the deadbolt at two-fifteen?"
 
@@ -1510,7 +1517,7 @@ The morning light spilling through the back deck glass is thin and gray, washing
 
 Whatever sediment was swirling at the bottom of that bourbon glass last night, it hit him hard enough to leave his hands trembling.
 
-"You forged Evelyn's initials on six trust transfers," I say from the far side of the island, setting the padded manila envelope down beside the toaster while keeping the encrypted thumb drive hidden inside my watch pocket. "October tenth. Four days before the gale."
+"You forged Evelyn's initials on six trust transfers," I say from the far side of the island, setting the padded manila envelope down beside the toaster while keeping the encrypted thumb drive hidden inside my watch pocket. "October tenth. Four days before the gale. You even sliced three pages out of her studio sketchbook to practice tracing her signature."
 
 Julian lets out a long, ragged exhale and turns to face me. No practiced grief mask this morning. No smooth Mercer Soundworks pitch. He looks ten years older than he did on Monday night.
 
@@ -1683,7 +1690,9 @@ Julian glances over his shoulder at the rack, his eyes widening. "I wiped all th
 A fresh folder blooms onto the left monitor inside the `CLOUD_SYNC` queue.
 
 `DEVICE_ID: E_MERCER_IPAD_MINI_02`
+
 `STATUS: SYNC_COMPLETE`
+
 `FILE: VANCE_CONFESSION_FINAL.wav`
 
 "Don't touch it," I say, though my throat feels dry as chalk. "Check the header."
@@ -1850,7 +1859,7 @@ Evelyn's thumbs pause on the glass screen. She looks up at me, her dark eyes coo
 
 She says it cleanly, without a trace of doubt, like she's reading off an invoice. Every syllable carries straight into the open mic beneath her hip, streaming back to the basement server Julian locked behind steel—assuming Julian hasn't already been cuffed by Cole upstairs. Behind my left shoulder, black harbor water swells and sucks against the timber slipway planks, freezing and deep enough to swallow a boat hook whole. If I get these wrists free, the channel is my only exit.
 
-"You didn't even leave the life jacket salty," I push, shifting my wrists quietly higher behind the piling until the taut nylon ridge between my palms presses squarely against the rusted steel edge of the oyster knife. "Cole soaked it in the mudroom sink with tap water, and you crushed Ambien in the master bath while Julian was hauling cartons at noon. That's sloppy, Evelyn. Even a rookie medical examiner checks for salt residue."
+"You didn't even leave the life jacket salty," I push, shifting my wrists quietly higher behind the piling until the taut nylon ridge between my palms presses squarely against the rusted steel edge of the oyster knife. "Cole soaked it in the mudroom sink with tap water, and you flushed crushed Ambien down the master bath sink before spiking the bourbon on the credenza. That's sloppy, Evelyn. Even a rookie medical examiner checks for salt residue."
 
 Evelyn smiles—a thin, cold curve of her mouth. "Cole wrote the report, Clara. There won't be a second medical examiner, because there won't be a body until the crabs are finished with it. Everything you cataloged in that house was staged to trigger a Slayer Statute forfeiture on his marital share—handing me three million in a Cayman bearer trust the day Julian's charged with my murder."
 
@@ -2014,7 +2023,7 @@ I freeze halfway down the iron ladder, one sneakered foot braced on a rung, my t
 
 "My wrist is bleeding through the damn gauze," Cole snaps, his boots thudding heavily toward the kitchen island. "And the salt water got into it down at the dock. If I find her, I'm not using zip ties."
 
-"Check the basement stairs first," Evelyn says. "Use your spare key on Zone 4—throw the exterior deadbolt on the steel door if she's inside and leave her there until high tide. Her spliced confession is already sitting in the county drop, and the bronze cleat is still in her spare-tire well."
+"Check the basement stairs first," Evelyn says. "Take Julian's key ring off the study desk—throw the exterior deadbolt on the steel door if she's inside and leave her there until high tide. Her spliced confession is already sitting in the county drop, and the bronze cleat is still in her spare-tire well."
 
 Cold sweat breaks across the back of my neck.
 
@@ -2148,7 +2157,7 @@ Every standby LED in the foyer dies instantly. The wall tablet beside the coat c
 
 The house plunges into pitch-black darkness, cutting off even the gray storm glow from the ridge outside.
 
-At the same exact second, Evelyn throws the manual storm-shutter lockdown switch beside the main breaker. Heavy steel hurricane shutters roar downward inside their exterior aluminum tracks. They slam shut with a deafening metallic *CRASH* across the sunroom glass, the foyer sidelights, and the north-hall windows—sealing every exit in black steel while Cole's boots hit the foyer slate behind us.
+At the same exact second, Evelyn kills the generator transfer switch and throws the manual storm-shutter lockdown switch beside the main breaker. Heavy steel hurricane shutters roar downward inside their exterior aluminum tracks. They slam shut with a deafening metallic *CRASH* across the sunroom glass, the foyer sidelights, and the north-hall windows—sealing every exit in black steel while Cole's boots hit the foyer slate behind us.
 
 ---
 

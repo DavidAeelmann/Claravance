@@ -2,9 +2,9 @@
 
 The pinpoint red LED above the fire door glares steady against the dark concrete.
 
-I drop the padded manila envelope onto the steel worktable and bolt straight for the mortise handle, pressing my ear against cold painted steel. On the other side of the door, footsteps cross the foyer slate—unhurried, soft-treaded, fading toward the kitchen archway before a chair leg scrapes softly across tile.
+I drop the padded manila envelope onto the steel worktable and bolt straight for the mortise handle, pressing my ear against cold painted steel. On the other side of the door, footsteps climb the concrete stairs and cross the foyer slate—unhurried, soft-treaded, fading toward the kitchen archway before a chair leg scrapes softly across tile.
 
-I don't bother testing the rusted **B-4** key in the interior keyhole. From this side, there's no thumb-turn—only a smooth brass escutcheon plate and a heavy commercial deadbolt thrown strictly from the foyer hall. Whoever locked me in didn't just pull the door shut. They threw an exterior bolt that won't budge without a key from the other side.
+I don't bother testing the rusted **B-4** key in the interior keyhole. From this side, there's no thumb-turn—only a smooth brass escutcheon plate and a heavy commercial deadbolt thrown strictly from the stairwell landing. Whoever locked me in didn't just pull the door shut. They threw an exterior bolt that won't budge without a key from the other side.
 
 Which leaves the dumbwaiter shaft.
 

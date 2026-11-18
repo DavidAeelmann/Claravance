@@ -50,7 +50,7 @@ I freeze halfway down the iron ladder, one sneakered foot braced on a rung, my t
 
 "My wrist is bleeding through the damn gauze," Cole snaps, his boots thudding heavily toward the kitchen island. "And the salt water got into it down at the dock. If I find her, I'm not using zip ties."
 
-"Check the basement stairs first," Evelyn says. "Use your spare key on Zone 4—throw the exterior deadbolt on the steel door if she's inside and leave her there until high tide. Her spliced confession is already sitting in the county drop, and the bronze cleat is still in her spare-tire well."
+"Check the basement stairs first," Evelyn says. "Take Julian's key ring off the study desk—throw the exterior deadbolt on the steel door if she's inside and leave her there until high tide. Her spliced confession is already sitting in the county drop, and the bronze cleat is still in her spare-tire well."
 
 Cold sweat breaks across the back of my neck.
 
