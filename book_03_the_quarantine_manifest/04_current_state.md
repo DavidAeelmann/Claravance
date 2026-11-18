@@ -36,8 +36,9 @@
 - **Clue #1 (Hand-truck ruts & steel toe-tap):** Yellow hydraulic hand-truck spotted parked at the head of the iced granite slipway rails beside spare anchor chain.
 - **Clue #2 (3-phase submarine cable hum):** Active; next step is inspecting the Disinfection Steam Plant switchgear.
 - **Clue #3 (Latakia tobacco, formalin, cedar shavings & 2023 compressor plates):** Pipe-tamper coated in Latakia resin & Harbor Mutual clearance clipboard found in *Harbor Bell* wheelhouse.
-- **Clue #4 (Empty Locker 4 & circled `ELENA M. CALDER` line):** Brass plate on `Crate #06` confirmed under tarp (`DONOR #12-C (CALDER, E. M.)`); locked with 7-pin tubular key.
+- **Clue #4 (Empty Locker 4 & circled `ELENA M. CALDER` line):** Brass plate on `Crate #06` confirmed under tarp (`DONOR #12-C (CALDER, E. M.)`); locked with 7-pin tubular key (defeats multi-tool).
 - **Clue #8 (North Ledge Signal Tower USCG microwave repeater):** Confirmed the *Harbor Bell* VHF is disabled, leaving North Ledge repeater + Customs House radio room as the only mainland comm path.
+- **Clue #9 (`"M"`-stamped `B.I.Q.S.-04 — WARD C` brass key):** Noted `"M"` stamp on the key bow in Ch 2; master-key function still to be resolved.
 
 ---
 
