@@ -78,7 +78,7 @@ Margot drops to her knees beside the SUV fender, coughing hard into the freezing
 
 Through the dense black spruce corridor below us, twin **blue-and-red strobe bars** flash sharply against the snow-laden boughs, climbing steadily up the unplowed grade behind a heavy county plow blade. Diesel sirens echo faintly off the granite ledges, followed by the deep air-horn blast of a pumper truck rounding the lower switchback.
 
-State police cruisers and county fire rigs—drawn up the ridge by the towering column of diesel smoke visible from the state highway, Pike's abandoned county plow strobe, and the abrupt dead-man cutoff of Margot's Boston satellite tracker.
+State police cruisers and county fire rigs—drawn up the ridge by the towering column of diesel smoke visible from the state highway, Pike's abandoned county plow strobe, and the emergency SOS burst I triggered off Margot's silver uplink fob.
 
 Nina slides her cold hand into mine, her knuckles raw from the brick chute yet steady against my split finger. Behind us, Hollis slumps silent against the forged iron spear, while Simone stares blankly at the burning timber gables. Snowflakes hiss softly against the cooling hood of Margot's disabled SUV, and the scent of pine smoke drifts down from the woodshed.
 

@@ -46,7 +46,7 @@ Hollis's jaw goes rigid, the muscle bunching beneath his gray stubble. He stares
 
 "I barred the door and heard her inside!" Simone shoots back, stepping backward toward the study archway. "I lit the shingles myself! If she got out, it wasn't through the front!"
 
-"She's still inside the house," Margot interrupts, dropping the Iridium chip back onto the lectern and snapping her leather briefcase latches open with two sharp metallic clicks. "And I don't care which closet she's hiding in, as long as she doesn't walk out with the wrong book."
+"She's still inside the house," Margot interrupts, dropping the Iridium chip and her silver key-fob uplink token onto the lectern and snapping her leather briefcase latches open with two sharp metallic clicks. "And I don't care which closet she's hiding in, as long as she doesn't walk out with the wrong book."
 
 Hollis spits again, narrowing his eyes. "You didn't drive four hours in a blizzard just to lecture us about an auditor, Miss Kiefer-Hall."
 

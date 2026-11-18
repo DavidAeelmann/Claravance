@@ -71,7 +71,7 @@ To my right, beside the archway leading to the study, stands a slanted oak recep
 
 My pulse beats hard against my collarbones as I cross the flagstones.
 
-I recognize the cream, red-ruled paper from the cropped scan taped to the back of Margot's photograph. Same faded header print. Same column lines for *Date*, *Guest*, and *Room*.
+I recognize the cream, red-ruled paper from the cropped fax printout taped to the back of Margot's photograph. Same faded header print. Same column lines for *Date*, *Guest*, and *Room*.
 
 Except when I look down at the open ledger under the gray clerestory light, my breath catches in my throat.
 
@@ -85,7 +85,7 @@ And resting directly on top of the sliced binding, where the wet glue is still t
 
 Above my head, directly across the third-floor rafters where the attic corridor runs, a heavy floorboard groans under the slow, deliberate shift of a boot.
 
-Then a key turns in the upper stairwell lock, sealing me inside the hall.
+Then an iron slide bolt grates home on the upper stairwell door—and behind me on the front porch, a heavy brass padlock clanks shut across the outer storm door.
 
 ***
 

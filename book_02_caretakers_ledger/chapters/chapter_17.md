@@ -6,7 +6,7 @@ My wrists are numb where the double nylon ratchets bite into my wool cuffs.
 
 Cold radiates up through the Great Hall flagstones into my knees, sharp enough to make my teeth ache. A thin trickle of blood from my scraped temple dries sticky against my jaw, tasting faintly of copper and hearth dust. Behind me, the black iron poker hisses softly as its hooked tip settles deeper into the glowing birch coals.
 
-Hollis stands two paces back, the twelve-gauge pump shotgun balanced across his forearm. His scarred right hand rests near the trigger guard, stained dark with soot and wintergreen spit.
+Hollis stands two paces back, the twelve-gauge double-barreled shotgun balanced across his forearm. His scarred right hand rests near the trigger guard, stained dark with soot and wintergreen spit.
 
 Across the hearth, Margot Kiefer-Hall sits slumped in the worn leather armchair, white nylon rope cutting deep into the camel hair sleeves of her coat. A plum bruise swells along her left cheekbone, yet her eyes stay fixed on the dark archway leading toward the pantry—the same direction I came from before Simone blindsided me with the brass desk weight.
 

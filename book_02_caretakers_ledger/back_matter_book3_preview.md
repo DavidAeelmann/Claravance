@@ -13,7 +13,7 @@ Behind the wheelhouse glass, the boatman shifts his throttle into neutral while 
 
 "Forty minutes is plenty," I say, adjusting the strap of my faded navy canvas duffel across my left shoulder.
 
-Beneath my right glove, the pink scar seam across my index knuckle pulls tight against the cold leather—my souvenir from a burning mountain ridge in Vermont twelve days ago. Under my left cuff sits the thinner scar from Salt Point. My checking account back in Portland still holds forty-two thousand dollars of Kiefer-Hall Fiduciary's money, and my sister **Nina** is currently locked inside my third-floor apartment on the Eastern Promenade with two federal marshals parked downstairs on Congress Street.
+Beneath my right glove, the pink scar seam across my index knuckle pulls tight against the cold leather—my souvenir from a burning mountain ridge in Vermont twelve days ago. Under my left cuff sits the thinner scar from Salt Point. My checking account back in Portland still holds forty-two thousand dollars of Kiefer-Hall Fiduciary's money, and my sister **Nina** is currently locked inside my third-floor corner apartment where Congress Street meets the Eastern Promenade, with two federal marshals parked downstairs at the curb.
 
 Safe. Exonerated. Breathing clean harbor air.
 
@@ -85,7 +85,7 @@ And resting open on a stainless-steel autopsy table under the center amber bulb 
 
 I take two silent steps across the concrete drain grate, pull my phone out to photograph the open page, and freeze.
 
-The manifest sheet isn't listing refrigeration compressors or pharmaceutical vials. It's a bonded passenger-and-specimen transfer log from a vessel that supposedly sank off Block Island twenty-six years ago—and the final line item, written in my father's neat, square draftsman's print, has been circled twice in fresh red grease pencil.
+The manifest sheet isn't listing refrigeration compressors or pharmaceutical vials. It's a bonded passenger-and-specimen transfer log from a vessel that supposedly sank off Block Island twenty-eight years ago—and the final line item, written in my father's neat, square draftsman's print, has been circled twice in fresh red grease pencil.
 
 Before I can read the name inside the red circle, the amber bulkhead lights snap off, plunging the brick vault into pitch darkness.
 

@@ -10,7 +10,7 @@ Behind the wheelhouse glass, the boatman shifts his throttle into neutral while 
 
 "Forty minutes is plenty," I say, adjusting the strap of my faded navy canvas duffel across my left shoulder.
 
-Beneath my right glove, the pink scar seam across my index knuckle pulls tight against the cold leather—my souvenir from a burning mountain ridge in Vermont twelve days ago. Under my left cuff sits the thinner scar from Salt Point. My checking account back in Portland still holds forty-one thousand dollars of Kiefer-Hall Fiduciary's money, and my sister **Nina** is currently locked inside my third-floor apartment on the Eastern Promenade with two federal marshals parked downstairs on Congress Street.
+Beneath my right glove, the pink scar seam across my index knuckle pulls tight against the cold leather—my souvenir from a burning mountain ridge in Vermont twelve days ago. Under my left cuff sits the thinner scar from Salt Point. My checking account back in Portland still holds forty-one thousand dollars of Kiefer-Hall Fiduciary's money, and my sister **Nina** is currently locked inside my third-floor corner apartment where Congress Street meets the Eastern Promenade, with two federal marshals parked downstairs at the curb.
 
 Safe. Exonerated. Breathing clean harbor air.
 

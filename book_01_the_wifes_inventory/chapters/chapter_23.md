@@ -1,12 +1,12 @@
 # Chapter 23
 
-Two weeks after Salt Point, the cast-iron radiator in my Portland studio still ticks like a bad heart, and the harbor wind still rattles the single-pane glass.
+Four weeks after Salt Point, the cast-iron radiator in my Portland studio still ticks like a bad heart, and the harbor wind still rattles the single-pane glass.
 
 I stand over the scarred kitchen counter with a mug of black coffee, staring at two sheets of heavy bond paper laid side by side under the bare overhead bulb. The first is a stamped satisfaction-of-judgment notice from the Cumberland County clerk: $18,412 paid in full, zero balance remaining from the $42,000 defamation suit that broke my career three years ago. The second is a crisp, embossed letter from the Maine Department of Public Safety restoring my private investigator bond, effective Monday morning.
 
 The $5,000 cash from Salt Point and the $13,500 cashier's check from the anonymous Boston estate firm covered the judgment and the state bond reinstatement fee with eighty dollars to spare.
 
-My left wrist still carries a pale pink seam under the cuff of my dry wool sweater where the Salt Point stitches came out, and my bruised knee aches whenever the November air turns sharp. Two weeks of depositions in Rockland took care of the rest. Detective Sergeant Ward and the Knox County district attorney didn't need much persuasion once their techs pulled the mirrored boathouse audio off the Zone Four RAID drive and matched the left-handed Montblanc nib against Cole's yellow warning slip. Evelyn and Cole are sitting in separate cells without bail, and Julian's bail hearing got pushed back after the state auditor finished tallying his $2.4 million probate shortfall.
+My left wrist still carries a pale pink seam under the cuff of my dry wool sweater where the Salt Point stitches came out, and my bruised knee aches whenever the December air turns sharp. Two weeks of depositions in Rockland took care of the rest. Detective Sergeant Ward and the Knox County district attorney didn't need much persuasion once their techs pulled the mirrored boathouse audio off the Zone Four RAID drive and matched the left-handed Montblanc nib against Cole's yellow warning slip. Lydia and Cole are sitting in separate cells without bail, and Graham's bail hearing got pushed back after the state auditor finished tallying his $2.4 million probate shortfall.
 
 I didn't ask for a press quote. I gave my statement, signed the chain-of-custody logs, and drove back down Route 1 before the Boston reporters found the causeway. Even Maren Lindqvist came through clean—the state prosecutor granted her full immunity as the reporting witness, and three days ago a wooden crate of Salt Point oysters showed up on my landing with a single harbor receipt tucked under the twine: *Dock's paid. Keep your head down.*
 
@@ -90,7 +90,7 @@ Slowly, my fingers lift the corner of the glossy print.
 
 I flip the photograph over.
 
-Taped neatly to the matte backing is a high-resolution scan of a lined paper guest ledger—only a single corner of the page, cropped tight around a date stamp and a signature line.
+Taped neatly to the matte backing is a crisp black-and-white fax printout of a lined paper guest ledger—only a single corner of the page, cropped tight around a date stamp and a signature line.
 
 The date reads two days ago.
 

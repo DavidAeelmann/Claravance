@@ -73,7 +73,7 @@ To my right, beside the archway leading to the study, stands a slanted oak recep
 
 My pulse beats hard against my collarbones as I cross the flagstones.
 
-I recognize the cream, red-ruled paper from the cropped scan taped to the back of Margot's photograph. Same faded header print. Same column lines for *Date*, *Guest*, and *Room*.
+I recognize the cream, red-ruled paper from the cropped fax printout taped to the back of Margot's photograph. Same faded header print. Same column lines for *Date*, *Guest*, and *Room*.
 
 Except when I look down at the open ledger under the gray clerestory light, my breath catches in my throat.
 
@@ -87,7 +87,7 @@ And resting directly on top of the sliced binding, where the wet glue is still t
 
 Above my head, directly across the third-floor rafters where the attic corridor runs, a heavy floorboard groans under the slow, deliberate shift of a boot.
 
-Then a key turns in the upper stairwell lock, sealing me inside the hall.
+Then an iron slide bolt grates home on the upper stairwell door—and behind me on the front porch, a heavy brass padlock clanks shut across the outer storm door.
 
 ---
 
@@ -451,7 +451,7 @@ First, a woman's fitted white-and-navy *Moncler* down coat, quilted and spotless
 
 Arthur's second wife, Simone Cutler, didn't ride a snowmobile into a blizzard. Her winter coat sits dry in Hollis Greer's pickup.
 
-Beside the coat sits a heavy plastic milk crate packed tight with cross-cut paper strips—thousands of confetti-sized ribbons spilling out of a busted commercial shredder bag. I pinch two wider strips near the crate rim where the blades jammed and left half a line of print intact.
+Beside the coat sits a heavy plastic milk crate packed tight with cross-cut paper strips—thousands of confetti-sized ribbons spilling out of a busted commercial shredder bag Hollis was hauling out to dump before the study shredder jammed and forced him to burn the freshly unsealed safe folders in the hearth. I pinch two wider strips near the crate rim where the blades jammed and left half a line of print intact.
 
 `...CUTLERCOR PEDIATRIC TRIAL — AUTOPSY TRANSFER...`
 
@@ -1001,7 +1001,7 @@ Halfway along the woodshed eaves, my boot toe catches a hard, buried ridge benea
 
 I follow the buried drag trough twenty paces behind the woodshed until a low mound of rough-cut granite blocks rises out of the spruce shadows.
 
-The **Stone Icehouse** sits half-buried in the hillside, its pitched cedar-shingle roof sagging under a thick crust of old ice and wind-packed pine needles. A heavy plank door faces the woodshed, secured not by a padlock, but by a thick forged-iron bar dropped through two wall staples—the exact kind of simple gravity bar Hollis could slam shut with one gloved hand while hauling a body through a blizzard.
+The **Stone Icehouse** sits half-buried in the hillside, its pitched cedar-shingle roof sagging under a thick crust of old ice and wind-packed pine needles. Originally built in 1904 as the estate's hillside coal bunker directly atop the sub-basement's vaulted foundation tunnel, it was converted into a winter icehouse after the lodge switched to fuel oil in the seventies. A heavy plank door faces the woodshed, secured not by a padlock, but by a thick forged-iron bar dropped through two wall staples—the exact kind of simple gravity bar Hollis could slam shut with one gloved hand while hauling a body through a blizzard.
 
 I grip the cold iron bar with both hands, brace my boot against the granite sill, and heave upward until the steel clears the upper staple. Frozen condensation pops along the iron. The bar slides free with a dull metallic scrape, and I lay it silently in the snow before pulling the swollen timber door open just wide enough to slip inside.
 
@@ -1191,7 +1191,7 @@ I take two slow swallows, washing the coal grit off my tongue, then hand the ste
 
 "She flagged me," I breathe.
 
-"Right below the alert sat Margot's partner memo naming you her new primary quiet-clean field contractor," Nina says. "The second Arthur collapsed Tuesday night, I knew Margot would dispatch you before Friday's vesting deadline."
+"Right below the alert sat Margot's partner memo flagging you as her top target recruit for December's Vermont audit," Nina says. "The second Arthur collapsed Tuesday night, I knew Margot would dispatch you before Friday's vesting deadline—if I gave her the one piece of bait you couldn't walk past."
 
 "And the margin note," I say, tapping *Don't trust him.* "Why not write my name? Why not tell me where to look?"
 
@@ -1207,13 +1207,13 @@ I take two slow swallows, washing the coal grit off my tongue, then hand the ste
 
 "The same Hollis who torched your apartment in Burlington?"
 
-"I saw his right hand on the steering wheel of his pickup outside the fire six years ago," Nina says grimly. "Missing the top joint of his ring finger. And when you arrived at dusk yesterday while he was out padlocking the barn, I slipped down the dumbwaiter, sliced my page out of the lobby Guest Ledger so he wouldn't spot my margin note, and glued the Room 4 brass tag over the tear so you'd find the Icehouse map I left in the radiator."
+"I saw his right hand on the steering wheel of his pickup outside the fire six years ago," Nina says grimly. "Missing the top joint of his ring finger. I wrote *Don't trust him* in the corner of my Tuesday check-in page, pushed a fax over the kitchen phone jack before dawn—right before Hollis ripped the line out—and flipped the ledger sheet back under the blotter so he wouldn't see it. When you arrived at dusk yesterday while he was out padlocking the barn, I slipped down the dumbwaiter, sliced my page out, and glued the Room 4 brass tag over the tear so you'd find the Icehouse map I left in the radiator."
 
 ***
 
 Downstairs, two stories below our feet, a heavy timber door slams hard against the Great Hall frame—Hollis coming back inside from the burning icehouse, shouting something muffled at Simone over the crackle of the intercom.
 
-Nina doesn't flinch. Her gaze stays locked on the folded **three-page Survivorship Covenant** I've laid beside the Guest Ledger sheet on the blanket between us, along with the wrapped crystal brandy stopper and the half-charred silver rescue-spray canister from Simone's vanity.
+Nina doesn't flinch. She tucks my folded Guest Ledger sheet and the charred voucher corner safely inside the Caretaker's Ledger, then locks her gaze on the **three-page Survivorship Covenant**, the wrapped crystal brandy stopper, and the half-charred silver rescue-spray canister on the blanket between us.
 
 "I just saw Arthur's body under the rock salt in the icehouse," I tell her, keeping my voice low enough that it barely carries past the copper pipe. "Thin socks, swollen gout toe, blue fingernails. And Simone is holed up in the West Wing right now, burning the remaining *CutlerCor* blister packs over a porcelain bowl—right before she torched the icehouse gable thinking I was still inside."
 
@@ -1383,7 +1383,7 @@ Hollis's jaw goes rigid, the muscle bunching beneath his gray stubble. He stares
 
 "I barred the door and heard her inside!" Simone shoots back, stepping backward toward the study archway. "I lit the shingles myself! If she got out, it wasn't through the front!"
 
-"She's still inside the house," Margot interrupts, dropping the Iridium chip back onto the lectern and snapping her leather briefcase latches open with two sharp metallic clicks. "And I don't care which closet she's hiding in, as long as she doesn't walk out with the wrong book."
+"She's still inside the house," Margot interrupts, dropping the Iridium chip and her silver key-fob uplink token onto the lectern and snapping her leather briefcase latches open with two sharp metallic clicks. "And I don't care which closet she's hiding in, as long as she doesn't walk out with the wrong book."
 
 Hollis spits again, narrowing his eyes. "You didn't drive four hours in a blizzard just to lecture us about an auditor, Miss Kiefer-Hall."
 
@@ -1511,7 +1511,7 @@ My wrists are numb where the double nylon ratchets bite into my wool cuffs.
 
 Cold radiates up through the Great Hall flagstones into my knees, sharp enough to make my teeth ache. A thin trickle of blood from my scraped temple dries sticky against my jaw, tasting faintly of copper and hearth dust. Behind me, the black iron poker hisses softly as its hooked tip settles deeper into the glowing birch coals.
 
-Hollis stands two paces back, the twelve-gauge pump shotgun balanced across his forearm. His scarred right hand rests near the trigger guard, stained dark with soot and wintergreen spit.
+Hollis stands two paces back, the twelve-gauge double-barreled shotgun balanced across his forearm. His scarred right hand rests near the trigger guard, stained dark with soot and wintergreen spit.
 
 Across the hearth, Margot Kiefer-Hall sits slumped in the worn leather armchair, white nylon rope cutting deep into the camel hair sleeves of her coat. A plum bruise swells along her left cheekbone, yet her eyes stay fixed on the dark archway leading toward the pantry—the same direction I came from before Simone blindsided me with the brass desk weight.
 
@@ -1633,7 +1633,7 @@ I twist my right wrist awkwardly behind my back, wedge the steel handle against 
 
 Beside me, Margot coughs violently into her camel hair collar, straining against the white nylon rope around her elbows. "Tessa—"
 
-"Stay down behind the leather wing," I whisper, scooping up the cracked **Iridium satellite burst-transceiver**, Margot's silver uplink fob, and my keys off the wet apron and shoving them deep into my right coat pocket. My split index finger stings sharply against the cold metal keys, and my bruised knees ache against the wet stone flags as I leave the sodden yellow legal pad behind in the wet gray birch ash.
+"Stay down behind the leather wing," I whisper, scooping my **steel multi-tool**, the cracked **Iridium satellite burst-transceiver**, Margot's silver uplink fob, and my keys off the wet apron. Before shoving them deep into my right coat pocket, I jam my thumb hard onto the silver fob's recessed panic button—holding it down until a single faint amber LED blinks once through the soot, firing a blind SOS burst toward Boston. My split index finger stings sharply against the cold metal keys, and my bruised knees ache against the wet stone flags as I leave the sodden yellow legal pad behind in the wet gray birch ash.
 
 Margot twists her bound wrists against the white nylon rope, her voice tight against the steam. "He's got a backup revolver in his chore coat, Tessa—get out of the hall."
 
@@ -1647,7 +1647,7 @@ The wet soot catches her square across the eyes. Simone shrieks, stumbling backw
 
 "Hollis!" she screams, clawing blindly at her face as wet gray ash streaks down her turtleneck. "She's loose—she's heading for the study!"
 
-Heavy Vibram boots scrape across broken chandelier glass near the hearth. A metallic *shuck-clack* echoes through the steam as Hollis chambers a fresh buckshot shell into his twelve-gauge.
+Heavy Vibram boots scrape across broken chandelier glass near the hearth. Two crisp metallic clicks echo through the steam as Hollis snaps the breech shut on fresh buckshot shells in his twelve-gauge.
 
 ***
 
@@ -1673,9 +1673,9 @@ He catches my silhouette shifting against the frosted pantry glass and swings th
 
 I step inside his reach before the muzzle clears the island corner and swing **Arthur's weighted walnut cane** upward with every ounce of shoulder I have left.
 
-The heavy hardwood shaft catches the shotgun's wooden fore-end square against the steel magazine tube, driving the barrel skyward just as Hollis's finger jerks the trigger.
+The heavy hardwood shaft catches the shotgun's wooden fore-end square against the steel under-lug, driving the barrel skyward just as Hollis's finger jerks the trigger.
 
-The deafening blast blows three copper saucepans clean off their iron hooks overhead, raining brass and plaster dust across the stainless-steel counter and stinging my cheeks with hot grit. Before Hollis can pump the slide, I bring the brass-handled cane down across the **wooden shotgun stock** where it meets his hip—once, twice—cracking the walnut grip clean through at the wrist pin against the oak pantry doorjamb.
+The deafening blast blows three copper saucepans clean off their iron hooks overhead, raining brass and plaster dust across the stainless-steel counter and stinging my cheeks with hot grit. Before Hollis can break the breech, I bring the brass-handled cane down across the **wooden shotgun stock** where it meets his hip—once, twice—cracking the walnut grip clean through at the wrist pin against the oak pantry doorjamb.
 
 Hollis grunts hard as the splintered stock tears out of his scarred right hand, sending the jammed barrel clattering across the kitchen flagstones. He lunges blindly with his left fist, catching the edge of my wool collar before I twist free, kick the heavy butcher-block stool across his shins, and slam the pantry door shut between us.
 
@@ -1697,17 +1697,17 @@ I shove the heavy oak flour chest sideways across the pantry door to buy us a fe
 
 Heavy boots slam twice against the pantry door behind us, splintering the pine latch housing. Metal scrapes against oak as Hollis jams a pry-bar or his revolver butt into the frame, his voice muffled and hoarse through the thick timber.
 
-Before the door gives way, three rapid **gunshots** crack across the snowbound forecourt—sharp revolver reports fired into the air, followed instantly by the high, frantic roar of a heavy diesel engine redlining in low gear.
+Before the door gives way, three rapid **gunshots** crack across the snowbound forecourt—panicked revolver rounds fired straight through the front porch sidelights toward the shadows moving inside the hall, followed instantly by the high, frantic roar of a heavy diesel engine redlining in low gear.
 
 I yank the frosted pantry window shutter open an inch and look out across the moonlit drift. Freezing wind needles my eyes, carrying the sour bite of unburned exhaust.
 
-**Deputy Enoch Pike** is inside the cab of his idling county plow truck, wheeling the massive yellow blade wildly across the iced turnaround after hearing the shotgun blasts inside the lodge. His amber roof strobe sweeps erratically across the black spruce walls.
+**Deputy Enoch Pike** leaps back into the cab of his idling county plow truck, wheeling the massive yellow blade wildly across the iced turnaround after hearing the shotgun blasts inside the lodge. His amber roof strobe sweeps erratically across the black spruce walls.
 
 "He's panicking," Nina breathes beside my shoulder, gripping the edge of the pantry shelf. "He thinks Hollis is cleaning house and he's next on the list."
 
-Pike slams the heavy snowplow truck straight into reverse, loses traction on the glazed ice sheet beside the rear drive, and guns the throttle forward in blind terror to clear the narrow lane—ramming the steel plow wing **straight through the double timber doors of the woodshed and generator bay** beside the kitchen wing.
+Pike slams the heavy snowplow truck straight into reverse, loses traction on the glazed ice sheet beside the rear drive, and guns the throttle forward in blind terror to clear the narrow lane—ramming the steel plow wing **straight through the double timber doors of the woodshed and exterior fuel-transfer bay** beside the kitchen wing.
 
-Pine planks explode outward in a spray of splinters and torn brass hardware, exposing the spare diesel reserve tank and the snowmobiles lined along the side wall. The heavy iron padlock snaps off its staple and skitters across the snow.
+Pine planks explode outward in a spray of splinters and torn brass hardware, exposing the auxiliary red-dyed diesel reserve tank inside the shed while brushing the tail of the nearest snowmobile outside. The heavy iron padlock snaps off its staple and skitters across the snow.
 
 As the plow blade shears past the kitchen foundation, the steel corner rips clean through the **exterior copper diesel reserve line** feeding the sub-basement tank. Raw red-dyed fuel sprays sideways across the snowbank in a thick, glistening arc, hissing loudly in the subzero air as orange sparks shower off the torn iron hasp beneath Pike's spinning rear tires. An instant later, a dull blue-orange *whump* catches along the soaked pine siding, sending greasy black diesel smoke rolling toward the lodge's rear eaves. Fire races straight toward the kitchen wing.
 
@@ -1803,13 +1803,13 @@ Subzero night air hits my soot-caked lungs like crushed ice as Nina hauls me up 
 
 We collapse side by side onto the frozen rock salt beside the north granite wall. Just beyond our boots, beneath a half-melted drift of sawdust and burlap, **Arthur Cutler's** rigid silhouette lies exactly where I found him hours ago—still wearing his thin dress socks, his swollen left toe stiff under the salt crust. Greasy black diesel smoke curls upward from the brick coal chute behind us, and the smell of burning pine shingles hangs sharp over the damp salt air. Even in the dark, the contrast is brutal—scalding smoke rising from below while freezing wind cuts down through the burned-out gable vent above, turning the sweat on my collar into thin ice.
 
-"Up," I rasp, catching Nina's elbow and nudging her toward the splintered cedar rafters where the timber gable vent burned through above the door during Simone's arson attempt. "Through the vent frame—before the smoke fills the pit and chokes us out."
+"Up," I rasp, catching Nina's elbow and nudging her toward the splintered cedar rafters where the timber gable vent burned through above the door during Simone's arson attempt before the subzero sleet and thick roof snow smothered the petrol flames. "Through the vent frame—before the smoke fills the pit and chokes us out."
 
 Nina bites down hard against the pain in her side and climbs first, her laced leather boots finding purchase on the frosted granite blocks and charred timber lath. Twice a loose slate shingle slides beneath her heel, clattering back down onto the rock salt beside Arthur's corpse. She squeezes through the jagged **icehouse roof vent** opening into the open drift, gasping softly as she hits the crusted snow outside, then turns back to grip my wool collar and haul me clear of the soot-blackened beams.
 
 We drop knee-deep into crusted powder behind the kitchen wing. Frost immediately stiffens my wet coat sleeves, and the sudden subzero wind cuts straight through the sweat on my neck. Behind us, the stone icehouse vents thick gray coal smoke into the pine canopy like a broken chimney.
 
-Ahead across the snowbound forecourt, the **woodshed and generator bay** behind the kitchen wing are a roaring torch of orange diesel flame, sending thick black smoke billowing across the white spruce canopy. Sparks whirl upward into the freezing dark like red insects. The fire has already jumped the eaves onto the rear kitchen roof, turning the frosted upper rafters orange. Further down the drive, Deputy Pike's county snowplow sits nose-deep in the frozen ditch, its amber roof strobe still sweeping uselessly across empty snow—and Pike himself nowhere in sight near the cab, probably scrambling down the logging road on foot to save his own neck.
+Ahead across the snowbound forecourt, the **woodshed and exterior fuel-transfer bay** behind the kitchen wing are a roaring torch of orange diesel flame, sending thick black smoke billowing across the white spruce canopy. Sparks whirl upward into the freezing dark like red insects. The fire has already jumped the eaves onto the rear kitchen roof, turning the frosted upper rafters orange. Further down the drive, Deputy Pike's county snowplow sits nose-deep in the frozen ditch, its amber roof strobe still sweeping uselessly across empty snow—and Pike himself nowhere in sight near the cab, probably scrambling down the logging road on foot to save his own neck.
 
 Near the front porch steps, the headlights of **Margot's black armored SUV** flare abruptly to life, cutting twin white beams through the drifting ash. Heavy studded snow tires crunch softly as the suspension settles under someone's weight.
 
@@ -1955,7 +1955,7 @@ Margot drops to her knees beside the SUV fender, coughing hard into the freezing
 
 Through the dense black spruce corridor below us, twin **blue-and-red strobe bars** flash sharply against the snow-laden boughs, climbing steadily up the unplowed grade behind a heavy county plow blade. Diesel sirens echo faintly off the granite ledges, followed by the deep air-horn blast of a pumper truck rounding the lower switchback.
 
-State police cruisers and county fire rigs—drawn up the ridge by the towering column of diesel smoke visible from the state highway, Pike's abandoned county plow strobe, and the abrupt dead-man cutoff of Margot's Boston satellite tracker.
+State police cruisers and county fire rigs—drawn up the ridge by the towering column of diesel smoke visible from the state highway, Pike's abandoned county plow strobe, and the emergency SOS burst I triggered off Margot's silver uplink fob.
 
 Nina slides her cold hand into mine, her knuckles raw from the brick chute yet steady against my split finger. Behind us, Hollis slumps silent against the forged iron spear, while Simone stares blankly at the burning timber gables. Snowflakes hiss softly against the cooling hood of Margot's disabled SUV, and the scent of pine smoke drifts down from the woodshed.
 

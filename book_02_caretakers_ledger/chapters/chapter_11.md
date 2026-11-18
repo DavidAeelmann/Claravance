@@ -34,7 +34,7 @@ Halfway along the woodshed eaves, my boot toe catches a hard, buried ridge benea
 
 I follow the buried drag trough twenty paces behind the woodshed until a low mound of rough-cut granite blocks rises out of the spruce shadows.
 
-The **Stone Icehouse** sits half-buried in the hillside, its pitched cedar-shingle roof sagging under a thick crust of old ice and wind-packed pine needles. A heavy plank door faces the woodshed, secured not by a padlock, but by a thick forged-iron bar dropped through two wall staples—the exact kind of simple gravity bar Hollis could slam shut with one gloved hand while hauling a body through a blizzard.
+The **Stone Icehouse** sits half-buried in the hillside, its pitched cedar-shingle roof sagging under a thick crust of old ice and wind-packed pine needles. Originally built in 1904 as the estate's hillside coal bunker directly atop the sub-basement's vaulted foundation tunnel, it was converted into a winter icehouse after the lodge switched to fuel oil in the seventies. A heavy plank door faces the woodshed, secured not by a padlock, but by a thick forged-iron bar dropped through two wall staples—the exact kind of simple gravity bar Hollis could slam shut with one gloved hand while hauling a body through a blizzard.
 
 I grip the cold iron bar with both hands, brace my boot against the granite sill, and heave upward until the steel clears the upper staple. Frozen condensation pops along the iron. The bar slides free with a dull metallic scrape, and I lay it silently in the snow before pulling the swollen timber door open just wide enough to slip inside.
 

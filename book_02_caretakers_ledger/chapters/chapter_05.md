@@ -58,7 +58,7 @@ First, a woman's fitted white-and-navy *Moncler* down coat, quilted and spotless
 
 Arthur's second wife, Simone Cutler, didn't ride a snowmobile into a blizzard. Her winter coat sits dry in Hollis Greer's pickup.
 
-Beside the coat sits a heavy plastic milk crate packed tight with cross-cut paper strips—thousands of confetti-sized ribbons spilling out of a busted commercial shredder bag. I pinch two wider strips near the crate rim where the blades jammed and left half a line of print intact.
+Beside the coat sits a heavy plastic milk crate packed tight with cross-cut paper strips—thousands of confetti-sized ribbons spilling out of a busted commercial shredder bag Hollis was hauling out to dump before the study shredder jammed and forced him to burn the freshly unsealed safe folders in the hearth. I pinch two wider strips near the crate rim where the blades jammed and left half a line of print intact.
 
 `...CUTLERCOR PEDIATRIC TRIAL — AUTOPSY TRANSFER...`
 

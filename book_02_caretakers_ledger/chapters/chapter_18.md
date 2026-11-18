@@ -14,7 +14,7 @@ I twist my right wrist awkwardly behind my back, wedge the steel handle against 
 
 Beside me, Margot coughs violently into her camel hair collar, straining against the white nylon rope around her elbows. "Tessa—"
 
-"Stay down behind the leather wing," I whisper, scooping up the cracked **Iridium satellite burst-transceiver**, Margot's silver uplink fob, and my keys off the wet apron and shoving them deep into my right coat pocket. My split index finger stings sharply against the cold metal keys, and my bruised knees ache against the wet stone flags as I leave the sodden yellow legal pad behind in the wet gray birch ash.
+"Stay down behind the leather wing," I whisper, scooping my **steel multi-tool**, the cracked **Iridium satellite burst-transceiver**, Margot's silver uplink fob, and my keys off the wet apron. Before shoving them deep into my right coat pocket, I jam my thumb hard onto the silver fob's recessed panic button—holding it down until a single faint amber LED blinks once through the soot, firing a blind SOS burst toward Boston. My split index finger stings sharply against the cold metal keys, and my bruised knees ache against the wet stone flags as I leave the sodden yellow legal pad behind in the wet gray birch ash.
 
 Margot twists her bound wrists against the white nylon rope, her voice tight against the steam. "He's got a backup revolver in his chore coat, Tessa—get out of the hall."
 
@@ -28,7 +28,7 @@ The wet soot catches her square across the eyes. Simone shrieks, stumbling backw
 
 "Hollis!" she screams, clawing blindly at her face as wet gray ash streaks down her turtleneck. "She's loose—she's heading for the study!"
 
-Heavy Vibram boots scrape across broken chandelier glass near the hearth. A metallic *shuck-clack* echoes through the steam as Hollis chambers a fresh buckshot shell into his twelve-gauge.
+Heavy Vibram boots scrape across broken chandelier glass near the hearth. Two crisp metallic clicks echo through the steam as Hollis snaps the breech shut on fresh buckshot shells in his twelve-gauge.
 
 ***
 
@@ -54,9 +54,9 @@ He catches my silhouette shifting against the frosted pantry glass and swings th
 
 I step inside his reach before the muzzle clears the island corner and swing **Arthur's weighted walnut cane** upward with every ounce of shoulder I have left.
 
-The heavy hardwood shaft catches the shotgun's wooden fore-end square against the steel magazine tube, driving the barrel skyward just as Hollis's finger jerks the trigger.
+The heavy hardwood shaft catches the shotgun's wooden fore-end square against the steel under-lug, driving the barrel skyward just as Hollis's finger jerks the trigger.
 
-The deafening blast blows three copper saucepans clean off their iron hooks overhead, raining brass and plaster dust across the stainless-steel counter and stinging my cheeks with hot grit. Before Hollis can pump the slide, I bring the brass-handled cane down across the **wooden shotgun stock** where it meets his hip—once, twice—cracking the walnut grip clean through at the wrist pin against the oak pantry doorjamb.
+The deafening blast blows three copper saucepans clean off their iron hooks overhead, raining brass and plaster dust across the stainless-steel counter and stinging my cheeks with hot grit. Before Hollis can break the breech, I bring the brass-handled cane down across the **wooden shotgun stock** where it meets his hip—once, twice—cracking the walnut grip clean through at the wrist pin against the oak pantry doorjamb.
 
 Hollis grunts hard as the splintered stock tears out of his scarred right hand, sending the jammed barrel clattering across the kitchen flagstones. He lunges blindly with his left fist, catching the edge of my wool collar before I twist free, kick the heavy butcher-block stool across his shins, and slam the pantry door shut between us.
 
@@ -78,16 +78,16 @@ I shove the heavy oak flour chest sideways across the pantry door to buy us a fe
 
 Heavy boots slam twice against the pantry door behind us, splintering the pine latch housing. Metal scrapes against oak as Hollis jams a pry-bar or his revolver butt into the frame, his voice muffled and hoarse through the thick timber.
 
-Before the door gives way, three rapid **gunshots** crack across the snowbound forecourt—sharp revolver reports fired into the air, followed instantly by the high, frantic roar of a heavy diesel engine redlining in low gear.
+Before the door gives way, three rapid **gunshots** crack across the snowbound forecourt—panicked revolver rounds fired straight through the front porch sidelights toward the shadows moving inside the hall, followed instantly by the high, frantic roar of a heavy diesel engine redlining in low gear.
 
 I yank the frosted pantry window shutter open an inch and look out across the moonlit drift. Freezing wind needles my eyes, carrying the sour bite of unburned exhaust.
 
-**Deputy Enoch Pike** is inside the cab of his idling county plow truck, wheeling the massive yellow blade wildly across the iced turnaround after hearing the shotgun blasts inside the lodge. His amber roof strobe sweeps erratically across the black spruce walls.
+**Deputy Enoch Pike** leaps back into the cab of his idling county plow truck, wheeling the massive yellow blade wildly across the iced turnaround after hearing the shotgun blasts inside the lodge. His amber roof strobe sweeps erratically across the black spruce walls.
 
 "He's panicking," Nina breathes beside my shoulder, gripping the edge of the pantry shelf. "He thinks Hollis is cleaning house and he's next on the list."
 
-Pike slams the heavy snowplow truck straight into reverse, loses traction on the glazed ice sheet beside the rear drive, and guns the throttle forward in blind terror to clear the narrow lane—ramming the steel plow wing **straight through the double timber doors of the woodshed and generator bay** beside the kitchen wing.
+Pike slams the heavy snowplow truck straight into reverse, loses traction on the glazed ice sheet beside the rear drive, and guns the throttle forward in blind terror to clear the narrow lane—ramming the steel plow wing **straight through the double timber doors of the woodshed and exterior fuel-transfer bay** beside the kitchen wing.
 
-Pine planks explode outward in a spray of splinters and torn brass hardware, exposing the spare diesel reserve tank and the snowmobiles lined along the side wall. The heavy iron padlock snaps off its staple and skitters across the snow.
+Pine planks explode outward in a spray of splinters and torn brass hardware, exposing the auxiliary red-dyed diesel reserve tank inside the shed while brushing the tail of the nearest snowmobile outside. The heavy iron padlock snaps off its staple and skitters across the snow.
 
 As the plow blade shears past the kitchen foundation, the steel corner rips clean through the **exterior copper diesel reserve line** feeding the sub-basement tank. Raw red-dyed fuel sprays sideways across the snowbank in a thick, glistening arc, hissing loudly in the subzero air as orange sparks shower off the torn iron hasp beneath Pike's spinning rear tires. An instant later, a dull blue-orange *whump* catches along the soaked pine siding, sending greasy black diesel smoke rolling toward the lodge's rear eaves. Fire races straight toward the kitchen wing.

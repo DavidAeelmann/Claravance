@@ -48,7 +48,7 @@ I take two slow swallows, washing the coal grit off my tongue, then hand the ste
 
 "She flagged me," I breathe.
 
-"Right below the alert sat Margot's partner memo naming you her new primary quiet-clean field contractor," Nina says. "The second Arthur collapsed Tuesday night, I knew Margot would dispatch you before Friday's vesting deadline."
+"Right below the alert sat Margot's partner memo flagging you as her top target recruit for December's Vermont audit," Nina says. "The second Arthur collapsed Tuesday night, I knew Margot would dispatch you before Friday's vesting deadline—if I gave her the one piece of bait you couldn't walk past."
 
 "And the margin note," I say, tapping *Don't trust him.* "Why not write my name? Why not tell me where to look?"
 
@@ -64,13 +64,13 @@ I take two slow swallows, washing the coal grit off my tongue, then hand the ste
 
 "The same Hollis who torched your apartment in Burlington?"
 
-"I saw his right hand on the steering wheel of his pickup outside the fire six years ago," Nina says grimly. "Missing the top joint of his ring finger. And when you arrived at dusk yesterday while he was out padlocking the barn, I slipped down the dumbwaiter, sliced my page out of the lobby Guest Ledger so he wouldn't spot my margin note, and glued the Room 4 brass tag over the tear so you'd find the Icehouse map I left in the radiator."
+"I saw his right hand on the steering wheel of his pickup outside the fire six years ago," Nina says grimly. "Missing the top joint of his ring finger. I wrote *Don't trust him* in the corner of my Tuesday check-in page, pushed a fax over the kitchen phone jack before dawn—right before Hollis ripped the line out—and flipped the ledger sheet back under the blotter so he wouldn't see it. When you arrived at dusk yesterday while he was out padlocking the barn, I slipped down the dumbwaiter, sliced my page out, and glued the Room 4 brass tag over the tear so you'd find the Icehouse map I left in the radiator."
 
 ***
 
 Downstairs, two stories below our feet, a heavy timber door slams hard against the Great Hall frame—Hollis coming back inside from the burning icehouse, shouting something muffled at Simone over the crackle of the intercom.
 
-Nina doesn't flinch. Her gaze stays locked on the folded **three-page Survivorship Covenant** I've laid beside the Guest Ledger sheet on the blanket between us, along with the wrapped crystal brandy stopper and the half-charred silver rescue-spray canister from Simone's vanity.
+Nina doesn't flinch. She tucks my folded Guest Ledger sheet and the charred voucher corner safely inside the Caretaker's Ledger, then locks her gaze on the **three-page Survivorship Covenant**, the wrapped crystal brandy stopper, and the half-charred silver rescue-spray canister on the blanket between us.
 
 "I just saw Arthur's body under the rock salt in the icehouse," I tell her, keeping my voice low enough that it barely carries past the copper pipe. "Thin socks, swollen gout toe, blue fingernails. And Simone is holed up in the West Wing right now, burning the remaining *CutlerCor* blister packs over a porcelain bowl—right before she torched the icehouse gable thinking I was still inside."
 
