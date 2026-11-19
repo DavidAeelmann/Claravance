@@ -1,99 +1,193 @@
 # Chapter 4
 
-By noon, the supply truck from Rockland drops twenty flat-packed wardrobe cartons inside the timber gate, forcing Graham to drive his Audi down the gravel lane to haul them back up to the house.
+Around noon, the supply truck from Rockland drops twenty flat-packed wardrobe cartons inside the timber gate, so Graham has to take the Audi down the lane to haul them back up.
 
-I watch his taillights vanish into the spruce trees from the sunroom window, then immediately open the shared spreadsheet on my laptop to log the first row—*Sunroom, hand-knotted wool rug, charcoal gray, fair condition*—just in case he checks timestamps remotely from his phone. Doing the boring clerk work keeps me safe. If I look like a slow, methodical archivist logging cushions and brass floor lamps, Graham stays relaxed.
+From the sunroom window I watch his taillights disappear into the spruce. Then I open the shared spreadsheet on my laptop and type the first line—*Sunroom, hand-knotted wool rug, charcoal gray, fair condition*—in case he checks edit timestamps from his phone. Boring work is good cover. As long as I look like a slow clerk logging lamps and throw pillows, he won't hover.
 
-The sunroom occupies the southeast corner of the glass house, jutting out over the granite cliff like a greenhouse built for winter storms. Cold gray light pours through tall panes, washing the pale cedar floorboards in flat glare. A pair of low linen armchairs faces the cove, separated by a heavy slate coffee table and a broad woven wool rug that covers most of the center floor.
+The sunroom juts out over the cliff on the southeast corner of the house, all tall glass and cold gray glare across pale cedar floorboards. Two low linen armchairs face the cove across a slate coffee table and a broad woven wool rug. Below the bluff, the fog has thinned into damp shreds curling around the pilings of Maren Lindqvist's shack, though her skiff is gone. Just the empty wooden dock and wet stacks of wire traps.
 
-My boots squeak softly as I cross to the linen armchair to check its upholstery tag for a maker's stamp. Down on the cove mudflats, the fog has thinned to damp ribbons curling around the pilings of Maren Lindqvist's shack, though her skiff isn't moored out front anymore. Just the empty wooden dock and stacks of wire traps gleaming wetly in the mist.
+*Two fingers.* I kneel to shoot the maker's tag under the first armchair, my knees cracking in the quiet. *Two people? Two days till Friday?*
 
-*Two fingers.* I kneel to photograph the armchair's underside label, my knees popping in the quiet room. *Two people? Two days until Friday?*
+Either way, Maren didn't climb the bluff to say it to my face, which tells me she's scared of Graham—or scared of whoever else holds a key to that boathouse. Still, guessing wrong here costs everything. Accuse a grieving tech founder of staging his own house without ironclad proof, and my name lands on another court docket before Friday's probate petition hits a desk.
 
-Either way, Maren didn't climb up the cliff to tell me in person, which means she's either terrified of Graham or terrified of whoever else has keys to that locked boathouse. And if I'm wrong about both of them—if I accuse a grieving tech founder of staging a crime scene without ironclad proof—my name ends up on another court docket before the ink dries on Friday's probate petition.
+I log both armchairs, a blackened-steel floor lamp, and a low walnut side table holding three unread monographs on Maine intertidal flora. Their spines crack stiffly when I fan the pages for tucked receipts or margin notes. Nothing inside. Even the brass latches on the seaward French doors have been wiped clean of the salt film that coats every other piece of exterior metal on the point.
 
-I log the two linen armchairs, a blackened-steel floor lamp, and a low walnut side table holding three unread art monographs on Maine intertidal flora. Every book spine cracks slightly when I lift the covers to check for tucked receipts or handwritten margin notes—clean pages, crisp corners, nothing wedged inside the bindings. Even the brass hardware on the seaward French doors looks freshly wiped down, free of the salt film that coats every exterior latch on the peninsula.
+Next is the gray wool rug. To log the weave and check for a maker's label on the backing, I have to turn up a corner—and after the wiped mudroom tray and the painted-shut studio window, I'm not taking any flat surface in this house at face value.
 
-I stand, wipe dust off my jeans, and turn to the heavy gray wool rug. To log its weave and check for a woven maker's label on the backing, I have to peel back at least one corner. And honestly, after seeing the wiped-clean mudroom tray and the painted-shut studio window, I don't trust any flat surface in this house until I've looked underneath it.
+I grab the thick bound edge nearest the wall and haul back.
 
-I hook both hands under the thick bound edge nearest the baseboard and haul back.
+It's heavier than it looks, dense and stiff-backed, dragging across the planks while dust swirls up in the gray light.
 
-The wool is heavier than it looks—dense, stiff-backed, dragging grudgingly across the floorboards. Dust motes swirl up into the pale light from the windows.
+Bleach hits my nose first, cutting straight through the salt air, right underneath the oily sweetness of fresh boiled linseed oil.
 
-I freeze on my knees, breathing through my nose. Sharp sodium hypochlorite cuts straight through the salt air, layered under the sweet-nutty reek of fresh boiled linseed oil.
+I lean in over the bare boards. Most of the floor has weathered to honey-amber under coastal sun, except for a jagged patch along the baseboard where the grain is stripped pale and rough—scrubbed hard with a wire brush and bleach, then rubbed over with linseed oil to dull the chalky scar.
 
-I lean closer to the bare planks. Most of the sunroom floor has weathered to a warm honey-amber under decades of coastal sun. Along a broad jagged patch beside the baseboard, the wood grain looks stripped and bone-pale, its fibers raised where someone scrubbed with a wire brush and household bleach, then rubbed raw linseed oil over the scar to hide the chalky fade.
+Heavy wool traps fumes, so smell alone won't date it. Still, boiled linseed oil cures hard in a few days, and bleach sharp enough to sting your nose under dense backing isn't nineteen days old. Somebody scrubbed this wood recently.
 
-A heavy wool rug traps fumes and slows evaporation, so smell alone won't give me a timestamp. Still, boiled linseed oil cures hard on open wood within days, and sharp bleach caught under that dense backing wasn't from October fourteenth. Someone scrubbed this floor recently—though guessing isn't proof, and I need something solid before I call it.
+I glance up at the ceiling corners—just standard glass-break sensors wired along the upper mullions, no cameras—and take three tight shots of the bleached fibers and oily sheen.
 
-I pull my phone out, check the ceiling corners for cameras—just the standard glass-break sensors wired along the upper mullions—and snap three tight close-ups of the bleached grain and the oily sheen catching the window light.
+When I brush my bare fingertips across the pale patch, the wood still has a faint tack to it. Not wet enough to come off on my skin, just enough drag to show the oil hasn't finished curing.
 
-Then I run my bare fingertips lightly across the pale wood near the baseboard. Still faintly tacky. Not wet enough to stain my skin, just enough drag to prove the oil hasn't finished curing.
-
-Right above the bleached patch, the baseboard trim sits a hairline proud of the plaster drywall—warped slightly, or pried loose with a flat bar and tapped back without resetting the finishing nails.
+Right above the scar, the baseboard sits a hairline proud of the drywall, like someone pried it back with a flat bar and tapped it home without resetting the nails.
 
 ***
 
-The crunch of tires on wet gravel outside makes me drop the wool rug corner flat just as Graham's Audi noses back into the turnaround.
+Tires crunch on wet gravel outside. I let the rug corner drop flat just as the Audi noses back into the turnaround.
 
-I scramble upright, smoothing my sweater down, and cross to the slate coffee table with my clipboard held conspicuously against my forearm. By the time the front latch clicks and Graham's heavy boots thud onto the mudroom tray, I'm kneeling beside the second armchair, clicking my pen loudly as I jot down *Armchair #2 — minor sun fade on west arm*.
+By the time the front latch clicks and Graham's boots thump onto the mudroom tray, I'm kneeling beside the second armchair with my clipboard tucked under my arm, writing *Armchair #2 — minor sun fade on west arm* as if I've been at it for twenty minutes.
 
-"Cartons are in the foyer," Graham calls from the kitchen archway. He sounds slightly winded from hauling flattened cardboard in from the rain. "Take a break whenever you want lunch. There's sourdough and turkey in the fridge."
+"Cartons are in the foyer," he calls from the kitchen arch, slightly winded from hauling cardboard in from the rain. "Take a break whenever you want lunch. There's sourdough and turkey in the fridge."
 
-"I'm fine for another hour," I call back, keeping my tone clipped and bored. "Just finishing the sunroom textiles before I start on the master closet."
+"I'm good for another hour," I call back. "Just finishing the sunroom before I start the master closet."
 
-Footsteps pause near the maple table, then head back toward the kitchen sink. Water runs briefly, followed by the soft clink of glass and the hum of the hallway stairs creaking under his weight as he climbs to the second floor.
+His footsteps pause near the maple table, then move toward the kitchen sink. Water runs, a glass clinks, and a moment later the stairs creak under his weight as he heads up to the second floor.
 
-I wait until an upstairs door shuts solidly overhead.
+I wait until an upstairs door clicks shut overhead.
 
-Then I stand, cross to the hallway threshold to verify the foyer is clear, and catch sight of the mudroom tray again on my way back. That wiped-clean empty half beside Graham's duck boots keeps nagging at me. Someone scrubbed this floor recently and threw the heaviest wool rug in the house over the scar—either Graham hiding a cleanup, or someone else who didn't expect a fraud auditor to recognize boiled linseed oil on timber.
+I step to the hallway arch to check that the main floor is empty. Through the vestibule doorway, that wiped-clean empty half of the mudroom tray sits right beside Graham's duck boots. Somebody scrubbed the sunroom planks and dropped the heaviest rug in the house over the mess—either Graham hiding a cleanup, or someone else who didn't figure an estate packer would know what fresh linseed oil looks like on cedar.
 
-I walk back into the sunroom, pull the heavy wool rug back wider—dragging the coffee table leg aside so the scarred patch lies bare—and crouch along the baseboard.
+Back in the sunroom, I drag the coffee table leg aside and fold the wool rug back farther so the whole scarred patch is open.
 
-The paint along the top edge of the trim isn't cracked. Instead, two finishing nails near the corner sit raised just enough for a fingernail to catch the heads, as if someone pried the board out slightly to wipe liquid that had seeped under the molding, then tapped the wood back flush with the heel of a shoe.
+The paint along the top of the baseboard isn't cracked, just two finishing nails near the corner standing proud enough to catch a fingernail—like someone pried the molding out to wipe liquid that had run underneath, then kicked it back into place with the heel of a shoe.
 
-I wedge my thumbnail into the gap behind the baseboard and pull. Dry plaster dust sifts onto the bleached wood. Inside the dark slot between drywall and trim, something metallic glints dully.
+I hook my thumbnail behind the lip and pull. Dry plaster dust sifts onto the pale boards. Down inside the dark gap between wood and drywall, something dull catches the light.
 
-I reach into my jeans pocket for my small steel multi-tool, flip out the flathead driver, and slide the tip carefully under the baseboard lip without scraping the paint. If I leave pry marks on Graham's woodwork, my cover dies before five o'clock, and I'm back in Portland staring at an eviction notice with a fresh lawsuit attached.
+I pull my pocket multi-tool out, flip open the flathead driver, and ease the tip behind the molding without biting the paint. Leave a gouge in Graham's woodwork and my cover dies before five o'clock, leaving me back in Portland with a fresh lawsuit stapled to my eviction notice.
 
-I lever the trim out just enough to hook the metal glint with the screwdriver tip and drag it forward across the planks.
+I lever the trim out just far enough to hook the edge of whatever is down there and drag it out onto the floor.
 
-It drops onto the pale floorboards with a dull, heavy *tink*.
+It hits the planks with a heavy *tink*.
 
-A rusted brass mortise key, old teeth darkened with verdigris along the grooves, tied to a faded red plastic tag with a frayed cotton string. Someone stamped four characters into the metal bow with a manual punch: **B-4**.
+A rusted brass mortise key, verdigris crusted into the teeth, tied to a faded red plastic tag by frayed cotton string. Someone punched **B-4** into the metal bow.
 
-I stare at it sitting in the middle of the bleached patch. Even the grease along the key's collar looks smudged, like someone handled it with wet or gloved fingers before it slipped down behind the trim.
+I stare at it lying in the middle of the bleached patch. Even the grease around the collar looks smeared, as if wet or gloved fingers fumbled it before it dropped behind the trim.
 
-*Basement Zone 4*—the acoustic darkroom Graham said ran an automatic electronic breach alert. Why hide a rusted mortise key to it behind a freshly bleached baseboard?
+*Basement Zone 4*—the acoustic darkroom Graham swore ran an automatic electronic breach alert. Why is a rusted mortise key to a defense vault hiding behind a freshly bleached baseboard?
 
 ***
 
-I don't pick the key up with bare fingers. Instead, I pull a clean square of acid-free tissue from the sample pack Graham gave me that morning, wrap the brass bow carefully, and slip it into the inside breast pocket of my waxed jacket.
+I don't touch it with bare skin. I pull a square of acid-free tissue from the sample pack Graham left me this morning, fold it around the brass bow, and keep it cupped in my hand while I study the corner where it fell. Graham wouldn't leave his own basement key behind a five-minute pry job under a rug he knew I had to inspect. Either somebody else dropped it while scrubbing this floor—or he left it there to see what I'd do.
 
-Before I drop the wool rug back over the scarred wood, I study the corner where the key fell out. Graham wouldn't abandon his own basement key behind a five-minute pry job under a rug he knew I'd move. Either someone else lost it scrubbing this floor—or he left it there for me to find.
+I push the rug back down flat, set the coffee table leg right back into its carpet dents, and walk out to the main hall.
 
-I push the heavy wool rug back down flat against the cedar, line the coffee table leg back into its exact carpet indentation, and step out into the mudroom to grab my jacket off the foyer hook.
+The glass walls suddenly feel way too close. Sitting in this fishbowl waiting for Graham to wander downstairs isn't going to tell me what I'm standing in the middle of. I need twenty minutes off the peninsula—enough cell signal to pull a real check on Kiefer Soundworks, a couple rolls of packing tape, and a look at Salt Point harbor in daylight where nobody is watching me through plate glass.
 
-The air in the house suddenly feels too thin to breathe. Staying inside these glass walls waiting for Graham to come back downstairs feels like sitting in a fishbowl with the lights on. I need twenty minutes off this peninsula—a cell signal strong enough to run a real background pull on Kiefer Soundworks, a hardware store run for packing tape, and a look at Salt Point harbor in daylight where nobody can watch me through plate glass.
+In the vestibule I grab my purse and car keys off the shelf, pull my waxed jacket down from the hook, and slide the tissue-wrapped key into its inside breast pocket before shrugging the coat on. The hard brass presses against my ribs through the lining.
 
-I grab my purse and car keys from the mudroom shelf, pull my waxed jacket on—feeling the hard brass key press against my ribs through the tissue—and step toward the front door. My fingers are already on the brushed-steel deadbolt when boots cross the hallway overhead.
+I'm turning back toward the front door when boots cross the floorboards overhead.
 
-"Tessa?" Graham's voice calls down from the upper landing. "Are you heading out?"
+"Tessa?" Graham calls down from the upper hall. "Heading out?"
 
-I turn slowly, keeping my hands visible at my sides so I don't look like I'm guarding my breast pocket. "Out of heavy packing tape," I call up, keeping my voice even. "And you only left two rolls of label stickers on the kitchen counter. Thought I'd hit the general store past the causeway before the fog thickens."
+I step back a pace into the archway where he can see me, letting my arms hang loose so I'm not shielding my chest. "Out of heavy packing tape," I call up. "And there were only two rolls of label stickers on the counter. Figured I'd hit the general store past the causeway before the fog closes in."
 
-Bootsteps cross the upper hall until Graham leans briefly over the oak railing, looking down at me in the foyer. His gray eyes drop straight to my jacket pocket, linger for half a beat, then lift to my face.
+Steps move along the upstairs runner until Graham leans over the oak railing, looking down into the main hall. His eyes drop straight to my jacket pocket, pause there, then come back up to my face.
 
-"I thought you were logging the master closet after lunch," he says mildly.
+"Thought you were doing the master closet after lunch," he says.
 
-"I can't box sweaters without tape."
+"Can't box sweaters without tape."
 
-He holds my gaze, his fingers drumming once against the rail. "Don't take the coastal road past the lobster pound," he says pleasantly. "Road crew's patching a culvert washout. Stay on the main harbor route, and keep your receipt—I'll reimburse supplies on Friday."
+He looks down at me without answering right away, tapping his fingers once against the rail. "Skip the coastal road past the lobster pound," he says. "County crew's patching a culvert washout. Take the main harbor route, and keep your receipt—I'll reimburse supplies Friday."
 
 "Will do."
 
-I pull the heavy black door open and step out onto the porch. Salt wind cuts across the landing, carrying the distant clang of the breakwater buoy. My Civic sits parked beside Graham's dark Audi, battered and small against the wet spruce line. I fish my manual key from my jeans pocket, unlock the driver's door with a stiff click, and slide behind the wheel.
+I turn into the vestibule, pull the heavy black door open, and step out onto the porch. Salt wind cuts across the landing, carrying the flat clang of the breakwater buoy. My Civic sits beside Graham's dark Audi, small and rusted against the wet spruces. I unlock the door and slide behind the wheel.
 
-Just before I twist the ignition, I glance once at the tall glass panes of the second-floor master bedroom.
+Before I turn the key, I glance up at the tall glass panes of the second-floor master bedroom.
 
-He hasn't gone back to his desk. He's standing right at the window, watching me unlock my door, one hand resting flat against the glass while gray fog curls around the roof eaves behind him.
+He didn't go back inside. He's standing right at the glass with one palm pressed flat against it, watching my car while gray fog curls under the eaves behind him.# Chapter 4
+
+Around noon, the supply truck from Rockland drops twenty flat-packed wardrobe cartons inside the timber gate, so Graham has to take the Audi down the lane to haul them back up.
+
+From the sunroom window I watch his taillights disappear into the spruce. Then I open the shared spreadsheet on my laptop and type the first line—*Sunroom, hand-knotted wool rug, charcoal gray, fair condition*—in case he checks edit timestamps from his phone. Boring work is good cover. As long as I look like a slow clerk logging lamps and throw pillows, he won't hover.
+
+The sunroom juts out over the cliff on the southeast corner of the house, all tall glass and cold gray glare across pale cedar floorboards. Two low linen armchairs face the cove across a slate coffee table and a broad woven wool rug. Below the bluff, the fog has thinned into damp shreds curling around the pilings of Maren Lindqvist's shack, though her skiff is gone. Just the empty wooden dock and wet stacks of wire traps.
+
+*Two fingers.* I kneel to shoot the maker's tag under the first armchair, my knees cracking in the quiet. *Two people? Two days till Friday?*
+
+Either way, Maren didn't climb the bluff to say it to my face, which tells me she's scared of Graham—or scared of whoever else holds a key to that boathouse. Still, guessing wrong here costs everything. Accuse a grieving tech founder of staging his own house without ironclad proof, and my name lands on another court docket before Friday's probate petition hits a desk.
+
+I log both armchairs, a blackened-steel floor lamp, and a low walnut side table holding three unread monographs on Maine intertidal flora. Their spines crack stiffly when I fan the pages for tucked receipts or margin notes. Nothing inside. Even the brass latches on the seaward French doors have been wiped clean of the salt film that coats every other piece of exterior metal on the point.
+
+Next is the gray wool rug. To log the weave and check for a maker's label on the backing, I have to turn up a corner—and after the wiped mudroom tray and the painted-shut studio window, I'm not taking any flat surface in this house at face value.
+
+I grab the thick bound edge nearest the wall and haul back.
+
+It's heavier than it looks, dense and stiff-backed, dragging across the planks while dust swirls up in the gray light.
+
+Bleach hits my nose first, cutting straight through the salt air, right underneath the oily sweetness of fresh boiled linseed oil.
+
+I lean in over the bare boards. Most of the floor has weathered to honey-amber under coastal sun, except for a jagged patch along the baseboard where the grain is stripped pale and rough—scrubbed hard with a wire brush and bleach, then rubbed over with linseed oil to dull the chalky scar.
+
+Heavy wool traps fumes, so smell alone won't date it. Still, boiled linseed oil cures hard in a few days, and bleach sharp enough to sting your nose under dense backing isn't nineteen days old. Somebody scrubbed this wood recently.
+
+I glance up at the ceiling corners—just standard glass-break sensors wired along the upper mullions, no cameras—and take three tight shots of the bleached fibers and oily sheen.
+
+When I brush my bare fingertips across the pale patch, the wood still has a faint tack to it. Not wet enough to come off on my skin, just enough drag to show the oil hasn't finished curing.
+
+Right above the scar, the baseboard sits a hairline proud of the drywall, like someone pried it back with a flat bar and tapped it home without resetting the nails.
+
+***
+
+Tires crunch on wet gravel outside. I let the rug corner drop flat just as the Audi noses back into the turnaround.
+
+By the time the front latch clicks and Graham's boots thump onto the mudroom tray, I'm kneeling beside the second armchair with my clipboard tucked under my arm, writing *Armchair #2 — minor sun fade on west arm* as if I've been at it for twenty minutes.
+
+"Cartons are in the foyer," he calls from the kitchen arch, slightly winded from hauling cardboard in from the rain. "Take a break whenever you want lunch. There's sourdough and turkey in the fridge."
+
+"I'm good for another hour," I call back. "Just finishing the sunroom before I start the master closet."
+
+His footsteps pause near the maple table, then move toward the kitchen sink. Water runs, a glass clinks, and a moment later the stairs creak under his weight as he heads up to the second floor.
+
+I wait until an upstairs door clicks shut overhead.
+
+I step to the hallway arch to check that the main floor is empty. Through the vestibule doorway, that wiped-clean empty half of the mudroom tray sits right beside Graham's duck boots. Somebody scrubbed the sunroom planks and dropped the heaviest rug in the house over the mess—either Graham hiding a cleanup, or someone else who didn't figure an estate packer would know what fresh linseed oil looks like on cedar.
+
+Back in the sunroom, I drag the coffee table leg aside and fold the wool rug back farther so the whole scarred patch is open.
+
+The paint along the top of the baseboard isn't cracked, just two finishing nails near the corner standing proud enough to catch a fingernail—like someone pried the molding out to wipe liquid that had run underneath, then kicked it back into place with the heel of a shoe.
+
+I hook my thumbnail behind the lip and pull. Dry plaster dust sifts onto the pale boards. Down inside the dark gap between wood and drywall, something dull catches the light.
+
+I pull my pocket multi-tool out, flip open the flathead driver, and ease the tip behind the molding without biting the paint. Leave a gouge in Graham's woodwork and my cover dies before five o'clock, leaving me back in Portland with a fresh lawsuit stapled to my eviction notice.
+
+I lever the trim out just far enough to hook the edge of whatever is down there and drag it out onto the floor.
+
+It hits the planks with a heavy *tink*.
+
+A rusted brass mortise key, verdigris crusted into the teeth, tied to a faded red plastic tag by frayed cotton string. Someone punched **B-4** into the metal bow.
+
+I stare at it lying in the middle of the bleached patch. Even the grease around the collar looks smeared, as if wet or gloved fingers fumbled it before it dropped behind the trim.
+
+*Basement Zone 4*—the acoustic darkroom Graham swore ran an automatic electronic breach alert. Why is a rusted mortise key to a defense vault hiding behind a freshly bleached baseboard?
+
+***
+
+I don't touch it with bare skin. I pull a square of acid-free tissue from the sample pack Graham left me this morning, fold it around the brass bow, and keep it cupped in my hand while I study the corner where it fell. Graham wouldn't leave his own basement key behind a five-minute pry job under a rug he knew I had to inspect. Either somebody else dropped it while scrubbing this floor—or he left it there to see what I'd do.
+
+I push the rug back down flat, set the coffee table leg right back into its carpet dents, and walk out to the main hall.
+
+The glass walls suddenly feel way too close. Sitting in this fishbowl waiting for Graham to wander downstairs isn't going to tell me what I'm standing in the middle of. I need twenty minutes off the peninsula—enough cell signal to pull a real check on Kiefer Soundworks, a couple rolls of packing tape, and a look at Salt Point harbor in daylight where nobody is watching me through plate glass.
+
+In the vestibule I grab my purse and car keys off the shelf, pull my waxed jacket down from the hook, and slide the tissue-wrapped key into its inside breast pocket before shrugging the coat on. The hard brass presses against my ribs through the lining.
+
+I'm turning back toward the front door when boots cross the floorboards overhead.
+
+"Tessa?" Graham calls down from the upper hall. "Heading out?"
+
+I step back a pace into the archway where he can see me, letting my arms hang loose so I'm not shielding my chest. "Out of heavy packing tape," I call up. "And there were only two rolls of label stickers on the counter. Figured I'd hit the general store past the causeway before the fog closes in."
+
+Steps move along the upstairs runner until Graham leans over the oak railing, looking down into the main hall. His eyes drop straight to my jacket pocket, pause there, then come back up to my face.
+
+"Thought you were doing the master closet after lunch," he says.
+
+"Can't box sweaters without tape."
+
+He looks down at me without answering right away, tapping his fingers once against the rail. "Skip the coastal road past the lobster pound," he says. "County crew's patching a culvert washout. Take the main harbor route, and keep your receipt—I'll reimburse supplies Friday."
+
+"Will do."
+
+I turn into the vestibule, pull the heavy black door open, and step out onto the porch. Salt wind cuts across the landing, carrying the flat clang of the breakwater buoy. My Civic sits beside Graham's dark Audi, small and rusted against the wet spruces. I unlock the door and slide behind the wheel.
+
+Before I turn the key, I glance up at the tall glass panes of the second-floor master bedroom.
+
+He didn't go back inside. He's standing right at the glass with one palm pressed flat against it, watching my car while gray fog curls under the eaves behind him.
