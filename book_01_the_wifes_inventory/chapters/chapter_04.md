@@ -8,11 +8,11 @@ The sunroom juts out over the cliff on the southeast corner of the house, all ta
 
 *Two fingers.* I kneel to shoot the maker's tag under the first armchair, my knees cracking in the quiet. *Two people? Two days till Friday?*
 
-Either way, Maren didn't climb the bluff to say it to my face, which tells me she's scared of Graham—or scared of whoever else holds a key to that boathouse. Still, guessing wrong here costs everything. Accuse a grieving tech founder of staging his own house without ironclad proof, and my name lands on another court docket before Friday's probate petition hits a desk.
+Whatever she meant, she hadn't risked climbing the bluff to say it out loud—which told me she was scared of Graham, or scared of whoever else carried a key to that boathouse. Guessing wrong here would bury me. Accuse a grieving tech founder of staging his own house without ironclad proof, and my name lands on another court docket before Friday's probate petition hits a desk.
 
 I log both armchairs, a blackened-steel floor lamp, and a low walnut side table holding three unread monographs on Maine intertidal flora. Their spines crack stiffly when I fan the pages for tucked receipts or margin notes. Nothing inside. Even the brass latches on the seaward French doors have been wiped clean of the salt film that coats every other piece of exterior metal on the point.
 
-Next is the gray wool rug. To log the weave and check for a maker's label on the backing, I have to turn up a corner—and after the wiped mudroom tray and the painted-shut studio window, I'm not taking any flat surface in this house at face value.
+Next is the gray wool rug. To log the weave and check for a maker's label on the backing, I have to turn up a corner. After last night, I'm not taking any flat surface in this house at face value.
 
 I grab the thick bound edge nearest the wall and haul back.
 
@@ -44,7 +44,7 @@ His footsteps pause near the maple table, then move toward the kitchen sink. Wat
 
 I wait until an upstairs door clicks shut overhead.
 
-I step to the hallway arch to check that the main floor is empty. Through the vestibule doorway, that wiped-clean empty half of the mudroom tray sits right beside Graham's duck boots. Somebody scrubbed the sunroom planks and dropped the heaviest rug in the house over the mess—either Graham hiding a cleanup, or someone else who didn't figure an estate packer would know what fresh linseed oil looks like on cedar.
+I step to the hallway arch to check that the main floor is empty. Through the vestibule doorway, that wiped-clean empty half of the mudroom tray sits right beside Graham's duck boots. Somebody had scrubbed the sunroom planks and dropped the heaviest rug in the house over the scar—and whoever did it hadn't counted on an estate packer knowing what fresh linseed oil looks like on cedar.
 
 Back in the sunroom, I drag the coffee table leg aside and fold the wool rug back farther so the whole scarred patch is open.
 
@@ -52,7 +52,7 @@ The paint along the top of the baseboard isn't cracked, just two finishing nails
 
 I hook my thumbnail behind the lip and pull. Dry plaster dust sifts onto the pale boards. Down inside the dark gap between wood and drywall, something dull catches the light.
 
-I pull my pocket multi-tool out, flip open the flathead driver, and ease the tip behind the molding without biting the paint. Leave a gouge in Graham's woodwork and my cover dies before five o'clock, leaving me back in Portland with a fresh lawsuit stapled to my eviction notice.
+I pull my pocket multi-tool out, flip open the flathead driver, and ease the tip behind the molding without biting the paint. Leave a gouge in Graham's woodwork and my cover dies before five o'clock, sending me back to Portland with a fresh lawsuit stapled to my eviction notice.
 
 I lever the trim out just far enough to hook the edge of whatever is down there and drag it out onto the floor.
 
@@ -66,11 +66,11 @@ I stare at it lying in the middle of the bleached patch. Even the grease around 
 
 ***
 
-I don't touch it with bare skin. I pull a square of acid-free tissue from the sample pack Graham left me this morning, fold it around the brass bow, and keep it cupped in my hand while I study the corner where it fell. Graham wouldn't leave his own basement key behind a five-minute pry job under a rug he knew I had to inspect. Either somebody else dropped it while scrubbing this floor—or he left it there to see what I'd do.
+I don't touch it with bare skin. I pull a square of acid-free tissue from the sample pack Graham left me this morning, fold it around the brass bow, and keep it cupped in my hand while I study the corner where it fell. Graham wouldn't leave his own basement key behind a five-minute pry job under a rug he knew I had to inspect. Someone else had fumbled it while scrubbing this floor—unless he planted it there just to see what I'd do.
 
 I push the rug back down flat, set the coffee table leg right back into its carpet dents, and walk out to the main hall.
 
-The glass walls suddenly feel way too close. Sitting in this fishbowl waiting for Graham to wander downstairs isn't going to tell me what I'm standing in the middle of. I need twenty minutes off the peninsula—enough cell signal to pull a real check on Kiefer Soundworks, a couple rolls of packing tape, and a look at Salt Point harbor in daylight where nobody is watching me through plate glass.
+The glass walls suddenly feel like a specimen jar, every pane throwing my own reflection back at me while the house stays dead quiet overhead. Sitting in this fishbowl waiting for Graham to wander downstairs isn't going to tell me what I'm standing in the middle of. I need twenty minutes off the peninsula—enough cell signal to pull a real check on Kiefer Soundworks, a couple rolls of packing tape, and a look at Salt Point harbor in daylight where nobody is watching me through plate glass.
 
 In the vestibule I grab my purse and car keys off the shelf, pull my waxed jacket down from the hook, and slide the tissue-wrapped key into its inside breast pocket before shrugging the coat on. The hard brass presses against my ribs through the lining.
 

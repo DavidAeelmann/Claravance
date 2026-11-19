@@ -12,15 +12,15 @@ I stand in the main hall in my wool socks, watching him pause inside the front v
 
 "Not going anywhere."
 
-The second his taillights clear the timber gate and the barrier clunks shut, the house drops back into its daytime noise—the crawlspace dehumidifier rumbling underfoot, wind ticking spruce needles against the ocean glass. Half the day alone. No Graham leaning over the island, no keyboard clacking from his study across the north hall.
+The second his taillights clear the timber gate and the barrier clunks shut, the house settles back into its daytime noise—the crawlspace dehumidifier rumbling underfoot, wind ticking spruce needles against the ocean glass. Half the day alone, without Graham hovering by the island or his keyboard clacking across the north hall.
 
-The relief wears off fast. Yesterday I had until Friday to finish this ledger, take my remaining ten grand, and get back to Portland before anybody dug into my Harbor Mutual file. Now I'm down a day, a left-handed county deputy knows my plates, and someone went through my duffel while I was buying packing tape.
+The relief wears off fast. Yesterday I had until Friday to finish this ledger, take my remaining ten grand, and get back to Portland before anybody dug into my Harbor Mutual file. Now I'm down a day, a left-handed county deputy knows my plates, and somebody already rifled my duffel while I was buying tape.
 
 Before I touch a single sweater upstairs, I walk over to the floating oak stairs.
 
 I crack the unlocked cedar stairwell door an inch and look down the concrete steps at the heavy steel fire door of Basement Zone 4. Under its matte brass mortise knob, a tiny LED set into the steel frame glows steady red—armed and hardwired into the Kiefer Soundworks security hub. Even with the rusted B-4 key sitting inside my waxed jacket on the vestibule hook, shoving old brass into that cylinder right now trips a breach alert straight to Portland and Graham's phone.
 
-I crouch by the gap and listen. Nothing moves behind the insulated door. Still, during last night's power drop, the wall tablet by the pantry flashed **PERIMETER BYPASS ACTIVE** before Graham wiped the screen. If I'm getting down there before Thursday night, I need to figure out how someone bypassed that room without touching the deadbolt.
+I crouch by the gap and listen. Dead quiet behind the insulated steel. Yet during last night's blackout, the pantry tablet flashed **PERIMETER BYPASS ACTIVE** before Graham swiped it clear. Someone found a way into that room without touching the deadbolt.
 
 I shut the cedar door, grab two flat wardrobe cartons, a roll of clear tape, and my clipboard from the pile in the hall, and head upstairs to the master suite.
 
@@ -32,11 +32,11 @@ I drop my cartons outside the walk-in closet, pull a pair of thin nitrile gloves
 
 Two walls of structured wool coats, silk blouses, and ankle boots hang spaced neat on wooden hangers, with half a dozen round hatboxes and three velvet jewelry trays lining the back shelf. I spend the next couple of hours moving steady so my cloud timestamps look right, snapping photos and logging anything over five hundred onto my clipboard: a camel cashmere trench, two pairs of Italian riding boots, a Cartier tank watch with a dead battery in the top velvet tray. I even pull down two of the hatboxes—light, packed only with silk scarves and cedar sachets—and set them back into their faint dust rings.
 
-Every drawer in the center island glides out on oiled tracks. Folded scarves, leather driving gloves, a silver-backed hairbrush with three dark strands still caught in the bristles. In the top velvet tray sits a platinum wedding band next to a pair of pearl studs—the kind of ring a woman doesn't usually leave behind unless she pulled it off before climbing into a skiff, or wanted people to think she did. Whoever packed that olive weekender downstairs in the coat closet cleared out her everyday essentials long before I showed up, leaving the expensive props probate lawyers expect to see.
+Every drawer in the center island glides out on oiled tracks. Folded scarves, leather driving gloves, a silver-backed hairbrush with three dark strands still caught in the bristles. In the top velvet tray, a platinum wedding band rests beside a pair of pearl studs—the kind of ring a woman rarely takes off by accident. Her everyday things are gone, packed into that olive weekender downstairs, leaving behind only the expensive pieces probate lawyers expect to see.
 
 Then I look down at the bottom shoe rack.
 
-All of Lydia's boots—tall suede, riding leather, rubber rain boots—stand heel-to-toe along the cedar slats. At the far right end beside the baseboard, a clean rectangular patch sits empty on the wood, just wide enough for a pair of winter duck boots. The same pair missing from the wiped mudroom tray downstairs.
+All of Lydia's boots—tall suede, riding leather, rubber rain boots—stand heel-to-toe along the cedar slats. At the far right end beside the baseboard, a clean rectangular patch sits empty on the wood, just wide enough for winter duck boots. The missing half of the mudroom tray downstairs.
 
 I crouch, snap a quick shot of the empty space, and head into the master bath.
 
@@ -52,7 +52,7 @@ Two glass shelves of ordinary clutter: moisturizers, prescription retinol, half 
 
 Ambien.
 
-I turn the vial toward the frosted window. Written by an internist in Rockland, zero refills. People with coastal migraines don't get thirty heavy sleep pills unless they're having trouble staying down at night—or wanted something strong right before a trip.
+I turn the vial toward the frosted window. Written by an internist in Rockland, zero refills. Heavy sleep meds, filled a week and a half before she walked down to a skiff in the dark.
 
 I pop the cap and tip the tablets into my gloved palm, counting twice.
 
@@ -66,7 +66,7 @@ I pull my pocket multi-tool out, unfold the pliers, and kneel under the vanity. 
 
 Holding a folded paper towel underneath the elbow, I crack the brass slip-nut loose. A thimbleful of stale gray water drips onto the paper, followed by a damp smear of white crystalline paste caked inside the lower curve of the pipe.
 
-I stare at the chalky smear on my glove. Could be scouring powder, could be mineral buildup—no lab, no proof. Except nobody scrubs a spotless vanity drain with cleanser and leaves paste packed in the elbow. Somebody crushed pills here to see if they'd vanish without clouding a glass.
+I stare at the chalky smear on my glove. Without a lab, it could be scouring powder or mineral buildup—except nobody scrubs a spotless vanity drain and leaves wet paste packed in the bend. Somebody flushed something down this pipe, and the timing makes those ten missing tablets hard to ignore.
 
 I dig a spare nitrile glove and a folded square of heavy foil out of my pocket, scrape a clean dab of the white paste onto the foil, tuck it inside one finger of the spare glove, and knot it shut before shoving it deep into my jeans.
 
@@ -82,7 +82,7 @@ A gray banner sits on the lock screen:
 
 **BACK DECK / PANTRY PERIMETER — MOTION DETECTED**
 
-Graham is ninety miles south in Portland. I'm supposed to be alone on this peninsula for hours yet.
+Graham is in Portland. I'm supposed to be alone on this peninsula for hours yet.
 
 I tap the banner and pull up the live guest feed.
 
@@ -90,20 +90,20 @@ The grainy wide-angle lens looks across the rain-slicked back deck at the glass 
 
 Deputy Cole Halstead.
 
-No full county slicker today—just a dark navy patrol windbreaker with the collar flipped up against the drizzle. No cruiser headlights glow in the turnaround, so he either parked down the gravel lane out of sight or hiked up from the cove trail. Either way, he skipped the front bell and stayed clear of the driveway gate where Graham's app would log a vehicle.
+He's wearing a dark navy patrol windbreaker instead of his county slicker, collar flipped up against the drizzle. No cruiser headlights show in the turnaround—he must have left the rig down the gravel lane or hiked up from the cove trail, staying clear of the driveway gate where Graham's app would log a vehicle.
 
 I watch him check his wristwatch, glance once over his shoulder at the empty deck stairs, and lift his left hand to the lit keypad.
 
-No hesitation, no fumbling. He punches six digits straight into the brass buttons.
+He doesn't even pause. He punches six digits straight into the brass buttons.
 
 A green LED flashes on the housing, and the door swings inward smoothly when he leans into the handle.
 
-Night one, Graham swore the porch keypad rotates codes every two days. Last night he told me Halstead never even set foot inside the house. Yet here is a county deputy walking straight into the kitchen on a live code while Graham is in Portland—no warrant, no backup, no knock.
+A rotating code Graham swore changed every forty-eight hours. A deputy he claimed never stepped inside. Now Halstead is walking straight into the kitchen while Graham's ninety miles south, without so much as knocking.
 
 Halstead steps inside and pulls the glass door shut behind him. The video feed stutters once, then drops to a gray **FEED INTERRUPTED** box.
 
-I tighten the brass slip-nut under the vanity with two quick turns, wipe every drop of water off the slate floor with the damp paper towel, and peel the nitrile gloves off. Shoving them into my pocket beside my multi-tool, I slip out into the upper hall. Staying trapped up here in the master suite means either getting cornered at the top of the stairs or letting Halstead walk straight back out before I find out what he's doing in Graham's kitchen.
+I tighten the brass slip-nut under the vanity with two quick turns, wipe every drop of water off the slate floor with the damp paper towel, and peel the nitrile gloves off. Shoving them into my pocket beside my multi-tool, I slip out into the upper hall. Stay up here, and I'm trapped at the top of a single staircase—or worse, he walks back out before I find out what he came for.
 
-Half my brain is screaming to grab my duffel, run for the Civic, and let Boston deal with this rotten house. Except walking out before Thursday triggers a fifty-thousand-dollar breach clause I can't pay.
+Every instinct tells me to grab my duffel, run for the Civic, and let Boston deal with this rotten house. Except walking out before Thursday triggers a fifty-thousand-dollar breach clause I can't pay.
 
 I take the narrow back service stairs in my socks, hugging the plaster wall where the treads stay quiet, and stop dead two steps above the bottom landing as the steel door of the kitchen breaker box clicks open right around the corner.

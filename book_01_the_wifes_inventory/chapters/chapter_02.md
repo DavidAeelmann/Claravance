@@ -16,15 +16,15 @@ He doesn't argue. He just leans against the archway trim and watches me haul my 
 
 First left, like he said. Small, spare, painted the color of wet chalk. A narrow iron bed sits under a high casement window facing the spruces instead of the water, which feels like a minor mercy until I shut the door and twist the lock. Zero resistance in the bolt—a cheap privacy turn-latch anyone with a butter knife or a credit card could pop in three seconds.
 
-I drop my bag onto the luggage rack, check the lining thread I hooked across the zipper teeth downstairs—still intact—and pull my laptop from the side sleeve. The room smells of mothballs and radiator dust, like nobody has put a guest in here for years.
+I drop my bag onto the luggage rack, check the lining thread I hooked across the zipper teeth downstairs—still intact—and pull my laptop from the side sleeve. Mothballs and stale radiator dust hang in the cold air, like nobody has slept in here for years.
 
-The mattress barely gives when I sit. Through my boots, that same low dehumidifier hum vibrates up through the floor.
+The mattress barely gives when I sit.
 
-I stare at the closed door for a long minute and try to talk myself into going to sleep. Six years ago, my younger sister Nina vanished out of northern Vermont, and the county sheriff closed the binder in three weeks because nobody bothered pushing past the neat version of events. Out here, a fifty-thousand-dollar gag clause sits over my head if Graham catches me poking where I shouldn't—except a dead woman's packed bag is sitting downstairs with a ferry stub stamped three days after she drowned.
+I stare at the closed door for a long minute and try to talk myself into going to sleep. That's what a smart contractor does—takes the five grand, keeps her head down, and doesn't ask why a dead woman's packed bag is sitting downstairs with a ferry stub stamped three days after she drowned. Except the quiet in this room has the same flat, suffocating weight as a Vermont sheriff's office six years ago, watching a deputy close my sister Nina's binder in three weeks because nobody wanted to push past the neat version of events.
 
-Jammed behind his winter coats, zipper strained over packed clothes, that little padlock hanging open. If she grabbed a weekender to outrun a bad marriage or a storm, why bring it back to Salt Point on October seventeenth with the ferry stub still looped to the handle?
+A fifty-thousand-dollar gag clause sits over my head if Graham catches me poking around. I open the laptop anyway.
 
-I open the laptop anyway. Next to Graham's sterile fifty-row spreadsheet, I start an offline encrypted note on my hard drive and type four lines:
+Next to Graham's sterile fifty-row spreadsheet, I start an offline encrypted note on my hard drive and type four lines:
 
 *1. Porch deck: fresh linseed/sealer smell, planks dry.*
 
@@ -34,13 +34,11 @@ I open the laptop anyway. Next to Graham's sterile fifty-row spreadsheet, I star
 
 *4. Bar Harbor–Yarmouth Slip 4 ferry stub: OCT 17 (Drowning reported Oct 14, 11:30 PM).*
 
-The radiator under the window ticks loud enough to make me jump. If Graham staged a drowning to bury a marriage or rush probate, leaving an October seventeenth ferry tag tied to the grip is sloppy work for a guy who lines envelopes up with table grain.
-
-Unless someone else dropped that bag back in the house after the seventeenth—and Graham shoved it behind his coats because he didn't know who was watching the drive.
+The radiator under the window ticks loud enough to make me jump. Leaving an October seventeenth ferry tag tied to the grip is sloppy work for a man who lines envelopes up with table grain—unless Graham wasn't the one who brought that bag back to the house, and he only shoved it behind his coats because he didn't know who was watching the drive.
 
 Across the north hall, the study door shuts softly. Footsteps cross the wood inside, then a desk chair scrapes back.
 
-I pull off my wet boots, dig thick wool socks out of my bag, and shove my phone and the brass house key into my jeans pocket. My hands are still cold. Feeling slightly stupid—and very awake—I ease the cheap privacy bolt back.
+I pull off my wet boots, dig thick wool socks out of my bag, and slip my phone and the brass house key into my jeans pocket. My hands are still cold. Feeling slightly stupid—and very awake—I ease the cheap privacy bolt back.
 
 ***
 
@@ -48,27 +46,27 @@ A gray wool runner covers the north hall, soaking up my footsteps. Light leaks o
 
 I hug the drywall where the floorboards stay quiet, slip past his door to the main staircase, and take the steps slowly to the upper landing. At the far end of the upstairs hall, double doors stand cracked open.
 
-Lydia's studio smells nothing like the rest of the house. Under the lemon polish from downstairs, turpentine and old gesso hang in the cold air. Pale moonlight comes through a tall seaward sash window, catching stacks of stretched canvases turned face-inward against the wall.
+Lydia's studio is cold, sharp with turpentine and old gesso under the faint lemon polish drifting up from downstairs. Pale moonlight comes through a tall seaward sash window, catching stacks of stretched canvases turned face-inward against the wall.
 
 I step inside and ease the heavy door nearly shut, leaving a crack so I'll hear if Graham's keyboard quits downstairs. No overhead switch. I pull my phone out, drop the screen brightness to the bottom, and use the faint blue glow to get my bearings.
 
-Three oak flat-files hug the north wall, drawers pushed shut. On the worktable, a dozen sable brushes sit bristles-up in a glass jar, their metal ferrules catching my dim screen—not a crust of dried paint on any of them. Next to the jar, the white ceramic palette has been scoured so hard the glaze looks cloudy. Either Lydia stopped to bleach her tools before walking into an October squall, or someone cleaned up after her.
+Three oak flat-files hug the north wall, drawers pushed shut. On the worktable, a dozen sable brushes sit bristles-up in a glass jar, their metal ferrules catching my dim screen—not a crust of dried paint on any of them. Next to the jar, the white ceramic palette has been scoured so hard the glaze looks cloudy. Nobody stops to bleach their tools before walking out into an October squall.
 
 I crouch by the flat-files and ease the top drawer out an inch, holding my breath against the drag of wood. Watercolor sheets lie stacked inside, each labeled in neat ink: *Rosa rugosa — Salt Point, Aug 2026.* *Laminaria — Cove Breakwater, Sept 2026.* Every date stops in September, every label slanting up to the right.
 
-Tucked under glassine interleaving lies a folded marine chart of Penobscot Bay, penciled tick marks tracing low-water depths and boulder shoals along the Salt Point breakwater. Nothing odd for someone who ran a skiff—except the folds are razor-sharp, barely handled, smelling faintly of printer toner instead of salt air.
+Tucked under glassine interleaving lies a folded marine chart of Penobscot Bay, penciled tick marks tracing low-water depths and boulder shoals along the Salt Point breakwater. Normal enough for someone who ran a skiff, except the folds are razor-sharp, barely handled, smelling faintly of printer toner instead of salt air.
 
 I push the drawer shut. Across from the table, tin watercolor pans sit lined up by pigment temperature without a thumbprint on the enamel lids, and the cotton rag draped over the brass lamp neck feels stiff and unused, straight out of a package.
 
-The room feels close despite the chill, which reminds me of a throwaway line from Graham's broker's intake sheet: Lydia hated central air and kept her studio window cracked even in October storms so the turpentine wouldn't set off migraines.
+The air in here feels close despite the chill, which brings back a throwaway line from the broker's intake sheet: Lydia hated central air and kept her studio window cracked even in October storms so the turpentine wouldn't set off migraines.
 
 I step around the easel and push up on the painted wooden sash overlooking the cove.
 
 It doesn't budge.
 
-I tilt my phone light down into the track. Fresh white semi-gloss paint bridges the seam between sash and frame, cured solid without a single pry mark. Nobody cracked this window in October. Either the broker was working off stale notes, or somebody painted the sash shut after Lydia vanished—to kill a draft, or hide tool marks on the sill.
+I tilt my phone light down into the track. Fresh white semi-gloss paint bridges the seam between sash and frame, cured solid without a single pry mark. Nobody cracked this window in October. Somebody painted it shut after Lydia vanished—to kill a draft, or to bury tool marks on the sill.
 
-I wipe my palms on my jeans and turn back to the walnut desk.
+I wipe my damp palms on my jeans and turn back to the walnut desk.
 
 ***
 
@@ -76,11 +74,11 @@ A thick green leather blotter covers the middle of the desktop. Centered on it l
 
 Leave a fountain pen uncapped on a blotter and the feed dries into a gummy crust within days. Someone laid it out like a prop, or dropped it running.
 
-I keep my fingers off the barrel. Old Harbor Mutual reflex—touch a scene before you shoot it, and defense counsel eats you alive over smeared prints. I kill the flash and snap two tight shots of the desk layout: the sketchbook, the paperweight, the angle of the pen, the ink lines on the pad. If Graham walks in tomorrow and claims something moved, I want to know whether I slipped up or someone rearranged the room behind me.
+I keep my fingers off the barrel. Old Harbor Mutual reflex—touch a scene before you shoot it, and defense counsel eats you alive over smeared prints. I kill the flash and snap two tight shots of the desk layout: the sketchbook, the paperweight, the angle of the pen, the ink lines on the pad. If Graham walks in tomorrow and claims something moved, I want proof of what was already here.
 
 Then I lift the brass paperweight just enough to flip the sketchbook open by its bottom corner.
 
-Fine pencil studies of kelp fronds, barnacles, and beach peas fill the front half, Latin names penciled lightly underneath. Every stroke slopes forward, right-handed, steady through page forty. Toward the back, three blank leaves show faint pressure lines where someone sliced pages straight out along the binding with a sharp blade. Nothing torn in anger—just clean cuts so a quick glance wouldn't catch the missing thickness.
+Fine pencil studies of kelp fronds, barnacles, and beach peas fill the front half, Latin names penciled lightly underneath. Every stroke slopes forward, right-handed, steady through page forty. Toward the back, three blank leaves show faint pressure lines where someone sliced pages straight out along the binding with a sharp blade. Clean, deliberate cuts meant to pass a quick glance.
 
 I ease the cover shut and set the paperweight back on the corner, leaving it a hair off its original angle without thinking, then lean over the cream stationery pad without touching the pen beside it.
 
