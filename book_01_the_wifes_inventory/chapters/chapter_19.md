@@ -1,89 +1,89 @@
 # Chapter 19
 
-Dusk drops over Salt Point like damp plaster, turning the gale-lashed fog around the glass house the color of bruised slate.
+Dusk comes down hard over Salt Point, turning the fog around the house a flat, wet gray.
 
-I stay crouched beneath the sunroom sill until the cold starts locking the muscles in my calves. Graham is still slumped against the interior cast-iron radiator, his bruised face pale in the storm gloom, his eyes fixed on the front hall arch. He doesn't dare look back at the glass again.
+I stay crouched beneath the sunroom sill until cold starts locking up my calves. Inside, Graham is still slumped against the cast-iron radiator, his bruised face pale in the storm light, eyes glued to the front hall arch. He doesn't risk another look at the glass.
 
-Every second I wait out here on the cedar deck, Cole Halstead is walking closer up the gravel spur from the flooded causeway.
+Every minute I sit out here on the deck, Cole Halstead is getting closer up the gravel spur from the causeway.
 
-I ease backward down the deck steps, keeping my shoulders tight against the wet cedar siding as I skirt the blind north wall of the house toward the front turnaround. Rain whips sideways across the gravel. My soaked jeans chafe raw against my thighs with every step, and my waterlogged sneakers squelch softly on the pine needles.
+I back down the deck steps and hug the blind north siding all the way to the front turnaround. Rain drives sideways across the gravel. My wet jeans rub raw against my thighs, and my waterlogged sneakers squelch over pine needles.
 
-My silver 2014 Civic sits parked near the pines where I left it Tuesday evening, its trunk lid still popped slightly ajar in the mist. No cruiser sits in the driveway; Cole left his rig sideways across the causeway throat and hiked back up the ridge on foot. Even if I had a working key fob, there is nowhere left to drive.
+My silver Civic still sits by the spruces where I parked it Tuesday night, its trunk lid hovering open in the mist. No cruiser in the drive—Cole left his rig sideways across the causeway throat and hiked back up on foot. Even with a working key fob, there's nowhere left to drive.
 
-I creep onto the front porch beneath the cedar overhang, staying low under the tall glass sidelights. Wind-driven rain drums against the slate steps behind me, masking the sound of my breathing. Inside, the foyer is dark. No shadows move across the slate, and no light bleeds from the living room arch. Down the north hall, a floorboard creaks softly near Graham's study—Lydia checking the server rack, or hunting for the `RAW_BUFFER_OCT14_15` partition I copied this morning before bolting for the cove.
+I slip onto the front porch under the cedar overhang, keeping low beneath the sidelights. Rain hammers the slate steps behind me, loud enough to cover my breathing. Inside, the vestibule is dark. No movement across the floor, no light spilling from the living room arch. Down the north hall, a floorboard gives faintly near Graham's study—Lydia going through the server rack, or hunting for the raw audio I copied an hour ago before bolting for the cove.
 
-I reach into my soaked front pocket, fumble twice past the multi-tool before my dead fingertips catch the brass house key, and try to slide it into the deadbolt. My thumb and forefinger have zero pinch left; the key drops against the slate sill with a sharp metallic *tink* that freezes me on the porch. I snatch it back up with both stiff palms, clamp the bow between my knuckles, and force my shoulder behind the turn.
+My dead fingertips fumble twice past the multi-tool in my front pocket before catching the brass house key. Trying to line it up with the deadbolt, my thumb has zero pinch left; the key slips and hits the slate sill with a sharp *tink* that freezes me against the door. I scoop it up between both stiff palms, clamp the bow in my knuckles, and lean my shoulder into the turn.
 
-The brass cylinder rotates with a faint, oiled click. I hold my breath, push the heavy door inward just wide enough to slip my shoulders through, and step onto the foyer slate. My wet sneakers squeak once against the stone—too loud in the quiet hall.
+The cylinder rotates with a soft click. I hold my breath, ease the heavy door open just wide enough to squeeze through, and step into the vestibule. One wet sneaker squeaks on the stone—way too loud in the quiet hall.
 
-I freeze beside the coat closet, listening. The foyer smells faintly of Graham's lemon oil and the brackish rainwater he swabbed off the floor at dawn. Down the north hall, the guest suite door stands half-ajar; my faded navy duffel is still sitting beside the radiator with five thousand dollars in cash tucked under my spare shirts, useless if I don't survive the next hour. Nothing moves down the north corridor except the distant, steady hum of the study cooling fans.
+I stop dead beside the coat closet and listen. The entry still smells faintly of lemon oil and the brackish puddle Graham swabbed up earlier. Down the north hall, my guest room door stands half-open, my duffel sitting inside with five grand tucked under dry shirts. Nothing moves down there except the steady hum of cooling fans from the study.
 
-I tuck the rusted oyster knife firmly into the waistband of my jeans so both hands are free, then glide silently across the foyer toward the kitchen arch. On the limestone island sits the padded manila envelope from the basement—untouched, its *OCT 14 — MASTER BACKUP* stamp pale in the gray light. I leave it where it is for now; I can't climb a vertical iron shaft with a soaked manila folder tucked under my arm, and reaching the basement server to pull Lydia's live acoustic relay confession is the only play that buries both of them.
+I shove the rusted oyster knife into the waistband of my jeans so both hands are free, then cross quietly toward the kitchen arch. On the limestone island sits the padded manila envelope from the basement, its `OCT 14 — MASTER BACKUP` stamp pale in the dim storm light. I leave it where it is—I can't haul a soaked folder down a vertical iron ladder, and pulling Lydia's live boathouse confession off the cellar server is the only thing that buries both of them.
 
-Halfway across the kitchen tile, crisp footsteps tap rapidly back down the north hall. Through the doorway gap, I catch Lydia shutting the study server cabinet and tucking a small portable backup drive into her waxed-canvas jacket pocket.
+Halfway across the kitchen tile, a cabinet door clicks shut down the north hall. Through the archway gap, I catch Lydia stepping out of Graham's study and slipping a small portable backup drive into her waxed-canvas pocket.
 
-Lydia is coming out of the study.
+She's heading straight this way.
 
-I bolt the last few paces into the narrow cedar pantry corridor, yank the recessed spice-rack panel inward, and slip behind the shelving into the pitch-black dumbwaiter shaft just as a flashlight beam sweeps across the kitchen counter.
+I bolt the last few paces into the pantry corridor, pull the louvered cedar door open just enough to slip inside, and ease it shut behind me. Groping in the dark past the spice shelves I cleared last night, I yank open the unlatched back panel and drop into the dumbwaiter shaft just as a flashlight beam cuts across the kitchen counter.
 
 ***
 
-I pull the spice-rack door flush against its magnetic catch, sealing myself inside total darkness.
+I pull the hinged spice-rack panel flush against its cleat, shutting out the hall.
 
-The vertical shaft smells of dry cedar dust and machine oil, sharp with damp concrete rising from below. Violent shivering spasms hijack my shoulders while my bruised, raw left wrist flares white-hot against my wet sleeve. Up above, Lydia's footsteps pause outside the pantry corridor, then turn toward the living room.
+The shaft smells of dry cedar dust, machine oil, and cold concrete rising from below. Violent shivers tear through my shoulders while the cut across my left wrist burns against my wet cuff. Out in the kitchen, Lydia's footsteps pause near the pantry corridor, then turn toward the living room.
 
-I grope blindly until my numb forearms find the cold iron ladder rungs bolted to the masonry. Hypothermia has robbed my fingers of pinch, and my raw, abraded left wrist flares white-hot if I flex it under load. Instead of gripping the bars with my hands, I hook the crooks of both elbows over the upper iron, brace my soaked flannel back tight against the rear hemlock studs, and wedge the rubber edges of my soaked sneakers sideways against the vertical rails as I ease down four rungs below the kitchen floor joists. My waterlogged jeans drag heavy as wet canvas at my hips, threatening to pull my calves out from under me if I slip an inch.
+I feel blindly for the iron ladder bolted to the masonry. My fingers have no grip left, and flexing my slashed left wrist shoots fire straight up my forearm. Instead of trusting my hands, I hook the crooks of both elbows over the upper bars, brace my flannel back tight against the rear hemlock studs, and wedge the rubber edges of my sneakers sideways against the vertical rails as I ease down three rungs—just below the kitchen floor joists. Waterlogged denim drags heavy at my hips, threatening to pull my feet out from under me if I slip an inch.
 
-Below me, the steady muffled hum of the three basement audio servers rises up the chute. If I can drop into Zone 4, pull the live boathouse relay buffer onto my thumb drive, and slip back up—
+Below me, the muffled hum of the three basement servers rises up the chute. Drop into Zone 4, copy the live boathouse relay onto my thumb drive, climb back up—
 
-Heavy boots hit the front foyer floor overhead.
-
-Slow, heavy duty boots, followed by the metallic rattle of the front deadbolt being thrown from inside.
+Heavy boots hit the front slate overhead, followed by the rattle of the front deadbolt throwing shut from inside.
 
 Cole is back from the causeway.
 
-"She's not on the ridge road," Cole's thick coastal drawl carries down through the floor joists. "Civic's still in the turnaround with the trunk popped. She didn't clear the point, Lydie."
+"Nothing on the ridge road," his coastal drawl carries down through the joists. "Civic's still out front with the trunk popped. She didn't get off the point, Lydie."
 
-I freeze four rungs down, wedging my wet back against the rear hemlock framing and locking one trembling knee over a rung to keep my soaked weight off my injured wrist. Cold brine drips off my jeans hem into the dark void below.
+I freeze on the ladder, pinning my back against the hemlock framing and locking one trembling knee over an iron bar to take weight off my injured wrist. Cold water drips off my jeans hem into the dark below.
 
-"I'm finishing Graham's note on the tablet now—once I drop it beside his chair, check the study," Lydia snaps briskly from the kitchen, crisp heels clicking across tile. "The Portland clerk copied the two-fourteen pantry file off the tower before bolting to the cove. If she crawled back up those stairs half-drowned, she's hunting the basement drive."
+"I'm finishing Graham's note on the tablet now," Lydia says briskly from the kitchen, heels tapping across tile. "Once I drop it beside him in the sunroom, check the study. She copied the two-fourteen pantry file off the tower before she ran for the cove. If she crawled back up those cliff stairs half-drowned, she's going after the basement drive."
 
-"My wrist is bleeding through the damn gauze," Cole growls, boots thudding toward the island. "Did your father's people clear that offshore transfer yet, or am I bleeding out here on a promise?"
+"Wrist is bleeding straight through the cruiser gauze," Cole growls, boots thudding toward the island. "Did your father's people actually clear that offshore transfer, or am I bleeding out here on a promise?"
 
-"The forfeiture clause strips Graham's signature the second a state detective finds him beside the sunroom glass—and my father's courier already holds the Cayman keys," Lydia answers coolly, as if correcting a deckhand. "Take Graham's key ring off the study desk, check the basement stairs, and throw the exterior deadbolt on the steel door if she's inside. Let high water finish it."
+"The forfeiture clause strips Graham's signature the second state police find him in the sunroom, and my father's courier already holds the Cayman keys," Lydia answers, flat and impatient. "Grab Graham's key ring off the study desk, check the basement stairs, and throw the exterior deadbolt on the steel door if she's down there. Let the tide finish it."
 
-Every drip falling from my soaked jeans hem down into the concrete shaft sounds loud enough to carry through the floor joists. If Cole walks down the concrete stairs into Zone 4, he'll spot the open steel fire door in three seconds—or catch the wet darkroom floor under his Maglite beam. I can't outrun Cole's duty pistol inside a padded concrete box, and I can't climb back into the kitchen while both of them stand ten paces from the pantry door.
+Every drop falling off my jeans into the concrete well below sounds deafening. If Cole heads down the cellar steps, he'll see the open fire door Graham left unlocked this morning—or spot fresh wet tracks on the rubber mats under his flashlight. I can't outrun a duty pistol inside a padded concrete box, and I can't climb back into the kitchen while both of them stand ten feet from the pantry.
 
 ***
 
-I keep my left elbow hooked tight around the iron rung—sparing my raw, swollen wrist—brace both knees and my wet back hard against the opposite hemlock studs for leverage, and reach sideways with my scraped right hand.
+I keep my left elbow hooked tight around an iron rung, wedge both knees and my back hard against the opposite studs for leverage, and reach sideways with my scraped right hand.
 
-Just above my shoulder sits the heavy cast-iron sheave pulley bolted to the upper header, its thick braided hemp line drawn taut into the recessed side channel where the pig-iron counterweight hangs suspended above the dark cellar slab.
+Right above my shoulder sits the cast-iron sheave pulley bolted to the upper header, its braided hemp line drawn taut into the side channel where the pig-iron counterweight hangs suspended over the cellar sill.
 
-Locking the pulley's iron brake arm into the header bracket sits the removable steel cotter pin I spotted at two in the morning.
+Locking the pulley's brake arm into its bracket is the steel cotter pin I saw last night.
 
-Above me, the flush cedar door under the foyer stairs creaks open. Heavy boots pause on the top concrete landing.
+Overhead, the flush cedar door under the main stairs creaks open. Heavy boots stop on the top concrete tread.
 
-"Graham's still cuffed to the sunroom radiator?" Cole calls up from the stairwell.
+"Graham's still cuffed to the radiator?" Cole calls from the stairwell.
 
 "I checked the cuffs myself," Lydia answers from the hall. "Get down there and check the server rack. If the boathouse relay puck was live, wipe the platters."
 
-I pin my shoulders tighter against the rear timber framing so my weight hangs off my back and left forearm, jam my stiff right thumb knuckle inside the steel cotter pin's ring loop, and jerk downward with everything left in my shoulder.
+I jam my shoulders harder into the rear studs so my weight hangs off my back and left forearm, hook my stiff right thumb knuckle into the cotter pin's ring, and yank down with everything left in my shoulder.
 
-Salt rust fights for half a second. The torn skin on my right palm bites back, hot and sharp, before the steel pin pops clean out of the bracket.
+Salt rust holds for half a second. Torn skin on my palm flares hot before the steel pin pops free from the bracket.
 
-The braided hemp line screams over the overhead iron sheave pulley, throwing up a choking cloud of cedar dust. Down inside the side channel, the heavy cast-iron counterweight plummets like a guillotine and smashes straight onto the concrete sill at the bottom of the shaft.
+The braided hemp rope screams across the iron pulley, shaking loose a choking cloud of cedar dust. Inside the recessed side channel, the heavy slab of pig iron plummets straight onto the concrete sill at the bottom of the shaft.
 
 *BOOM.*
 
-The impact shakes the cedar framing around my ribs, rattling glass spice jars behind the pantry panel above and echoing like a shotgun blast up the masonry chute.
+The whole timber chase shudders around my ribs, rattling spice jars behind the pantry shelves and throwing a hollow roar straight up the masonry chute.
 
-"What the hell was that?" Cole's voice barks from the basement stairs. Heavy boots immediately thunder downward two treads at a time toward the Zone 4 steel fire door.
+"What the hell was that?" Cole barks from the stairwell. Heavy boots hammer down the concrete steps two at a time toward the Zone 4 fire door.
 
-"Cole, wait—" Lydia's crisp heels clatter across the foyer floor toward the stairwell door, drawn straight after him by the crash. She sweeps a flashlight beam once toward the kitchen arch, then follows him down the concrete steps.
+"Cole, wait—" Lydia's heels clatter across the foyer toward the basement door. A narrow flashlight beam sweeps once past the kitchen arch, then vanishes down the steps behind him.
 
-I don't wait for the fire door to slam. Coughing silently into my soaked sleeve to muffle the rust dust burning my lungs, I press my shoulder blades flat against the rear hemlock studs, drive upward one cramping thigh at a time, and hook my forearm bones over each iron bar in turn—refusing to trust numb fingers or put weight on my torn left wrist. Every rung sends a dull ache straight through my ribs. Halfway to the top sill, my wet sneaker skids off freezing iron; I clamp my knee hard against the side frame, catch the cedar lip under my chin, and shove the spice-rack panel open an inch.
+I don't wait for the steel door to bang. Coughing silently into my wet sleeve against the rust dust, I press my shoulder blades flat against the hemlock studs, drive upward one cramping thigh at a time, and hook my forearms over each rung—refusing to trust dead fingers or load my cut wrist. Halfway up, my sneaker slips off wet iron; I clamp my knee into the frame, catch the cedar sill under my chin, and shove the spice-rack panel open.
 
-Empty kitchen. Gray storm glare through the sunroom arch, catching the pale edge of the manila envelope on the island. Below the floorboards, Cole's boots slam against concrete.
+I haul myself onto the dark pantry floor, ease the louvered door open an inch, and look out.
 
-I haul myself onto the pantry floor, yank the rusted oyster knife from my waistband, and sprint silently across the tile toward the sunroom.
+Empty kitchen. Gray storm glare pours through the sunroom arch, catching the pale edge of the manila envelope on the island. Underneath the floorboards, Cole's boots hit concrete.
+
+I pull the rusted oyster knife from my waistband and sprint across the tile toward the sunroom.

@@ -1,91 +1,91 @@
 # Chapter 21
 
-Cole's heavy boots hit the kitchen tile. A bright white flashlight beam slices through the pitch-black foyer arch, sweeping across the slate floor inches behind my heels as I drag Graham silently down the north hall.
+Cole's boots hit the kitchen tile. A bright flashlight beam cuts across the black foyer arch, skimming the slate inches behind my heels as I pull Graham down the north hall.
 
-"Graham!" Cole bellows from the kitchen, his voice echoing off the cold stone. "Get out here! Think your Boston money buys you off this rock?"
+"Graham!" Cole yells from the kitchen, his voice bouncing off stone. "Get out here! Think your Boston money gets you off this rock?"
 
-I shove Graham through the open doorway of his study and pull the heavy walnut door nearly shut, leaving a narrow crack to watch the dark hall. Inside the study, the smoked-glass server rack hums steadily on its UPS battery backup, throwing a faint amber glow across the desk blotter. The room smells of warm dust and cedar shavings. Beside the keyboard, the heavy brass pipe wrench I left behind this morning still gleams dully in the amber LED light, though I don't trade the oyster knife for it; I need reach and speed, not dead weight.
+I push Graham into his study and ease the walnut door almost shut, leaving a sliver to watch the dark hall. Inside, the smoked-glass server rack hums on its UPS battery backup, throwing dull amber light across the desk blotter. The heavy brass pipe wrench I left behind this afternoon still sits beside the keyboard. I leave it there; I need speed, not dead iron.
 
-Graham leans against the doorframe, chest heaving, one hand pressed to his bruised cheekbone. "The hurricane shutters are locked onto the emergency loop. Without grid power, we can't raise them from the foyer, and the front deadbolt won't hold Cole for ten seconds if he takes a chair to the glass behind the slats."
+Graham leans hard against the wall, catching his breath with one hand pressed to his swollen cheek. "The hurricane shutters are locked on the emergency loop. Without grid power we can't raise them, and this study door won't hold Cole for ten seconds."
 
-"We're not going out through the windows," I whisper, keeping the navy canvas duffel strapped tight across my back and the rusted oyster knife gripped in my right hand. "You built an acoustic house, Graham. Use it."
+"We're not going out a window," I whisper, keeping my navy duffel strapped tight across my back and the oyster knife in my right hand. "You wired an acoustic house, Graham. Time to use it."
 
-I drop into the leather desk chair, wake the UPS-backed console monitor, and pull up the *Kiefer Soundworks* zone router. Every speaker on the ground floor is dead except the basement array—which runs off Zone 4's dedicated battery bank. Even the exterior cellular bridge is dark without main power, meaning nothing uploads out tonight until we physically hand the drives to state police. A tiny green status line confirms the hardwired boathouse relay puck's live stream already mirrored straight onto the Zone 4 RAID drive twenty minutes ago. Lydia's entire confession is sitting down there in the dark.
+I drop into the desk chair, wake the UPS-backed console, and pull up the *Kiefer Soundworks* zone router. Every upstairs speaker is dead except the basement array, which pulls off Zone 4's dedicated battery bank. The exterior cellular bridge is dark without main power too—nothing leaves this house tonight until we physically put the drives in state police hands. One small green status line at the bottom confirms the boathouse relay puck mirrored straight onto the Zone 4 RAID drive twenty minutes ago. Lydia's whole confession is sitting down there in the dark.
 
-I select `MIC_04_PANTRY_020915.wav`, set the output channel to `ZONE_4_DARKROOM_MONITORS`, and crank the gain to maximum. My thumb hovers over the trackpad, pulse hammering in my throat. If Cole hears Lydia's voice echoing from the basement, he won't check the kitchen closets—he'll charge straight down the concrete stairs to kill the playback before it can be copied again.
+I highlight `MIC_04_PANTRY_020915.wav`, route it to `ZONE_4_DARKROOM_MONITORS`, and push the gain to the stops. If Cole hears Lydia's voice blasting out of the basement, he won't go door to door upstairs—he'll charge straight down those concrete steps to kill the playback.
 
-"Hold the study door," I tell Graham, pointing toward the floor-to-ceiling walnut shelving in the corner. "When Lydia comes up the hall, get behind the shelves and stay quiet. Do not come out until I call your name."
+"Stay behind the shelves," I tell Graham, nodding toward the deep walnut stacks in the corner. "If Lydia checks this room, don't breathe, and don't come out until I call you."
 
-I hit `PLAY_LOOP`, then tap the monitor power button so the screen goes black. No amber glow to give Graham away if Lydia steps into the doorway.
+I hit `PLAY_LOOP`, then kill the monitor power so the room goes dark.
 
-Down beneath our sneakers, muffled through two layers of cedar and concrete, Lydia's recorded voice—clear, unhurried, laughing beside an oak oar—booms through the basement darkroom speakers.
+Underneath our feet, muffled through cedar and concrete, Lydia's voice—cool, dry, laughing over the squeak of a wet rag—booms through the basement speakers.
 
-Out in the foyer, Cole's flashlight beam jerks violently toward the basement stairwell door. He stops dead on the slate.
+Out in the foyer, Cole's flashlight jerks hard toward the stairwell door. His boots stop dead on the slate.
 
-"Lydie?" Cole shouts, confusion sharpening into raw panic as his own coastal drawl echoes faintly up through the floorboards beneath him. "She's back in Zone Four! She's playing the pantry tape!"
+"Lydie?" he shouts, anger cracking into panic as his own drawl echoes faintly up through the floor. "She's back in Zone Four! She's playing the pantry tape!"
 
-Heavy boots thunder across the foyer floor toward the basement stairs, taking the landing in two loud bounds.
-
-***
-
-I don't wait in the study. I slip into the dark north hall, skirt the stairwell landing while Cole's boots hammer downward into the basement, and feel my way along the cool wainscoting into the kitchen. Without a single standby LED, the room is ink-black. My hip grazes the counter corner before I find the narrow cedar doorway of the pantry corridor.
-
-Behind the recessed spice rack, the dumbwaiter shaft smells of cold concrete and machine oil, thick with settled dust from the dropped counterweight. I tuck the rusted oyster knife into my jeans waistband, grab the cold iron ladder rungs, and climb down fast into the pitch-black cellar. My raw left wrist burns against the metal, and the heavy duffel bangs awkwardly against the brick chimney chase behind my shoulders with every downward reach.
-
-Halfway down the shaft, the looped 2:14 AM WAV file swells louder—Lydia's laugh echoing off soundproofed charcoal foam, followed by Cole's heavy voice cursing as he reaches the open steel fire door of Zone 4. His flashlight beam flickers across the far darkroom wall below me, throwing long jagged shadows off the server racks.
-
-I drop softly off the bottom iron rung onto the darkroom concrete, keeping my knees bent to absorb the impact without a sound, and press my back flat against the charcoal foam panels just inside the northeast corner.
-
-Graham's acoustic dead-zone.
-
-The moment I step inside the corner angle, the sharp speaker echo from the center floor dulls into a flat, low-end rumble. Directional foam baffles and corner bass traps absorb mid-to-high frequencies and kill concrete bounce, swallowing my breathing and the rustle of my wool sweater. It isn't silent—bass still thrums against my ribs—yet it robs a hunter of clean directional cues.
-
-Across the room, Cole's flashlight beam sweeps wildly across the three humming audio servers, the drafting table, and the open *ARCHIVE* cabinet. The fallen cast-iron counterweight still rests on the cracked concrete sill beside the ladder behind him, surrounded by gray concrete dust. His left wrist is wrapped in blood-soaked gauze; in his right hand, he grips his duty pistol, turning in tight circles as he hunts the speaker throwing Lydia's voice back at him.
-
-"Shut it off!" Cole roars at the dark, swinging his beam toward the center console. He steps over the fallen monitor cable, his heavy boots kicking a loose stool sideways across the floor. "Think you can hide in your fancy sound box, you gutless little—"
-
-Footsteps clatter fast down the basement stairs behind him.
-
-Lydia bursts through the Zone 4 doorway. She lost Cole's spare Glock in the slipway water down at the cove, so she grabbed whatever iron sat closest on her way through the living room—in her right hand, she grips a heavy wrought-iron fireplace poker from the hearth.
-
-"Cole, it's a loop!" Lydia snaps, sweeping her own small penlight across the foam walls. "She's not at the console—she triggered it from upstairs!"
-
-I shift my weight slightly to draw the oyster knife from my waistband, and the brass zipper of my navy duffel scrapes faintly against the steel edge of the nearby archive rack.
-
-Lydia's penlight snaps straight toward the northeast corner.
-
-She doesn't wait for Cole to turn his pistol. She lunges across the darkroom floor, swinging the heavy wrought-iron poker in a flat, vicious arc straight at my head.
-
-I duck low into the corner angle, pulling my shoulders tight against the charcoal foam. Once I freeze clear of the steel rack, the baffling swallows my breathing and steals the echo Lydia needs to judge my distance in the dark. Her aim goes wide.
-
-The heavy iron poker whistles past my temple and smashes with a shower of blue sparks into the steel studio monitor behind me.
+Heavy boots hammer across the foyer toward the basement steps, taking the concrete landing two treads at a time.
 
 ***
 
-Glass explodes across the concrete. Cole spins blindly toward the crash, shouting Lydia's name as his flashlight beam bounces off shattered monitor glass and blinds them both for a heartbeat.
+I slip out into the dark north hall. Going straight down the stairwell behind an armed deputy is suicide—and across the black living room arch, a thin penlight flickers briefly by the fireplace hearth. Lydia is still up here. If Cole reaches that basement rack alone, he'll put a boot through the RAID drive holding Lydia's boathouse confession before anybody can stop him.
 
-I don't give Lydia a second swing. I yank the rusted oyster knife from my waistband, lunge forward under her raised arm, and slash hard across her waxed-canvas sleeve.
+While Cole's boots thunder downward, I skirt the edge of the hall into the ink-black kitchen, my hip grazing the island counter before I find the narrow pantry corridor.
 
-Lydia gasps, stumbling sideways into Cole's chest as the blade rips fabric and scores her forearm. The two of them collide in the dark, Cole's duty pistol knocking hard against the drafting table while he curses and tries to catch his balance without firing into her back.
+Behind the open spice rack, the dumbwaiter shaft smells of cold concrete and settled rust dust from the dropped counterweight. I shove the oyster knife into my waistband, find the iron rungs, and drop down fast into the dark cellar. My slashed left wrist flares against the cold metal, and the heavy duffel bangs against the masonry behind my shoulders on every rung.
 
-I spin past both of them, burst out through the open Zone 4 doorway into the basement stairwell, and grab the heavy steel fire door.
+Halfway down, the looped pantry tape swells loud—Lydia's laugh bouncing off foam, then Cole swearing as he hits the open steel fire door of Zone 4. His flashlight slices across the far wall below me, throwing long jagged shadows off the server racks.
 
-"Tessa!" Lydia screams from inside the darkroom, scrambling off the floor while Cole fires one blind, deafening shot into the charcoal foam wall behind her.
+I drop off the bottom rung onto the rubber matting, knees bent to kill the sound, and back straight into the charcoal foam wedges of the northeast corner.
 
-I throw my entire weight against the steel door. It swings fast on its heavy hinges and slams into the jamb with a bone-jarring *CLANG*—a fraction of a second after Lydia throws herself out through the gap, colliding hard against the concrete stairwell wall—leaving Cole Halstead trapped inside alone.
+Graham's dead-zone. The speaker blare drops instantly to a dull, flat thrum as the directional baffles swallow the bounce—taking my ragged breathing and the brush of my wool sweater right along with it.
 
-I yank the rusted **B-4** mortise key from my jeans pocket, jam it into the exterior brass cylinder, and throw the deadbolt home. Steel locks into steel.
+Across the floor, Cole's beam whips over the three humming servers, the drafting table, and the pried-open *ARCHIVE* cabinet. The fallen counterweight sits surrounded by concrete dust beside the ladder. Blood has soaked straight through the gauze wrapped around his left wrist; his right hand grips his duty pistol as he pivots in tight circles hunting the speaker throwing his own voice back at him.
 
-Inside Zone 4, Cole's heavy boots slam furiously against the reinforced door, his muffled shouts and the dull *thump* of his shoulder swallowed almost instantly by the charcoal foam. With his left wrist slashed open, he won't haul himself up a vertical iron shaft fast—and with the only spare B-4 key sitting warm in my pocket, he isn't coming out through that steel door until someone unlocks it from the hall.
+"Shut it off!" he roars, swinging the beam toward the console and kicking a rolling stool out of his way. "Think you can hide down here, you—"
 
-Lydia doesn't stay to fight me on the stairs. She scrambles up the concrete steps ahead of me in the dark, her breathing ragged and fast, leaving her dropped fireplace poker behind in the darkroom. One hand clamps over her bleeding forearm; the other clutches a small backup drive pulled from the study tower tucked inside her torn waxed-canvas jacket.
+Fast footsteps clatter down the concrete stairs behind him.
 
-I sprint up the stairs two at a time behind her, the heavy duffel banging hard against my ribs, my sneakers slipping once on the top landing before I shoulder the foyer basement door wide.
+Lydia bursts through the doorway, sweeping a slim penlight across the darkroom. In her right hand she grips a heavy wrought-iron fireplace poker from the living room hearth.
 
-When I burst out into the foyer, Graham is already emerging from the north hall, his eyes wide in the dark as he tries to track the commotion. Across the stone, Lydia drags the heavy cedar foyer bench with scraping legs beneath the low-slung foyer skylight hatch—the one glass roof panel in the sloping vestibule ceiling that the exterior steel hurricane shutters couldn't cover when the breaker dropped.
+"Cole, it's on a loop!" she snaps. "She's not at the desk—she triggered it upstairs!"
 
-"Stop her!" I shout, lunging across the wet floor as Graham steps forward to block the hall. His bare hands come up empty.
+I shift my weight an inch to pull the oyster knife from my waistband. The brass zipper on my duffel scrapes lightly against the steel edge of the nearby archive cabinet.
 
-Lydia doesn't look down. The cedar bench groans under her boots as she scrambles up, unlatches the brass skylight crank with blood-slick fingers, and shoves the heavy glass hatch upward into the howling gale. Freezing rain pours straight down onto the foyer floor, soaking her hair and shoulders in a heartbeat as she reaches for the slick cedar roof framing.
+Lydia's penlight snaps straight into the northeast corner.
 
-Then, high above the dark spruce trees, blue-and-red light bars flare bright through the coastal fog, painting the wet skylight glass overhead in pulsing crimson and cobalt while twin sirens cut through the roar of the Atlantic gale.
+She doesn't wait for Cole to turn his gun. She charges across the rubber mat, swinging the iron poker in a flat, vicious arc at my head.
+
+I drop straight into a crouch, freezing flat inside the corner wedges. Without concrete bounce to give her an echo in the dark, she misjudges the distance by half a foot.
+
+The poker whistles past my ear and smashes into the glass-fronted studio monitor at the edge of the worktable in a bright spray of blue sparks.
+
+***
+
+Glass bursts across the floor. Cole spins toward the flash, shouting Lydia's name as his beam reflects straight back off shattered glass and blinds them both for a split second.
+
+I don't wait for a second swing. I yank the oyster knife free, drive forward under Lydia's raised arm, and slash hard across her waxed-canvas sleeve.
+
+She gasps as the rusted edge tears fabric and opens her forearm. The fireplace poker clatters out of her hand onto the concrete as she stumbles sideways straight into Cole's chest. They tangle in the dark, Cole's pistol banging hard off the drafting table while he swears and fights to keep from shooting her in the back.
+
+I cut past both of them, sprint through the open Zone 4 doorway into the stairwell, and catch the edge of the heavy steel fire door.
+
+"Tessa!" Lydia screams behind me as Cole fires one blind, deafening shot into the charcoal foam.
+
+I throw my whole weight into the steel door. It swings fast on its hinges and slams home with a heavy *CLANG*—a split second after Lydia throws herself out through the narrowing gap and hits the concrete stairwell wall hard—trapping Cole Halstead inside alone.
+
+I dig the rusted **B-4** key out of my front pocket, jam it into the exterior cylinder, and throw the deadbolt. Steel locks into steel.
+
+Inside Zone 4, Cole's boots slam furiously against the fire door, his shouts muffled to a dull roar by the foam. With a slashed left wrist, he isn't hauling himself up a vertical iron shaft fast—and with the only spare B-4 key warm in my pocket, that door stays shut until somebody opens it from the hall.
+
+Lydia doesn't turn to fight on the stairs. She scrambles upward ahead of me in the dark, breath ragged, clamping one hand over her bleeding sleeve while clutching the small portable backup drive from the study against her ribs.
+
+I take the steps two at a time behind her, duffel slapping my back, sneakers skidding once on the top landing before I shoulder the flush cedar door open into the hall.
+
+Graham is already stepping out of the north corridor, squinting into the dark. Ahead of me, Lydia sprints into the front vestibule and drags the heavy cedar coat bench scraping across the slate right underneath the low skylight hatch.
+
+"Stop her!" I yell, lunging across the stone as Graham moves to cut her off—his empty hands reaching too late.
+
+Lydia scrambles onto the bench, unlatches the brass skylight crank with blood-slick fingers, and shoves the heavy glass hatch up into the storm. Freezing rain pours straight down onto the slate, soaking her head and shoulders in a second as she grabs for the wet roof framing.
+
+Then red and blue light bars flare bright through the coastal fog above the spruces, washing the open skylight in strobing flashes while twin sirens cut straight through the gale.

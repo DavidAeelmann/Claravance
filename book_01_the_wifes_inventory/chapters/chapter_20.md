@@ -1,95 +1,93 @@
 # Chapter 20
 
-Graham flinches back against the cast-iron radiator as I drop to my knees beside him on the bleached cedar floorboards. The room smells faintly of linseed oil and cold ocean dampness seeping around the sealed slider track.
+Graham flinches back against the cast-iron radiator as I drop to my knees beside him on the bleached boards. Cold air seeps around the sealed slider track, carrying the faint oily bite of fresh linseed underneath the damp.
 
-"Tessa," he whispers, his voice ragged and thin. His left cheekbone is swollen dark purple where Cole's forearm caught him, and a dried crust of blood sits beneath his nostril. His eyes drop to my soaked jeans, the raw red abrasion circling my left wrist, and the rusted oyster knife gripped in my right hand. "How did you get out of the—"
+"Tessa," he whispers, voice scraped thin. Dark purple swelling rides high along his left cheekbone where Cole caught him, a crust of dried blood under his nose. His eyes flick over my soaked jeans and the raw cut circling my left wrist before landing on the rusted oyster knife in my hand. "How did you get—"
 
-"Quiet," I hiss, keeping my eyes on the kitchen arch while I lay the oyster knife flat beside my knee and pull my pocket steel multi-tool from my soaked jeans. "Cole and Lydia are in the basement. We have two minutes, maybe less, before they realize that crash wasn't me."
+"Quiet." I lay the oyster knife flat beside my knee, keeping one eye on the kitchen arch while I dig the steel multi-tool out of my wet jeans. "Cole and Lydia are in the basement. Two minutes, maybe less, before they figure out that crash wasn't me."
 
-I unfold the narrow flat-tip awl blade on the multi-tool. My fingers are trembling violently from the cold Atlantic swim, my raw left wrist stinging every time I flex my thumb. Cole used standard county-issue hinged cuffs—and in his rush to get down to the boathouse after Lydia texted him, he didn't bother to double-lock the ratchet bar. That single shortcut is the only reason we aren't dead already.
+I flip out the narrow awl. My fingers shake so hard from the cove swim I can barely hold the housing steady, and my slashed left wrist stings every time I flex my thumb. Cole slapped standard county hinged cuffs on him—and in his hurry to get down to the boathouse, he skipped double-locking the ratchet.
 
-"Hold your wrist still," I tell Graham.
+"Keep your wrist still," I tell him.
 
-"He took my phone," Graham breathes, eyes darting frantically toward the hallway. "He smashed it on the study floor, hit me when I tried to block the door, and dragged me in here. He said Lydia already had my suicide note half-written."
+"He smashed my phone on the study floor," Graham breathes, eyes jumping toward the hall. "Hit me when I tried to block the door, dragged me in here. Said Lydia already had my suicide note half-written."
 
 "Shut up and hold still."
 
-I slide the thin steel tip of the awl into the keyhole slot, pressing backward against the spring-loaded pawl while pushing the ratchet bow slightly tighter against his bone. Graham winces, his breath hissing through his teeth as the steel pinches his skin. Salt rust on my multi-tool makes the internal spring catch once. I shift my grip, brace the steel handle against the heel of my palm, and twist.
+I work the thin steel tip into the keyhole slot and press back against the spring pawl while nudging the ratchet bow tighter against his wrist. Graham hisses through his teeth as the steel pinches skin. Salt grit inside my multi-tool makes the spring hang once. I brace the handle against the heel of my palm and twist.
 
 *Click.*
 
-The steel cuff jaw springs open.
+The cuff jaw pops open.
 
-Graham yanks his wrist free, rubbing the red indentation around his skin, and scrambles awkwardly to his feet on the gray wool rug. I fold my multi-tool back into my pocket and snatch the rusted oyster knife off the floorboards. Beneath our sneakers, muffled through the cedar floor joists, Cole's heavy voice booms faintly from the basement—furious, echoing off concrete as he finds the shattered counterweight beside the darkroom ladder.
+Graham yanks his arm free, rubbing the red groove around his bone as he scrambles awkwardly to his feet on the wool rug. I fold the multi-tool back into my pocket and snatch up the oyster knife. Somewhere beneath the floorboards, Cole's voice booms muffled through concrete—furious as he finds the shattered counterweight beside the ladder.
 
-"The back deck," Graham says, gesturing toward the sunroom slider. "If we unlock the slider and take the cliff path down to Maren's dock—"
+"The back deck," Graham says, nodding at the sunroom slider. "Unlock the glass and we can take the cliff path down to Maren's—"
 
-"Maren moved her pickup across the culvert before the surge," I tell him, already turning back toward the kitchen. "I wedged a carved tide-chart note behind her shed latch in case she checks her boat. Either way, Cole parked his cruiser sideways across the causeway, and salt surge has the road. Nobody drives off Salt Point tonight. Our only play is keeping both of them off the basement server until the gale breaks."
+"Maren pulled her truck across the culvert before the surge," I say, already turning toward the kitchen. "I left a carved note behind her shed latch in case she checks her boat lines. Either way, Cole parked his cruiser sideways across the causeway and high water's over the road. Nobody's driving off Salt Point tonight. Only play left is keeping both of them off the basement server until the storm breaks."
 
-Graham doesn't follow me toward the front hall. A sharp, calculating look crosses his bruised face. He moves faster than I expect for a man who just spent an hour cuffed to an iron pipe, his torn charcoal sweater brushing past my shoulder as he bolts straight toward the kitchen island.
+Graham doesn't follow me toward the front hall. Something sharp flickers behind his bruised face, and for a man who just spent an hour cuffed to a pipe he moves fast—brushing past my shoulder in his torn charcoal sweater and bolting straight for the kitchen island.
 
 ***
 
-By the time I clear the kitchen arch, Graham has both hands wrapped around the padded manila envelope—the *OCT 14 — MASTER BACKUP* file holding his forged trustee authorizations and the $2.4M *Bramwell & Shaw* ledger.
+By the time I clear the arch, both of Graham's hands are wrapped around the padded manila envelope—the *OCT 14 — MASTER BACKUP* file holding his forged trustee authorizations and the $2.4 million *Bramwell & Shaw* ledger.
 
-He spins toward the stainless-steel gas range against the back wall, tearing the brass clasp open with shaking fingers.
+He spins toward the stainless gas range along the back wall, tearing at the brass clasp with shaking fingers.
 
-"Graham," I say, my voice dropping low and flat.
+"Graham," I warn him.
 
-He doesn't stop. He reaches with his left hand for the range's front igniter knob, twisting it until the gas jet *clicks* and a pale blue ring of flame blooms beneath the cast-iron grate.
+He ignores me. His left hand grabs the front igniter knob and twists—*click, click*—until a ring of pale blue flame catches under the cast-iron grate.
 
-"Lydia tried to frame me for murder!" he snaps, holding the thick sheaf of notarized transfer sheets an arm's length from the blue flame. "You heard her on the WAV file! If the state police find this ledger alongside her body—or alongside her staged disappearance—they'll bury me in Thomaston anyway! Let me burn the trust papers, Tessa. We still have the 2:14 AM audio! Without the ledger, they've got nothing on me except a civil dispute!"
+"Lydia tried to hang a murder on me!" he snaps, holding the thick sheaf of notarized sheets and the three sliced sketchbook pages an arm's length from the fire. "You heard her on the WAV file! State police see this ledger beside a staged disappearance, they bury me in Thomaston anyway! Let these pages burn, Tessa. We still have the two-fourteen pantry tape. Without the ledger, all they've got on me is a civil dispute!"
 
-I step into his path and raise the rusted oyster knife until the pitted steel point sits inches from his sternum.
+I step into his lane and bring the rusted oyster knife up until the pitted steel point sits inches from his chest.
 
-Graham freezes, the blue gas flame throwing jittery shadows across his bruised jaw.
+He freezes, blue gaslight flickering across his swollen jaw.
 
-"Put the pages back in the envelope," I tell him.
+"Put them back in the envelope," I say.
 
-"Tessa, stop and do the math!" His voice drops out of panic into that clipped, persuasive executive pitch he used on Monday night, even with a swollen cheekbone and a torn collar. "Think about tomorrow morning if you hand those sheets to state police. The trust freezes in probate the second an embezzlement charge hits the docket. My escrow stalls, you never collect your ten-thousand-dollar completion check, Harbor Mutual levies your bank account Monday, and your landlord locks your Portland studio by Thanksgiving. You walk off this rock freezing, stitched up, and broke—a fired investigator who caught a killer and got nothing to show for it."
+"Stop and do the math!" Panic drops straight out of his voice, replaced by that smooth executive cadence from Monday night, torn collar and all. "Think about tomorrow morning if you hand those sheets to state police. The trust freezes in probate the second an embezzlement charge hits the docket. My escrow stalls, you never see your ten-thousand-dollar completion check, Harbor Mutual levies your account Monday, and your landlord locks your Portland place by Thanksgiving. You walk off this rock bleeding, freezing, and broke—a fired adjuster who broke a setup and got nothing to show for it."
 
-He shifts an inch closer to the blue gas flame, holding the notarized pages steady without flinching from the oyster knife. "Let three sheets of paper burn, Tessa. Nobody gets hurt—Lydia and Cole still go to prison on the two-fourteen pantry recording and the live boathouse relay. My Arlington buyout closes Monday. I'll pay off your entire eighteen-thousand-four-hundred-and-twelve-dollar court judgment before noon, restore your bond, and wire fifty thousand dollars into your account as a clean consulting fee. You get your life back tonight."
+He edges an inch closer to the burner, holding the papers steady without blinking at the knife. "Let them burn, Tessa. Nobody gets hurt—Lydia and Cole still do time on the two-fourteen pantry recording. My Arlington buyout closes Monday. I pay off your entire eighteen-thousand-four-hundred-and-twelve-dollar judgment before noon, restore your bond, and wire fifty thousand into your checking as a clean consulting fee. You get your life back tonight."
 
-My teeth are still clicking softly behind my lips. Water drips from my soaked flannel cuffs onto the limestone tile, pooling cold around my heels.
+My teeth are still clicking behind my lips. Cold brine drips off my flannel cuffs onto the tile around my heels.
 
-My fingers lock on the counter edge, cold water dripping off my chin onto the tile, and I don't yank the folder back. The math sits right there in front of me, clean and bloodless as an escrow closing sheet. Fifty grand plus a zero balance at the Cumberland County courthouse. No sheriff knocking on Monday. No four-hundred-dollar checking balance. Nobody died for those six wire transfers, and Lydia Kiefer is the monster trying to drown us both before high tide. All I have to do is drop my arm an inch and watch three sheets of paper curl into ash over a blue flame.
+I don't yank the envelope away right away. The math is right there in front of me, neat as an escrow sheet. Fifty grand plus a zero balance at the Cumberland County courthouse. No sheriff Monday morning. No four-hundred-dollar checking account. Nobody died over those six wire transfers, and Lydia Kiefer is the one trying to drown us both before high tide. All I have to do is lower my arm an inch and watch a few sheets of paper curl into ash over a blue flame.
 
-Then I remember the cold white binder in a Vermont sheriff's office six years ago, where nobody bothered to check the dates before closing my sister Nina's file—and the Commercial Street warehouse manifest three years later, where a senior partner offered me a quiet raise to sign off on dirty paper and look the other way. Trading three forged pages for fifty thousand dollars doesn't give me my life back. It turns me into the exact kind of hired signature I blew up my career refusing to be.
+Then I picture a thin white binder in a Vermont sheriff's office six years ago, closed before anybody bothered checking dates on my sister Nina—and the Commercial Street fire manifest three years later, where a senior partner offered me a quiet raise to sign dirty paper and look away. Letting Graham burn those pages doesn't give me my life back. It just makes me the exact kind of paid signature I blew up my career refusing to be.
 
-"You forged your wife's initials on six wire transfers and drained two point four million dollars out of her father's estate," I say, my voice hoarse and flat. "You hired me to rush your Arlington inventory under a fifty-thousand-dollar gag clause, hoping a cornered fraud auditor would break Lydia's frame without ever turning over your own ledgers. You didn't want justice, Graham. You wanted a cheaper shield."
+"You forged your wife's initials on six transfers and drained two-point-four million out of her father's estate," I say, my throat raw. "You hired a cornered fraud investigator under a fifty-thousand-dollar gag clause hoping I'd crack Lydia's frame without ever looking too hard at your own books."
 
 "I was trying to save my company!"
 
-"And you're going to answer for it in a courtroom, just like Lydia and Cole." I reach out with my left hand and yank the manila envelope clean out of his grip. The edges of the paper are dry and crisp, smelling faintly of basement cedar and gas fumes. I fold the brass clasp back down, tuck the envelope tight against my ribs, and twist the stove knob hard to *OFF*.
+"Then tell a judge." I reach in with my left hand and rip the papers and envelope straight out of his grip, smelling dry cedar and gas fumes as I jam the sheaf back inside, fold the brass clasp down, and twist the stove knob hard to *OFF*.
 
-The blue flame dies, leaving the kitchen dim and gray.
+The blue ring dies, leaving the kitchen dim and gray.
 
-Graham stares at me, his hands dropping slack at his sides. "You're going to turn me in."
+Graham stares at me, his arms dropping loose at his sides. "You're really turning me in."
 
-"Every page, every raw WAV file, and the boathouse relay recording sitting on your basement server," I say, backing two steps toward the foyer arch without taking my eyes off his hands. "If you want to survive until morning, stay behind me and keep your mouth shut."
+"Every page, the pantry WAV file, and the confession Lydia just poured straight into your boathouse relay mic," I say, backing two steps toward the archway without taking my eyes off his hands. "You want to see morning, stay ahead of me and keep your mouth shut."
 
 ***
 
-I march Graham down the dark hall to the guest suite, keeping the rusted oyster knife angled low at my side.
+I march him past the foyer arch into the start of the north hall and straight into my guest room, keeping the oyster knife low at my side.
 
-Inside the guest room, the radiator ticks faintly, though the house's boiler hums softer than it did this morning. My faded navy canvas duffel sits right where I left it beside the wall. I yank the main zipper open with my left hand and shove the padded manila envelope deep inside beneath my spare clothes. Behind the cast-iron radiator pipes sits the crumpled brown paper store bag and the yellow warning slip Cole signed left-handed on Tuesday afternoon; I snatch the yellow slip and stuff it into the duffel's outer side pocket.
+Inside, the radiator ticks faintly as the boiler cycles down. My navy duffel sits where I left it by the wall. I yank the main zipper open, shove the padded manila envelope deep underneath my spare clothes, and reach behind the iron radiator pipes for the crumpled brown store bag. Inside sits the yellow warning slip Cole wrote left-handed on Tuesday; I tuck it into the duffel's outer side pouch along with the matte-black thumb drive and the knotted glove swab from my soaked jeans pockets, leaving the rusted **B-4** key, the brass front key, and my multi-tool where I can reach them fast.
 
-I sling the heavy canvas strap over my shoulder, pull a dry dark wool sweater from the top of the bag, and drag it over my freezing flannel shirt. The dry wool smells faintly of cedar mothballs and laundry detergent. It doesn't warm my soaked jeans, but it stops my teeth from chattering long enough to think.
+I pull a dry dark wool sweater off the top of the bag, drag it over my freezing flannel, and sling the heavy canvas strap across my shoulder. The wool smells of mothballs and detergent—still cold over wet denim, though it stops my teeth from chattering long enough to think.
 
-"Move," I tell Graham, gesturing toward the foyer with the rusted oyster knife. "We're going to the study to check if your backup array mirrored the boathouse acoustic relay feed—and if your UPS battery still has enough juice to push an emergency packet out over cellular."
+"Move," I tell Graham, nudging him back toward the doorway. "Into your study. Let's see if the backup array mirrored the boathouse relay—and whether your UPS battery can push anything out over cellular."
 
-We step out onto the foyer slate.
+We step out into the mouth of the north hall, right beside the foyer arch.
 
-Directly ahead, the flush cedar door under the foyer stairs rattles sharply—followed by the thunder of Cole's duty boots charging upward two steps at a time.
+Directly across the foyer, the flush cedar stairwell door rattles hard as Cole's duty boots charge up the concrete steps two at a time.
 
-"She's not in Zone 4!" Cole roars up the stairwell, his voice raw with fury. "Check the kitchen—Graham's off the radiator!"
+"She's not in Zone Four—she dropped the counterweight!" Cole roars up the stairwell, voice cracking with fury. "Check the sunroom!"
 
-Graham flinches beside me, his breathing shallow and fast. I grab the back of his torn merino sweater, pulling him toward the north hall arch so we can reach the study before Cole's boots clear the top landing.
+Graham flinches beside me, breathing shallow and fast. I grab the back of his torn sweater to drag him deeper down the north hall toward his study before Cole hits the top landing.
 
-Before we take three steps, a heavy mechanical *CLUNK* echoes from the basement utility alcove—the unmistakable sound of a three-hundred-amp main breaker being thrown hard to *OFF*. Lydia knows this house's wiring as well as Graham does.
+Before we clear three paces, a heavy mechanical *CLUNK* carries up through the floorboards from the basement utility alcove—followed by the sharp snap of heavy switches throwing hard. Lydia knows the main panel just as well as Graham does.
 
-Every standby LED in the foyer dies instantly. The wall tablet beside the coat closet winks black. Even the faint amber glow from the hallway thermostat vanishes, leaving zero ambient light anywhere on the ground floor—just the smell of wet cedar and Graham's ragged breathing inches from my ear.
+Every standby LED along the hall dies at once. The smart-home tablet down by the pantry arch winks black, and the hallway thermostat goes dark, dropping the ground floor into dim storm shadow.
 
-The house plunges into pitch-black darkness, cutting off even the gray storm glow from the ridge outside.
-
-At the same exact second, Lydia kills the generator transfer switch and throws the manual storm-shutter lockdown switch beside the main breaker. Heavy steel hurricane shutters roar downward inside their exterior aluminum tracks. They slam shut with a deafening metallic *CRASH* across the sunroom glass, the foyer sidelights, and the north-hall windows—sealing every exit in black steel while Cole's boots hit the stone floor behind us.
+Half a heartbeat later, Lydia trips the emergency storm-shutter release beside the breaker before killing the generator transfer switch. Heavy steel hurricane shutters roar down inside their exterior aluminum tracks and slam home with a deafening metallic *CRASH* across the sunroom glass, the front sidelights, and the north-hall windows—cutting off the last gray twilight and sealing every window in pitch-black steel right as Cole's boots hit the foyer floor behind us.

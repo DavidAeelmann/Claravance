@@ -1,100 +1,98 @@
 # Chapter 23
 
-Four weeks after Salt Point, the cast-iron radiator in my Portland studio still ticks like a bad heart, and the harbor wind still rattles the single-pane glass.
+Four weeks after Salt Point, the cast-iron radiator in my Portland studio still knocks against the wall, and harbor wind still rattles the single-pane glass.
 
-I stand over the scarred kitchen counter with a mug of black coffee, staring at two sheets of heavy bond paper laid side by side under the bare overhead bulb. The first is a stamped satisfaction-of-judgment notice from the Cumberland County clerk: $18,412 paid in full, zero balance remaining from the $42,000 defamation suit that broke my career three years ago. The second is a crisp, embossed letter from the Maine Department of Public Safety restoring my private investigator bond, effective Monday morning.
+I stand at the scarred kitchen counter with a mug of black coffee, looking down at two sheets of heavy bond paper under the bare overhead bulb. The first is a stamped satisfaction-of-judgment notice from the Cumberland County clerk: $18,412 paid in full, zero balance left on the $42,000 defamation suit that wrecked my career three years ago. The second is an embossed letter from the Maine Department of Public Safety restoring my private investigator bond, effective today, Monday morning.
 
-The $5,000 cash from Salt Point and the $13,500 cashier's check that arrived by certified courier in Portland a week after Salt Point—once probate escrow cleared—paid off the judgment with eighty-eight dollars to spare, leaving my four hundred in checking to cover the state bond reinstatement fee.
+Once probate escrow cleared a week after the storm, the county released my $5,000 cash retainer and a certified courier delivered a $13,500 cashier's check to my door. Together they wiped out the judgment with eighty-eight dollars left over, leaving the four hundred in my checking account to cover the state bond reinstatement fee.
 
-My left wrist still carries a pale pink seam under the cuff of my dry wool sweater where the Salt Point stitches came out, and my bruised knee aches whenever the December air turns sharp. Two weeks of depositions in Rockland took care of the rest. Detective Sergeant Ward and the Knox County district attorney didn't need much persuasion once their techs pulled the mirrored boathouse audio off the Zone Four RAID drive. Latent prints on the untouched silver Montblanc matched Cole's installer-PIN logs and his left-handed writing on the warning slip and smudged departure note, while MSP toxicology found zolpidem in both my P-trap swab and Graham's living-room rocks glass. Coast Guard records confirmed the salt-free mudroom life vest was an unlogged spare, never pulled from Penobscot Bay. Lydia and Cole are sitting in separate cells without bail, and Graham's bail hearing got pushed back after the state auditor finished tallying his $2.4 million probate shortfall.
+My left wrist still shows a pale pink seam under the cuff of my wool sweater where the stitches came out, and my bruised knee aches whenever the December air turns sharp. Two weeks of depositions in Rockland took care of the rest. Detective Sergeant Ward and the Knox County DA didn't have much left to argue once their techs pulled the mirrored boathouse audio off the Zone Four RAID drive. Latent prints on the untouched silver Montblanc tied straight into Cole's installer-PIN logs and his left-handed writing on the warning slip and smudged departure note, while MSP toxicology came back positive for zolpidem in both my P-trap swab and Graham's living-room rocks glass. Coast Guard records confirmed the clean mudroom life vest was an unlogged spare that had never seen Penobscot Bay. Lydia and Cole are sitting in separate cells without bail, and Graham's bail hearing got pushed back after the state auditor finished tallying his $2.4 million trust shortfall.
 
-I didn't ask for a press quote. I gave my statement, signed the chain-of-custody logs, and drove back down Route 1 before the Boston reporters found the causeway. Even Maren Lindqvist came through clean—the state prosecutor granted her full immunity as the reporting witness, and three days ago a wooden crate of Salt Point oysters showed up on my landing with a single harbor receipt tucked under the twine: *Dock's paid. Keep your head down.*
+I skipped the press. I gave my statement, signed the chain-of-custody logs, and drove back down Route 1 before Boston reporters ever found the causeway. Even Maren Lindqvist came out clean—the state granted her full immunity as the reporting witness, and three days ago a wooden crate of Salt Point oysters turned up on my landing with a harbor receipt tucked under the twine: *Dock's paid. Keep your head down.*
 
-The studio is almost empty now. Two cardboard boxes sit taped beside the door, smelling faintly of damp packing paper and dust. My faded navy canvas duffel rests zipped on the bare mattress, no longer packed for a midnight run, and my 2014 silver Honda Civic waits at the curb downstairs with its spare-tire well scrubbed clean by state evidence techs and its loose muffler shield finally bolted tight. For the first time in thirty-six months, I don't owe a dime to a lawyer or a court clerk.
+The studio is already half-empty. My landlord's eviction notice is dead, though I'm still getting out of this drafty shoebox before the lease rolls. Two taped boxes sit beside the door. My faded navy duffel rests zipped on the bare mattress, no longer packed for a midnight run, and my 2014 silver Honda Civic waits at the curb downstairs with its spare-tire well scrubbed clean by state techs and its muffler shield finally bolted tight. For the first time in three years, I don't owe a dollar to a lawyer or a court clerk.
 
-I pick up the restored bond letter, fold it neatly along its crease, and slide it into my jacket pocket.
+I fold the restored bond letter along its crease and slide it into my jacket pocket.
 
-At ten o'clock, I have an intake interview with a regional marine-insurance adjuster on Congress Street. Standard desk audits. Flooded hulls, dock claims, documented chain-of-custody. Daylight work with real witnesses and paper trails that don't end inside a soundproofed basement box.
+At ten o'clock, I have an intake interview with a regional marine-insurance adjuster on Congress Street. Standard desk audits—flooded hulls, dock claims, documented chain-of-custody. Daylight work with real witnesses and paper trails that don't end inside a soundproofed cellar.
 
-I switch off the kitchen bulb, shoulder my canvas duffel to carry it down to the Civic trunk, and lock the apartment door behind me.
+I kill the kitchen bulb, grab my duffel—not leaving my laptop sitting in a twelve-year-old Civic parked off the waterfront—and lock the apartment door behind me.
 
 ***
 
 Ten minutes later, I push through the heavy glass door of Becky's Diner on Commercial Street.
 
-Steam from the flat-top grill hits my face the second I step inside, thick with bacon grease, damp coats, and burnt diner coffee. Outside the fogged front window, lobster boats idle along the working pier while gulls wheel through the gray morning mist. I drop my duffel onto the bench of a corner vinyl booth, peel off my damp coat, and slide in facing the street door out of habit.
+Grill steam hits my face the second I step inside, thick with bacon grease and burnt diner coffee. Out past the fogged front glass, lobster boats idle along the working pier while gulls turn through gray morning mist. I drop my duffel onto the bench of a corner vinyl booth, shrug off my damp coat, and slide in facing the street door.
 
-The waitress tops off a chipped ceramic mug before I even ask. I wrap both palms around the warm porcelain and pull out the printed marine-insurance application I brought to review before ten.
+The waitress tops off a chipped mug before I ask. I wrap my hands around the warm ceramic and pull out the printed marine-insurance application I brought to look over before ten.
 
-Then the brass bell over the street door jingles once, and a woman in a tailored charcoal wool coat walks straight toward my booth without glancing at the host stand.
+The brass bell over the street door jingles once. A woman in a tailored charcoal wool coat walks straight toward my booth without glancing at the host stand.
 
-She is in her late forties, sharp-jawed, with silver-streaked dark hair pulled back into a tight knot and a slim oxblood leather briefcase tucked under one arm. Her leather boots show zero salt crust along the welts—someone who stepped out of a heated town car at the curb, not a working pier. She doesn't ask if the seat is taken. She simply unbuttons her coat, slides onto the red vinyl across from me, and sets her briefcase flat on the Formica between the salt shaker and the ketchup bottle.
+Late forties, sharp-jawed, silver-streaked dark hair pulled into a tight knot, a slim oxblood leather briefcase tucked under her arm. Not a speck of road salt along the welts of her boots—someone who stepped out of a heated town car at the curb. She doesn't ask if the seat is taken. She just unbuttons her coat, slides onto the red vinyl across from me, and lays her briefcase flat on the Formica between the salt shaker and the ketchup bottle.
 
-"Ms. Calder," she says. Her voice is crisp, low, and clipped with the kind of Back Bay certainty that never waits in line. "You're harder to pin down than a probate subpoena. Your phone has been going straight to voicemail since November fifth."
+"Ms. Calder," she says, voice low and clipped with Back Bay certainty. "You're harder to pin down than a probate subpoena. Your number's been going straight to voicemail since November fifth."
 
-"Dropped it in a boathouse," I say, keeping my hands around the warm mug. "Who are you?"
+"Dropped the phone in a boathouse," I say, keeping both hands on my mug. "Who are you?"
 
-"Margot Kiefer-Hall." She reaches into her coat pocket and lays a heavy cream business card beside my coffee. No title on the front—just a State Street address in Boston and a direct private line. "Managing partner at Kiefer-Hall Fiduciary. We issued the thirteen-thousand-five-hundred-dollar cashier's check our courier delivered to your Portland studio last month."
+"Margot Kiefer-Hall." She pulls a heavy cream business card from her coat pocket and sets it beside my coffee—no title, just a State Street address in Boston and a direct private line. "Managing partner at Kiefer-Hall Fiduciary. We issued the thirteen-thousand-five-hundred-dollar cashier's check our courier brought to your apartment last month."
 
-I look down at the cream card, then back up at her eyes. They are cool gray, steady, and completely unbothered by the clatter of plates behind her.
+I glance at the card, then back up at her gray eyes. Nothing in the noise around us touches her.
 
-"Kiefer-Hall?" I ask.
+"Kiefer-Hall?"
 
-"Distant branch," Margot replies without missing a beat. "My grandfather founded the fiduciary arm in Boston. Graham's side took the acoustics patents and the coastal land. We hadn't spoken in a decade until he retained us six weeks ago—strictly as an independent archiving escrow agent, separate from Bramwell and Shaw who administer the trust."
+"Distant branch," she says without blinking. "My grandfather founded the fiduciary arm in Boston; Graham's side took the acoustics patents and the coastal land. We hadn't spoken in a decade until he retained us six weeks ago—strictly as an independent archiving escrow agent, separate from Bramwell and Shaw."
 
-"Graham told me he hired me out of his own pocket," I say.
+"Graham told me he was paying out of his own pocket."
 
-"He did," Margot says, folding her gloved hands over her briefcase. "Using an escrow retainer he funded ahead of the Arlington closing. When he drove down to Portland Wednesday afternoon to collect the pre-closing packet—and saw fit to push your deadline up twenty-four hours into a coastal gale—I saw your name on the contractor voucher and personally added the thirty-five-hundred-dollar storm-hazard adjustment. Once probate escrow cleared after his arrest for embezzlement and attempted arson, I authorized the completion release myself and dispatched our Portland courier. The balance belonged to whichever contractor delivered an unredacted accounting of the estate."
+"He did," Margot says, folding her leather-gloved hands neatly on top of her briefcase. "Through an escrow retainer he funded ahead of the Arlington closing. When he drove down to Portland that Wednesday to collect the pre-closing packet—after moving your deadline up twenty-four hours into a coastal gale—I saw your name on the contractor voucher and added the thirty-five-hundred-dollar storm adjustment myself. Once probate escrow cleared after his arrest for embezzlement and evidence tampering, I authorized the completion release and sent our courier. The balance belonged to whichever contractor delivered an unredacted accounting of the estate."
 
-She pauses while the waitress walks past with a steaming pot of coffee, then waits until the booth behind us clears.
+She pauses while the waitress walks past with a fresh carafe, waiting until the booth behind us empties out.
 
-"You turned over two point four million dollars' worth of forged probate records when you could have taken fifty thousand in cash over a gas stove and walked," Margot says quietly. "Most people in your financial position take the cash."
+"You handed over two-point-four million dollars' worth of forged trust records when you could have taken fifty thousand over a gas burner and walked away," Margot says quietly. "Most people sitting under a Monday bank levy take the cash."
 
-"Most people don't like getting locked in a darkroom," I answer. "If you're here for a receipt, the clerk's office already cleared the check."
+"Most people don't like getting locked in a basement," I say. "If you're here for a receipt, the clerk's office already cleared the check."
 
-"I'm not here for a receipt, Tessa." Margot unsnaps the brass latches on her oxblood briefcase. "I'm here because my firm represents families whose problems cannot survive a public probate docket. Quiet-clean archiving. Discreet asset verification. You have your investigator bond back as of this morning, and you have zero debt left on your name."
+"I'm not here for a receipt, Tessa." She unsnaps the brass latches on her oxblood briefcase. "My firm represents families whose problems can't survive a public probate docket. Quiet archiving. Discreet asset verification. Your investigator bond cleared this morning, and your court balance is zero."
 
-I keep my face still. She knows when my bond cleared. She knows my judgment balance. That kind of reach doesn't stop at a probate filing.
+I keep my face still. She knows the day my bond reinstated and she knows my county docket balance. That kind of reach doesn't stop at a Boston escrow file.
 
-"I have an interview on Congress Street at ten," I say, sliding my marine-insurance application an inch toward the edge of the table. "I'm done working off-book in someone else's house."
+"I have an interview on Congress Street at ten," I say, nudging my marine-insurance application toward the edge of the table. "I'm done working off-book inside other people's houses."
 
-Margot doesn't argue. She doesn't raise her voice, and she doesn't lean forward to sell me a pitch.
+Margot doesn't push. She just folds her hands back over the leather and holds my gaze.
 
-"Triple the Salt Point rate," she says. "Forty-five thousand dollars. Ten days in northern Vermont, starting tonight if you can clear the notch before dark. A private mountain lodge closed for the winter after a sudden family disappearance. Same rules—inventory the estate, flag any irregularities before probate counsel arrives, and stay out of the local sheriff's way."
+"Triple the Salt Point rate," she says. "Forty-five thousand dollars. Ten days in northern Vermont, starting tonight if you can clear the notch before dark. A private mountain lodge closed for the winter after a sudden family disappearance. Same rules—inventory the estate, flag anything off before probate counsel arrives, and stay clear of the local sheriff."
 
-I pick up my coffee mug, take a slow sip of the bitter brew, and set it back down squarely on the paper placemat. My fingers brush the folded bond letter inside my jacket pocket.
+I take a slow swallow of bitter coffee and set the mug squarely back on the paper placemat. My fingers brush the folded bond letter inside my jacket pocket.
 
-"Pass," I say. "Find another cleaner."
+"Pass," I say. "Find somebody else."
 
 ***
 
-Outside the fogged glass, a tugboat horn groans low across Portland Harbor, vibrating faintly through the Formica tabletop.
+Out past the fogged window, a tugboat horn groans low across Portland Harbor, rattling faintly up through the tabletop.
 
-Margot studies my face with calm, clinical patience. Then, without a word, she reaches inside her open briefcase and pulls out two items.
+Margot studies me for a beat, completely unhurried. Then she reaches into her open briefcase and sets two things on the Formica.
 
-First, she sets down a heavy brass skeleton key, worn smooth along the bow from decades of use. Faint pine resin darkens the teeth along the bit, smelling sharply of cold iron and winter woods even across the diner table. A blank manila tag hangs from the bow by a twist of copper wire.
+First, a heavy brass skeleton key, its bow worn smooth from decades of hands. Dark pine resin clings inside the cut of the teeth, and a blank manila tag hangs from the ring by a twist of copper wire.
 
-Beside it, she slides a glossy color photograph across the scarred Formica until it stops just short of my coffee mug.
+Next to it, she slides a glossy color photograph across the table until its white edge stops against my coffee mug.
 
-I glance down despite myself. The shot shows a sprawling timber-and-stone lodge buried halfway to its cedar eaves in fresh Vermont snow, dark spruce crowding the drive behind a wrought-iron gate. Smoke curls thin and gray from a massive stone chimney against a flat white sky.
+I look down despite myself. A sprawling timber-and-stone lodge sits buried halfway to its cedar eaves in fresh Vermont snow, dark spruces crowding the drive behind a wrought-iron gate. Thin gray smoke curls out of a massive stone chimney against a flat white sky.
 
-"I said no, Ms. Kiefer-Hall," I tell her, sliding my palm over the edge of the marine-insurance packet and reaching for my coat on the hook. "Take your key back to Boston."
+"I said no, Ms. Kiefer-Hall." I rest my palm on the marine-insurance packet and reach for my coat on the hook. "Take your key back to Boston."
 
-"I'm not asking you to take the contract on faith," Margot says softly, resting one gloved fingertip on the white border of the photograph. "Look at the back."
+"I'm not asking you to take it on faith," Margot says softly, tapping one gloved fingertip against the white border of the print. "Turn it over."
 
-I hesitate. Everything I survived at Salt Point tells me to stand up, grab my duffel off the bench, and walk out into the cold salt air before I touch another piece of bait. Six years ago, I stopped looking for shortcuts because shortcuts cost me my sister's trail and my career. I didn't survive three days in a coastal kill-box just to climb into another rich family's locked house in the snow.
+Everything I dragged myself out of at Salt Point tells me to grab my duffel, walk out into the cold harbor air, and keep walking. Six years ago, bad shortcuts buried my sister's trail; three years ago, refusing one buried my career. I didn't crawl out of a frozen cove just to step into another rich family's locked house in the snow.
 
-Yet Margot hasn't moved her hand. She watches me with the quiet certainty of someone who already knows what the ink on the reverse side is going to cost me.
+Still, Margot hasn't moved her hand. She watches me like she already knows what's waiting on the back of the paper.
 
-Slowly, my fingers lift the corner of the glossy print.
+Slowly, I lift the corner of the photograph and flip it over.
 
-I flip the photograph over.
-
-Taped neatly to the matte backing is a crisp black-and-white fax printout of a lined paper guest ledger—only a single corner of the page, cropped tight around a date stamp and a signature line.
+Taped square to the matte backing is a black-and-white fax printout of a lined paper guest ledger—just one corner of the page, cropped tight around a date stamp and a signature line.
 
 The date reads two days ago.
 
-Written in the margin beside a room number, in the cramped, unmistakable back-slanted cursive I haven't seen on paper since the night my younger sister vanished six years ago, is a three-word note in Nina's handwriting:
+Written in the margin beside a room number, in the cramped, back-slanted cursive I haven't seen on paper since the night my younger sister vanished six years ago, are three words in Nina's handwriting:
 
 *Don't trust him.*
 
