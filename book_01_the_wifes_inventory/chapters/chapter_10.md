@@ -1,8 +1,8 @@
 # Chapter 10
 
-I get through the mudroom side door three breaths before Graham's garage bay groans open.
+I get through the mudroom side door seconds before Graham's garage bay groans open.
 
-My boots squelch once on the rubber mat. I kick them off beside the tray, hang my wet waxed jacket back on its peg—pressing the breast pocket flat so the B-4 key doesn't clink against the brass hook—and take the back service stairs two at a time in my socks. By the time Graham's dress shoes cross the front hall below, I'm kneeling outside the master closet with a fresh strip of packing tape across my knuckles, looking like I've been boxing cashmere since four o'clock.
+My boots squelch once on the rubber mat. I kick them off beside the tray, hang my wet waxed jacket back on its peg—pressing the breast pocket flat so the B-4 key doesn't clink against the brass hook—and take the back service stairs two at a time in my socks. By the time Graham's dress shoes cross the front hall below, I'm kneeling outside the master closet with a fresh strip of packing tape across my knuckles, looking like I've been boxing cashmere all afternoon.
 
 Twenty minutes later, he calls me down to the living room.
 
@@ -14,17 +14,15 @@ He's traded the charcoal suit for a dark merino crewneck, though his shoulders s
 
 "Nonsense. You've been hauling boxes alone all day." He pulls the stopper from a half-full bourbon decanter and pours two fingers into a pair of cut-crystal rocks glasses waiting on the silver tray. He reaches automatically for the heavier tumbler sitting front-left—his usual evening glass, judging by the way his thumb finds its grip without looking—then pauses out of polite habit, sets it on the slate coaster by my elbow, and takes the second glass for himself before dropping into the armchair across from me. "Besides, we need to pin down tomorrow's schedule before the Boston courier drives up."
 
-I look down at the amber pour catching the firelight. Neat bourbon, no ice. Graham's glass gleams clear as honey. Down near the bottom curve of mine, a pale, hazy swirl drifts through the liquor like undissolved chalk.
-
-Upstairs in the master bath, damp white paste is still caked inside the brass P-trap. Somebody tested how fast crushed sleeping pills dissolve, then dusted a single glass on that tray before Graham ever got back from Portland.
+I look down at the amber pour catching the firelight. Neat bourbon, no ice. Graham's glass gleams clear as honey. Down near the bottom curve of mine, a pale, hazy swirl drifts through the liquor like undissolved chalk—a close match for the damp white paste still caked inside the master-bath P-trap upstairs.
 
 "Tomorrow's courier," I say, keeping my hands around my knees instead of touching the coaster. "Still five o'clock?"
 
-"Five sharp." He leans back and gives his glass a slow turn. Firelight sharpens the hollows under his cheekbones, aging him five years since Monday night. "The Arlington buyers want the preliminary probate schedule uploaded by five-thirty so their counsel can clear the lien release Friday morning. That means every high-value item in the studio and master suite needs a signed tag and a timestamped photo by four."
+"Five sharp." He leans back and gives his glass a slow turn. Firelight sharpens the hollows under his cheekbones. "The Arlington buyers want the preliminary probate schedule uploaded by five-thirty so their counsel can clear the lien release Friday morning. That means every high-value item in the studio and master suite needs a signed tag and a timestamped photo by four."
 
 "That's tight," I say, watching him over the rim of his tumbler. "Especially without the boathouse logged. You're asking me to sign off on an incomplete estate schedule."
 
-His fingers go still on the glass. A birch log pops behind the screen, sending a quick smell of scorched bark across the rug.
+His fingers go still on the glass. A birch log pops behind the screen, sending a sharp smell of scorched bark across the rug.
 
 "Your Harbor Mutual license isn't active, Tessa," he says quietly, never losing the polite edge. "You're a private contractor working under an NDA. Finish the house interior by four tomorrow, hand me a clean ledger, and the remaining ten thousand wires to your account before the courier hits the causeway. Walk away short of that, and we both know what the breach clause costs."
 
@@ -52,7 +50,7 @@ From the kitchen comes the clatter of ice hitting a metal bucket, then Graham's 
 
 I slip off the sofa and cross silently to the walnut door of his north-hall study.
 
-The room smells of lemon oil and cold stone. No lamp is on inside, just a pale wedge of hall light falling across the wide desk blotter. When I passed the open doorway yesterday morning, the desk looked bare as a showroom. Tonight, a thick leather portfolio sits crooked beside the silver inkwell, and a strip-cut shredder tucked under the return hums quietly with a red **JAM** light, strips of cream bond paper wedged tight in its teeth. A half-torn wire-transfer receipt pokes out of the wastebasket underneath, smudged with toner.
+Lemon oil and cold stone hang in the dark room. No lamp is lit inside, just a pale wedge of hall light falling across the wide desk blotter. Yesterday morning the desk looked bare as a showroom. Tonight, a thick leather portfolio sits crooked beside the silver inkwell, and a strip-cut shredder tucked under the return hums quietly with a red **JAM** light, strips of cream bond paper wedged tight in its teeth. A half-torn wire-transfer receipt pokes out of the wastebasket underneath, smudged with toner.
 
 I pull my phone out, make sure the flash and shutter sound are off, and flip the leather portfolio open.
 
@@ -62,11 +60,13 @@ I angle the first page into the hall light and scan fast.
 
 *Notice of Default & Acceleration — Kiefer Soundworks LLC.*
 
-It's all laid out in cold legal print under *The Lydia Kiefer Irrevocable Trust*. Graham holds conditional joint signatory authority over a $5,400,000 corpus—and on October fifteenth, Bramwell & Shaw served him for $2,400,000 in misappropriated licensing collateral pulled over fourteen months, leaving $3,000,000 in the trust. He has a thirty-day civil cure window expiring November fourteenth—ten days left—before criminal referral to the Suffolk County DA. The catch sits highlighted in yellow: if he's formally charged with murder or felony moral turpitude, his signatory rights strip immediately and the cure window disappears. Clipped to the back page, a Cayman beneficiary rollover schedule confirms that upon Graham's forfeiture, the remaining $3,000,000 automatically transfers out of Boston probate into an offshore Cayman bearer structure controlled solely by Lydia.
+Under *The Lydia Kiefer Irrevocable Trust*, Graham holds conditional joint signatory authority over a $5,400,000 corpus. On October fifteenth, Bramwell & Shaw issued a formal default demand over $2,400,000 in unauthorized draws pulled against trust-held licensing collateral over fourteen months—leaving $3,000,000 in the trust. The letter gives him a thirty-day civil cure window expiring November fourteenth—ten days left—before the trustees pursue recovery and refer the accounting to the Suffolk County DA.
+
+Highlighted in yellow near the bottom sits a bespoke trust governance clause: if Graham is formally charged with murder or felony moral turpitude, his signatory rights strip immediately and the cure window vanishes. Clipped to the back page, a Cayman beneficiary rollover schedule specifies that upon forfeiture, the remaining $3,000,000 automatically transfers out of Boston probate into an offshore Cayman holding trust controlled solely by Lydia.
 
 Under the signature block, Graham has penciled three bridge-loan dates in neat block script, every one crossed out, followed by a fresh margin note: *Arlington buyout closes Friday if inventory seals.*
 
-That's the whole trap. If the Arlington buyout closes before an audit locks his accounts, Graham gets the cash to plug his $2.4 million hole inside the November fourteenth deadline. If someone pins a murder charge on him first, the forfeiture clause strips him overnight and drops three million offshore.
+If the Arlington buyout closes before an audit locks his accounts, Graham gets the cash to plug his $2.4 million hole inside the November fourteenth deadline. If someone pins a murder charge on him first, the forfeiture clause strips him overnight and drops three million offshore.
 
 I shoot four quick photos of the demand letter and rollover rider—catching the trust account number, the $3,000,000 balance, and the October fifteenth service stamp—and slide the bond paper back into the leather flap along its exact crease.
 
@@ -84,7 +84,7 @@ Graham drinks.
 
 He takes a slow, steady swallow, gray eyes locked on mine over the crystal rim. No wince, no hesitation—he just lowers the glass back onto the tray and wipes a drop off his thumb.
 
-He didn't spike the decanter, and he didn't expect what's sitting at the bottom of that glass. Somebody pre-dusted *his* habitual rocks glass on the credenza while he was down in Portland, figuring he'd pour himself a nightcap alone—and out of host habit, he handed it to me.
+He didn't expect what was sitting at the bottom of that tumbler. Someone had prepared his usual glass while he was away—and out of host habit, he'd handed it straight to me. Whether it was zolpidem or something else, I wasn't going to find out by drinking it.
 
 "You're quiet tonight, Tessa," he says, leaning forward with his forearms on his knees, watching my face a little too closely. "Be honest with me. Did you run across anything strange in the master suite today? Anything out of place?"
 
@@ -94,11 +94,11 @@ He didn't spike the decanter, and he didn't expect what's sitting at the bottom 
 
 "Ibuprofen, retinol, usual prescriptions. Nothing missing."
 
-A flicker of disappointment crosses his face before he looks back at the fire. "Good. Get some sleep. Tomorrow's going to be a long haul before the courier gets here."
+His shoulders drop half an inch, and he turns his eyes back to the fire. "Good. Get some sleep. Tomorrow's going to be a long haul before the courier gets here."
 
 I leave the clean bourbon two-thirds full on the coaster, say goodnight, and walk down the north hall to the guest suite. Once the privacy bolt is turned and the desk chair is wedged tight under the knob, I lean back against the door and let out a breath I've been holding since the study. Across the main hall, the hearth screen clanks shut as Graham banks the fire for the night, and the cast-iron radiator under my window ticks sharply as steam hits the pipes.
 
-I check that my brown hardware bag behind the radiator hasn't moved, then unzip the main pocket of my duffel. The five-thousand-dollar Portsmouth band sits untouched under my spare shirts, and my laptop is cool against the liner. I pull it out, boot up, and plug in my phone cable to push the demand-letter photos straight into my off-site vault in Portland.
+I check that my brown store bag behind the radiator hasn't moved, then unzip my duffel. The five-thousand-dollar bank band sits untouched under my spare shirts. I pull out my laptop, boot up, and plug in my phone cable to push the demand-letter photos straight into my off-site vault in Portland.
 
 Before the upload bar finishes, my phone buzzes against my leg.
 

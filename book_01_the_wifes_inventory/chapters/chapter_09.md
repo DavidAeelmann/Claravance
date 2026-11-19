@@ -1,6 +1,6 @@
 # Chapter 9
 
-At four-thirty, coastal fog settles down over the headland like wet iron, and the Kiefer Soundworks app on my phone chimes with a thirty-minute expiration warning.
+At four-thirty, coastal fog settles down over the headland like wet iron, and the temporary guest-feed link on my phone chimes with a thirty-minute expiration warning.
 
 In the mudroom, I pull my waxed jacket off the hook beside Graham's wool coat, my knuckles brushing the hard shape of the tissue-wrapped B-4 key inside the lining. Upstairs, three taped wardrobe cartons sit stacked in the master closet—enough logged work to hold up at a glance when Graham gets home.
 
@@ -10,7 +10,7 @@ I ease the mudroom door shut behind me so the latch doesn't snap, stay tight aga
 
 Rainwater runs down the risers in cold threads, turning rotting railroad ties slick as grease. Twice my boots slide on wet pine needles, and I have to catch myself on rough spruce bark that scrapes my palms.
 
-Wind comes straight off the Atlantic down here, heavy with bladderwrack and cold spray. Below me, the tide pulls back off black mussel beds, leaving timber pilings dark and wet. Halfway down the switchback, the smell of marine diesel drifts up from the shingle beach.
+Wind comes straight off the Atlantic down here, heavy with bladderwrack and cold spray. Below me, the tide pulls back off black mussel beds, leaving timber pilings dark and wet. Halfway down the switchback, diesel fumes drift up from the shingle beach.
 
 Maren Lindqvist's sorting shed squats where the ledge flattens into crushed shell—a gray shingle box tied down with galvanized turnbuckles, one caged amber bulb glowing over the loading door. Beside it, a dented aluminum skiff rocks hard against rubber fenders on an iron ringbolt.
 
@@ -42,13 +42,13 @@ The sorting shed is tight, damp, and fiercely warm in the middle, where a kerose
 
 "Drink it or don't," she says, curling her bare, red hands around a second mug. "I told you at the store, Miss Calder—I don't hold with mainland trouble. My aquaculture lease comes up in January, and Cole Halstead's marine unit boards my brother-in-law's lobster boat twice a month whenever somebody opens their mouth."
 
-"I'm not asking you to file a complaint," I say, wrapping my freezing fingers around the hot ceramic without drinking. "I'm not going to the county either. Whoever Halstead's working with just pushed my deadline up to Thursday night. Tomorrow. Walk out before I finish the ledger and Graham hits me with a fifty-thousand-dollar breach penalty I can't pay, and I lose the ten grand keeping my apartment off a sheriff's sale."
+"I'm not going to the county," I say, wrapping my freezing fingers around the hot ceramic without drinking. "Whoever Halstead's working with just shoved my deadline up to tomorrow night. If I walk out before completing the inventory, Graham hits me with a fifty-thousand-dollar breach penalty I can't pay, and I lose the ten grand keeping my apartment off a sheriff's sale."
 
 Her eyes narrow, sharp and suddenly wary. "Deadline for what?"
 
-"Finishing the probate inventory. Clearing out." I lean closer over the workbench so she can hear me over the kerosene heater. "Yesterday you slipped a tide chart into my store bag telling me to ask Graham why his dock lights were off at two-fourteen in the morning. I asked him, he fed me a smooth line about salt corrosion and ground-fault breakers—then the power dropped and Basement Zone Four lit up with a motion alert. Today Halstead walked into that kitchen while Graham was in Portland and told somebody on a burner phone to stay tucked out of sight down the cove until dusk."
+"Closing out the probate inventory." I lean closer over the workbench so she can hear me over the kerosene heater. "Yesterday you slipped a tide chart into my store bag telling me to ask Graham why his dock lights were off at two-fourteen in the morning. When I pushed him on it last night, the power dropped and Basement Zone Four lit up with a motion alert. Today Halstead walked into that kitchen while Graham was in Portland and told somebody on a burner phone to stay tucked out of sight down the cove until dusk."
 
-Maren stares into her coffee without answering. Her jaw works under salt-chapped skin, and she reaches over to turn the heater's damper down until the flame stops guttering.
+Maren stares into her coffee without answering. Her mouth sets in a hard line, and she reaches over to turn the heater's damper down until the flame stops guttering.
 
 "Shouldn't have put that slip in your bag," she says, eyes on the floorboards. "I'm three months behind on winter dockage—sixty days from losing my mooring. You think I'm lining up to testify against a Knox County deputy?"
 
@@ -68,17 +68,15 @@ Maren drops her voice low over the surf. "Graham doesn't know a cleat hitch from
 
 "Then who took it out?"
 
-"Somebody who planned for it two days early," she says, wiping her palm down her oilskin apron. "Lydia walked down my cliff trail Monday afternoon—October twelfth, two days before the gale hit. Thin cashmere sweater, no coat, shivering like a wet cat, ruining leather loafers in the kelp. Dropped that five-grand envelope next to my twine spools before she even said what she wanted."
+"Somebody who planned for it two days early," she says, wiping her palm down her oilskin apron. "Lydia walked down my cliff trail Monday afternoon—October twelfth, two days before the gale hit. Thin cashmere sweater, no coat, shivering like a wet cat, ruining leather loafers in the kelp. That five-grand envelope I just told you about? She dropped it right next to my twine spools before she even said what she wanted."
 
 "What did she ask for?"
 
-"Told me to keep my sorting-shed dock lights killed and stay indoors behind drawn shades once the storm came in. Claimed she was staging a late-night launch for some private photography project and didn't want neighbor floodlights ruining the water." Maren's mouth twists. "While I was counting the bills, she picked an old brass bracket off my bench and made casual talk about harbor VHF repeaters—whether a hard southeast squall masks dead transponder signals along the point or kicks up tower errors."
-
-Two days before she supposedly drowned, while Graham thought she was painting in her studio, Lydia Kiefer was standing in a cove sorting shed paying five grand for a dark shoreline—and fishing for how a boat drops off coastal radio without flagging a tower.
+"Told me to keep my sorting-shed dock lights killed and stay indoors behind drawn shades once the storm came in. Claimed she was staging a late-night launch for some private photography project and didn't want neighbor floodlights ruining the water." Maren's mouth twists. "While I was counting the bills, she picked an old brass bracket off my bench and made casual talk about coastal AIS tracking—whether a hard southeast squall creates shore-station blind spots along the point or masks a switched-off transponder until a boat clears the bay."
 
 "Did she give an excuse for asking about the radio?"
 
-"Said she was writing a magazine piece on off-grid lobster poaching." Maren lets out a dry, humorless snort. "Woman couldn't tell a Jonah crab from a quahog, and suddenly she's worried about VHF repeaters and dead-signal logs. Now get out of here before full dark drops. I've already said ten times more than my mooring is worth. Graham or Cole catches you coming off my beach, they'll lock that gate before you hit your car."
+"Said she was writing a magazine piece on off-grid lobster poaching." Maren lets out a dry snort. "Woman couldn't tell a Jonah crab from a quahog, and suddenly she's worried about AIS blind spots and transponder logs. Now get out of here before full dark drops. I've already said ten times more than my mooring is worth. Graham or Cole catches you coming off my beach, they'll lock that gate before you hit your car."
 
 ***
 
@@ -86,9 +84,7 @@ I leave the coffee untouched and step back onto crushed shell.
 
 Night has closed fast over the cove. Thick fog rolls off the water, smearing Maren's amber bulb into a dull smudge behind me before I even reach the granite stairs.
 
-None of it lines up cleanly anymore. On October twelfth, Lydia bought herself a dark beach and asked how to slip off harbor radar—prepping a clean disappearance. Yet someone went back into that house and turned a vanishing act into a murder scene: bleached the sunroom floor, painted the studio window shut, shoved an October seventeenth bag behind Graham's coats, and handed Cole Halstead co-owner installer PINs.
-
-Either Lydia came back to hang a homicide charge on Graham, or somebody hijacked her exit before tomorrow's courier shows up.
+On October twelfth, Lydia Kiefer paid five grand to buy a dark shoreline and asked how a boat drops off coastal AIS tracking—laying the groundwork for what looks like a planned disappearance. Yet someone went back into that house and turned a vanishing act into a homicide scene before tomorrow's Boston courier shows up: bleaching the sunroom floor, painting the studio window shut, shoving an October seventeenth ferry bag behind Graham's coats, and handing Cole Halstead co-owner installer PINs.
 
 Every wet riser jars my knees in the dark, and I'm running out of time to find out what sits behind that basement door. Halfway up, my calves burn and the air tastes of salt and pine resin. I stop on a narrow cedar landing under a twisted pitch pine, leaning a hand against rough bark to catch my breath.
 
@@ -98,7 +94,7 @@ I'm turning back toward the upper stairs when white light cuts across the boatho
 
 A handheld flashlight beam sweeps slowly left to right behind the glass, catching the dark curve of a suspended kayak hull for half a second before dipping below the sill.
 
-Cole told his burner caller to stay tucked out of sight down the cove until dusk. Now someone is inside that sealed boathouse while the padlock hangs untouched on the outer doors.
+*Stay tucked out of sight down the cove until dusk,* Cole told his burner caller. Down on the pilings, the brass padlock still hangs locked on the double doors—yet someone is moving around inside behind a window that was shuttered from the inside yesterday.
 
 Before I can take a step back down toward the seawall, gravel crunches through the fog up on the ridge.
 
