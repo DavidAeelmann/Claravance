@@ -1,48 +1,48 @@
 # Chapter 13
 
-The pinpoint red LED above the fire door glares steady against the dark concrete.
+The red LED above the fire door glares steady against the concrete.
 
-I drop the padded manila envelope onto the steel worktable and bolt straight for the mortise handle, pressing my ear against cold painted steel. On the other side of the door, footsteps climb the concrete stairs and cross the foyer slate—unhurried, soft-treaded, fading toward the kitchen archway before a chair leg scrapes softly across tile.
+I drop the padded envelope onto the worktable and run for the handle, pressing my ear to the cold steel. On the other side, footsteps climb the concrete steps and cross the foyer floor—unhurried, soft-soled, heading toward the kitchen arch. A moment later, a chair leg scrapes across tile.
 
-I don't bother reaching for the rusted **B-4** key in my pocket. There's no interior keyhole or thumb-turn—only a smooth brass plate and a heavy commercial deadbolt thrown strictly from the stairwell landing, Graham's doing to lock down defense-prototype hardware inside. Whoever sealed me in didn't just pull the door shut. They threw an exterior bolt that won't budge without a key from the other side.
+I don't bother reaching for the rusted **B-4** key in my pocket. This side of the door has no keyhole and no thumb-turn—just a smooth brass plate. Graham disabled interior egress on the deadbolt to lock down his defense prototypes. Without a key from the stairwell landing, the steel isn't moving.
 
 Which leaves the dumbwaiter shaft.
 
-I snatch my phone off the desk, keep the screen dimmed low, and cross in my damp socks to the iron ladder bolted into the masonry. My calves burn as I climb the freezing rungs two at a time, dust flaking onto my eyelids until I reach the top cedar sill behind the pantry spice rack.
+I pull my phone from my back pocket with the screen dimmed low and cross to the iron ladder. My calves burn as I climb two rungs at a time, dry grit flaking off the masonry onto my face until my shoulders hit the top cedar sill behind the spice rack.
 
-I press one palm gently against the hinged cedar panel.
+I push the hinged back panel open a few inches and squeeze into the pitch-black walk-in pantry, careful not to kick the stoneware crocks I set on the floor. Reaching past the flour tins, I turn the knob on the louvered pantry door and lean my shoulder into it.
 
-It gives a fraction—then slams hard against something wedged across the outside shelves. Through the thin crack between the cleats, I hear the unmistakable scrape of a heavy kitchen chair braced tight under the louvered pantry doorknob, followed by the metallic *snick* of a deadbolt turning on the mudroom side. A moment later, muffled, stockinged footsteps pad lightly across the dark tile, deliberate and unhurried, before fading toward the front hall.
+It gives half an inch, then stops dead against something heavy. Through the slats comes the dull scrape of a wooden kitchen chair jammed tight under the outside knob, followed by the metallic *snick* of a deadbolt turning over by the mudroom. Soft, stockinged footsteps pad back across the kitchen tile and fade toward the front hall.
 
-Whoever locked the basement door knows about the dumbwaiter shaft. And they just pinned me deep below the slab until morning, cutting off both exits without saying a word. If I try forcing that cedar panel from a vertical iron ladder, I'll either break my wrists or fall backward down the masonry chute.
+Whoever threw the basement bolt knows about the dumbwaiter shaft. Trapped in a closet barely wider than my hips, I can't force an outward-opening door against a braced chair, and trying to smash through the slats in the dark only gets me cornered with no exit.
 
-I climb back down into the deadened chill of the darkroom, my breath pluming faintly under the blue glow of the two studio monitors. A fresh smear of masonry dust streaks the front of my flannel shirt.
+I back into the shaft, ease the spice-rack panel shut behind me, and climb down into the chill of the darkroom. My breath mists faintly in the blue wash from the studio monitors. A gray smear of masonry dust streaks the front of my flannel.
 
-Back at the worktable, the clock in the corner of the right-hand screen reads 2:34 AM. Cell signal bars on my phone show a flat, mocking **NO SERVICE**. Thick poured concrete and acoustic foam turn Graham's cellar into a Faraday cage—no calls, no texts, no emergency upload of the envelope sitting under my palm.
+The clock in the corner of the right-hand screen reads **2:34 AM**. On my phone, the signal icon sits dead on **NO SERVICE**—too much poured concrete and foam overhead for a bar to get through. No calls, no texts, no pushing what's in this envelope to Portland.
 
-My teeth chatter hard enough to click. I pull my flannel cuffs down over my wrists and stare at the thick manila envelope stamped `OCT 14 — MASTER BACKUP / DO NOT OPEN BEFORE PROBATE`.
+My teeth chatter hard enough to click. I yank my flannel cuffs down over my wrists and stare at the thick manila sleeve stamped `OCT 14 — MASTER BACKUP / DO NOT OPEN BEFORE PROBATE`.
 
-If whoever locked me down here wanted me dead in the dark, they wouldn't have left the workstation powered on or spared the red tamper tape inside that cabinet. They sealed me in to wait for sunrise—or to buy three hours upstairs while they clean up whatever they don't want me seeing before today's courier arrives. Worse, if it wasn't Graham who threw that deadbolt, then someone else is walking around his foyer at two-thirty in the morning.
+Whoever locked me in didn't shut down the servers or touch the cabinet. They didn't seal me down here to die—they bought themselves three hours upstairs before sunrise. Worse, if Graham is really passed out from that dusted bourbon, somebody else is walking around his kitchen in stockinged feet at two-thirty in the morning.
 
-I unfold the narrow utility blade on my multi-tool, slice beneath the red tamper-evident tape, and pry open the bent brass clasp.
+I flip out the small blade on my multi-tool, slice under the red tamper-evident tape, and pry the bent brass clasp open.
 
 ***
 
-Inside the padded kraft sleeve sit four items: a bound sheaf of notarized financial schedules, three sliced cream-rag sketchbook pages, a heavy spiral-bound printout of raw acoustic transcripts, and a matte-black encrypted thumb drive taped to a yellow index card.
+Four things slide out onto the steel table: a bound sheaf of notarized financial schedules, three cleanly sliced cream-rag sketchbook pages, a thick spiral-bound transcript printout, and a matte-black encrypted thumb drive taped to a yellow index card.
 
-I spread the financial sheaf and the loose sketchbook sheets across the steel worktable under the blue monitor wash first.
+I spread the financial packet and the loose sketchbook sheets under the blue glare first.
 
-The cover sheet and schedules form a retroactive trust-reconciliation and ratification packet bearing the raised notary seal of a Boston firm dated October tenth—four days *before* the storm—bundling six prior draws over fourteen months. These are original wire receipts, bridge-loan ledger sheets, and signed trust-collateral transfers showing Graham Kiefer systematically draining $2,400,000 out of the Lydia Kiefer Irrevocable Trust to keep Kiefer Soundworks afloat while his acoustic patent stalled in federal review. Six separate wire draws carry Lydia's secondary signatory initials in cramped blue ink—each stroke slightly stiff, traced over faint graphite guidelines. Beside them lie the three missing pages sliced from Lydia's studio sketchbook, covered in dozens of penciled practice tracings of Lydia's *L.K.* initials, complete with light-table registration ticks along the margins.
+The cover page and schedules form a retroactive trust-reconciliation and ratification packet carrying the raised notary seal of a Boston firm, dated October tenth—four days before the storm—bundling six draws pulled over fourteen months. Original wire receipts, bridge-loan ledgers, signed collateral transfers: Graham Kiefer siphoned $2,400,000 out of the Lydia Kiefer Irrevocable Trust to keep Kiefer Soundworks alive while his acoustic patent sat stuck in federal review. Each of the six draws bears Lydia's secondary initials in cramped blue ink, stiff along the curves, traced right over faint pencil guidelines. Beside them lie the three blank pages cut out of her studio sketchbook, covered in dozens of penciled practice runs of *L.K.*, complete with light-table registration ticks along the margins.
 
-Attached to the back sits the same *Bramwell & Shaw* default schedule I photographed upstairs. Graham didn't just miss a payment—he sliced sheets out of his wife's own sketchbook to practice forging her signature on six trust transfers. Anyone holding these notarized sheets wouldn't need a body to put him in prison for wire fraud, yet whoever is framing him needs a homicide indictment instead.
+Clipped to the back sits the same *Bramwell & Shaw* default notice I shot upstairs. Graham didn't just miss a loan deadline—he sliced pages out of his wife's sketchbook to rehearse forging her initials on six transfers. Hand these sheets to a prosecutor and you don't need a body to send him to prison for wire fraud. Whoever is framing him isn't after a fraud indictment; they need murder.
 
-I set the notarized sheets aside and flip open the spiral-bound printout.
+I push the financial sheets aside and flip open the spiral-bound printout.
 
-The cover sheet reads `RAW TIMELINE TRANSCRIPT — 2026-10-14 / 15 OVERNIGHT // UNFILTERED MULTI-ARRAY`.
+The cover reads: `RAW TIMELINE TRANSCRIPT — 2026-10-14 / 15 OVERNIGHT // UNFILTERED MULTI-ARRAY`.
 
-I turn to the 02:09 AM tab, squinting at the dense columns of decibel spikes and timecoded dialogue flagged across `SUNROOM_EAST` and `BOATHOUSE_LINT`. Unlike the wind-scrubbed files on the server monitor, these pages were printed straight from the raw intake buffer before anyone ran spectral filters.
+I turn to the 02:09 AM tab and squint down dense columns of decibel spikes and timecoded dialogue logged across `SUNROOM_EAST`, `MIC_04_PANTRY`, and `BOATHOUSE_LINT`. Unlike the filtered clips on the monitor, this was printed straight off the raw intake buffer before anyone ran noise reduction.
 
-Half the lines are buried under `[GALE GUST — 42 KT]` and `[RAIN IMPACT — GLASS]`, yet four fragments jump off the page in bold type:
+Most of the page is buried under `[GALE GUST — 42 KT]` and `[RAIN IMPACT — GLASS]`. Four lines stand out in bold:
 
 > `02:09:15 [SUNROOM_EAST]` — *Speaker A (Muffled):* "...careful with the varnish—"
 
@@ -52,36 +52,36 @@ Half the lines are buried under `[GALE GUST — 42 KT]` and `[RAIN IMPACT — GL
 
 > `02:14:44 [BOATHOUSE_LINT]` — `[METALLIC LATCH IMPACT — 68 dB // SIGNAL CLIPPED]`
 
-After 02:14:44, the transcript drops into six minutes of dead static—every microphone channel cut simultaneously at the main breaker before resuming at 02:21:02 with nothing but empty rain beating against the cove pilings.
+After 02:14:44, every channel drops into six minutes of dead static—killed together at the main breaker—before coming back online at 02:21:02 to empty rain hammering the cove pilings.
 
-I sit back slowly on the edge of the rolling studio stool, staring at the paper until the lines blur. Even the acoustic hydrophone anchored out in the cove channel logged a brief rhythmic oar-splash at 02:18:11—four minutes *after* the boathouse latch slammed—before the gale surge drowned the sensor out. Whoever rowed out into that cove didn't start the Kiefer skiff's outboard at the dock; they pulled away silently on oars under cover of the blackout, waiting until they cleared the point before firing the engine or cutting the transponder.
+I sink onto the rolling studio stool and stare at the sheet until the print blurs. Even the submerged hydrophone out in the cove channel caught a faint, rhythmic splash of oars at **02:18:11**—four minutes after the boathouse latch slammed—before the gale surge drowned it out. Whoever took the Kiefer skiff into that storm didn't fire the outboard at the dock. They rowed out quiet under cover of the blackout, waiting until they cleared the point before starting the motor or cutting the transponder.
 
-Two people were talking inside the sunroom at 2:09 AM and standing in the boathouse corridor five minutes later—moving varnished oars and mentioning a fountain pen—seconds before someone killed the array at the breaker box. Yet on the drafting table across the room, Graham spent nearly three weeks frantically calculating *how* a fiberglass skiff could clear the east shoal without running aground.
+Two people stood in the sunroom at 2:09 AM and reached the boathouse corridor five minutes later, handling varnished oars and talking about the Montblanc seconds before the breaker dropped. Meanwhile, across this very room, Graham spent two weeks obsessively mapping how a fiberglass skiff could clear the east shoal without grounding.
 
-If Graham killed his wife at 2:14 AM, burying notarized proof of his own $2.4M forgery inside the same locker as an unedited transcript of the crime makes zero sense. Unless he wasn't hiding murder evidence at all—he was sealing an intact, unalterable original defense package inside a steel Faraday cabinet, shielded from remote server wipes or wireless tampering. Side by side, those October tenth wire sheets and raw October fifteenth logs prove two things: his own theft happened four days before the squall, and two *other* voices rigged the oars and left the Montblanc seconds before the breaker dropped. If Cole or an unknown framer moved against him with doctored audio, that red-taped cabinet was Graham's chain-of-custody insurance policy to prove date-and-audio manipulation.
+If Graham murdered his wife at 2:14 AM, locking notarized proof of his own $2.4 million forgery in the same cabinet as an unedited transcript of the night makes no sense. Unless he wasn't hiding murder evidence—he was locking an offline, untouched master copy behind steel where nobody could remotely wipe or alter it. Together, those October tenth wire sheets and raw October fifteenth logs draw a hard line: his embezzlement happened four days before the storm, and two *other* voices rigged the oars and planted the pen right before the array went dark. If someone moved on him with doctored audio, this red-taped envelope was his only way to prove it.
 
 ***
 
-By 5:15 AM, the chill in the concrete floor has climbed straight up my shins into my knees.
+By 5:15 AM, the cold coming up through the concrete has worked straight past my ankles into my knees.
 
-I pace the length of the rubberized matting to keep blood moving in my toes, staying clear of the eerie northeast dead-zone where even my own breathing vanishes. Every half hour, I check my phone—still zero bars—and double-check the backup copies I already pushed to my encrypted Portland vault before coming downstairs. The *Bramwell & Shaw* demand letter is safely in the cloud. Even if Graham—or whoever threw that deadbolt—takes my phone and smashes it against the concrete, they can't erase what's already sitting off-site.
+I pace the length of the rubber mats to keep feeling in my toes, staying out of the northeast dead-zone where even my own breathing disappears. Every half hour I glance at my phone—still zero bars—though at least the *Bramwell & Shaw* photos pushed to my encrypted Portland vault before I came down the shaft. Even if whoever locked that door smashes my phone on the floor, they can't touch what's already off-site.
 
-I slip the encrypted thumb drive off the yellow index card and tuck it deep inside the small watch pocket of my jeans, beside Maren's torn tide chart. Then I slide the notarized $2.4M ledger and the 2:14 AM transcript printout back inside the padded manila envelope, tuck it under my arm, and lean against the edge of the steel worktable to wait out the dark. By five-thirty, my toes are numb inside the rubber mat's chill, and I flex my fingers every few minutes just to keep my grip loose enough to use the multi-tool if the door opens fast.
+I peel the matte-black thumb drive off the yellow index card and tuck it deep into my jeans watch pocket beside Maren's torn tide strip. Then I stack the notarized $2.4 million packet, the three sliced sketchbook pages, and the raw transcript back inside the padded envelope, tuck it under my arm, and lean against the steel worktable to wait out the dark. By five-thirty my fingers feel stiff as twigs, so I keep flexing them in my pockets in case I need the multi-tool fast.
 
-At 5:58 AM, faint water pipes shudder inside the ceiling joists overhead. Someone upstairs just turned on the kitchen tap, followed by the heavy scrape of a chair sliding back across the floor—the chair wedged against the pantry door.
+At 5:58 AM, water pipes shudder faintly inside the ceiling joists overhead. Someone upstairs just ran the kitchen tap. A few seconds later, a heavy chair scrapes back across tile—the chair braced against the pantry door.
 
-I move two steps sideways behind the worktable, keeping the heavy steel edge between myself and the fire door, and grip the folded multi-tool inside my palm. I shift my weight onto the balls of my feet, ready to bolt back into the northeast dead-zone if whoever comes down those steps carries a gun instead of a wrench.
+I step sideways behind the worktable to keep steel between myself and the doorway, my palm closing around the folded multi-tool. I shift onto the balls of my feet, ready to duck back into the northeast dead-zone if whoever comes down those stairs walks in swinging.
 
-At 6:05 AM, heavy footsteps descend the concrete basement stairs outside.
+At 6:05 AM, heavy footsteps come down the concrete steps outside.
 
-They pause on the bottom landing. A brass key slides into the exterior mortise cylinder with a sharp, gritty scrape, and the deadbolt throws back with a loud metallic *clack* that echoes off the acoustic foam.
+They stop on the bottom landing. Brass grates into the exterior mortise cylinder, and the deadbolt throws back with a sharp metallic *clack* that carries across the foam.
 
-The pinpoint red LED above the interior frame winks out.
+The red LED above the frame goes dark.
 
-The heavy steel fire door swings inward on its pneumatic closer, revealing the concrete stairs rising toward the open cedar door on the foyer floor—letting a cold wash of gray dawn light and the smell of wet pine needles spill down from the front hall.
+The heavy steel fire door swings inward on its pneumatic closer, spilling gray dawn light and the smell of wet pine needles down the concrete stairwell from the front hall.
 
-Graham Kiefer stands framed in the open doorway.
+Graham Kiefer stands in the doorway.
 
-He's still wearing yesterday's dark merino crewneck, wrinkled now and dusted across one shoulder with plaster grit, his eyes bloodshot and hollowed out beneath gray stubble. In his right hand, he grips a heavy brass pipe wrench low against his thigh, fingers locked tight around the knurled shaft.
+He's still in yesterday's dark merino crewneck, wrinkled now and dusted across one shoulder with pale plaster grit, eyes bloodshot above gray stubble. In his right hand, held low against his thigh, he grips a heavy brass pipe wrench.
 
-Behind his heels on the stone tile, half-lit by the gray morning window, sits a pair of muddy women's winter duck boots—fresh wet kelp clinging to the rubber soles, dripping dark rainwater beside an open, mud-streaked navy nylon tote.
+Up at the top of the concrete steps, sitting on the foyer slate in the cold gray light from the front window, is a pair of muddy women's winter duck boots—fresh wet kelp clinging to the rubber soles, dripping dark rainwater beside an open, mud-streaked navy nylon tote.
