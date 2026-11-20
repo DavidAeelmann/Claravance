@@ -62,7 +62,7 @@ He hesitates. "Five-point-four."
 
 "Million?"
 
-A muscle works in his jaw. "Before you ask, no, it isn't money I can just move around. But Kiefer Soundworks has a patent buyout sitting in escrow with a defense prime in Arlington. If Bramwell & Shaw freezes the accounts before that closes, I'm screwed."
+"Before you ask, no, it isn't money I can just move around. But Kiefer Soundworks has a patent buyout sitting in escrow with a defense prime in Arlington. If Bramwell & Shaw freezes the accounts before that closes, I'm screwed."
 
 I keep my face neutral, nod like a sympathetic clerk, and watch his hands. "And a probate freeze ties up company equity?"
 

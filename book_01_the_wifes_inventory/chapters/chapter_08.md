@@ -16,7 +16,7 @@ Halstead steps into sight in his navy patrol windbreaker, rain beading dark acro
 
 He pulls a short black jumper wire from his pocket and reaches into the open panel. A faded contractor sticker clings beside the circuit map inside the door: *Halstead Marine & Low-Voltage, Rockland, ME.* Before he ever pinned on a badge, he or his family wired the alarms out on this point.
 
-He leaves the main house circuits alone; the recessed kitchen lights stay steady and the crawlspace dehumidifier keeps humming underfoot. He doesn't even glance at the diagram. He isolates the lower diagnostic loop marked **EXT-DECK / LOGS**, clips the wire across two copper terminals, and checks his watch. The forty-minute diagnostic mode suppresses remote push alerts and holds exterior camera events locally. Nothing pings Graham's phone while those terminals stay bridged.
+He leaves the main house circuits alone; the recessed kitchen lights stay steady and the crawlspace dehumidifier keeps humming underfoot. He doesn't even glance at the diagram. He isolates the lower loop for the exterior deck logs, clips the wire across two copper terminals, and checks his watch. The forty-minute service mode suppresses remote push alerts and holds camera events locally. Nothing pings Graham's phone while those terminals stay bridged.
 
 Halstead eases the panel shut, steps to the end of the corridor, and looks up the main stairs.
 
@@ -32,7 +32,7 @@ At the tablet, Halstead taps six digits onto the dark glass with his left hand a
 
 Cole may have wired the breaker bypass himself, but nobody guesses a six-digit installer code on a defense contractor's security hub. Graham swore no one else had house access. Either Graham lied, or Lydia gave Cole her PIN before she vanished.
 
-He scrolls quickly through the morning event log, his crooked front tooth catching the blue screen glow as his jaw sets. He stops on the master-suite motion pings—my own tracks from half an hour ago.
+He scrolls quickly through the morning event log, his crooked front tooth catching the blue screen glow. He stops on the master-suite motion pings—my own tracks from half an hour ago.
 
 His head lifts toward the main staircase. Now he knows I didn't drive back into town; as far as he can tell, I'm still upstairs, maybe out of earshot behind a closed closet door. Graham is in Portland until afternoon, which means Cole is gambling I stay put long enough for him to finish.
 

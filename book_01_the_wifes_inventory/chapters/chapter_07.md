@@ -54,13 +54,13 @@ Twenty white oblong pills.
 
 I dump them back in, log the October fourth fill date and count, and put the vial back behind the ibuprofen. Then I glance down into the left sink basin.
 
-The porcelain bowl looks spotless. Up close, though, a faint white ring catches the recessed light along the stopper's chrome edge: chalky, slightly gritty, like crushed powder that didn't rinse all the way down.
+The porcelain bowl looks spotless. Up close, though, a faint white ring catches the light along the stopper's chrome edge. Probably dried toothpaste or hard-water grit, except everything else in this bathroom has been scrubbed raw.
 
-I kneel under the vanity with my multi-tool, my left knee popping loud in the quiet room. The curved brass P-trap has been wiped clean on the outside, though if somebody flushed crushed solids down here recently, the bottom bend would still hold trace.
+With those ten missing Ambien still nagging at me, I kneel under the vanity with my multi-tool, my left knee popping loud in the quiet room. The curved brass P-trap looks clean on the outside, though if somebody dumped something down here recently, the bottom bend would still catch it.
 
-Holding a folded paper towel underneath the elbow, I crack the slip-nut loose. A thimbleful of gray water drips onto the paper, followed by a damp smear of white crystalline paste caked inside the lower curve of the pipe.
+Holding a folded paper towel underneath the elbow, I crack the slip-nut loose. A thimbleful of gray water drips onto the paper, followed by a damp smear of white paste caked inside the lower curve of the pipe.
 
-I stare at the chalky smear on my glove. Without a lab, it could be scouring powder or mineral buildup—except nobody scrubs a spotless vanity drain and leaves wet paste packed in the bend. If you dissolve crushed tablets in warm tap water to draw off the clear drug and dump the chalky pill binder down the sink, the P-trap catches the paste. The timing makes those ten missing tablets hard to ignore.
+I stare at the chalky smear on my glove. It isn't toothpaste. Too gritty, and no mint smell. If someone crushed those ten tablets in warm water to draw off the drug, the leftover binder would settle right here in the bend.
 
 I scrape a clean dab of the paste onto a square of foil from my pocket, twist it inside the finger of a spare glove, and knot it shut.
 
@@ -68,9 +68,7 @@ My phone buzzes against my hip, and I crack my elbow on the drainpipe.
 
 ***
 
-I stay frozen under the sink while it gives one short chime, a push alert from the Kiefer Soundworks app. I back out from under the vanity and check the screen. A gray banner covers the lock:
-
-**BACK DECK / PANTRY PERIMETER — MOTION DETECTED**
+I stay frozen under the sink while it gives one short chime, a push alert from the Kiefer Soundworks app. I back out from under the vanity and check the screen. A gray banner across the lock screen flags motion at the back pantry door.
 
 Graham is in Portland. I'm supposed to be alone on this peninsula for hours yet. I tap the banner and pull up the live guest feed.
 
@@ -84,7 +82,7 @@ I watch him check his wristwatch, glance over his shoulder at the empty deck sta
 
 A rotating code Graham swore changed every forty-eight hours. A deputy he claimed never stepped inside. Now Halstead is walking straight into the kitchen while Graham's ninety miles south, and he doesn't even knock.
 
-Halstead steps inside and pulls the glass door shut behind him. The video feed stutters, then drops to a gray **FEED INTERRUPTED** box.
+Halstead steps inside and pulls the glass door shut behind him. The video feed stutters, then drops to a gray error box.
 
 I snug the slip-nut back up, swipe the slate dry with the paper towel, and strip the gloves off on my way into the upper hall. If I stay up here, I'm trapped at the top of a single staircase—or worse, he walks back out before I find out what he came for.
 

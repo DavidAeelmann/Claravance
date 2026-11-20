@@ -12,13 +12,13 @@ Graham leans hard against the wall, one hand pressed to his swollen cheek, his c
 
 I drop into the chair, wake the console, and pull up the *Kiefer Soundworks* zone router. Every upstairs speaker is dead except the basement array, which draws off Zone 4's battery bank. The exterior cellular bridge went dark with the main power, too. Nothing leaves this house over the air tonight. Then I spot it—one green status line at the bottom of the screen confirming the boathouse mic puck mirrored onto the Zone 4 backup drives twenty minutes ago.
 
-The interface is typical Graham: three nested menus deep just to route a single audio channel, like he designed it to impress an architect instead of someone trying to keep from getting shot. My thumb slips once on the trackpad before I highlight `MIC_04_PANTRY_020915.wav`, route it to `ZONE_4_DARKROOM_SPEAKERS`, and push the gain to the stops. If Cole hears Lydia's voice blasting out of the basement, he won't go door to door upstairs. He'll charge the concrete steps to kill it.
+The interface is typical Graham: three nested menus deep just to route a single audio channel, like he designed it to impress an architect instead of someone trying to keep from getting shot. My thumb slips once on the trackpad before I highlight the raw pantry recording, route it straight to the darkroom speakers, and push the volume to the stops. If Cole hears Lydia's voice blasting out of the basement, he won't go door to door upstairs. He'll charge the concrete steps to kill it.
 
 "Stay behind the shelves," I tell Graham, with a jerk of my chin toward the walnut stacks in the corner. "If Lydia checks this room, don't breathe, and don't come out until I call you."
 
 He nods once, stiffly, and backs into the shadow behind the tall case. He pulls his knees in, trying to make a six-foot frame vanish behind six inches of walnut molding.
 
-I hit `PLAY_LOOP`, then kill the display power so the room drops back to black. Under our feet, muffled through cedar and concrete, Lydia's voice—cool, dry, laughing over the squeak of a wet rag—booms through the basement. Graham flinches at the sound of his wife's laugh coming up through his own floorboards.
+I hit play on a continuous loop, then kill the display power so the room drops back to black. Under our feet, muffled through cedar and concrete, Lydia's voice—cool, dry, laughing over the squeak of a wet rag—booms through the basement. Graham flinches at the sound of his wife's laugh coming up through his own floorboards.
 
 Out in the foyer, Cole's flashlight jerks toward the stairwell door. His boots stop dead on the slate.
 

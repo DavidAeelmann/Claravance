@@ -1,12 +1,12 @@
 # Chapter 11
 
-At 1:52 AM, the cast-iron radiator under my window gives a single sharp tick and goes quiet.
+Nearly two in the morning, the cast-iron radiator under my window gives a single sharp tick and goes quiet.
 
 I lie on top of the stripped quilt in my jeans and flannel and stare at the ceiling while the pipes cool. My hip aches where a belt loop is pressed into the mattress, too stiff to sleep, too tired to roll over and fix it. Outside, the cove wind drags dead spruce needles across the dormer slate in irregular bursts. For a second I'm back in our old apartment in Burlington, awake on my side of the room while Nina's bed stayed made. That same hollow quiet right before a bad phone call, when you already know the morning is ruined before anyone speaks and you're just stalling the clock. Then the blue glow of my laptop on the nightstand drags me back to Salt Point.
 
 I tell myself to close my eyes for twenty minutes. Just twenty. My jaw is clenched so tight my molars ache, and the back of my neck feels like knotted rope. Half of me wants to grab my duffel, walk down the gravel drive in the dark, and let whoever owns this house sort out their own mess by sunrise. The other half knows what happens if I leave without proof. Walking out at dawn isn't an option.
 
-Thirty minutes crawl past. I'm reaching for my wool socks at the foot of the bed when a sharp metallic *clack* carries through the framing from the kitchen wing. The laptop clock reads 2:27 AM. Too hollow for the front deadbolt, too clean for the wind. It rings like a heavy latch dropping home inside a wall near the pantry, followed by a low hum vibrating through the baseboard pipes, as if something weighted just settled on a line.
+Thirty minutes crawl past. I'm reaching for my wool socks at the foot of the bed when a sharp metallic *clack* carries through the framing from the kitchen wing. The laptop clock reads just past two-twenty. Too hollow for the front deadbolt, too clean for the wind. It rings like a heavy latch dropping home inside a wall near the pantry, followed by a low hum vibrating through the baseboard pipes, as if something weighted just settled on a line.
 
 I sit up fast, my heart thumping against my ribs, and pull the socks on. My hands are clumsy with cold. I ease the desk chair out from under the doorknob, wait a beat for the floorboards to settle, and crack the door an inch.
 

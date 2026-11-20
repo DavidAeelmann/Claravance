@@ -26,7 +26,11 @@ He stops dead beside the steel jamb. He looks down at the pipe wrench as if he's
 
 "You didn't throw the deadbolt at two-thirty?"
 
-"I didn't move until five-forty-five." He turns and starts up the concrete steps. Both doors stay wide open as he waves an unsteady hand toward the kitchen arch. "When I came to, my key ring was lying on the floor beside the sofa, a kitchen chair was jammed under the pantry knob, the Zone Four workstation was pulling power, and the front door stood unlatched. Whoever dropped down that dumbwaiter shaft earlier couldn't crack my thirty-two-character passphrase or force the archive cabinet. They climbed back out into the kitchen, lifted my keys while I was out, and cracked the basement door when they saw the center displays wake up. From the doorway, the northeast bass traps blocked their view of the pried archive cabinet. They just saw you moving in the darkroom, slammed the deadbolt home, wedged a chair against the pantry to seal the shaft, and tossed my keys back by the sofa assuming a full glass of spiked bourbon would keep me comatose until afternoon. Come up. If I wanted you buried in a cellar, I wouldn't have turned the key."
+"I didn't move until quarter to six." He turns and starts up the concrete steps, waving an unsteady hand toward the kitchen arch. "My keys were lying on the floor by the sofa. Chair was jammed under the pantry knob. Front door was standing open."
+
+"And you didn't think to check the cellar?"
+
+"I heard the darkroom fans pulling power," he says, pausing on the landing to catch his breath. "Whoever dropped down that dumbwaiter shaft couldn't crack my passphrase or the archive cabinet, so they climbed back up, lifted my keys while I was out, and saw you moving in the darkroom. The bass traps must've blocked their view of the pried cabinet. They slammed the deadbolt, jammed the pantry, and tossed my keys back by the sofa assuming I'd stay out cold till noon. Come up. If I wanted you buried down there, I wouldn't have turned the key."
 
 ***
 

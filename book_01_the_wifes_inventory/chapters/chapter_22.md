@@ -56,7 +56,7 @@ A plainclothes State Police detective steps away from the open rear hatch of the
 
 Ward pauses, pen poised over an evidence bag. "Show me what you pulled."
 
-I unzip the outer pouch and set out the thumb drive (`RAW_BUFFER_OCT14_15`), Cole's Tuesday warning slip, and the knotted glove finger holding the P-trap swab. "The raw overnight audio from the storm: Cole and Lydia in the sunroom and boathouse around two-fourteen. Plus Cole's warning slip as a left-handed sample, and a swab of white paste I pulled from the master bath P-trap."
+I unzip the outer pouch and set out the thumb drive, Cole's Tuesday warning slip, and the knotted glove finger holding the P-trap swab. "The raw overnight audio from the storm: Cole and Lydia in the sunroom and boathouse around two-fourteen. Plus Cole's warning slip as a left-handed sample, and a swab of white paste I pulled from the master bath P-trap."
 
 Ward bags each piece with gloved fingers and waves an evidence tech over. "Have the studio team print that Montblanc before anyone moves it," he tells the tech. "And pull Halstead's October fifteenth report so documents can compare his writing against this slip and that smudged checklist on the blotter. I want his prints, his installer logs, and the two-fourteen audio lined up together."
 

@@ -28,7 +28,7 @@ Graham drops into the desk chair and wakes the dual displays. White light catche
 
 I set the thumb drive beside his keyboard. "Mount the raw partition. The full unedited audio from October fifteenth, two-fourteen."
 
-He plugs the drive into the tower under the desk. A terminal prompt pops up on the left screen asking for a thirty-two-character passphrase. His fingers stop above the keys. "Unlocking the master partition opens the whole audit log," he says, eyes fixed on the screen. "Every voice memo I recorded after the trust money was gone. Every transfer receipt."
+He plugs the drive into the tower under the desk. A terminal prompt pops up on the left screen asking for a long passphrase. His fingers stop above the keys. "Unlocking the master partition opens the whole audit log," he says, eyes fixed on the screen. "Every voice memo I recorded after the trust money was gone. Every transfer receipt."
 
 "Your *Bramwell & Shaw* default notice is already on a server in Portland," I say. I lean a hip against the desk edge where I can see both his hands and the hall door. "You're past saving your reputation, Graham. Right now you're trying to stay out of Thomaston."
 
@@ -36,7 +36,7 @@ He exhales sharply through his nose and starts typing.
 
 ***
 
-A green progress bar crawls across the left display while rain beats against the north window and the tower fans kick higher. On the right screen, a local folder labeled `ARLINGTON_STAFFING_OCT21` sits open behind the terminal, and an unsealed manila folder tabbed `CALDER_T — VETTING` rests beside the keyboard. Graham's hands stay in plain sight. I flip the cover back. Inside is a two-page Boston background report dated October twenty-first, listing my Commercial Street fire-manifest termination and my $18,412 Cumberland County judgment. Graham's own typed screening note is stapled to the corner:
+A green progress bar crawls across the left display while rain beats against the north window and the tower fans kick higher. On the right screen, an Arlington staffing folder sits open behind the terminal, and an unsealed manila folder tabbed with my name rests beside the keyboard. Graham's hands stay in plain sight. I flip the cover back. Inside is a two-page Boston background report dated October twenty-first, listing my Commercial Street fire-manifest termination and my $18,412 Cumberland County judgment. Graham's own typed screening note is stapled to the corner:
 
 *Refused dirty sign-off 2023. $18,412 levy pending Nov. Cornered enough to take cash, too stubborn to walk past a six-minute Zone 4 dropout or a dry life vest. Put under $50k IP NDA (leave Clause 3 photo ban intact to test if she demands chain-of-custody rider). Watch what Oct 15 tampering she flags first.*
 
@@ -50,11 +50,11 @@ He doesn't pull his hand back. His fingers curl slightly against the paper. "I n
 
 "Being broke does," I say. "Or whatever offshore money Lydia put in front of him."
 
-His jaw sets as he glances at the screen. "Her father set up offshore trust accounts before his stroke, money I never touched. When I pulled the two-point-four million for Kiefer Soundworks, I intended to put it back before the November audit. I never figured she'd vanish instead of filing for divorce."
+Graham glances at the screen. "Her father set up offshore trust accounts before his stroke, money I never touched. When I pulled the two-point-four million for Kiefer Soundworks, I intended to put it back before the November audit. I never figured she'd vanish instead of filing for divorce."
 
-Ninety-eight percent. Ninety-nine. The tower chimes softly, and a directory tree opens on the right display: `RAW_BUFFER_OCT14_15`. Twelve timestamped WAV files appear, multi-channel mixdowns pulled straight off the house array, untouched by the automated scrubbers.
+Ninety-eight percent. Ninety-nine. The tower chimes softly, and a raw October fourteenth folder opens on the right display: twelve timestamped audio files pulled straight off the house array, untouched by the automated scrubbers.
 
-I point to the fifth line down: `MIC_04_PANTRY_020915.wav`, the synced five-channel master anchored on the indoor pantry corridor feed.
+I point to the fifth line down, the master file anchored on the indoor pantry feed.
 
 "Play that one. All the way up."
 
@@ -76,17 +76,17 @@ Then Lydia laughs, short and bright. Underneath it, a wet rag squeaks back and f
 
 *"Leave the Montblanc beside the note on the blotter,"* Lydia says as her steps fade toward the stairs. *"If Graham wants to play tidy widower, let him explain a rushed departure list in the studio."*
 
-At 02:14:44, a heavy door thuds shut. A second later, the waveform collapses into six minutes of dead dropout.
+At two-fourteen, a heavy door thuds shut. A second later, the waveform collapses into six minutes of dead dropout.
 
 Graham doesn't move, staring at the flat green line, both hands still on the armrests. "She's laughing," he whispers. "God. She's standing in my hallway at two in the morning wiping down a staged oar, and she's *laughing*."
 
 "That was Lydia," I say. "And Cole Halstead was right there with her. Every minute we sit here gives them another step on us."
 
-I plug my phone into the USB cord beside his display. "Export that WAV. Copy it to my phone and push a backup to your off-site cloud before Cole cuts the fiber line."
+I plug my phone into the USB cord beside his display. "Export that file. Copy it to my phone and push a backup to your off-site cloud before Cole cuts the fiber line."
 
 ***
 
-Graham's hand shakes as he drags the raw WAV file into my phone's transfer window. The bar ticks upward: `14%... 38%...`
+Graham's hand shakes as he drags the raw audio file into my phone's transfer window. The bar ticks upward: *14%... 38%...*
 
 Before it reaches fifty, the server rack in the corner chimes twice, a clean two-note tone.
 
@@ -94,13 +94,7 @@ Before it reaches fifty, the server rack in the corner chimes twice, a clean two
 
 Graham twists around toward the smoked glass, eyes wide. "A registered house tablet coming back in mesh range. I wiped every remote device after the Coast Guard called off the search. There shouldn't be anything paired to this—"
 
-A new folder pops up inside the `CLOUD_SYNC` queue on the left display.
-
-`DEVICE_ID: L_KIEFER_IPAD_MINI_02`
-
-`STATUS: SYNC_COMPLETE`
-
-`FILE: CALDER_CONFESSION_FINAL.wav`
+A new folder pops up inside the cloud-sync queue on the left display. Lydia's iPad Mini just finished syncing a file labeled as my confession.
 
 "Don't play it," I snap. "Check the header."
 
@@ -114,6 +108,6 @@ I stare at the pulsing waveform. It's uncanny, hearing myself beg like that: cle
 
 "They didn't just plant the boots," I say, my mouth dry. "Whoever locked me in the cellar at two-thirty bought themselves three hours to render that file."
 
-On the left screen, the transmission log flashes green: `EXTERNAL UPLOAD COMPLETE — KNOX_COUNTY_EVIDENCE_DROP`. Half a second later, a red banner drops across the network window: `OUTBOUND WAN GATEWAY LOCKED — ADMIN OVERRIDE`. The fake confession is already on a county server. Whoever holds admin access on Lydia's iPad just killed the router's upload path before our raw WAV could leave the study.
+On the left screen, the transmission log flashes green: the upload to the Knox County evidence drop just finished. Half a second later, a red banner drops across the network window locking down outbound internet access. Whoever holds admin access on Lydia's iPad just killed the router's upload path before our raw audio could leave the study.
 
 Out on the ridge road, muffled through the rain-lashed glass, a siren wails in the dark, two miles out and closing fast.

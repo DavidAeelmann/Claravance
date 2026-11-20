@@ -46,11 +46,11 @@ I sit at the island with a bowl of leek soup I can barely taste. My fingers stay
 
 "Did Deputy Halstead stop by while I was in town?" I ask.
 
-Graham sets his spoon down against the saucer rim. "Why?"
+Graham shuts the tap off and reaches for a dish towel. "Why?"
 
 "Fresh heavy-lug tracks in the turnaround," I say, my eyes on my bowl. "Thought maybe the Coast Guard sent him out with a storm advisory."
 
-"He checked the gate keypad," Graham says, and sets his spoon beside his napkin. "Somebody reported a loose dinghy drifting near the outer rocks this afternoon. He didn't even come inside."
+"He checked the gate keypad," Graham says, drying his hands. "Somebody reported a loose dinghy drifting near the outer rocks this afternoon. He didn't even come inside."
 
 Funny. Halstead hadn't mentioned a stray dinghy an hour ago with his arm hooked over my car door.
 
@@ -60,7 +60,7 @@ Graham glances toward the archway, the quiet grief sliding back over his face. "
 
 "Got it. Mind if I grab the manufacturer tag and serial number off the lining? Boston counsel likes serial numbers on marine items."
 
-"Go ahead." He picks up his bowl, carries it to the sink, and turns his back while the tap runs. "Just don't take it off the property."
+"Go ahead." He turns back to the sink and lets the tap run again. "Just don't take it off the property."
 
 I slide off the stool and walk into the mudroom, loud enough for him to hear.
 

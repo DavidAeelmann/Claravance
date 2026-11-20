@@ -8,7 +8,7 @@ He stops in the archway with his phone pressed against his thigh and takes in my
 
 "Thanks." I step over to take both, the brass key cool against my palm. "Which room is Lydia's studio? If you want a preliminary ledger by Friday, I'd rather see how much is in there tonight than waste morning light."
 
-His mouth pulls tight. "End of the upper hall, opposite the master suite. Don't start boxing anything tonight, Ms. Calder. Get some sleep. The wind off the cove gets loud after midnight."
+"End of the upper hall, opposite the master suite. Don't start boxing anything tonight, Ms. Calder. Get some sleep. The wind off the cove gets loud after midnight."
 
 *Ms. Calder*, said the way a man says *plumber* when he thinks he's overpaying by the hour. "I sleep fine with noise."
 

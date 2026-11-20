@@ -6,7 +6,7 @@ Graham flinches back against the cast-iron radiator as I drop to my knees beside
 
 "Quiet." I set the knife beside my knee, keep one eye on the kitchen arch, and dig the multi-tool out of my pocket. "Cole and Lydia are in the basement. Two minutes, maybe less, before they figure out that crash wasn't me."
 
-I flip out the narrow awl. My right hand shakes from the cold, and my wrist stings every time I try to brace it. Cole slapped standard county hinged cuffs on him, and in his hurry to get down to the boathouse, he skipped the safety lock. No secondary pin blocking the cuff catch.
+I flip out the narrow awl. My right hand shakes from the cold, and my wrist stings every time I try to brace it. I've never picked a pair of hinged police cuffs in my life, and if Cole locked the safety pin, we're both stuck here.
 
 "Keep your wrist still," I tell him.
 
@@ -14,9 +14,9 @@ I flip out the narrow awl. My right hand shakes from the cold, and my wrist stin
 
 "Shut up and hold still."
 
-I slide the thin tip into the keyway to hook the spring-loaded catch and lever it back. Graham jerks as the metal scrapes bone, and the awl slips out of the slot. I swear under my breath, pin his forearm against the radiator pipe with my knee, and feed the tip back in. Salt grit inside the hinge makes the tool skitter off the catch, so I brace the handle against the heel of my palm and turn harder.
+I poke blindly into the keyhole, trying to feel the catch. My fingers slip and jam the awl tip straight into my own thumb—hard enough to draw blood. Graham jerks as the metal scrapes bone. I swear under my breath, pin his forearm against the radiator pipe with my knee, and try again. Salt grit inside the hinge makes the tool skitter twice before I brace the handle against the heel of my palm and shove.
 
-*Click.* The jaw pops open.
+*Click.* Cole had been in too much of a hurry to double-lock them. The jaw pops open.
 
 Graham yanks his arm free and rubs the red groove around his wrist as he scrambles to his feet on the wool rug. His knees hit the radiator valve, clanging iron against iron, and both of us freeze for half a second, waiting. I grab the knife. Somewhere beneath the floorboards, Cole's voice booms muffled through concrete. He's found the shattered counterweight beside the ladder, and the fury carries even through masonry.
 

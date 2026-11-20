@@ -2,17 +2,17 @@
 
 I lean over the steel worktable, keeping my weight off the tripod. A figure that looks like Graham Kiefer is frozen on the left monitor in a dark rain slicker, hood pulled low, gloved hands clamped around the knotted end of a rolled canvas rug. Behind him, the sunroom doors stand cracked open to the storm while rain streaks across the infrared lens. Ahead of him, the boathouse doors gape black.
 
-White digital numbers burned into the upper corner read **02:14:07 AM**.
+White digital numbers burned into the upper corner read **02:14 AM**.
 
-A bare-bones timeline runs beneath the paused frame: a local three-minute export pulled from an **ARCHIVE** folder, not a cloud clip. Beside it, an audio editor holds five stacked waveform tracks: `SUNROOM_EAST`, `MIC_04_PANTRY`, `STAIRWELL_4`, `BOATHOUSE_LINT`, and `HYDROPHONE_COVE`.
+A bare-bones timeline runs beneath the paused frame: a local three-minute export pulled from an **ARCHIVE** folder, not a cloud clip. Beside it, an audio editor holds five stacked waveform tracks labeled for the sunroom, pantry, stairwell, boathouse, and cove hydrophone.
 
 He didn't just build noise-canceling prototypes down here. He wired microphones across the whole property—sunroom, pantry, stairwell, boathouse, even a submerged hydrophone on the cove pilings—into one local array. Half the rooms upstairs feed right into this cellar. Probably every word we traded over leek soup Tuesday night, too.
 
-A waist-high aluminum server rack hums beside the table and vents warm air through perforated steel. Three black chassis units sit stacked inside (`PRIMARY PARALLEL`, `COVE HYDROPHONE`, `AMBIENT / PERIMETER`) above a bolted battery bank to keep the drives alive if main power drops. A cellular bridge rests on top with its status light dead. External alerts won't leave this rack over cell, though local house sensors are another matter.
+A waist-high aluminum server rack hums beside the table and vents warm air through perforated steel. Three black server units sit stacked above a bolted battery bank to keep the drives alive if main power drops. A cellular bridge rests on top with its status light dead. External alerts won't leave this rack over cell, though local house sensors are another matter.
 
 I glance back toward the fire door under the foyer stairs, sealed shut on its heavy closer. My knuckles are raw from the iron ladder, and I can't stop thinking about how bad it'll look if the house system already tripped an alert upstairs.
 
-I nudge the mouse to wake the right screen, careful not to hit play. A processing log fills the display from October twenty-first through yesterday morning: two weeks of wind-noise filters hammered against one eight-minute stretch (`02:09` to `02:17`) to pry human voices out from under gale roar. The last completed render finished November 4 at 7:05 AM, ten minutes before Graham left for Portland. A red terminal alert underneath is stamped **4:45 PM**: three failed passphrase lockouts on the encrypted export queue.
+I nudge the mouse to wake the right screen, careful not to hit play. A processing log fills the display from October twenty-first through yesterday morning: two weeks of wind-noise filters hammered against one eight-minute stretch (`02:09` to `02:17`) to pry human voices out from under gale roar. The last completed render finished early yesterday morning, ten minutes before Graham left for Portland. A red terminal alert underneath is stamped **4:45 PM**: three failed passphrase lockouts on the encrypted export queue.
 
 At four-forty-five yesterday, Graham was on I-95 south and I was down at Maren's sorting shed. Somebody stood right at this table trying to crack the export queue while the house sat empty, minutes before I spotted that flashlight behind the boathouse window.
 

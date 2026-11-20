@@ -79,7 +79,7 @@ Only the bottom right corner of the missing page tore loose before the blade fin
 
 A freshly stamped brass room tag on a steel ring rests directly on top of the sliced binding, where the wet glue is still tacky to the touch.
 
-**ROOM 4 — ATTIC EAST.**
+*Room 4 — Attic East.*
 
 Above my head, directly across the third-floor rafters where the attic corridor runs, a floorboard groans under the slow, deliberate shift of a boot.
 

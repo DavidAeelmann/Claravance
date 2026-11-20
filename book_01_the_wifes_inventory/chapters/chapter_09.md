@@ -60,19 +60,19 @@ She sets her mug beside a pair of wire cutters and glances toward the doorway li
 
 "And you don't buy it?"
 
-Maren drops her voice low over the surf. "Graham doesn't know a cleat hitch from a shoelace. Put him in that skiff in a thirty-knot southeast blow at two in the morning and he'd have piled it onto the ledges before he cleared the cove mouth."
+Maren drops her voice low over the surf. "Graham doesn't know a cleat hitch from a shoelace. Put him in that skiff in a southeast blow at two in the morning and he'd have piled it onto the ledges before he cleared the cove mouth."
 
 "Then who took it out?"
 
-"Somebody who planned for it two days early." Maren shifts her weight, the floorboards creaking under her boots. "Lydia walked down my cliff trail Monday afternoon—October twelfth, two days before the gale hit. Thin cashmere sweater, no coat. She was shivering like a wet cat and ruining leather loafers in the kelp. That five-grand envelope I just told you about? She dropped it right next to my twine spools before she even said what she wanted."
+"Somebody who planned for it two days early." Maren shifts her weight, the floorboards creaking under her boots. "Lydia came down my cliff trail Monday afternoon—two days before the gale hit. Thin sweater, no coat, shivering like a wet cat and ruining leather loafers in the kelp. That five-grand envelope? She dropped it right next to my twine spools before she even said what she wanted."
 
 "What did she ask for?"
 
-"Told me to keep my sorting-shed dock lights killed and stay indoors behind drawn shades once the storm came in. Claimed she was staging a late-night launch for some private photography project and didn't want neighbor floodlights ruining the water." Maren's mouth twists. "While I was counting the bills, she picked a brass bracket off my bench and made casual talk about coastal AIS tracking: whether a hard southeast squall creates shore-station blind spots along the point or masks a switched-off transponder until a boat clears the bay."
+"Told me to keep my dock lights killed and stay indoors behind drawn shades once the blow came in. Claimed she was shooting night photos and didn't want floodlights ruining the water." Maren's mouth twists. "While I was counting the bills, she picked a brass bracket off my bench and started asking about boat trackers—whether a hard squall blocks the shore signal along the point if a boat shuts its radio off."
 
 "Did she give an excuse for asking about the radio?"
 
-"Said she was writing a magazine piece on off-grid lobster poaching." Maren lets out a dry snort. "Woman couldn't tell a Jonah crab from a quahog, and suddenly she's worried about AIS blind spots and transponder logs. Now get out of here before full dark drops. I've already said ten times more than my mooring is worth. Graham or Cole catches you coming off my beach, they'll lock that gate before you hit your car."
+"Said she was doing a magazine piece on night poaching." Maren lets out a dry snort. "Woman couldn't tell a Jonah crab from a quahog, and suddenly she's worried about boat trackers. Now get out of here before full dark drops. I've already said ten times more than my mooring is worth. Graham or Cole catches you coming off my beach, they'll lock that gate before you hit your car."
 
 ***
 

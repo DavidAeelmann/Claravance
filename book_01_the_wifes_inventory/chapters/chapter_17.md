@@ -16,7 +16,7 @@ Lydia steps behind me and presses the muzzle against the base of my skull while 
 
 "Cole will be right down once he's done with your little stall at the front door," she says. She circles back where she can watch both me and the double doors, sets the gun on the workbench within six inches of her right hand, and picks up an iPad Mini.
 
-`L_KIEFER_IPAD_MINI_02.` She wakes the screen, opens a blank note, and starts tapping with steady, unhurried thumbs. She doesn't even look winded. Most people at gunpoint at least breathe hard, or sweat, or let their voice shake, and Lydia looks like she's answering an email about catering.
+Lydia's iPad Mini wakes under her thumb. She opens a blank note and starts tapping with steady, unhurried thumbs. She doesn't even look winded. Most people at gunpoint at least breathe hard, or sweat, or let their voice shake, and Lydia looks like she's answering an email about catering.
 
 "What are you writing?" I ask.
 
@@ -26,7 +26,7 @@ My wrists ache under the nylon, my fingers already going dull as my sneakers sli
 
 I keep my eyes on Lydia so my shoulders don't give anything away. Just above my bound wrists, an oyster knife is wedged blade-out into a split seam along the underside of the rail, its swollen oak handle stuck fast in dried salt crust. Somebody probably jammed it there years ago to shuck bait and forgot it.
 
-I leave it alone for now and drop my gaze to the lower cross-brace of the bait table beside my left sneaker. A *Kiefer Soundworks* wired mic is bolted deep in the shadow under the timber, running into the waterproof `BOATHOUSE_LINT` conduit that climbs the cliff to Graham's basement server. From floor level, I can see a pinpoint blue LED glowing steadily under its rim.
+I leave it alone for now and drop my gaze to the lower cross-brace of the bait table beside my left sneaker. A *Kiefer Soundworks* wired mic is bolted deep in the shadow under the timber, running into the waterproof conduit that climbs the cliff to Graham's basement server. From floor level, I can see a pinpoint blue LED glowing steadily under its rim.
 
 Live. Hardwired back to the Zone Four array. From where she stands by the workbench, Lydia can't see it tucked under the overhang. She thinks she owns Graham's network just because her tablet still reaches the house Wi-Fi from down here.
 
@@ -34,17 +34,17 @@ None of it helps me if Cole walks through those doors first. I need her talking 
 
 "We already decrypted the pantry mic, Lydia," I say. "Heard you laughing with Cole at two in the morning while wiping down an oar, and telling him to leave the Montblanc next to that smudged checklist. You got sloppy in St. Andrews when you scanned your real passport like an amateur. And now you're letting a county deputy run the whole frame while Boston ties up your Cayman money in probate for five years."
 
-Her thumbs stop on the glass. For a second the only sound in the boathouse is the harbor water slapping the underside of the planks. Then her jaw tightens, and I know I hit the nerve.
+Her thumbs stop on the glass. For a second the only sound in the boathouse is the harbor water slapping the underside of the planks.
 
-"Cole couldn't stage a parking ticket without me," she snaps. "My father's Cayman trustee wouldn't transfer control without an in-person passport verification outside the U.S. I gambled a quiet New Brunswick marina wouldn't trip a marine-insurance port watch before Graham was dead."
+"Cole couldn't stage a parking ticket without me," she snaps. "My father's Cayman trustee wouldn't transfer control without an in-person passport check outside the U.S. I gambled a quiet New Brunswick marina wouldn't trip a marine-insurance port watch before Graham was dead."
 
 "And you think Boston's going to hand over three million without a fight?"
 
-"There won't be a probate fight. Under the trust rules, a signed confession paired with Graham's death triggers immediate forfeiture. That blocks his estate and Kiefer Soundworks' creditors from touching a dime of the remaining money."
+"There won't be a fight," she shoots back, sharp and impatient. "The second Graham's dead with a signed confession next to him, the trust cuts his estate off cold. Not one dime goes to his company's creditors—it all rolls straight to me."
 
 "Right. That's why Cole had to hide your weekender behind Graham's coats."
 
-"That bag was supposed to make it look like Graham intercepted me walking out on him October fourteenth and hid my luggage, except Cole forgot to strip the Yarmouth ferry tag Monday morning and shoved it behind the overcoats with October seventeenth still hanging off the handle," she shoots back. "Same way I had to babysit him Sunday when Graham drove south and we finally had an empty house to bleach the sunroom floor without fumes pouring down the cellar shaft. The idiot dropped his pilfered B-4 key behind the baseboard and hammered the trim right back over it. Everything in that house ran on my clock, Tessa. Including your five o'clock Boston courier. I canceled him an hour ago."
+"That bag was supposed to make it look like Graham intercepted me walking out on him October fourteenth and hid my luggage, except Cole forgot to strip the Yarmouth ferry tag Monday morning and shoved it behind the overcoats with October seventeenth still hanging off the handle," she says. "Same way I had to babysit him Sunday when Graham drove south and we finally had an empty house to bleach the sunroom floor without fumes pouring down the cellar shaft. The idiot dropped his pilfered B-4 key behind the baseboard and hammered the trim right back over it. Everything in that house ran on my clock, Tessa. Including your five o'clock Boston courier. I canceled him an hour ago."
 
 "The Coast Guard—"
 
@@ -54,7 +54,7 @@ Behind my left shoulder, harbor water sucks hard against the slipway planks. My 
 
 "You didn't even get the life vest wet with salt water," I push. Behind the piling, I angle my bound wrists upward until the taut nylon ridge presses against the blade of the oyster knife. "I shot the clean lot stamp on that vest, and I bagged a swab of the paste you flushed down the master bath P-trap before dusting Graham's rocks glass. Wait till a state lab runs a tox screen on that."
 
-Her mouth curves in a thin smile. "Cole signed the report. Nobody's ordering a second medical examiner when there won't be a body left once the crabs are done. By five-fifteen high tide, there's nobody left on Salt Point to argue trust law with a Boston judge."
+"Cole signed the report." She glances down at the screen, completely unbothered. "Nobody's ordering a second medical examiner when there won't be a body left once the crabs are done. By five-fifteen high tide, there's nobody left on Salt Point to argue trust law with a Boston judge."
 
 ***
 

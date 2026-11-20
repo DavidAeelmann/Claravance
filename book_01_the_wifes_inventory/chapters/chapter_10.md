@@ -96,14 +96,6 @@ Before the upload bar finishes, my phone buzzes against my leg. The Kiefer Sound
 
 I tap the attachment.
 
-**ATLANTIC MARINA PORT-CLEARANCE WATCH — PRIORITY HIT**
+I tap the attachment. It's a port-clearance alert for Lydia Kiefer's passport, scanned Tuesday morning at St. Andrews Private Marina in New Brunswick.
 
-**NAME:** KIEFER, LYDIA S.
-
-**DOCUMENT:** US PASSPORT #••••••3907
-
-**PORT:** ST. ANDREWS PRIVATE MARINA, NEW BRUNSWICK
-
-**TIMESTAMP:** NOV 3, 2026 — 09:42 AST
-
-I stare at the white text in the dark room. Yesterday morning—while Graham stood in this kitchen telling me she drowned nearly three weeks ago—Lydia Kiefer walked off a dock across the Canadian border and scanned her own passport.
+I stare at the screen in the dark room. Yesterday morning—while Graham stood in this kitchen telling me she drowned nearly three weeks ago—Lydia Kiefer walked off a dock across the Canadian border and scanned her own passport.

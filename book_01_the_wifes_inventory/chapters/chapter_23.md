@@ -38,7 +38,7 @@ I read the card and look up at her.
 
 "Graham told me he was paying out of his own pocket."
 
-"He did." Margot rests her gloved hands on top of her briefcase. "Through a separate contractual escrow he funded ahead of the Arlington closing. When he drove down to Portland that Wednesday to collect the pre-closing packet—after moving your deadline up twenty-four hours into a coastal gale—I saw your name on the contractor voucher and added the thirty-five-hundred-dollar storm adjustment myself. Once his arrest voided the closing, the escrow terms still required release to whichever contractor delivered an unredacted accounting of the estate."
+"He did." Margot rests her gloved hands on top of her briefcase. "Graham funded a separate escrow before the Arlington deal closed. When he came down to Portland Wednesday—right after shoving your deadline into a gale—I saw your name on the voucher and tacked on thirty-five hundred for the storm myself. His arrest killed the buyout, but the escrow still pays out to whichever contractor turned in an honest accounting."
 
 She pauses while the waitress walks past with a fresh carafe and waits until the booth behind us empties out.
 
