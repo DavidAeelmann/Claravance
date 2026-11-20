@@ -28,15 +28,17 @@ Heavy boots hammer across the foyer toward the basement steps, taking the concre
 
 ***
 
-I slip out into the dark north hall. Going straight down the stairwell behind an armed deputy is suicide—and across the black living room arch, a thin penlight flickers briefly by the fireplace hearth. Lydia is still up here. If Cole reaches that basement rack alone, he'll smash the RAID array holding Lydia's boathouse confession before anybody can stop him.
+I slip out into the dark north hall with my hand on the **B-4** key in my pocket, aiming to cross the foyer and throw the exterior deadbolt on the basement fire door behind him. Before I reach the archway, a thin penlight slices across the foyer slate from the living room—Lydia, gripping a heavy iron fireplace poker, cutting straight into the basement stairwell right behind Cole to tell him the playback is a trap.
 
-While Cole's boots thunder downward, I skirt the edge of the hall into the dark kitchen, my hip grazing the island counter before I find the narrow pantry corridor.
+With Lydia blocking the foyer stairs, I can't reach the fire door from the hall—and the second she tells Cole I triggered the loop from upstairs, he'll smash the Zone 4 RAID array holding her boathouse confession and charge right back up. My only shot at that lock is flanking them from the inside while the speaker blare pulls both of them toward the console.
+
+While Lydia's boots clatter down the upper concrete treads behind Cole, I skirt the edge of the hall into the dark kitchen, my hip grazing the island counter before I find the narrow pantry corridor.
 
 Behind the open spice rack, cold concrete air rises up the dumbwaiter shaft, carrying the dry bite of settled rust dust from the dropped counterweight. I shove the oyster knife into my waistband, hook my forearms over the iron rungs so I don't load my slashed left wrist, and drop down fast into the dark cellar while the heavy duffel bangs against the masonry behind my shoulders.
 
 Halfway down, the looped pantry tape swells loud—Lydia's laugh bouncing off concrete, then Cole swearing as he hits the open steel fire door of Zone 4. His flashlight slices across the far wall below me, throwing long jagged shadows off the server racks.
 
-I drop off the bottom rung onto the rubber matting, knees bent to kill the sound, and back into the charcoal foam wedges of the northeast corner, tucking myself into the narrow pocket right beside the protruding steel frame of the pried-open *ARCHIVE* cabinet.
+I drop off the bottom rung onto the rubber matting, knees bent to kill the sound, and back into the charcoal foam wedges of the northeast corner, tucking myself into the narrow pocket right beside the protruding steel frame of the pried-open *ARCHIVE* cabinet to wait for Lydia to clear the doorway so I can bolt past their backs into the stairwell.
 
 Graham's dead-zone. The speaker blare still carries through open air, yet the directional baffles kill the reflections off the walls—turning the sound flat, dry, and hard to place, swallowing the brush of my wool sweater along with my breathing.
 
@@ -46,7 +48,7 @@ Across the floor, Cole's beam whips over the three humming servers and the workt
 
 Fast footsteps clatter down the concrete stairs behind him.
 
-Lydia bursts through the doorway, sweeping a slim penlight across the darkroom. In her right hand she grips a heavy wrought-iron fireplace poker from the living room hearth.
+Lydia bursts through the doorway, sweeping her slim penlight across the darkroom with the wrought-iron fireplace poker raised in her right hand.
 
 "Cole, it's on a loop!" she snaps. "She's not at the desk—she triggered it upstairs!"
 

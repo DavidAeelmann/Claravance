@@ -14,7 +14,7 @@ He's traded the charcoal suit for a dark merino crewneck, though his shoulders s
 
 "Nonsense. You've been hauling boxes alone all day." He pulls the stopper from a half-full bourbon decanter and pours two fingers into a pair of cut-crystal rocks glasses waiting on the silver tray. He reaches automatically for the heavier tumbler sitting front-left—his usual evening glass, judging by the way his thumb finds its grip without looking—then pauses out of polite habit, sets it on the slate coaster by my elbow, and takes the second glass for himself before dropping into the armchair across from me. "Besides, we need to pin down tomorrow's schedule before the Boston courier drives up."
 
-I look down at the amber pour catching the firelight. Neat bourbon, no ice. Graham's glass gleams clear as honey. Down near the bottom curve of mine, a pale, hazy swirl drifts through the liquor like undissolved chalk—a close match for the damp white paste still caked inside the master-bath P-trap upstairs.
+I look down at the amber pour catching the firelight. Neat bourbon, no ice. Graham's glass gleams clear as honey. Down inside the deep cut-crystal facets at the bottom curve of mine, the alcohol is loosening a dried glaze from the grooves into a pale, hazy swirl—a close match for the filtered tablet residue caked inside the master-bath P-trap upstairs.
 
 "Tomorrow's courier," I say, keeping my hands around my knees instead of touching the coaster. "Still five o'clock?"
 

@@ -10,7 +10,7 @@ I take two steps back with my palms open at shoulder height. Lydia moves in, kic
 
 "On your knees. Back to the teak piling, hands behind it."
 
-There's no cover on the open decking. One lunge and she shoots me at point-blank range, then tells Cole the hired cleaner came at her. I drop onto the wet boards beside the thick teak piling bolted to the corner of the bait table. Brine soaks straight through the knees of my jeans.
+There's no cover on the open decking. One lunge and she puts a bullet in me—and the only reason she hasn't pulled the trigger already is that a nine-millimeter slug ruins a staged drowning. I drop onto the wet boards beside the thick teak piling bolted to the corner of the bait table. Brine soaks straight through the knees of my jeans.
 
 Lydia steps around behind me, pressing the cold muzzle against the base of my skull while her left hand drags my wrists together behind the timber. She threads the black nylon loop around both wrists, catches the ratchet, and pulls hard until the plastic bites into bone. Creosote and old kelp hang thick off the timber. I test the tie once with my thumbs—zero give, cinched tight enough to turn my fingers numb in a few minutes.
 
@@ -52,7 +52,7 @@ Her thumbs stop on the glass.
 
 "Right. That's why Cole had to hide your weekender behind Graham's coats."
 
-"I told him to strip the Yarmouth ferry tag before he stowed that bag Monday morning, and he shoved it behind the overcoats with October seventeenth still hanging off the handle," she shoots back. "Same way I had to babysit him November first when we staged the sunroom floor—the idiot dropped his pilfered B-4 key behind the baseboard mopping up leaked bleach and hammered the trim right back over it. Everything in that house ran on my clock, Tessa. Including your five o'clock Boston courier—I canceled him an hour ago."
+"That bag was supposed to make it look like Graham intercepted me walking out on him October fourteenth and hid my luggage—except Cole forgot to strip the Yarmouth ferry tag Monday morning and shoved it behind the overcoats with October seventeenth still hanging off the handle," she shoots back. "Same way I had to babysit him Sunday when Graham drove south and we finally had an empty house to bleach the sunroom floor without fumes pouring down the cellar shaft—the idiot dropped his pilfered B-4 key behind the baseboard and hammered the trim right back over it. Everything in that house ran on my clock, Tessa. Including your five o'clock Boston courier—I canceled him an hour ago."
 
 "The Coast Guard—"
 

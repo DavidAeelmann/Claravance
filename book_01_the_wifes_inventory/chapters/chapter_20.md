@@ -38,7 +38,7 @@ He spins toward the stainless gas range along the back wall, tearing at the bras
 
 He ignores me. His left hand grabs the front igniter knob and twists—*click, click*—until a ring of pale blue flame catches under the cast-iron grate.
 
-"Lydia tried to hang a murder on me!" he snaps, holding the thick sheaf of notarized sheets and the three sliced sketchbook pages an arm's length from the fire. "You heard her on the WAV file! State police see this ledger beside a staged disappearance, they bury me in Thomaston anyway! Let these pages burn, Tessa. We still have the pantry tape. Without the ledger, all they've got on me is a civil dispute!"
+"Lydia tried to hang a murder on me!" he snaps, holding the thick sheaf of notarized sheets and the three sliced sketchbook pages an arm's length from the fire. "You heard her on the WAV file! Your Portland cloud only has the civil default letter—these traced schedules and the sketchbook templates are the only proof of criminal forgery! Let them burn, Tessa. We still have the pantry tape. Without these pages, all they've got on me is a civil dispute!"
 
 I step into his lane and bring the rusted oyster knife up until the pitted steel point sits inches from his chest.
 

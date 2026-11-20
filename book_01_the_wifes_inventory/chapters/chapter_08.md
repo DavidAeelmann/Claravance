@@ -50,11 +50,11 @@ I shift half a step to keep him in the angle of the slats. A jar of dried rosema
 
 Halstead freezes halfway through the archway, head tilted back toward the kitchen and the stairs. Neither of us moves. Then he checks the empty upper rail once more and steps into the mudroom.
 
-He drops to one knee beside the boot tray. He lifts the clean, factory-stiff life vest off peg two, runs his thumb down the zipper pull, and checks the seams before hanging it back square.
+He drops to one knee beside the boot tray. He lifts the clean, factory-stiff life vest off peg two, checks that the inside collar tag hasn't been stripped, and hangs it back square.
 
 His eyes travel along the coat hooks next—past Graham's heavy wool coat to my waxed jacket hanging right beside it. Inside that breast pocket sits the tissue-wrapped B-4 key. One casual pat and his fingers hit the hard shape of brass through the lining.
 
-He skips the coats. He checks the deadbolt throw on the mudroom side door, tests the handle with his thumb, and looks down at the empty right half of the boot tray where Lydia's duck boots ought to sit. Then he stands, checks the main hall again, and heads back into the kitchen.
+He skips the coats. Instead, he sweeps two fingers along the floorboard seam under the boot tray lip—hunting for something he dropped—before checking the deadbolt throw on the mudroom side door and staring down at the empty right half of the tray where Lydia's duck boots ought to sit. Then he stands, checks the main hall again, and heads back into the kitchen.
 
 My fingers drop to the folded multi-tool in my pocket—a lot of good a two-inch blade is against a broad-shouldered deputy carrying a Glock. If he pulls this louvered door open, I'm trapped between shelves of pickled beets and flour canisters while my Civic sits outside behind a slow hydraulic gate I'd never clear before he drew on me.
 
@@ -94,7 +94,7 @@ Outside, a gust rattles the exterior glass deck door in its weatherstripping, pu
 
 He snaps the flip-phone shut and slides it back inside his windbreaker.
 
-He checks his wristwatch—burning through his bypass window, with Graham due back from Portland and a tighter clock now—then lets his eyes rest on the louvered pantry door, jaw tight. Something in this quiet kitchen feels wrong to him, and he knows it. Still, he never reaches for the knob. Whatever they just moved up to Thursday matters more than chasing a shadow behind a closet door.
+He checks his wristwatch—burning through his bypass window, with Graham due back from Portland and a tighter clock now—then lets his eyes rest on the louvered pantry door, jaw tight. Whatever sits behind this closet is what he came inside to reach, yet with me still in the house he doesn't risk pulling the knob. Whatever they just moved up to Thursday matters more than blowing his cover before dusk.
 
 He turns back to the steel breaker box, pops the latch, and pulls the black jumper wire off the copper terminals, pocketing it. Beside the box, the wall tablet chimes once as the exterior deck camera resumes live streaming.
 

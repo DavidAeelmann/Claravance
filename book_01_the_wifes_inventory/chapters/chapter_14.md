@@ -26,11 +26,11 @@ The iron hits the bottom concrete tread with a dull *clang*, rolls once, and sto
 
 "Funny. You seemed wide awake when you poured it."
 
-"Somebody dusted my dry tumbler on the credenza while I was in Portland," he says, pressing a palm briefly against his temple to steady himself against the jamb. "When I got home, I poured into my usual glass and handed it to you out of habit. Only way I ended up out cold on that sofa is if you spotted something in it and switched them while I was getting ice."
+"Somebody dried a clear dose into the cut-crystal grooves of my tumbler on the credenza while I was in Portland," he says, pressing a palm briefly against his temple to steady himself against the jamb. "When I got home, I poured into my usual glass and handed it to you out of habit. Only way I ended up out cold on that sofa is if you spotted the haze at the bottom and switched them while I was getting ice."
 
 My grip on the multi-tool eases half an inch. "You didn't throw the deadbolt at two-thirty?"
 
-"I didn't move until five-forty-five." He turns and starts up the concrete steps, leaving both doors wide open, waving an unsteady hand toward the kitchen arch. "When I came to, my key ring was lying on the floor beside the sofa, a kitchen chair was jammed under the pantry knob, the Zone Four workstation was pulling power, and the front door stood unlatched. Whoever dropped down that dumbwaiter shaft earlier couldn't crack my thirty-two-character passphrase or force the archive cabinet. They climbed back out into the kitchen, lifted my keys while I was out, cracked the basement door when they saw the displays wake up—saw you down there—and slammed the deadbolt home before wedging a chair against the pantry to seal the shaft and running out the front. Come up. If I wanted you buried in a cellar, I wouldn't have turned the key."
+"I didn't move until five-forty-five." He turns and starts up the concrete steps, leaving both doors wide open, waving an unsteady hand toward the kitchen arch. "When I came to, my key ring was lying on the floor beside the sofa, a kitchen chair was jammed under the pantry knob, the Zone Four workstation was pulling power, and the front door stood unlatched. Whoever dropped down that dumbwaiter shaft earlier couldn't crack my thirty-two-character passphrase or force the archive cabinet. They climbed back out into the kitchen, lifted my keys while I was out, and cracked the basement door when they saw the center displays wake up. From the doorway, the northeast bass traps blocked their view of the pried archive cabinet—they just saw you moving in the darkroom, slammed the deadbolt home, wedged a chair against the pantry to seal the shaft, and tossed my keys back by the sofa assuming a full glass of spiked bourbon would keep me comatose until afternoon. Come up. If I wanted you buried in a cellar, I wouldn't have turned the key."
 
 ***
 
@@ -50,9 +50,7 @@ Graham lets out a slow breath and straightens, pulling his shoulders back despit
 
 "Without your wife's signature," I cut in. "You cut three signed leaves out of the back of her sketchbook so you could trace her initials on a light table without leaving grooves on the pad. Don't call forgery a bridge loan, Graham."
 
-His eyes drop to the sliced red tamper tape on the envelope, and whatever excuse he was lining up dies on his tongue.
-
-"If Arlington closed on time, every cent went back into the trust with interest," he snaps, the calm dropping out of his voice. "Nobody loses a dime."
+His eyes drop to the sliced red tamper tape on the envelope, and whatever excuse he was lining up dies on his tongue. "That sketchbook on the studio blotter is why I locked the studio door Monday night after I caught you in there," he admits flatly. "If Arlington closed on time, every cent went back into the trust with interest. Nobody loses a dime."
 
 "Except Lydia caught it—and she didn't hand you over for wire fraud."
 
@@ -70,7 +68,7 @@ He cuts himself off. His fingers dig hard into the edge of the stone counter.
 
 "Lydia," I finish.
 
-He gives one slow nod. "October twenty-first—a week after the storm—I caught a six-minute dropout in the October fifteenth acoustic logs down in Zone Four. Started checking the house, looked closely at the mudroom, and realized the life vest Halstead logged smelled like tap water, with a fresh lot stamp that never came off our boat."
+He gives one slow nod. "October twenty-first—a week after the storm—I caught a six-minute dropout in the October fifteenth acoustic logs down in Zone Four. Started checking the house, looked closely at the mudroom, and realized the life vest Halstead logged smelled like tap water, with a fresh lot stamp that never came off our boat. I put Zone Four's external vendor link on local bypass that same afternoon so I could run wind-noise filters without pinging Portland—which is why I swiped Tuesday night's blackout alert off the pantry tablet. With the hall fire door shut right in front of us, I assumed the generator switchover tripped my own bypass loop. I had no idea that dumbwaiter shaft even opened."
 
 "And you didn't call state police."
 
@@ -110,8 +108,10 @@ Past him, through the tall glass sidelights, mist curls over the wet gravel turn
 
 Graham points down at the kelp-crusted women's duck boots and the mud-streaked navy tote dripping brackish rainwater onto the slate.
 
-"When I woke up at five-forty-five and found the front door unlatched, I stepped out on the porch," he says quietly. "Your trunk was standing popped open. I pulled Lydia's boots and that tote out before I saw what was tucked underneath in your spare-tire well—a boat rag reeking of the same bleach from the sunroom floor, wrapped around a rusted bronze cleat pried straight off our boathouse dock. I stopped right there and left both the rag and the cleat untouched. Think about what happens when Halstead serves a warrant on your Civic—bleach from the sunroom cleanup, a cleat from the boathouse, and Lydia's boots riding in the back of the hired cleaner's car. They didn't plant that stuff just to bury me, Tessa. They planted it to put you in that sunroom right beside me."
+"When I woke up at five-forty-five and found the front door unlatched, I stepped out on the porch," he says quietly. "Your trunk was standing popped open. I pulled Lydia's boots and that tote out before I saw what was tucked underneath in your spare-tire well—a boat rag reeking of the same bleach from the sunroom floor, wrapped around a rusted bronze cleat pried straight off our boathouse dock. I stopped right there, left both the rag and the cleat untouched so I wouldn't smear the planter's prints, and eased the lid down on the catch without slamming it in the quiet. Think about what happens when Halstead serves a warrant on your Civic—bleach from the sunroom cleanup, a cleat from the boathouse, and Lydia's boots riding in the back of the hired cleaner's car. They didn't plant that stuff just to bury me, Tessa. They planted it to put you in that sunroom right beside me."
 
-I stare out at the open trunk. "Give me the thirty-two-character passphrase for the raw basement partition. Right now."
+I stare out at the open trunk. If I walk out there and pull that rag and cleat out of the spare-tire well, I put my own prints on the murder hardware and tip off whoever is watching from the cove. Worse, if I call the state police over the house Wi-Fi right now—before we can unlock the storm audio on this thumb drive—troopers walk into a house holding Graham's two-point-four-million-dollar trust forgeries, a bleached sunroom floor, and the cleanup rag and boathouse cleat sitting inside my car. Without that decrypted audio proving Lydia and Cole staged the night of the fourteenth together, I leave Salt Point in handcuffs.
 
-Graham shakes his head. "Whoever hammered those three failed passphrases into the cellar console at four-forty-five yesterday tripped a twenty-two-hour hardware brute-force lockout across the master key. Even with the passphrase, the study bridge won't mount that partition until two-forty-five this afternoon—and I am not typing a key into my terminal until you finish the upstairs inventory photos for the Arlington probate packet. If Bramwell and Shaw's five o'clock courier walks into an incomplete file, I default either way. Shoot the rooms; the lockout clears by three."
+"Give me the thirty-two-character passphrase for the raw basement partition," I say. "Right now."
+
+Graham shakes his head, nudging the muddy duck boots and tote out of sight behind the coat bench where nobody watching the sidelights can spot them. "Whoever hammered those three failed passphrases into the cellar console at four-forty-five yesterday tripped a twenty-two-hour hardware brute-force lockout across the master key. Even with the passphrase, the study bridge won't mount that partition until after three this afternoon—and Lydia has co-owner view on the shared probate folder. If your inventory photo timestamps stop ticking into the cloud this morning, she and Cole know we're onto them and hit this house before the lockout clears. Shoot the upstairs rooms to keep our cover live; the master key unlocks by three-thirty."

@@ -66,7 +66,7 @@ I pull my pocket multi-tool out, unfold the pliers, and kneel under the vanity. 
 
 Holding a folded paper towel underneath the elbow, I crack the brass slip-nut loose. A thimbleful of stale gray water drips onto the paper, followed by a damp smear of white crystalline paste caked inside the lower curve of the pipe.
 
-I stare at the chalky smear on my glove. Without a lab, it could be scouring powder or mineral buildup—except nobody scrubs a spotless vanity drain and leaves wet paste packed in the bend. Somebody flushed something down this pipe, and the timing makes those ten missing tablets hard to ignore.
+I stare at the chalky smear on my glove. Without a lab, it could be scouring powder or mineral buildup—except nobody scrubs a spotless vanity drain and leaves wet paste packed in the bend. Dissolve crushed tablets in warm tap water to draw off the clear drug and dump the insoluble white binder sludge down the sink, though, and the P-trap catches the paste. The timing makes those ten missing tablets hard to ignore.
 
 I dig a spare nitrile glove and a folded square of heavy foil out of my pocket, scrape a clean dab of the white paste onto the foil, tuck it inside one finger of the spare glove, and knot it shut before shoving it deep into my jeans.
 

@@ -4,19 +4,19 @@ By three-thirty, rain is hammering the front sidelights and Graham's phone still
 
 I come down the main stairs from the last upstairs linen closet, pick up the brass pipe wrench I've kept within reach on the hall table all afternoon, and look out through the vestibule glass. My silver Civic sits parked by the spruces, its trunk lid still hovering half an inch above the latch in the mist.
 
-"We can't leave those boots sitting on the floor," Graham says behind me, his voice flat and hoarse after seven hours of quiet while I photographed every shelf and closet upstairs for his Arlington packet. He rubs the back of his neck, staring at the front door. "Cole Halstead rolls up that drive with a warrant, he won't care who popped your trunk."
+"We can't leave those boots sitting behind the bench," Graham says behind me, his voice flat and hoarse after seven hours of quiet while I photographed every shelf and closet upstairs to keep our cloud timestamps ticking for his Arlington packet. He rubs the back of his neck, staring at the front door. "Cole Halstead rolls up that drive with a warrant, he won't care who popped your trunk."
 
 "Cole doesn't have a warrant yet," I say. "If he did, he wouldn't wait till three-thirty to kick the door in. He's still stacking paper."
 
 Two sleepless nights are catching up with me fast. Walking out now leaves ten grand on the table and puts me on the causeway with a dirty trunk.
 
-"Grab a towel and clean up the slate," I tell him. "Your upstairs inventory's uploaded. Now take me into your study—the server rack, the admin key, whatever you've got behind that partition."
+"Grab a towel and wipe the slate behind the bench," I tell him. "Your upstairs inventory's uploaded, and your twenty-two-hour hardware lockout just cleared. Now take me into your study—the server rack, the admin key, whatever you've got behind that partition."
 
 He hesitates, looking past me toward the north hall. "The study rack only mirrors the house array. The raw acoustic buffers are encrypted on the thumb drive in your pocket."
 
 "You wrote the encryption," I say, tapping the wrench once against my leg. "Which means the passphrase is in your head and the tower's right down that hall. Move."
 
-He doesn't argue. He grabs a dish towel off the kitchen counter, swabs the brackish puddle off the slate in three stiff strokes, shoves the kelp-crusted duck boots into the back of the coat closet, and drops the wet rag in the mudroom sink. While he's at it, I duck into my ground-floor guest suite to pull on my dry spare sneakers and check my duffel.
+He doesn't argue. He grabs a dish towel off the kitchen counter, swabs the damp slate behind the coat bench in three stiff strokes, shoves the kelp-crusted duck boots into the back of the coat closet, and drops the wet rag in the mudroom sink. While he's at it, I duck into my ground-floor guest suite to pull on my dry spare sneakers and check my duffel.
 
 The five-thousand-dollar cash bundle is still tucked under my shirts in the main pocket. Then I look at the outer side pouch—the brass zipper pull I left tucked flat under the canvas welt Tuesday night is flipped half an inch outward. I yank it open. My spare Civic key fob is gone. Somebody lifted it while my back was turned, which would explain how my trunk popped open without a mark on the paint. I zip the duffel shut and hurry across the north hall.
 
@@ -44,7 +44,7 @@ Behind the terminal window on the right screen sits a local folder labeled `ARLI
 
 With Graham's hands still in plain sight on the desk, I flip the cover back. Inside is a two-page Boston background report dated October twenty-first—my Commercial Street fire-manifest termination, my $18,412 Cumberland County judgment—topped with Graham's own typed screening note stapled to the corner:
 
-*Refused dirty sign-off 2023. $18,412 levy pending Nov. Cornered enough to take cash; stubborn enough not to walk past a six-minute Zone 4 dropout or a dry life vest. Put under $50k IP NDA to prevent county leaks until Arlington clears. Watch what Oct 15 tampering she flags first.*
+*Refused dirty sign-off 2023. $18,412 levy pending Nov. Cornered enough to take cash; stubborn enough not to walk past a six-minute Zone 4 dropout or a dry life vest. Put under $50k IP NDA (leave Clause 3 photo ban intact to test if she demands chain-of-custody rider). Watch what Oct 15 tampering she flags first.*
 
 I slide the stapled pages across the blotter right onto his mouse hand. "October twenty-first," I say, tapping the memo with the wrench. "You pulled my eviction ledger the exact day you spotted the Zone Four dropout and the dry life vest. You didn't hire me because you trusted me, Graham. You bought a broke investigator as a cheap tripwire—and left me walking blind while Cole Halstead ran my plates."
 

@@ -4,7 +4,7 @@ The red LED above the fire door glares steady against the concrete.
 
 I drop the padded envelope onto the worktable and run for the handle, pressing my ear to the cold steel. On the other side, footsteps climb the concrete steps and cross the foyer floor—unhurried, soft-soled, heading toward the kitchen arch. A moment later, a chair leg scrapes across tile.
 
-I don't bother reaching for the rusted **B-4** key in my pocket. This side of the door has no keyhole and no thumb-turn—just a smooth brass plate. Graham must have disabled interior egress to lock down his prototypes. Without a key from the stairwell landing, the steel isn't moving.
+I don't bother reaching for the rusted **B-4** key in my pocket. This side of the door has no keyhole and no thumb-turn—Graham capped the interior mortise cutout with a solid, gasketed brass acoustic plate so a hollow lock cylinder and rattling spindle wouldn't leak stairwell noise into his directional mic array. Once that deadbolt throws from the outside landing, the chamber is sealed.
 
 Which leaves the dumbwaiter shaft.
 

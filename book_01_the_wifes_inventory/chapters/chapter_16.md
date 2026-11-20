@@ -26,7 +26,7 @@ Graham catches my sleeve before I hit the doorway, his fingers cold and clammy t
 
 I'm already moving fast down the north hall. Cutting past the kitchen arch, I see the padded manila envelope from the basement still lying on the island where I left it this morning. Good—let Cole waste time chasing paper inside. I angle into the sunroom, stepping across the gray wool rug where Graham dragged it crooked this morning to look at the bleached planks for himself.
 
-"The boathouse," I call back as Graham catches up to the archway. "Cole's cutting off the front drive, and Lydia's iPad mesh ping came straight up from the cove. Give me three minutes to shoot what's inside that boathouse and climb the back switchback to the spruce ridge where signal holds before Cole locks the point down."
+"The boathouse," I call back as Graham catches up to the archway. "Cole's cutting off the front drive, and after that spliced confession in my voice, a raw WAV file off an acoustic engineer's server won't clear us on its own—Cole will just claim you synthesized Lydia's voice in your darkroom. Give me three minutes to shoot the physical staging gear inside that sealed boathouse to back up the tape, then I'll climb the back switchback to the spruce ridge where signal holds."
 
 Graham grabs the doorframe, staring at me. "Don't go down there alone, Tessa. If Lydia's iPad just synced on local mesh, whoever is using it is still on this property."
 
