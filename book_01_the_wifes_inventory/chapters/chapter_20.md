@@ -32,7 +32,7 @@ By the time I clear the arch, both of his hands are wrapped around the manila en
 
 He ignores me. His left hand grabs the front igniter knob and twists. *Click, click.* A ring of pale blue flame catches under the cast-iron grate.
 
-"Lydia tried to hang a murder on me!" he snaps. He holds the thick sheaf of notarized sheets and the three sliced sketchbook pages an arm's length from the fire. "You heard her on the WAV file! Your Portland cloud only has the civil default letter. These traced schedules and the sketchbook templates are the only proof of criminal forgery! Let them burn, Tessa. We still have the pantry tape. Without these pages, all they've got on me is a civil dispute!"
+"Lydia tried to hang a murder on me!" he snaps. He holds the thick sheaf of notarized sheets and the three sliced sketchbook pages an arm's length from the fire. "You heard her on the tape! Your Portland cloud only has the default notice! Without these traced sheets and sketchbook pages, they've got nothing criminal on me—it's just a civil dispute!"
 
 I step into his lane and bring the oyster knife up until the pitted point hovers inches from his chest. The heat from the burner hits the backs of my knuckles, sharp against skin gone numb from the bay. He freezes, blue gaslight flickering across his swollen jaw and the sweat beading at his hairline.
 

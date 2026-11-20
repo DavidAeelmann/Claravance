@@ -42,7 +42,7 @@ I freeze on the ladder and lock one trembling knee over an iron bar to take weig
 
 Cole's boots thud toward the island. "Wrist is bleeding straight through the cruiser gauze," he growls. A drawer slides open, then shuts with a sharp slap. "Don't drip on the limestone," Lydia snaps, and Cole lets out a short, ugly laugh. "Did your father's people actually clear that offshore transfer, or am I bleeding out here on a promise?"
 
-"Once Graham's dead with a signed confession beside him, the trust rules trigger immediate forfeiture. It blocks his estate and moves the remaining three million into my Cayman holding trust," Lydia answers, clipped and impatient. "My father's trustee already has the release queued. Grab Graham's key ring off the study desk, check the basement stairs, and throw the exterior deadbolt on the steel door if she's down there. Let the tide finish it."
+"Once Graham's dead with that note beside him, his estate doesn't see a dime. The whole three million rolls straight to my Cayman account," Lydia answers, clipped and impatient. "My father's trustee already has the release queued. Grab Graham's key ring off the study desk, check the cellar, and lock the steel door if she's down there. Let the tide finish it."
 
 Water keeps dripping off my jeans into the concrete well. If Cole heads down the cellar steps, he'll spot the open fire door or fresh wet tracks on the rubber mats under his flashlight. And I can't outrun a duty pistol inside a concrete box, any more than I can climb back into the kitchen while both of them stand right outside the pantry. My elbows are starting to go numb where the iron digs into the creases, and a cramp knots high in my left calf. I bite the inside of my cheek to keep from shifting.
 
@@ -54,7 +54,7 @@ Overhead, the flush cedar door under the main stairs creaks open. Heavy boots st
 
 "Graham's still cuffed to the radiator?" Cole calls from the stairwell.
 
-"I checked the cuffs myself," Lydia answers from the hall. "Get down there and check the server rack. If the boathouse mic puck was live, wipe the platters."
+"I checked the cuffs myself," Lydia answers from the hall. "Get down there and check the server rack. If that boathouse mic was live, smash the drives."
 
 I jam my shoulders harder into the rear studs so my weight hangs off my back and left forearm, hook my stiff right thumb knuckle into the pin's ring, and drop my weight onto the pull.
 

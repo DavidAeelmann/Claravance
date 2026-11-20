@@ -90,6 +90,6 @@ Detective Ward walks back over from the yellow tape strung across the Kiefer por
 
 I set the coffee down and sign the clipboard. "What about the five-thousand-dollar cash retainer in my duffel?"
 
-"Logged as disputed estate funds pending probate review, though your signed margin rider and the *Bramwell and Shaw* default file back up your contract," Ward says. He tears off the pink copy and hands it over. "Keep your contact info current with the Rockland DA's clerk once you replace that phone. They'll need you in person for grand jury testimony."
+"Had to hold it as disputed evidence for now," Ward says. He tears off the pink copy and hands it over. "Your signed contract and that Boston default letter back up your story, though. Once the Rockland DA signs off, you should get it back. Keep your number current with the clerk once you replace that phone—they'll need you for grand jury."
 
 I fold the receipt into my pocket. Overhead, the low clouds are finally breaking over Penobscot Bay, though my feet are still freezing and Monday morning on Congress Street isn't going to fix itself.

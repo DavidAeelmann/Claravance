@@ -448,11 +448,11 @@ I pass the cards through the gap while cold drizzle spits across my knuckles. "W
 
 Deputy Cole Halstead doesn't blink. He hands my license back, hooks a forearm along the door frame, and leans in close enough that I catch the wintergreen dip tucked behind his lip.
 
-"Kiefer's glass box," he says, his voice dry and unimpressed. "I wrote the marine report out there three weeks ago. Lydia grew up climbing those ledges before Boston money ever bolted steel and glass onto them. People on this point don't care much for mainland contractors poking through a local girl's things just to pad a probate bill."
+"Kiefer's glass box," he says, his voice dry and unimpressed. "I wrote the marine report out there three weeks ago. Lydia grew up climbing those ledges before Boston money ever bolted steel and glass onto them. Folks on this point don't care much for mainland contractors poking through a local girl's things just to run up a bill."
 
 Twenty-four hours on the peninsula. The local sheriff's office already knows where I'm sleeping. "I'm boxing winter coats and logging furniture," I say. "Not poking into anything."
 
-"Good. Keep it that way." He pulls a yellow warning pad and metal clipboard from his slicker. "We get fog tourists every fall wandering onto private launches like a drowning's weekend entertainment. Those cove steps will snap an ankle on wet granite, and the boathouse is locked under county seal. Stay away from it."
+"Good. Keep it that way." He pulls a yellow warning pad and metal clipboard from his slicker. "We get tourists every fall gawking at private docks like a drowning's some kind of show. Those cove steps will snap an ankle on wet granite, and the boathouse is locked under county seal. Stay away from it."
 
 *County seal.* Against my ribs, the B-4 key suddenly feels five pounds heavier. If he asks me to step out into the drizzle and pop the trunk, this ends right here on the shoulder of Route 1. He starts writing my plate number and the date across the slip, and I watch his hands. He braces the clipboard against his right hip, curls his left wrist high over the top of the paper, and drags the pen backward against the grain in a hard, hooked push.
 
@@ -1716,7 +1716,7 @@ I freeze on the ladder and lock one trembling knee over an iron bar to take weig
 
 Cole's boots thud toward the island. "Wrist is bleeding straight through the cruiser gauze," he growls. A drawer slides open, then shuts with a sharp slap. "Don't drip on the limestone," Lydia snaps, and Cole lets out a short, ugly laugh. "Did your father's people actually clear that offshore transfer, or am I bleeding out here on a promise?"
 
-"Once Graham's dead with a signed confession beside him, the trust rules trigger immediate forfeiture. It blocks his estate and moves the remaining three million into my Cayman holding trust," Lydia answers, clipped and impatient. "My father's trustee already has the release queued. Grab Graham's key ring off the study desk, check the basement stairs, and throw the exterior deadbolt on the steel door if she's down there. Let the tide finish it."
+"Once Graham's dead with that note beside him, his estate doesn't see a dime. The whole three million rolls straight to my Cayman account," Lydia answers, clipped and impatient. "My father's trustee already has the release queued. Grab Graham's key ring off the study desk, check the cellar, and lock the steel door if she's down there. Let the tide finish it."
 
 Water keeps dripping off my jeans into the concrete well. If Cole heads down the cellar steps, he'll spot the open fire door or fresh wet tracks on the rubber mats under his flashlight. And I can't outrun a duty pistol inside a concrete box, any more than I can climb back into the kitchen while both of them stand right outside the pantry. My elbows are starting to go numb where the iron digs into the creases, and a cramp knots high in my left calf. I bite the inside of my cheek to keep from shifting.
 
@@ -1728,7 +1728,7 @@ Overhead, the flush cedar door under the main stairs creaks open. Heavy boots st
 
 "Graham's still cuffed to the radiator?" Cole calls from the stairwell.
 
-"I checked the cuffs myself," Lydia answers from the hall. "Get down there and check the server rack. If the boathouse mic puck was live, wipe the platters."
+"I checked the cuffs myself," Lydia answers from the hall. "Get down there and check the server rack. If that boathouse mic was live, smash the drives."
 
 I jam my shoulders harder into the rear studs so my weight hangs off my back and left forearm, hook my stiff right thumb knuckle into the pin's ring, and drop my weight onto the pull.
 
@@ -1786,7 +1786,7 @@ By the time I clear the arch, both of his hands are wrapped around the manila en
 
 He ignores me. His left hand grabs the front igniter knob and twists. *Click, click.* A ring of pale blue flame catches under the cast-iron grate.
 
-"Lydia tried to hang a murder on me!" he snaps. He holds the thick sheaf of notarized sheets and the three sliced sketchbook pages an arm's length from the fire. "You heard her on the WAV file! Your Portland cloud only has the civil default letter. These traced schedules and the sketchbook templates are the only proof of criminal forgery! Let them burn, Tessa. We still have the pantry tape. Without these pages, all they've got on me is a civil dispute!"
+"Lydia tried to hang a murder on me!" he snaps. He holds the thick sheaf of notarized sheets and the three sliced sketchbook pages an arm's length from the fire. "You heard her on the tape! Your Portland cloud only has the default notice! Without these traced sheets and sketchbook pages, they've got nothing criminal on me—it's just a civil dispute!"
 
 I step into his lane and bring the oyster knife up until the pitted point hovers inches from his chest. The heat from the burner hits the backs of my knuckles, sharp against skin gone numb from the bay. He freezes, blue gaslight flickering across his swollen jaw and the sweat beading at his hairline.
 
@@ -2014,7 +2014,7 @@ Detective Ward walks back over from the yellow tape strung across the Kiefer por
 
 I set the coffee down and sign the clipboard. "What about the five-thousand-dollar cash retainer in my duffel?"
 
-"Logged as disputed estate funds pending probate review, though your signed margin rider and the *Bramwell and Shaw* default file back up your contract," Ward says. He tears off the pink copy and hands it over. "Keep your contact info current with the Rockland DA's clerk once you replace that phone. They'll need you in person for grand jury testimony."
+"Had to hold it as disputed evidence for now," Ward says. He tears off the pink copy and hands it over. "Your signed contract and that Boston default letter back up your story, though. Once the Rockland DA signs off, you should get it back. Keep your number current with the clerk once you replace that phone—they'll need you for grand jury."
 
 I fold the receipt into my pocket. Overhead, the low clouds are finally breaking over Penobscot Bay, though my feet are still freezing and Monday morning on Congress Street isn't going to fix itself.
 

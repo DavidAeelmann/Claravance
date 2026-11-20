@@ -20,11 +20,11 @@ I pass the cards through the gap while cold drizzle spits across my knuckles. "W
 
 Deputy Cole Halstead doesn't blink. He hands my license back, hooks a forearm along the door frame, and leans in close enough that I catch the wintergreen dip tucked behind his lip.
 
-"Kiefer's glass box," he says, his voice dry and unimpressed. "I wrote the marine report out there three weeks ago. Lydia grew up climbing those ledges before Boston money ever bolted steel and glass onto them. People on this point don't care much for mainland contractors poking through a local girl's things just to pad a probate bill."
+"Kiefer's glass box," he says, his voice dry and unimpressed. "I wrote the marine report out there three weeks ago. Lydia grew up climbing those ledges before Boston money ever bolted steel and glass onto them. Folks on this point don't care much for mainland contractors poking through a local girl's things just to run up a bill."
 
 Twenty-four hours on the peninsula. The local sheriff's office already knows where I'm sleeping. "I'm boxing winter coats and logging furniture," I say. "Not poking into anything."
 
-"Good. Keep it that way." He pulls a yellow warning pad and metal clipboard from his slicker. "We get fog tourists every fall wandering onto private launches like a drowning's weekend entertainment. Those cove steps will snap an ankle on wet granite, and the boathouse is locked under county seal. Stay away from it."
+"Good. Keep it that way." He pulls a yellow warning pad and metal clipboard from his slicker. "We get tourists every fall gawking at private docks like a drowning's some kind of show. Those cove steps will snap an ankle on wet granite, and the boathouse is locked under county seal. Stay away from it."
 
 *County seal.* Against my ribs, the B-4 key suddenly feels five pounds heavier. If he asks me to step out into the drizzle and pop the trunk, this ends right here on the shoulder of Route 1. He starts writing my plate number and the date across the slip, and I watch his hands. He braces the clipboard against his right hip, curls his left wrist high over the top of the paper, and drags the pen backward against the grain in a hard, hooked push.
 
