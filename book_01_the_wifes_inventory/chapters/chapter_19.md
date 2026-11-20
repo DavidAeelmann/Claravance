@@ -36,7 +36,7 @@ I feel blindly for the iron ladder bolted to the masonry. My fingers have no gri
 
 Below me, the muffled hum of the three basement servers rises up the chute. Drop into Zone 4, copy the live boathouse recording onto my thumb drive, climb back up—
 
-Heavy boots hit the front slate overhead, followed by the rattle of the front deadbolt throwing shut from inside.
+Heavy boots hit the front slate overhead, followed by the jingle of a key ring and the rattle of the front deadbolt throwing shut from inside.
 
 Cole is back from the causeway.
 

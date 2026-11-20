@@ -86,7 +86,7 @@ Night has closed fast over the cove. Thick fog rolls off the water, smearing Mar
 
 On October twelfth, Lydia Kiefer paid five grand to buy a dark shoreline and asked how a boat drops off coastal AIS tracking—laying the groundwork for what looks like a planned disappearance. Yet someone went back into that house and turned a vanishing act into a homicide scene before tomorrow's Boston courier shows up: bleaching the sunroom floor, painting the studio window shut, shoving an October seventeenth ferry bag behind Graham's coats, and handing Cole Halstead co-owner installer PINs.
 
-Every wet riser jars my knees in the dark, and I'm running out of time to find out what sits behind that basement door. Halfway up, my calves burn and the air tastes of salt and pine resin. I stop on a narrow cedar landing under a twisted pitch pine, leaning a hand against rough bark to catch my breath.
+Every wet riser jars my knees in the dark, and I'm running out of time to find out what sits behind that basement door. Halfway up, my calves burn and the air tastes of salt and pine resin. I stop where the cove trail joins the main cliff stairs on a narrow cedar landing under a twisted pitch pine, leaning a hand against rough bark to catch my breath.
 
 Below me, the seawall curves black against the outgoing tide. Through wet spruce boughs, the pitched roof of the locked boathouse squats over the water, its double doors still padlocked at the exterior hasp.
 

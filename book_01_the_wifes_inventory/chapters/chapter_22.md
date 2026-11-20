@@ -46,7 +46,7 @@ I stand under the rear awning of a Knox County ambulance with a scratchy wool bl
 
 Over by the rescue rig's idling fender stands Maren Lindqvist in her yellow oilskin bib, holding a thermos against her chest. Her silver braid is plastered wet to her collar.
 
-"Parked my pickup on the high mainland shoulder before the surge, then walked the shoreline path to check my skiff's storm chain," she says as I step out from the awning into the drizzle. "Found your gouged tide strip jammed behind my shed latch. Saw that and Cole's dark cruiser wedged sideways across the causeway, so I drove straight to Thomaston. Dispatch couldn't raise him on county radio—troopers let me ride back across the washout in the storm rig to point out the lane."
+"Parked my pickup on the high mainland shoulder before the surge, then walked the shoreline path to check my skiff's storm chain," she says as I step out from the awning into the drizzle. "Found your gouged tide card jammed behind my shed latch. Saw that and Cole's dark cruiser wedged sideways across the causeway, so I drove straight to Thomaston. Dispatch couldn't raise him on county radio—troopers let me ride back across the washout in the storm rig to point out the lane."
 
 "Thank you," I say, my throat raw from salt water and rust dust. "If you hadn't—"
 

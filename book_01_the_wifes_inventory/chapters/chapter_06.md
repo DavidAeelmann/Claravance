@@ -50,7 +50,7 @@ I sit at the island with a bowl of leek soup I can barely taste. My fingers stay
 
 "Did Deputy Halstead stop by while I was in town?" I ask.
 
-Graham's spoon stops halfway to his mouth. "Why?"
+Graham sets his spoon down against the saucer rim. "Why?"
 
 "Fresh heavy-lug tracks in the turnaround," I say, keeping my eyes on my bowl. "Thought maybe the Coast Guard sent him out with a storm advisory."
 
@@ -80,7 +80,7 @@ Behind me, the kitchen faucet shuts off.
 
 "Got it." I let the vest settle back against the paneling and turn around, my notepad tucked against my hip. "Graham—can I ask you one thing about the night of the fourteenth? Just so my notes line up with the Coast Guard timeline if Boston asks."
 
-His hands stop inside the dish towel. "What about it?"
+He pulls the linen towel slow across his knuckles. "What about it?"
 
 "You said Lydia went down to the cove around ten-thirty to check the mooring line," I say, watching his eyes. "Last night the turnaround floodlight was dead, and you told me to stay off the cliff stairs after dark. Were the dock lights on that night? Or did the squall knock the power out before she went down?"
 

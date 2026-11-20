@@ -86,7 +86,7 @@ Directly across the foyer, the flush cedar stairwell door rattles hard as Cole's
 
 Graham flinches beside me, breathing shallow and fast. I grab the back of his torn sweater to drag him deeper down the north hall toward his study before Cole hits the top landing.
 
-Before we clear three paces, a heavy mechanical *CLUNK* carries up through the floorboards from the basement utility alcove—Lydia throwing the generator transfer switch off and pulling the manual fail-safe lever beside the panel.
+Before we clear three paces, a heavy mechanical *CLUNK* carries up through the floorboards from the basement—the unmistakable thud of a main transfer switch throwing off.
 
 Every standby LED along the hall dies at once. The smart-home tablet down by the pantry arch winks black, and the hallway thermostat goes dark.
 

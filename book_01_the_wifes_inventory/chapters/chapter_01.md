@@ -32,7 +32,7 @@ The black door pulls back. Graham Kiefer stands in the doorway with one hand on 
 
 ***
 
-The front entry is a low, chilly mudroom tacked onto the main two-story wing, stale with unscented soap. A coat bench and tall closet line one wall. Above the bench, rain taps on a skylight hatch set low into the pitched roof—eight feet up, tops—the only bare glass left uncovered above the metal shutter boxes mounted over the lower windows.
+The front entry is a low, chilly mudroom vestibule tacked onto the main two-story wing, stale with unscented soap and wrapping past a utility sink toward a side door by the garage bay. A coat bench and tall closet line the inner wall. Above the bench, rain taps on a skylight hatch set low into the pitched roof—eight feet up, tops—the only bare glass left uncovered above the metal shutter boxes mounted over the lower windows.
 
 Through the archway, the main floor opens up. To the right sits a modern kitchen with a pale limestone island; to the left, an open oak staircase climbs to the second floor, with a ground-floor hallway tucking behind it. Straight ahead, past the dining room, a massive wall of ocean glass frames black water and churning foam below the cliff. It throws my own tired face back at me over the drop.
 
@@ -48,7 +48,7 @@ Graham walks me past the island and stops at a narrow maple table near the stair
 
 Six pages of dense type. Non-disclosure, non-disparagement, a blanket ban on photographing hardware or records on the property, and a fifty-thousand-dollar liquidated damages clause bolded near the bottom.
 
-*Fifty thousand.* Whoever drafted this pulled my Harbor Mutual judgment and knew a second suit would bury me for good. My stomach knots. For half a second I think about grabbing my bag and seeing if I can beat the tide back across the causeway.
+*Fifty thousand.* Whoever drafted this pulled my Harbor Mutual judgment and knew a second suit would bury me for good. For half a second I think about grabbing my bag and seeing if I can beat the tide back across the causeway.
 
 Then I picture the clerk's envelope sitting on my front seat. I stay in the chair.
 

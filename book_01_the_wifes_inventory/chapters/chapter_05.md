@@ -16,7 +16,7 @@ I haven't even touched forty. I signal right, ease onto the gravel shoulder besi
 
 A Knox County sheriff's cruiser rolls in behind me, light bar pulsing in the mist. I pull my license and creased registration out of the glovebox and rest both hands on top of the steering wheel while boots crunch up the gravel.
 
-The deputy who leans down to my window is broad-shouldered under a heavy navy rain slicker, clean-shaven, with pale eyes that size up my rusted fender and Portland plates before landing on me. His brass badge catches the dash light, and my stomach drops—the exact same flat, unbothered stare I watched across a Vermont counter six years ago right before they closed Nina's binder. When this one talks, a slow coastal drawl softens his edges, and a slightly crooked upper incisor shows in the dim cab light.
+The deputy who leans down to my window is broad-shouldered under a heavy navy rain slicker, clean-shaven, with pale eyes that size up my rusted fender and Portland plates before landing on me. His brass badge catches the dash light—the exact same flat, unbothered stare I watched across a Vermont counter six years ago right before they closed Nina's binder. When this one talks, a slow coastal drawl softens his edges, and a slightly crooked upper incisor shows in the dim cab light.
 
 "Afternoon, ma'am. License and registration."
 
@@ -56,7 +56,7 @@ Nobody pulls a car over for a brake lamp in a fog bank unless they were already 
 
 I drive into Salt Point harbor checking my mirror every ten seconds. The town is barely a crossroads: a brick post office, a shuttered bait shop, and a clapboard general store beside a diesel dock where three lobster boats rock against black pilings.
 
-I park nose-out by the steps. Before cutting the engine, I pull up the public Coast Guard missing-person bulletin for Lydia Kiefer, copy her passport number off the notice, and send an encrypted text to Samira Patel—a marine-claims investigator in Portland who still has read-only access to the Atlantic Marine Underwriters' cross-border port-clearance watch—asking her to flag any border hit while I still have four bars. Then I lock the doors and head inside under a jangling brass bell.
+I park nose-out by the steps. Before cutting the engine, I pull up the public Coast Guard missing-person bulletin for Lydia Kiefer, pair the vessel ID with the passport number listed on the broker's preliminary estate tax sheet, and send an encrypted text to Samira Patel—a marine-claims investigator in Portland who still has read-only access to the Atlantic Marine Underwriters' cross-border port-clearance watch—asking her to flag any border hit while I still have four bars. Then I lock the doors and head inside under a jangling brass bell.
 
 Fluorescents buzz overhead as I grab two rolls of heavy packing tape, permanent markers, and a blister pack of brake bulbs near the register.
 
@@ -94,11 +94,11 @@ Back in the Civic, I push both door locks down and blow a long breath into the c
 
 I drop the brown paper bag onto the passenger seat next to the courthouse letter and reach for the ignition.
 
-A corner of glossy white paper catches my eye inside the open sack, wedged between the tape rolls and the brake bulbs. The kid only threw my receipt on top.
+A corner of stiff, weatherproof white card stock catches my eye inside the open sack, wedged between the tape rolls and the brake bulbs. The kid only threw my receipt on top.
 
-I pull it out and stop breathing.
+I pull it out and go still.
 
-It's a torn strip of tide-chart paper—the same glossy stock pinned by the coffee urns where Maren stood. Someone tore off the October column, circled *Oct 15* at the top, and boxed a single line in thick carpenter's pencil:
+It's a torn strip of plasticized marine tide-chart card—the same heavy coated dock stock pinned by the coffee urns where Maren stood. Someone tore off the October column, circled *Oct 15* at the top, and boxed a single line in thick carpenter's pencil:
 
 *2:14 AM — High Water.*
 

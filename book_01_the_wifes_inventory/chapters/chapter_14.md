@@ -18,7 +18,7 @@ Half-bluff—Samira doesn't have my vault credentials or a noon clock—yet Grah
 
 He stops dead beside the steel jamb.
 
-The color drains from his face. He looks down at the brass pipe wrench as if he's only just realizing he's holding it, and his fingers open.
+He looks down at the brass pipe wrench as if he's only just realizing he's holding it, and his fingers open.
 
 The iron hits the bottom concrete tread with a dull *clang*, rolls once, and stops against the doorframe.
 
@@ -42,13 +42,13 @@ Thin gray morning light washes across the limestone island while rain streaks do
 
 Whatever sat at the bottom of that bourbon hit him hard enough to leave his fingers shaking.
 
-"You forged Lydia's initials on six trust transfers," I say from the far side of the island, laying the padded manila envelope next to the toaster while the thumb drive stays hidden in my watch pocket. "October tenth—four days before the storm. You even sliced three pages out of her studio sketchbook to practice tracing her signature."
+"You forged Lydia's initials on six trust transfers," I say from the far side of the island, laying the padded manila envelope next to the toaster while the thumb drive stays hidden in my watch pocket. "October tenth—four days before the storm. You even sliced three signed study pages out of her sketchbook to trace her initials on a light table."
 
 Graham lets out a slow breath and straightens, pulling his shoulders back despite the tremor in his hands.
 
 "Those draws were temporary collateral advances against my defense-patent equity," he says, looking past my shoulder instead of at me. "Every dollar went into Kiefer Soundworks payroll and the Cambridge lab lease while Arlington cleared export review. As joint signatory, I had operational authority to bridge liquidity—"
 
-"Without your wife's signature," I cut in. "You cut three unused sheets out of the back of her sketchbook so you could trace her initials on a light table without leaving grooves on the pad. Don't call forgery a bridge loan, Graham."
+"Without your wife's signature," I cut in. "You cut three signed leaves out of the back of her sketchbook so you could trace her initials on a light table without leaving grooves on the pad. Don't call forgery a bridge loan, Graham."
 
 His eyes drop to the sliced red tamper tape on the envelope, and whatever excuse he was lining up dies on his tongue.
 
@@ -114,4 +114,4 @@ Graham points down at the kelp-crusted women's duck boots and the mud-streaked n
 
 I stare out at the open trunk. "Give me the thirty-two-character passphrase for the raw basement partition. Right now."
 
-Graham shakes his head. "Not until you finish the upstairs inventory photos for the Arlington probate packet. If Bramwell and Shaw's five o'clock courier walks into an incomplete file, I default either way. Shoot the rooms; I'll mount the drive this afternoon."
+Graham shakes his head. "Whoever hammered those three failed passphrases into the cellar console at four-forty-five yesterday tripped a twenty-two-hour hardware brute-force lockout across the master key. Even with the passphrase, the study bridge won't mount that partition until two-forty-five this afternoon—and I am not typing a key into my terminal until you finish the upstairs inventory photos for the Arlington probate packet. If Bramwell and Shaw's five o'clock courier walks into an incomplete file, I default either way. Shoot the rooms; the lockout clears by three."

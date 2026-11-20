@@ -58,7 +58,7 @@ He skips the coats. He checks the deadbolt throw on the mudroom side door, tests
 
 My fingers drop to the folded multi-tool in my pocket—a lot of good a two-inch blade is against a broad-shouldered deputy carrying a Glock. If he pulls this louvered door open, I'm trapped between shelves of pickled beets and flour canisters while my Civic sits outside behind a slow hydraulic gate I'd never clear before he drew on me.
 
-Part of me wants to bolt the second he leaves. Then I think about the eighteen-thousand-dollar judgment riding on my passenger seat and Graham's fifty-thousand-dollar NDA penalty waiting if I quit without proof. I can't run blind.
+Part of me wants to bolt the second he leaves. Then I think about the eighteen-thousand-dollar judgment riding on my passenger seat. Walking out empty-handed won't clear my ledger, and I can't run blind.
 
 The kitchen tap runs briefly, then shuts off. Halstead comes back near the breaker box with a wet paper towel and kneels to wipe his own faint muddy heel mark off the slate where he stepped in from the cove trail, then tosses the towel toward the sink. A second later his boots turn toward the back service stairs just outside the pantry corridor.
 

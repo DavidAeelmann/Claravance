@@ -52,7 +52,7 @@ Her thumbs stop on the glass.
 
 "Right. That's why Cole had to hide your weekender behind Graham's coats."
 
-"I told him to drop it there Monday morning," she shoots back. "Same way I had to babysit him November first when we staged the sunroom floor—the idiot dropped his pilfered B-4 key behind the baseboard mopping up leaked bleach and hammered the trim right back over it. Everything in that house ran on my clock, Tessa. Including your five o'clock Boston courier—I canceled him an hour ago."
+"I told him to strip the Yarmouth ferry tag before he stowed that bag Monday morning, and he shoved it behind the overcoats with October seventeenth still hanging off the handle," she shoots back. "Same way I had to babysit him November first when we staged the sunroom floor—the idiot dropped his pilfered B-4 key behind the baseboard mopping up leaked bleach and hammered the trim right back over it. Everything in that house ran on my clock, Tessa. Including your five o'clock Boston courier—I canceled him an hour ago."
 
 "The Coast Guard—"
 

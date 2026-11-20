@@ -62,7 +62,7 @@ I angle the first page into the hall light and scan fast.
 
 Under *The Lydia Kiefer Irrevocable Trust*, Graham holds conditional joint signatory authority over a $5,400,000 corpus. On October fifteenth, Bramwell & Shaw issued a formal default demand over $2,400,000 in unauthorized draws pulled against trust-held licensing collateral over fourteen months—leaving $3,000,000 in the trust. The letter gives him a thirty-day civil cure window expiring November fourteenth—ten days left—before the trustees pursue recovery and refer the accounting to the Suffolk County DA.
 
-Highlighted in yellow near the bottom sits a bespoke trust governance clause: if Graham is formally charged with murder or felony moral turpitude, his signatory rights strip immediately and the cure window vanishes. Clipped to the back page, a Cayman beneficiary rollover schedule specifies that upon forfeiture, the remaining $3,000,000 automatically transfers out of Boston probate into an offshore Cayman holding trust controlled solely by Lydia.
+Highlighted in yellow near the bottom sits a bespoke trust governance clause: if Graham is formally charged with murder or felony moral turpitude, his signatory rights strip immediately and the cure window vanishes. Clipped to the back page, a Cayman beneficiary rollover schedule specifies that upon forfeiture, the remaining $3,000,000 automatically transfers out of Boston probate into an offshore Cayman holding trust established by her father's trustee for Lydia's sole line.
 
 Under the signature block, Graham has penciled three bridge-loan dates in neat block script, every one crossed out, followed by a fresh margin note: *Arlington buyout closes Friday if inventory seals.*
 

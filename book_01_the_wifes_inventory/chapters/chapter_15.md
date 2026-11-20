@@ -60,9 +60,9 @@ His mouth pulls tight as he glances at the screen. "Her father set up offshore t
 
 Ninety-eight percent. Ninety-nine.
 
-The tower chimes softly, and a directory tree opens across the right display: `RAW_BUFFER_OCT14_15`. Twelve timestamped WAV files—synchronized multi-channel mixdowns pulled straight off the house array, untouched by the noise-gate scrubbers.
+The tower chimes softly, and a directory tree opens across the right display: `RAW_BUFFER_OCT14_15`. Twelve timestamped WAV files—synchronized multi-channel mixdowns pulled straight off the house array, untouched by the automated basement noise-gate scrubbers that had clipped the indoor preamps while Graham spent two weeks filtering only the exterior sunroom and boathouse channels.
 
-I point to the fifth line down. `MIC_04_PANTRY_020915.wav`—the synced five-channel master anchored on the pantry corridor feed.
+I point to the fifth line down. `MIC_04_PANTRY_020915.wav`—the synced five-channel master anchored on the indoor pantry corridor feed.
 
 "Play that one. All the way up."
 

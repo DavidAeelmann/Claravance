@@ -42,7 +42,7 @@ No phone, no dry clothes, and the cold is already creeping past my elbows. North
 
 I stumble across crushed oyster shells to Maren's dark sorting shed. The padlock hangs shut, her aluminum skiff chained high on the gravel apron, fresh pickup ruts cutting empty toward Harbor Road. She moved her truck across the culvert before the surge—still, her outer oyster lines run straight off this cove, and a working harvester comes back to the shed to check her gear before full dark.
 
-Using my right hand, I fish the soaked tide-chart strip out of my watch pocket and pin the wet paper flat against a cedar clapboard with the heel of my numb left palm. Gripping the oyster knife tight, I gouge seven jagged words onto the blank back—*CALL STATE POLICE — FRAME AT KIEFER HOUSE*—before jamming the strip tight behind Maren's door latch.
+Using my right hand, I fish the wet plasticized tide-chart card out of my watch pocket and pin the stiff coated strip flat against a cedar clapboard with the heel of my numb left palm. Gripping the oyster knife tight, I gouge seven jagged words deep into the white plasticized backing—*CALL STATE POLICE — FRAME AT KIEFER HOUSE*—before jamming the strip tight behind Maren's door latch.
 
 Behind me, white surf booms against the boathouse pilings. My calf cramps mid-stride as I turn for the cliff stairs.
 

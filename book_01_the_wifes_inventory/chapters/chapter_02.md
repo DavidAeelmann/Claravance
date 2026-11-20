@@ -36,7 +36,7 @@ The radiator under the window ticks loud enough to make me jump. Leaving an Octo
 
 Across the north hall, the study door shuts softly. Footsteps cross the wood inside, then a desk chair scrapes back.
 
-He'd locked me under a fifty-thousand-dollar gag clause, glanced back toward the front entry from the stairs, and told me to stay out of the studio until morning. If he catches me upstairs tonight, I lose the remaining ten grand and eat a lawsuit. If I wait for daylight, he'll be hovering over my shoulder—or whatever else he doesn't want seen in that room will already be gone.
+He glanced back toward the front entry from the stairs and told me to stay out of the studio until morning. If he catches me upstairs tonight, I lose the remaining ten grand and eat a lawsuit. If I wait for daylight, he'll be hovering over my shoulder—or whatever else he doesn't want seen in that room will already be gone.
 
 I pull off my wet boots, dig thick wool socks out of my bag, and slip my phone and the brass house key into my jeans pocket. My hands are still cold. Feeling slightly stupid—and very awake—I ease the cheap privacy bolt back.
 
@@ -44,7 +44,7 @@ I pull off my wet boots, dig thick wool socks out of my bag, and slip my phone a
 
 A gray wool runner covers the north hall, soaking up my footsteps. Light leaks out from under Graham's study door directly across from mine, along with the steady clack of a mechanical keyboard. Every few seconds the typing stops for the rustle of paper, then picks back up.
 
-I hug the drywall where the floorboards stay quiet, slip past his door to the main staircase, and take the steps slowly to the upper landing. At the far end of the upstairs hall, double doors stand cracked open.
+I hug the drywall where the floorboards stay quiet, slip past his door to the main staircase, and take the steps slowly to the upper landing. At the far end of the upstairs hall, the studio's double doors sit with the left leaf pinned shut and the active door cracked open.
 
 Lydia's studio is cold and sharp with turpentine under faint lemon polish drifting up from downstairs. Pale moonlight comes through a tall seaward sash window straight ahead, illuminating an easel and stacks of canvases turned face-inward against the wall. Three wide oak flat-files line the left wall, drawers pushed shut, an unlit brass desk lamp resting on the nearest cabinet. Across from them sits a center worktable, with a walnut desk set back to the right.
 

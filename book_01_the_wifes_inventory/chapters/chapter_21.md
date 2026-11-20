@@ -6,7 +6,7 @@ Cole's boots hit the kitchen tile. A bright flashlight beam cuts across the blac
 
 I push Graham into his study and ease the walnut door almost shut, leaving a sliver to watch the dark hall. Inside, the smoked-glass server rack hums on its UPS battery backup, throwing dull amber light across the desk blotter. The heavy brass pipe wrench I left behind this afternoon still sits beside the keyboard. I leave it there; I need speed, not dead iron.
 
-Graham leans hard against the wall, catching his breath with one hand pressed to his swollen cheek. "The hurricane shutters are locked down in their tracks. Without power we can't raise them, and this study door won't hold Cole for ten seconds."
+Graham leans hard against the wall, catching his breath with one hand pressed to his swollen cheek. "Lydia just threw the generator transfer switch and pulled the manual shutter release in the basement alcove. The hurricane shutters are locked down in their tracks—without power we can't raise them, and this study door won't hold Cole for ten seconds."
 
 "We're not going out a window," I whisper, keeping my navy duffel strapped tight across my back and the oyster knife in my right hand. "You wired an acoustic house, Graham. Time to use it."
 
@@ -68,11 +68,11 @@ I don't wait for a second swing. I yank the oyster knife free, drive forward und
 
 She gasps as the rusted edge tears fabric and opens her forearm. The fireplace poker clatters out of her hand onto the concrete as she stumbles sideways straight into Cole's chest. They tangle in the dark, Cole's pistol banging hard off the drafting table while he swears and fights to keep from shooting her in the back.
 
-I cut past both of them, sprint through the open Zone 4 doorway into the stairwell, and catch the edge of the heavy steel fire door.
+I cut past both of them, sprint through the open Zone 4 doorway into the stairwell, and catch the exterior handle of the heavy steel fire door.
 
 "Tessa!" Lydia screams behind me as Cole fires one blind, deafening shot into the charcoal foam.
 
-I haul the steel door swinging inward. Lydia lunges after me and throws herself sideways through the narrowing gap, slamming hard against the concrete stairwell wall. A split second later I throw my whole weight into the steel, slamming it shut with a heavy *CLANG*—trapping Cole Halstead inside alone.
+I haul the inward-swinging steel door back toward the frame. Lydia lunges after me and throws herself sideways through the narrowing gap, slamming hard against the concrete stairwell wall. A split second later I yank with my whole weight against the handle, pulling the steel flush into the jamb with a heavy *CLANG*—trapping Cole Halstead inside alone.
 
 I dig the rusted **B-4** key out of my front pocket, jam it into the exterior cylinder, and throw the deadbolt. Steel locks into steel, with no interior thumb-turn on Cole's side to undo it.
 

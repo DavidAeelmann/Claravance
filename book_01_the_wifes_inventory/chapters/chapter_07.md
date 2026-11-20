@@ -24,7 +24,7 @@ I crouch by the gap and listen. Dead quiet behind the insulated steel. Yet durin
 
 I shut the cedar door, grab two flat wardrobe cartons, a roll of clear tape, and my clipboard from the pile in the hall, and head upstairs to the master suite.
 
-The bedroom takes up the whole south wing over the sunroom—pale oak floors, a low linen platform bed stripped to bare cotton sheets, double glass sliders looking straight down onto gray cove chop. Unlike Lydia's studio down the hall, it smells of cedar and cold rain instead of turpentine. A single framed botanical print hangs above the headboard, the glass throwing back the overcast sky.
+The bedroom takes up the whole south wing over the sunroom—pale oak floors, a low linen platform bed stripped to bare cotton sheets, double glass sliders looking straight down onto gray cove chop. Unlike Lydia's studio down the hall, it smells of cedar blocks and cold rain instead of turpentine—the exact scent Graham carried on his sweater Monday night. A single framed botanical print hangs above the headboard, the glass throwing back the overcast sky.
 
 Both walnut nightstands sit bare except for matching brass lamps and a coiled white phone charger on the left—Graham's side, judging by the hardcover acoustics textbook stacked next to the outlet. On the right side, somebody wiped the wood so clean even the brass lamp base has no dust ring around it.
 
