@@ -56,7 +56,7 @@ She pours black coffee into a paper cup, lids it, and angles her shoulder betwee
 
 "You held up two fingers on the mudflat this morning," I murmur, pretending to check the seams on a pair of leather work gloves. "Who else was down at that boathouse?"
 
-Maren checks the kid at the register to make sure he's still glued to his phone, then looks down at her coffee lid. "Not in here. My aquaculture lease comes up for county sign-off in January, and Cole Halstead's marine unit boards my brother-in-law's boat every time somebody talks out of turn. I owe too much on winter dockage to go rounds with a badge over summer money."
+Maren checks the kid at the register to make sure he's still glued to his phone, then looks down at her coffee lid. "Not in here. My oyster lease comes up for county sign-off in January, and Cole Halstead's marine unit boards my brother-in-law's boat every time somebody talks out of turn. I owe too much on winter dockage to go rounds with a badge over summer money."
 
 "Then why wave me off from the cove?"
 

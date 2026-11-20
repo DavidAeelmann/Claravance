@@ -6,7 +6,7 @@ Graham flinches back against the cast-iron radiator as I drop to my knees beside
 
 "Quiet." I set the knife beside my knee, keep one eye on the kitchen arch, and dig the multi-tool out of my pocket. "Cole and Lydia are in the basement. Two minutes, maybe less, before they figure out that crash wasn't me."
 
-I flip out the narrow awl. My right hand shakes from the cold, and my wrist stings every time I try to brace it. Cole slapped standard county hinged cuffs on him, and in his hurry to get down to the boathouse, he skipped the double-lock bar. No secondary stop blocking the locking pawl.
+I flip out the narrow awl. My right hand shakes from the cold, and my wrist stings every time I try to brace it. Cole slapped standard county hinged cuffs on him, and in his hurry to get down to the boathouse, he skipped the safety lock. No secondary pin blocking the cuff catch.
 
 "Keep your wrist still," I tell him.
 
@@ -14,7 +14,7 @@ I flip out the narrow awl. My right hand shakes from the cold, and my wrist stin
 
 "Shut up and hold still."
 
-I slide the thin tip into the keyway to hook the spring-loaded pawl and lever it back. Graham jerks as the metal scrapes bone, and the awl slips out of the slot. I swear under my breath, pin his forearm against the radiator pipe with my knee, and feed the tip back in. Salt grit inside the hinge makes the tool skitter off the catch, so I brace the handle against the heel of my palm and turn harder.
+I slide the thin tip into the keyway to hook the spring-loaded catch and lever it back. Graham jerks as the metal scrapes bone, and the awl slips out of the slot. I swear under my breath, pin his forearm against the radiator pipe with my knee, and feed the tip back in. Salt grit inside the hinge makes the tool skitter off the catch, so I brace the handle against the heel of my palm and turn harder.
 
 *Click.* The jaw pops open.
 
@@ -66,7 +66,7 @@ Inside, the radiator ticks as the boiler cycles down. My duffel is against the w
 
 I pull a dry wool sweater over my freezing flannel and sling the duffel over my shoulder. The wool hangs heavy and itchy against my neck, and my jaw aches from clenching my teeth. Still, the dry knit quiets the worst of my shivering so I can think.
 
-"Move," I tell Graham and nudge him back toward the doorway. "Into your study. Let's see if the backup array mirrored the boathouse mic, and whether your UPS battery can push anything out over cellular."
+"Move," I tell Graham and nudge him back toward the doorway. "Into your study. Let's see if the backup array mirrored the boathouse mic, and whether your backup battery can push anything out over cellular."
 
 We step out into the north hall beside the foyer arch. Directly across the foyer, the stairwell door rattles hard as Cole's duty boots charge up the concrete steps two at a time, the heavy tread shaking the floor joists under my feet.
 

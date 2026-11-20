@@ -20,7 +20,7 @@ I look down at the amber pour catching the firelight. Neat bourbon. Graham's gla
 
 "That's tight," I say, and watch him over the rim of his glass. "Especially without the boathouse logged. You're asking me to sign off on an incomplete estate schedule."
 
-His fingers go still on the glass. Behind the screen, a birch log pops and throws a hiss of sparks against the mesh.
+His fingers go still on the glass. Behind the firescreen, a birch log pops and throws a hiss of sparks against the wire.
 
 "Your Harbor Mutual license isn't active, Tessa," he says, the polite edge still in his voice. "You're a private contractor working under an NDA. Finish the house interior by four tomorrow, hand me a clean ledger, and the remaining ten thousand wires to your account before the courier hits the causeway. If you walk away short of that, we both know what the breach clause costs."
 
@@ -48,21 +48,21 @@ Cold rises off the hearthstone. Only a pale wedge of hall light falls across the
 
 I verify my phone's flash and shutter sound are off. Then I flip the portfolio open.
 
-A cream envelope slit along the top flap lies inside, stamped **CERTIFIED MAIL — RETURN RECEIPT REQUESTED**. Two pages stick halfway out under the letterhead of *Bramwell & Shaw Fiduciary LLP, Boston*, clipped to a highlighted trust covenant summary. A yellow sticky note clings to the margin in cramped legal script: *Final cure window. No further extensions.*
+A cream envelope slit along the top flap lies inside, stamped **CERTIFIED MAIL — RETURN RECEIPT REQUESTED**. Two pages stick halfway out under the letterhead of *Bramwell & Shaw Fiduciary LLP, Boston*, clipped to a highlighted trust summary. A yellow sticky note clings to the margin in cramped legal script: *Final cure window. No further extensions.*
 
 I angle the first page into the hall light and scan fast.
 
 *Notice of Default & Acceleration: Kiefer Soundworks LLC.*
 
-Under *The Lydia Kiefer Irrevocable Trust*, Graham holds conditional joint signatory authority over a $5,400,000 corpus. On October fifteenth, Bramwell & Shaw issued a formal default demand over $2,400,000 in unauthorized draws pulled against trust-held licensing collateral over fourteen months, which leaves $3,000,000 in the trust. The letter gives him a thirty-day civil cure window expiring November fourteenth (ten days left) before the trustees pursue recovery and refer the accounting to the Suffolk County DA.
+Under *The Lydia Kiefer Irrevocable Trust*, Graham holds shared signing rights over a $5,400,000 trust account. On October fifteenth, Bramwell & Shaw issued a formal default demand over $2,400,000 in unauthorized draws pulled against trust-backed collateral over fourteen months, which leaves $3,000,000 in the trust. The letter gives him a thirty-day window to pay it back, expiring November fourteenth (ten days left), before the trustees pursue recovery and refer the accounting to the Suffolk County DA.
 
-A bespoke trust governance clause is highlighted in yellow near the bottom: if Graham is formally charged with murder or felony moral turpitude, his signatory rights strip immediately and the cure window vanishes. Clipped to the back page, a Cayman beneficiary rollover schedule specifies that upon forfeiture, the remaining $3,000,000 automatically transfers out of Boston probate into an offshore Cayman holding trust established by her father's trustee for Lydia's sole line.
+A special forfeiture rule is highlighted in yellow near the bottom: if Graham is formally charged with murder or a major felony, his signing rights strip immediately and the grace period vanishes. Clipped to the back page, a Cayman rollover schedule specifies that upon forfeiture, the remaining $3,000,000 automatically transfers out of Boston probate into an offshore Cayman trust established by her father's trustee for Lydia's sole line.
 
 Under the signature block, Graham has penciled three bridge-loan dates in neat block script, every one crossed out, followed by a fresh margin note: *Arlington buyout closes Friday if inventory seals.*
 
 If the Arlington buyout closes before an audit locks his accounts, Graham plugs the hole in time, whereas a murder charge wipes him out overnight.
 
-I shoot four quick photos of the demand letter and rollover rider to catch the trust account number, the $3,000,000 balance, and the October fifteenth service stamp, then slide the pages back into the flap along their exact crease.
+I shoot four quick photos of the demand letter and rollover page to catch the trust account number, the $3,000,000 balance, and the October fifteenth service stamp, then slide the pages back into the flap along their exact crease.
 
 Shoes scrape across the kitchen slate. Ice clinks against metal, and the pantry switch clicks off. I slip back into the living room and drop onto the sofa half a beat before Graham walks in with tongs and an ice bucket.
 

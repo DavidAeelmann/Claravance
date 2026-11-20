@@ -12,7 +12,7 @@ I take two steps back with my palms open at shoulder height. Lydia moves in and 
 
 There's no cover on the open decking. If I lunge, she puts a bullet in me—and the only reason she hasn't pulled the trigger already is that a nine-millimeter slug ruins a staged drowning. I drop onto the wet boards beside the piling bolted to the corner of the bait table. Brine soaks straight through the knees of my jeans. Cold, immediate, miserable.
 
-Lydia steps behind me and presses the muzzle against the base of my skull while she drags my wrists together behind the timber. She threads the cable tie around both wrists, catches the ratchet, and pulls until the plastic bites into bone. I push against the loop with my thumbs. Zero give. The edge cuts so deep my fingers will go numb in minutes, and the damp wood smells faintly of creosote.
+Lydia steps behind me and presses the muzzle against the base of my skull while she drags my wrists together behind the timber. She threads the cable tie around both wrists, catches the ratchet, and pulls until the plastic bites into bone. I push against the loop with my thumbs. Zero give. The edge cuts so deep my fingers will go numb in minutes, and the damp wood smells faintly of old tar.
 
 "Cole will be right down once he's done with your little stall at the front door," she says. She circles back where she can watch both me and the double doors, sets the gun on the workbench within six inches of her right hand, and picks up an iPad Mini.
 
@@ -26,9 +26,9 @@ My wrists ache under the nylon, my fingers already going dull as my sneakers sli
 
 I keep my eyes on Lydia so my shoulders don't give anything away. Just above my bound wrists, an oyster knife is wedged blade-out into a split seam along the underside of the rail, its swollen oak handle stuck fast in dried salt crust. Somebody probably jammed it there years ago to shuck bait and forgot it.
 
-I leave it alone for now and drop my gaze to the lower cross-brace of the bait table beside my left sneaker. A *Kiefer Soundworks* PoE microphone puck is bolted deep in the shadow under the timber, wired into the waterproof `BOATHOUSE_LINT` conduit that runs up the cliff to Graham's basement server. From floor level, I can see a pinpoint blue LED glowing steadily under its rim.
+I leave it alone for now and drop my gaze to the lower cross-brace of the bait table beside my left sneaker. A *Kiefer Soundworks* wired mic is bolted deep in the shadow under the timber, running into the waterproof `BOATHOUSE_LINT` conduit that climbs the cliff to Graham's basement server. From floor level, I can see a pinpoint blue LED glowing steadily under its rim.
 
-Live. Hardwired back to the Zone Four array. From where she stands by the workbench, Lydia can't see it tucked under the overhang. She thinks she owns Graham's network just because her tablet still reaches the house mesh from down here.
+Live. Hardwired back to the Zone Four array. From where she stands by the workbench, Lydia can't see it tucked under the overhang. She thinks she owns Graham's network just because her tablet still reaches the house Wi-Fi from down here.
 
 None of it helps me if Cole walks through those doors first. I need her talking into that mic, and I need my hands free before the padlock turns.
 
@@ -40,7 +40,7 @@ Her thumbs stop on the glass. For a second the only sound in the boathouse is th
 
 "And you think Boston's going to hand over three million without a fight?"
 
-"There won't be a probate fight. Under the trust's governance rider, a signed confession paired with Graham's death triggers immediate forfeiture. That blocks his estate and Kiefer Soundworks' creditors from touching a dime of the remaining corpus."
+"There won't be a probate fight. Under the trust rules, a signed confession paired with Graham's death triggers immediate forfeiture. That blocks his estate and Kiefer Soundworks' creditors from touching a dime of the remaining money."
 
 "Right. That's why Cole had to hide your weekender behind Graham's coats."
 
@@ -52,7 +52,7 @@ Her thumbs stop on the glass. For a second the only sound in the boathouse is th
 
 Behind my left shoulder, harbor water sucks hard against the slipway planks. My toes are freezing inside my sneakers, and my shoulders ache from the zip tie.
 
-"You didn't even get the life vest wet with salt water," I push. Behind the piling, I angle my bound wrists upward until the taut nylon ridge presses against the blade of the oyster knife. "I shot the clean lot stamp on that vest, and I bagged a swab of the paste you flushed down the master bath P-trap before dusting Graham's rocks glass. Wait till a state lab runs mass spec on that."
+"You didn't even get the life vest wet with salt water," I push. Behind the piling, I angle my bound wrists upward until the taut nylon ridge presses against the blade of the oyster knife. "I shot the clean lot stamp on that vest, and I bagged a swab of the paste you flushed down the master bath P-trap before dusting Graham's rocks glass. Wait till a state lab runs a tox screen on that."
 
 Her mouth curves in a thin smile. "Cole signed the report. Nobody's ordering a second medical examiner when there won't be a body left once the crabs are done. By five-fifteen high tide, there's nobody left on Salt Point to argue trust law with a Boston judge."
 

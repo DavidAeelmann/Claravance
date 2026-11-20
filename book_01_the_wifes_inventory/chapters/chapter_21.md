@@ -4,13 +4,13 @@ Cole's boots hit the kitchen tile. A flashlight beam cuts across the black foyer
 
 "Graham!" Cole yells from the kitchen. His voice bounces off the stone. "Get out here! Think your Boston money gets you off this rock?"
 
-I push Graham into his study and ease the walnut door almost shut. Through the inch-wide crack, the hall stays black. Inside, the server rack hums on its UPS battery backup and casts dull amber light across the blotter. The pipe wrench I left behind this afternoon still sits beside the keyboard. I leave it.
+I push Graham into his study and ease the walnut door almost shut. Through the inch-wide crack, the hall stays black. Inside, the server rack hums on its battery backup and casts dull amber light across the blotter. The pipe wrench I left behind this afternoon still sits beside the keyboard. I leave it.
 
 Graham leans hard against the wall, one hand pressed to his swollen cheek, his chest heaving. Outside, the gale slams against the house hard enough to make the windowpanes rattle behind their outer armor. "Lydia just threw the generator transfer switch and pulled the manual shutter release in the basement alcove," he says, voice shaking. "The hurricane shutters are locked down in their tracks. Without power we can't raise them, and this study door won't hold Cole for ten seconds."
 
 "We're not going out a window," I whisper. "You wired an acoustic house, Graham. Time to use it."
 
-I drop into the chair, wake the console, and pull up the *Kiefer Soundworks* zone router. Every upstairs speaker is dead except the basement array, which draws off Zone 4's battery bank. The exterior cellular bridge went dark with the main power, too. Nothing leaves this house over the air tonight. Then I spot it—one green status line at the bottom of the screen confirming the boathouse mic puck mirrored onto the Zone 4 RAID array twenty minutes ago.
+I drop into the chair, wake the console, and pull up the *Kiefer Soundworks* zone router. Every upstairs speaker is dead except the basement array, which draws off Zone 4's battery bank. The exterior cellular bridge went dark with the main power, too. Nothing leaves this house over the air tonight. Then I spot it—one green status line at the bottom of the screen confirming the boathouse mic puck mirrored onto the Zone 4 backup drives twenty minutes ago.
 
 The interface is typical Graham: three nested menus deep just to route a single audio channel, like he designed it to impress an architect instead of someone trying to keep from getting shot. My thumb slips once on the trackpad before I highlight `MIC_04_PANTRY_020915.wav`, route it to `ZONE_4_DARKROOM_SPEAKERS`, and push the gain to the stops. If Cole hears Lydia's voice blasting out of the basement, he won't go door to door upstairs. He'll charge the concrete steps to kill it.
 
@@ -30,7 +30,7 @@ Heavy boots hammer across the foyer. He takes the concrete landing two treads at
 
 I slip into the north hall. If I can cross the foyer before Cole hits the bottom, I can throw the exterior deadbolt on the basement fire door and seal him in. Halfway to the archway, a penlight slices across the slate from the living room. Lydia steps out of the dark with a fireplace poker in her hand and cuts into the stairwell right behind him.
 
-She's going to tell him it's a trap. Once she does, Cole will smash the Zone 4 RAID array and come straight back up. The foyer stairs are blown. My only shot at that lock is from the inside, while the speakers still have their backs turned.
+She's going to tell him it's a trap. Once she does, Cole will smash the Zone 4 backup drives and come straight back up. The foyer stairs are blown. My only shot at that lock is from the inside, while the speakers still have their backs turned.
 
 Lydia's boots clatter down the upper treads. I skirt the kitchen island, my knee clipping a barstool hard enough to make it rock on the tile, and feel my way into the pantry corridor.
 
@@ -76,10 +76,10 @@ Lydia doesn't turn to fight on the stairs. She scrambles upward ahead of me in t
 
 I take the steps two at a time behind her. My sneakers skid on the top landing before I shoulder the flush cedar door open into the hall.
 
-Graham is already stepping out of the north corridor, squinting into the dark. Ahead of me, Lydia sprints into the front vestibule, grabs the coat bench, and drags it scraping across the slate right under the low skylight hatch.
+Graham is already stepping out of the north corridor, squinting into the dark. Ahead of me, Lydia sprints into the front entry, grabs the coat bench, and drags it scraping across the slate right under the low skylight hatch.
 
 "Stop her!" I yell. I lunge across the stone as Graham moves to cut her off, his empty hands coming up short when she whips her bleeding arm toward his face. He recoils a half-step, and that half-step is all she needs.
 
-Lydia scrambles onto the bench, unlatches the skylight crank with wet, blood-slick fingers, and shoves the glass hatch up into the storm. Freezing rain pours onto the slate and drenches her head and shoulders in a second as she grabs for the wet roof framing. Wind howls down the opening, whipping her hair across her eyes and scattering cold spray across Graham's face. The gale fills the vestibule so fast the cedar door slams back against its stop.
+Lydia scrambles onto the bench, unlatches the skylight crank with wet, blood-slick fingers, and shoves the glass hatch up into the storm. Freezing rain pours onto the slate and drenches her head and shoulders in a second as she grabs for the wet roof framing. Wind howls down the opening, whipping her hair across her eyes and scattering cold spray across Graham's face. The gale fills the entry so fast the cedar door slams back against its stop.
 
 Then red and blue light bars flare through the coastal fog above the spruces. The strobes wash across the open skylight and the wet slate floor while twin sirens cut straight through the gale.

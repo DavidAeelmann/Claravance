@@ -6,7 +6,7 @@ In the mudroom, I pull my jacket off the hook beside Graham's coat, my knuckles 
 
 He texted from Portland at two-thirty to say a patent attorney ran late and he wouldn't clear the causeway until dark. That leaves me maybe thirty or forty minutes before his headlights hit the drive.
 
-I ease the mudroom door shut, hug the cedar siding under the deck camera's blind spot, and cut across wet grass toward the spruces. Past the soffit lights, the bluff drops steep toward Salt Point Cove along a stone path chewed out of the ledge by generations of lobstermen. Rainwater runs down the risers in cold threads, turning the railroad ties slick as grease. Twice my boots slide on wet pine needles. I catch myself on spruce bark that scrapes my palms, and cold water seeps straight through the seam of my left boot until my sock squelches with every step.
+I ease the mudroom door shut, hug the cedar siding under the deck camera's blind spot, and cut across wet grass toward the spruces. Past the eave lights, the bluff drops steep toward Salt Point Cove along a stone path chewed out of the ledge by generations of lobstermen. Rainwater runs down the risers in cold threads, turning the railroad ties slick as grease. Twice my boots slide on wet pine needles. I catch myself on spruce bark that scrapes my palms, and cold water seeps straight through the seam of my left boot until my toes go numb.
 
 Down here the Atlantic wind drives spray up the rocks. Below me, the tide pulls back off mussel beds and leaves the pilings dark and wet. Halfway down the switchback, diesel fumes drift up from the shingle beach.
 
@@ -36,7 +36,7 @@ She stands there a second listening to chop slap her skiff and wind rattle the t
 
 The sorting shed is cramped, damp, and fiercely warm in the middle, where a kerosene heater hums beside a workbench stacked with hose fittings and tide almanacs. I stay near the door while Maren pours coffee from a steel thermos into a chipped mug and slides it onto a crate by my elbow. The dark ring inside the rim says burnt chicory.
 
-"Drink it or don't." She curls her red hands around a second mug. "I told you at the store, Miss Calder—I don't hold with mainland trouble. My aquaculture lease comes up in January, and Cole Halstead's marine unit boards my brother-in-law's lobster boat twice a month whenever somebody opens their mouth."
+"Drink it or don't." She curls her red hands around a second mug. "I told you at the store, Miss Calder—I don't hold with mainland trouble. My oyster lease comes up in January, and Cole Halstead's marine unit boards my brother-in-law's lobster boat twice a month whenever somebody opens their mouth."
 
 "I'm not going to the county." My fingers are numb enough that the hot ceramic barely registers, and I leave the mug where it is. "Whoever Halstead's working with just shoved my deadline up to tomorrow night. If I walk out before I finish the inventory, Graham hits me with a breach penalty I can't pay, and I lose the fee keeping my apartment off a sheriff's sale. So unless you want me living in my car in your gravel lot, we're having this conversation."
 
@@ -84,7 +84,7 @@ Every wet riser jars my knees in the dark. Halfway up, my thighs burn and my ear
 
 Below me, the seawall curves black against the outgoing tide. Through spruce boughs, the pitched roof of the boathouse squats over the water, its double doors still padlocked at the hasp.
 
-I'm turning back toward the upper stairs when white light cuts across the boathouse's frosted side casement—the exact cliff-side window that was shuttered from inside yesterday morning. A flashlight beam sweeps slowly left to right behind the glass, catching the dark curve of a suspended kayak hull for half a second before dipping below the sill.
+I'm turning back toward the upper stairs when white light cuts across the boathouse's frosted side window—the exact cliff-side window that was shuttered from inside yesterday morning. A flashlight beam sweeps slowly left to right behind the glass, catching the dark curve of a suspended kayak hull for half a second before dipping below the sill.
 
 *Stay tucked out of sight down the cove until dusk,* Cole told his burner caller. The padlock still hangs on the doors, yet someone is moving around inside.
 

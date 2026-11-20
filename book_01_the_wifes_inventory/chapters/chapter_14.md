@@ -4,7 +4,7 @@ Cold air drifts down the concrete stairwell from the open front hall while my fi
 
 Graham stands in the fire doorway with gray dawn light behind him and a pipe wrench hanging low in his right hand. He checks my face first, then the manila envelope tucked under my arm, and finally the worktable where the server rack hums beneath the lit blue displays.
 
-"How did you get past the mortise lock?" he asks, his voice thin and uneven. "The hall sensor never chimed."
+"How did you get past the deadbolt?" he asks, his voice thin and uneven. "The hall sensor never chimed."
 
 "Didn't use the hall door." I keep the worktable between us. "Drop the wrench, Graham. Now."
 
@@ -88,11 +88,11 @@ Graham goes completely still, his hand slipping half an inch off the stone edge.
 
 His mouth opens, then closes. "I didn't take those out of the closet, Tessa," he says, and steps around the island toward the front hall. "Come look."
 
-I follow him to the vestibule archway. Rain beads across the low overhead skylight above the coat bench, and cold gray light falls onto a dark puddle by the stairwell door.
+I follow him to the front entry archway. Rain beads across the low overhead skylight above the coat bench, and cold gray light falls onto a dark puddle by the stairwell door.
 
 "And the olive weekender shoved behind your wool coats?" I nod toward the tall cedar closet beside the bench. "Bar Harbor–Yarmouth, Slip Four, stamped October seventeenth, three days after you say she drowned."
 
-Graham turns sharply, yanks the closet door open, and shoves two overcoats aside. He stares down at the canvas bag on the floor, his hand dropping off the wool sleeve. "That wasn't there Sunday night. Halstead came by Monday morning to drop off a supplemental marine report while I was down in the cellar. He stood right here in this vestibule for five minutes."
+Graham turns sharply, yanks the closet door open, and shoves two overcoats aside. He stares down at the canvas bag on the floor, his hand dropping off the wool sleeve. "That wasn't there Sunday night. Halstead came by Monday morning to drop off a supplemental marine report while I was down in the cellar. He stood right here in this entryway for five minutes."
 
 Past him, through the tall glass sidelights, mist curls over the wet gravel turnaround. My Civic is parked beside the spruces, except the trunk lid stands popped ajar above the bumper latch. Even from the hall, the lock seam sits flush, the paint unmarked.
 
@@ -104,4 +104,4 @@ I stare at the popped trunk. Going out there for the cleat puts my own prints on
 
 "Give me the passphrase for the raw basement partition," I say. "Right now."
 
-Graham shakes his head and nudges the muddy duck boots and tote out of sight behind the coat bench where nobody watching the sidelights can spot them. "Whoever hammered those three failed passphrases into the cellar console at four-forty-five yesterday tripped a twenty-two-hour hardware brute-force lockout across the master key. Even with the passphrase, the study bridge won't mount that partition until after three this afternoon. And Lydia has co-owner view on the shared probate folder. If your inventory photo timestamps stop ticking into the cloud this morning, she and Cole know we're onto them and hit this house before the lockout clears. Shoot the upstairs rooms to keep our cover live; the master key unlocks by three-thirty."
+Graham shakes his head and nudges the muddy duck boots and tote out of sight behind the coat bench where nobody watching the sidelights can spot them. "Whoever hammered those three failed passphrases into the cellar console at four-forty-five yesterday tripped a twenty-two-hour hardware lockout across the master key. Even with the passphrase, the study bridge won't mount that partition until after three this afternoon. And Lydia has co-owner view on the shared probate folder. If your inventory photo timestamps stop ticking into the cloud this morning, she and Cole know we're onto them and hit this house before the lockout clears. Shoot the upstairs rooms to keep our cover live; the master key unlocks by three-thirty."

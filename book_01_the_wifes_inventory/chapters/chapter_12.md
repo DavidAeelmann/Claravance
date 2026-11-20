@@ -8,11 +8,11 @@ A bare-bones timeline runs beneath the paused frame: a local three-minute export
 
 He didn't just build noise-canceling prototypes down here. He wired microphones across the whole property—sunroom, pantry, stairwell, boathouse, even a submerged hydrophone on the cove pilings—into one local array. Half the rooms upstairs feed right into this cellar. Probably every word we traded over leek soup Tuesday night, too.
 
-A waist-high aluminum server rack hums beside the table and vents warm air through perforated mesh. Three black chassis units sit stacked inside (`PRIMARY PARALLEL`, `COVE HYDROPHONE`, `AMBIENT / PERIMETER`) above a bolted UPS battery bank to keep the drives alive if main power drops. A cellular bridge rests on top with its status light dead. External alerts won't leave this rack over cell, though local house sensors are another matter.
+A waist-high aluminum server rack hums beside the table and vents warm air through perforated steel. Three black chassis units sit stacked inside (`PRIMARY PARALLEL`, `COVE HYDROPHONE`, `AMBIENT / PERIMETER`) above a bolted battery bank to keep the drives alive if main power drops. A cellular bridge rests on top with its status light dead. External alerts won't leave this rack over cell, though local house sensors are another matter.
 
-I glance back toward the fire door under the foyer stairs, sealed shut on its pneumatic closer. My knuckles are raw from the iron ladder, and I can't stop thinking about how bad it'll look if the house system already tripped an alert upstairs.
+I glance back toward the fire door under the foyer stairs, sealed shut on its heavy closer. My knuckles are raw from the iron ladder, and I can't stop thinking about how bad it'll look if the house system already tripped an alert upstairs.
 
-I nudge the mouse to wake the right screen, careful not to hit play. A batch-render log fills the display from October twenty-first through yesterday morning: two weeks of wind-noise filters hammered against one eight-minute stretch (`02:09` to `02:17`) to pry human voices out from under gale roar. The last completed render finished November 4 at 7:05 AM, ten minutes before Graham left for Portland. A red terminal alert underneath is stamped **4:45 PM**: three failed passphrase lockouts on the encrypted export queue.
+I nudge the mouse to wake the right screen, careful not to hit play. A processing log fills the display from October twenty-first through yesterday morning: two weeks of wind-noise filters hammered against one eight-minute stretch (`02:09` to `02:17`) to pry human voices out from under gale roar. The last completed render finished November 4 at 7:05 AM, ten minutes before Graham left for Portland. A red terminal alert underneath is stamped **4:45 PM**: three failed passphrase lockouts on the encrypted export queue.
 
 At four-forty-five yesterday, Graham was on I-95 south and I was down at Maren's sorting shed. Somebody stood right at this table trying to crack the export queue while the house sat empty, minutes before I spotted that flashlight behind the boathouse window.
 
@@ -24,7 +24,7 @@ Past the corner, a steel drafting table stands against the east wall, an unplugg
 
 Two weeks of charts lie clipped together by date. Brass acoustic blocks pin down a Maine tide chart with October fifteenth's 2:14 AM high-water mark circled twice in red felt-tip. Salt Point coastal AIS tracking logs lie beside it, highlighted across a forty-second transponder dropout inside a shore-station blind spot. A Coast Guard drift grid overlaps the logs, marked with red arrows curving northwest toward the outer bell buoy. Near the edge sits a half-empty ceramic mug with dried grounds crusted inside the rim and a mechanical pencil chewed flat at the eraser like a nervous third-grader's.
 
-A yellow legal pad pokes out from under the chart, covered in his cramped block script: hull draft depths stacked against granite ledge soundings, tide-current estimates, fuel-burn tables for a fiberglass skiff running dark. At the bottom, one underlined question is pressed hard enough to dent the sheet underneath:
+A yellow legal pad pokes out from under the chart, covered in his cramped block script: boat depths stacked against rock-ledge charts, tide-current estimates, fuel-burn tables for a fiberglass skiff running dark. At the bottom, one underlined question is pressed hard enough to dent the sheet underneath:
 
 *How did the Kiefer skiff clear the outer bar at 2:14 without hitting the east shoal?*
 
@@ -36,9 +36,9 @@ Before I can cross back to zoom in on that watch, I spot a gray steel cabinet bo
 
 `ARCHIVE — DO NOT ERASE`
 
-A chrome cam lock secures the center handle, its keyway scratched from use. Pale smears around the latch show where someone wiped the enamel with a dry sleeve after trying the handle. I tug it. Locked. B-4 in my front jeans pocket is a warded key for the fire door; it won't touch a wafer lock.
+A chrome key lock secures the center handle, its keyway scratched from use. Pale smears around the latch show where someone wiped the enamel with a dry sleeve after trying the handle. I tug it. Locked. B-4 in my front jeans pocket is an old door key for the fire door; it won't touch a cabinet lock.
 
-I flip out the pry blade on my multi-tool, wedge the tip into the seam above the latch, and lean my shoulder into the cabinet. The steel holds until my fingers cramp. Then the cam tongue bends inward with a sharp *snap* that sounds way too loud in the deadened air.
+I flip out the pry blade on my multi-tool, wedge the tip into the seam above the latch, and lean my shoulder into the cabinet. The steel holds until my fingers cramp. Then the metal latch bends inward with a sharp *snap* that sounds way too loud in the deadened air.
 
 I freeze and listen for floorboards overhead. Nothing moves.
 
@@ -46,10 +46,10 @@ I ease the door open so the bent latch doesn't scrape the frame. Both the top an
 
 I lift the envelope off the shelf.
 
-Across the room, the fire door beneath the foyer stairs cracks open an inch—a wedge of dark stairwell cuts the blue glare—then slams shut into its jamb with a pneumatic *thud*.
+Across the room, the fire door beneath the foyer stairs cracks open an inch—a wedge of dark stairwell cuts the blue glare—then slams shut into its jamb with a heavy *thud*.
 
 I spin around, clamping the envelope to my chest.
 
 A deadbolt slides home from the *outside* with an echoing *clack* that carries straight through the concrete under my socks.
 
-Above the interior mortise plate, the pinpoint LED winks from dark to steady, glaring red.
+Above the smooth brass plate, the pinpoint LED winks from dark to steady, glaring red.

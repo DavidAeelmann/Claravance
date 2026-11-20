@@ -28,7 +28,7 @@ Only rain ticks against the ocean glass. Halstead listens for a few beats, his g
 
 I press my back harder against the bottom shelf to stay clear of the slats. A tin of smoked paprika scrapes my shoulder blades. Directly behind my spine, the paneling under the shelves gives a hair under my weight, hollow, like there's open air behind the boards—maybe dead framing beside the chimney chase, or a void that shouldn't be there at all.
 
-At the tablet, Halstead taps six digits onto the dark glass with his left hand and unlocks the co-owner installer tier on the first try.
+At the tablet, Halstead taps six digits onto the dark glass with his left hand and unlocks the installer menu on the first try.
 
 Cole may have wired the breaker bypass himself, but nobody guesses a six-digit installer code on a defense contractor's security hub. Graham swore no one else had house access. Either Graham lied, or Lydia gave Cole her PIN before she vanished.
 
@@ -44,9 +44,9 @@ I shift half a step to keep him in the slats. A jar clinks against a bottle by m
 
 Halstead freezes halfway through the archway, head tilted back toward the kitchen. Neither of us moves. Then he checks the empty upper rail once more and steps into the mudroom.
 
-He drops to one knee beside the boot tray, his wet knee darkening the slate. He lifts the factory-stiff life vest off peg two, turns the collar to check that the inside tag hasn't been stripped, and hangs it back square against the beadboard.
+He drops to one knee beside the boot tray, his wet knee darkening the slate. He lifts the factory-stiff life vest off peg two, turns the collar to check that the inside tag hasn't been stripped, and hangs it back square against the wall paneling.
 
-Next he scans the coat hooks, his gaze sliding past Graham's wool coat to my jacket beside it. B-4 is tucked inside that breast pocket, wrapped in tissue. One casual pat and his fingers hit brass through the lining. My breath catches in my throat while his hand hovers near the hem.
+Next he scans the coat hooks, his gaze sliding past Graham's wool coat to my jacket beside it. B-4 is tucked inside that breast pocket, wrapped in tissue. One casual pat and his fingers hit brass through the lining. My chest locks up while his hand hovers near the hem.
 
 He skips the coats. Instead, he sweeps two fingers along the floorboard seam under the boot tray lip, checks the deadbolt throw on the mudroom side door, and stares down at the empty right half of the tray where Lydia's duck boots belong. For a second he just stays crouched there, listening to the rain on the roof, before he stands and heads back into the kitchen.
 

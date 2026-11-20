@@ -1,6 +1,6 @@
 # Chapter 22
 
-Rain pours through the open skylight and turns the vestibule stone slick under strobing red and blue light. Lydia already has one boot hooked onto the cedar roof frame above her head, her torn jacket sleeve dark with blood. Before she can pull herself up onto the wet shingles, I drop the oyster knife, lunge onto the coat bench beside her, and grab her collar.
+Rain pours through the open skylight and turns the front entry stone slick under strobing red and blue light. Lydia already has one boot hooked onto the cedar roof frame above her head, her torn jacket sleeve dark with blood. Before she can pull herself up onto the wet shingles, I drop the oyster knife, lunge onto the coat bench beside her, and grab her collar.
 
 "Let go!" she shrieks, and kicks backward.
 
@@ -60,7 +60,7 @@ I unzip the outer pouch and set out the thumb drive (`RAW_BUFFER_OCT14_15`), Col
 
 Ward bags each piece with gloved fingers and waves an evidence tech over. "Have the studio team print that Montblanc before anyone moves it," he tells the tech. "And pull Halstead's October fifteenth report so documents can compare his writing against this slip and that smudged checklist on the blotter. I want his prints, his installer logs, and the two-fourteen audio lined up together."
 
-"There's a half-empty rocks glass on the living-room tray with pale sediment at the bottom," I add, gesturing toward the house. "And a life vest hanging on mudroom peg two. It looked factory-clean when I checked it, and I have shots of the lot stamp backed up in my cloud account off my phone. There's also a fireplace poker down in Zone Four and an oyster knife on the vestibule floor."
+"There's a half-empty rocks glass on the living-room tray with pale sediment at the bottom," I add, gesturing toward the house. "And a life vest hanging on mudroom peg two. It looked factory-clean when I checked it, and I have shots of the lot stamp backed up in my cloud account off my phone. There's also a fireplace poker down in Zone Four and an oyster knife on the entry floor."
 
 Ward makes three quick notes and murmurs into his shoulder mic to have the lab pull the glass, the vest, and the weapons. Then he looks back at my open bag.
 

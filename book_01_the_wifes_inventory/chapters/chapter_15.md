@@ -2,7 +2,7 @@
 
 By three-thirty, rain is hammering the front sidelights and Graham's phone still hasn't pinged with an ETA from the Boston courier.
 
-I come down the stairs with the pipe wrench and look out through the vestibule glass. My Civic is parked by the spruces, its trunk lid still cracked just above the latch in the mist.
+I come down the stairs with the pipe wrench and look out through the front entry glass. My Civic is parked by the spruces, its trunk lid still cracked just above the latch in the mist.
 
 "We can't leave those boots behind the bench," Graham says behind me, his voice hoarse. He stares at the front door. "Cole Halstead rolls up that drive with a warrant, he won't care who popped your trunk."
 
@@ -20,7 +20,7 @@ He doesn't argue. He grabs a dish towel off the kitchen counter to swab the slat
 
 The cash is still under my shirts, but the side-pouch zipper is flipped outward. I yank it open. My spare Civic key fob is gone. Somebody lifted it while my back was turned, which explains how my trunk popped without a mark on the paint. I cross the north hall.
 
-Graham's study is right opposite my room. Unlike the glass rooms out front, it's narrow and closed in, lined with dark acoustic baffling and walnut bookshelves. A steel server rack hums in the corner behind a smoked-glass door, blue and amber LEDs glowing through the mesh.
+Graham's study is right opposite my room. Unlike the glass rooms out front, it's narrow and closed in, lined with dark acoustic baffling and walnut bookshelves. A steel server rack hums in the corner behind a smoked-glass door, blue and amber LEDs glowing inside.
 
 "Sit," I say.
 

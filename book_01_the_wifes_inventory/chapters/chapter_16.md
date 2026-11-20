@@ -54,15 +54,15 @@ I step off the bottom stair onto oyster shells and duck under the north eaves. H
 
 Cole is at the house. I picture Graham fumbling with the brass chain, his voice pitching too high, giving everything away in the first ten seconds. Stop thinking about him. Just move.
 
-I hug the damp shingles along the side wall until I reach the narrow casement window facing the ledges. Graham swore the boathouse had stayed locked since the Coast Guard finished searching. When I run my fingers along the weathered sill, though, the gray paint along the bottom seam isn't swollen shut with salt crust. Someone ran a sharp blade down the joint.
+I hug the damp shingles along the side wall until I reach the narrow side window facing the ledges. Graham swore the boathouse had stayed locked since the Coast Guard finished searching. When I run my fingers along the weathered sill, though, the gray paint along the bottom seam isn't swollen shut with salt crust. Someone ran a sharp blade down the joint.
 
 I wedge my multi-tool under the warped sash and lever hard. The metal slips once on the slick wood, barking my knuckles against the rough shingles, before I reset the tip and throw my weight into it. Wet wood groans and gives half an inch. Cold rain drips off my hair onto my wrist as I slip the blade through the gap and lift the interior hook clear of its eye-screw with a light metallic *ting*.
 
-I flatten against the shingles and listen. Rain ticks on the cedar roof; underneath the floorboards, harbor water slaps hollow against pilings. Nothing else moves. I swing the casement wide and drop inside.
+I flatten against the shingles and listen. Rain ticks on the cedar roof; underneath the floorboards, harbor water slaps hollow against pilings. Nothing else moves. I swing the window wide and drop inside.
 
 ***
 
-My sneakers hit damp cedar decking with a dull thud. The dark room smells of stale diesel from an old engine tank. Below the center boards, black water slaps against the pilings and sends damp echoes up through the gaps. Gray storm light bleeds through the salt-clouded transom above the double doors, laying pale bars across stacked lobster traps, coiled dock lines, and a cedar workbench along the far wall.
+My sneakers hit damp cedar decking with a dull thud. The dark room smells of stale diesel from an old engine tank. Below the center boards, black water slaps against the pilings and sends damp echoes up through the gaps. Gray storm light bleeds through the salt-clouded high glass above the double doors, laying pale bars across stacked lobster traps, coiled dock lines, and a cedar workbench along the far wall.
 
 Suspended low from the rafters on rope slings at shoulder height, a yellow fiberglass sea kayak sways almost imperceptibly in the draft from the open window behind me, its hull blocking off the back corner of the room.
 
@@ -80,6 +80,6 @@ Lydia Kiefer steps out from behind the yellow hull.
 
 My brain stalls for half a beat, trying to square the woman standing in front of me with the glossy photo from Graham's spring profile. Her dark hair is pulled back into a tight knot, and she's wearing a charcoal waxed-canvas jacket over dark trousers, dry and completely composed. In her right hand, she holds a subcompact Glock 26 steady at waist height, aimed at my chest.
 
-I stay frozen between the open casement window behind me and the gun four paces away.
+I stay frozen between the open window behind me and the gun four paces away.
 
 "Put the phone on the dock, Tessa," Lydia says, her voice calm over the slap of the rising tide. "You weren't supposed to find the dumbwaiter shaft."

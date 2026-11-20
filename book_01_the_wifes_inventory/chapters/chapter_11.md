@@ -20,19 +20,19 @@ I duck into the mudroom first, keeping low under the wall tablet's standby glow,
 
 In the pantry corridor, the breaker box is shut the way Halstead left it. Across from it, the louvered door to the walk-in pantry is closed. I hold the ball-catch back with my thumb, slip inside, and ease the door shut until the hall disappears. Total dark presses in around the shelves. I prop my phone against a flour canister with the screen dimmed all the way down, throwing a weak gray rectangle across the lower boards.
 
-Yesterday, when I pressed flat against these shelves to stay out of sight, the wainscoting behind the bottom spice rack gave slightly under my spine.
+Yesterday, when I pressed flat against these shelves to stay out of sight, the paneling behind the bottom spice rack gave slightly under my spine.
 
-One by one, I lift the stoneware crocks, paprika tins, and spice jars down onto a folded dish towel by my heels. My palms leave damp prints on the glass. Halfway through, a cumin jar bumps a tin of bay leaves with a tiny bright *tink* that sounds like a gunshot in the dark. I stop breathing and press my ear toward the louvered door. The house stays still. Only the wind outside, pushing against the kitchen casements. With the middle shelf cleared, I run my fingers along the seam where the vertical boards meet the cleat. Two countersunk brass flush-latches sit behind the jars, and a fresh thumbprint smudges the dust right across the right-hand slot.
+One by one, I lift the stoneware crocks, paprika tins, and spice jars down onto a folded dish towel by my heels. My palms leave damp prints on the glass. Halfway through, a cumin jar bumps a tin of bay leaves with a tiny bright *tink* that sounds like a gunshot in the dark. I stop breathing and press my ear toward the louvered door. The house stays still. Only the wind outside, pushing against the kitchen windows. With the middle shelf cleared, I run my fingers along the seam where the vertical boards meet the cleat. Two hidden brass latches sit behind the jars, and a fresh thumbprint smudges the dust right across the right-hand slot.
 
 ***
 
 I flip out the flathead on my multi-tool and turn the right latch a quarter-inch; it gives with a dry *snick* of old grease. I brace a shoulder against the shelf frame so the spring won't snap, turn the left latch, and pull the cedar cleat. Swollen from coastal damp, the panel sticks until I work the blade into the seam and pry it free.
 
-The whole back wall, shelf cleats and all, swings out on hidden piano hinges. Freezing air spills out of the dark opening. Unlike the rest of the pantry, the inner cedar lip has been brushed clean of dust where a sleeve or boot heel dragged past.
+The whole back wall, shelf cleats and all, swings out on hidden metal hinges. Freezing air spills out of the dark opening. Unlike the rest of the pantry, the inner cedar lip has been brushed clean of dust where a sleeve or boot heel dragged past.
 
-I angle my phone inside. A narrow utility chase framed in rough hemlock studs drops away behind the spice rack—an original 1970s manual dumbwaiter shaft, stripped of its cab decades ago, with a vertical iron ladder bolted into the cinderblock on the right.
+I angle my phone inside. A narrow utility shaft framed in rough wood studs drops away behind the spice rack—an original 1970s manual dumbwaiter shaft, stripped of its cab decades ago, with a vertical iron ladder bolted into the cinderblock on the right.
 
-A cast-iron sheave pulley is mounted under the header on the left, still strung with braided hemp rope hanging taut down the chase. Whoever stripped the cab left the rigging; a removable steel locking pin with a ring loop is jammed through a stop bracket on the pulley wheel to hold the brake arm rigid. Salt rust around the ring has been rubbed bright where fingers checked it recently. Beside the ladder, a dull rectangular block of pig iron hangs inside a wooden guide channel—the counterweight, suspended mid-shaft above the cellar. The rope still trembles slightly against the header. That's the weighted hum I heard through the baseboard pipes right after the latches clacked at 2:27.
+A cast-iron pulley is mounted under the header on the left, still strung with braided hemp rope hanging taut down the shaft. Whoever stripped the cab left the rigging; a removable steel locking pin with a ring loop is jammed through a stop bracket on the pulley wheel to hold the brake arm rigid. Salt rust around the ring has been rubbed bright where fingers checked it recently. Beside the ladder, a dull rectangular block of pig iron hangs inside a wooden guide channel—the counterweight, suspended mid-shaft above the cellar. The rope still trembles slightly against the header. That's the weighted hum I heard through the baseboard pipes right after the latches clacked at 2:27.
 
 This shaft drops straight past the basement fire door and its contact alarm. Between the fresh thumbprint in the dust and the 2:27 clack, somebody just used it.
 
@@ -40,7 +40,7 @@ I glance back through the louvered slats. The corridor is empty, the amber keypa
 
 Still, I'm not waiting upstairs for tomorrow's ambush.
 
-I pocket my phone, grip the iron rails, and swing a leg over the sill. The shaft is barely wide enough for my shoulders, and my jacket snags once on a rough hemlock splinter before tearing free. I pull the spice-rack panel nearly shut behind me, leaving a hair of clearance on the inside cleat so I can get my fingers back under it. Total dark drops over me.
+I pocket my phone, grip the iron rails, and swing a leg over the sill. The shaft is barely wide enough for my shoulders, and my jacket snags once on a rough wood splinter before tearing free. I pull the spice-rack panel nearly shut behind me, leaving a hair of clearance on the inside cleat so I can get my fingers back under it. Total dark drops over me.
 
 Cold iron bites straight through my socks. I climb down slow, testing every rung with my toes while masonry grit flakes onto my knuckles. Halfway down, my fingers go stiff from the cold iron, and I have to pause for two seconds to work my grip loose. My breathing sounds too loud in the narrow box, bouncing straight back off the cinderblock. The taut hemp line brushes my sleeve—still swaying on its own. My elbow bumps it, and the counterweight scrapes against its channel with a dull metallic rasp that makes my teeth ache. If that locking pin overhead ever slipped, dead iron would drop straight onto the cellar slab.
 

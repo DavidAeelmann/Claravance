@@ -32,7 +32,7 @@ The black door pulls back. Graham Kiefer stands in the doorway with one hand on 
 
 ***
 
-The front entry is a low, chilly mudroom vestibule tacked onto the main two-story wing, wrapping past a utility sink toward a side door by the garage bay. A coat bench and tall closet line the inner wall. Above the bench, rain taps on a skylight hatch set low into the pitched roof, eight feet up at most, the only bare glass left uncovered above the metal shutter boxes mounted over the lower windows.
+The front entry is a low, chilly mudroom tacked onto the main two-story wing, wrapping past a utility sink toward a side door by the garage bay. A coat bench and tall closet line the inner wall. Above the bench, rain taps on a skylight hatch set low into the pitched roof, eight feet up at most, the only bare glass left uncovered above the metal shutter boxes mounted over the lower windows.
 
 Through the archway, the main floor opens up. A modern kitchen with a pale limestone island takes up the right side of the room; to the left, an open oak staircase climbs to the second floor, with a ground-floor hallway tucking behind it. Straight ahead, past the dining room, a massive wall of ocean glass frames black water and churning foam below the cliff. It throws my own tired face back at me over the drop.
 
@@ -46,7 +46,7 @@ Graham walks me past the island and stops at a narrow maple table near the stair
 
 "I'll count it first." I toss my jacket over the chair back and open the folder.
 
-Six pages of dense type. Non-disclosure, non-disparagement, a blanket ban on photographing hardware or records on the property, and a fifty-thousand-dollar liquidated damages clause bolded near the bottom.
+Six pages of dense type. Non-disclosure, non-disparagement, a blanket ban on photographing hardware or records on the property, and a fifty-thousand-dollar breach penalty clause bolded near the bottom.
 
 *Fifty thousand.* Whoever drafted this pulled my Harbor Mutual judgment and knew a second suit would bury me for good. For half a second I think about grabbing my bag and seeing if I can beat the tide back across the causeway.
 
@@ -56,7 +56,7 @@ Then I picture the clerk's envelope sitting on my front seat. I stay in the chai
 
 He already knows Harbor Mutual blacklisted me over that Commercial Street fire manifest. He just wants to watch me say it.
 
-I keep my eyes on page four. "Less paperwork. Nobody drags you into superior court over boxed wool sweaters. Though fifty grand in liquidated damages is steep for old clothes."
+I keep my eyes on page four. "Less paperwork. Nobody drags you into superior court over boxed wool sweaters. Though fifty grand in breach penalties is steep for old clothes."
 
 "That clause isn't for her clothes." He crosses his arms. "My company's buyout filings and proprietary records are in this house. If a contractor leaks a page, or runs to local papers or county deputies with half-baked stories before probate clears, my Arlington buyer walks. Whatever you see here stays inside these walls until Friday."
 

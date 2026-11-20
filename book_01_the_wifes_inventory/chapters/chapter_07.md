@@ -2,13 +2,13 @@
 
 At seven-fifteen Wednesday morning, Graham leaves for Portland in a charcoal suit with his leather briefcase locked in the Audi's trunk.
 
-I stand in the main hall in my wool socks and watch him pause inside the front vestibule to tap a temporary guest invite onto his phone. A second later, mine chimes with a Kiefer Soundworks home-access link, valid until five, with gate and delivery-door feeds while he's out.
+I stand in the main hall in my wool socks and watch him pause inside the front entry to tap a temporary guest invite onto his phone. A second later, mine chimes with a Kiefer Soundworks home-access link, valid until five, with gate and delivery-door feeds while he's out.
 
 "Skip the kitchenware today," he says, and turns his wool coat collar up against the drizzle spitting off the cove. "Stick to the master closet and Lydia's vanity. I need all of it shot and logged before tomorrow night."
 
 "I'll stay on schedule." I lean a shoulder against the archway. "Boston confirmed Thursday?"
 
-"They're sending a courier tomorrow evening once I upload the preliminary ledger at five." He looks up at me under the vestibule light, eyes tired and hard. "Text me before you leave the property. Wind's supposed to peak around noon, and I don't need you stuck on the causeway if high water tops the culvert."
+"They're sending a courier tomorrow evening once I upload the preliminary ledger at five." He looks up at me under the entry light, eyes tired and hard. "Text me before you leave the property. Wind's supposed to peak around noon, and I don't need you stuck on the causeway if high water tops the culvert."
 
 "Not going anywhere."
 
@@ -16,7 +16,7 @@ The second his taillights clear the timber gate and the barrier clunks shut, the
 
 The relief doesn't even last until the kettle would've boiled. My mouth tastes like stale coffee, and my shoulders ache before I've carried a single box. I could walk out right now, except I can't, and standing in the hall staring at the stairs isn't going to move the ledger any faster. I'm already behind before eight in the morning.
 
-Before I touch a sweater upstairs, I walk over to the floating oak stairs and crack the cedar stairwell door an inch. Down the concrete steps, the steel fire door of Basement Zone 4 sits under a steady red LED, hardwired into the Kiefer Soundworks hub. Even with the B-4 key sitting inside my jacket on the vestibule hook, shoving old brass into that cylinder right now sends a breach alert straight to Portland and Graham's phone.
+Before I touch a sweater upstairs, I walk over to the floating oak stairs and crack the cedar stairwell door an inch. Down the concrete steps, the steel fire door of Basement Zone 4 sits under a steady red LED, hardwired into the Kiefer Soundworks hub. Even with the B-4 key sitting inside my jacket on the entry hook, shoving old brass into that cylinder right now sends a breach alert straight to Portland and Graham's phone.
 
 I crouch by the gap and listen. Dead quiet behind the steel. Yet during last night's blackout, the pantry tablet flashed **PERIMETER BYPASS ACTIVE** before Graham swiped it clear. Someone found a way into that room without touching the deadbolt.
 
@@ -60,7 +60,7 @@ I kneel under the vanity with my multi-tool, my left knee popping loud in the qu
 
 Holding a folded paper towel underneath the elbow, I crack the slip-nut loose. A thimbleful of gray water drips onto the paper, followed by a damp smear of white crystalline paste caked inside the lower curve of the pipe.
 
-I stare at the chalky smear on my glove. Without a lab, it could be scouring powder or mineral buildup—except nobody scrubs a spotless vanity drain and leaves wet paste packed in the bend. If you dissolve crushed tablets in warm tap water to draw off the clear drug and dump the insoluble white binder sludge down the sink, the P-trap catches the paste. The timing makes those ten missing tablets hard to ignore.
+I stare at the chalky smear on my glove. Without a lab, it could be scouring powder or mineral buildup—except nobody scrubs a spotless vanity drain and leaves wet paste packed in the bend. If you dissolve crushed tablets in warm tap water to draw off the clear drug and dump the chalky pill binder down the sink, the P-trap catches the paste. The timing makes those ten missing tablets hard to ignore.
 
 I scrape a clean dab of the paste onto a square of foil from my pocket, twist it inside the finger of a spare glove, and knot it shut.
 
