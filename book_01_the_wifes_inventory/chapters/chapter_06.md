@@ -16,7 +16,7 @@ The front door isn't locked. It swings in as soon as I turn the handle, letting 
 
 "Leave it on the counter." He turns the burner down and watches through the arch while I unlace my boots beside the tray. "I made leek soup. Eat before you get back to work. Boston counsel called while you were out, and they moved the preliminary filing window up to Thursday night."
 
-I step into the kitchen and stop in my socks. My left heel is soaked through from a split in the boot lining I keep meaning to patch. "Thursday?"
+I step into the kitchen and stop in my socks. My knuckles are chapped raw from the salt air, and my head is starting to throb behind my eyes. "Thursday?"
 
 Twenty-four hours gone, right in the teeth of a November storm. "This morning you said you had joint signatory control over Lydia's trust," I say. "Why does one day matter if you've got a normal probate window?"
 

@@ -50,7 +50,7 @@ Her thumbs stop on the glass. For a second the only sound in the boathouse is th
 
 "Won't put a boat in the water until morning." She takes two steps closer and leans one hip against the bait table, right above the shadowed blue LED. "High water tops the causeway at five-fifteen. Nobody in Augusta chases ferry stubs or Canadian marina logs for an embezzler and a washed-up adjuster who walked into Penobscot Bay together."
 
-Behind my left shoulder, harbor water sucks hard against the slipway planks. My toes are freezing inside my wet socks, which is a stupid thing to notice when someone has a gun six feet away, yet my left heel keeps cramping against the damp board.
+Behind my left shoulder, harbor water sucks hard against the slipway planks. My toes are freezing inside my sneakers, and my shoulders ache from the zip tie.
 
 "You didn't even get the life vest wet with salt water," I push. Behind the piling, I angle my bound wrists upward until the taut nylon ridge presses against the blade of the oyster knife. "I shot the clean lot stamp on that vest, and I bagged a swab of the paste you flushed down the master bath P-trap before dusting Graham's rocks glass. Wait till a state lab runs mass spec on that."
 

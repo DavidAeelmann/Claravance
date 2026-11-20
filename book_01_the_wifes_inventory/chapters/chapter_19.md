@@ -2,7 +2,7 @@
 
 Dusk settles fast over Salt Point and turns the fog around the house a dull, wet gray.
 
-I stay crouched beneath the sunroom sill until the cold locks up my calves. Inside, Graham is still slumped against the radiator, his bruised face pale in the storm light, eyes fixed on the front hall arch. He looks smaller than he did an hour ago, shoulders hunched against the cast iron, waiting for footsteps he knows are coming. He doesn't risk another look at the glass. Every minute I linger on this deck, Cole Halstead gets closer up the gravel spur.
+I stay crouched beneath the sunroom sill until my knees lock up from the cold. Inside, Graham is still slumped against the radiator, his bruised face pale in the storm light, eyes fixed on the front hall arch. He looks smaller than he did an hour ago, shoulders hunched against the cast iron, waiting for footsteps he knows are coming. He doesn't risk another look at the glass. Every minute I linger on this deck, Cole Halstead gets closer up the gravel spur.
 
 I back down the steps, nearly losing a heel on a slick board, and hug the blind north siding to the front turnaround. Rain drives sideways across the gravel. My hair plasters cold against my neck, jeans chafing raw against my thighs while my sneakers squelch over pine needles with every step.
 

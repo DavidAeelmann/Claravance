@@ -2,7 +2,7 @@
 
 The Salt Point causeway runs barely above the tide line, a wet strip of asphalt hemmed in by black granite and dark water. My Civic's muffler shield rattles up through the floorboards. The wipers smear salt spray across the windshield faster than they clear it, and my hands are stiff from fighting the wheel since Brunswick.
 
-Rusted tide markers bolted to a concrete culvert slide past the mirror. Low water tonight, exposing flats of marsh grass along the shoulder, though the mainland behind me is already gone in the fog. Off to the left, a shingle shack squats on pilings over a mudflat stacked with wire oyster traps. One yellow bulb bleeds into the mist beside its door.
+Rusted tide markers bolted to a concrete culvert slide past the mirror. Low water tonight, exposing flats of marsh grass along the shoulder, though the mainland behind me is already gone in the fog. Off to the right, a shingle shack squats on pilings over a mudflat stacked with wire oyster traps. One yellow bulb bleeds into the mist beside its door.
 
 My phone dropped to zero past the lobster pound and now clings to a single bar. The blue GPS line dead-ends at a private peninsula lot owned by a Delaware LLC. I pulled the corporate filing and the town tax card at six this morning outside Portland over cold coffee. Getting sued into the ground cures you of answering burner texts without checking who holds the deed.
 

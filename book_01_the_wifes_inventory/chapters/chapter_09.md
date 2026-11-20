@@ -80,7 +80,7 @@ I step back onto crushed shell. Night has closed fast over the cove. Fog rolls o
 
 A planned disappearance doesn't need a painted-shut studio window sash or a deputy sneaking in through the pantry. Someone's staging the house before tomorrow's courier arrives, and if I don't get back upstairs before Graham clears the causeway, I'm going to have to explain why my boots are soaked through with cove water.
 
-Every wet riser jars my knees in the dark. Halfway up, my calves burn, my left sock is a cold sponge, and my ears ache from the wind. I stop where the cove trail joins the main cliff stairs on a narrow cedar landing under a twisted pitch pine, bracing a hand against the bark to catch my breath.
+Every wet riser jars my knees in the dark. Halfway up, my thighs burn and my ears ache from the wind. I stop where the cove trail joins the main cliff stairs on a narrow cedar landing under a twisted pitch pine, bracing a hand against the bark to catch my breath.
 
 Below me, the seawall curves black against the outgoing tide. Through spruce boughs, the pitched roof of the boathouse squats over the water, its double doors still padlocked at the hasp.
 

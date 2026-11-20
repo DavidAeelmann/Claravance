@@ -50,7 +50,7 @@ Next he scans the coat hooks, his gaze sliding past Graham's wool coat to my jac
 
 He skips the coats. Instead, he sweeps two fingers along the floorboard seam under the boot tray lip, checks the deadbolt throw on the mudroom side door, and stares down at the empty right half of the tray where Lydia's duck boots belong. For a second he just stays crouched there, listening to the rain on the roof, before he stands and heads back into the kitchen.
 
-My left calf is starting to cramp. Right at eye level, three dusty tins of anchovies sit behind a jar of capers—who even keeps anchovies like that, unless Lydia liked them—and my knee is about to pop. Between the pickled beets and the flour canisters, there's nowhere to go anyway. Even if I bolted, my Civic is parked behind a slow hydraulic gate.
+My neck is stiff from craning toward the gap. Right at eye level, three dusty tins of anchovies sit behind a jar of capers—who even keeps anchovies like that, unless Lydia liked them—and my knee is about to pop. Between the pickled beets and the flour canisters, there's nowhere to go anyway. Even if I bolted, my Civic is parked behind a slow hydraulic gate.
 
 The kitchen tap runs, then shuts off. Halstead comes back with a wet paper towel, kneels to wipe a muddy heel mark off the slate where he stepped in from the cove trail, and tosses the towel toward the sink. A second later his boots turn toward the back service stairs.
 
@@ -76,7 +76,7 @@ Another pause, then an impatient exhale. "Portland cleaner's dragging her feet i
 
 *Move what up?* Graham already pushed the probate filing to Thursday night. Whoever is on the other end of that burner isn't Graham Kiefer. They're moving their own clock to beat the Boston courier.
 
-Outside, a gust rattles the deck door in its weatherstripping and pushes a strip of cold air under the sill across my ankles. My wool socks are damp around the heels from the mudroom floor earlier, and the draft goes straight to the bone.
+Outside, a gust rattles the deck door in its weatherstripping and pushes a strip of cold air under the sill across my ankles. The draft goes straight through my jeans to the bone.
 
 "Don't give a damn what the Boston courier thinks," Halstead says, dropping his voice so low I have to strain over the wind. "Guy thinks a Cambridge address and a fat check let him treat this whole point like his private bank. Keep yourself tucked out of sight down the cove until dusk. I'll pull the rest before any suit from Boston sets foot on the causeway."
 

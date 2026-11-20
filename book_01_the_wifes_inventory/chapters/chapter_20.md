@@ -40,7 +40,7 @@ I step into his lane and bring the oyster knife up until the pitted point hovers
 
 "You're not listening to me." His chin comes up a fraction of an inch, even with the point lined up on his sternum. "If Cole comes up those stairs and finds us fighting over a stack of paper, we're both dead anyway."
 
-"Stop and do the math!" Panic drops out of his voice, replaced by that smooth executive cadence from Monday night, torn collar and all. "Think about tomorrow morning if you hand those sheets to state police. Bramwell and Shaw refers the forgery to the DA, Kiefer Soundworks' accounts freeze, and the Arlington buyout dies in escrow before Monday. I default, you never see your ten-thousand-dollar completion check, Harbor Mutual levies your account, and your landlord locks your Portland place by Thanksgiving. You walk off this rock bleeding, freezing, and broke. A fired adjuster who broke a setup and got nothing to show for it."
+He takes half a breath, and panic drops out of his voice, replaced by that smooth executive cadence from Monday night, torn collar and all. "Stop and do the math! Think about tomorrow morning if you hand those sheets to state police. Bramwell and Shaw refers the forgery to the DA, Kiefer Soundworks' accounts freeze, and the Arlington buyout dies in escrow before Monday. I default, you never see your ten-thousand-dollar completion check, Harbor Mutual levies your account, and your landlord locks your Portland place by Thanksgiving. You walk off this rock bleeding, freezing, and broke. A fired adjuster who broke a setup and got nothing to show for it."
 
 He edges closer to the burner. He holds the papers steady and doesn't blink at the knife. "Let them burn, Tessa. Nobody gets hurt. Lydia and Cole still do time on the pantry recording. My Arlington buyout closes Monday. I pay off your entire eighteen-thousand-four-hundred-and-twelve-dollar judgment before noon, restore your adjuster's surety bond, and wire fifty thousand into your checking as a clean consulting fee. You get your life back tonight."
 
@@ -60,11 +60,11 @@ The blue flame dies. Graham stares at me, his arms dropping loose at his sides, 
 
 ***
 
-I march him past the foyer arch into the north hall and my guest room, the knife low at my side. Every step through the dark house feels too loud, my wet boots squelching against the pine floorboards while Graham's breathing echoes off the plaster. He tries to slow down at the threshold, glancing back toward the kitchen, so I catch his elbow and shove him inside ahead of me.
+I march him past the foyer arch into the north hall and my guest room, the knife low at my side. Every step through the dark house feels too loud, my wet sneakers squeaking against the pine floorboards while Graham's breathing echoes off the plaster. He tries to slow down at the threshold, glancing back toward the kitchen, so I catch his elbow and shove him inside ahead of me.
 
 Inside, the radiator ticks as the boiler cycles down. My duffel is against the wall. I yank it open, shove the envelope underneath my spare clothes, and reach behind the pipes for the store bag with Cole's left-handed yellow warning slip tucked inside. Everything goes into the bag, zipped tight.
 
-I pull a dry wool sweater over my freezing flannel and sling the duffel over my shoulder. The wool hangs heavy and itchy against my neck, and my left sock has bunched down under my heel, cold and wet, which shouldn't matter right now and somehow drives me crazy anyway. Still, the dry knit quiets the worst of my shivering so I can think.
+I pull a dry wool sweater over my freezing flannel and sling the duffel over my shoulder. The wool hangs heavy and itchy against my neck, and my jaw aches from clenching my teeth. Still, the dry knit quiets the worst of my shivering so I can think.
 
 "Move," I tell Graham and nudge him back toward the doorway. "Into your study. Let's see if the backup array mirrored the boathouse mic, and whether your UPS battery can push anything out over cellular."
 

@@ -50,7 +50,7 @@ She unscrews the lid of her thermos, pours a small metal cup of tea, and holds i
 
 A plainclothes State Police detective steps away from the open rear hatch of the tactical rig with a clipboard and an evidence box. He's lean, gray at the temples, his badge clipped to the belt of a soaked nylon windbreaker.
 
-"Ms. Calder. Detective Sergeant Ward," he says, and flips open a rain-spotted pad. "Techs have secured the Zone Four server. Preliminary check shows the boathouse recording is intact. We've logged Halstead's cruiser sideways on the causeway, the iPad Mini by the sunroom radiator, the bleach rag and bronze cleat in your trunk, and the bleach jugs and scratched oars down in the boathouse."
+"Ms. Calder. Detective Sergeant Ward," he says, and flips open a rain-spotted pad. "Techs have secured the Zone Four server. Preliminary check shows the boathouse recording is intact, and state techs traced that spoofed confession upload on our county drop straight to Lydia Kiefer's iPad. We've also logged Halstead's cruiser sideways on the causeway, the iPad Mini by the sunroom radiator, the bleach rag and bronze cleat in your trunk, and the bleach jugs and scratched oars down in the boathouse."
 
 "Good," I say. I drop my duffel on the rescue rig's tailgate. "There's more."
 
@@ -66,7 +66,7 @@ Ward makes three quick notes and murmurs into his shoulder mic to have the lab p
 
 Across the wet gravel, Graham stands beside an unmarked sedan with a uniformed trooper at his elbow while another officer takes a preliminary statement. He catches my eye through the rain, waiting to see what I do.
 
-I could leave what's buried under my spare shirts right where it is. Keep my mouth shut, take what Graham offered me over the stove, and drive back to Portland solvent instead of wondering how I'm going to pay rent next week. Meanwhile my left sock is soaked through and squelching inside my boot, and my teeth won't stop chattering.
+I could leave what's buried under my spare shirts right where it is. Keep my mouth shut, take what Graham offered me over the stove, and drive back to Portland solvent instead of wondering how I'm going to pay rent next week. My teeth won't stop chattering, and my raw wrist throbs under my sleeve.
 
 I hold Graham's gaze, pull the manila envelope stamped `OCT 14 — MASTER BACKUP / DO NOT OPEN BEFORE PROBATE` out of the main compartment, and lay it on the tailgate.
 

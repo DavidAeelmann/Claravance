@@ -36,7 +36,7 @@ I take the slip. "Thanks, Deputy. I'll pick one up at the general store."
 
 ***
 
-My hands shake so hard I grind first gear twice before pulling back onto the asphalt. Nobody pulls a car over for a brake lamp in a coastal fog bank unless they were already parked in the spruce bend waiting for it. Now he's rolling back up Kiefer's private lane while everything I brought sits behind a cheap turn-bolt lock in the guest room—and my left boot still has a puddle in the heel from this morning's cove stairs, squelching every time I work the clutch. I should have shoved the duffel under the bed. Or brought it with me.
+My hands shake so hard I grind first gear twice before pulling back onto the asphalt. Nobody pulls a car over for a brake lamp in a coastal fog bank unless they were already parked in the spruce bend waiting for it. Now he's rolling back up Kiefer's private lane while everything I brought sits behind a cheap turn-bolt lock in the guest room, and my neck is locked up from the cold. I should have shoved the duffel under the bed. Or brought it with me.
 
 I drive into Salt Point harbor checking my mirror every ten seconds. The town is barely a crossroads: a brick post office, a shuttered bait shop, and a weathered clapboard general store beside a diesel dock where three lobster boats rock against black pilings.
 

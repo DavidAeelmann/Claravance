@@ -14,7 +14,7 @@ I stand in the main hall in my wool socks and watch him pause inside the front v
 
 The second his taillights clear the timber gate and the barrier clunks shut, the house settles into its daytime noise: crawlspace dehumidifier rumbling underfoot, wind ticking spruce needles against the glass. Half the day with the place to myself.
 
-The relief doesn't even last until the kettle would've boiled. My wool socks are still damp around the toes from the mudroom, clammy every time I shift my weight, and my shoulders ache before I've carried a single box. I could walk out right now, except I can't, and standing in the hall staring at the stairs isn't going to move the ledger any faster. I'm already behind before eight in the morning.
+The relief doesn't even last until the kettle would've boiled. My mouth tastes like stale coffee, and my shoulders ache before I've carried a single box. I could walk out right now, except I can't, and standing in the hall staring at the stairs isn't going to move the ledger any faster. I'm already behind before eight in the morning.
 
 Before I touch a sweater upstairs, I walk over to the floating oak stairs and crack the cedar stairwell door an inch. Down the concrete steps, the steel fire door of Basement Zone 4 sits under a steady red LED, hardwired into the Kiefer Soundworks hub. Even with the B-4 key sitting inside my jacket on the vestibule hook, shoving old brass into that cylinder right now sends a breach alert straight to Portland and Graham's phone.
 
