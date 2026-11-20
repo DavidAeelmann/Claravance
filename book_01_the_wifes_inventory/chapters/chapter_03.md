@@ -1,14 +1,14 @@
 # Chapter 3
 
-The studio door swings open on silent hinges and throws a pale wedge of hallway light across the floorboards. I'm already by the flat-files, my phone tucked out of sight in my pocket and one hand resting on the neck of the unlit brass desk lamp like I bumped into it looking for the switch.
+The studio door swings open on silent hinges and throws a pale wedge of hallway light across the floorboards. I'm already by the flat-files, one hand resting on the neck of the desk lamp like I bumped into it looking for the switch.
 
-Graham stops in the doorway with an empty mug hooked on his finger, still wearing the frayed charcoal sweater from downstairs. He looks past me to the walnut desk to check the blotter and the closed sketchbook, then glances down at my wool socks.
+Graham stops in the doorway with an empty mug hooked on his finger, still in the charcoal sweater. He looks past me to the walnut desk to check the blotter and the closed sketchbook, then glances down at my wool socks.
 
 "Thought I heard a latch," he says in a low voice that barely carries over the wind against the glass. "You said you weren't starting till morning."
 
-"Couldn't sleep." I ease my hand off the lamp so the base doesn't scrape. "And you want a preliminary ledger by Friday. Figured I'd count the flat-file drawers and see how many boxes we're short before daylight."
+"Couldn't sleep." I take my hand off the lamp. "And you want a preliminary ledger by Friday. Figured I'd count the flat-file drawers and see how many boxes we're short before daylight."
 
-He steps into the room anyway at an unhurried pace, as if checking whether a drawer hangs crooked on its runners. He stops by the desk and looks down at the uncapped Montblanc and the smudged scratch pad. I stay still by the oak cabinets, waiting for him to catch the shifted paperweight, pull the fifty-thousand-dollar NDA, and march me back to my Civic without a dime of the remaining ten grand.
+He steps into the room anyway at an unhurried pace, as if checking whether a drawer hangs crooked on its runners. He stops by the desk and looks down at the uncapped Montblanc and the smudged scratch pad. I stay still by the cabinets, waiting for him to catch the shifted paperweight, pull the NDA, and march me back to my Civic before I've earned a cent of the balance.
 
 Instead, the stiffness goes out of his shoulders. He doesn't touch the pen or the pad. He just looks at the blotter for a second, then turns toward the window.
 
@@ -22,15 +22,15 @@ He turns his head back toward me, gray eyes unreadable in the dim hall light. "M
 
 He stays planted in the doorway until I'm right in front of him, so I have to turn sideways past his sleeve to reach the runner. He smells faintly of cedar shavings and cold rain, odd for a man who hasn't been outside since I arrived. He doesn't follow me down the stairs toward the ground-floor guest room. Halfway down, I hear the studio door pull shut behind him, followed by the click of a key turning in a lock that wasn't engaged ten minutes ago.
 
-Back in my room, I wedge the wooden desk chair under the cheap privacy knob before I sit on the iron bed. Five grand in my duffel won't feel real until it crosses a teller counter in Portland, and Friday feels a long way off.
+Back in my room, I wedge the desk chair under the doorknob before I drop onto the bed. My calves ache from the stairs, and the wool socks I've been wearing since yesterday are starting to itch around the ankles. Friday feels a long way off.
 
 ***
 
-By seven-thirty, the smell of burnt French roast and wet kelp has drifted all the way down the north hall. Low tide has stripped the cove down to black ledges and knotted rockweed under a low slate sky. Thick fog blankets the outer breakwater, swallowing the horizon until the glass wall past the dining table looks out onto white nothing. Graham stands at the island in a clean gray oxford shirt with the sleeves rolled to his elbows and pours coffee from a glass carafe into two mismatched mugs. In daylight, the hollows under his eyes look bruised.
+By seven-thirty, the fog has pressed right up against the dining-room glass, swallowing the outer breakwater in flat gray. Low tide has stripped the cove down to black ledges and knotted rockweed under a low slate sky. Graham stands at the island in a clean gray oxford shirt with the sleeves rolled to his elbows and pours coffee from a glass carafe into two mugs. In daylight, the hollows under his eyes look bruised.
 
 "Black?" he asks. He keeps his eyes on the carafe as he slides a mug across the stone.
 
-"Please." I pull out a barstool and curl my cold fingers around the warm ceramic. My boots are already laced; my phone rests in my jacket pocket with the voice-memo shortcut ready on the lock screen, though I haven't touched record. Maine is a one-party consent state, sure, but getting caught running a hot mic in a defense contractor's kitchen is an easy way to buy a lawsuit.
+"Please." I pull out a barstool and wrap my cold fingers around the warm ceramic. It tastes like it sat on the burner since Tuesday. I thought about hitting record on my phone in my pocket. Maine is a one-party consent state, sure, but getting caught running a hot mic in a defense contractor's kitchen is an easy way to buy a lawsuit.
 
 Graham leans back against the counter and sips his coffee while he watches the exposed mudflats. "I ordered twenty wardrobe cartons and acid-free tissue from a supply house in Rockland. They're dropping them at the gate by noon."
 
@@ -84,13 +84,13 @@ His expression shutters. "She took the fiberglass skiff out around ten-thirty to
 
 ***
 
-The back glass sliders open onto a weathered deck wrapping the seaward side of the house, the planks slick from the overnight fog. Directly below the rail, steep granite steps with no handrail zig-zag down the bluff to the dark timber boathouse squatting over the pilings. Green algae coats the lower risers where high water reaches in winter storms; one wrong step in leather soles and you're going straight to the rocks.
+The back glass sliders open onto a weathered deck wrapping the seaward side of the house, the planks slick from the overnight fog. Directly below the rail, steep granite steps with no handrail zig-zag down the bluff to the dark timber boathouse squatting over the pilings. Green algae coats the lower risers where high water reaches in winter storms; I wouldn't try those stairs in dry weather, let alone after fog.
 
-I tell Graham I want to check the light on the sunroom windows before pulling the inventory sheets, then step out onto the deck with my empty mug. Behind the glass, he's already wiping the spotless counter where my cup sat.
+I tell Graham I want to check the light on the sunroom windows before pulling the inventory sheets, then step out onto the deck. Behind the glass, he's already wiping the spotless counter where my cup sat.
 
-From up here, the boathouse looks weather-sound and well-kept, its cedar shingles weathered darker than the main house from salt spray. A single heavy brass padlock secures the double doors facing the cliff. A faded strip of county paper seal bridges the seam, torn cleanly in two with one loose end fluttering in the damp breeze. The side window facing the rock wall is shuttered tight from inside. If the Coast Guard cleared it three weeks ago, nobody bothered cracking a shutter to air the place out.
+From up here, the boathouse looks weather-sound and well-kept, its cedar shingles weathered darker than the main house from salt spray. A brass padlock secures the double doors facing the cliff. A faded strip of county paper seal bridges the seam, torn cleanly in two with one loose end fluttering in the breeze. The side window facing the rock wall is shuttered tight from inside. If the Coast Guard cleared it three weeks ago, nobody bothered cracking a shutter to air the place out.
 
-Low tide leaves the cove smelling sharply of exposed mussel beds. Out past the rocky ledge, the fog parts over the shallow mud channel between Kiefer's cove and the next spit—the same shingle shack on pilings I passed coming over the causeway last night. The yellow porch bulb is off now, and only wet gray siding shows against the tide line.
+Out past the rocky ledge, the fog parts over the shallow mud channel between Kiefer's cove and the next spit—the same shingle shack on pilings I passed coming over the causeway last night. The yellow porch bulb is off now, and only wet gray siding shows against the tide line.
 
 Something moves down near the water.
 
@@ -100,7 +100,7 @@ I lift a hand in a half-automatic wave, expecting her to turn back to her boat. 
 
 Two what? Two people? Two days? Before I can even mouth a question, she bends back to her traps and shoves the skiff off the mudflat with a wooden oar until the fog closes behind her stern.
 
-Behind me, the glass door slides open on its track. Graham steps out onto the deck with a fresh legal pad and a metal clipboard.
+Behind me, the glass door slides open on its track. Graham steps out onto the deck with a legal pad and clipboard.
 
 "Sunroom rugs are first on the ledger," he says with a glance down at the empty mudflat where ripples are still fading across the gray water. "Maren Lindqvist keeps to herself down there. Don't waste your afternoon talking if she wanders up the beach. She's been fighting us over the cove boundary line for six years."
 
