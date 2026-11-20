@@ -1,10 +1,10 @@
 # Chapter 19
 
-Dusk settles fast over Salt Point and turns the fog around the house a dull, wet gray.
+Graham hasn't moved from the sunroom radiator.
 
-I stay crouched beneath the sunroom sill until my knees lock up from the cold. Inside, Graham is still slumped against the radiator, his bruised face pale in the storm light, eyes fixed on the front hall arch. He looks smaller than he did an hour ago, shoulders hunched against the cast iron, waiting for footsteps he knows are coming. He doesn't risk another look at the glass. Every minute I linger on this deck, Cole Halstead gets closer up the gravel spur.
+Through the wet glass, his bruised face looks pale in the fading gray dusk, eyes fixed on the front hall arch. He looks smaller than he did an hour ago, shoulders hunched against the cast iron, waiting for footsteps he knows are coming. I stay crouched beneath the sill until my knees lock up from the cold. Every minute I linger on this deck, Cole Halstead gets closer up the gravel spur.
 
-I back down the steps, nearly losing a heel on a slick board, and hug the blind north siding to the front turnaround. Rain drives sideways across the gravel. My hair plasters cold against my neck, jeans chafing raw against my thighs while my sneakers squelch over pine needles with every step.
+I back down the steps, nearly losing a heel on a slick board, and hug the blind north siding to the front turnaround. Rain drives sideways across the gravel. My hair plasters cold against my neck, jeans chafing raw against my thighs, and my sneakers squelch over pine needles with every step.
 
 My Civic sits by the spruces with its trunk lid hovering open in the mist. The driveway ahead is empty. Even with a working fob, there's nowhere left to drive while Cole's rig blocks the causeway. I glance once at the dark road, half-wishing headlights would sweep through the trees (anyone's headlights: a state trooper, a neighbor, a lost delivery van), before ducking under the cedar overhang on the front porch.
 
@@ -12,11 +12,11 @@ I crouch below the sidelights. Rain hammers the slate behind me, loud enough to 
 
 My numb fingertips catch the house key in my pocket. When I try to line it up with the deadbolt, my thumb has zero pinch left; the key slips and hits the slate sill with a sharp *tink* that freezes me against the door. I scoop it up between stiff palms, clamp the bow in my knuckles, and lean my shoulder into the turn. The cylinder gives with a soft click. I ease the door open and step inside. One sneaker squeaks on the stone.
 
-I stop beside the coat closet and listen. Down the north hall, my guest room door stands half-open. The house feels hollow around me, just wind rattling the tall living room windows and the steady hum of cooling fans drifting from the study. My teeth want to chatter, so I clamp my jaw shut until my molars ache.
+I stop beside the coat closet and listen. Down the north hall, my guest room door stands half-open. The house feels hollow around me, just wind rattling the tall living room windows and the steady hum of cooling fans drifting from the study. A shiver runs through my shoulders, and I clamp my jaw shut to keep steady.
 
 I tuck the oyster knife into my waistband and cross toward the kitchen arch. The manila envelope from the basement lies on the limestone island, its `OCT 14 — MASTER BACKUP` stamp pale in the dim light. I leave it there. Lydia's live boathouse confession is sitting on the cellar server, and that's what I came back for.
 
-Halfway across the tile, a cabinet door clicks shut down the hall. Through the archway gap, I catch Lydia stepping out of Graham's study. She moves with an unhurried, proprietary calm, slipping a small portable backup drive into her waxed-canvas pocket as if she already owns every room in the house. For one second she pauses under the hall sconce, glancing down at the dark screen of her phone, her thumb hovering over it. Then she lifts her chin and starts toward the kitchen.
+Halfway across the tile, a cabinet door clicks shut down the hall. Through the archway gap, I catch Lydia stepping out of Graham's study. She moves with a cool, proprietary calm, slipping a small portable backup drive into her waxed-canvas pocket as if she already owns every room in the house. For one second she pauses under the hall sconce, glancing down at the dark screen of her phone, her thumb hovering over it. Then she lifts her chin and starts toward the kitchen.
 
 She's heading my way.
 
@@ -38,7 +38,7 @@ Cole is back.
 
 I freeze on the ladder and lock one trembling knee over an iron bar to take weight off my wrist. Cold water drips off my hem into the dark below, each *plink* against the cellar floor sounding louder than it has any right to.
 
-"I'm finishing Graham's note on the tablet now," Lydia says from the kitchen, her heels tapping across tile. The brisk, dry click of them makes me irrationally furious while I'm hanging in a spider-webbed chute like a drowned rat. "Once I drop it beside him in the sunroom, check the study. She copied the pantry recording off the tower before she ran for the cove. If she crawled back up those cliff stairs half-drowned, she's going after the basement drive."
+"I'm finishing Graham's note on the tablet now," Lydia says from the kitchen, her heels tapping across tile. The brisk, dry click of them makes me irrationally furious as I hang in a spider-webbed chute like a drowned rat. "Once I drop it beside him in the sunroom, check the study. She copied the pantry recording off the tower before she ran for the cove. If she crawled back up those cliff stairs half-drowned, she's going after the basement drive."
 
 Cole's boots thud toward the island. "Wrist is bleeding straight through the cruiser gauze," he growls. A drawer slides open, then shuts with a sharp slap. "Don't drip on the limestone," Lydia snaps, and Cole lets out a short, ugly laugh. "Did your father's people actually clear that offshore transfer, or am I bleeding out here on a promise?"
 
@@ -58,7 +58,7 @@ Overhead, the flush cedar door under the main stairs creaks open. Heavy boots st
 
 I jam my shoulders harder into the rear studs so my weight hangs off my back and left forearm, hook my stiff right thumb knuckle into the pin's ring, and drop my weight onto the pull.
 
-Salt rust holds for half a second. Torn skin on my palm flares hot, and for one sick beat I'm sure the thing is seized for good. Then the pin pops free from the bracket.
+Salt rust holds for half a second. Torn skin on my palm flares hot, and for one sick second I'm sure the thing is seized for good. Then the pin pops free from the bracket.
 
 The hemp rope screams across the pulley and shakes loose a choking cloud of cedar dust. Inside the recessed side channel, the counterweight plummets onto the concrete sill at the bottom of the shaft.
 

@@ -16,15 +16,15 @@ The front door isn't locked. It swings in as soon as I turn the handle, letting 
 
 "Leave it on the counter." He turns the burner down and watches through the arch while I unlace my boots beside the tray. "I made leek soup. Eat before you get back to work. Boston counsel called while you were out, and they moved the preliminary filing window up to Thursday night."
 
-I step into the kitchen and stop in my socks. My knuckles are chapped raw from the salt air, and my head is starting to throb behind my eyes. "Thursday?"
+I step into the kitchen and stop by the island. My knuckles are chapped raw from the salt air, and my head is starting to throb behind my eyes. "Thursday?"
 
-Twenty-four hours gone, right in the teeth of a November storm. "This morning you said you had joint signatory control over Lydia's trust," I say. "Why does one day matter if you've got a normal probate window?"
+Twenty-four hours gone, right in the teeth of a November storm. "This morning you said you had joint signing control over Lydia's trust," I say. "Why does one day matter if you've got a normal probate window?"
 
-His ladle stops against the rim of the pot, though he doesn't turn from the stove. "Because the trust has a felony moral-turpitude forfeiture clause," he says. "If her brother in Zurich—or anyone up here—gets a prosecutor to bring formal criminal charges before our preliminary inventory seals, my signatory rights vanish on the spot."
+His ladle stops against the rim of the pot, though he doesn't turn from the stove. "Because her father wrote a felony trigger into the trust," he says. "If her brother in Zurich—or anyone up here—gets a prosecutor to file criminal charges before our preliminary inventory seals, my signing rights vanish overnight."
 
 "No grace period?"
 
-"None. Under that clause, any civil cure window disappears. The Arlington buyer walks, and I'm locked out overnight." He ladles soup into two bowls without asking if I want any. "Which means we work late tonight. Grab a spoon, Tessa. Let's go over the basement exclusions and the mudroom gear."
+"None. Under that clause, the grace period disappears. The Arlington buyer walks, and I'm locked out overnight." He ladles soup into two bowls without asking if I want any. "Which means we work late tonight. Grab a spoon, Tessa. Let's go over the basement exclusions and the mudroom gear."
 
 Before sitting down, I tell him I'm dropping the bag in my room.
 
@@ -40,7 +40,7 @@ I zip the duffel shut, leave the thread off, and shove the paper bag out of sigh
 
 ***
 
-Back in the kitchen, gusts buffet the ocean glass and rattle the aluminum frames while rain sheets down the dark panes, blotting out the cove.
+Back in the kitchen, gusts buffet the ocean glass and rattle the aluminum frames. Rain sheets down the dark panes, blotting out the cove.
 
 I sit at the island with a bowl of leek soup I can barely taste. My fingers stay cold around the spoon, and Graham stands at the sink rinsing a cutting board like we're just two people waiting out a normal storm.
 
@@ -98,7 +98,7 @@ Graham reaches for the glass, half a second too late. Right before the display r
 
 **MOTION DETECTED — BASEMENT ZONE 4 (PERIMETER BYPASS ACTIVE)**
 
-Graham's thumb hits the glass and wipes the banner gone. He keeps his back to the kitchen while he taps twice to dim the display.
+Graham's thumb hits the glass and wipes the banner gone. He keeps his back to the kitchen as he taps twice to dim the display.
 
 "Power surge trips the old basement sensors," he says, though the skin across the back of his neck has gone dark red. "Happens every November storm. Finish your soup, Tessa. We start the master closet at eight sharp."
 

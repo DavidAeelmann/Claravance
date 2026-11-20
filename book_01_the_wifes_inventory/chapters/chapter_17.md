@@ -16,7 +16,7 @@ Lydia steps behind me and presses the muzzle against the base of my skull while 
 
 "Cole will be right down once he's done with your little stall at the front door," she says. She circles back where she can watch both me and the double doors, sets the gun on the workbench within six inches of her right hand, and picks up an iPad Mini.
 
-Lydia's iPad Mini wakes under her thumb. She opens a blank note and starts tapping with steady, unhurried thumbs. She doesn't even look winded. Most people at gunpoint at least breathe hard, or sweat, or let their voice shake, and Lydia looks like she's answering an email about catering.
+Lydia's iPad Mini wakes under her thumb. She opens a blank note and starts tapping with steady, even thumbs. She doesn't even look winded. Most people at gunpoint at least breathe hard, or sweat, or let their voice shake, and Lydia looks like she's answering an email about catering.
 
 "What are you writing?" I ask.
 
@@ -44,7 +44,7 @@ Her thumbs stop on the glass. For a second the only sound in the boathouse is th
 
 "Right. That's why Cole had to hide your weekender behind Graham's coats."
 
-"That bag was supposed to make it look like Graham intercepted me walking out on him October fourteenth and hid my luggage, except Cole forgot to strip the Yarmouth ferry tag Monday morning and shoved it behind the overcoats with October seventeenth still hanging off the handle," she says. "Same way I had to babysit him Sunday when Graham drove south and we finally had an empty house to bleach the sunroom floor without fumes pouring down the cellar shaft. The idiot dropped his pilfered B-4 key behind the baseboard and hammered the trim right back over it. Everything in that house ran on my clock, Tessa. Including your five o'clock Boston courier. I canceled him an hour ago."
+"That bag was supposed to look like Graham stopped me from leaving October fourteenth—except Cole shoved it behind the overcoats with a Yarmouth ferry tag from the seventeenth still hanging off the handle," she says. "Same way I had to babysit him Sunday when we finally had an empty house to bleach the sunroom floor, and the idiot hammered the baseboard trim right back over his dropped B-4 key. Everything in that house ran on my clock, Tessa. Including your five o'clock courier. I canceled him an hour ago."
 
 "The Coast Guard—"
 
@@ -64,22 +64,22 @@ I press down and drag the nylon across the edge of the blade. The plastic is tou
 
 "Because Graham was arrogant enough to hire a fired fraud investigator carrying eighteen grand in court debt," she says. She glances down at my damp flannel like I tracked mud onto her hall rug. "Anybody desperate for five grand cash under a fifty-thousand-dollar gag clause makes herself the ideal accomplice the second she crosses the porch."
 
-A strand of nylon parts behind my wrists. The loop gives a fraction and eases off my left thumb, though salt grit burns in the raw skin along my forearm. Cold spray mists up through the slipway seams around my sneakers as the rising tide surges against the pilings below. The angle is awkward—if I twist my elbows too far out to get leverage, Lydia will spot the shift in my shoulders. I have to work purely from the wrists, short half-inch strokes, blind and slow while my fingers go numb.
+A strand of nylon parts behind my wrists. The loop gives a fraction and eases off my left thumb, though salt grit burns in the raw skin along my forearm. Cold spray mists up through the slipway seams around my sneakers as the rising tide surges against the pilings below. The angle is awkward—if I twist my elbows too far out to get leverage, Lydia will spot the shift in my shoulders. I have to work purely from the wrists, short half-inch strokes, blind and slow as my fingers go numb.
 
 Lydia looks down at the tablet and reads aloud in a dry, mocking tone: *"I couldn't bear what I did to Lydia, and when Miss Calder threatened to go to the state police unless I tripled her fee, I panicked—"*
 
 Graham never called me Miss Calder in his life. He barely even called me Tessa when he was irritated, just launched straight into whatever he wanted done. Leave it to Lydia to write a suicide note that sounds like a Victorian butler, though I doubt Cole's sheriff's department is going to critique the prose.
 
-She breaks off as a gust slams the cedar-shingled roof overhead and sends a rattle of pine needles down the eaves. While she glances up at the rafters, I saw harder against the steel. Two more strands give way. Blood slicks my left wrist where the jagged nylon and pitted blade tear the skin above my palm, and the slack lets me twist my fingers toward the oak handle wedged in the seam.
+She breaks off as a gust slams the cedar-shingled roof overhead and sends a rattle of pine needles down the eaves. As she glances up at the rafters, I saw harder against the steel. Two more strands give way. Blood slicks my left wrist where the jagged nylon and pitted blade tear the skin above my palm, and the slack lets me twist my fingers toward the oak handle wedged in the seam.
 
 My thumb brushes the rough wood. Almost. Just another quarter inch of give.
 
-"You're really going to let Cole walk away with half your father's trust?" I ask to buy ten more seconds while I work the last frayed core against the edge. "A county deputy with a crooked tooth, a badge on the line, and a grudge. Once Graham's dead, Cole owns you."
+"You're really going to let Cole walk away with half your father's trust?" I ask to buy ten more seconds as I work the last frayed core against the edge. "A county deputy with a crooked tooth, a badge on the line, and a grudge. Once Graham's dead, Cole owns you."
 
 Lydia sets the iPad down on the workbench, scoops up the Glock, and steps in close, the barrel aimed straight between my eyes. "Cole knows what happens to people who—"
 
-Outside the north wall, boots crunch across crushed oyster shells. Unhurried strides come off the cliff stairs, followed by the jingle of a sheriff's key ring and brass sliding into the padlock.
+Outside the north wall, boots crunch across crushed oyster shells. Heavy strides come off the cliff stairs, followed by the jingle of a sheriff's key ring and brass sliding into the padlock.
 
-Lydia turns her head and right shoulder toward the double doors as the iron latch rattles outside. Her weight shifts for half a beat.
+Lydia turns her head and right shoulder toward the double doors as the iron latch rattles outside. Her weight shifts for a fraction of a second.
 
 I rip my wrists apart. The last frayed threads of the zip tie snap, my right hand locks around the handle of the oyster knife, and I wrench it free from the wood.

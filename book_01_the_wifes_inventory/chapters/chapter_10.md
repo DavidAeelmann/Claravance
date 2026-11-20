@@ -1,12 +1,8 @@
 # Chapter 10
 
-I get through the mudroom side door seconds before Graham's garage bay groans open.
+"You look frozen," Graham says, nodding toward the low leather sofa on his way to the walnut credenza. "The radiator in the guest wing never keeps up in a southeast wind. Have a drink before you turn in."
 
-I kick off my boots, hang my jacket on its peg—palm pressed over the breast pocket so the B-4 key won't clink against the hook—and take the back stairs two at a time. My wet socks stick to my heels. By the time Graham's dress shoes cross the front hall below, I'm kneeling outside the master closet with a fresh strip of packing tape across my knuckles, pretending I've been boxing cashmere all afternoon.
-
-Twenty minutes later, he calls me down to the living room. He's traded the charcoal suit for a dark merino crewneck, though his shoulders still hold four hours of interstate stiffness. A birch fire snaps behind the screen, pushing dry heat against the cold off the seaward glass. The chimney draft pulls a sharp whiff of damp pine sap into the room. Outside, Salt Point Cove is solid black, not a single dock light burning along the point.
-
-"You look frozen," he says, and nods toward the low leather sofa on his way to the walnut credenza. "The radiator in the guest wing never keeps up in a southeast wind. Have a drink before you turn in."
+He's traded his charcoal suit for a dark merino crewneck, though his shoulders still hold four hours of interstate stiffness. A birch fire snaps behind the screen, pushing dry heat against the cold off the seaward glass. Outside, Salt Point Cove is solid black, not a single dock light burning along the point. Twenty minutes ago I barely beat his garage bay through the mudroom side door, palming the B-4 key inside my jacket pocket so it wouldn't clink against the hook, and sprinted upstairs to kneel outside the master closet with a strip of packing tape across my knuckles before he crossed the hall.
 
 "Water's fine, Graham."
 
@@ -42,7 +38,7 @@ I don't hesitate. The second his footsteps clear the archway, I lean across the 
 
 If there's crushed zolpidem in that bourbon, he can drink his own pour.
 
-Ice clatters into a metal bucket in the kitchen, followed by Graham's voice dropping sharp and low near the pantry corridor. He's pacing while he argues with Boston about a bridge extension and an escrow holdback—two minutes, maybe three, before he hangs up. I slip off the sofa and cross silently to the walnut door of his north-hall study.
+Ice clatters into a metal bucket in the kitchen, followed by Graham's voice dropping sharp and low near the pantry corridor. He's pacing as he argues with Boston about a bridge extension and an escrow holdback—two minutes, maybe three, before he hangs up. I slip off the sofa and cross silently to the walnut door of his north-hall study.
 
 Cold rises off the hearthstone. Only a pale wedge of hall light falls across the wide desk blotter. Yesterday morning the desk looked bare as a showroom. Tonight, a leather portfolio rests crooked beside the inkwell, and a shredder tucked under the return hums with a red **JAM** light, strips of cream bond paper wedged in its teeth. A half-torn wire-transfer receipt pokes out of the wastebasket underneath, smudged with toner.
 
@@ -64,7 +60,7 @@ If the Arlington buyout closes before an audit locks his accounts, Graham plugs 
 
 I shoot four quick photos of the demand letter and rollover page to catch the trust account number, the $3,000,000 balance, and the October fifteenth service stamp, then slide the pages back into the flap along their exact crease.
 
-Shoes scrape across the kitchen slate. Ice clinks against metal, and the pantry switch clicks off. I slip back into the living room and drop onto the sofa half a beat before Graham walks in with tongs and an ice bucket.
+Shoes scrape across the kitchen slate. Ice clinks against metal, and the pantry switch clicks off. I slip back into the living room and drop onto the sofa seconds before Graham walks in with tongs and an ice bucket.
 
 ***
 
@@ -86,13 +82,13 @@ Someone had prepared his usual glass while he was away, and out of host habit, h
 
 "Ibuprofen, retinol, usual prescriptions. Nothing missing."
 
-His shoulders drop half an inch. He looks back at the fire. "Good. Get some sleep. Tomorrow's going to be a long haul before the courier gets here."
+He looks back at the fire. "Good. Get some sleep. Tomorrow's going to be a long haul before the courier gets here."
 
 I leave the clean bourbon two-thirds full on the coaster, say goodnight, and walk down the north hall to the guest suite. Once the privacy bolt is turned and the desk chair is wedged under the knob, I lean back against the door and exhale. My ribs have been braced since the study. Across the main hall, the hearth screen clanks shut as Graham banks the fire, and the radiator under my window ticks sharply as steam hits the pipes.
 
 Behind the radiator, my brown store bag hasn't moved. I pull out my laptop and upload the four demand-letter photos to my off-site vault in Portland.
 
-Before the upload bar finishes, my phone buzzes against my leg. The Kiefer Soundworks guest link expired at five. This is an encrypted text from Samira Patel. St. Andrews Private Marina syncs its small-craft customs manifests on a twenty-four-hour batch, and Samira just forwarded the automated hit off the evening run.
+Before the upload bar finishes, my phone buzzes against my leg. The Kiefer Soundworks guest link expired at five. This is an encrypted text from Samira Patel. St. Andrews Private Marina sends its small-craft manifests over once a day, and Samira just forwarded the automated hit off the evening run.
 
 I tap the attachment.
 

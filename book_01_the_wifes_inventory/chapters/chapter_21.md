@@ -82,4 +82,4 @@ Graham is already stepping out of the north corridor, squinting into the dark. A
 
 Lydia scrambles onto the bench, unlatches the skylight crank with wet, blood-slick fingers, and shoves the glass hatch up into the storm. Freezing rain pours onto the slate and drenches her head and shoulders in a second as she grabs for the wet roof framing. Wind howls down the opening, whipping her hair across her eyes and scattering cold spray across Graham's face. The gale fills the entry so fast the cedar door slams back against its stop.
 
-Then red and blue light bars flare through the coastal fog above the spruces. The strobes wash across the open skylight and the wet slate floor while twin sirens cut straight through the gale.
+Then red and blue light bars flare through the coastal fog above the spruces. Strobes wash across the open skylight and wet slate. Twin sirens cut straight through the gale.

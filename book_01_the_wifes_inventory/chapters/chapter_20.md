@@ -44,7 +44,7 @@ He takes half a breath, and panic drops out of his voice, replaced by that smoot
 
 He edges closer to the burner. He holds the papers steady and doesn't blink at the knife. "Let them burn, Tessa. Nobody gets hurt. Lydia and Cole still do time on the pantry recording. My Arlington buyout closes Monday. I pay off your entire eighteen-thousand-four-hundred-and-twelve-dollar judgment before noon, restore your adjuster's surety bond, and wire fifty thousand into your checking as a clean consulting fee. You get your life back tonight."
 
-My teeth are still clicking behind my lips, and cold brine drips off my flannel cuffs onto the tile. I don't yank the envelope away right away. A cleared docket, a real bank account again, my license back. It's right there, two seconds from ash. Nobody died over six wire transfers, and Lydia is the one trying to drown us both before high tide. All I have to do is lower my arm, let the flame catch the corner of the top page, and step back.
+Cold brine drips off my flannel cuffs onto the tile, and my shoulders won't stop shaking. I don't yank the envelope away right away. A cleared docket, a real bank account again, my license back. It's right there, two seconds from ash. Nobody died over six wire transfers, and Lydia is the one trying to drown us both before high tide. All I have to do is lower my arm, let the flame catch the corner of the top page, and step back.
 
 Then I picture a thin white binder in a Vermont sheriff's office six years ago, closed before anybody bothered checking dates on my sister Nina, and the Commercial Street fire manifest three years later, where a senior partner offered me a quiet raise to sign dirty paper and look away. Graham looks at me like he's already calculating which wire to send first, and for a second I hate his neat little executive haircut more than I hate Cole. Letting him burn those pages doesn't give me my life back. It just makes me the exact kind of paid signature I blew up my career refusing to be.
 
@@ -52,7 +52,7 @@ Then I picture a thin white binder in a Vermont sheriff's office six years ago, 
 
 "I was trying to save my company!"
 
-"Then tell a judge." Gritting my teeth against the burn in my slashed left wrist, I reach in and rip the papers and envelope out of his grip. He lunges half a step to grab them back, then stops short when the knife comes up toward his ribs. Raw gas stings my nose as I jam the sheaf back inside, fold the brass clasp down, and twist the stove knob hard to *OFF*.
+"Then tell a judge." Ignoring the burn in my slashed left wrist, I reach in and rip the papers and envelope out of his grip. He lunges half a step to grab them back, then stops short when the knife comes up toward his ribs. Raw gas stings my nose as I jam the sheaf back inside, fold the brass clasp down, and twist the stove knob hard to *OFF*.
 
 The blue flame dies. Graham stares at me, his arms dropping loose at his sides, chest heaving in the dark kitchen. "You're really turning me in."
 
@@ -60,7 +60,7 @@ The blue flame dies. Graham stares at me, his arms dropping loose at his sides, 
 
 ***
 
-I march him past the foyer arch into the north hall and my guest room, the knife low at my side. Every step through the dark house feels too loud, my wet sneakers squeaking against the pine floorboards while Graham's breathing echoes off the plaster. He tries to slow down at the threshold, glancing back toward the kitchen, so I catch his elbow and shove him inside ahead of me.
+I march him past the foyer arch into the north hall and my guest room, the knife low at my side. Every step through the dark house feels too loud, my wet sneakers squeaking against the pine floorboards, Graham's breathing echoing off the plaster. He tries to slow down at the threshold, glancing back toward the kitchen, so I catch his elbow and shove him inside ahead of me.
 
 Inside, the radiator ticks as the boiler cycles down. My duffel is against the wall. I yank it open, shove the envelope underneath my spare clothes, and reach behind the pipes for the store bag with Cole's left-handed yellow warning slip tucked inside. Everything goes into the bag, zipped tight.
 

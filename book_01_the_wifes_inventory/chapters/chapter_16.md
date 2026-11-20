@@ -66,7 +66,7 @@ My sneakers hit damp cedar decking with a dull thud. The dark room smells of sta
 
 Suspended low from the rafters on rope slings at shoulder height, a yellow fiberglass sea kayak sways almost imperceptibly in the draft from the open window behind me, its hull blocking off the back corner of the room.
 
-I stay crouched beside the bench while my eyes adjust, waiting for the shapes in the gloom to separate from the shadows. My wet jeans are plastered to my calves, and my teeth want to chatter if I let my jaw go slack. Up above the cliff edge, a car door thuds shut in the driveway. Cole's cruiser. Three minutes, maybe less, before he stops playing along with Graham and walks around to the back deck.
+I stay crouched beside the bench as my eyes adjust, waiting for the shapes in the gloom to separate from the shadows. My wet jeans are plastered to my calves, and my jaw wants to lock if I let my shoulders drop. Up above the cliff edge, a car door thuds shut in the driveway. Cole's cruiser. Three minutes, maybe less, before he stops playing along with Graham and walks around to the back deck.
 
 I ease upright and move along the workbench, my fingers brushing past a coffee can of rusted nails and a tangle of braided nylon line. Two plastic gallon jugs are tucked beneath a folded blue tarp on the lower shelf, one unlabeled and the other carrying a faded industrial bleach warning. A pair of cedar oars rests beside them, fresh pale scratches cutting through the varnish on the blades—a match for the wet rag squeaking along varnished wood on the 2:14 AM recording.
 
@@ -78,7 +78,7 @@ I freeze, the phone still held chest-high.
 
 Lydia Kiefer steps out from behind the yellow hull.
 
-My brain stalls for half a beat, trying to square the woman standing in front of me with the glossy photo from Graham's spring profile. Her dark hair is pulled back into a tight knot, and she's wearing a charcoal waxed-canvas jacket over dark trousers, dry and completely composed. In her right hand, she holds a subcompact Glock 26 steady at waist height, aimed at my chest.
+My brain stalls, trying to square the woman standing in front of me with the glossy photo from Graham's spring profile. Her dark hair is pulled back into a tight knot, and she's wearing a charcoal waxed-canvas jacket over dark trousers, dry and completely composed. In her right hand, she holds a subcompact Glock 26 steady at waist height, aimed at my chest.
 
 I stay frozen between the open window behind me and the gun four paces away.
 

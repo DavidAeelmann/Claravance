@@ -8,7 +8,7 @@ Graham stops in the doorway with an empty mug hooked on his finger, still in the
 
 "Couldn't sleep." I take my hand off the lamp. "And you want a preliminary ledger by Friday. Figured I'd count the flat-file drawers and see how many boxes we're short before daylight."
 
-He steps into the room anyway at an unhurried pace, as if checking whether a drawer hangs crooked on its runners. He stops by the desk and looks down at the uncapped Montblanc and the smudged scratch pad. I stay still by the cabinets, waiting for him to catch the shifted paperweight, pull the NDA, and march me back to my Civic before I've earned a cent of the balance.
+He steps into the room anyway, slow and methodical, as if checking whether a drawer hangs crooked on its runners. He stops by the desk and looks down at the uncapped Montblanc and the smudged scratch pad. I stay still by the cabinets, waiting for him to catch the shifted paperweight, pull the NDA, and march me back to my Civic before I've earned a cent of the balance.
 
 Instead, the stiffness goes out of his shoulders. He doesn't touch the pen or the pad. He just looks at the blotter for a second, then turns toward the window.
 
@@ -22,7 +22,7 @@ He turns his head back toward me, gray eyes unreadable in the dim hall light. "M
 
 He stays planted in the doorway until I'm right in front of him, so I have to turn sideways past his sleeve to reach the runner. He smells faintly of cedar shavings and cold rain, odd for a man who hasn't been outside since I arrived. He doesn't follow me down the stairs toward the ground-floor guest room. Halfway down, I hear the studio door pull shut behind him, followed by the click of a key turning in a lock that wasn't engaged ten minutes ago.
 
-Back in my room, I wedge the desk chair under the doorknob before I drop onto the bed. My calves ache from the stairs, and the wool socks I've been wearing since yesterday are starting to itch around the ankles. Friday feels a long way off.
+Back in my room, I wedge the desk chair under the doorknob before I drop onto the bed. My calves ache from the stairs, and Friday feels a long way off.
 
 ***
 
@@ -32,7 +32,7 @@ By seven-thirty, the fog has pressed right up against the dining-room glass, swa
 
 "Please." I pull out a barstool and wrap my cold fingers around the warm ceramic. It tastes like it sat on the burner since Tuesday. I thought about hitting record on my phone in my pocket. Maine is a one-party consent state, sure, but getting caught running a hot mic in a defense contractor's kitchen is an easy way to buy a lawsuit.
 
-Graham leans back against the counter and sips his coffee while he watches the exposed mudflats. "I ordered twenty wardrobe cartons and acid-free tissue from a supply house in Rockland. They're dropping them at the gate by noon."
+Graham leans back against the counter, sips his coffee, and watches the exposed mudflats. "I ordered twenty wardrobe cartons and acid-free tissue from a supply house in Rockland. They're dropping them at the gate by noon."
 
 "Good. I'll need the study totes too, if I'm logging paperwork."
 

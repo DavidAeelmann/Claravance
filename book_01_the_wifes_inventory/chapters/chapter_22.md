@@ -16,7 +16,7 @@ Heavy boots hammer up the granite steps outside. A bright flashlight cuts throug
 
 I dig the brass key out of my jeans and toss it to Graham. "Unlock the deadbolt. Now."
 
-Graham catches it, stares for half a beat, then turns and works the double-keyed lock beside the sidelight. The door swings wide. Wind and pine needles blow in behind two Maine State Troopers in dripping yellow slickers, weapon lights up and pistols at the low-ready. Outside, a third officer jogs up the gravel from a State Police tactical 4x4 parked nose-in behind my Civic.
+Graham catches it, hesitates, then turns and works the double-keyed lock beside the sidelight. The door swings wide. Wind and pine needles blow in behind two Maine State Troopers in dripping yellow slickers, weapon lights up and pistols at the low-ready. Outside, a third officer jogs up the gravel from a State Police tactical 4x4 parked nose-in behind my Civic.
 
 "Hands up! Both of you, off the woman on the floor!"
 
@@ -50,7 +50,7 @@ She unscrews the lid of her thermos, pours a small metal cup of tea, and holds i
 
 A plainclothes State Police detective steps away from the open rear hatch of the tactical rig with a clipboard and an evidence box. He's lean, gray at the temples, his badge clipped to the belt of a soaked nylon windbreaker.
 
-"Ms. Calder. Detective Sergeant Ward," he says, and flips open a rain-spotted pad. "Techs have secured the Zone Four server. Preliminary check shows the boathouse recording is intact, and state techs traced that spoofed confession upload on our county drop straight to Lydia Kiefer's iPad. We've also logged Halstead's cruiser sideways on the causeway, the iPad Mini by the sunroom radiator, the bleach rag and bronze cleat in your trunk, and the bleach jugs and scratched oars down in the boathouse."
+"Ms. Calder. Detective Sergeant Ward," he says, flipping open a rain-spotted pad. "Techs secured the Zone Four server—the boathouse recording survived, and state techs traced that spoofed upload straight to Lydia Kiefer's iPad. We've also pulled Halstead's cruiser off the causeway."
 
 "Good," I say. I drop my duffel on the rescue rig's tailgate. "There's more."
 
@@ -64,7 +64,7 @@ Ward bags each piece with gloved fingers and waves an evidence tech over. "Have 
 
 Ward makes three quick notes and murmurs into his shoulder mic to have the lab pull the glass, the vest, and the weapons. Then he looks back at my open bag.
 
-Across the wet gravel, Graham stands beside an unmarked sedan with a uniformed trooper at his elbow while another officer takes a preliminary statement. He catches my eye through the rain, waiting to see what I do.
+Across the wet gravel, Graham stands beside an unmarked sedan with a uniformed trooper at his elbow as another officer takes a preliminary statement. He catches my eye through the rain, waiting to see what I do.
 
 I could leave what's buried under my spare shirts right where it is. Keep my mouth shut, take what Graham offered me over the stove, and drive back to Portland solvent instead of wondering how I'm going to pay rent next week. My teeth won't stop chattering, and my raw wrist throbs under my sleeve.
 
@@ -82,7 +82,7 @@ Ward studies the envelope before looking up at me. "You worked for him under an 
 
 An hour later, the gale has died down to a cold drizzle. Most of the cruisers have pulled out, and the ambulance bay hums under overhead LEDs. Down by the cove, a portable generator still drones outside the boathouse while crime-scene techs finish bagging the gear.
 
-I sit on the metal ambulance step with a paper cup of burnt black coffee warming my palms while a paramedic clips the last thread on three neat stitches across my left wrist and tapes fresh gauze over the seam. He's maybe twenty-five, humming something under his breath while he works, treating a slashed wrist like a routine kitchen nick. The wool blanket smells of bleach, and the coffee tastes like scorched cardboard, though I drink half of it anyway because my hands need something warm to hold.
+I sit on the metal ambulance step with a paper cup of burnt black coffee warming my palms as a paramedic clips the last thread on three neat stitches across my left wrist and tapes fresh gauze over the seam. He's maybe twenty-five, humming something under his breath as he works, treating a slashed wrist like a routine kitchen nick. The wool blanket smells of bleach, and the coffee tastes like scorched cardboard, though I drink half of it anyway because my hands need something warm to hold.
 
 Detective Ward walks back over from the yellow tape strung across the Kiefer porch, his boots crunching on wet gravel. In his gloved hand he carries a pink property receipt and a clear evidence bag holding my waterlogged phone. A trooper fished it off a submerged slipway cross-beam with a boat hook before the surge could wash it out into the bay.
 

@@ -50,6 +50,6 @@ Across the room, the fire door beneath the foyer stairs cracks open an inch—a 
 
 I spin around, clamping the envelope to my chest.
 
-A deadbolt slides home from the *outside* with an echoing *clack* that carries straight through the concrete under my socks.
+A deadbolt slides home from the *outside* with an echoing *clack* that carries straight through the concrete under my heels.
 
 Above the smooth brass plate, the pinpoint LED winks from dark to steady, glaring red.

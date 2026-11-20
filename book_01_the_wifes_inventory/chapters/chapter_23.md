@@ -1,8 +1,8 @@
 # Chapter 23
 
-Four weeks after Salt Point, the cast-iron radiator in my Portland studio still knocks against the wall, and cold harbor air leaks around the single-pane glass.
+Zero balance left on the defamation suit that wrecked my career three years ago.
 
-I stand at the kitchen counter with a mug of black coffee and look down at two sheets of bond paper under the overhead bulb. The first is a stamped satisfaction-of-judgment notice from the Cumberland County clerk: zero balance left on the defamation suit that wrecked my career three years ago. The second is an embossed letter from the Maine Department of Public Safety restoring my private investigator bond, effective today, Monday morning.
+I stand at the kitchen counter with a mug of black coffee, looking down at two sheets of bond paper under the overhead bulb. The first is the stamped satisfaction-of-judgment notice from the Cumberland County clerk; the second is an embossed letter from the Maine Department of Public Safety restoring my private investigator bond, effective today, Monday morning. Four weeks after Salt Point, the cast-iron radiator in my Portland studio still knocks against the wall, and cold harbor air leaks around the single-pane glass.
 
 Between the county releasing my retainer and a cashier's check out of Graham's separate archiving escrow, the judgment was wiped out with eighty-eight dollars to spare. What was left in my checking account covered the state bond fee.
 
@@ -12,13 +12,13 @@ I skipped the press. I gave my statement, signed the chain-of-custody logs, and 
 
 The studio is already half-empty. My landlord's eviction notice is dead, though I'm still getting out of this drafty shoebox before the lease rolls. Two taped boxes are stacked beside the door. My duffel sits on the bare mattress, no longer packed for a midnight run, and the Civic waits at the curb downstairs with its muffler shield finally bolted down. For the first time in three years, I don't owe a dollar to a lawyer or a court clerk.
 
-At ten o'clock, I have an intake interview with a regional marine-insurance adjuster on Congress Street. Standard desk audits: flooded hulls, dock claims, documented chain-of-custody. Daylight work with real witnesses and paper trails that don't end inside a soundproofed cellar. I'll have to sit across a laminate desk and explain why the state pulled my bond three years ago, and why they handed it back this morning, while trying not to let him notice the salt crusted along the hem of my only clean slacks.
+At ten o'clock, I have an intake interview with a regional marine-insurance adjuster on Congress Street. Standard desk audits: flooded hulls, dock claims, documented chain-of-custody. Daylight work with real witnesses and paper trails that don't end inside a soundproofed cellar. I'll have to sit across a laminate desk and explain why the state pulled my bond three years ago, and why they handed it back this morning, and try not to let him notice the salt crusted along the hem of my only clean slacks.
 
 I'm not leaving my laptop in the car off the waterfront, so I pocket the bond letter, grab my duffel, and lock the apartment door behind me.
 
 ***
 
-Ten minutes later, I push through the glass door of Becky's Diner on Commercial Street. Heat from the flat-top hits me first, thick with fried bacon. Two sternmen in salt-stained bibs are arguing over diesel prices at the counter, and out past the fogged front window, lobster boats idle along the working pier while gulls turn through gray morning mist. I drop my duffel on the vinyl bench of a corner booth and slide in facing the street.
+Ten minutes later, I push through the glass door of Becky's Diner on Commercial Street. Heat from the flat-top hits me first, thick with fried bacon. Two sternmen in salt-stained bibs are arguing over diesel prices at the counter, and out past the fogged front window, lobster boats idle along the working pier as gulls turn through gray morning mist. I drop my duffel on the vinyl bench of a corner booth and slide in facing the street.
 
 The waitress tops off a chipped mug before I ask, her pencil tucked behind one ear, and I pull out the printed marine-insurance application I brought to look over before ten. Half the questions are standard underwriting boilerplate, the kind of thing I used to fill out with my eyes closed, except my left wrist still stiffens whenever I try to write for more than a minute.
 
@@ -40,7 +40,7 @@ I read the card and look up at her.
 
 "He did." Margot rests her gloved hands on top of her briefcase. "Graham funded a separate escrow before the Arlington deal closed. When he came down to Portland Wednesday—right after shoving your deadline into a gale—I saw your name on the voucher and tacked on thirty-five hundred for the storm myself. His arrest killed the buyout, but the escrow still pays out to whichever contractor turned in an honest accounting."
 
-She pauses while the waitress walks past with a fresh carafe and waits until the booth behind us empties out.
+She pauses as the waitress walks past with a fresh carafe and waits until the booth behind us empties out.
 
 "You handed over two-point-four million dollars' worth of forged trust records when you could have taken fifty thousand over a gas burner and walked away," Margot says in a low voice. "Most people sitting under a Monday bank levy take the cash."
 
@@ -64,7 +64,7 @@ Forty-five thousand would buy a reliable used car, pay six months on a real two-
 
 Out past the fogged window, a tugboat horn groans across Portland Harbor, and the vibration hums up through the tabletop.
 
-Margot studies me for a beat. Then she reaches into her briefcase and sets two things on the Formica. First, a heavy brass skeleton key, its bow worn smooth from decades of hands, with dark pine resin clinging inside the cut of the teeth and a blank manila tag wired to the ring. Next to it, she slides a glossy color photograph across the table until its white edge stops against my mug.
+Margot studies me for a second. Then she reaches into her briefcase and sets two things on the Formica. First, a heavy brass skeleton key, its bow worn smooth from decades of hands, with dark pine resin clinging inside the cut of the teeth and a blank manila tag wired to the ring. Next to it, she slides a glossy color photograph across the table until its white edge stops against my mug.
 
 I look down despite myself. A sprawling timber-and-stone lodge is buried halfway to its cedar eaves in fresh Vermont snow, dark spruces crowding the drive behind a wrought-iron gate. Thin gray smoke curls out of a massive stone chimney against a gray-white sky.
 

@@ -1,10 +1,8 @@
 # Chapter 15
 
-By three-thirty, rain is hammering the front sidelights and Graham's phone still hasn't pinged with an ETA from the Boston courier.
+"We can't leave those boots behind the bench," Graham says behind me, his voice hoarse. He stares past my shoulder at the front door. "Cole Halstead rolls up that drive with a warrant, he won't care who popped your trunk."
 
-I come down the stairs with the pipe wrench and look out through the front entry glass. My Civic is parked by the spruces, its trunk lid still cracked just above the latch in the mist.
-
-"We can't leave those boots behind the bench," Graham says behind me, his voice hoarse. He stares at the front door. "Cole Halstead rolls up that drive with a warrant, he won't care who popped your trunk."
+I stand at the foot of the stairs with the pipe wrench in my hand and look out through the front entry glass. Rain hammers the sidelights. Three-thirty already, and Graham's phone still hasn't pinged with an ETA from the Boston courier. Out by the spruces, my Civic's trunk lid sits cracked just above the latch in the mist.
 
 "Cole doesn't have a warrant yet," I say. "If he did, he wouldn't wait till three-thirty to kick the door in. He's still stacking paper."
 
@@ -16,7 +14,7 @@ He hesitates, glancing toward the north hall. "The study rack only mirrors the h
 
 "You wrote the encryption," I say, rapping the wrench against my thigh. "Which means the passphrase is in your head. Move."
 
-He doesn't argue. He grabs a dish towel off the kitchen counter to swab the slate and shove the boots into the coat closet. While he's busy, I duck into the guest room for my dry sneakers. I didn't pack spare socks, so my damp wool ones squelch the second I lace up. Great. I check my duffel.
+He doesn't argue. He grabs a dish towel off the kitchen counter to swab the slate and shove the boots into the coat closet. I duck into the guest room for my dry sneakers and lace up fast. I check my duffel.
 
 The cash is still under my shirts, but the side-pouch zipper is flipped outward. I yank it open. My spare Civic key fob is gone. Somebody lifted it while my back was turned, which explains how my trunk popped without a mark on the paint. I cross the north hall.
 
@@ -36,7 +34,7 @@ He exhales sharply through his nose and starts typing.
 
 ***
 
-A green progress bar crawls across the left display while rain beats against the north window and the tower fans kick higher. On the right screen, an Arlington staffing folder sits open behind the terminal, and an unsealed manila folder tabbed with my name rests beside the keyboard. Graham's hands stay in plain sight. I flip the cover back. Inside is a two-page Boston background report dated October twenty-first, listing my Commercial Street fire-manifest termination and my $18,412 Cumberland County judgment. Graham's own typed screening note is stapled to the corner:
+A green progress bar crawls across the left display. Rain beats against the north window, and the tower fans kick higher. On the right screen, an Arlington staffing folder sits open behind the terminal, and an unsealed manila folder tabbed with my name rests beside the keyboard. Graham's hands stay in plain sight. I flip the cover back. Inside is a two-page Boston background report dated October twenty-first, listing my Commercial Street fire-manifest termination and my $18,412 Cumberland County judgment. Graham's own typed screening note is stapled to the corner:
 
 *Refused dirty sign-off 2023. $18,412 levy pending Nov. Cornered enough to take cash, too stubborn to walk past a six-minute Zone 4 dropout or a dry life vest. Put under $50k IP NDA (leave Clause 3 photo ban intact to test if she demands chain-of-custody rider). Watch what Oct 15 tampering she flags first.*
 
@@ -46,11 +44,11 @@ He doesn't pull his hand back. His fingers curl slightly against the paper. "I n
 
 "So you let me climb into that darkroom alone."
 
-"I didn't know Halstead had an installer PIN until this morning," he says, eyes on the progress bar as it passes eighty percent. "I knew he couldn't stand me. He and Lydia grew up running these ledges together long before I bought the headland. Even after her father died, Cole acted like I was some Boston tourist who stole his backyard. Hating me doesn't explain faking a drowning."
+"I didn't know Halstead had an installer PIN until this morning," he says, eyes on the progress bar as it passes eighty percent. "I knew he couldn't stand me. He and Lydia grew up on these ledges. Even after her father died, Cole acted like I was some Boston tourist who stole his backyard. Hating me doesn't explain a fake drowning."
 
 "Being broke does," I say. "Or whatever offshore money Lydia put in front of him."
 
-Graham glances at the screen. "Her father set up offshore trust accounts before his stroke, money I never touched. When I pulled the two-point-four million for Kiefer Soundworks, I intended to put it back before the November audit. I never figured she'd vanish instead of filing for divorce."
+Graham glances at the screen. "Her father set up offshore trust accounts before his stroke. Money I never touched. When I pulled the two-point-four million for Kiefer Soundworks, I intended to put it back before the November audit. I never figured she'd vanish instead of filing for divorce."
 
 Ninety-eight percent. Ninety-nine. The tower chimes softly, and a raw October fourteenth folder opens on the right display: twelve timestamped audio files pulled straight off the house array, untouched by the automated scrubbers.
 
@@ -66,7 +64,7 @@ Rubber soles squeak across wet slate, followed by a muffled grunt as someone dra
 
 *"Careful with the varnish,"* a woman's voice cuts through the rain hiss.
 
-Graham goes rigid. Her voice is cool, crisp, unhurried—someone who has never had to raise her volume to get her way.
+Graham goes rigid. Her voice is cool, crisp, unbothered—someone who has never had to raise her volume to get her way.
 
 *"You're smearing the—"* / *"Nobody's checking the oarlocks at five in the morning, Lydie."*
 

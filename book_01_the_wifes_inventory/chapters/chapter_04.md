@@ -1,8 +1,8 @@
 # Chapter 4
 
-Around noon, the supply truck from Rockland drops twenty flat-packed wardrobe cartons inside the timber gate, so Graham has to take the Audi down the lane to haul them back up.
+The taillights of Graham's Audi disappear into the spruce, and I open the shared spreadsheet on my laptop to type the first line: *Sunroom, hand-knotted wool rug, charcoal gray, fair condition*.
 
-From the sunroom window I watch his taillights disappear into the spruce. Then I open the shared spreadsheet on my laptop and type the first line: *Sunroom, hand-knotted wool rug, charcoal gray, fair condition*. If he checks edit timestamps from his phone, he'll see me working. Dull clerical work makes good cover. As long as I look like a slow clerk logging lamps and throw pillows, he won't hover.
+He's down by the timber gate hauling twenty flat-packed wardrobe cartons up from the Rockland supply truck. If he checks edit timestamps from his phone, he'll see me working. Dull clerical work makes good cover. As long as I look like a slow clerk logging lamps and throw pillows, he won't hover.
 
 Just off the dining room, the sunroom juts out over the cliff on the southeast corner of the house: all tall glass, a wide slider out to the deck, and cold gray glare across pale cedar floorboards. Two low linen armchairs face the cove across a slate coffee table and a broad woven rug. Below the bluff, the fog has thinned into damp shreds curling around the pilings of Maren Lindqvist's shack, though her skiff is gone. Just the empty wooden dock, wet stacks of wire traps, and a gull hunched on the corner post.
 
@@ -58,7 +58,7 @@ I don't touch it with bare skin. I pull a square of acid-free tissue from the sa
 
 I smooth the rug down, nudge the table leg back into its dents, and head into the hall.
 
-The glass walls suddenly feel like a specimen jar. Every pane throws my own reflection back at me while the house stays dead quiet overhead. I can't just wait around down here for Graham to wander back in and hope the room explains itself. I need twenty minutes off the peninsula: a real cell signal to run a background check on Kiefer Soundworks, a couple rolls of packing tape, and a look at Salt Point harbor in daylight where nobody is watching me through the windows.
+The glass walls suddenly feel like a specimen jar. Every pane throws my own reflection back at me. The house stays dead quiet overhead. I can't just wait around down here for Graham to wander back in and hope the room explains itself. I need twenty minutes off the peninsula: a real cell signal to run a background check on Kiefer Soundworks, a couple rolls of packing tape, and a look at Salt Point harbor in daylight where nobody is watching me through the windows.
 
 In the mudroom, I pull on my waxed jacket and slide the tissue-wrapped key into the inside breast pocket. The hard brass presses against my ribs through the lining. I grab my keys off the shelf and turn toward the porch.
 
@@ -68,7 +68,7 @@ Boots cross the floorboards overhead.
 
 I step back into the archway where he can see me and let my arms hang loose so I'm not shielding my chest. "Out of heavy packing tape," I call up. "And there were only two rolls of label stickers on the counter. Figured I'd hit the general store past the causeway before the fog closes in."
 
-Steps move along the upstairs runner until Graham leans over the oak railing to look down into the hall. He glances at my jacket pocket, lingers there a beat too long, and meets my eyes.
+Steps move along the upstairs runner until Graham leans over the oak railing to look down into the hall. He glances at my jacket pocket, hesitates, and meets my eyes.
 
 "Thought you were doing the master closet after lunch," he says.
 
@@ -78,8 +78,8 @@ He studies me for a second before answering and taps his fingers against the rai
 
 "Will do."
 
-I head out through the mudroom onto the porch. Salt wind hits my face, and the breakwater buoy clangs somewhere out in the gray. My Civic sits beside Graham's Audi, small and rusted against the wet spruces, with a fresh smear of pine needles across the hood. I get in, shut the door, and sit for a second with the cold vinyl under my legs while mist gathers along the inside of the windshield. The key turns, the engine catches with its usual rattle, and the defroster blows cold air against the glass.
+I head out through the mudroom onto the porch. Salt wind hits my face, and the breakwater buoy clangs somewhere out in the gray. My Civic sits beside Graham's Audi, small and rusted against the wet spruces, with a fresh smear of pine needles across the hood. I get in, shut the door, and sit for a second with the cold vinyl under my legs as mist gathers along the inside of the windshield. The key turns, the engine catches with its usual rattle, and the defroster blows cold air against the glass.
 
 Before I put it in reverse, I glance up at the tall panes of the second-floor master bedroom.
 
-He didn't go back inside. He's standing right at the glass with one palm pressed flat against it, watching my car while gray fog curls under the eaves behind him.
+He didn't go back inside. He's standing right at the glass with one palm pressed flat against it, watching my car as gray fog curls under the eaves behind him.

@@ -1,6 +1,6 @@
 # Chapter 14
 
-Cold air drifts down the concrete stairwell from the open front hall while my fingers curl around the multi-tool.
+Cold air drifts down the concrete stairwell from the open front hall. My fingers curl around the multi-tool.
 
 Graham stands in the fire doorway with gray dawn light behind him and a pipe wrench hanging low in his right hand. He checks my face first, then the manila envelope tucked under my arm, and finally the worktable where the server rack hums beneath the lit blue displays.
 
@@ -36,9 +36,9 @@ He stops dead beside the steel jamb. He looks down at the pipe wrench as if he's
 
 I don't trust him for half a second, though staying in a concrete box with one door isn't a plan either. I pocket the multi-tool, grab the wrench off the bottom step, and follow him up into the kitchen at arm's length.
 
-Thin gray morning light washes across the limestone island while rain streaks down the back deck glass. Graham doesn't look for another weapon. He walks to the sink, fills a tall glass with cold tap water, and drinks it down in three hard swallows before leaning both palms on the counter with his head hung between his shoulders. Whatever was at the bottom of that bourbon hit him hard; his fingers are still shaking. My left sock is damp from the cellar floor, cold against my heel, and I'm tired enough that the sound of him swallowing sets my teeth on edge.
+Thin gray morning light washes across the limestone island. Rain streaks down the back deck glass. Graham doesn't look for another weapon. He walks to the sink, fills a tall glass with cold tap water, and drinks it down in three hard swallows before leaning both palms on the counter with his head hung between his shoulders. Whatever was at the bottom of that bourbon hit him hard; his fingers are still shaking. My left heel is cold from the cellar floor, and I'm tired enough that the sound of him swallowing gets under my skin.
 
-"You forged Lydia's initials on six trust transfers," I say from the far side of the island. I set the envelope next to the toaster while the thumb drive stays hidden in my watch pocket. "October tenth, four days before the storm. You even sliced three signed study pages out of her sketchbook to trace her initials on a light table."
+"You forged Lydia's initials on six trust transfers," I say from the far side of the island. I set the envelope next to the toaster; the thumb drive stays hidden in my watch pocket. "October tenth, four days before the storm. You even sliced three signed study pages out of her sketchbook to trace her initials on a light table."
 
 Graham exhales slowly, straightens, and squares his shoulders despite the tremor in his hands.
 
@@ -54,9 +54,9 @@ He looks down at the sliced red tamper tape on the envelope, and whatever excuse
 
 "You told the Coast Guard you came upstairs at midnight."
 
-"Because I didn't want to explain staying sealed inside a soundproofed cellar all night while my wife walked into a gale." He wipes a shaking hand across his face. "Truth is, I was down there wearing noise-canceling headphones until three in the morning, when the storm finally dropped the grid. When I came up, the sunroom glass was latched, the skiff was gone off the slip, and Deputy Halstead was walking up my drive at five-thirty telling me not to go near the boathouse."
+"Because I didn't want to explain staying sealed inside a soundproofed cellar all night when my wife walked into a gale." He wipes a shaking hand across his face. "Truth is, I was down there wearing noise-canceling headphones until three in the morning, when the storm finally dropped the grid. When I came up, the sunroom glass was latched, the skiff was gone off the slip, and Deputy Halstead was walking up my drive at five-thirty telling me not to go near the boathouse."
 
-"Halstead," I say, and watch his face. "He was in this kitchen yesterday at eleven while you were in Portland. Punched a co-owner installer PIN right into your wall tablet and bridged your deck camera logs inside the breaker box."
+"Halstead," I say, and watch his face. "He was in this kitchen yesterday at eleven, when you were in Portland. Punched a co-owner installer PIN right into your wall tablet and bridged your deck camera logs inside the breaker box."
 
 Graham stares at me, dead still. "He doesn't have an installer PIN. Nobody knows that code except me and—"
 
@@ -104,8 +104,8 @@ Graham points down at the duck boots and the navy tote dripping brackish rainwat
 
 "When I woke up at five-forty-five and found the front door unlatched, I stepped out on the porch," he says, his voice low. "Your trunk was standing popped open. I pulled Lydia's boots and that tote out before I saw what was tucked underneath in your spare-tire well: a boat rag damp with the same bleach from the sunroom floor, wrapped around a bronze cleat pried off our boathouse dock. I stopped right there, left both the rag and the cleat untouched so I wouldn't smear the planter's prints, and eased the lid down on the catch so it wouldn't slam in the quiet. Think about what happens when Halstead serves a warrant on your Civic: bleach from the sunroom cleanup, a cleat from the boathouse, and Lydia's boots riding in the back of the hired cleaner's car. They didn't plant that stuff just to bury me, Tessa. They planted it to put you in that sunroom right beside me."
 
-I stare at the popped trunk. Going out there for the cleat puts my own prints on the cleanup hardware while whoever's watching from the cove takes notes—or maybe they're already halfway down the drive, which doesn't leave me much time to be clever. Calling the state police over the house Wi-Fi right now just brings troopers into a house full of Graham's forged transfers while Lydia's boots sit in my spare-tire well, and I am not leaving Salt Point in handcuffs because I couldn't wait for a thumb drive to decrypt.
+I stare at the popped trunk. Going out there for the cleat puts my own prints on the cleanup hardware, and whoever's watching from the cove will take notes—or maybe they're already halfway down the drive, which doesn't leave me much time to be clever. Calling the state police over the house Wi-Fi right now just brings troopers into a house full of Graham's forged transfers while Lydia's boots sit in my spare-tire well, and I am not leaving Salt Point in handcuffs because I couldn't wait for a thumb drive to decrypt.
 
 "Give me the passphrase for the raw basement partition," I say. "Right now."
 
-Graham shakes his head and nudges the muddy duck boots and tote out of sight behind the coat bench where nobody watching the sidelights can spot them. "Whoever hammered those three failed passphrases into the cellar console at four-forty-five yesterday tripped a twenty-two-hour hardware lockout across the master key. Even with the passphrase, the study bridge won't mount that partition until after three this afternoon. And Lydia has co-owner view on the shared probate folder. If your inventory photo timestamps stop ticking into the cloud this morning, she and Cole know we're onto them and hit this house before the lockout clears. Shoot the upstairs rooms to keep our cover live; the master key unlocks by three-thirty."
+Graham shakes his head and nudges the muddy duck boots and tote out of sight behind the coat bench where nobody watching the sidelights can spot them. "Whoever hammered those three failed passphrases into the cellar console at four-forty-five yesterday tripped a twenty-two-hour lockout across the master key. Even with the passphrase, the study bridge won't mount that partition until after three this afternoon. And Lydia has co-owner view on the shared probate folder. If your inventory photo timestamps stop ticking into the cloud this morning, she and Cole know we're onto them and hit this house before the lockout clears. Shoot the upstairs rooms to keep our cover live; the master key unlocks by three-thirty."

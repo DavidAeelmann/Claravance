@@ -2,13 +2,13 @@
 
 The red LED above the fire door burns against the concrete.
 
-I drop the envelope onto the worktable and press my ear to the steel. Unhurried, soft-soled footsteps climb the basement stairs on the other side and cross the foyer. They head toward the kitchen arch. A second later, a chair leg scrapes across tile.
+I drop the envelope onto the worktable and press my ear to the steel. Slow, soft-soled footsteps climb the basement stairs on the other side and cross the foyer. They head toward the kitchen arch. A second later, a chair leg scrapes across tile.
 
 I don't bother with **B-4**. This side of the door is smooth steel, capped over the inside lock cutout with a solid brass plate so a hollow keyhole wouldn't leak stairwell noise into Graham's directional mics. Once that deadbolt throws from the landing, the chamber is sealed.
 
 Which leaves the dumbwaiter shaft.
 
-I cross to the iron ladder, phone screen dimmed to a sliver of gray. The cold rungs bite through my wool socks as I climb two at a time, dry grit flaking off the masonry onto my forehead until my shoulders hit the cedar sill behind the spice rack. It's a tight, awkward squeeze through the hinged panel into the dark walk-in pantry, and I have to feel along the shelf edge to keep from knocking over the stoneware crocks on the floor. One turn of the knob on the pantry door, and I lean my shoulder into the wood.
+I cross to the iron ladder, phone screen dimmed to a sliver of gray. The cold rungs bite into my feet as I climb two at a time, dry grit flaking off the masonry onto my forehead until my shoulders hit the cedar sill behind the spice rack. It's a tight, awkward squeeze through the hinged panel into the dark walk-in pantry, and I have to feel along the shelf edge to keep from knocking over the stoneware crocks on the floor. One turn of the knob on the pantry door, and I lean my shoulder into the wood.
 
 It gives a fraction, then stops dead against something heavy. Through the slats, a wooden kitchen chair scrapes against the outside knob, wedged tight, followed by the metallic *snick* of a deadbolt turning over by the mudroom. Stockinged feet pad back across the tile and fade toward the front hall.
 
@@ -16,7 +16,7 @@ Whoever threw the basement bolt knows about the dumbwaiter. Trapped in a closet 
 
 I back into the shaft, pull the spice-rack panel shut, and climb down into the chill of the darkroom. My breath mists in the blue glare of the computer monitors, and a gray smear of masonry dust streaks the front of my flannel. The clock in the corner of the right-hand screen reads past two-thirty. My phone has no service—too much poured concrete and acoustic foam overhead for a signal to punch through. Nothing in this room leaves until I do.
 
-My teeth start clicking together before I can stop them. I pull my sleeves down over my wrists and stare at the envelope stamped `OCT 14 — MASTER BACKUP / DO NOT OPEN BEFORE PROBATE`.
+A chill settles deep in my shoulders before I can stop it. I pull my sleeves down over my wrists and stare at the envelope stamped `OCT 14 — MASTER BACKUP / DO NOT OPEN BEFORE PROBATE`.
 
 Whoever locked me in didn't touch the servers or come back for the cabinet. They didn't seal me down here to starve, either; they just bought themselves three hours upstairs before daylight. If Graham really is out cold in his chair, somebody else is walking around his kitchen in socks at two-thirty in the morning.
 
@@ -52,7 +52,7 @@ I rub my eyes with the heels of my hands. None of it makes Graham innocent, not 
 
 ***
 
-Past four in the morning, the cold coming up through the concrete has worked straight past my ankles into my knees. My toes are numb in my wool socks, and half my brain is stuck on the thermos of lukewarm coffee still sitting in the Civic's cupholder. Three hours in a soundproofed bunker, and I'm sitting here mad about bad gas-station dark roast.
+Past four in the morning, the cold coming up through the concrete has worked straight past my ankles into my knees. My toes are numb, and half my brain is stuck on the thermos of lukewarm coffee still sitting in the Civic's cupholder. Three hours in a soundproofed bunker, and I'm sitting here mad about bad gas-station dark roast.
 
 I pace the rubber mats to keep feeling in my heels, steering clear of the foam-lined northeast corner where the room bounce goes completely dead. It's an unsettling sensation, walking into a corner that swallows even the brush of wool on rubber matting. Every half hour I check my phone anyway, even though I know better. Still zero bars. At least the *Bramwell & Shaw* photos pushed to my encrypted Portland vault before I came down the shaft, so even if whoever locked that door smashes my phone on the concrete, they can't touch what's already off-site.
 

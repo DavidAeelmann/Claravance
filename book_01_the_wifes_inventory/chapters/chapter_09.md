@@ -1,8 +1,8 @@
 # Chapter 9
 
-At four-thirty, coastal fog settles down over the headland like wet iron, and the temporary guest-feed link on my phone chimes with a thirty-minute expiration warning.
+The temporary guest-feed link on my phone chimes with a thirty-minute expiration warning just as coastal fog settles over the headland like wet iron.
 
-In the mudroom, I pull my jacket off the hook beside Graham's coat, my knuckles brushing the tissue-wrapped B-4 key inside the lining. Upstairs, three taped wardrobe cartons are stacked in the master closet, enough logged work to hold up at a glance when Graham gets home.
+In the mudroom, I pull my jacket off the hook beside Graham's coat, my knuckles brushing the tissue-wrapped B-4 key inside the lining. Upstairs, three taped wardrobe cartons sit stacked in the master closet, enough logged work to hold up at a glance when Graham gets home.
 
 He texted from Portland at two-thirty to say a patent attorney ran late and he wouldn't clear the causeway until dark. That leaves me maybe thirty or forty minutes before his headlights hit the drive.
 

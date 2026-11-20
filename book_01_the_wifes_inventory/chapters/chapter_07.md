@@ -1,8 +1,6 @@
 # Chapter 7
 
-At seven-fifteen Wednesday morning, Graham leaves for Portland in a charcoal suit with his leather briefcase locked in the Audi's trunk.
-
-I stand in the main hall in my wool socks and watch him pause inside the front entry to tap a temporary guest invite onto his phone. A second later, mine chimes with a Kiefer Soundworks home-access link, valid until five, with gate and delivery-door feeds while he's out.
+Graham pauses inside the front entry, charcoal suit pressed and leather briefcase already locked in the Audi's trunk, and taps a temporary guest invite onto his phone. A second later, mine chimes with a Kiefer Soundworks home-access link, valid until five, with gate and delivery-door feeds while he's in Portland.
 
 "Skip the kitchenware today," he says, and turns his wool coat collar up against the drizzle spitting off the cove. "Stick to the master closet and Lydia's vanity. I need all of it shot and logged before tomorrow night."
 
@@ -68,7 +66,7 @@ My phone buzzes against my hip, and I crack my elbow on the drainpipe.
 
 ***
 
-I stay frozen under the sink while it gives one short chime, a push alert from the Kiefer Soundworks app. I back out from under the vanity and check the screen. A gray banner across the lock screen flags motion at the back pantry door.
+I stay frozen under the sink as it gives one short chime, a push alert from the Kiefer Soundworks app. I back out from under the vanity and check the screen. A gray banner across the lock screen flags motion at the back pantry door.
 
 Graham is in Portland. I'm supposed to be alone on this peninsula for hours yet. I tap the banner and pull up the live guest feed.
 
@@ -88,4 +86,4 @@ I snug the slip-nut back up, swipe the slate dry with the paper towel, and strip
 
 Every instinct tells me to grab my duffel, run for the Civic, and let Boston deal with this rotten house. Except walking out before Thursday triggers a breach clause I can't cover.
 
-I take the narrow back service stairs in my socks, hugging the plaster wall where the treads stay quiet, and stop dead two steps above the bottom landing as the steel door of the kitchen breaker box clicks open right around the corner.
+I take the narrow back service stairs quietly, hugging the plaster wall where the treads don't creak, and stop dead two steps above the bottom landing as the steel door of the kitchen breaker box clicks open right around the corner.

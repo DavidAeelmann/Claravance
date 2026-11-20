@@ -102,7 +102,7 @@ He doesn't wait for an answer and heads up the stairs, his wool socks silent on 
 
 ***
 
-I stand by the table while the house settles. Under the floor, a dehumidifier rumbles like an idling engine. Wind leans into the seaward glass, and the fridge compressor clicks off behind the island.
+I stand by the table and listen to the house settle. Under the floor, a dehumidifier rumbles like an idling engine. Wind leans into the seaward glass, and the fridge compressor clicks off behind the island.
 
 The whole drive hits me at once. My left sock is soaked through from the slate walk, my shoulders ache from fighting the wheel since Brunswick, and I didn't even get that glass of water before he vanished upstairs. Four days in a cold house where every door comes with a threat—maybe I should have turned around at the gate, except my checking account doesn't care about my pride.
 

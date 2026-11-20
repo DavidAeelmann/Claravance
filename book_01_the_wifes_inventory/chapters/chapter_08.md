@@ -2,7 +2,7 @@
 
 Around the corner of the pantry corridor, the breaker box door swings wide with a low groan.
 
-I freeze two steps above the bottom landing of the back service stairs. Below me, the narrow corridor runs behind the kitchen between the walk-in pantry and the deck door. My phone is still in my hand, the live camera tile on the screen spinning into a dead gray circle. Halstead is two steps from the corner, and I'm standing here in wool socks with nowhere to go except back up ten creaking pine treads.
+I freeze two steps above the bottom landing of the back service stairs. Below me, the narrow corridor runs behind the kitchen between the walk-in pantry and the deck door. My phone is still in my hand, the live camera tile on the screen spinning into a dead gray circle. Halstead is two steps from the corner, and I'm standing here with no shoes on and nowhere to go except back up ten creaking pine treads.
 
 A toggle snaps inside the metal panel, followed by a soft relay click.
 
@@ -24,7 +24,7 @@ Halstead eases the panel shut, steps to the end of the corridor, and looks up th
 
 I hold still behind the slats. I could step out and play surprised; he'd turn right back into a helpful county deputy checking a storm latch and walk out without showing me a thing. A cop who bridges a private security bus isn't here on routine patrol. I keep my mouth shut and watch.
 
-Only rain ticks against the ocean glass. Halstead listens for a few beats, his gaze lingering on the upper landing, then turns back to the wall tablet.
+Only rain ticks against the ocean glass. Halstead listens for a few seconds, his gaze lingering on the upper landing, then turns back to the wall tablet.
 
 I press my back harder against the bottom shelf to stay clear of the slats. A tin of smoked paprika scrapes my shoulder blades. Directly behind my spine, the paneling under the shelves gives a hair under my weight, hollow, like there's open air behind the boards—maybe dead framing beside the chimney chase, or a void that shouldn't be there at all.
 
@@ -36,7 +36,7 @@ He scrolls quickly through the morning event log, his crooked front tooth catchi
 
 His head lifts toward the main staircase. Now he knows I didn't drive back into town; as far as he can tell, I'm still upstairs, maybe out of earshot behind a closed closet door. Graham is in Portland until afternoon, which means Cole is gambling I stay put long enough for him to finish.
 
-He turns back to the screen and taps twice to wipe his keypad entry off the local log. At Harbor Mutual, I watched a warehouse manager in Lewiston scrub a single loading-dock zone the exact same way two nights before an electrical fire took out half a block. They always worked through the screen with that same unhurried, practiced precision, like they'd rehearsed the taps in their sleep.
+He turns back to the screen and taps twice to wipe his keypad entry off the local log. At Harbor Mutual, I watched a warehouse manager in Lewiston scrub a single loading-dock zone the exact same way two nights before an electrical fire took out half a block. They always worked through the screen with that same calm, practiced precision, like they'd rehearsed the taps in their sleep.
 
 He crosses the kitchen light-footed, glances up the stairs, and heads toward the mudroom arch.
 
@@ -46,7 +46,7 @@ Halstead freezes halfway through the archway, head tilted back toward the kitche
 
 He drops to one knee beside the boot tray, his wet knee darkening the slate. He lifts the factory-stiff life vest off peg two, turns the collar to check that the inside tag hasn't been stripped, and hangs it back square against the wall paneling.
 
-Next he scans the coat hooks, his gaze sliding past Graham's wool coat to my jacket beside it. B-4 is tucked inside that breast pocket, wrapped in tissue. One casual pat and his fingers hit brass through the lining. My chest locks up while his hand hovers near the hem.
+Next he scans the coat hooks, his gaze sliding past Graham's wool coat to my jacket beside it. B-4 is tucked inside that breast pocket, wrapped in tissue. One casual pat and his fingers hit brass through the lining. My chest locks up. His hand hovers near the hem.
 
 He skips the coats. Instead, he sweeps two fingers along the floorboard seam under the boot tray lip, checks the deadbolt throw on the mudroom side door, and stares down at the empty right half of the tray where Lydia's duck boots belong. For a second he just stays crouched there, listening to the rain on the roof, before he stands and heads back into the kitchen.
 
@@ -86,4 +86,4 @@ He turns back to the breaker box, pops the latch, and pulls the jumper wire off 
 
 Halstead closes the panel, scans the slate once more for stray tracks, and walks straight to the deck door. He steps out into the rain, pulls the door shut, and taps the lock key on the outside pad. The electronic deadbolt slides home, and the LED blinks back to steady amber.
 
-My shoulders stay locked against the spice shelf while I count to thirty, then sixty, waiting for him to double back and test the handle. Only the rain answers. I stay wedged behind the shelves until the fog swallows his dark outline heading down the cove stairs.
+My shoulders stay locked against the spice shelf. I count to thirty, then sixty, waiting for him to double back and test the handle. Only the rain answers. I stay wedged behind the shelves until the fog swallows his dark outline heading down the cove stairs.

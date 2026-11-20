@@ -12,7 +12,7 @@ The deputy who steps up to my window is broad-shouldered under a navy rain slick
 
 "Afternoon, ma'am. License and registration."
 
-I pass the cards through the gap while cold drizzle spits across my knuckles. "Was I speeding, Deputy? Thought it was forty through here."
+I pass the cards through the gap. Cold drizzle spits across my knuckles. "Was I speeding, Deputy? Thought it was forty through here."
 
 "Right brake lamp's out," he says. He takes his time reading the address on my license. "And that muffler shield's hanging low enough to throw sparks on dry blacktop. Tessa Calder. Long way up from Portland."
 
