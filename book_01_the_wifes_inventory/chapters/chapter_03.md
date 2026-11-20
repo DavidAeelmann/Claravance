@@ -2,7 +2,7 @@
 
 The studio door swings open without a sound, throwing a pale wedge of hallway light across the floorboards.
 
-I'm already by the flat-files with my phone dark in my palm, one hand on the neck of an unlit brass desk lamp like I bumped into it looking for the switch.
+I'm already by the flat-files, my phone tucked out of sight in my pocket and one hand resting on the neck of the unlit brass desk lamp like I bumped into it looking for the switch.
 
 Graham stops in the doorway with an empty mug hooked on his finger, still wearing the frayed charcoal sweater from downstairs. His eyes skip straight past me to the walnut desk—checking the blotter and the closed sketchbook—before dropping to my wool socks.
 
@@ -20,7 +20,7 @@ Instead, the stiffness goes out of his shoulders. He doesn't touch the pen or th
 
 He turns his head back toward me, gray eyes flat in the dim hall light. "Meaning?"
 
-"Nothing. Just tidy for an active studio." Too much—that exact inability to leave a crooked seam alone is what cost me my Harbor Mutual license. I give a tired shrug and nod toward the hall. "I'll log the canvases first thing after breakfast. Goodnight, Graham."
+"Nothing. Just tidy for an active studio." Too much. I give a tired shrug and nod toward the hall. "I'll log the canvases first thing after breakfast. Goodnight, Graham."
 
 He stays planted in the doorway until I'm right in front of him, making me turn sideways past his sleeve to reach the runner. He smells faintly of cedar shavings and cold rain, odd for a man who hasn't been outside since I arrived. He doesn't follow me down the stairs toward the ground-floor guest room. Halfway down, I hear the studio door pull shut behind him, followed by the click of a key turning in a lock that wasn't engaged ten minutes ago.
 
@@ -32,7 +32,7 @@ By seven-thirty, the smell of burnt French roast and wet kelp has drifted all th
 
 Low tide has stripped the cove down to black ledges and knotted rockweed under a flat gray sky. Thick fog sits on the outer breakwater, swallowing the horizon until the glass wall past the dining table looks out onto white nothing.
 
-Graham is at the island in a clean slate-gray oxford shirt with the sleeves rolled to his elbows, pouring coffee from a glass carafe into two mismatched mugs. In daylight, the hollows under his eyes look bruised.
+Graham is at the island in a clean gray oxford shirt with the sleeves rolled to his elbows, pouring coffee from a glass carafe into two mismatched mugs. In daylight, the hollows under his eyes look bruised.
 
 "Black?" he asks, sliding a mug across the stone without looking up.
 
@@ -42,7 +42,7 @@ Graham leans back against the counter, sipping while he watches the exposed mudf
 
 "Good. I'll need the study totes too, if I'm logging paperwork."
 
-"After breakfast." He sets his mug beside a folded yellow legal pad, then nudges the pad until its spine sits square with the counter edge. "How did your old outfit operate, Tessa? Harbor Mutual. When a claim felt off—say, a marine loss in bad weather—what did they actually pull?"
+"After breakfast." He sets his mug beside a folded yellow legal pad. "How did your old outfit operate, Tessa? Harbor Mutual. When a claim felt off—say, a marine loss in bad weather—what did they actually pull?"
 
 *Tessa.* Last night it was *Ms. Calder*. Now we're having morning coffee over marine claims.
 
@@ -52,21 +52,37 @@ I take a swallow of the bitter coffee before answering. "Depends on the payout. 
 
 "Then the lawyers subpoena phone pings, bank pulls, toll transponders." I watch his knuckles go white around the mug handle. "Why? Is Lydia's family contesting probate on Friday?"
 
-He looks down into his cup. "Her brother lives in Zurich. Hasn't spoken to her since their father died, and he's already leaning on the Boston trustees at Bramwell & Shaw to freeze our joint accounts until a formal death certificate clears. Under the Lydia Kiefer Irrevocable Trust, I have conditional joint signatory authority over five-point-four million in family assets—as long as I'm in good standing and no probate freeze locks the ledger. Meanwhile, Kiefer Soundworks has a patent buyout sitting in escrow with a defense prime down in Arlington."
+He looks down into his cup. "Her brother lives in Zurich. Hasn't spoken to her since their father died, and he's already leaning on the Boston trustees at Bramwell & Shaw to freeze our joint accounts until a formal death certificate clears."
+
+"Does he have standing?"
+
+"Enough to stall it."
+
+"Stall what?"
+
+"My access to Lydia's trust. I'm a joint signatory, provided everything stays in good standing and probate doesn't lock the ledger."
+
+"How much?"
+
+He hesitates. "Five-point-four."
+
+"Million?"
+
+His jaw tightens. "Before you ask, no—it isn't money I can just move around. But Kiefer Soundworks has a patent buyout sitting in escrow with a defense prime in Arlington. If Bramwell & Shaw freezes the accounts before that closes, I'm screwed."
 
 I keep my face neutral and nod like a sympathetic clerk, keeping my eyes on his hands. "And a probate freeze ties up company equity?"
 
-"Ties up all of it." The rehearsed smoothness cracks; his voice goes tight and raw. "My R&D payroll hits next Wednesday. If Bramwell & Shaw freezes the trust before Friday's preliminary filing, the Arlington buyer walks, my cash dries up, and creditors call the lab lease by Thanksgiving. If the filing clears on time, the buyout closes—and I have the money to clear every company obligation before an audit ever touches it."
+"Ties up all of it." The smoothness drops out of his voice. "My R&D payroll hits next Wednesday. If they freeze the trust before Friday's preliminary filing, the Arlington buyer walks, my cash dries up, and creditors call the lab lease by Thanksgiving. If the filing clears on time, the buyout closes—and I have the money to clear every company obligation before an audit ever touches it."
 
 "Still doesn't explain why you hired me through a blind broker instead of calling an estate crew in Camden," I say. "Local outfits pack faster and don't charge cash premiums."
 
-He looks up from his coffee, too tired to bother with the polite host routine anymore. "Local outfits talk at the general store before five o'clock. Every clerk in this county knows Deputy Halstead, and Halstead already has three reporters poking around the causeway. I needed someone with zero local ties who knows how to document property thoroughly enough that Boston counsel can't claim I hid marital assets—or missed something inside this house."
+He looks up from his coffee, the polite host routine gone. "Local outfits talk at the general store before five o'clock. Every clerk in this county knows Deputy Halstead, and Halstead already has three reporters poking around the causeway. I needed someone with zero local ties who knows how to document property thoroughly enough that Boston counsel can't claim I hid marital assets—or missed something inside this house."
 
 I hold his gaze across the counter. For the first time since I drove through the gate, the panic behind his eyes looks real. I know what eviction panic looks like. Even so, five-point-four million in trust money buys a much bigger motive than winter sweaters.
 
 "What happened the night of the storm?" I ask quietly, while he's still talking. "The broker said October fourteenth. Squall came in fast?"
 
-The shutters come right back down behind his eyes. "She took the fiberglass skiff out around ten-thirty to check the mooring line before the wind shifted. I was down in the basement darkroom running an acoustic sweep with noise-canceling headphones on. When I came up at midnight, the dock light was off and her rain slicker was gone."
+His face goes flat. "She took the fiberglass skiff out around ten-thirty to check the mooring line before the wind shifted. I was down in the basement darkroom running an acoustic sweep with noise-canceling headphones on. When I came up at midnight, the dock light was off and her rain slicker was gone."
 
 "And the Coast Guard found the boat at dawn?"
 
@@ -74,21 +90,21 @@ The shutters come right back down behind his eyes. "She took the fiberglass skif
 
 ***
 
-The back deck wraps the seaward side of the house in weathered planks, slick from the overnight fog. Below us, steep granite steps with no handrail zig-zag down the bluff to the dark timber boathouse squatting over the pilings. Green algae coats the lower risers where high water reaches in winter storms—one wrong step in leather soles and you're going straight to the rocks.
+The back glass sliders open onto a weathered deck wrapping the seaward side of the house, the planks slick from the overnight fog. Directly below the rail, steep granite steps with no handrail zig-zag down the bluff to the dark timber boathouse squatting over the pilings. Green algae coats the lower risers where high water reaches in winter storms—one wrong step in leather soles and you're going straight to the rocks.
 
 I step out onto the deck with my empty mug, telling Graham I want to check the light on the sunroom windows before pulling the inventory sheets. Behind the glass, he's already wiping the spotless counter where my cup sat.
 
-From up here, the boathouse looks tight and well-kept, its cedar shingles weathered darker than the main house from salt spray. A single heavy brass padlock secures the landward double doors, bridged by a strip of faded county paper seal—split cleanly down the middle, one loose corner fluttering slightly in the damp breeze. The side casement facing the cliff is shuttered tight from inside. If the Coast Guard cleared it three weeks ago, nobody bothered cracking a shutter to air the place out.
+From up here, the boathouse looks tight and well-kept, its cedar shingles weathered darker than the main house from salt spray. A single heavy brass padlock secures the double doors facing the cliff, bridged by a faded strip of county paper seal—torn cleanly in two, one loose end fluttering in the damp breeze. The side window facing the rock wall is shuttered tight from inside. If the Coast Guard cleared it three weeks ago, nobody bothered cracking a shutter to air the place out.
 
-Low tide pushes the heavy smell of exposed mussel beds and wet bladderwrack up the bluff. Out past the ledge, the fog thins enough to show the flat mud channel between Kiefer's cove and the next spit—the same shingle shack on pilings I passed coming over the causeway last night. The yellow porch bulb is off now, leaving wet gray siding against the tide line.
+Low tide leaves the cove smelling sharply of exposed mussel beds. Out past the rocky ledge, the fog thins enough to show the flat mud channel between Kiefer's cove and the next spit—the same shingle shack on pilings I passed coming over the causeway last night. The yellow porch bulb is off now, leaving wet gray siding against the tide line.
 
 Something moves down near the water.
 
-Well below the locked boathouse, an older woman in a stiff yellow oilskin bib is hauling wire traps onto a flat-bottomed skiff. A thick silver braid hangs out from under her dark wool watch cap, and even from the top of the cliff you can see the practiced economy of someone who has worked cold water her whole life. She stacks two dripping traps on the bow, wipes her forehead with the back of a rubber-gloved wrist, and looks straight up at me standing alone on the deck.
+Well below the locked boathouse, an older woman in a stiff yellow oilskin bib is hauling wire traps onto a flat-bottomed skiff. A thick silver braid hangs out from under her dark wool watch cap, and even from the top of the cliff she moves with the easy speed of someone who has worked cold water her whole life. She stacks two dripping traps on the bow, wipes her forehead with the back of a rubber-gloved wrist, and looks straight up at me standing alone on the deck.
 
 I lift a hand in a half-automatic wave, expecting her to turn back to her boat.
 
-Instead, she presses her rubber glove flat against her chest, glances left toward the dining glass where Graham's silhouette moves behind the counter, and holds two gloved fingers stiffly out beside her hip. She keeps them there just long enough to make sure I see, then jerks her chin once toward the locked boathouse right beneath me.
+Instead, she presses her palm flat against her chest, glances left toward the dining glass where Graham's silhouette moves behind the counter, and holds two fingers stiffly out beside her hip. She keeps them there just long enough to make sure I see, then jerks her chin once toward the locked boathouse right beneath me.
 
 Two what? Two people? Two days? Before I can even mouth a question, she bends back to her traps without looking up again, pushing the skiff off the mudflat with a wooden oar until the fog closes behind her stern.
 
@@ -98,4 +114,4 @@ Behind me, the glass door slides open on its track. Graham steps out onto the de
 
 "Doesn't look like she's wandering up here." I step back inside before he can read my face.
 
-Graham holds the glass door open, his hand lingering on the frame. Down by the water, the locked boathouse roof shines wet in the mist, that split strip of county paper fluttering faintly against the dark wood.
+Graham holds the glass door open, his hand lingering on the frame. Down by the water, the locked boathouse roof shines wet in the mist, that torn strip of county paper fluttering faintly against the dark wood.
