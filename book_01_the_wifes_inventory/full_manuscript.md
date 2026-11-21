@@ -1194,7 +1194,7 @@ He stops dead beside the steel jamb. He looks down at the pipe wrench as if he's
 
 "You didn't throw the deadbolt at two-thirty?"
 
-"I didn't move until quarter to six. I heard the fans running when I woke up. My keys were on the rug, chair was shoved under the pantry knob, front door wide open." He rubs his eyes like he's trying to scrape the Ambien off them. "Whoever came down that chute didn't expect to find you sitting in the blue light. Locking you in was panic, not a plan. Come up. If I wanted you dead down there, I wouldn't have brought a key."
+"I didn't move until quarter to six. I heard the fans running when I woke up. My keys were on the rug, a chair was shoved under the pantry knob, and the front door was standing wide open." He rubs his eyes like he's trying to scrape the Ambien off them, then stops and stares past my shoulder at the dark opening behind the iron ladder. "Wait—is that the old dumbwaiter shaft? Somebody came down through the pantry, saw you sitting in the blue light, and threw the deadbolt on their way out so you couldn't follow them. Come up. If I were the one who locked you down there, I wouldn't be standing here unlocking it."
 
 ***
 
