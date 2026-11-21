@@ -47,13 +47,9 @@ I trace the fresh tire ruts past the front steps. They curve around the main hou
 
 Whoever drove up here parked their truck inside the barn and locked it behind them.
 
-I step onto the covered porch, keeping my weight near the stone wall where the porch planks don't creak. I pull the skeleton key from my pocket.
+I step onto the covered porch, keeping my weight near the stone wall where the porch planks don't creak.
 
-I slide the bit into the oversized iron lock on the front oak door.
-
-The wards turn without a scrape. Oiled recently.
-
-I push the door open a crack and slip inside, easing the latch shut behind my heel until the bolt clicks home.
+The skeleton key slides into the oversized iron lock and turns without a scrape. Oiled recently. I ease the oak door open and slip inside.
 
 The great hall is cavernous and dim, lit only by pale snow-glare filtering through high windows near the rafters. Mounted stag heads stare down from dark timber walls above a massive fieldstone fireplace. Across the room, a wide oak staircase climbs toward a shadowed balcony.
 

@@ -70,7 +70,7 @@ Downstairs, the keyboard stops.
 
 For two seconds the house goes dead silent, save for the wind rattling the spruces outside the painted window. Then a chair scrapes back across wood.
 
-I shove my phone into my pocket and back away toward the flat-files, my heart climbing straight into my throat. A stair tread creaks up from the landing—the same board I stepped on five minutes ago. Slow, deliberate weight shifts across the upstairs runner, then stops right outside the cracked studio door.
+I shove my phone into my pocket and back away toward the flat-files, my heart climbing straight into my throat. A stair tread creaks up from the landing—the same board I stepped on five minutes ago. Slow weight shifts across the upstairs runner, then stops right outside the cracked studio door.
 
 My fingers close around the key in my pocket.
 

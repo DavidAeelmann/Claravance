@@ -44,7 +44,7 @@ Her thumbs stop on the glass. For a second the only sound in the boathouse is th
 
 "Right. That's why Cole had to hide your weekender behind Graham's coats."
 
-"Cole was supposed to strip the ferry tag off that bag before he hid it," she snaps. "Just like he was supposed to clean the sunroom floor without losing a key behind the molding. Two weeks of cleaning up after a small-town cop, and now I'm cleaning up after you. Everything in that house ran on my clock, Tessa. Including your five o'clock courier. I canceled him an hour ago."
+"Cole was supposed to strip the ferry tag off that bag before he hid it," she says, impatient. "Just like he was supposed to clean the sunroom floor without losing a key behind the molding. Two weeks of cleaning up after a small-town cop, and now I'm cleaning up after you. Everything in that house ran on my clock, Tessa. Including your five o'clock courier. I canceled him an hour ago."
 
 "The Coast Guard—"
 

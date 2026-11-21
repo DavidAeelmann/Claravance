@@ -8,7 +8,7 @@ Cole Halstead steps inside carrying a Maglite and a bundle of black zip ties. Ly
 
 "Watch her!" Lydia snaps. She tucks the iPad under one arm and swings the Glock back toward me.
 
-There is nowhere to hide in a twenty-foot box of wet cedar, and no time to think about how bad the math is. I drive up off my knees, duck under the bait table, and launch myself across the decking before she can clear Cole's shoulder. My sneakers slide on wet moss before the rubber bites. Cole turns a fraction too late. His left arm comes up to block me, and I drag the oyster knife hard across the meat of his wrist.
+There is nowhere to hide in a twenty-foot box of wet cedar, and no time to think about how bad the math is. I drive up off my knees, duck under the bait table, and launch myself across the decking before she can clear Cole's shoulder. My sneakers slide on wet moss before the rubber bites. Cole turns a step too late. His left arm comes up to block me, and I drag the oyster knife hard across the meat of his wrist.
 
 Steel rips through his windbreaker cuff into flesh. Cole curses and staggers backward into the stacked lobster traps. Wood slats crack under his shoulders. A loose buoy rolls against my shin. Dark blood wells over his knuckles. The Maglite bounces across the planks into the shadows. Zip ties scatter around his boots. Under the bottom trap, his heel comes down square on my phone. The screen cracks loud. Then the casing skids off the edge into the black slipway water. He clamps his right hand over the gash and blocks the narrow aisle between the bench and the open water.
 

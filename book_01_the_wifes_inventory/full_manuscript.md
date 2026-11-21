@@ -218,7 +218,7 @@ Downstairs, the keyboard stops.
 
 For two seconds the house goes dead silent, save for the wind rattling the spruces outside the painted window. Then a chair scrapes back across wood.
 
-I shove my phone into my pocket and back away toward the flat-files, my heart climbing straight into my throat. A stair tread creaks up from the landing—the same board I stepped on five minutes ago. Slow, deliberate weight shifts across the upstairs runner, then stops right outside the cracked studio door.
+I shove my phone into my pocket and back away toward the flat-files, my heart climbing straight into my throat. A stair tread creaks up from the landing—the same board I stepped on five minutes ago. Slow weight shifts across the upstairs runner, then stops right outside the cracked studio door.
 
 My fingers close around the key in my pocket.
 
@@ -1002,7 +1002,7 @@ I lie on top of the stripped quilt in my jeans and flannel and stare at the ceil
 
 I tell myself to close my eyes for twenty minutes. Just twenty. My temples ache, and the back of my neck feels like knotted rope. Half of me wants to grab my duffel, walk down the gravel drive in the dark, and let whoever owns this house sort out their own mess by sunrise. The other half knows what happens if I leave without proof. Walking out at dawn isn't an option.
 
-Thirty minutes crawl past. I'm reaching for my wool socks at the foot of the bed when a sharp metallic snap carries through the framing from the kitchen wing. The laptop clock reads just past two-twenty. Too hollow for the front deadbolt, too clean for the wind. It rings like a heavy latch dropping home inside a wall near the pantry, followed by a low hum vibrating through the baseboard pipes, as if something weighted just settled on a line.
+Thirty minutes crawl past. I'm reaching for my wool socks at the foot of the bed when a sharp metallic snap carries through the framing from the kitchen wing. The laptop clock reads 2:27. Too hollow for the front deadbolt, too clean for the wind. It rings like a heavy latch dropping home inside a wall near the pantry, followed by a low hum vibrating through the baseboard pipes, as if something weighted just settled on a line.
 
 I sit up fast, my heart thumping against my ribs, and pull the socks on. My hands are clumsy with cold. I ease the desk chair out from under the doorknob, wait a second for the floorboards to settle, and crack the door an inch.
 
@@ -1028,9 +1028,9 @@ The whole back wall, shelf cleats and all, swings out on hidden metal hinges. Fr
 
 I angle my phone inside. A narrow utility shaft framed in rough wood studs drops away behind the spice rack—an original 1970s manual dumbwaiter shaft, stripped of its cab decades ago, with a vertical iron ladder bolted into the cinderblock on the right.
 
-A cast-iron pulley is mounted under the header on the left, still strung with braided hemp rope hanging taut down the shaft. Whoever stripped the cab left the rigging; a removable steel locking pin with a ring loop is jammed through a stop bracket on the pulley wheel to hold the brake arm rigid. Salt rust around the ring has been rubbed bright where fingers checked it recently. Beside the ladder, a dull rectangular block of pig iron hangs inside a wooden guide channel—the counterweight, suspended mid-shaft above the cellar. The rope still trembles slightly against the header. That's the weighted hum I heard through the baseboard pipes right after the latches clacked at 2:27.
+A cast-iron pulley is mounted under the header on the left, still strung with braided hemp rope hanging taut down the shaft. Whoever stripped the cab left the rigging; a removable steel locking pin with a ring loop is jammed through a stop bracket on the pulley wheel to hold the brake arm rigid. Salt rust around the ring has been rubbed bright where fingers checked it recently. Beside the ladder, a dull rectangular block of pig iron hangs inside a wooden guide channel—the counterweight, suspended mid-shaft above the cellar. The rope still trembles slightly against the header. That's the weighted hum I heard through the baseboard pipes right after the latches snapped at 2:27.
 
-This shaft drops straight past the basement fire door and its contact alarm. Between the fresh thumbprint in the dust and the 2:27 clack, somebody just used it.
+This shaft drops straight past the basement fire door and its contact alarm. Between the fresh thumbprint in the dust and the 2:27 snap, somebody just used it.
 
 I glance back through the louvered slats. The corridor is empty, the amber keypad LED glowing outside the deck door. Down there means poured concrete, zero cell service, and one narrow ladder back up. If someone comes into the kitchen and latches the spice rack from this side, I'm stuck until I find another exit.
 
@@ -1112,7 +1112,7 @@ Across the room, the fire door beneath the foyer stairs cracks open an inch—a 
 
 I spin around, clamping the envelope to my chest.
 
-A deadbolt slides home from the *outside* with a heavy thud that carries straight through the concrete under my heels.
+A deadbolt slides home from the *outside* with a loud grate of steel that carries straight through the concrete under my heels.
 
 Above the smooth brass plate, the pinpoint LED winks from dark to solid, glaring red.
 
@@ -1558,7 +1558,7 @@ Her thumbs stop on the glass. For a second the only sound in the boathouse is th
 
 "Right. That's why Cole had to hide your weekender behind Graham's coats."
 
-"Cole was supposed to strip the ferry tag off that bag before he hid it," she snaps. "Just like he was supposed to clean the sunroom floor without losing a key behind the molding. Two weeks of cleaning up after a small-town cop, and now I'm cleaning up after you. Everything in that house ran on my clock, Tessa. Including your five o'clock courier. I canceled him an hour ago."
+"Cole was supposed to strip the ferry tag off that bag before he hid it," she says, impatient. "Just like he was supposed to clean the sunroom floor without losing a key behind the molding. Two weeks of cleaning up after a small-town cop, and now I'm cleaning up after you. Everything in that house ran on my clock, Tessa. Including your five o'clock courier. I canceled him an hour ago."
 
 "The Coast Guard—"
 
@@ -1610,7 +1610,7 @@ Cole Halstead steps inside carrying a Maglite and a bundle of black zip ties. Ly
 
 "Watch her!" Lydia snaps. She tucks the iPad under one arm and swings the Glock back toward me.
 
-There is nowhere to hide in a twenty-foot box of wet cedar, and no time to think about how bad the math is. I drive up off my knees, duck under the bait table, and launch myself across the decking before she can clear Cole's shoulder. My sneakers slide on wet moss before the rubber bites. Cole turns a fraction too late. His left arm comes up to block me, and I drag the oyster knife hard across the meat of his wrist.
+There is nowhere to hide in a twenty-foot box of wet cedar, and no time to think about how bad the math is. I drive up off my knees, duck under the bait table, and launch myself across the decking before she can clear Cole's shoulder. My sneakers slide on wet moss before the rubber bites. Cole turns a step too late. His left arm comes up to block me, and I drag the oyster knife hard across the meat of his wrist.
 
 Steel rips through his windbreaker cuff into flesh. Cole curses and staggers backward into the stacked lobster traps. Wood slats crack under his shoulders. A loose buoy rolls against my shin. Dark blood wells over his knuckles. The Maglite bounces across the planks into the shadows. Zip ties scatter around his boots. Under the bottom trap, his heel comes down square on my phone. The screen cracks loud. Then the casing skids off the edge into the black slipway water. He clamps his right hand over the gash and blocks the narrow aisle between the bench and the open water.
 
