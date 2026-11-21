@@ -102,4 +102,4 @@ Graham's thumb hits the glass and wipes the banner gone. He keeps his back to th
 
 "Power surge trips the old basement sensors," he says, though the skin across the back of his neck has gone dark red. "Happens every November storm. Finish your soup, Tessa. We start the master closet at eight sharp."
 
-I pick up my spoon, take one cold bite of soup just to watch him squirm, and decide that tonight I'm going down those basement stairs whether he hears the latch or not.
+I pick up my spoon, take one cold bite of soup just to watch him squirm, and decide that the first chance he leaves this house empty, I'm finding out what's behind that basement door.

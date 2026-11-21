@@ -16,7 +16,7 @@ He hesitates, glancing toward the north hall. "The study rack only mirrors the h
 
 He doesn't argue. He grabs a dish towel off the kitchen counter to swab the floor and shove the boots into the coat closet. I duck into the guest room for my dry sneakers and lace up fast. I check my duffel.
 
-The cash is still under my shirts, but the side-pouch zipper is flipped outward. I yank it open. My spare Civic key fob is gone. Somebody lifted it while my back was turned, which explains how somebody got into my trunk without leaving a pry mark on the paint. I cross the north hall.
+The cash is still under my shirts, but the side-pouch zipper is flipped outward. I yank it open. My spare Civic key fob is gone. Somebody lifted it while my back was turned, which explains how somebody got into my trunk without leaving a pry mark on the paint. I drop the knotted glove finger from my pocket into the pouch, zip it shut, and cross the north hall.
 
 Graham's study is right opposite my room. Unlike the glass rooms out front, it's narrow and closed in, lined with dark acoustic baffling and walnut bookshelves. A steel server rack hums in the corner behind a smoked-glass door, blue and amber LEDs glowing inside.
 
@@ -108,4 +108,4 @@ I stare at the pulsing waveform. It's uncanny, hearing myself beg like that: cle
 
 On the left screen, the transmission log flashes green: the upload to the Knox County evidence drop just finished. Half a second later, a red banner drops across the network window locking down outbound internet access. Whoever holds admin access on Lydia's iPad just killed the router's upload path before our raw audio could leave the study.
 
-Out on the ridge, the driveway gate motor grinds open. I yank the USB cord out of the tower and shove my phone into my pocket. "Tell me you have a back door that doesn't face the gravel."
+Out on the ridge, the driveway gate motor grinds open. My eyes snap to the transfer bar crawling past sixty percent. "Tell me you have a back door that doesn't face the gravel."

@@ -40,9 +40,9 @@ I freeze on the ladder and lock one trembling knee over an iron bar to take weig
 
 "Finish the driveway check," Lydia says from the kitchen, her heels tapping across tile. The brisk, dry click of them makes me irrationally furious while I'm hanging in a spider-webbed chute like a drowned rat. "If she crawled back up those cliff stairs, she's going after the basement server."
 
-Cole's boots thud toward the island. "Wrist is bleeding straight through the cruiser gauze," he growls. A drawer slides open, then shuts with a sharp slap. "Don't drip on the limestone," Lydia snaps. "And tell me you didn't actually leave your service piece in the cove."
+Cole's boots thud toward the island. "Wrist is bleeding straight through the cruiser gauze," he growls. A drawer slides open, then shuts with a sharp slap. "Don't drip on the limestone," Lydia snaps. "And next time try keeping your footing before you knock my gun into the cove."
 
-"You're the one who shoved the boat hook into my ribs," Cole shoots back, his voice dropping ugly and tight. "High water's twenty minutes off the causeway. We don't have time to babysit a server rack if the road floods out."
+"You're the one who told me she was tied up," Cole shoots back, his voice dropping ugly and tight. "High water's twenty minutes off the causeway. We don't have time to babysit a server rack if the road floods out."
 
 "We leave that drive intact and we don't leave at all. Grab Graham's key ring off the study desk, get down to the cellar, and smash the thing if she's not already in there."
 

@@ -64,4 +64,4 @@ For two seconds the house goes dead silent, save for the wind rattling the sash 
 
 I shove my phone into my pocket and back away toward the flat-files, my heart climbing straight into my throat. A stair tread creaks up from the landing—the same board I stepped on five minutes ago. Slow weight shifts across the upstairs runner, then stops right outside the cracked studio door.
 
-Out in the hall, the doorknob turns, and I say loudly into the dark, "Your wife's window is painted shut."
+Out in the hall, the doorknob turns. I step fast toward the flat-files and reach for the brass desk lamp in the dark.

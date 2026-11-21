@@ -76,4 +76,4 @@ He studies me for a second before answering and taps his fingers against the rai
 
 I head out through the mudroom onto the porch. Salt wind hits my face, and the breakwater buoy clangs somewhere out in the gray. My Civic sits beside Graham's Audi, small and rusted against the wet pines, with a fresh smear of needles across the hood. I get in, shut the door, and sit for a second with the cold vinyl under my legs. Mist gathers along the inside of the windshield. The key turns, the engine catches with its usual rattle, and the defroster blows cold air against the glass.
 
-Before I put it in reverse, I glance up at the second-floor bedroom window. Graham is standing right behind the glass, watching the car. I throw the Civic into reverse anyway, crank the radio up to drown out the rattling muffler shield, and decide I'm not taking his harbor route.
+Before I put it in reverse, I glance up at the second-floor bedroom window. Graham is standing right behind the glass, watching the car. I throw the Civic into reverse anyway and crank the radio up to drown out the rattling muffler shield.

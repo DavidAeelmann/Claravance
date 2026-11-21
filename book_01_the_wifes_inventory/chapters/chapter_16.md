@@ -6,7 +6,7 @@ The gate motor clicks off behind him, and a pair of amber parking lights glides 
 
 "I won't make it past the causeway in the Civic." My eyes stay locked on the phone screen as the USB transfer from the tower hits ninety-six percent and pulls the raw pantry recording onto my phone. "There's a bleach-stained rag in my spare-tire well, and Knox County already has a spliced confession in my voice. The minute I hit Route 1, Cole puts out a bulletin and drags me out of my seat."
 
-The phone chimes—transfer complete. I yank the thumb drive from the tower and open my encrypted cloud queue. The router override has killed the house Wi-Fi. Only one weak bar of signal flickers in the corner. I bundle the audio file with the life-vest tag photos and the Bramwell & Shaw default letter, address the packet to Samira Patel in Portland, type four words—*Salt Point setup. Call MSP.*—and hit *Send*.
+The phone chimes—transfer complete. I unplug the USB cord, yank the thumb drive from the tower, and open my encrypted cloud queue. The router override has killed the house Wi-Fi. Only one weak bar of signal flickers in the corner. I bundle the audio file with the life-vest tag photos and the Bramwell & Shaw default letter, address the packet to Samira Patel in Portland, type four words—*Salt Point setup. Call MSP.*—and hit *Send*.
 
 The wheel spins. Six percent. Twelve. Wind slams the north siding, the signal bar drops to zero, and a red timeout banner snaps across the glass. I step toward the side window, holding the phone high against the cold pane like an idiot trying to catch radio waves in a tin can, and try plain SMS twice. Nothing leaves the screen. Outside, gravel crunches under heavy tires as the cruiser clears the final bend, its engine idling low off the granite wall behind the garage. Waiting here another thirty seconds for a stray bar of service means handing Cole the phone myself.
 
@@ -66,7 +66,7 @@ My sneakers hit damp cedar decking with a dull thud. The dark room smells of sta
 
 Suspended low from the rafters on rope slings at shoulder height, a yellow fiberglass sea kayak sways almost imperceptibly in the draft from the open window behind me, its hull blocking off the back corner of the room.
 
-I crouch beside the bench and let my eyes adjust, waiting for the shapes in the gloom to separate from the shadows. Up above the cliff edge, a car door thuds shut in the driveway. Cole's cruiser. Three minutes, maybe less, before he stops playing along with Graham and walks around to the back deck.
+I crouch beside the bench and let my eyes adjust, waiting for the shapes in the gloom to separate from the shadows. Cole's already at the front porch. Three minutes, maybe less, before he stops playing along with Graham and walks around to the back deck.
 
 I ease upright and move along the workbench, my fingers brushing past a tin can of rusted nails and a tangle of braided nylon line. Two plastic gallon jugs are tucked beneath a folded blue tarp on the lower shelf, one unlabeled and the other carrying a faded industrial bleach warning. A pair of cedar oars rests beside them, fresh pale scratches cutting through the varnish on the blades—a match for the wet rag squeaking along varnished wood on the 2:14 AM recording.
 

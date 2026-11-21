@@ -2,9 +2,9 @@
 
 The red LED above the fire door burns against the concrete.
 
-I drop the envelope onto the worktable and press my ear to the steel. Slow, soft-soled footsteps climb the basement stairs on the other side and cross the foyer. They head toward the kitchen arch. A second later, a chair leg scrapes across tile.
+I pull the envelope back out, drop it onto the worktable, and press my ear to the steel. Slow, soft-soled footsteps climb the basement stairs on the other side and cross the foyer. They head toward the kitchen arch. A second later, a chair leg scrapes across tile.
 
-I don't bother with **B-4**. This side of the door is smooth steel, capped over the inside lock cutout with a solid brass plate so a hollow keyhole wouldn't leak stairwell noise into Graham's directional mics. Once that deadbolt throws from the landing, the chamber is sealed.
+I glance down at **B-4** in my palm, then slip it back into my pocket. This side of the door is smooth steel, capped over the inside lock cutout with a solid brass plate so a hollow keyhole wouldn't leak stairwell noise into Graham's directional mics. Once that deadbolt throws from the landing, the chamber is sealed.
 
 Which leaves the dumbwaiter shaft.
 

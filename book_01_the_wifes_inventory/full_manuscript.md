@@ -132,7 +132,7 @@ Below it, the date stamp is dry and black.
 
 **OCT 17.**
 
-Right over the main hall, a floorboard pops. I shove the tag back under the leather handle, kick the closet door shut before the latch can catch, and reach for my duffel.
+Right over the main hall, a floorboard pops. I shove the tag back under the leather handle as footsteps start toward the stairs.
 
 ---
 
@@ -202,7 +202,7 @@ For two seconds the house goes dead silent, save for the wind rattling the sash 
 
 I shove my phone into my pocket and back away toward the flat-files, my heart climbing straight into my throat. A stair tread creaks up from the landing—the same board I stepped on five minutes ago. Slow weight shifts across the upstairs runner, then stops right outside the cracked studio door.
 
-Out in the hall, the doorknob turns, and I say loudly into the dark, "Your wife's window is painted shut."
+Out in the hall, the doorknob turns. I step fast toward the flat-files and reach for the brass desk lamp in the dark.
 
 ---
 
@@ -396,7 +396,7 @@ He studies me for a second before answering and taps his fingers against the rai
 
 I head out through the mudroom onto the porch. Salt wind hits my face, and the breakwater buoy clangs somewhere out in the gray. My Civic sits beside Graham's Audi, small and rusted against the wet pines, with a fresh smear of needles across the hood. I get in, shut the door, and sit for a second with the cold vinyl under my legs. Mist gathers along the inside of the windshield. The key turns, the engine catches with its usual rattle, and the defroster blows cold air against the glass.
 
-Before I put it in reverse, I glance up at the second-floor bedroom window. Graham is standing right behind the glass, watching the car. I throw the Civic into reverse anyway, crank the radio up to drown out the rattling muffler shield, and decide I'm not taking his harbor route.
+Before I put it in reverse, I glance up at the second-floor bedroom window. Graham is standing right behind the glass, watching the car. I throw the Civic into reverse anyway and crank the radio up to drown out the rattling muffler shield.
 
 ---
 
@@ -580,7 +580,7 @@ Graham's thumb hits the glass and wipes the banner gone. He keeps his back to th
 
 "Power surge trips the old basement sensors," he says, though the skin across the back of his neck has gone dark red. "Happens every November storm. Finish your soup, Tessa. We start the master closet at eight sharp."
 
-I pick up my spoon, take one cold bite of soup just to watch him squirm, and decide that tonight I'm going down those basement stairs whether he hears the latch or not.
+I pick up my spoon, take one cold bite of soup just to watch him squirm, and decide that the first chance he leaves this house empty, I'm finding out what's behind that basement door.
 
 ---
 
@@ -760,7 +760,7 @@ He turns back to the breaker box, pops the latch, and pulls the jumper wire off 
 
 Halstead closes the panel, scans the floor once more for stray tracks, and walks straight to the deck door. He steps out into the rain, pulls the door shut, and taps the lock key on the outside pad. The electronic deadbolt slides home, and the LED blinks back to steady amber.
 
-I count to thirty, then sixty, waiting for him to double back and test the handle. Only the rain answers. The second he clears the deck stairs, I shove the louvered door open, kick a loose tin of paprika out of my path, and start prying at the false paneling behind the spice shelf.
+I count to thirty, then sixty, waiting for him to double back and test the handle. Only the rain answers. I ease the louvered door open, glance at the stove clock—Graham's due back from Portland before long—and decide whatever's behind these shelves can wait until after I talk to Maren Lindqvist.
 
 ---
 
@@ -1078,9 +1078,9 @@ A deadbolt slides home from the *outside* with a loud grate of steel. Did whoeve
 
 The red LED above the fire door burns against the concrete.
 
-I drop the envelope onto the worktable and press my ear to the steel. Slow, soft-soled footsteps climb the basement stairs on the other side and cross the foyer. They head toward the kitchen arch. A second later, a chair leg scrapes across tile.
+I pull the envelope back out, drop it onto the worktable, and press my ear to the steel. Slow, soft-soled footsteps climb the basement stairs on the other side and cross the foyer. They head toward the kitchen arch. A second later, a chair leg scrapes across tile.
 
-I don't bother with **B-4**. This side of the door is smooth steel, capped over the inside lock cutout with a solid brass plate so a hollow keyhole wouldn't leak stairwell noise into Graham's directional mics. Once that deadbolt throws from the landing, the chamber is sealed.
+I glance down at **B-4** in my palm, then slip it back into my pocket. This side of the door is smooth steel, capped over the inside lock cutout with a solid brass plate so a hollow keyhole wouldn't leak stairwell noise into Graham's directional mics. Once that deadbolt throws from the landing, the chamber is sealed.
 
 Which leaves the dumbwaiter shaft.
 
@@ -1180,7 +1180,7 @@ He stops dead beside the steel jamb. He looks down at the pipe wrench as if he's
 
 "And you didn't think to check the cellar?"
 
-"I heard the darkroom fans pulling power," he says, pausing on the landing to catch his breath. "The fire door's exterior contact sensor chimes on the upstairs panel even when the keypad is bypassed, so whoever dropped down that dumbwaiter shaft used the chute to pull clean voice samples of you off the Zone Four mic array without tripping the house log. They couldn't crack my passphrase, though, and when they climbed back up and lifted my keys to check the basement, they spotted you moving inside the darkroom. The bass traps must've blocked their view of the pried cabinet. Throwing that deadbolt and jamming the pantry was an emergency move to keep you locked down here while they ran, tossing my keys back by the sofa assuming I'd stay out cold till noon. Come up. If I wanted you buried down there, I wouldn't have turned the key."
+"I heard the darkroom fans pulling power," he says, pausing on the landing to catch his breath. "The fire door's exterior contact sensor chimes on the upstairs panel even when the keypad is bypassed, so whoever dropped down that dumbwaiter shaft used the chute to pull raw voice samples of you off the unencrypted mic buffer without tripping the house log. They climbed back out, heard you moving in the kitchen—or heard the cabinet latch snap—and lifted my keys off the sofa to check the stairwell. When they cracked the fire door and saw the blue monitors glowing with you inside, throwing that deadbolt and jamming the pantry was an emergency move to keep you pinned down here while they ran. The bass traps must've blocked their view of the pried cabinet. They tossed my keys back by the sofa assuming I'd stay out cold till noon. Come up. If I wanted you buried down there, I wouldn't have turned the key."
 
 ***
 
@@ -1280,7 +1280,7 @@ He hesitates, glancing toward the north hall. "The study rack only mirrors the h
 
 He doesn't argue. He grabs a dish towel off the kitchen counter to swab the floor and shove the boots into the coat closet. I duck into the guest room for my dry sneakers and lace up fast. I check my duffel.
 
-The cash is still under my shirts, but the side-pouch zipper is flipped outward. I yank it open. My spare Civic key fob is gone. Somebody lifted it while my back was turned, which explains how somebody got into my trunk without leaving a pry mark on the paint. I cross the north hall.
+The cash is still under my shirts, but the side-pouch zipper is flipped outward. I yank it open. My spare Civic key fob is gone. Somebody lifted it while my back was turned, which explains how somebody got into my trunk without leaving a pry mark on the paint. I drop the knotted glove finger from my pocket into the pouch, zip it shut, and cross the north hall.
 
 Graham's study is right opposite my room. Unlike the glass rooms out front, it's narrow and closed in, lined with dark acoustic baffling and walnut bookshelves. A steel server rack hums in the corner behind a smoked-glass door, blue and amber LEDs glowing inside.
 
@@ -1372,7 +1372,7 @@ I stare at the pulsing waveform. It's uncanny, hearing myself beg like that: cle
 
 On the left screen, the transmission log flashes green: the upload to the Knox County evidence drop just finished. Half a second later, a red banner drops across the network window locking down outbound internet access. Whoever holds admin access on Lydia's iPad just killed the router's upload path before our raw audio could leave the study.
 
-Out on the ridge, the driveway gate motor grinds open. I yank the USB cord out of the tower and shove my phone into my pocket. "Tell me you have a back door that doesn't face the gravel."
+Out on the ridge, the driveway gate motor grinds open. My eyes snap to the transfer bar crawling past sixty percent. "Tell me you have a back door that doesn't face the gravel."
 
 ---
 
@@ -1384,7 +1384,7 @@ The gate motor clicks off behind him, and a pair of amber parking lights glides 
 
 "I won't make it past the causeway in the Civic." My eyes stay locked on the phone screen as the USB transfer from the tower hits ninety-six percent and pulls the raw pantry recording onto my phone. "There's a bleach-stained rag in my spare-tire well, and Knox County already has a spliced confession in my voice. The minute I hit Route 1, Cole puts out a bulletin and drags me out of my seat."
 
-The phone chimes—transfer complete. I yank the thumb drive from the tower and open my encrypted cloud queue. The router override has killed the house Wi-Fi. Only one weak bar of signal flickers in the corner. I bundle the audio file with the life-vest tag photos and the Bramwell & Shaw default letter, address the packet to Samira Patel in Portland, type four words—*Salt Point setup. Call MSP.*—and hit *Send*.
+The phone chimes—transfer complete. I unplug the USB cord, yank the thumb drive from the tower, and open my encrypted cloud queue. The router override has killed the house Wi-Fi. Only one weak bar of signal flickers in the corner. I bundle the audio file with the life-vest tag photos and the Bramwell & Shaw default letter, address the packet to Samira Patel in Portland, type four words—*Salt Point setup. Call MSP.*—and hit *Send*.
 
 The wheel spins. Six percent. Twelve. Wind slams the north siding, the signal bar drops to zero, and a red timeout banner snaps across the glass. I step toward the side window, holding the phone high against the cold pane like an idiot trying to catch radio waves in a tin can, and try plain SMS twice. Nothing leaves the screen. Outside, gravel crunches under heavy tires as the cruiser clears the final bend, its engine idling low off the granite wall behind the garage. Waiting here another thirty seconds for a stray bar of service means handing Cole the phone myself.
 
@@ -1444,7 +1444,7 @@ My sneakers hit damp cedar decking with a dull thud. The dark room smells of sta
 
 Suspended low from the rafters on rope slings at shoulder height, a yellow fiberglass sea kayak sways almost imperceptibly in the draft from the open window behind me, its hull blocking off the back corner of the room.
 
-I crouch beside the bench and let my eyes adjust, waiting for the shapes in the gloom to separate from the shadows. Up above the cliff edge, a car door thuds shut in the driveway. Cole's cruiser. Three minutes, maybe less, before he stops playing along with Graham and walks around to the back deck.
+I crouch beside the bench and let my eyes adjust, waiting for the shapes in the gloom to separate from the shadows. Cole's already at the front porch. Three minutes, maybe less, before he stops playing along with Graham and walks around to the back deck.
 
 I ease upright and move along the workbench, my fingers brushing past a tin can of rusted nails and a tangle of braided nylon line. Two plastic gallon jugs are tucked beneath a folded blue tarp on the lower shelf, one unlabeled and the other carrying a faded industrial bleach warning. A pair of cedar oars rests beside them, fresh pale scratches cutting through the varnish on the blades—a match for the wet rag squeaking along varnished wood on the 2:14 AM recording.
 
@@ -1648,9 +1648,9 @@ I freeze on the ladder and lock one trembling knee over an iron bar to take weig
 
 "Finish the driveway check," Lydia says from the kitchen, her heels tapping across tile. The brisk, dry click of them makes me irrationally furious while I'm hanging in a spider-webbed chute like a drowned rat. "If she crawled back up those cliff stairs, she's going after the basement server."
 
-Cole's boots thud toward the island. "Wrist is bleeding straight through the cruiser gauze," he growls. A drawer slides open, then shuts with a sharp slap. "Don't drip on the limestone," Lydia snaps. "And tell me you didn't actually leave your service piece in the cove."
+Cole's boots thud toward the island. "Wrist is bleeding straight through the cruiser gauze," he growls. A drawer slides open, then shuts with a sharp slap. "Don't drip on the limestone," Lydia snaps. "And next time try keeping your footing before you knock my gun into the cove."
 
-"You're the one who shoved the boat hook into my ribs," Cole shoots back, his voice dropping ugly and tight. "High water's twenty minutes off the causeway. We don't have time to babysit a server rack if the road floods out."
+"You're the one who told me she was tied up," Cole shoots back, his voice dropping ugly and tight. "High water's twenty minutes off the causeway. We don't have time to babysit a server rack if the road floods out."
 
 "We leave that drive intact and we don't leave at all. Grab Graham's key ring off the study desk, get down to the cellar, and smash the thing if she's not already in there."
 

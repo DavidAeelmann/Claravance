@@ -86,4 +86,4 @@ He turns back to the breaker box, pops the latch, and pulls the jumper wire off 
 
 Halstead closes the panel, scans the floor once more for stray tracks, and walks straight to the deck door. He steps out into the rain, pulls the door shut, and taps the lock key on the outside pad. The electronic deadbolt slides home, and the LED blinks back to steady amber.
 
-I count to thirty, then sixty, waiting for him to double back and test the handle. Only the rain answers. The second he clears the deck stairs, I shove the louvered door open, kick a loose tin of paprika out of my path, and start prying at the false paneling behind the spice shelf.
+I count to thirty, then sixty, waiting for him to double back and test the handle. Only the rain answers. I ease the louvered door open, glance at the stove clock—Graham's due back from Portland before long—and decide whatever's behind these shelves can wait until after I talk to Maren Lindqvist.

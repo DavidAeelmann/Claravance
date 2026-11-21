@@ -126,4 +126,4 @@ Below it, the date stamp is dry and black.
 
 **OCT 17.**
 
-Right over the main hall, a floorboard pops. I shove the tag back under the leather handle, kick the closet door shut before the latch can catch, and reach for my duffel.
+Right over the main hall, a floorboard pops. I shove the tag back under the leather handle as footsteps start toward the stairs.
