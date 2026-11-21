@@ -10,9 +10,9 @@ My Civic sits by the spruces with its trunk lid hovering open in the mist. The d
 
 I crouch below the sidelights. Rain hammers the slate behind me, loud enough to cover my breathing. Inside, the front entry lies in deep shadow, the living room arch beyond it dark too. A branch scrapes against the clapboard somewhere overhead. Then a floorboard creaks down the north hall, near Graham's study. Lydia.
 
-My numb fingertips catch the house key in my pocket. When I try to line it up with the deadbolt, my thumb has zero pinch left; the key slips and hits the slate sill with a sharp *tink* that freezes me against the door. I scoop it up between stiff palms, clamp the bow in my knuckles, and lean my shoulder into the turn. The cylinder gives with a soft click. I ease the door open and step inside. One sneaker squeaks on the stone.
+I fumble the house key out of my pocket and drop it on the slate sill before I can even find the keyhole. Stupid cold hands. I scoop it up between stiff palms, force the lock to turn, and slip inside. One sneaker squeaks on the stone.
 
-I stop beside the coat closet and listen. Down the north hall, my guest room door stands half-open. The house feels hollow around me, just wind rattling the tall living room windows and the steady hum of cooling fans drifting from the study. A shiver runs through my shoulders, and I clamp my jaw shut to keep steady.
+I stop beside the coat closet and listen. Down the north hall, my guest room door stands half-open. The house feels hollow around me, just wind rattling the tall living room windows and the hum of cooling fans drifting from the study. A shiver runs through my shoulders, and I pull my arms in tight.
 
 I tuck the oyster knife into my waistband and cross toward the kitchen arch. The manila envelope from the basement lies on the limestone island, its `OCT 14 — MASTER BACKUP` stamp pale in the dim light. I leave it there. Lydia's live boathouse confession is sitting on the cellar server, and that's what I came back for.
 
@@ -38,7 +38,7 @@ Cole is back.
 
 I freeze on the ladder and lock one trembling knee over an iron bar to take weight off my wrist. Cold water drips off my hem into the dark below, each *plink* against the cellar floor sounding louder than it has any right to.
 
-"I'm finishing Graham's note on the tablet now," Lydia says from the kitchen, her heels tapping across tile. The brisk, dry click of them makes me irrationally furious as I hang in a spider-webbed chute like a drowned rat. "Once I drop it beside him in the sunroom, check the study. She copied the pantry recording off the tower before she ran for the cove. If she crawled back up those cliff stairs half-drowned, she's going after the basement drive."
+"I'm finishing Graham's note on the tablet now," Lydia says from the kitchen, her heels tapping across tile. The brisk, dry click of them makes me irrationally furious. I'm hanging in a spider-webbed chute like a drowned rat. "Once I drop it beside him in the sunroom, check the study. She copied the pantry recording off the tower before she ran for the cove. If she crawled back up those cliff stairs half-drowned, she's going after the basement drive."
 
 Cole's boots thud toward the island. "Wrist is bleeding straight through the cruiser gauze," he growls. A drawer slides open, then shuts with a sharp slap. "Don't drip on the limestone," Lydia snaps, and Cole lets out a short, ugly laugh. "Did your father's people actually clear that offshore transfer, or am I bleeding out here on a promise?"
 

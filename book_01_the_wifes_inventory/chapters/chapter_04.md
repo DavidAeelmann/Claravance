@@ -78,8 +78,8 @@ He studies me for a second before answering and taps his fingers against the rai
 
 "Will do."
 
-I head out through the mudroom onto the porch. Salt wind hits my face, and the breakwater buoy clangs somewhere out in the gray. My Civic sits beside Graham's Audi, small and rusted against the wet spruces, with a fresh smear of pine needles across the hood. I get in, shut the door, and sit for a second with the cold vinyl under my legs as mist gathers along the inside of the windshield. The key turns, the engine catches with its usual rattle, and the defroster blows cold air against the glass.
+I head out through the mudroom onto the porch. Salt wind hits my face, and the breakwater buoy clangs somewhere out in the gray. My Civic sits beside Graham's Audi, small and rusted against the wet spruces, with a fresh smear of pine needles across the hood. I get in, shut the door, and sit for a second with the cold vinyl under my legs. Mist gathers along the inside of the windshield. The key turns, the engine catches with its usual rattle, and the defroster blows cold air against the glass.
 
 Before I put it in reverse, I glance up at the tall panes of the second-floor master bedroom.
 
-He didn't go back inside. He's standing right at the glass with one palm pressed flat against it, watching my car as gray fog curls under the eaves behind him.
+He's standing right at the glass with one palm pressed flat against it, watching my car. Gray fog curls under the eaves behind him.

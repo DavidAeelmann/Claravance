@@ -18,7 +18,7 @@ I back into the shaft, pull the spice-rack panel shut, and climb down into the c
 
 A chill settles deep in my shoulders before I can stop it. I pull my sleeves down over my wrists and stare at the envelope stamped `OCT 14 — MASTER BACKUP / DO NOT OPEN BEFORE PROBATE`.
 
-Whoever locked me in didn't touch the servers or come back for the cabinet. They didn't seal me down here to starve, either; they just bought themselves three hours upstairs before daylight. If Graham really is out cold in his chair, somebody else is walking around his kitchen in socks at two-thirty in the morning.
+Whoever locked me in didn't touch the servers or come back for the cabinet. They sealed me down here to buy themselves three hours upstairs before daylight. If Graham really is out cold in his chair, somebody else is walking around his kitchen in socks at two-thirty in the morning.
 
 I slice the red tamper-evident tape with my multi-tool and pry the brass clasp open.
 
@@ -28,9 +28,9 @@ Four things slide out onto the table: a bound sheaf of financial schedules, thre
 
 The cover page and schedules form a backdated trust packet dated October tenth, four days before the storm. It bundles six draws pulled over fourteen months to make past unauthorized transfers look approved after the fact. Graham's execution page carries the raised notary seal of a Boston firm, backed by wire receipts, bridge-loan ledgers, and collateral schedules showing $2,400,000 moved out of the Lydia Kiefer Irrevocable Trust to keep Kiefer Soundworks alive while his acoustic patent sat in federal review.
 
-On each of the six draw schedules, Lydia's secondary initials appear in cramped blue ink, stiff along the curves. The *L* looks careful and boxy, nothing like the fast, unbothered *L.K.* loops on the three pages cut from the back of her studio sketchbook. Their margins are covered in Graham's penciled practice runs and small tick marks, row after row of him trying to copy her slant.
+On each of the six draw schedules, Lydia's secondary initials appear in stiff blue ink, tight along the curves. The *L* looks careful and boxy, nothing like the fast, loose *L.K.* loops on the three pages cut from the back of her studio sketchbook. Their margins are covered in Graham's penciled practice runs and small tick marks, row after row of him trying to copy her slant.
 
-The same *Bramwell & Shaw* default notice I photographed upstairs is clipped to the back. Graham didn't just miss a loan deadline. Hand this packet and the sketchbook pages to a prosecutor, and you don't need a body to build a wire-fraud case. Whoever is framing him isn't after a fraud indictment; they need murder.
+The same *Bramwell & Shaw* default notice I photographed upstairs is clipped to the back. Graham didn't just miss a loan deadline. Hand this packet and the sketchbook pages to a prosecutor, and you don't need a body to build a wire-fraud case. Whoever is framing him needs a murder charge to stick.
 
 I push the financial sheets aside and flip open the spiral-bound printout of the October fourteenth overnight audio. Unlike the filtered clips on the monitor, this was printed straight from the raw audio feed before anyone ran noise reduction.
 
@@ -56,7 +56,7 @@ Past four in the morning, the cold coming up through the concrete has worked str
 
 I pace the rubber mats to keep feeling in my heels, steering clear of the foam-lined northeast corner where the room bounce goes completely dead. It's an unsettling sensation, walking into a corner that swallows even the brush of wool on rubber matting. Every half hour I check my phone anyway, even though I know better. Still zero bars. At least the *Bramwell & Shaw* photos pushed to my encrypted Portland vault before I came down the shaft, so even if whoever locked that door smashes my phone on the concrete, they can't touch what's already off-site.
 
-Around five, the battery unit under the rack clicks once as its cooling fan cycles down, and for a few seconds the darkroom drops into a silence so thick I can hear the blood ticking behind my left ear. Then the fan hums back up, steady and low. My eyes burn from the blue monitor glare, and I have to force myself to keep pacing so I don't drift off standing against the edge of the table.
+Around five, the battery unit under the rack clicks once as its cooling fan cycles down, and for a few seconds the darkroom drops into a silence so thick I can hear the blood ticking behind my left ear. Then the fan hums back up, even and low. My eyes burn from the blue monitor glare, and I have to force myself to keep pacing so I don't drift off standing against the edge of the table.
 
 I peel the thumb drive off the yellow index card and tuck it deep into my jeans watch pocket beside Maren's torn tide strip. Then I slide the trust packet, the sketchbook pages, and the raw transcript back into the envelope and lean against the worktable to wait out the dark. By five-thirty my knuckles are stiff enough that I have to shove my hands under my arms just to bend my fingers.
 

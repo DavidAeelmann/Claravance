@@ -42,7 +42,7 @@ I step into his lane and bring the oyster knife up until the pitted point hovers
 
 He takes half a breath, and panic drops out of his voice, replaced by that smooth executive cadence from Monday night, torn collar and all. "Stop and do the math! Think about tomorrow morning if you hand those sheets to state police. Bramwell and Shaw refers the forgery to the DA, Kiefer Soundworks' accounts freeze, and the Arlington buyout dies in escrow before Monday. I default, you never see your ten-thousand-dollar completion check, Harbor Mutual levies your account, and your landlord locks your Portland place by Thanksgiving. You walk off this rock bleeding, freezing, and broke. A fired adjuster who broke a setup and got nothing to show for it."
 
-He edges closer to the burner. He holds the papers steady and doesn't blink at the knife. "Let them burn, Tessa. Nobody gets hurt. Lydia and Cole still do time on the pantry recording. My Arlington buyout closes Monday. I pay off your entire eighteen-thousand-four-hundred-and-twelve-dollar judgment before noon, restore your adjuster's surety bond, and wire fifty thousand into your checking as a clean consulting fee. You get your life back tonight."
+He edges closer to the burner. He holds the papers out and doesn't blink at the knife. "Let them burn, Tessa. Nobody gets hurt. Lydia and Cole still do time on the pantry recording. My Arlington buyout closes Monday. I pay off your entire eighteen-thousand-four-hundred-and-twelve-dollar judgment before noon, restore your adjuster's surety bond, and wire fifty thousand into your checking as a clean consulting fee. You get your life back tonight."
 
 Cold brine drips off my flannel cuffs onto the tile, and my shoulders won't stop shaking. I don't yank the envelope away right away. A cleared docket, a real bank account again, my license back. It's right there, two seconds from ash. Nobody died over six wire transfers, and Lydia is the one trying to drown us both before high tide. All I have to do is lower my arm, let the flame catch the corner of the top page, and step back.
 
@@ -62,7 +62,7 @@ The blue flame dies. Graham stares at me, his arms dropping loose at his sides, 
 
 I march him past the foyer arch into the north hall and my guest room, the knife low at my side. Every step through the dark house feels too loud, my wet sneakers squeaking against the pine floorboards, Graham's breathing echoing off the plaster. He tries to slow down at the threshold, glancing back toward the kitchen, so I catch his elbow and shove him inside ahead of me.
 
-Inside, the radiator ticks as the boiler cycles down. My duffel is against the wall. I yank it open, shove the envelope underneath my spare clothes, and reach behind the pipes for the store bag with Cole's left-handed yellow warning slip tucked inside. Everything goes into the bag, zipped tight.
+Inside, the radiator ticks. The boiler is cycling down. My duffel is against the wall. I yank it open, shove the envelope underneath my spare clothes, and reach behind the pipes for the store bag with Cole's left-handed yellow warning slip tucked inside. Everything goes into the bag, zipped tight.
 
 I pull a dry wool sweater over my freezing flannel and sling the duffel over my shoulder. The wool hangs heavy and itchy against my neck, and my jaw aches from clenching my teeth. Still, the dry knit quiets the worst of my shivering so I can think.
 

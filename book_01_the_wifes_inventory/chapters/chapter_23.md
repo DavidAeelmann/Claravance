@@ -18,7 +18,7 @@ I'm not leaving my laptop in the car off the waterfront, so I pocket the bond le
 
 ***
 
-Ten minutes later, I push through the glass door of Becky's Diner on Commercial Street. Heat from the flat-top hits me first, thick with fried bacon. Two sternmen in salt-stained bibs are arguing over diesel prices at the counter, and out past the fogged front window, lobster boats idle along the working pier as gulls turn through gray morning mist. I drop my duffel on the vinyl bench of a corner booth and slide in facing the street.
+Ten minutes later, I push through the glass door of Becky's Diner on Commercial Street. Heat from the flat-top hits me first, thick with fried bacon. Two sternmen in salt-stained bibs are arguing over diesel prices at the counter, and out past the fogged front window, lobster boats idle along the working pier. Gulls turn through gray morning mist. I drop my duffel on the vinyl bench of a corner booth and slide in facing the street.
 
 The waitress tops off a chipped mug before I ask, her pencil tucked behind one ear, and I pull out the printed marine-insurance application I brought to look over before ten. Half the questions are standard underwriting boilerplate, the kind of thing I used to fill out with my eyes closed, except my left wrist still stiffens whenever I try to write for more than a minute.
 
@@ -40,7 +40,7 @@ I read the card and look up at her.
 
 "He did." Margot rests her gloved hands on top of her briefcase. "Graham funded a separate escrow before the Arlington deal closed. When he came down to Portland Wednesday—right after shoving your deadline into a gale—I saw your name on the voucher and tacked on thirty-five hundred for the storm myself. His arrest killed the buyout, but the escrow still pays out to whichever contractor turned in an honest accounting."
 
-She pauses as the waitress walks past with a fresh carafe and waits until the booth behind us empties out.
+She pauses until the waitress walks past with a fresh carafe and the booth behind us empties out.
 
 "You handed over two-point-four million dollars' worth of forged trust records when you could have taken fifty thousand over a gas burner and walked away," Margot says in a low voice. "Most people sitting under a Monday bank levy take the cash."
 

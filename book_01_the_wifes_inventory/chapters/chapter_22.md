@@ -20,7 +20,7 @@ Graham catches it, hesitates, then turns and works the double-keyed lock beside 
 
 "Hands up! Both of you, off the woman on the floor!"
 
-I lift both hands and step back off Lydia's wrist as the lead trooper drops down and snaps steel cuffs behind her back.
+I lift both hands and step back off Lydia's wrist. The lead trooper drops down and snaps steel cuffs behind her back.
 
 "That drive by the stairs came off the study tower," I tell him, nodding toward the tiles. "And keep everybody out of the upstairs studio. There's a silver Montblanc on the desk that needs latent prints before anyone touches it."
 
@@ -82,11 +82,11 @@ Ward studies the envelope before looking up at me. "You worked for him under an 
 
 An hour later, the gale has died down to a cold drizzle. Most of the cruisers have pulled out, and the ambulance bay hums under overhead LEDs. Down by the cove, a portable generator still drones outside the boathouse while crime-scene techs finish bagging the gear.
 
-I sit on the metal ambulance step with a paper cup of burnt black coffee warming my palms as a paramedic clips the last thread on three neat stitches across my left wrist and tapes fresh gauze over the seam. He's maybe twenty-five, humming something under his breath as he works, treating a slashed wrist like a routine kitchen nick. The wool blanket smells of bleach, and the coffee tastes like scorched cardboard, though I drink half of it anyway because my hands need something warm to hold.
+I sit on the ambulance step, hands wrapped around a paper cup of burnt coffee. A paramedic who can't be older than twenty-five snips the last thread on my wrist and tapes down fresh gauze. He hums under his breath the whole time, like he's patching up a kitchen nick. The wool blanket smells of bleach, and the coffee tastes like scorched cardboard, though I drink half of it anyway because my hands need something warm to hold.
 
 Detective Ward walks back over from the yellow tape strung across the Kiefer porch, his boots crunching on wet gravel. In his gloved hand he carries a pink property receipt and a clear evidence bag holding my waterlogged phone. A trooper fished it off a submerged slipway cross-beam with a boat hook before the surge could wash it out into the bay.
 
-"Preliminary inventory on the house and Mr. Kiefer's coat is wrapped," Ward says as he stops under the yellow bay light. "Coat pockets held his Audi fob and a Portland fiduciary courier receipt—nothing else. Your Civic's trunk is shot and cleared; flatbed can pull you off once the tide drops below the culvert."
+"Preliminary inventory on the house and Mr. Kiefer's coat is wrapped," Ward says, stopping under the yellow bay light. "Coat pockets held his Audi fob and a Portland fiduciary courier receipt—nothing else. Your Civic's trunk is shot and cleared; flatbed can pull you off once the tide drops below the culvert."
 
 I set the coffee down and sign the clipboard. "What about the five-thousand-dollar cash retainer in my duffel?"
 

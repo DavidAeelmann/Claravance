@@ -18,7 +18,7 @@ Maren stands under the tin awning beside black plastic oyster cages, pulling rub
 
 "I'm not leaving tonight, Maren." I stop just outside the spill of the bulb. "And we both know Deputy Halstead didn't walk into the Kiefer house at eleven this morning to check a mooring line."
 
-She sets the knife down with a dull *clack* and tugs both gloves off, her knuckles red and swollen from brine.
+She sets the knife down and tugs both gloves off, her knuckles red and swollen from brine.
 
 "Didn't see any deputy." She turns back to her cages. "I was out on the outer lines till noon."
 
@@ -34,7 +34,7 @@ She stands there a second listening to chop slap her skiff and wind rattle the t
 
 "Get inside before somebody on the ridge spots you." She bumps the plank door open with her hip.
 
-The sorting shed is cramped, damp, and fiercely warm in the middle, where a kerosene heater hums beside a workbench stacked with hose fittings and tide almanacs. I stay near the door while Maren pours coffee from a steel thermos into a chipped mug and slides it onto a crate by my elbow. The dark ring inside the rim says burnt chicory.
+The sorting shed is narrow, damp, and fiercely warm in the middle, where a kerosene heater hums beside a workbench stacked with hose fittings and tide almanacs. I stay near the door while Maren pours coffee from a steel thermos into a chipped mug and slides it onto a crate by my elbow. The dark ring inside the rim says burnt chicory.
 
 "Drink it or don't." She curls her red hands around a second mug. "I told you at the store, Miss Calder—I don't hold with mainland trouble. My oyster lease comes up in January, and Cole Halstead's marine unit boards my brother-in-law's lobster boat twice a month whenever somebody opens their mouth."
 

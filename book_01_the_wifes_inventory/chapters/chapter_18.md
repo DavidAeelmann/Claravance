@@ -1,6 +1,6 @@
 # Chapter 18
 
-The brass padlock clatters against the frame. Iron hinges groan as the double door swings wide, and a cold strip of gray storm light cuts across the boathouse floor.
+The brass padlock clatters against the frame. Iron hinges groan. The double door swings wide, and a cold strip of gray storm light cuts across the boathouse floor.
 
 Cole Halstead steps inside carrying a Maglite and a bundle of black zip ties. Lydia told him the cleaner was already tied to the piling, so his holster is still snapped.
 
@@ -10,9 +10,9 @@ Cole Halstead steps inside carrying a Maglite and a bundle of black zip ties. Ly
 
 There is nowhere to hide in a twenty-foot box of wet cedar, and no time to think about how bad the math is. I drive up off my knees, duck under the bait table, and launch myself across the decking before she can clear Cole's shoulder. My sneakers slide on wet moss before the rubber bites. Cole turns a fraction too late. His left arm comes up to block me, and I drag the oyster knife hard across the meat of his wrist.
 
-Steel rips through his windbreaker cuff into flesh. Cole curses and staggers backward into the stacked lobster traps. Wood slats crack under his shoulders. A loose buoy rolls against my shin as dark blood wells over his knuckles. The Maglite bounces across the planks into the shadows. Zip ties scatter around his boots. Under the bottom trap, his heel comes down square on my phone. The screen cracks loud. Then the casing skids off the edge into the black slipway water. He clamps his right hand over the gash and blocks the narrow aisle between the bench and the open water.
+Steel rips through his windbreaker cuff into flesh. Cole curses and staggers backward into the stacked lobster traps. Wood slats crack under his shoulders. A loose buoy rolls against my shin. Dark blood wells over his knuckles. The Maglite bounces across the planks into the shadows. Zip ties scatter around his boots. Under the bottom trap, his heel comes down square on my phone. The screen cracks loud. Then the casing skids off the edge into the black slipway water. He clamps his right hand over the gash and blocks the narrow aisle between the bench and the open water.
 
-Lydia's Glock fires. Inside the cramped boathouse, the blast hits my eardrums like a slap. Cordite stings my nose. A chunk of splintered plank blows out beside my left shoulder and peppers my cheek with wet sawdust. Cole's bulk eats half her sightline, and she has the iPad wedged awkwardly under her elbow. She shoves him hard by the shoulder to open a lane.
+Lydia's Glock fires. Inside the narrow boathouse, the blast hits my eardrums like a slap. Cordite stings my nose. A chunk of splintered plank blows out beside my left shoulder and peppers my cheek with wet sawdust. Cole's bulk eats half her sightline, and she has the iPad wedged awkwardly under her elbow. She shoves him hard by the shoulder to open a lane.
 
 I don't look twice at where my phone went. I spin toward the slipway gap, tuck my chin, and throw myself sideways into the cove.
 
@@ -20,7 +20,7 @@ The water hits so cold it steals my breath before I can clamp my mouth shut. Sal
 
 The outgoing tide pulls hard at my legs. Brine stings deep inside the raw zip-tie cut on my left wrist. I keep my head down and swim with whatever is left in my shoulders. Fifteen yards. Maybe twenty seconds in the water before my muscles lock up. My left fingers go numb fast, though my right hand stays clamped around the handle of the knife. One-armed sidestroke in soggy denim is miserable work. These were my only good sneakers.
 
-I come up gasping against a jagged shelf of granite downshore toward Maren's sorting shed. Salt spray blinds me, my teeth knocking together as I hook my elbows over the wet ledge to keep my feet out of the chop. A barnacle scrapes through my jeans at the knee, sharp and hot even through the numbness. Wet hair plasters across my mouth, tasting of kelp and diesel-slicked harbor water, and I spit it clear as the surge slams my shins against the rock.
+I come up gasping against a jagged shelf of granite downshore toward Maren's sorting shed. Salt spray blinds me, my teeth knocking together as I hook my elbows over the wet ledge to keep my feet out of the chop. A barnacle scrapes through my jeans at the knee, sharp and hot even through the numbness. Wet hair plasters across my mouth, tasting of kelp and diesel-slicked harbor water, and I spit it clear. The surge slams my shins against the rock.
 
 Back at the boathouse, the double doors stand wide open. Cole fills half the frame with his right hand pressed over his bleeding wrist. Lydia pushes past him to scan the water. She leans out over the slipway edge for another shot. Cole grabs her shoulder to haul her back from the drop, his boot slides on wet kelp, and his forearm jars her wrist. The Glock flies clean out of her hand into the churning gap below.
 
@@ -40,7 +40,7 @@ I fish the wet tide card out of my watch pocket and pin it against a cedar clapb
 
 The slate steps feel twice as steep in soaked sneakers and heavy denim. Wet pine needles cling to every riser. Halfway up the bluff, a gust off Penobscot Bay pins me against the granite. My scraped palm tears open again on the lichen, and shivering locks both thighs until I drop onto one knee. High above the spruces, an engine revs and tires hiss across wet gravel. Cole's cruiser, pulling out of the turnaround. His taillights wink red once through the trees, then vanish south toward the causeway.
 
-My head swims with a quiet, heavy urge to just sit out of the wind for thirty seconds. Just thirty seconds to let my thighs stop shaking and catch a full breath without salt mist burning my throat. I force my locked jaw open, count ten steps aloud through chattering teeth, and haul myself upward using my right hand and elbows, one riser at a time.
+My head swims with a quiet, heavy urge to just sit out of the wind for thirty seconds. Just thirty seconds to let my thighs stop shaking and catch a full breath without salt mist burning my throat. I force myself to breathe, count ten steps aloud through chattering teeth, and haul myself upward using my right hand and elbows, one riser at a time.
 
 Twilight is thickening fast over the headland now. I have to reach the basement before Lydia locks down the house and the surge takes the road. I clear the top tread and drop low behind the sodden junipers on the back lawn, watching the branches whip in the gale like someone shaking out a wet broom. My ribs ache with every breath, and my fingers feel stiff and clumsy around the knife.
 

@@ -70,11 +70,11 @@ I look up. "This Friday? Your broker told me fourteen days."
 
 Four days to catalog a two-story glass house, cooped up with a man who can't stand a crooked envelope on his table. "Depends how much she kept."
 
-"Less than you'd think." He glances toward the dark ocean glass where both of us hang pale over empty water. "Lydia wasn't sentimental about things. Just meticulous."
+"Less than you'd think." He glances toward the dark ocean glass where both of us hang pale over empty water. "Lydia cared about keeping things in order."
 
 I flip back to page two and tap clause three with the pen cap. "Fix this before I sign. Your agreement bans all photography on the premises, yet probate counsel expects condition records on high-value items. I'm not stepping under a fifty-thousand-dollar breach clause without proof of what I logged, and what was already damaged before I walked in. Write in an exception for timestamped estate-verification photos."
 
-He studies me for a long beat, weighing whether I'm worth the hassle. Then he holds out a hand for the pen. He doesn't argue; he writes a cramped line in the margin allowing timestamped inventory photographs, adds *G.K.* and today's date, and slides the folder back.
+He watches me, weighing whether I'm worth the hassle. Then he holds out a hand for the pen. He doesn't argue; he writes a tight line in the margin allowing timestamped inventory photographs, adds *G.K.* and today's date, and slides the folder back.
 
 I sign *Tessa Calder* on all three lines, pull the white envelope over, and flip through the bills.
 
@@ -98,7 +98,7 @@ Before I can ask where the green archival totes are, his phone buzzes on the cou
 
 He glances down. The crease between his brows tightens, then smooths out. "Estate counsel. Take ten minutes to drop your bag. My study's across the north hall from you, though I'm taking this upstairs in the master suite for a little privacy. I'll bring the Wi-Fi password down in a minute."
 
-He doesn't wait for an answer and heads up the stairs, his wool socks silent on the oak. Halfway up, he pauses and looks back. Not at me. Following his line of sight, he's looking past my shoulder toward the front entry. Then he rounds the landing, and a heavy door latches upstairs.
+He doesn't wait for an answer and heads up the stairs, his wool socks silent on the oak. Halfway up, he pauses and looks past my shoulder toward the front entry. Then he rounds the landing, and a heavy door latches upstairs.
 
 ***
 
@@ -118,7 +118,7 @@ I stop, the jacket still wadded in my hand.
 
 Nineteen days since Lydia Kiefer took a skiff past the breakwater during an October squall and didn't come back. The Coast Guard called off the search days later. Her attorneys file for probate Friday.
 
-Her travel bag isn't upstairs waiting for tissue paper. It's jammed behind Graham's overcoats three feet from the front door, canvas bulging tight. Maybe he couldn't stand looking at it in the bedroom, or maybe he shoved it out of sight and forgot.
+Her travel bag is jammed behind Graham's overcoats three feet from the front door, canvas bulging tight, instead of waiting upstairs for tissue paper. Maybe he couldn't stand looking at it in the bedroom, or maybe he shoved it out of sight and forgot.
 
 Except a man who squares envelopes to table grain doesn't cram a packed weekender behind his coats where a hired cleaner will trip over it night one. Not unless he was in a hurry—or wanted me to find it.
 

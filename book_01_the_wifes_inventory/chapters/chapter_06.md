@@ -90,9 +90,9 @@ Before I can answer, a wet slam of wind shakes the whole house, and the ceiling 
 
 I stay where I am, eyes locked on his silhouette in the blue wash. If the grid's down across Salt Point, nobody calls out without a hardline.
 
-Outside, a heavy thump vibrates through the foundation as the generator catches. An engine rumble rises through the slate, and the ceiling lights flicker back on, dim at first before they steady.
+Outside, a heavy thump vibrates through the foundation as the generator catches. An engine rumble rises through the slate, and the ceiling lights flicker back on, dim at first before they hold.
 
-Graham starts past the island toward the pantry corridor to clear the power-loss alert, and I follow him to the edge of the counter. Mounted right beside the breaker box, the wall tablet runs off the security hub's battery backup and cycles through white status lines as the house circuits switch over to generator power. A bright yellow service tag is wired to the conduit above the panel: `EXT-DECK / LOGS — 40M DIAGNOSTIC BYPASS BUS`. Across the bottom of the screen, a green status line shows the forty-minute service loop on standby: `LOCAL LOG HOLD WHEN BRIDGED`.
+Graham starts past the island toward the pantry corridor to clear the power-loss alert, and I follow him to the edge of the counter. Mounted right beside the breaker box, the wall tablet runs off the security hub's battery backup and cycles through white status lines as the house circuits switch over to generator power. A yellow service tag is wired to the conduit above the panel: `EXT-DECK BYPASS`. Across the bottom of the screen, a green line reads: `40-MIN HOLD STANDBY`.
 
 Graham reaches for the glass, half a second too late. Right before the display resets to **BACKUP POWER / ARMED**, a red-trimmed amber banner flashes across the top third of the screen:
 

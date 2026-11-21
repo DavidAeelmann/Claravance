@@ -6,7 +6,7 @@ White digital numbers burned into the upper corner read **02:14 AM**.
 
 A bare-bones timeline runs beneath the paused frame: a local three-minute export pulled from an **ARCHIVE** folder, not a cloud clip. Beside it, an audio editor holds five stacked waveform tracks labeled for the sunroom, pantry, stairwell, boathouse, and cove hydrophone.
 
-He didn't just build noise-canceling prototypes down here. He wired microphones across the whole property—sunroom, pantry, stairwell, boathouse, even a submerged hydrophone on the cove pilings—into one local array. Half the rooms upstairs feed right into this cellar. Probably every word we traded over leek soup Tuesday night, too.
+He wired microphones across the whole property—sunroom, pantry, stairwell, boathouse, even a submerged hydrophone on the cove pilings—into one local array, not just noise-canceling prototypes. Half the rooms upstairs feed right into this cellar. Probably every word we traded over leek soup Tuesday night, too.
 
 A waist-high aluminum server rack hums beside the table and vents warm air through perforated steel. Three black server units sit stacked above a bolted battery bank to keep the drives alive if main power drops. A cellular bridge rests on top with its status light dead. External alerts won't leave this rack over cell, though local house sensors are another matter.
 
@@ -24,7 +24,7 @@ Past the corner, a steel drafting table stands against the east wall, an unplugg
 
 Two weeks of charts lie clipped together by date. Brass acoustic blocks pin down a Maine tide chart with October fifteenth's 2:14 AM high-water mark circled twice in red felt-tip. Salt Point coastal AIS tracking logs lie beside it, highlighted across a forty-second transponder dropout inside a shore-station blind spot. A Coast Guard drift grid overlaps the logs, marked with red arrows curving northwest toward the outer bell buoy. Near the edge sits a half-empty ceramic mug with dried grounds crusted inside the rim and a mechanical pencil chewed flat at the eraser like a nervous third-grader's.
 
-A yellow legal pad pokes out from under the chart, covered in his cramped block script: boat depths stacked against rock-ledge charts, tide-current estimates, fuel-burn tables for a fiberglass skiff running dark. At the bottom, one underlined question is pressed hard enough to dent the sheet underneath:
+A yellow legal pad pokes out from under the chart, covered in his slanted block script: boat depths stacked against rock-ledge charts, tide-current estimates, fuel-burn tables for a fiberglass skiff running dark. At the bottom, one underlined question is pressed hard enough to dent the sheet underneath:
 
 *How did the Kiefer skiff clear the outer bar at 2:14 without hitting the east shoal?*
 
@@ -42,7 +42,7 @@ I flip out the pry blade on my multi-tool, wedge the tip into the seam above the
 
 I freeze and listen for floorboards overhead. Nothing moves.
 
-I ease the door open so the bent latch doesn't scrape the frame. Both the top and bottom shelves are wiped bare. One padded manila envelope lies on the middle shelf, its brass clasp pressed down under overlapping strips of red tamper-evident tape. Graham's block script crosses the front in black marker and slants slightly at the end like his hand wasn't steady when he wrote it: `OCT 14 — MASTER BACKUP / DO NOT OPEN BEFORE PROBATE`. Through the stiff paper I can feel folded legal sheets and a hard lump tucked in the bottom corner, probably a thumb drive. Not a speck of dust coats it.
+I ease the door open so the bent latch doesn't scrape the frame. Both the top and bottom shelves are wiped bare. One padded manila envelope lies on the middle shelf, its brass clasp pressed down under overlapping strips of red tamper-evident tape. Graham's block script crosses the front in black marker and slants slightly at the end like his hand shook when he wrote it: `OCT 14 — MASTER BACKUP / DO NOT OPEN BEFORE PROBATE`. Through the stiff paper I can feel folded legal sheets and a hard lump tucked in the bottom corner, probably a thumb drive. Not a speck of dust coats it.
 
 I lift the envelope off the shelf.
 
@@ -50,6 +50,6 @@ Across the room, the fire door beneath the foyer stairs cracks open an inch—a 
 
 I spin around, clamping the envelope to my chest.
 
-A deadbolt slides home from the *outside* with an echoing *clack* that carries straight through the concrete under my heels.
+A deadbolt slides home from the *outside* with a heavy thud that carries straight through the concrete under my heels.
 
-Above the smooth brass plate, the pinpoint LED winks from dark to steady, glaring red.
+Above the smooth brass plate, the pinpoint LED winks from dark to solid, glaring red.

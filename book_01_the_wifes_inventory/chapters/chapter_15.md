@@ -8,7 +8,7 @@ I stand at the foot of the stairs with the pipe wrench in my hand and look out t
 
 Two sleepless nights are catching up with me fast, a dull ache behind my eyes that won't quit. Even so, I'm not walking out with ten grand unpaid and a trunk full of someone else's staging.
 
-"Grab a towel and wipe the slate behind the bench," I tell him. "Your upstairs inventory's uploaded, and your hardware lockout just cleared. Now take me into your study: the server rack, the admin key, whatever you've got behind that partition."
+"Grab a towel and wipe the slate behind the bench," I tell him. "Your upstairs inventory's uploaded, and your lockout just cleared. Now take me into your study: the server rack, the admin key, whatever you've got behind that partition."
 
 He hesitates, glancing toward the north hall. "The study rack only mirrors the house array. The raw acoustic buffers are encrypted on the drive in your pocket."
 
@@ -38,7 +38,7 @@ A green progress bar crawls across the left display. Rain beats against the nort
 
 *Refused dirty sign-off 2023. $18,412 levy pending Nov. Cornered enough to take cash, too stubborn to walk past a six-minute Zone 4 dropout or a dry life vest. Put under $50k IP NDA (leave Clause 3 photo ban intact to test if she demands chain-of-custody rider). Watch what Oct 15 tampering she flags first.*
 
-I slide the memo onto his mouse hand and tap it with the wrench. "October twenty-first," I say. "You pulled my eviction ledger the exact day you spotted the Zone Four dropout and the dry life vest. You didn't hire me because you trusted me, Graham. You bought a broke investigator as a cheap tripwire, and left me walking blind while Cole Halstead ran my plates. *Too stubborn to walk past.* Jesus."
+I slide the memo onto his mouse hand and tap it with the wrench. "October twenty-first," I say. "You pulled my eviction ledger the exact day you spotted the Zone Four dropout and the dry life vest. You bought a broke investigator as a cheap tripwire, Graham, and left me walking blind while Cole Halstead ran my plates. *Too stubborn to walk past.* Jesus."
 
 He doesn't pull his hand back. His fingers curl slightly against the paper. "I needed the Arlington inventory finished before November fourteenth, and I needed eyes nobody in Knox County owned. If I'd briefed a stranger on day one and you went straight to a deputy, I'd be in cuffs before I figured out who was dirty."
 
@@ -64,11 +64,11 @@ Rubber soles squeak across wet slate, followed by a muffled grunt as someone dra
 
 *"Careful with the varnish,"* a woman's voice cuts through the rain hiss.
 
-Graham goes rigid. Her voice is cool, crisp, unbothered—someone who has never had to raise her volume to get her way.
+Graham goes rigid. Her voice is cool, crisp, bored—someone who has never had to raise her volume to get her way.
 
 *"You're smearing the—"* / *"Nobody's checking the oarlocks at five in the morning, Lydie."*
 
-A man's voice answers her, slow and unbothered, with the exact coastal drawl I heard leaning on my Civic door two days ago. Cole Halstead.
+A man's voice answers her, flat and lazy, with the exact coastal drawl I heard leaning on my Civic door two days ago. Cole Halstead.
 
 Then Lydia laughs, short and bright. Underneath it, a wet rag squeaks back and forth along varnished wood.
 

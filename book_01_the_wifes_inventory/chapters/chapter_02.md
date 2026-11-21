@@ -32,9 +32,9 @@ I tug off my wet boots, dig dry wool socks out of my bag, and slip the house key
 
 ***
 
-A gray wool runner covers the north hall and swallows my footsteps. Light leaks from under Graham's study door directly across from mine, along with the steady clack of a mechanical keyboard. Every few seconds the typing stops for the dry rustle of paper, then picks back up.
+A gray wool runner covers the north hall and swallows my footsteps. Light leaks from under Graham's study door directly across from mine, along with the clack of a mechanical keyboard. Every few seconds the typing stops for the dry rustle of paper, then picks back up.
 
-I hug the drywall where the floorboards stay quiet, slip past his door to the main staircase, and take the steps slowly toward the upper landing. Halfway up, a stair tread groans under my heel. I freeze, holding my breath until the keyboard clacks again below, then finish the climb on the outside edge of the treads.
+I hug the drywall where the floorboards stay quiet, slip past his door to the main staircase, and take the steps slowly toward the upper landing. Halfway up, a stair tread groans under my heel. I freeze, holding my breath until the keyboard starts again below, then finish the climb on the outside edge of the treads.
 
 At the far end of the upstairs hall, the left leaf of the studio's double doors is pinned shut and the active door stands cracked open.
 
@@ -56,9 +56,9 @@ I tilt my phone light down into the track. Fresh white semi-gloss paint bridges 
 
 A thick green leather blotter covers the middle of the desktop, where a tarnished brass paperweight holds down a closed linen-bound sketchbook. An uncapped silver Montblanc fountain pen rests beside the book, its black barrel catching the screen light next to a cream stationery pad with a handwritten departure checklist on top. An uncapped fountain pen dries into a gummy crust within days. Someone laid it out like a prop, or dropped it mid-sentence and never came back for it.
 
-I keep my fingers off the barrel. Old Harbor Mutual reflex—touch a scene before you shoot it, and defense counsel eats you alive over smeared prints. I kill the flash, steady my elbows against my ribs because my hands are still shaking slightly from the cold, and snap two tight shots of the desk layout: the sketchbook, the paperweight, the angle of the pen, the ink lines on the pad. If Graham walks in tomorrow and claims something moved, I want proof of how it sat tonight.
+I keep my fingers off the barrel. Old Harbor Mutual reflex—touch a scene before you shoot it, and defense counsel eats you alive over smeared prints. I kill the flash, brace my elbows against my ribs because my hands are still shaking slightly from the cold, and snap two tight shots of the desk layout: the sketchbook, the paperweight, the angle of the pen, the ink lines on the pad. If Graham walks in tomorrow and claims something moved, I want proof of how it sat tonight.
 
-Then I lift the paperweight by a fraction and flip the sketchbook open by its bottom corner. Fine pencil studies of kelp fronds, barnacles, and beach peas fill the front half, Latin names penciled lightly underneath. Every stroke slopes forward, right-handed, steady through page forty. Toward the back, three blank leaves show faint pressure lines where someone sliced pages cleanly out along the binding with a sharp blade. Deliberate, practiced cuts meant to pass a quick glance.
+Then I lift the paperweight by a fraction and flip the sketchbook open by its bottom corner. Fine pencil studies of kelp fronds, barnacles, and beach peas fill the front half, Latin names penciled lightly underneath. Every stroke slopes forward, right-handed, clean through page forty. Toward the back, three blank leaves show faint pressure lines where someone sliced pages cleanly out along the binding with a sharp blade. Deliberate, practiced cuts meant to pass a quick glance.
 
 I ease the cover shut and set the paperweight back on the corner a hair off its original angle without thinking. Maybe Graham wouldn't notice a millimeter shift, or maybe he'd spot it the second he stepped through the door; either way, I'm too tired to line it back up against the photo on my phone. I lean over the stationery pad instead, careful not to brush the pen beside it.
 
@@ -66,7 +66,7 @@ Four quick items in dark dry ink: *skiff mooring line, studio shutters, cellar l
 
 I lift the sketchbook cover one more time to be sure. Every ink label on Lydia's botanical sheets leans forward on a clean right-hand slant, not a smudge anywhere. Lydia wrote right-handed. Whoever jotted that checklist beside her Montblanc likely hooked a left hand across the page.
 
-Downstairs, the steady clack of Graham's keyboard stops.
+Downstairs, the keyboard stops.
 
 For two seconds the house goes dead silent, save for the wind rattling the spruces outside the painted window. Then a chair scrapes back across wood.
 

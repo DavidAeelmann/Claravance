@@ -8,7 +8,7 @@ Notifications dump onto the screen before I clear the curve: two missed calls fr
 
 Then red and blue strobes fill my rearview mirror. I haven't even touched forty. I signal right, pull onto the gravel shoulder beside a tangle of bare sumac, and kill the engine. A Knox County sheriff's cruiser rolls in close behind my bumper, its light bar pulsing across the mist. By the time heavy boots crunch up the gravel, my license and registration are out of the glovebox and both hands are resting on the wheel.
 
-The deputy who steps up to my window is broad-shouldered under a navy rain slicker and clean-shaven. Before he even bends down to the glass, he takes a slow inventory of my rusted front fender and the Cumberland County sticker on my Portland plates. His brass badge catches the dash light, and above it is the exact same unbothered stare I watched across a Vermont counter six years ago right before they closed Nina's binder. When this one talks, a slow coastal drawl softens his edges, and a slightly crooked upper incisor shows in the dim cab light.
+The deputy who steps up to my window is broad-shouldered under a navy rain slicker and clean-shaven. Before he even bends down to the glass, he takes a slow inventory of my rusted front fender and the Cumberland County sticker on my Portland plates. His brass badge catches the dash light, and above it is the exact same flat stare I watched across a Vermont counter six years ago right before they closed Nina's binder. When this one talks, a slow coastal drawl softens his edges, and a slightly crooked upper incisor shows in the dim cab light.
 
 "Afternoon, ma'am. License and registration."
 
@@ -74,7 +74,7 @@ I pull the card out and go still. It's a torn strip of plasticized marine tide-c
 
 *2:14 AM — High Water.*
 
-Underneath the tide mark, cramped block letters press hard into the card:
+Underneath the tide mark, spiky block letters press hard into the card:
 
 *Ask him why his dock lights were off.*
 

@@ -44,7 +44,7 @@ Cold rises off the hearthstone. Only a pale wedge of hall light falls across the
 
 I verify my phone's flash and shutter sound are off. Then I flip the portfolio open.
 
-A cream envelope slit along the top flap lies inside, stamped **CERTIFIED MAIL — RETURN RECEIPT REQUESTED**. Two pages stick halfway out under the letterhead of *Bramwell & Shaw Fiduciary LLP, Boston*, clipped to a highlighted trust summary. A yellow sticky note clings to the margin in cramped legal script: *Final cure window. No further extensions.*
+A cream envelope slit along the top flap lies inside, stamped **CERTIFIED MAIL — RETURN RECEIPT REQUESTED**. Two pages stick halfway out under the letterhead of *Bramwell & Shaw Fiduciary LLP, Boston*, clipped to a highlighted trust summary. A yellow sticky note clings to the margin in tight legal script: *Final cure window. No further extensions.*
 
 I angle the first page into the hall light and scan fast.
 
@@ -70,7 +70,7 @@ I lift his original, clean glass and touch the rim to my lips. I let the burn of
 
 Graham drinks.
 
-He takes a slow, steady swallow, gray eyes locked on mine over the rim. His throat works once, easy and unbothered. He lowers the glass back onto the tray and wipes a drop off his thumb.
+He takes a slow swallow, gray eyes locked on mine over the rim. His throat works once, completely at ease. He lowers the glass back onto the tray and wipes a drop off his thumb.
 
 Someone had prepared his usual glass while he was away, and out of host habit, he'd handed it right to me. Whatever was in it, I wasn't going to find out by drinking it.
 
@@ -89,8 +89,6 @@ I leave the clean bourbon two-thirds full on the coaster, say goodnight, and wal
 Behind the radiator, my brown store bag hasn't moved. I pull out my laptop and upload the four demand-letter photos to my off-site vault in Portland.
 
 Before the upload bar finishes, my phone buzzes against my leg. The Kiefer Soundworks guest link expired at five. This is an encrypted text from Samira Patel. St. Andrews Private Marina sends its small-craft manifests over once a day, and Samira just forwarded the automated hit off the evening run.
-
-I tap the attachment.
 
 I tap the attachment. It's a port-clearance alert for Lydia Kiefer's passport, scanned Tuesday morning at St. Andrews Private Marina in New Brunswick.
 
