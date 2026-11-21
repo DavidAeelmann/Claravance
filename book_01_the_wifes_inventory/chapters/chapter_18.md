@@ -1,12 +1,10 @@
 # Chapter 18
 
-The brass padlock clatters against the frame. Iron hinges groan. The double door swings wide, and a cold strip of gray storm light cuts across the boathouse floor.
-
-Cole Halstead steps inside carrying a Maglite and a bundle of black zip ties. Lydia told him the cleaner was already tied to the piling, so his holster is still snapped.
-
 "Lydie, Graham's cuffed to the radiator. Why isn't—"
 
 "Watch her!" Lydia snaps. She tucks the iPad under one arm and swings the Glock back toward me.
+
+Behind Cole Halstead, the brass padlock clatters against the frame and the double doors swing wide on groaning iron hinges, cutting a cold strip of gray storm light across the boathouse floor. He's carrying a Maglite and a bundle of black zip ties, his holster still snapped because Lydia told him the cleaner was already tied to the piling.
 
 There is nowhere to hide in a twenty-foot shed, and no time to think about how bad the math is. I drive up off my knees, duck under the bait table, and launch myself across the decking before she can clear Cole's shoulder. My sneakers slide on wet moss before the rubber bites. Cole turns a step too late. His left arm comes up to block me, and I drag the oyster knife hard across the meat of his wrist.
 
@@ -48,7 +46,7 @@ The glass house stands dark in the fog. The living room and sunroom sit unlit, a
 
 I sprint low across the wet grass and climb onto the back deck beside the sunroom. The glass slider I left wide open is shut. Its thumb-latch is turned from inside—Cole must have locked it after he cuffed Graham and headed down to the cove. I test the handle gently so the track won't rattle. Solid. I press my shoulder against the siding, wipe salt spray off my lashes with a soaking sleeve, and peer through the rain-streaked glass.
 
-Inside, the room is dim and empty in the gray storm light bleeding through the ocean panes. Whitecaps churn behind the glass, throwing pale reflections across the ceiling. The wool rug lies crooked over the pale boards. Past it, Graham Kiefer slumps sideways against the interior wall under the cast-iron baseboard radiator. His left wrist is cuffed to the iron pipe. A dark bruise swells under his left eye, and his charcoal sweater hangs torn at the collar. The house groans around us as another gust hammers the roof.
+Inside, the room is dim and empty in the gray storm light bleeding through the ocean panes. Whitecaps churn behind the glass, throwing pale reflections across the ceiling. The wool rug lies crooked over the pale boards. Past it, Graham Kiefer slumps sideways against the interior wall under the cast-iron baseboard radiator. His left wrist is cuffed to the iron pipe. A dark bruise swells under his left eye, and his olive sweater hangs torn at the collar. The house groans around us as another gust hammers the roof.
 
 As my shadow crosses the glass, Graham's head snaps up. He spots me, shakes his head hard toward the front hall, and taps his free hand silently against his chest in warning. His eyes dart once toward the kitchen arch, then back to me, tight with helpless dread. Lydia is inside, probably waiting in the dark past the counter with a kitchen knife or Graham's pipe wrench to watch the glass for my outline.
 
@@ -56,4 +54,4 @@ If I want into the basement, I can't use the front door, and I can't force a loc
 
 I drop below the sill and glance south across the inlet toward the mainland road.
 
-White foam boils across the low asphalt of the causeway and swallows the steel guardrails in gray-green chop. Cole's cruiser is parked dead sideways across the throat of the flooded road, its light bar dark, sealing both lanes from shoulder to shoulder. Between the cruiser, the rising tide, and the cliffs, nobody's driving in—and nobody's driving out.
+White water foams up against the culvert shoulder and throws thin sheets of salt spray across the low asphalt of the causeway, the steel guardrails still standing clear above the rising chop. Cole's cruiser is parked dead sideways across the narrow throat of the road, its light bar dark, sealing both lanes from shoulder to shoulder. Between the cruiser, the climbing tide, and the cliffs, nobody's driving in—and nobody's driving out.

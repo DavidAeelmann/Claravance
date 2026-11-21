@@ -4,7 +4,7 @@ Cole's boots hit the kitchen tile. A flashlight beam cuts across the black foyer
 
 "Graham!" Cole yells from the kitchen. His voice bounces off the stone. "Get out here! Think your Boston money gets you off this rock?"
 
-I push Graham into his study and ease the walnut door almost shut. Through the inch-wide crack, the hall stays black. Inside, the server rack hums on its battery backup and casts dull amber light across the blotter. The pipe wrench I left behind this afternoon still sits beside the keyboard. I leave it.
+I push Graham into his study and ease the door almost shut. Through the inch-wide crack, the hall stays black. Inside, the server rack hums on its battery backup and casts dull amber light across the blotter. The pipe wrench I left behind this afternoon still sits beside the keyboard. I leave it.
 
 Graham leans hard against the wall, one hand pressed to his swollen cheek, his chest heaving. Outside, the gale slams against the house hard enough to make the windowpanes rattle behind their outer armor. "Lydia just threw the generator transfer switch and pulled the manual shutter release in the basement alcove," he says, voice shaking. "The hurricane shutters are locked down in their tracks. Without power we can't raise them, and this study door won't hold Cole for ten seconds."
 
@@ -14,17 +14,17 @@ I drop into the chair, wake the console, and pull up the *Kiefer Soundworks* zon
 
 The interface is typical Graham: three nested menus deep just to route a single audio channel, like he designed it to impress an architect instead of someone trying to keep from getting shot. My thumb slips once on the trackpad before I highlight the raw pantry recording, route it straight to the darkroom speakers, and push the volume to the stops. If Cole hears Lydia's voice blasting out of the basement, he won't go door to door upstairs. He'll charge the concrete steps to kill it.
 
-"Stay behind the shelves," I tell Graham, with a jerk of my chin toward the walnut stacks in the corner. "If Lydia checks this room, don't breathe, and don't come out until I call you."
+"Stay behind the shelves," I tell Graham, with a jerk of my chin toward the bookshelves in the corner. "If Lydia checks this room, don't breathe, and don't come out until I call you."
 
-He nods once, stiffly, and backs into the shadow behind the tall case. He pulls his knees in, trying to make a six-foot frame vanish behind six inches of walnut molding.
+He nods once, stiffly, and backs into the shadow behind the tall case. He pulls his knees in, trying to make a six-foot frame vanish behind six inches of wood molding.
 
-I hit play on a continuous loop, then kill the display power so the room drops back to black. Under our feet, muffled through the floor, Lydia's voice—cool, dry, laughing over the squeak of a wet rag—booms through the basement. Graham flinches at the sound of his wife's laugh coming up through his own floorboards.
+I slip the duffel off my shoulder and shove it out of sight behind the low bookcase beside the study door so it won't slow me down. Then I hit play on a continuous loop and kill the display power so the room drops back to black. Under our feet, muffled through the floor, Lydia's voice—cool, dry, laughing over the squeak of a wet rag—booms through the basement. Graham flinches at the sound of his wife's laugh coming up through his own floorboards.
 
 Out in the foyer, Cole's flashlight jerks toward the stairwell door. His boots stop dead in the hall.
 
 "Lydie?" he shouts, anger cracking into panic as his own drawl echoes up through the floor. "She's back in Zone Four! She's playing the pantry tape!"
 
-Heavy boots hammer across the foyer. He takes the concrete landing two treads at a time.
+Heavy boots hammer across the foyer. He takes the concrete steps in heavy bounds.
 
 ***
 
@@ -34,11 +34,11 @@ She's going to tell him it's a trap. Once she does, Cole will smash the Zone 4 b
 
 Lydia's boots clatter down the upper treads. I skirt the kitchen island, my knee clipping a barstool hard enough to make it rock on the tile, and feel my way into the pantry corridor.
 
-Behind the open spice rack, cold air rises up the dumbwaiter shaft. I shove the oyster knife into my waistband, hook my forearms over the iron rungs so I don't load my slashed left wrist, and drop into the dark. My sweater catches on a bracket and rides up my ribs, while the duffel bangs against the masonry behind me. Halfway down, my left arm hits a rough seam in the shaft wall and sends a white-hot spike up from my raw wrist. I bite down on the inside of my cheek and keep sliding.
+Behind the open spice rack, cold air rises up the dumbwaiter shaft. I shove the oyster knife into my waistband, hook my forearms over the iron rungs so I don't load my slashed left wrist, and drop into the dark. My sweater catches on a rusted bracket and rides up my ribs while my sneakers scrape down the masonry. Halfway down, my left arm hits a rough seam in the shaft wall and sends a white-hot spike up from my raw wrist. I bite down on the inside of my cheek and keep sliding.
 
 The looped tape swells louder with every rung. Lydia's laugh bounces off the concrete, followed by Cole swearing as he hits the fire door of Zone 4. His flashlight cuts across the far wall below me and throws long shadows off the server racks.
 
-I drop onto the rubber matting and back into the charcoal foam wedges of the northeast corner, squeezing into the narrow gap beside the pried-open *ARCHIVE* cabinet.
+I drop onto the rubber matting and back into the foam wedges of the northeast corner, squeezing into the narrow gap beside the pried-open *ARCHIVE* cabinet.
 
 Graham's dead-zone works. The speaker blare still carries through open air, yet the directional baffles kill the wall reflections. Sound goes flat and hard to place. The foam swallows my breathing. I shift my weight and wait.
 
@@ -50,7 +50,7 @@ Fast footsteps clatter down the stairs behind him. Lydia bursts through the door
 
 "Cole, it's on a loop!" she snaps. "She's not at the desk. She triggered it upstairs!"
 
-I shift an inch to reach my waistband. The brass zipper on my bag scrapes against the steel edge of the cabinet.
+I shift to reach my waistband, and my wet sneaker squeaks against the rubber mat.
 
 Lydia's penlight snaps into the northeast corner. She doesn't wait for Cole to turn his gun. She charges across the mat, steps right into his line of fire, and swings the poker in a level arc at my head.
 
@@ -58,7 +58,7 @@ I drop into a crouch behind the cabinet's front edge. Moving too fast to check h
 
 Cole spins toward the noise and shouts her name. His flashlight sweeps across her face and blinds her for a split second while her body still blocks his shot.
 
-I don't wait for a second swing. I yank the knife free, drive forward under her raised arm, and slash hard across her waxed-canvas sleeve.
+I don't wait for a second swing. I yank the knife free, drive forward under her raised arm, and slash hard across her parka sleeve.
 
 She gasps as the blade tears fabric and opens her right forearm. The poker clatters onto the concrete. She stumbles sideways into Cole's chest. They tangle in the dark between the drafting table and the server rack. Cole's pistol bangs off the table edge while he swears and fights to keep from shooting her in the back.
 
@@ -74,7 +74,7 @@ Inside Zone 4, Cole's boots slam against the door, his shouts muffled to a dull 
 
 Lydia doesn't turn to fight on the stairs. She scrambles upward ahead of me in the dark, one hand clamped over her bleeding sleeve, the backup drive clutched against her ribs. Her wet boots slip on the middle landing, and she catches herself against the drywall with a smeared palm before lunging on.
 
-I take the steps two at a time behind her. My sneakers skid on the top landing before I shoulder the stairwell door open into the hall.
+I scramble up the steps behind her. My sneakers skid on the top landing before I shoulder the stairwell door open into the hall.
 
 Graham is already stepping out of the north corridor, squinting into the dark. Ahead of me, Lydia sprints into the front entry, grabs the coat bench, and drags it scraping across the floor right under the low skylight hatch.
 

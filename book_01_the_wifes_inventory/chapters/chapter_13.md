@@ -8,7 +8,7 @@ I glance down at **B-4** in my palm, then slip it back into my pocket. This side
 
 Which leaves the dumbwaiter shaft.
 
-I cross to the iron ladder, phone screen dimmed to a sliver of gray. The cold rungs bite into my feet as I climb two at a time, dry grit flaking off the masonry onto my forehead until my shoulders hit the cedar sill behind the spice rack. It's a tight, awkward squeeze through the hinged panel into the dark walk-in pantry, and I have to feel along the shelf edge to keep from knocking over the stoneware crocks on the floor. One turn of the knob on the pantry door, and I lean my shoulder into the wood.
+I cross to the iron ladder, phone screen dimmed to a sliver of gray. The cold rungs bite into my feet as I climb fast, dry grit flaking off the masonry onto my forehead until my shoulders hit the cedar sill behind the spice rack. It's a tight, awkward squeeze through the hinged panel into the dark walk-in pantry, and I have to feel along the shelf edge to keep from knocking over the stoneware crocks on the floor. One turn of the knob on the pantry door, and I lean my shoulder into the wood.
 
 It gives a fraction, then stops dead against something heavy. Through the slats, a wooden kitchen chair scrapes against the outside knob, wedged tight, followed by the metallic *snick* of a deadbolt turning over by the mudroom. Stockinged feet pad back across the tile and fade toward the front hall.
 
@@ -20,13 +20,13 @@ I pull my sleeves down over my wrists and stare at the envelope stamped `OCT 14 
 
 Whoever locked me in didn't touch the servers or come back for the cabinet. They sealed me down here to buy themselves three hours upstairs before daylight. If Graham really is out cold in his chair, somebody else is walking around his kitchen in socks at two-thirty in the morning.
 
-I slice the red tamper-evident tape with my multi-tool and pry the brass clasp open.
+I slice the red tamper-evident tape with my multi-tool and pry the metal clasp open.
 
 ***
 
 Four things slide out onto the table: a bound sheaf of financial schedules, three sliced cream-rag sketchbook pages, a spiral-bound transcript printout, and a thumb drive taped to a yellow index card. I spread the financial packet and the loose sketchbook sheets under the monitor glow first.
 
-The cover page and schedules form a backdated trust packet dated October tenth, four days before the storm. It bundles six draws pulled over fourteen months to make past unauthorized transfers look approved after the fact. Graham's execution page carries the raised notary seal of a Boston firm, backed by wire receipts, bridge-loan ledgers, and collateral schedules showing $2,400,000 moved out of the Lydia Kiefer Irrevocable Trust to keep Kiefer Soundworks alive while his acoustic patent sat in federal review.
+The cover page and schedules form a backdated trust packet dated October tenth, four days before the storm. It bundles six draws pulled over fourteen months to make past unauthorized transfers look approved after the fact. Graham's execution page carries the raised notary seal of a Boston firm, backed by wire receipts and collateral schedules showing $2,400,000 moved out of the Lydia Kiefer Irrevocable Trust to keep Kiefer Soundworks alive while his acoustic patent sat in federal review.
 
 On each of the six draw schedules, Lydia's secondary initials appear in stiff blue ink, tight along the curves. The *L* looks careful and boxy, nothing like the fast, loose *L.K.* loops on the three pages cut from the back of her studio sketchbook. Their margins are covered in Graham's penciled practice runs and small tick marks, row after row of him trying to copy her slant.
 
@@ -54,6 +54,8 @@ I pace the rubber mats to keep feeling in my heels, steering clear of the foam-l
 
 Around five, the battery unit under the rack clicks once as its cooling fan cycles down, and for a few seconds the darkroom drops into a silence so thick I can hear the blood ticking behind my left ear. Then the fan hums back up, even and low. My eyes burn from the blue monitor glare, and I have to force myself to keep pacing so I don't drift off standing against the edge of the table.
 
+On the corner of the worktable sits a neat stack of Graham's acoustic trade journals and an unused leather notebook embossed with his initials in gold foil. Even trapped in his own cellar, a petty irritation flares at men who own monogrammed stationery and three-hundred-dollar desk lamps and still can't balance a trust ledger without forging their wife's name. If I ever get out of this room, I'm never taking a job from anyone whose house has a wine fridge again.
+
 I peel the thumb drive off the yellow index card and tuck it deep into my jeans watch pocket beside Maren's torn tide strip. Then I slide the trust packet, the sketchbook pages, and the raw transcript back into the envelope and lean against the worktable to wait out the dark.
 
 Just before six, water pipes shudder inside the ceiling joists overhead. Someone upstairs just ran the kitchen tap, sending a dull thrum down the copper lines into the concrete. I stand very still, listening to the water shut off. A few seconds later, a heavy chair scrapes back across tile—the chair braced against the pantry door.
@@ -66,6 +68,6 @@ The fire door swings inward on its overhead closer and spills gray dawn light an
 
 Graham Kiefer stands in the doorway.
 
-He's still in yesterday's dark merino crewneck, wrinkled now and dusted across one shoulder with pale plaster grit, eyes bloodshot above gray stubble. In his right hand, held low against his thigh, he grips a brass pipe wrench.
+He's still in yesterday's dark olive sweater, wrinkled now and dusted across one shoulder with pale plaster grit, eyes bloodshot above gray stubble. In his right hand, held low against his thigh, he grips an iron pipe wrench.
 
 Behind him at the top of the concrete steps, a pair of muddy women's winter duck boots stands in the foyer in the cold gray light from the front window. Fresh wet kelp clings to the rubber soles, and dark rainwater drips beside an open navy tote.

@@ -8,7 +8,7 @@ My phone dropped to zero past the lobster pound and now clings to a single bar. 
 
 The Cumberland County clerk's letter rides shotgun on the passenger seat. *Eighteen thousand, four hundred and twelve dollars.* If I miss another installment, they levy my bank account Monday. Fifteen grand cash for two weeks of boxing up a dead woman's closets won't erase the judgment, but it stalls the sheriff and keeps my landlord off my back. Nobody drives out into a Maine fog bank in November because they're brave. They do it because their checking account has four hundred dollars and change.
 
-Two cedar posts flank a timber gate at the neck of the drive, a brass keypad mounted on rusted pipe beside the driver's window. I crank the glass down. The rubber sticks, then gives with a dry groan, and freezing salt air hits me in the face.
+Two cedar posts flank a timber gate at the neck of the drive, a tarnished keypad mounted on rusted pipe beside the driver's window. I crank the glass down. The rubber sticks, then gives with a dry groan, and freezing salt air hits me in the face.
 
 I punch the code from the broker's message. Nothing. The buttons are crusted with dried salt, so I scrub them with my cuff and press harder. A sharp beep cuts the fog. Under wet gravel, the gate motor grinds and drags the barrier partway back so the Civic can squeeze through.
 
@@ -16,13 +16,13 @@ It shuts behind me with a heavy hydraulic clunk. I ease back into drive and cree
 
 Past a stand of windbreak pines, the Kiefer house comes out of the mist low against the cliff. The tax card listed a seventies cottage on this lot, Lydia's family's old place, and whoever rebuilt it bolted modern glass and dark steel right onto the original stone foundation and chimney. All the windows facing the cove are dark except for one amber strip tucked under the eaves. The floodlight pole over the turnaround is dead.
 
-I pull in beside a charcoal Audi sedan and kill the engine. It ticks in the quiet. Out past the breakwater, a buoy bell clangs twice, dull and far off.
+I pull in beside a dark Audi sedan and kill the engine. It ticks in the quiet. Out past the breakwater, a buoy bell clangs twice, dull and far off.
 
 My duffel's worn zipper catches my thumb as I drag it off the passenger seat. I cross the wet flagstone walk to the landing. Something sharper cuts through the damp wood: fresh linseed oil, maybe deck sealer, except the planks under my boots are bone-dry.
 
-Before my knuckles hit the wood, the smart-lock deadbolt snaps open on its own.
+Before my knuckles hit the wood, a key turns inside the heavy brass deadbolt with a sharp metallic clack.
 
-The black door pulls back. Graham Kiefer stands in the doorway with one hand on the steel handle. He's thinner than he looked in his spring magazine profile, gaunt under pale gray eyes, the cuffs of his charcoal sweater fraying at the wrists. He takes in my wet hair, my duffel, then looks past me at the Civic.
+The black door pulls back. Graham Kiefer stands in the doorway with one hand on the steel handle and a brass key still pinched between two fingers. He's thinner than he looked in his spring magazine profile, gaunt under pale gray eyes, the cuffs of his dark olive sweater fraying at the wrists. He takes in my wet hair, my duffel, then looks past me at the Civic.
 
 "Ms. Calder," he says. His voice has that worn-down steadiness of someone who has given the same timeline to Coast Guard officers and insurance adjusters twenty times running. "You beat the tide."
 
@@ -34,9 +34,9 @@ The black door pulls back. Graham Kiefer stands in the doorway with one hand on 
 
 The front entry is a low, chilly mudroom tacked onto the main two-story wing, wrapping past a utility sink toward a side door by the garage bay. A coat bench and tall closet line the inner wall. Above the bench, rain taps on a skylight hatch set low into the pitched roof, eight feet up at most, the only bare glass left uncovered above the metal shutter boxes mounted over the lower windows.
 
-Through the archway, the main floor opens up. A modern kitchen with a pale limestone island takes up the right side of the room; to the left, an open oak staircase climbs to the second floor, with a ground-floor hallway tucking behind it. Straight ahead, past the dining room, a massive wall of ocean glass frames black water and churning foam below the cliff. It throws my own tired face back at me over the drop.
+Through the archway, the main floor opens up. A modern kitchen with a long stone island takes up the right side of the room; to the left, an open oak staircase climbs to the second floor, with a ground-floor hallway tucking behind it. Straight ahead, past the dining room, a massive wall of ocean glass frames black water and churning foam below the cliff. It throws my own tired face back at me over the drop.
 
-Graham walks me past the island and stops at a narrow maple table near the stairs. A thick manila folder lies centered on the tabletop beside a cheap black rollerball, its edges squared to the grain.
+Graham walks me past the island and stops at a narrow table near the stairs. A thick manila folder lies centered on the tabletop beside a cheap black rollerball, its edges squared to the grain.
 
 "Tea?" He nods toward an electric kettle with its cord coiled by the sink. "Chamomile, or black? I forget to bump the heat until the fog moves in."
 
@@ -88,11 +88,11 @@ Fifty fresh hundreds strapped in a single five-thousand-dollar Portsmouth bank b
 
 "Got it."
 
-"Three." He nods toward the underside of the open oak stairs, where a flush wood door blends into the paneling. "Those concrete steps go down to my acoustic darkroom and prototype servers, behind a steel fire door with a brass deadbolt. Half those units are under Defense Department NDAs. If you trip the perimeter latch, my security vendor in Portland logs an automatic breach alert. Your contract voids on the spot. Clear?"
+"Three." He nods toward the underside of the open oak stairs, where a flush wood door blends into the paneling. "Those concrete steps go down to my acoustic darkroom and prototype servers, behind a steel fire door with a heavy deadbolt. Half those units are under Defense Department NDAs. If you trip the perimeter latch, my security vendor in Portland logs an automatic breach alert. Your contract voids on the spot. Clear?"
 
 "I'm here to pack sweaters, Mr. Kiefer, not steal defense patents."
 
-"Graham." He digs into his pocket and drops a heavy brass house key onto the tabletop, its teeth worn smooth. "The porch keypad rotates codes every two days. Use the brass key for the front door. Your guest suite is down the ground-floor north hall, first left. Towels are on the rail."
+"Graham." He digs into his pocket and drops a heavy brass house key onto the tabletop, its teeth worn smooth. "The porch keypad rotates codes every two days. Use the key for the front door. Your guest suite is down the ground-floor north hall, first left. Towels are on the rail."
 
 I start to ask where the green archival totes are, but his phone buzzes on the counter.
 
@@ -110,13 +110,13 @@ My boot clips the edge of the rubber boot tray beside the coat bench. A pair of 
 
 Of course he put his dead wife's boots away. Anyone would.
 
-I pull open the tall coat closet beside the bench. The hinges don't make a sound. Four heavy men's wool overcoats hang spaced apart on wooden hangers, still stiff from the dry cleaner. An olive-canvas weekender trimmed in brown leather is shoved into the back corner on the floor, half-hidden under the hem of Graham's longest charcoal trench coat. A gold-stamped luggage tag dangles from the brass zipper ring: *L.K.*
+I pull open the tall coat closet beside the bench. The hinges don't make a sound. Four heavy men's wool overcoats hang spaced apart on wooden hangers, still stiff from the dry cleaner. An olive-canvas weekender trimmed in brown leather is shoved into the back corner on the floor, half-hidden under the hem of Graham's longest trench coat. A gold-stamped luggage tag dangles from the zipper ring: *L.K.*
 
 I stop, the jacket still wadded in my hand.
 
 Nineteen days since Lydia Kiefer took a skiff past the breakwater during an October squall and didn't come back. The Coast Guard called off the search days later. Her attorneys file for probate Friday.
 
-A man who squares envelopes to table grain doesn't cram a packed weekender behind his coats. My hand is already on the brass grip.
+A man who squares envelopes to table grain doesn't cram a packed weekender behind his coats. My hand is already on the leather grip.
 
 A tiny tarnished padlock hangs through the zipper eye, unlocked, its metal loop pushed through loose and left unlatched. An elastic cord loops a stiff paper luggage tag onto the leather handle, blue ink printed along its perforated edge, the kind ferries use for deck baggage.
 

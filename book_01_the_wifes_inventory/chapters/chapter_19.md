@@ -2,7 +2,7 @@
 
 Graham hasn't moved from the sunroom radiator.
 
-Through the wet glass, his bruised face looks pale in the fading gray dusk, eyes fixed on the front hall arch. He looks smaller than he did an hour ago, shoulders hunched against the cast iron, waiting for footsteps he knows are coming. I stay crouched beneath the sill. Every minute I linger on this deck, Cole Halstead gets closer up the gravel spur.
+Through the wet glass, his bruised face looks pale in the fading gray dusk, eyes fixed on the front hall arch. He looks smaller than he did an hour ago, shoulders hunched against the cast iron, waiting for footsteps he knows are coming. I stay crouched beneath the sill. Every minute I linger on this deck, Cole Halstead gets closer on foot up the gravel spur from where he left his cruiser across the culvert neck.
 
 I back down the steps, nearly losing a heel on a slick board, and hug the blind north siding to the front turnaround. Rain drives sideways across the gravel, and my sneakers squelch over wet needles with every step.
 
@@ -10,13 +10,13 @@ My Civic sits by the drive with its trunk lid resting just shy of the latch in t
 
 I crouch below the sidelights. Rain hammers the porch behind me, loud enough to cover my breathing. Inside, the front entry lies in deep shadow, the living room arch beyond it dark too. A branch scrapes against the clapboard somewhere overhead. Then a floorboard creaks down the north hall, near Graham's study. Lydia.
 
-I fumble the house key out of my pocket and drop it on the stone sill before I can even find the keyhole. Stupid cold hands. I scoop it up between stiff palms, force the lock to turn, and slip inside. One sneaker squeaks on the stone.
+I fumble the brass house key out of my pocket and drop it on the stone sill before I can even find the keyhole. Stupid cold hands. I scoop it up between stiff palms, force the heavy deadbolt to turn, and slip inside. One sneaker squeaks on the stone.
 
 I stop beside the coat closet and listen. Down the north hall, my guest room door stands half-open. The house feels hollow around me, just wind rattling the tall living room windows and the hum of cooling fans drifting from the study.
 
-I tuck the oyster knife into my waistband and cross toward the kitchen arch. The manila envelope from the basement lies on the limestone island, its `OCT 14 — MASTER BACKUP` stamp pale in the dim light. I leave it there. Lydia's live boathouse confession is sitting on the cellar server, and that's what I came back for.
+I tuck the oyster knife into my waistband and cross toward the kitchen arch. The manila envelope from the basement lies on the island, its `OCT 14 — MASTER BACKUP` stamp pale in the dim light. I leave it there. Lydia's live boathouse confession is sitting on the cellar server, and that's what I came back for.
 
-Halfway across the tile, a cabinet door clicks shut down the hall. Through the archway gap, I catch Lydia stepping out of Graham's study. She moves with a cool, proprietary calm, slipping a small portable backup drive into her waxed-canvas pocket as if she already owns every room in the house. For one second she pauses under the hall sconce, glancing down at the dark screen of her phone, her thumb hovering over it. Then she lifts her chin and starts toward the kitchen.
+Halfway across the tile, a cabinet door clicks shut down the hall. Through the archway gap, I catch Lydia stepping out of Graham's study. She moves with a cool, proprietary calm, slipping a small portable backup drive into her parka pocket as if she already owns every room in the house. For one second she pauses under the hall sconce, glancing down at the dark screen of her phone, her thumb hovering over it. Then she lifts her chin and starts toward the kitchen.
 
 She's heading my way.
 
@@ -34,13 +34,13 @@ Heavy boots hit the front entry overhead, followed by the jingle of a key ring a
 
 Cole is back.
 
-"Nothing on the ridge road," his coastal drawl carries down through the joists. "Civic's still out front with the trunk sitting off the latch. She didn't get off the point, Lydie."
+"Nothing on the ridge road," his coastal drawl carries down through the joists, winded from the hike back up the spur. "Left the cruiser wedged across the causeway neck, and the Civic's still out front with the trunk sitting off the latch. She didn't get off the point, Lydie."
 
 I freeze on the ladder and lock one trembling knee over an iron bar to take weight off my wrist. Cold water drips off my hem into the dark below, each *plink* against the cellar floor sounding louder than it has any right to.
 
 "Finish the driveway check," Lydia says from the kitchen, her heels tapping across tile. The brisk, dry click of them makes me irrationally furious while I'm hanging in a spider-webbed chute like a drowned rat. "If she crawled back up those cliff stairs, she's going after the basement server."
 
-Cole's boots thud toward the island. "Wrist is bleeding straight through the cruiser gauze," he growls. A drawer slides open, then shuts with a sharp slap. "Don't drip on the limestone," Lydia snaps. "And next time try keeping your footing before you knock my gun into the cove."
+Cole's boots thud toward the island. "Wrist is bleeding straight through the cruiser gauze," he growls. A drawer slides open, then shuts with a sharp slap. "Don't drip on the counter," Lydia snaps. "And next time try keeping your footing before you knock my gun into the cove."
 
 "You're the one who told me she was tied up," Cole shoots back, his voice dropping ugly and tight. "High water's twenty minutes off the causeway. We don't have time to babysit a server rack if the road floods out."
 

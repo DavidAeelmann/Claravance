@@ -18,11 +18,11 @@ He doesn't argue. He grabs a dish towel off the kitchen counter to swab the floo
 
 The cash is still under my shirts, but the side-pouch zipper is flipped outward. I yank it open. My spare Civic key fob is gone. Somebody lifted it while my back was turned, which explains how somebody got into my trunk without leaving a pry mark on the paint. I drop the knotted glove finger from my pocket into the pouch, zip it shut, and cross the north hall.
 
-Graham's study is right opposite my room. Unlike the glass rooms out front, it's narrow and closed in, lined with dark acoustic baffling and walnut bookshelves. A steel server rack hums in the corner behind a smoked-glass door, blue and amber LEDs glowing inside.
+Graham's study is right opposite my room. Unlike the glass rooms out front, it's narrow and closed in, lined with dark acoustic baffling and built-in bookshelves. A steel server rack hums in the corner behind a smoked-glass door, blue and amber LEDs glowing inside.
 
 "Sit," I say.
 
-Graham drops into the desk chair and wakes the dual displays. White light catches the dark circles under his eyes and the rumpled collar of his charcoal sweater.
+Graham drops into the desk chair and wakes the dual displays. White light catches the dark circles under his eyes and the rumpled collar of his olive sweater.
 
 I set the thumb drive beside his keyboard. "Mount the raw partition. The full unedited audio from October fifteenth, two-fourteen."
 
@@ -34,11 +34,11 @@ He exhales sharply through his nose and starts typing.
 
 ***
 
-A green progress bar crawls across the left display. Rain beats against the north window, and the tower fans kick higher. On the right screen, an Arlington staffing folder sits open behind the terminal, and an unsealed manila folder tabbed with my name rests beside the keyboard. Graham's hands stay in plain sight. I flip the cover back. Inside is a two-page Boston background report dated October twenty-first, listing my Commercial Street fire-manifest termination and my $18,412 Cumberland County judgment. Graham's own typed screening note is stapled to the corner:
+A green progress bar crawls across the left display. Rain beats against the north window, and the tower fans kick higher. On the right screen, an Arlington staffing folder sits open behind the terminal, and an unsealed manila folder tabbed with my name rests beside the keyboard. Graham's hands stay in plain sight. I flip the cover back. Inside is a two-page Boston background report dated October twenty-first, listing my Commercial Street fire-manifest termination and my $18,412 Cumberland County judgment. A yellow sticky note is pressed to the corner:
 
-*Refused dirty sign-off 2023. $18,412 levy pending Nov. Cornered enough to take cash, too stubborn to walk past a six-minute Zone 4 dropout or a dry life vest. Put under $50k IP NDA (leave Clause 3 photo ban intact to test if she demands chain-of-custody rider). Watch what Oct 15 tampering she flags first.*
+*Calder — Harbor Mutual fire claim, $18k judgment. Won't talk to Knox SO. Test w/ NDA.*
 
-I slide the memo onto his mouse hand and tap it with the wrench. "October twenty-first," I say. "You pulled my eviction ledger the exact day you spotted the Zone Four dropout and the dry life vest. You bought a broke investigator as a cheap tripwire, Graham, and left me walking blind while Cole Halstead ran my plates. *Too stubborn to walk past.* Jesus."
+I slide the folder onto his mouse hand and tap the note with the wrench. "October twenty-first," I say. "You pulled my file the exact day you spotted the Zone Four dropout and the dry life vest. You bought a broke investigator as a cheap tripwire, Graham, and left me walking blind while Cole Halstead ran my plates."
 
 He doesn't pull his hand back. His fingers curl slightly against the paper. "I needed the Arlington inventory finished before November fourteenth, and I needed eyes nobody in Knox County owned. If I'd briefed a stranger on day one and you went straight to a deputy, I'd be in cuffs before I figured out who was dirty."
 

@@ -1,8 +1,8 @@
 # Chapter 3
 
-The studio door swings open on silent hinges and throws a pale wedge of hallway light across the floorboards. I'm already by the flat-files, one hand resting on the neck of the desk lamp like I bumped into it looking for the switch.
+My hand is already on the neck of the desk lamp, fingers curled loose like I just bumped into it hunting for the switch in the dark.
 
-Graham stops in the doorway with an empty mug hooked on his finger, still in the charcoal sweater. He looks past me to the walnut desk to check the blotter and the closed sketchbook, then glances down at my wool socks.
+The studio door swings wide on silent hinges and throws a pale wedge of hallway light across the floorboards. Graham stops on the threshold with an empty mug hooked on his finger, still in the olive sweater. He checks the desk first—the blotter, the closed sketchbook—then drops his gaze to my wool socks.
 
 "Thought I heard a latch," he says in a low voice that barely carries over the wind against the glass. "You said you weren't starting till morning."
 
@@ -12,7 +12,7 @@ He steps into the room anyway, slow and methodical, as if checking whether a dra
 
 Instead, the stiffness goes out of his shoulders. He doesn't touch the pen or the pad. He just looks at the blotter for a second, then turns toward the window.
 
-"Lydia hated overhead lights," he says. He stares out at the black water through the painted-shut sash. "She'd work under that brass lamp until two in the morning when she had a commission due. I left the room the way she had it for the lawyers."
+"Lydia hated overhead lights," he says. He stares out at the black water through the painted-shut sash. "She'd work under that lamp until two in the morning when she had a commission due. I left the room the way she had it for the lawyers."
 
 "Even the brushes?" It comes out before I can stop it.
 
@@ -31,6 +31,14 @@ By seven-thirty, the fog has pressed right up against the dining-room glass, swa
 "Black?" he asks. He keeps his eyes on the carafe as he slides a mug across the stone.
 
 "Please." I pull out a barstool and take the mug. It tastes like it sat on the burner since Tuesday. I thought about hitting record on my phone in my pocket. Maine is a one-party consent state, sure, but getting caught running a hot mic in a defense contractor's kitchen is an easy way to buy a lawsuit.
+
+I set the mug down on the bare stone. Graham's eyes drop straight to the faint damp ring around the base, and he reaches across for a cork coaster stacked beside the fruit bowl, nudging it next to my elbow without a word.
+
+"Lydia couldn't stand rings on the honed soapstone," he says, still looking at the counter. "Even plain water. And she alphabetized the spice jars in the pull-out by Latin name, which drove me crazy every time I wanted cumin."
+
+I lift the mug onto the cork. "Good to know. I'll stay out of the cumin."
+
+He gives a stiff, joyless half-nod, the small talk dying flat between us, and glances back toward the glass.
 
 Graham leans back against the counter, sips, and watches the exposed mudflats. "I ordered twenty wardrobe cartons and acid-free tissue from a supply house in Rockland. They're dropping them at the gate by noon."
 
@@ -58,7 +66,7 @@ He looks down into his cup. "Her brother lives in Zurich. Hasn't spoken to her s
 
 "How much?"
 
-He hesitates. "Five-point-four."
+"Five-point-four."
 
 "Million?"
 
@@ -106,4 +114,4 @@ Behind me, the glass door slides open on its track. Graham steps out onto the de
 
 "Doesn't look like she's wandering up here." I step back inside before he can read my face.
 
-Graham holds the glass door open, his hand lingering on the frame. Down by the water, the locked boathouse roof shines wet in the mist, that torn strip of county paper twitching against the dark wood.
+Graham holds the glass door open, his hand lingering on the frame until I pass him. Neither of us mentions the boathouse or the torn county seal down at the bottom of the stairs. I take the clipboard he hands me, nod like a good contractor, and tell myself I'm just here to price armchairs until Friday.

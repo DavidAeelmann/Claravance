@@ -1,8 +1,8 @@
 # Chapter 16
 
-The gate motor clicks off behind him, and a pair of amber parking lights glides around the ridge bend through the trees. Two minutes out, tops.
+"Take your car." Graham shoves back from the desk, his chair banging into the shelves as he points toward the front hall. "Use the gravel spur before he makes the drive. If Halstead walks in with that audio queued—"
 
-"Take your car." Graham shoves back from the desk. His chair bangs into the walnut shelves as he points toward the front hall. "Use the gravel spur before he makes the drive. If Halstead walks in with that audio queued—"
+Outside, the gate motor clicks off behind him, and a pair of amber parking lights glides around the ridge bend through the trees. Two minutes out, tops.
 
 "I won't make it past the causeway in the Civic." My eyes stay locked on the phone screen as the USB transfer from the tower hits ninety-six percent and pulls the raw pantry recording onto my phone. "There's a bleach-stained rag in my spare-tire well, and Knox County already has a spliced confession in my voice. The minute I hit Route 1, Cole puts out a bulletin and drags me out of my seat."
 
@@ -26,9 +26,13 @@ Graham catches my sleeve before I reach the doorway, his fingers clammy through 
 
 "Where are you going?"
 
-I'm already moving down the north hall. Passing the kitchen arch, I see the manila envelope still lying on the island. Good. Let Cole waste time chasing paper inside. I angle into the sunroom and step across the crooked rug.
+"The boathouse."
 
-"The boathouse," I call back as Graham reaches the archway. "After that fake confession, a raw WAV file off an acoustic engineer's server won't clear us on its own. Cole will just claim you synthesized Lydia's voice in your darkroom. I need three minutes to shoot the physical staging gear inside that sealed boathouse to back up the tape, then I'll climb the back switchback to the spruce ridge where signal holds."
+"Tessa—"
+
+"One WAV file from your basement won't beat a spliced confession. I need photos from the boathouse."
+
+I'm already moving down the north hall. Passing the kitchen arch, I see the manila envelope still lying on the island. Good. Let Cole waste time chasing paper inside. Beside the range, three tall green bottles of imported finishing olive oil stand lined up by height like museum pieces. Three different kinds of olive oil in a house where nobody even cooks, and I'm about to sprint down a slick cliff in spare sneakers because I couldn't afford to turn down a fifteen-thousand-dollar check. Rich people deserve every headache they buy. I angle into the sunroom and step across the crooked rug.
 
 Graham grabs the doorframe, his face gray in the storm light. "Don't go down there alone, Tessa. If Lydia's iPad just synced on local mesh, whoever is using it is still on this property."
 
@@ -52,7 +56,7 @@ Ahead of me, the Kiefer boathouse squats on its pilings, its cedar shingles weat
 
 I step off the bottom stair onto oyster shells and duck under the north eaves. High up on the ridge, a heavy car door thuds shut in the rain, followed by the crunch of boots on wet gravel in the turnaround.
 
-Cole is at the house. I picture Graham fumbling with the brass chain, his voice pitching too high, giving everything away in the first ten seconds. Stop thinking about him. Just move.
+Cole is at the house. I picture Graham fumbling with the door chain, his voice pitching too high, giving everything away in the first ten seconds. Stop thinking about him. Just move.
 
 I hug the damp shingles along the side wall until I reach the narrow side window facing the ledges. Graham swore the boathouse had stayed locked since the Coast Guard finished searching. When I run my fingers along the weathered sill, though, the gray paint along the bottom seam isn't swollen shut with salt crust. Someone ran a sharp blade down the joint.
 
@@ -62,7 +66,7 @@ I flatten against the shingles and listen. Rain ticks on the cedar roof; underne
 
 ***
 
-My sneakers hit damp cedar decking with a dull thud. The dark room smells of stale diesel from an old engine tank. Below the center boards, black water slaps against the pilings and sends damp echoes up through the gaps. Gray storm light bleeds through the salt-clouded high glass above the double doors, laying pale bars across stacked lobster traps, coiled dock lines, and a cedar workbench along the far wall.
+My sneakers hit damp cedar decking with a dull thud. The dark room smells of stale diesel from an old engine tank. Below the center boards, black water slaps against the pilings and sends damp echoes up through the gaps. Gray storm light bleeds through the salt-clouded high glass above the double doors, laying pale bars across stacked lobster traps and a workbench along the far wall.
 
 Suspended low from the rafters on rope slings at shoulder height, a yellow fiberglass sea kayak sways almost imperceptibly in the draft from the open window behind me, its hull blocking off the back corner of the room.
 
@@ -74,12 +78,12 @@ I pull my phone, check that the flash is off, and crouch low to frame the bleach
 
 A boot heel scuffs against grit behind the hanging kayak.
 
-I freeze, the phone still held chest-high.
+I stop breathing, the phone still held chest-high.
 
 Lydia Kiefer steps out from behind the yellow hull.
 
-My brain stalls, trying to square the woman standing in front of me with the glossy photo from Graham's spring profile. Her dark hair is pulled back into a tight knot, and she's wearing a charcoal waxed-canvas jacket over dark trousers, dry and completely composed. In her right hand, she holds a subcompact Glock 26 leveled at waist height, aimed at my chest.
+My brain stalls, trying to square the woman standing in front of me with the glossy photo from Graham's spring profile. Her dark hair is pulled back into a tight knot, and she's wearing a faded green waxed parka over dark trousers, dry and completely composed. In her right hand, she holds a subcompact Glock 26 leveled at waist height, aimed at my chest.
 
-I stay frozen between the open window behind me and the gun four paces away.
+I stay rooted between the open window behind me and the gun four paces away.
 
 "Put the phone on the dock, Tessa," Lydia says, her voice calm over the slap of the rising tide. "You weren't supposed to find the dumbwaiter shaft."

@@ -1,8 +1,8 @@
 # Chapter 10
 
-"You look frozen," Graham says, nodding toward the low leather sofa on his way to the walnut credenza. "The radiator in the guest wing never keeps up in a southeast wind. Have a drink before you turn in."
+"You look chilled to the bone," Graham says, nodding toward the sofa on his way to the credenza. "The radiator in the guest wing never keeps up in a southeast wind. Have a drink before you turn in."
 
-He's traded his charcoal suit for a dark merino crewneck, though he still looks wrung out from the drive. A birch fire snaps behind the screen, pushing dry heat against the cold off the seaward glass. Outside, Salt Point Cove is solid black, not a single dock light burning along the point. Twenty minutes ago I barely beat his garage bay through the mudroom side door, palming the B-4 key inside my jacket pocket so it wouldn't clink against the hook, and sprinted upstairs to kneel outside the master closet with a strip of packing tape across my knuckles before he crossed the hall.
+He's traded his suit for a dark olive sweater, though he still looks wrung out from the drive. A birch fire snaps behind the screen, pushing dry heat against the cold off the seaward glass. Outside, Salt Point Cove is solid black, not a single dock light burning along the point. Twenty minutes ago I barely beat his garage bay through the mudroom side door, palming the B-4 key inside my jacket pocket so it wouldn't clink against the hook, and sprinted upstairs to kneel outside the master closet with a strip of packing tape across my knuckles before he crossed the hall.
 
 "Water's fine, Graham."
 
@@ -20,7 +20,7 @@ His fingers go still on the glass. Behind the firescreen, a birch log pops and t
 
 "Your Harbor Mutual license isn't active, Tessa," he says, the polite edge still in his voice. "You're a private contractor working under an NDA. Finish the house interior by four tomorrow, hand me a clean ledger, and the remaining ten thousand wires to your account before the courier hits the causeway. If you walk away short of that, we both know what the breach clause costs."
 
-He doesn't have to raise his voice to remind me who holds the checkbook, or what's waiting on my Civic's passenger seat. For a second I just want to throw the glass at the hearth and walk out, breach clause or not.
+He doesn't have to raise his voice to remind me who holds the checkbook, or what's waiting on my Civic's passenger seat. For a second I just want to throw the glass at the hearth and walk out, breach clause or not. Funny how my career arc has gone from testifying in federal subrogation hearings to getting lectured about contract law by a man in an expensive sweater. Give me another six months of smart choices like this and I'll be appraising haunted storage lockers in Bangor for gas money. Still, I keep my hands folded around my knees and let him finish.
 
 "Leave the boathouse off the preliminary schedule," he adds. "I told you Monday night. The county seal stays until the Coast Guard signs the final closure memo. Stick to what's inside the house."
 
@@ -28,13 +28,13 @@ He doesn't have to raise his voice to remind me who holds the checkbook, or what
 
 I open my mouth to ask about the boathouse, but his phone buzzes twice on the side table. He checks the screen and his mouth goes thin.
 
-"Hold that thought," he mutters, and sets his untouched glass on the brass tray by his chair. "Patent counsel in Boston. Let me grab ice for yours, too. The decanter's been left too close to the radiator."
+"Hold that thought," he mutters, and sets his untouched glass on the tray by his chair. "Patent counsel in Boston. Let me grab ice for yours, too. The decanter's been left too close to the radiator."
 
 He heads toward the kitchen with the phone already against his ear. I'm alone with the fire and two glasses. I don't hesitate. The second his footsteps clear the archway, I lean across the low table, lift my heavier glass by the base, and set it square on the tray beside his chair. Up close, the etched rim is worn smooth on one side where a thumb always rests. Definitely his regular glass. I pick up his untouched pour and set it on my coaster, matching the angle. If he spots the chalky swirl at the bottom of his own tumbler when he sits back down, we're both done pretending.
 
 If there's crushed zolpidem in that bourbon, he can drink his own pour.
 
-Ice clatters into a metal bucket in the kitchen, followed by Graham's voice dropping sharp and low near the pantry corridor. He's pacing as he argues with Boston about a bridge extension and an escrow holdback—two minutes, maybe three, before he hangs up. I slip off the sofa and cross silently to the walnut door of his north-hall study.
+Ice clatters into a metal bucket in the kitchen, followed by Graham's voice dropping sharp and low near the pantry corridor. He's pacing as he argues with Boston about a bridge extension and an escrow holdback—two minutes, maybe three, before he hangs up. I slip off the sofa and cross silently to the door of his north-hall study.
 
 Cold rises off the hearthstone. Only a pale wedge of hall light falls across the wide desk blotter. Yesterday morning the desk looked bare as a showroom. Tonight, a leather portfolio rests crooked beside the inkwell, and a shredder tucked under the return hums with a red **JAM** light, strips of cream bond paper wedged in its teeth. A half-torn wire-transfer receipt pokes out of the wastebasket underneath, smudged with toner.
 

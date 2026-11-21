@@ -1,10 +1,8 @@
 # Chapter 11
 
-Nearly two in the morning, the cast-iron radiator under my window gives a single sharp tick and goes quiet.
+St. Andrews Private Marina. Tuesday morning. A dead woman doesn't clear customs in New Brunswick, and I lie on top of the stripped quilt in my jeans and flannel staring at the ceiling because closing my eyes only makes the timestamp burn brighter behind my lids.
 
-I lie on top of the stripped quilt in my jeans and flannel and stare at the ceiling. The pipes cool. Outside, the cove wind drags dead pine needles across the dormer roof in irregular bursts. For a second I'm back in our old apartment in Burlington, awake on my side of the room while Nina's bed stayed made. That same hollow quiet right before a bad phone call, when you already know the morning is ruined before anyone speaks and you're just stalling the clock. Then the blue glow of my laptop on the nightstand drags me back to Salt Point.
-
-I tell myself to close my eyes for twenty minutes. Just twenty. Half of me wants to grab my duffel, walk down the gravel drive in the dark, and let whoever owns this house sort out their own mess by sunrise. The other half knows what happens if I leave without proof. Walking out at dawn isn't an option.
+Nearly two in the morning, the cast-iron radiator under my window gives a single sharp tick and goes quiet. The pipes cool while the cove wind drags dead pine needles across the dormer roof in irregular bursts. For a second I'm back in our old apartment in Burlington, awake on my side of the room while Nina's bed stayed made—that same hollow quiet right before a bad phone call, when you already know the morning is ruined before anyone speaks and you're just stalling the clock. No, stop turning every locked room into Vermont. Salt Point isn't Burlington, Lydia Kiefer isn't Nina, and nobody here is going to hand me a neat answer just because I lie awake worrying at the plaster. I tell myself to close my eyes for twenty minutes, just twenty, except the blue power light on my laptop keeps catching the corner of my vision and dragging me back to the breach clause sitting in my inbox. Half of me wants to grab my duffel, walk down the gravel drive in the dark, and let whoever owns this house sort out their own mess by sunrise. The other half knows my landlord doesn't take moral victories on the first of the month, and walking out without proof isn't an option.
 
 Thirty minutes crawl past. I'm reaching for my wool socks at the foot of the bed when a sharp metallic snap carries through the framing from the kitchen wing. The laptop clock reads 2:27. Too hollow for the front deadbolt, too clean for the wind. It rings like a heavy latch dropping home inside a wall near the pantry, followed by a low hum vibrating through the baseboard pipes, as if something weighted just settled on a line.
 
@@ -14,7 +12,7 @@ The north hall is dead quiet. I step onto the runner, keeping my weight on the e
 
 For all I know, he's sitting in a chair in the sunroom right now, watching the water.
 
-I hug the drywall toward the kitchen wing, one hand trailing the plaster to keep my bearings. Halfway down the hall, a gust slams the sunroom glass and rattles the frames. I freeze mid-stride until the wind drops. The furnace blower thumps softly underfoot, and gusts press the deck door against its seals. Passing the living room arch, I make out gray ash in the hearth and a dull glint off the two tumblers still left on the low table. The long leather sofa disappears into shadow past the stonework, empty.
+I hug the drywall toward the kitchen wing, one hand trailing the plaster to keep my bearings. Halfway down the hall, a gust slams the sunroom glass and rattles the frames. I pause mid-stride until the wind drops. The furnace blower thumps softly underfoot, and gusts press the deck door against its seals. Passing the living room arch, I make out gray ash in the hearth and a dull glint off the two tumblers still left on the low table. The sofa disappears into shadow past the stonework, empty.
 
 I duck into the mudroom first, keeping low under the wall tablet's standby glow, and fish **B-4** out of my jacket pocket. I drop the tissue-wrapped key into my front jeans pocket where I can reach it fast. If the pantry route closes behind me downstairs, old brass might be my only way back to the foyer.
 
@@ -22,7 +20,7 @@ In the pantry corridor, the breaker box is shut the way Halstead left it. Across
 
 Yesterday, when I pressed flat against these shelves to stay out of sight, the paneling behind the bottom spice rack gave slightly under my spine.
 
-One by one, I lift the stoneware crocks, paprika tins, and spice jars down onto a folded dish towel by my heels. My palms leave damp prints on the glass. Halfway through, a cumin jar bumps a tin of bay leaves with a sharp *ping* that sounds like a gunshot in the dark. I stop breathing and press my ear toward the louvered door. The house stays still. Only the wind outside, pushing against the kitchen windows. With the middle shelf cleared, I run my fingers along the seam where the vertical boards meet the cleat. Two hidden brass latches sit behind the jars, and a fresh thumbprint smudges the dust right across the right-hand slot.
+One by one, I lift the stoneware crocks and spice jars down onto a folded dish towel by my heels. My palms leave damp prints on the glass. Halfway through, a cumin jar bumps a tin of bay leaves with a sharp *ping* that sounds like a gunshot in the dark. I stop breathing and press my ear toward the louvered door. The house stays still. Only the wind outside, pushing against the kitchen windows. With the middle shelf cleared, I run my fingers along the seam where the vertical boards meet the cleat. Two hidden brass latches sit behind the jars, and a fresh thumbprint smudges the dust right across the right-hand slot.
 
 ***
 
@@ -48,9 +46,9 @@ Below the foundation line, the air goes oddly dead and muffled, swallowing even 
 
 ***
 
-Absolute darkness closes in, heavy and close. I stand still for three seconds, waiting for my eyes to find an outline, a crack under a door, anything. Nothing resolves. I reach out and brush thick charcoal foam lining the wall, where the damp chill of concrete gives way to the warm smell of running electronics. Across the room, a single green LED blinks slowly. I pull my phone back out for light and step off the ledge onto rubber matting.
+Absolute darkness closes in, heavy and close. I stand still for three seconds, waiting for my eyes to find an outline, a crack under a door, anything. Nothing resolves. I reach out and brush thick acoustic foam lining the wall, where the damp chill of concrete gives way to the warm smell of running electronics. Across the room, a single green LED blinks slowly. I pull my phone back out for light and step off the ledge onto rubber matting.
 
-My left heel catches a loose microphone cable snaked across the mat. The cord snaps taut and yanks a low aluminum tripod hard against the leg of a steel worktable beside the shaft. The table jolts and nudges the mouse on top.
+My left heel catches a loose microphone cable snaked across the mat. The cord snaps taut and yanks a tripod hard against the leg of a worktable beside the shaft. The table jolts and nudges the mouse on top.
 
 A heavy relay clicks inside a tower against the far wall. Two wide displays flare awake in blinding blue-white light, and cooling fans spin up to fill the deadened cellar with a steady hum.
 

@@ -18,6 +18,8 @@ Lydia steps behind me and presses the muzzle against the base of my skull while 
 
 Lydia's iPad Mini wakes under her thumb. She opens a blank note and starts tapping with calm thumbs. She doesn't even look winded. Most people at gunpoint at least breathe hard, or sweat, or let their voice shake, and Lydia looks like she's answering an email about catering.
 
+Beside her elbow on the workbench, a cheap plastic radio from the nineties sits coated in sawdust with its antenna snapped off at the knuckle, tuned to some dead AM static dial nobody has touched in twenty years. Next to it sits a mismatched coffee mug from a Camden dentist's office. Even a staged murder scene still has somebody's junk drawer sitting in plain sight.
+
 "What are you writing?" I ask.
 
 "Graham's apology," she says, her eyes fixed on the screen. "He's devastated about the two-point-four million. Even sorrier that the woman he hired to clean out the house panicked when a sheriff's deputy knocked on the door."
@@ -36,15 +38,15 @@ None of it helps me if Cole walks through those doors first. I need her talking 
 
 Her thumbs stop on the glass. For a second the only sound in the boathouse is the harbor water slapping the underside of the planks.
 
-"Cole couldn't stage a parking ticket without me," she snaps. "I walked off that dock in St. Andrews on my own two feet, and he doesn't touch a dime of my father's money."
+"Cole couldn't stage a parking ticket without me," she snaps. "I cleared that ferry and walked off the St. Andrews marina on my own two feet. He doesn't touch a dime of my father's money."
 
-"Right. Tell that to Boston probate when they freeze the estate for five years."
+"You really think Graham's going to sit still while Cole marches him down the cliff?"
 
-"There won't be probate," she shoots back, sharp and impatient. "The second Graham's dead with a signed confession next to him, the Cayman trust cuts his estate off cold. Every cent rolls straight to me."
+"Graham spent three years draining my father's accounts and looking past me like I was furniture," she says, her voice flat. "He thought he could trace my initials on a light table and slip out the back door before November."
 
 "The Coast Guard's going to pull him out of the cove by noon."
 
-She takes two steps closer and leans one hip against the bait table, right above the shadowed blue LED. "High water tops the causeway at five-fifteen. Nobody's pulling Graham out of Penobscot Bay tonight, and by morning there won't be enough left for a medical examiner to argue with. I'm finishing his note, dropping him off the rocks, and walking away clean."
+She takes two steps closer and leans one hip against the bait table, right above the shadowed blue LED. "High water tops the causeway at five-fifteen. Graham's not walking off Salt Point tonight, and by morning the tide won't leave enough of him for a medical examiner to argue with. I'm finishing his note, putting him in the bay, and walking away clean."
 
 Behind me, harbor water sucks hard against the slipway planks. I angle my bound wrists upward until the taut nylon ridge presses against the blade of the oyster knife. Keep her talking. Keep her leaning over that blue light.
 
@@ -66,11 +68,11 @@ She breaks off as a gust slams the roof overhead and sends a rattle of pine need
 
 My thumb brushes the rough wood. Almost. Just another quarter inch of give.
 
-"You're really going to let Cole walk away with half your father's trust?" I ask to buy ten more seconds, working the last frayed core against the edge. "A county deputy with a crooked tooth, a badge on the line, and a grudge. Once Graham's dead, Cole owns you."
+"You're really going to let Cole walk away with half your father's trust?" I ask to buy ten more seconds, working the last frayed core against the edge. "A county deputy with a badge on the line and a grudge. Once Graham's dead, Cole owns you."
 
 Lydia sets the iPad down on the workbench, scoops up the Glock, and steps in close, the barrel aimed straight between my eyes. "Cole knows what happens to people who—"
 
-Outside the north wall, boots crunch across crushed oyster shells. Heavy strides come off the cliff stairs, followed by the jingle of a sheriff's key ring and brass sliding into the padlock.
+Outside the north wall, boots crunch across crushed oyster shells. Heavy strides come off the cliff stairs, followed by the jingle of a sheriff's key ring and a key sliding into the padlock.
 
 The iron latch rattles outside. Lydia turns her head and right shoulder toward the double doors. Her weight shifts for a fraction of a second.
 

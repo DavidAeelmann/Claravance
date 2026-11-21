@@ -2,7 +2,7 @@
 
 Six thousand four hundred dollars left on the defamation suit that wrecked my career three years ago, down from eighteen, and the county levy is finally lifted.
 
-I stand at the kitchen counter with a mug of black coffee, looking down at two sheets of bond paper under the overhead bulb. The first is a stamped levy-release and payment-plan agreement from the Cumberland County clerk; the second is an embossed letter from the Maine Department of Public Safety restoring my private investigator bond, effective today, Monday morning. Four weeks after Salt Point, the cast-iron radiator in my Portland studio still knocks against the wall, and cold harbor air leaks around the single-pane glass.
+I stand at the kitchen counter with a mug of black coffee, looking down at two sheets of bond paper under the overhead bulb. The first is a stamped levy-release and payment-plan agreement from the Cumberland County clerk; the second is an embossed letter from the Maine Department of Public Safety restoring my private investigator bond, effective today, Monday morning. Four weeks after Salt Point, the electric baseboard heater in my Portland studio still ticks along the wall, and cold harbor air leaks around the single-pane glass.
 
 Between the county releasing my retainer and a ten-thousand-dollar cashier's check out of Graham's separate archiving escrow, I knocked twelve grand off the judgment—enough to get the bank freeze lifted and put the rest on fifty-dollar weekly installments. What was left in my checking account covered the state bond fee.
 
@@ -11,6 +11,8 @@ My left wrist still shows a pink seam under the cuff of my wool sweater where th
 I skipped the press. I gave my statement, signed the chain-of-custody logs, and drove back down Route 1 before Boston reporters ever found the causeway. Even Maren Lindqvist came out clean. The state granted her full immunity as the reporting witness, and three days ago a wooden crate of Salt Point oysters turned up on my landing with a harbor receipt tucked under the twine: *Dock's paid. Keep your head down.* I spent half of Thursday shucking them over the sink with a dull butter knife and gave the rest to my downstairs neighbor before they turned.
 
 The studio is already half-empty. My landlord's eviction notice is dead, though I'm still getting out of this drafty shoebox before the lease rolls. Two taped boxes are stacked beside the door. My duffel sits on the bare mattress, no longer packed for a midnight run, and the Civic waits at the curb downstairs with its muffler shield finally bolted down. I still owe Harbor Mutual's lawyers for the next two years, but the freeze is off my checking account and nobody's padlocking my door.
+
+Down on the sidewalk, the third-floor tenant's ancient, three-legged beagle is barking his head off at a seagull perched on a parking meter, the exact same fight they've been having at nine in the morning since September. The gull never moves, and the dog never learns. I take another sip of burnt coffee from my chipped Portland Sea Dogs mug and figure I'm not in much of a position to judge him.
 
 At ten o'clock, I have an intake interview with a regional marine-insurance adjuster on Congress Street. Standard desk audits: flooded hulls, dock claims, documented chain-of-custody. Daylight work with real witnesses and paper trails that don't end inside a soundproofed cellar. I'll have to sit across a laminate desk and explain why the state pulled my bond three years ago, and why they handed it back this morning, and try not to let him notice the salt crusted along the hem of my only clean slacks.
 
@@ -22,7 +24,7 @@ Ten minutes later, I push through the glass door of Becky's Diner on Commercial 
 
 The waitress tops off a chipped mug before I ask, her pencil tucked behind one ear, and I pull out the printed marine-insurance application I brought to look over before ten. Half the questions are standard underwriting boilerplate, the kind of thing I used to fill out with my eyes closed, except my left wrist still stiffens whenever I try to write for more than a minute.
 
-The brass bell over the door jingles. A woman in a tailored charcoal wool coat ignores the host stand and heads straight for my booth. Her silver-streaked dark hair is pulled into a low knot, a slim oxblood briefcase tucked under her arm, and somehow her boots don't have a speck of road salt on them. She doesn't ask if the seat is taken. She slides onto the red vinyl across from me and sets the briefcase between the salt shaker and the ketchup bottle.
+The bell over the door jingles. A woman in a tailored burgundy wool coat ignores the host stand and heads straight for my booth. Her silver-streaked dark hair is pulled into a low knot, a slim oxblood briefcase tucked under her arm, and somehow her boots don't have a speck of road salt on them. She doesn't ask if the seat is taken. She slides onto the red vinyl across from me and sets the briefcase between the salt shaker and the ketchup bottle.
 
 "Ms. Calder," she says, her voice low and clipped. "You're harder to pin down than a probate subpoena. Your number's been going straight to voicemail since November fifth."
 
@@ -46,7 +48,7 @@ She pauses until the waitress walks past with a fresh carafe and the booth behin
 
 "Most people don't like getting locked in a basement," I say. "If you're here for a receipt, the clerk's office already cleared the check."
 
-"I'm not here for a receipt, Tessa." She unsnaps the brass latches on her briefcase. "My firm represents families whose problems can't survive a public probate docket. Quiet archiving. Discreet asset verification. Your investigator bond cleared this morning, and your bank levy is lifted."
+"I'm not here for a receipt, Tessa." She unsnaps the latches on her briefcase. "My firm represents families whose problems can't survive a public probate docket. Quiet archiving. Discreet asset verification. Your investigator bond cleared this morning, and your bank levy is lifted."
 
 I keep my face still. She knows the day my bond reinstated and she knows my county docket status. That kind of reach doesn't stop at a Boston escrow file.
 
@@ -72,7 +74,7 @@ I look down despite myself. A sprawling timber-and-stone lodge is buried halfway
 
 "The lodge has been legally empty since October," Margot says. She taps one gloved fingertip against the white border of the print. "It's clear you like a little mystery, that you don't walk past a loose thread once you see it. Turn it over."
 
-The diner door bangs behind a pair of dockworkers, letting in a sharp draft of harbor wind. Everything I dragged myself out of at Salt Point tells me to grab my duffel, walk out into the cold, and keep walking. I didn't crawl out of a frozen cove just to step into another rich family's locked house in the snow.
+The diner door bangs behind a pair of dockworkers, letting in a sharp draft of harbor wind. Everything I dragged myself out of at Salt Point tells me to grab my duffel, walk out into the cold, and keep walking. I didn't crawl out of an icy cove just to step into another rich family's locked house in the snow.
 
 Still, Margot hasn't moved her hand.
 

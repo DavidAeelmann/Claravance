@@ -1,10 +1,8 @@
 # Chapter 14
 
-Cold air drifts down the concrete stairwell from the open front hall. My fingers curl around the multi-tool.
+"How did you get past the deadbolt?" Graham's voice comes down the concrete stairwell thin and uneven. "The hall sensor never chimed."
 
-Graham stands in the fire doorway with gray dawn light behind him and a pipe wrench hanging low in his right hand. He checks my face first, then the manila envelope tucked under my arm, and finally the worktable where the server rack hums beneath the lit blue displays.
-
-"How did you get past the deadbolt?" he asks, his voice thin and uneven. "The hall sensor never chimed."
+Cold air drifts from the open front hall behind him, and my fingers curl around the multi-tool. He stands in the fire doorway with gray dawn light at his back and an iron pipe wrench hanging low in his right hand, checking my face first, then the manila envelope tucked under my arm, and finally the worktable where the server rack hums beneath the lit blue displays.
 
 "Didn't use the hall door." I keep the worktable between us. "Drop the wrench, Graham. Now."
 
@@ -22,21 +20,17 @@ He stops dead beside the steel jamb. He looks down at the pipe wrench as if he's
 
 "Funny. You seemed wide awake when you poured it."
 
-"Somebody dried a clear dose into the cut-crystal grooves of my tumbler on the credenza while I was in Portland," he says. He presses a palm briefly against his temple and leans into the jamb for balance. "When I got home, I poured into my usual glass and handed it to you out of habit. Only way I ended up out cold on that sofa is if you spotted the haze at the bottom and switched them while I was getting ice."
+"Somebody dried a clear dose into the cut-crystal grooves of my tumbler on the credenza while I was in Portland. When I got home, I poured into my usual glass and handed it to you out of habit. Only way I ended up out cold on that sofa is if you spotted the haze at the bottom and switched them while I was getting ice."
 
 "You didn't throw the deadbolt at two-thirty?"
 
-"I didn't move until quarter to six." He turns and starts up the concrete steps, waving an unsteady hand toward the kitchen arch. "My keys were lying on the floor by the sofa. Chair was jammed under the pantry knob. Front door was standing open."
-
-"And you didn't think to check the cellar?"
-
-"I heard the darkroom fans pulling power," he says, pausing on the landing to catch his breath. "The fire door's exterior contact sensor chimes on the upstairs panel even when the keypad is bypassed, so whoever dropped down that dumbwaiter shaft used the chute to pull raw voice samples of you off the unencrypted mic buffer without tripping the house log. They climbed back out, heard you moving in the kitchen—or heard the cabinet latch snap—and lifted my keys off the sofa to check the stairwell. When they cracked the fire door and saw the blue monitors glowing with you inside, throwing that deadbolt and jamming the pantry was an emergency move to keep you pinned down here while they ran. The bass traps must've blocked their view of the pried cabinet. They tossed my keys back by the sofa assuming I'd stay out cold till noon. Come up. If I wanted you buried down there, I wouldn't have turned the key."
+"I didn't move until quarter to six. I heard the fans running when I woke up. My keys were on the rug, chair was shoved under the pantry knob, front door wide open." He rubs his eyes like he's trying to scrape the Ambien off them. "Whoever came down that chute didn't expect to find you sitting in the blue light. Locking you in was panic, not a plan. Come up. If I wanted you dead down there, I wouldn't have brought a key."
 
 ***
 
 I don't trust him for half a second, though staying in a concrete box with one door isn't a plan either. I pocket the multi-tool, grab the wrench off the bottom step, and follow him up into the kitchen at arm's length.
 
-Thin gray morning light washes across the limestone island. Rain streaks down the back deck glass. Graham doesn't look for another weapon. He walks to the sink, fills a tall glass with cold tap water, and drinks it down in three hard swallows before leaning both palms on the counter with his head hung between his shoulders. Whatever was at the bottom of that bourbon hit him hard; his fingers are still shaking. My left heel is cold from the cellar floor, and I'm tired enough that the sound of him swallowing gets under my skin.
+Thin gray morning light washes across the island. Rain streaks down the back deck glass. Graham doesn't look for another weapon. He walks to the sink, fills a tall glass with cold tap water, and drinks it down in three hard swallows before leaning both palms on the counter with his head hung between his shoulders. Whatever was at the bottom of that bourbon hit him hard; his fingers are still shaking. My left heel is cold from the cellar floor, and I'm tired enough that the sound of him swallowing gets under my skin.
 
 "You forged Lydia's initials on six trust transfers," I say from the far side of the island. I set the envelope next to the toaster; the thumb drive stays hidden in my watch pocket. "October tenth, four days before the storm. You even sliced three signed study pages out of her sketchbook to trace her initials on a light table."
 
@@ -94,7 +88,7 @@ His mouth opens, then closes. "I didn't take those out of the closet, Tessa," he
 
 I follow him to the front entry archway. Rain beads across the low overhead skylight above the coat bench, and cold gray light falls onto a dark puddle by the stairwell door.
 
-"And the olive weekender shoved behind your wool coats?" I nod toward the tall cedar closet beside the bench. "Bar Harbor–Yarmouth, Slip Four, stamped October seventeenth, three days after you say she drowned."
+"And the olive weekender shoved behind your wool coats?" I nod toward the tall closet beside the bench. "Bar Harbor–Yarmouth, Slip Four, stamped October seventeenth, three days after you say she drowned."
 
 Graham turns sharply, yanks the closet door open, and shoves two overcoats aside. He stares down at the canvas bag on the floor, his hand dropping off the wool sleeve. "That wasn't there Sunday night. Halstead came by Monday morning to drop off a supplemental marine report while I was down in the cellar. He stood right here in this entryway for five minutes."
 
@@ -102,10 +96,12 @@ Past him, through the tall glass sidelights, mist curls over the wet gravel turn
 
 Graham points down at the duck boots and the navy tote dripping brackish rainwater onto the entry floor.
 
-"When I woke up at five-forty-five and found the front door unlatched, I stepped out on the porch," he says, his voice low. "Fresh muddy boot prints led straight across the wet gravel to your rear bumper, and a corner of blue tarp was pinched in the rubber weatherstripping, keeping the latch from catching. I lifted the lid, pulled Lydia's boots and that tote out, and then saw what was tucked underneath in your spare-tire well: a boat rag damp with the same bleach from the sunroom floor, wrapped around a bronze cleat pried off our boathouse dock. I stopped right there, left both the rag and the cleat untouched so I wouldn't smear the planter's prints, and eased the lid back down on the weatherstripping so it wouldn't slam in the quiet. Think about what happens when Halstead serves a warrant on your Civic: bleach from the sunroom cleanup, a cleat from the boathouse, and Lydia's boots riding in the back of the hired cleaner's car. They want a jury looking at both of us in that sunroom, Tessa."
+"Muddy boot prints right across the gravel to your rear bumper," he says, gesturing toward the sidelights. "A corner of blue tarp was pinched in the weatherstripping, keeping the lid from latching. I pulled Lydia's boots and that tote out before I saw what was under them in the spare-tire well—a bleach-soaked boat rag wrapped around a bronze cleat from our dock. I didn't touch either one. Just eased the lid back down. Halstead serves a warrant on your Civic, they pin that sunroom on both of us."
 
 I stare out at the Civic's rear bumper. Going out there for the cleat puts my own prints on the cleanup hardware, and whoever's watching from the cove will take notes—or maybe they're already halfway down the drive, which doesn't leave me much time to be clever. Calling the state police over the house Wi-Fi right now just brings troopers into a house full of Graham's forged transfers while Lydia's boots sit in my spare-tire well, and I am not leaving Salt Point in handcuffs because I couldn't wait for a thumb drive to decrypt.
 
 "Give me the passphrase for the raw basement partition," I say. "Right now."
 
 Graham shakes his head and nudges the muddy duck boots and tote out of sight behind the coat bench where nobody watching the sidelights can spot them. "Whoever hammered those three failed passphrases into the cellar console at four-forty-five yesterday tripped a twenty-two-hour lockout across the master key. Even with the passphrase, the study bridge won't mount that partition until after three this afternoon. And Lydia has co-owner view on the shared probate folder. If your inventory photo timestamps stop ticking into the cloud this morning, she and Cole know we're onto them and hit this house before the lockout clears. Shoot the upstairs rooms to keep our cover live; the master key unlocks by three-thirty."
+
+I look down at the muddy rubber toe peeking out from under the bench. He's still lying about something, I'm still holding his stolen ledger, and neither of us has a better move than pretending to pack sweaters until three-thirty.

@@ -1,8 +1,8 @@
 # Chapter 22
 
-Rain pours through the open skylight and turns the front entry stone slick under strobing red and blue light. Lydia already has one boot hooked onto the cedar roof frame above her head, her torn jacket sleeve dark with blood. Before she can pull herself up onto the wet shingles, I drop the oyster knife, lunge onto the coat bench beside her, and grab her collar.
+I drop the oyster knife, lunge onto the coat bench, and grab Lydia's collar before she can haul herself up onto the wet cedar shingles.
 
-"Let go!" she shrieks, and kicks backward.
+"Let go!" she shrieks, and kicks backward. Rain pours through the open skylight above us and turns the front entry stone slick under strobing red and blue light, her torn jacket sleeve dark with blood as she tries to hook a boot onto the roof frame.
 
 Her boot heel catches my left knee hard and nearly buckles my leg. I don't let go. I drop my weight backward, the bench tips out from under us, and both of us hit the stone together. Lydia's elbow cracks against the floor, and the backup drive shoots out of her grip and skids across the hall toward the stairs.
 
@@ -26,13 +26,13 @@ I lift both hands and step back off Lydia's wrist. The lead trooper drops down a
 
 Lydia glares up from the floor, blood smeared across her cheekbone where her sleeve brushed her face. She keeps her mouth shut.
 
-The second trooper sweeps his light over Graham, then toward the open cedar door under the stairs. "Anybody else in the house?"
+The second trooper sweeps his light over Graham, then toward the open door under the stairs. "Anybody else in the house?"
 
 "Deputy Cole Halstead." I point down the hall. "Locked in the basement darkroom behind the steel fire door. Armed, slashed left wrist. The exterior deadbolt's thrown from this side."
 
 I back clear of the stairwell so the backup trooper can move past. "Cover the spice-rack wall in the walk-in pantry too. There's an old dumbwaiter shaft behind the shelves that drops right into that room."
 
-He gives one short nod, racks his shotgun, and moves into the dark hall. Twenty minutes later, generator floodlights off the State Police rescue rig wash the gravel turnaround in harsh white glare. I stand under the rear awning of a Knox County ambulance with a scratchy wool blanket over my wet sweater as two troopers walk a cuffed Cole Halstead out the front door toward a waiting cruiser. Fresh white gauze wraps his left forearm. He keeps his eyes dead ahead, ignoring both the SUV where Lydia sits and me.
+He gives one short nod, racks his shotgun, and moves into the dark hall. Twenty minutes later, generator floodlights off the State Police rescue rig wash the gravel turnaround in harsh white glare. I stand under the rear awning of a Knox County ambulance with a scratchy wool blanket over my wet sweater and my duffel—pulled from behind Graham's study bookcase once the troopers cleared the hall—slung heavy against my hip as two troopers walk a cuffed Cole Halstead out the front door toward a waiting cruiser. Fresh white gauze wraps his left forearm. He keeps his eyes dead ahead, ignoring both the SUV where Lydia sits and me.
 
 Maren Lindqvist stands beside the rescue rig's idling fender in her yellow oilskin bib with a thermos pressed against her chest. Her silver braid is plastered wet to her collar.
 

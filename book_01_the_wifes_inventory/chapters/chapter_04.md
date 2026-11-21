@@ -4,13 +4,13 @@ The taillights of Graham's Audi disappear down the drive, and I open the shared 
 
 He's down by the timber gate hauling twenty flat-packed wardrobe cartons up from the Rockland supply truck. If he checks edit timestamps from his phone, he'll see me working. Dull clerical work makes good cover. As long as I look like a slow clerk logging lamps and throw pillows, he won't hover.
 
-Just off the dining room, the sunroom juts out over the cliff on the southeast corner of the house: all tall glass, a wide slider out to the deck, and cold gray glare across pale cedar floorboards. Two low linen armchairs face the cove across a low stone table and a broad woven rug. Below the bluff, the fog has thinned into damp shreds curling around the pilings of Maren Lindqvist's shack, though her skiff is gone. Just the empty wooden dock, wet stacks of wire traps, and a gull hunched on the corner post.
+Just off the dining room, the sunroom juts out over the cliff on the southeast corner of the house: all tall glass, a wide slider out to the deck, and cold gray glare across the floorboards. Two armchairs face the cove across a low stone table and a broad woven rug. Below the bluff, the fog has thinned into damp shreds curling around the pilings of Maren Lindqvist's shack, though her skiff is gone. Just the empty wooden dock and a gull hunched on the corner post.
 
 *Two fingers.* I kneel to shoot the maker's tag under the first armchair. *Two people? Two days till Friday?*
 
-Whatever she meant, she hadn't risked climbing the bluff to say it out loud. That meant she was scared of Graham, or scared of whoever else carried a key to that boathouse. Either way, I couldn't accuse a grieving tech founder of staging his own house without something solid in hand. Not with Friday's probate petition already waiting on a judge's desk.
+Whatever she meant, she hadn't risked climbing the bluff to say it out loud. That meant she was scared of Graham, or scared of whoever else carried a key to that boathouse, or maybe she just hated rich people from Boston and wanted to rattle the hired help. Half the time at Harbor Mutual, I talked myself into seeing arson where a guy had simply left a space heater too close to a stack of dry rags, and look where that kind of certainty got me—broke, blacklisted, and pricing throw pillows on a wet rock in November. No, stop it. Nobody presses a flat palm to their chest and jerks their chin at a sealed boathouse because of a property-line dispute over mudflats. Still, I catch myself staring at a dead horsefly on the windowsill instead of finishing the armchair tag, my knee already aching from the cedar boards. Even if Maren saw something, I can't walk into Graham's kitchen accusing a grieving tech founder of staging his own house without something solid in my hand. Not with Friday's probate petition already sitting on a judge's desk and my own rent due on the first.
 
-I log both armchairs, checking the undersides for loose webbing and water stains, then move on to a blackened-steel floor lamp with a heavy iron base. Its braided cord disappears under the rug toward a floor outlet. Next is a low walnut side table holding three unread books on Maine coastal plants. Their spines crack stiffly when I fan the pages for tucked receipts or margin notes. Nothing inside. The price stickers are still on the backs, untouched. I set them back in the same crooked stack and rub my hands together. The gray light makes the whole room feel like a waiting room.
+I log both armchairs, checking the undersides for loose webbing and water stains, then move on to a floor lamp with a heavy base. Its braided cord disappears under the rug toward a floor outlet. Next is a side table holding three unread books on Maine coastal plants. Their spines crack stiffly when I fan the pages for tucked receipts or margin notes. Nothing inside. The price stickers are still on the backs, untouched. I set them back in the same crooked stack and rub my hands together. The gray light makes the whole room feel like a waiting room.
 
 Next is the rug. To log the weave and check for a maker's label on the backing, I have to turn up a corner. I grab the thick bound edge nearest the wall and haul back. It's heavier than it looks, dense and stiff-backed; the coarse weave drags across the planks and kicks dust up into the gray light.
 
@@ -34,7 +34,7 @@ By the time the front latch clicks and Graham's boots thump onto the mudroom tra
 
 "Makes sense. South-facing glass eats everything eventually. Coffee's still warm if you want it."
 
-His footsteps pause near the maple table, then move toward the kitchen sink. Water runs, a glass clinks, and a moment later the stairs creak under his weight as he heads up to the second floor.
+His footsteps pause near the table, then move toward the kitchen sink. Water runs, a glass clinks, and a moment later the stairs creak under his weight as he heads up to the second floor.
 
 I wait until an upstairs door clicks shut overhead, then step into the main hall to check that the ground floor is empty. Through the mudroom doorway, the wiped-clean empty half of the boot tray sits bare beside Graham's duck boots.
 
@@ -56,7 +56,7 @@ I smooth the rug down, nudge the table leg back into its dents, and head into th
 
 The glass walls suddenly feel like a specimen jar. Every pane throws my own reflection back at me. The house stays dead quiet overhead. I can't just wait around down here for Graham to wander back in and hope the room explains itself. I need twenty minutes off the peninsula: a real cell signal to run a background check on Kiefer Soundworks, a couple rolls of packing tape, and a look at Salt Point harbor in daylight where nobody is watching me through the windows.
 
-In the mudroom, I pull on my waxed jacket and slide the tissue-wrapped key into the inside breast pocket. The hard brass presses against my ribs through the lining. I grab my keys off the shelf and turn toward the porch.
+In the mudroom, I pull on my jacket and slide the tissue-wrapped key into the inside breast pocket. The hard metal presses against my ribs through the lining. I grab my keys off the shelf and turn toward the porch.
 
 Boots cross the floorboards overhead.
 
@@ -64,7 +64,7 @@ Boots cross the floorboards overhead.
 
 I step back into the archway where he can see me and let my arms hang loose so I'm not shielding my chest. "Out of heavy packing tape," I call up. "And there were only two rolls of label stickers on the counter. Figured I'd hit the general store past the causeway before the fog closes in."
 
-Steps move along the upstairs runner until Graham leans over the oak railing to look down into the hall. He glances at my jacket pocket, hesitates, and meets my eyes.
+Steps move along the upstairs runner until Graham leans over the railing to look down into the hall. He glances at my jacket pocket, hesitates, and meets my eyes.
 
 "Thought you were doing the master closet after lunch," he says.
 

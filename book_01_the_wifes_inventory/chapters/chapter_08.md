@@ -1,12 +1,12 @@
 # Chapter 8
 
-Around the corner of the pantry corridor, the breaker box door swings wide with a low groan.
+I stop dead two steps above the bottom landing of the back service stairs with no shoes on and nowhere to go except back up ten creaking pine treads. My phone is still in my hand, the live camera tile spinning into a dead gray circle.
 
-I freeze two steps above the bottom landing of the back service stairs. Below me, the narrow corridor runs behind the kitchen between the walk-in pantry and the deck door. My phone is still in my hand, the live camera tile on the screen spinning into a dead gray circle. Halstead is two steps from the corner, and I'm standing here with no shoes on and nowhere to go except back up ten creaking pine treads.
+Around the corner of the pantry corridor, the breaker box door swings wide with a low groan. Below me, the narrow hall runs behind the kitchen between the walk-in pantry and the deck door, and Halstead is two steps from the corner.
 
 A toggle snaps inside the metal panel, followed by a soft relay click.
 
-I step off the bottom tread, slip into the pantry, and ease the louvered door shut just shy of the catch. Mason jars, olive oil tins, and stoneware crocks crowd me in a space barely wider than my jacket. The edge of the middle shelf digs into my ribs when I turn sideways to fit.
+I step off the bottom tread, slip into the pantry, and ease the louvered door shut just shy of the catch. Olive oil tins and stoneware crocks crowd me in a space barely wider than my jacket. The edge of the middle shelf digs into my ribs when I turn sideways to fit.
 
 Upstairs, my clipboard and two open wardrobe boxes are sitting in plain sight outside the master closet. Every sheet I've logged since eight is up there.
 
@@ -42,15 +42,15 @@ He crosses the kitchen light-footed, glances up the stairs, and heads toward the
 
 I shift half a step to keep him in the slats. A jar clinks against a bottle by my elbow; I pin it to the shelf with my forearm.
 
-Halstead freezes halfway through the archway, head tilted back toward the kitchen. Neither of us moves. Then he checks the empty upper rail once more and steps into the mudroom.
+Halstead stops mid-step in the archway, head tilted back toward the kitchen. Neither of us moves. Then he checks the empty upper rail once more and steps into the mudroom.
 
 He drops to one knee beside the boot tray, his wet trouser leg darkening the stone. He lifts the factory-stiff life vest off peg two, turns the collar to check that the inside tag hasn't been stripped, and hangs it back square against the wall paneling.
 
-Next he scans the coat hooks, his gaze sliding past Graham's wool coat to my jacket beside it. B-4 is tucked inside that breast pocket, wrapped in tissue. One casual pat and his fingers hit brass through the lining. My chest locks up. His hand hovers near the hem.
+Next he scans the coat hooks, his gaze sliding past Graham's wool coat to my jacket beside it. B-4 is tucked inside that breast pocket, wrapped in tissue. One casual pat and his fingers hit metal through the lining. My chest locks up. His hand hovers near the hem.
 
 He skips the coats. Instead, he sweeps two fingers along the floorboard seam under the boot tray lip, checks the deadbolt throw on the mudroom side door, and stares down at the empty right half of the tray where Lydia's duck boots belong. For a second he just stays crouched there, listening to the rain on the roof, before he stands and heads back into the kitchen.
 
-Right at eye level, three dusty tins of anchovies sit behind a jar of capers—who even keeps anchovies like that, unless Lydia liked them. Between the pickled beets and the flour canisters, there's nowhere to go anyway. Even if I bolted, my Civic is parked behind a slow hydraulic gate.
+Right at eye level, three dusty tins of anchovies sit behind a jar of capers—who even keeps three tins of anchovies in a house with a spotless kitchen, unless Lydia actually cooked when Graham wasn't looking. Maybe I should just push the louvered door open right now and pretend I came down for a glass of water. No, nobody hides in a walk-in pantry behind the paprika to get a glass of water, and he already knows my boots are sitting in the mudroom. Between the pickled beets and the flour canisters, there's nowhere to go anyway. Even if I bolted past him to the front door, my Civic is parked behind a slow hydraulic gate and I'm wearing wool socks on wet gravel. I'd make it halfway to the turnaround before he grabbed my collar, and then he'd write me up for trespassing on a property I'm legally contracted to be inside. My right calf is starting to cramp from holding my weight off the creaky board, and all I can think about is how stupid I'll look explaining the anchovies to a sheriff's deputy.
 
 The kitchen tap runs, then shuts off. Halstead comes back with a wet paper towel, kneels to wipe a muddy heel mark off the stone where he stepped in from the cove trail, and tosses the towel toward the sink. A second later his boots turn toward the back service stairs.
 
@@ -58,7 +58,7 @@ He stops at the foot of the narrow stairwell and looks up into the dark, his lef
 
 "Ms. Calder," he says. No question in it this time.
 
-He waits and listens. Nothing answers him. He turns back into the pantry corridor, scans the narrow space, and stops on the louvered door a few feet away. The shadow of his boots cuts across the thin strip of light under the threshold. He takes a slow half-step closer, his wet sleeve rustling as his right hand lifts toward the brass knob.
+He waits and listens. Nothing answers him. He turns back into the pantry corridor, scans the narrow space, and stops on the louvered door a few feet away. The shadow of his boots cuts across the thin strip of light under the threshold. He takes a slow half-step closer, his wet sleeve rustling as his right hand lifts toward the doorknob.
 
 ***
 
