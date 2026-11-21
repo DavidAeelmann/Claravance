@@ -1,12 +1,12 @@
 # Chapter 20
 
-Graham flinches back against the cast-iron radiator as I drop to my knees beside him on the bleached boards. Cold air leaks around the slider track, and the wind outside slams salt spray against the glass in heavy, irregular gusts.
+Graham flinches back against the cast-iron radiator as I drop to my knees beside him on the floorboards. Cold air leaks around the slider track, and the wind outside slams salt spray against the glass in heavy, irregular gusts.
 
 "Tessa," he whispers, barely audible over the storm. A dark purple bruise swells across his left cheekbone where Cole caught him, and dried blood crusts his upper lip. He takes in my soaked jeans and the raw cut circling my left wrist before stopping on the oyster knife in my hand. "How did you get—"
 
 "Quiet." I set the knife beside my knee, keep one eye on the kitchen arch, and dig the multi-tool out of my pocket. "Cole and Lydia are in the basement. Two minutes, maybe less, before they figure out that crash wasn't me."
 
-I flip out the narrow awl. My right hand shakes from the cold, and my wrist stings every time I try to brace it. I've never picked a pair of hinged police cuffs in my life, and if Cole locked the safety pin, we're both stuck here.
+I flip out the narrow awl. My wrist stings every time I try to brace it. I've never picked a pair of hinged police cuffs in my life, and if Cole locked the safety pin, we're both stuck here.
 
 "Keep your wrist still," I tell him.
 
@@ -44,15 +44,11 @@ He takes half a breath, and panic drops out of his voice, replaced by that smoot
 
 He edges closer to the burner. He holds the papers out and doesn't blink at the knife. "Let them burn, Tessa. Nobody gets hurt. Lydia and Cole still do time on the pantry recording. My Arlington buyout closes Monday. I pay off your entire eighteen-thousand-four-hundred-and-twelve-dollar judgment before noon, restore your adjuster's surety bond, and wire fifty thousand into your checking as a clean consulting fee. You get your life back tonight."
 
-Cold brine drips off my flannel cuffs onto the tile, and my shoulders won't stop shaking. I don't yank the envelope away right away. A cleared docket, a real bank account again, my license back. It's right there, two seconds from ash. Nobody died over six wire transfers, and Lydia is the one trying to drown us both before high tide. All I have to do is lower my arm, let the flame catch the corner of the top page, and step back.
+Cold brine drips off my flannel cuffs onto the tile. I don't yank the envelope away right away. A cleared docket, a real bank account again, my license back. It's right there, two seconds from ash. Nobody died over six wire transfers, and Lydia is the one trying to drown us both before high tide. All I have to do is lower my arm, let the flame catch the corner of the top page, and step back.
 
-Then I picture a thin white binder in a Vermont sheriff's office six years ago, closed before anybody bothered checking dates on my sister Nina, and the Commercial Street fire manifest three years later, where a senior partner offered me a quiet raise to sign dirty paper and look away. Graham looks at me like he's already calculating which wire to send first, and for a second I hate his neat little executive haircut more than I hate Cole. Letting him burn those pages doesn't give me my life back. It just makes me the exact kind of paid signature I blew up my career refusing to be.
+Then I picture a thin white binder in a Vermont sheriff's office six years ago, closed before anybody bothered checking dates on my sister Nina, and the Commercial Street fire manifest three years later, where a senior partner offered me a quiet raise to sign dirty paper and look away. Graham looks at me like he's already calculating which wire to send first, and for a second I hate his neat little executive haircut more than I hate Cole.
 
-"You forged your wife's initials on six transfers and drained her father's estate," I say, my throat raw. "You hired me under a gag clause hoping I'd clear your name without ever looking too hard at your own books."
-
-"I was trying to save my company!"
-
-"Then tell a judge." Ignoring the burn in my slashed left wrist, I reach in and rip the papers and envelope out of his grip. He lunges half a step to grab them back, then stops short when the knife comes up toward his ribs. Raw gas stings my nose as I jam the sheaf back inside, fold the brass clasp down, and twist the stove knob hard to *OFF*.
+Ignoring the burn in my slashed left wrist, I reach in and rip the papers and envelope out of his grip. He lunges half a step to grab them back, then stops short when the knife comes up toward his ribs. Raw gas stings my nose as I jam the sheaf back inside, fold the brass clasp down, and twist the stove knob hard to *OFF*.
 
 The blue flame dies. Graham stares at me, his arms dropping loose at his sides, chest heaving in the dark kitchen. "You're really turning me in."
 
@@ -64,7 +60,7 @@ I march him past the foyer arch into the north hall and my guest room, the knife
 
 Inside, the radiator ticks. The boiler is cycling down. My duffel is against the wall. I yank it open, shove the envelope underneath my spare clothes, and reach behind the pipes for the store bag with Cole's left-handed yellow warning slip tucked inside. Everything goes into the bag, zipped tight.
 
-I pull a dry wool sweater over my freezing flannel and sling the duffel over my shoulder. The wool hangs heavy and itchy against my neck, and my jaw aches from clenching my teeth. Still, the dry knit quiets the worst of my shivering so I can think.
+I pull a dry wool sweater over my freezing flannel and sling the duffel over my shoulder. The dry knit quiets the worst of my shivering so I can think.
 
 "Move," I tell Graham and nudge him back toward the doorway. "Into your study. Let's see if the backup array mirrored the boathouse mic, and whether your backup battery can push anything out over cellular."
 

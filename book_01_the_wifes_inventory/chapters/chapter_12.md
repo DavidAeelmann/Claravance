@@ -10,7 +10,7 @@ He wired microphones across the whole property—sunroom, pantry, stairwell, boa
 
 A waist-high aluminum server rack hums beside the table and vents warm air through perforated steel. Three black server units sit stacked above a bolted battery bank to keep the drives alive if main power drops. A cellular bridge rests on top with its status light dead. External alerts won't leave this rack over cell, though local house sensors are another matter.
 
-I glance back toward the fire door under the foyer stairs, sealed shut on its heavy closer. My knuckles are raw from the iron ladder, and I can't stop thinking about how bad it'll look if the house system already tripped an alert upstairs.
+I glance back toward the fire door under the foyer stairs, sealed shut on its heavy closer. I can't stop thinking about how bad it'll look if the house system already tripped an alert upstairs.
 
 I nudge the mouse to wake the right screen, careful not to hit play. A processing log fills the display from October twenty-first through yesterday morning: two weeks of wind-noise filters hammered against one eight-minute stretch (`02:09` to `02:17`) to pry human voices out from under gale roar. The last completed render finished early yesterday morning, ten minutes before Graham left for Portland. A red terminal alert underneath is stamped **4:45 PM**: three failed passphrase lockouts on the encrypted export queue.
 
@@ -32,13 +32,13 @@ I stare at the chewed pencil and the clipped charts. He knows these tides, he ow
 
 I look back at the left monitor. In the grainy infrared frame, the slicker's hood hangs low over the figure's brow and the left hand stays buried in the canvas. The shoulders are wrong, though. The waterproof shell strains across a broader chest and thicker neck than Graham's, dragging the right sleeve short above a heavy wrist and metal watchband.
 
-Before I can cross back to zoom in on that watch, I spot a gray steel cabinet bolted into the masonry beside the drafting table. Four words are stenciled across the upper door in faded white paint:
+I start to cross back to zoom in on that watch, then spot a gray steel cabinet bolted into the masonry beside the drafting table. Four words are stenciled across the upper door in faded white paint:
 
 `ARCHIVE — DO NOT ERASE`
 
 A chrome key lock secures the center handle, its keyway scratched from use. Pale smears around the latch show where someone wiped the enamel with a dry sleeve after trying the handle. I tug it. Locked. B-4 in my front jeans pocket is an old door key for the fire door; it won't touch a cabinet lock.
 
-I flip out the pry blade on my multi-tool, wedge the tip into the seam above the latch, and lean my shoulder into the cabinet. The steel holds until my fingers cramp. Then the metal latch bends inward with a sharp *snap* that sounds way too loud in the deadened air.
+I flip out the pry blade on my multi-tool, wedge the tip into the seam above the latch, and lean my shoulder into the cabinet. The steel holds for three long seconds. Then the metal latch bends inward with a sharp *snap* that sounds way too loud in the deadened air.
 
 I freeze and listen for floorboards overhead. Nothing moves.
 
@@ -50,6 +50,4 @@ Across the room, the fire door beneath the foyer stairs cracks open an inch—a 
 
 I spin around, clamping the envelope to my chest.
 
-A deadbolt slides home from the *outside* with a loud grate of steel that carries straight through the concrete under my heels.
-
-Above the smooth brass plate, the pinpoint LED winks from dark to solid, glaring red.
+A deadbolt slides home from the *outside* with a loud grate of steel. Did whoever just locked me in even know I was down here, or did they only see the monitors wake up? Either way, I shove the envelope under my flannel, pull B-4 out of my pocket, and walk straight toward the fire door anyway.

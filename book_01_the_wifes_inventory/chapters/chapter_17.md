@@ -8,7 +8,7 @@ I lower my phone, crouch by the workbench, and lay it face-down on the wet plank
 
 I take two steps back with my palms open at shoulder height. Lydia moves in and kicks my phone across the boards until it skids out of sight under a stack of lobster traps. There goes the screen protector, probably, not that it matters right now. She grabs a thick black marine cable tie out of a plastic bin on the bench.
 
-"On your knees. Back to the teak piling, hands behind it."
+"On your knees. Back to the piling, hands behind it."
 
 There's no cover on the open decking. If I lunge, she puts a bullet in me—and the only reason she hasn't pulled the trigger already is that a nine-millimeter slug ruins a staged drowning. I drop onto the wet boards beside the piling bolted to the corner of the bait table. Brine soaks straight through the knees of my jeans. Cold, immediate, miserable.
 
@@ -22,7 +22,7 @@ Lydia's iPad Mini wakes under her thumb. She opens a blank note and starts tappi
 
 "Graham's apology," she says, her eyes fixed on the screen. "He's devastated about the two-point-four million. Even sorrier that the woman he hired to clean out the house panicked when a sheriff's deputy knocked on the door."
 
-My wrists ache under the nylon, my fingers already going dull. My sneakers slip on wet moss. I shift my hips to take some of the weight off my shoulders, and my right knuckles graze the underside of the bait-table rail bolted flush behind the piling. Something sharp pricks the heel of my hand.
+My sneakers slip on wet moss. I shift my weight, and my right knuckles graze the underside of the bait-table rail bolted flush behind the piling. Something sharp pricks the heel of my hand.
 
 I keep my eyes on Lydia so my shoulders don't give anything away. Just above my bound wrists, an oyster knife is wedged blade-out into a split seam along the underside of the rail, its swollen oak handle stuck fast in dried salt crust. Somebody probably jammed it there years ago to shuck bait and forgot it.
 
@@ -32,37 +32,29 @@ Live. Hardwired back to the Zone Four array. From where she stands by the workbe
 
 None of it helps me if Cole walks through those doors first. I need her talking into that mic, and I need my hands free before the padlock turns.
 
-"We already decrypted the pantry mic, Lydia," I say. "Heard you laughing with Cole at two in the morning while wiping down an oar, and telling him to leave the Montblanc next to that smudged checklist. You got sloppy in St. Andrews when you scanned your real passport like an amateur. And now you're letting a county deputy run the whole frame while Boston ties up your Cayman money in probate for five years."
+"You're letting a county deputy run the whole show, Lydia," I say. "Cole's the one who scrubbed the sunroom and stashed your weekender where I'd trip over it. Half the sheriff's department already thinks you're dead. Once Graham goes in the water tonight, what makes you think Cole doesn't bury you right next to him and keep the payout for himself?"
 
 Her thumbs stop on the glass. For a second the only sound in the boathouse is the harbor water slapping the underside of the planks.
 
-"Cole couldn't stage a parking ticket without me," she snaps. "My father's Cayman trustee wouldn't transfer control without an in-person passport check outside the U.S. I gambled a quiet New Brunswick marina wouldn't trip a marine-insurance port watch before Graham was dead."
+"Cole couldn't stage a parking ticket without me," she snaps. "I walked off that dock in St. Andrews on my own two feet, and he doesn't touch a dime of my father's money."
 
-"And you think Boston's going to hand over three million without a fight?"
+"Right. Tell that to Boston probate when they freeze the estate for five years."
 
-"There won't be a fight," she shoots back, sharp and impatient. "The second Graham's dead with a signed confession next to him, the trust cuts his estate off cold. Not one dime goes to his company's creditors—it all rolls straight to me."
+"There won't be probate," she shoots back, sharp and impatient. "The second Graham's dead with a signed confession next to him, the Cayman trust cuts his estate off cold. Every cent rolls straight to me."
 
-"Right. That's why Cole had to hide your weekender behind Graham's coats."
+"The Coast Guard's going to pull him out of the cove by noon."
 
-"Cole was supposed to strip the ferry tag off that bag before he hid it," she says, impatient. "Just like he was supposed to clean the sunroom floor without losing a key behind the molding. Two weeks of cleaning up after a small-town cop, and now I'm cleaning up after you. Everything in that house ran on my clock, Tessa. Including your five o'clock courier. I canceled him an hour ago."
+She takes two steps closer and leans one hip against the bait table, right above the shadowed blue LED. "High water tops the causeway at five-fifteen. Nobody's pulling Graham out of Penobscot Bay tonight, and by morning there won't be enough left for a medical examiner to argue with. I'm finishing his note, dropping him off the rocks, and walking away clean."
 
-"The Coast Guard—"
-
-"Won't put a boat in the water until morning." She takes two steps closer and leans one hip against the bait table, right above the shadowed blue LED. "High water tops the causeway at five-fifteen. Nobody in Augusta chases ferry stubs or Canadian marina logs for an embezzler and a washed-up adjuster who walked into Penobscot Bay together."
-
-Behind my left shoulder, harbor water sucks hard against the slipway planks. My toes are freezing inside my sneakers, and my shoulders ache from the zip tie.
-
-"You didn't even get the life vest wet with salt water," I push. Behind the piling, I angle my bound wrists upward until the taut nylon ridge presses against the blade of the oyster knife. "I shot the clean lot stamp on that vest, and I bagged a swab of the paste you flushed down the master bath P-trap before dusting Graham's rocks glass. Wait till a state lab runs a tox screen on that."
-
-"Cole signed the report." She glances down at the screen, barely looking up. "Nobody's ordering a second medical examiner when there won't be a body left once the crabs are done. By five-fifteen high tide, there's nobody left on Salt Point to argue trust law with a Boston judge."
+Behind me, harbor water sucks hard against the slipway planks. I angle my bound wrists upward until the taut nylon ridge presses against the blade of the oyster knife. Keep her talking. Keep her leaning over that blue light.
 
 ***
 
-I press down and drag the nylon across the edge of the blade. The plastic is tough and slick with sweat, and every downward stroke sends a dull vibration through the piling into my spine. I keep my breathing even so my shoulders don't telegraph the motion. Keep her talking. Keep her leaning over that blue light.
+I press down and drag the nylon across the edge of the blade. The plastic is tough and slick with sweat, and every downward stroke sends a dull vibration through the piling into my spine. I keep my breathing even so my shoulders don't telegraph the motion.
 
-"Why pull me into it?" I ask as her nails tap the screen. "You already had Graham framed."
+"Why pull me into it?" I ask as her nails tap the screen.
 
-"Because Graham was arrogant enough to hire a fired fraud investigator carrying eighteen grand in court debt," she says. She glances down at my damp flannel like I tracked mud onto her hall rug. "Anybody desperate for five grand cash under a fifty-thousand-dollar gag clause makes herself the ideal accomplice the second she crosses the porch."
+She doesn't even look up. "Because Graham was arrogant enough to hire somebody desperate enough to sign a fifty-grand gag clause."
 
 A strand of nylon parts behind my wrists. The loop gives a fraction and eases off my left thumb, though salt grit burns in the raw skin along my forearm. Cold spray mists up through the slipway seams around my sneakers as the rising tide surges against the pilings below. The angle is awkward—if I twist my elbows too far out to get leverage, Lydia will spot the shift in my shoulders. I have to work purely from the wrists, short half-inch strokes, blind and slow. My fingers are going numb.
 
@@ -70,7 +62,7 @@ Lydia looks down at the tablet and reads aloud in a dry, mocking tone: *"I could
 
 Graham never called me Miss Calder in his life. He barely even called me Tessa when he was irritated, just launched straight into whatever he wanted done. Leave it to Lydia to write a suicide note that sounds like a Victorian butler, though I doubt Cole's sheriff's department is going to critique the prose.
 
-She breaks off as a gust slams the cedar-shingled roof overhead and sends a rattle of pine needles down the eaves. She glances up at the rafters. I saw harder against the steel. Two more strands give way. Blood slicks my left wrist where the jagged nylon and pitted blade tear the skin above my palm, and the slack lets me twist my fingers toward the oak handle wedged in the seam.
+She breaks off as a gust slams the roof overhead and sends a rattle of pine needles down the eaves. She glances up at the rafters. I saw harder against the steel. Two more strands give way. Blood slicks my left wrist where the jagged nylon and pitted blade tear the skin above my palm, and the slack lets me twist my fingers toward the oak handle wedged in the seam.
 
 My thumb brushes the rough wood. Almost. Just another quarter inch of give.
 

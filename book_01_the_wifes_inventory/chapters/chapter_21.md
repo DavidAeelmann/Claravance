@@ -1,6 +1,6 @@
 # Chapter 21
 
-Cole's boots hit the kitchen tile. A flashlight beam cuts across the black foyer arch and skims the slate inches behind my heels as I pull Graham down the north hall.
+Cole's boots hit the kitchen tile. A flashlight beam cuts across the black foyer arch and skims the floor inches behind my heels as I pull Graham down the north hall.
 
 "Graham!" Cole yells from the kitchen. His voice bounces off the stone. "Get out here! Think your Boston money gets you off this rock?"
 
@@ -18,9 +18,9 @@ The interface is typical Graham: three nested menus deep just to route a single 
 
 He nods once, stiffly, and backs into the shadow behind the tall case. He pulls his knees in, trying to make a six-foot frame vanish behind six inches of walnut molding.
 
-I hit play on a continuous loop, then kill the display power so the room drops back to black. Under our feet, muffled through cedar and concrete, Lydia's voice—cool, dry, laughing over the squeak of a wet rag—booms through the basement. Graham flinches at the sound of his wife's laugh coming up through his own floorboards.
+I hit play on a continuous loop, then kill the display power so the room drops back to black. Under our feet, muffled through the floor, Lydia's voice—cool, dry, laughing over the squeak of a wet rag—booms through the basement. Graham flinches at the sound of his wife's laugh coming up through his own floorboards.
 
-Out in the foyer, Cole's flashlight jerks toward the stairwell door. His boots stop dead on the slate.
+Out in the foyer, Cole's flashlight jerks toward the stairwell door. His boots stop dead in the hall.
 
 "Lydie?" he shouts, anger cracking into panic as his own drawl echoes up through the floor. "She's back in Zone Four! She's playing the pantry tape!"
 
@@ -28,19 +28,19 @@ Heavy boots hammer across the foyer. He takes the concrete landing two treads at
 
 ***
 
-I slip into the north hall. If I can cross the foyer before Cole hits the bottom, I can throw the exterior deadbolt on the basement fire door and seal him in. Halfway to the archway, a penlight slices across the slate from the living room. Lydia steps out of the dark with a fireplace poker in her hand and cuts into the stairwell right behind him.
+I slip into the north hall. If I can cross the foyer before Cole hits the bottom, I can throw the exterior deadbolt on the basement fire door and seal him in. Halfway to the archway, a penlight slices across the floor from the living room. Lydia steps out of the dark with a fireplace poker in her hand and cuts into the stairwell right behind him.
 
 She's going to tell him it's a trap. Once she does, Cole will smash the Zone 4 backup drives and come straight back up. The foyer stairs are blown. My only shot at that lock is from the inside, while the speakers still have their backs turned.
 
 Lydia's boots clatter down the upper treads. I skirt the kitchen island, my knee clipping a barstool hard enough to make it rock on the tile, and feel my way into the pantry corridor.
 
-Behind the open spice rack, cold air rises up the dumbwaiter shaft. I shove the oyster knife into my waistband, hook my forearms over the iron rungs so I don't load my slashed left wrist, and drop into the dark. My wet wool sweater catches on a bracket and rides up my ribs, cold and itching, while the duffel bangs against the masonry behind me. Halfway down, my left arm hits a rough seam in the shaft wall and sends a white-hot spike up from my raw wrist. I bite down on the inside of my cheek and keep sliding.
+Behind the open spice rack, cold air rises up the dumbwaiter shaft. I shove the oyster knife into my waistband, hook my forearms over the iron rungs so I don't load my slashed left wrist, and drop into the dark. My sweater catches on a bracket and rides up my ribs, while the duffel bangs against the masonry behind me. Halfway down, my left arm hits a rough seam in the shaft wall and sends a white-hot spike up from my raw wrist. I bite down on the inside of my cheek and keep sliding.
 
 The looped tape swells louder with every rung. Lydia's laugh bounces off the concrete, followed by Cole swearing as he hits the fire door of Zone 4. His flashlight cuts across the far wall below me and throws long shadows off the server racks.
 
 I drop onto the rubber matting and back into the charcoal foam wedges of the northeast corner, squeezing into the narrow gap beside the pried-open *ARCHIVE* cabinet.
 
-Graham's dead-zone works. The speaker blare still carries through open air, yet the directional baffles kill the wall reflections. Sound goes flat and hard to place. The foam swallows my breathing, though my knees ache from the crouch. I shift my weight to quiet them and wait.
+Graham's dead-zone works. The speaker blare still carries through open air, yet the directional baffles kill the wall reflections. Sound goes flat and hard to place. The foam swallows my breathing. I shift my weight and wait.
 
 Across the floor, Cole's beam whips over the three humming servers and the worktable. Concrete dust rings the counterweight beside the ladder. Blood has soaked through the gauze on his left wrist; his right hand grips his duty pistol as he pivots in sharp circles, hunting the speaker throwing his own voice back at him.
 
@@ -74,12 +74,12 @@ Inside Zone 4, Cole's boots slam against the door, his shouts muffled to a dull 
 
 Lydia doesn't turn to fight on the stairs. She scrambles upward ahead of me in the dark, one hand clamped over her bleeding sleeve, the backup drive clutched against her ribs. Her wet boots slip on the middle landing, and she catches herself against the drywall with a smeared palm before lunging on.
 
-I take the steps two at a time behind her. My sneakers skid on the top landing before I shoulder the flush cedar door open into the hall.
+I take the steps two at a time behind her. My sneakers skid on the top landing before I shoulder the stairwell door open into the hall.
 
-Graham is already stepping out of the north corridor, squinting into the dark. Ahead of me, Lydia sprints into the front entry, grabs the coat bench, and drags it scraping across the slate right under the low skylight hatch.
+Graham is already stepping out of the north corridor, squinting into the dark. Ahead of me, Lydia sprints into the front entry, grabs the coat bench, and drags it scraping across the floor right under the low skylight hatch.
 
 "Stop her!" I yell. I lunge across the stone. Graham moves to cut her off, his empty hands coming up short when she whips her bleeding arm toward his face. He recoils a half-step, and that half-step is all she needs.
 
-Lydia scrambles onto the bench, unlatches the skylight crank with wet, blood-slick fingers, and shoves the glass hatch up into the storm. Freezing rain pours onto the slate and drenches her head and shoulders in a second as she grabs for the wet roof framing. Wind howls down the opening, whipping her hair across her eyes and scattering cold spray across Graham's face. The gale fills the entry so fast the cedar door slams back against its stop.
+Lydia scrambles onto the bench, unlatches the skylight crank with wet, blood-slick fingers, and shoves the glass hatch up into the storm. Freezing rain pours into the entry and drenches her head and shoulders in a second as she grabs for the wet roof framing. Wind howls down the opening, whipping her hair across her eyes and scattering cold spray across Graham's face. The gale fills the entry so fast the stairwell door slams back against its stop.
 
-Then red and blue light bars flare through the coastal fog above the spruces. Strobes wash across the open skylight and wet slate. Twin sirens cut straight through the gale.
+Then red and blue light bars flare through the coastal fog above the pines. Strobes wash across the open skylight and wet stone. Twin sirens cut straight through the gale.

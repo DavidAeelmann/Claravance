@@ -2,7 +2,7 @@
 
 "You look frozen," Graham says, nodding toward the low leather sofa on his way to the walnut credenza. "The radiator in the guest wing never keeps up in a southeast wind. Have a drink before you turn in."
 
-He's traded his charcoal suit for a dark merino crewneck, though his shoulders still hold four hours of interstate stiffness. A birch fire snaps behind the screen, pushing dry heat against the cold off the seaward glass. Outside, Salt Point Cove is solid black, not a single dock light burning along the point. Twenty minutes ago I barely beat his garage bay through the mudroom side door, palming the B-4 key inside my jacket pocket so it wouldn't clink against the hook, and sprinted upstairs to kneel outside the master closet with a strip of packing tape across my knuckles before he crossed the hall.
+He's traded his charcoal suit for a dark merino crewneck, though he still looks wrung out from the drive. A birch fire snaps behind the screen, pushing dry heat against the cold off the seaward glass. Outside, Salt Point Cove is solid black, not a single dock light burning along the point. Twenty minutes ago I barely beat his garage bay through the mudroom side door, palming the B-4 key inside my jacket pocket so it wouldn't clink against the hook, and sprinted upstairs to kneel outside the master closet with a strip of packing tape across my knuckles before he crossed the hall.
 
 "Water's fine, Graham."
 
@@ -26,15 +26,11 @@ He doesn't have to raise his voice to remind me who holds the checkbook, or what
 
 *County seal.* Monday night he hadn't said a word about a county seal, only that the Coast Guard cleared it and locked it against salt damp. Now he's repeating Halstead's line word for word.
 
-Before I can ask who was sweeping a flashlight across the boathouse window an hour ago, Graham's phone buzzes twice on the side table. He checks the screen and his mouth goes thin.
+I open my mouth to ask about the boathouse, but his phone buzzes twice on the side table. He checks the screen and his mouth goes thin.
 
 "Hold that thought," he mutters, and sets his untouched glass on the brass tray by his chair. "Patent counsel in Boston. Let me grab ice for yours, too. The decanter's been left too close to the radiator."
 
-He heads toward the kitchen with the phone already against his ear. I'm alone with the fire and two glasses.
-
-***
-
-I don't hesitate. The second his footsteps clear the archway, I lean across the low table, lift my heavier glass by the base, and set it square on the tray beside his chair. Up close, the etched rim is worn smooth on one side where a thumb always rests. Definitely his regular glass. I pick up his untouched pour and set it on my coaster, matching the angle. If he spots the chalky swirl at the bottom of his own tumbler when he sits back down, we're both done pretending.
+He heads toward the kitchen with the phone already against his ear. I'm alone with the fire and two glasses. I don't hesitate. The second his footsteps clear the archway, I lean across the low table, lift my heavier glass by the base, and set it square on the tray beside his chair. Up close, the etched rim is worn smooth on one side where a thumb always rests. Definitely his regular glass. I pick up his untouched pour and set it on my coaster, matching the angle. If he spots the chalky swirl at the bottom of his own tumbler when he sits back down, we're both done pretending.
 
 If there's crushed zolpidem in that bourbon, he can drink his own pour.
 
@@ -60,7 +56,7 @@ If the Arlington buyout closes before an audit locks his accounts, Graham plugs 
 
 I shoot four quick photos of the demand letter and rollover page to catch the trust account number, the $3,000,000 balance, and the October fifteenth service stamp, then slide the pages back into the flap along their exact crease.
 
-Shoes scrape across the kitchen slate. Ice clinks against metal, and the pantry switch clicks off. I slip back into the living room and drop onto the sofa seconds before Graham walks in with tongs and an ice bucket.
+Shoes scrape across the kitchen floor. Ice clinks against metal, and the pantry switch clicks off. I slip back into the living room and drop onto the sofa seconds before Graham walks in with tongs and an ice bucket.
 
 ***
 
@@ -88,8 +84,8 @@ I leave the clean bourbon two-thirds full on the coaster, say goodnight, and wal
 
 Behind the radiator, my brown store bag hasn't moved. I pull out my laptop and upload the four demand-letter photos to my off-site vault in Portland.
 
-Before the upload bar finishes, my phone buzzes against my leg. The Kiefer Soundworks guest link expired at five. This is an encrypted text from Samira Patel. St. Andrews Private Marina sends its small-craft manifests over once a day, and Samira just forwarded the automated hit off the evening run.
+Before the upload bar finishes, my phone buzzes against my leg. The Kiefer Soundworks guest link expired at five. This is an encrypted text from Samira Patel, followed two seconds later by a second message: *I'm in bed with a migraine, Tess. Don't call me after eight unless someone's actually on fire.*
 
 I tap the attachment. It's a port-clearance alert for Lydia Kiefer's passport, scanned Tuesday morning at St. Andrews Private Marina in New Brunswick.
 
-I stare at the screen in the dark room. Yesterday morning—while Graham stood in this kitchen telling me she drowned nearly three weeks ago—Lydia Kiefer walked off a dock across the Canadian border and scanned her own passport.
+I stare at the screen in the dark room until the display dims to black, then tap it awake again just to make sure the timestamp didn't move.

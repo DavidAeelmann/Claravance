@@ -38,13 +38,13 @@ The sorting shed is narrow, damp, and fiercely warm in the middle, where a keros
 
 "Drink it or don't." She curls her red hands around a second mug. "I told you at the store, Miss Calder—I don't hold with mainland trouble. My oyster lease comes up in January, and Cole Halstead's marine unit boards my brother-in-law's lobster boat twice a month whenever somebody opens their mouth."
 
-"I'm not going to the county." My fingers are numb enough that the hot ceramic barely registers, and I leave the mug where it is. "Whoever Halstead's working with just shoved my deadline up to tomorrow night. If I walk out before I finish the inventory, Graham hits me with a breach penalty I can't pay, and I lose the fee keeping my apartment off a sheriff's sale. So unless you want me living in my car in your gravel lot, we're having this conversation."
+"I'm not going to the county." I leave the mug where it is. "Whoever Halstead's working with just shoved my deadline up to tomorrow night. If I walk out before I finish the inventory, Graham hits me with a breach penalty I can't pay, and I lose the fee keeping my apartment off a sheriff's sale. So unless you want me living in my car in your gravel lot, we're having this conversation."
 
 She goes still, suddenly wary. "Deadline for what?"
 
 "Closing out the probate inventory." I lean closer over the workbench so she can hear me over the heater. "You slipped that tide chart into my bag yesterday to warn me about two-fourteen in the morning. Today Halstead walked into the kitchen while Graham was in Portland and told somebody on a burner phone to stay tucked out of sight down the cove until dusk."
 
-Maren stares into her coffee and says nothing. Her mouth sets in a hard line, and she reaches over to turn the heater's damper down until the flame stops guttering.
+Maren stares into her mug and says nothing. Her mouth sets in a hard line, and she reaches over to turn the heater's damper down until the flame stops guttering.
 
 "Shouldn't have put that slip in your bag," she says, eyes on the floorboards. "I'm three months behind on winter dockage. Sixty days from losing my mooring. You think I'm lining up to testify against a Knox County deputy?"
 
@@ -80,12 +80,12 @@ I step back onto crushed shell. Night has closed fast over the cove. Fog rolls o
 
 A planned disappearance doesn't need a painted-shut studio window sash or a deputy sneaking in through the pantry. Someone's staging the house before tomorrow's courier arrives, and if I don't get back upstairs before Graham clears the causeway, I'm going to have to explain why my boots are soaked through with cove water.
 
-Every wet riser jars my knees in the dark. Halfway up, my thighs burn and my ears ache from the wind. I stop where the cove trail joins the main cliff stairs on a narrow cedar landing under a twisted pitch pine, bracing a hand against the bark to catch my breath.
+Every wet riser is slick in the dark. I stop where the cove trail joins the main cliff stairs on a narrow cedar landing under a twisted pitch pine, bracing a hand against the bark to catch my breath.
 
-Below me, the seawall curves black against the outgoing tide. Through spruce boughs, the pitched roof of the boathouse squats over the water, its double doors still padlocked at the hasp.
+Below me, the seawall curves black against the outgoing tide. Through the pine boughs, the pitched roof of the boathouse squats over the water, its double doors still padlocked at the hasp.
 
 I'm turning back toward the upper stairs when white light cuts across the boathouse's frosted side window—the exact cliff-side window that was shuttered from inside yesterday morning. A flashlight beam sweeps slowly left to right behind the glass, catching the dark curve of a suspended kayak hull for half a second before dipping below the sill.
 
 *Stay tucked out of sight down the cove until dusk,* Cole told his burner caller. The padlock still hangs on the doors, yet someone is moving around inside.
 
-Before I can take a step back down toward the seawall, gravel crunches through the fog up on the ridge. Twin headlights cut through the spruces as the gate groans open, and Graham's Audi sweeps into the turnaround.
+Gravel crunches up on the ridge as the gate groans open. If Graham is pulling into the turnaround, who is down in that boathouse right now with a flashlight? I don't wait to find out—I turn and sprint up the rest of the cliff steps toward the mudroom.

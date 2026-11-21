@@ -22,17 +22,17 @@ He turns his head back toward me, gray eyes unreadable in the dim hall light. "M
 
 He stays planted in the doorway until I'm right in front of him, so I have to turn sideways past his sleeve to reach the runner. He smells faintly of cedar shavings and cold rain, odd for a man who hasn't been outside since I arrived. He doesn't follow me down the stairs toward the ground-floor guest room. Halfway down, I hear the studio door pull shut behind him, followed by the click of a key turning in a lock that wasn't engaged ten minutes ago.
 
-Back in my room, I wedge the desk chair under the doorknob before I drop onto the bed. My calves ache from the stairs, and Friday feels a long way off.
+Back in my room, I wedge the desk chair under the doorknob before I drop onto the bed. Friday feels a long way off.
 
 ***
 
-By seven-thirty, the fog has pressed right up against the dining-room glass, swallowing the outer breakwater in flat gray. Low tide has stripped the cove down to black ledges and knotted rockweed under a low slate sky. Graham stands at the island in a clean gray oxford shirt with the sleeves rolled to his elbows and pours coffee from a glass carafe into two mugs. In daylight, the hollows under his eyes look bruised.
+By seven-thirty, the fog has pressed right up against the dining-room glass, swallowing the outer breakwater in flat gray. Low tide has stripped the cove down to black ledges and knotted rockweed under a low pewter sky. Graham stands at the island in a clean gray oxford shirt with the sleeves rolled to his elbows and pours coffee from a glass carafe into two mugs. In daylight, the hollows under his eyes look bruised.
 
 "Black?" he asks. He keeps his eyes on the carafe as he slides a mug across the stone.
 
-"Please." I pull out a barstool and wrap my cold fingers around the warm ceramic. It tastes like it sat on the burner since Tuesday. I thought about hitting record on my phone in my pocket. Maine is a one-party consent state, sure, but getting caught running a hot mic in a defense contractor's kitchen is an easy way to buy a lawsuit.
+"Please." I pull out a barstool and take the mug. It tastes like it sat on the burner since Tuesday. I thought about hitting record on my phone in my pocket. Maine is a one-party consent state, sure, but getting caught running a hot mic in a defense contractor's kitchen is an easy way to buy a lawsuit.
 
-Graham leans back against the counter, sips his coffee, and watches the exposed mudflats. "I ordered twenty wardrobe cartons and acid-free tissue from a supply house in Rockland. They're dropping them at the gate by noon."
+Graham leans back against the counter, sips, and watches the exposed mudflats. "I ordered twenty wardrobe cartons and acid-free tissue from a supply house in Rockland. They're dropping them at the gate by noon."
 
 "Good. I'll need the study totes too, if I'm logging paperwork."
 
@@ -40,7 +40,7 @@ Graham leans back against the counter, sips his coffee, and watches the exposed 
 
 *Tessa.* Last night it was *Ms. Calder*. Now we're having morning coffee over marine claims.
 
-I take a swallow of the bitter coffee before answering. "Depends on the payout. Small skiff losses under fifty grand usually clear on a harbor deputy's report and a Coast Guard incident log. Nobody pays a diver to go down in a rocky cove in November unless the hull washes up with drill holes in it."
+I take a swallow before answering. "Depends on the payout. Small skiff losses under fifty grand usually clear on a harbor deputy's report and a Coast Guard incident log. Nobody pays a diver to go down in a rocky cove in November unless the hull washes up with drill holes in it."
 
 "And if there's an estate fight?"
 
@@ -70,7 +70,7 @@ I keep my face neutral, nod like a sympathetic clerk, and watch his hands. "And 
 
 "Still doesn't explain why you hired me through a blind broker instead of calling an estate crew in Camden," I say. "Local outfits pack faster and don't charge cash premiums."
 
-He looks up from his coffee, the polite host routine gone. "Local outfits talk at the general store before five o'clock. Every clerk in this county knows Deputy Halstead, and Halstead already has three reporters poking around the causeway. I needed someone with zero local ties who knows how to document property thoroughly enough that Boston counsel can't claim I hid marital assets—or missed something inside this house."
+He sets his mug down, the polite host routine gone. "Local outfits talk at the general store before five o'clock. Every clerk in this county knows Deputy Halstead, and Halstead already has three reporters poking around the causeway. I needed someone with zero local ties who knows how to document property thoroughly enough that Boston counsel can't claim I hid marital assets—or missed something inside this house."
 
 I hold his gaze across the counter. For the first time since I drove through the gate, the panic behind his eyes looks real. I know what eviction panic looks like. Even so, five-point-four million in trust money buys a much bigger motive than winter sweaters.
 
@@ -80,7 +80,7 @@ His expression shutters. "She took the fiberglass skiff out around ten-thirty to
 
 "And the Coast Guard found the boat at dawn?"
 
-"Drifting half a mile past the breakwater, oars still shipped." He picks up his mug and turns toward the back glass sliders. The gray morning light catches a small tremor in his wrist before he sets the cup down again. "Deputy Halstead logged it before noon. If you're done with your coffee, I'd like you to start in the sunroom before the supply truck gets here."
+"Drifting half a mile past the breakwater, oars still shipped." He picks up his mug and turns toward the back glass sliders. The gray morning light catches a small tremor in his wrist before he sets the cup down again. "Deputy Halstead logged it before noon. If you're done, I'd like you to start in the sunroom before the supply truck gets here."
 
 ***
 

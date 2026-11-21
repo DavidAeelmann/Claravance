@@ -4,9 +4,9 @@ By the time I climb back onto the Salt Point causeway, the wind has swung east j
 
 I punch the four-digit pin at the timber gate, my cuff soaking through while the barrier groans back. When I pull through, my headlights sweep the gravel turnaround.
 
-Graham's Audi sits under the spruces. Fresh, deep-lugged tire tracks cut a wide loop through the wet gravel where a heavy vehicle pulled up to the house, swung around, and headed back down the lane before I made it home from the harbor.
+Graham's Audi sits under the evergreens. Fresh, deep-lugged tire tracks cut a wide loop through the wet gravel where a heavy vehicle pulled up to the house, swung around, and headed back down the lane before I made it home from the harbor.
 
-I cut the engine and grab the paper bag from the hardware store. As I head up the slate walk, B-4 rides flat and heavy against my ribs.
+I cut the engine and grab the paper bag from the hardware store. As I head up the wet walk, B-4 rides flat and heavy against my ribs.
 
 The front door isn't locked. It swings in as soon as I turn the handle, letting out warm kitchen air. Through the archway, Graham stands at the stainless range and stirs something pale in a copper saucepan.
 
@@ -16,7 +16,7 @@ The front door isn't locked. It swings in as soon as I turn the handle, letting 
 
 "Leave it on the counter." He turns the burner down and watches through the arch while I unlace my boots beside the tray. "I made leek soup. Eat before you get back to work. Boston counsel called while you were out, and they moved the preliminary filing window up to Thursday night."
 
-I step into the kitchen and stop by the island. My knuckles are chapped raw from the salt air, and my head is starting to throb behind my eyes. "Thursday?"
+I step into the kitchen and stop by the island. "Thursday?"
 
 Twenty-four hours gone, right in the teeth of a November storm. "This morning you said you had joint signing control over Lydia's trust," I say. "Why does one day matter if you've got a normal probate window?"
 
@@ -42,7 +42,7 @@ I zip the duffel shut, leave the thread off, and shove the paper bag out of sigh
 
 Back in the kitchen, gusts buffet the ocean glass and rattle the aluminum frames. Rain sheets down the dark panes, blotting out the cove.
 
-I sit at the island with a bowl of leek soup I can barely taste. My fingers stay cold around the spoon, and Graham stands at the sink rinsing a cutting board like we're just two people waiting out a normal storm.
+I sit at the island with a bowl of leek soup I can barely taste while Graham stands at the sink rinsing a cutting board like we're just two people waiting out a normal storm.
 
 "Did Deputy Halstead stop by while I was in town?" I ask.
 
@@ -84,13 +84,13 @@ He folds the damp towel into a neat rectangle and lays it flush with the edge of
 
 ***
 
-Before I can answer, a wet slam of wind shakes the whole house, and the ceiling lights flicker twice and die. The kitchen, the mudroom, and the ocean glass go black all at once. Just past the end of the counter, inside the narrow corridor leading to the pantry, the smart-home wall tablet stays lit on its backup battery and throws a pale blue square across Graham's cheekbones. Neither of us moves. Rain hammers the roof slate and drowns out the buoy bell while the low mechanical hum beneath our feet goes dead silent.
+A wet slam of wind shakes the whole house, and the ceiling lights flicker twice and die. The kitchen, the mudroom, and the ocean glass go black all at once. Just past the end of the counter, inside the narrow corridor leading to the pantry, the smart-home wall tablet stays lit on its backup battery and throws a pale blue square across Graham's cheekbones. Neither of us moves. Rain hammers the roof and drowns out the buoy bell while the low mechanical hum beneath our feet goes dead silent.
 
 "Stay put," Graham says, sharp. "The diesel generator takes a few seconds to kick in."
 
 I stay where I am, eyes locked on his silhouette in the blue wash. If the grid's down across Salt Point, nobody calls out without a hardline.
 
-Outside, a heavy thump vibrates through the foundation as the generator catches. An engine rumble rises through the slate, and the ceiling lights flicker back on, dim at first before they hold.
+Outside, a heavy thump vibrates through the foundation as the generator catches. An engine rumble rises through the floorboards, and the ceiling lights flicker back on, dim at first before they hold.
 
 Graham starts past the island toward the pantry corridor to clear the power-loss alert, and I follow him to the edge of the counter. Mounted right beside the breaker box, the wall tablet runs off the security hub's battery backup and cycles through white status lines as the house circuits switch over to generator power. A yellow service tag is wired to the conduit above the panel: `EXT-DECK BYPASS`. Across the bottom of the screen, a green line reads: `40-MIN HOLD STANDBY`.
 
@@ -102,4 +102,4 @@ Graham's thumb hits the glass and wipes the banner gone. He keeps his back to th
 
 "Power surge trips the old basement sensors," he says, though the skin across the back of his neck has gone dark red. "Happens every November storm. Finish your soup, Tessa. We start the master closet at eight sharp."
 
-Across the main hall, tucked under the open oak stairs, the door to Basement Zone 4 stands closed in the shadows, its latch plate untouched.
+I pick up my spoon, take one cold bite of soup just to watch him squirm, and decide that tonight I'm going down those basement stairs whether he hears the latch or not.

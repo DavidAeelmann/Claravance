@@ -1,6 +1,6 @@
 # Chapter 16
 
-The siren cuts out near the ridge bend, then comes back louder off the granite above the house. Five minutes out, tops.
+The gate motor clicks off behind him, and a pair of amber parking lights glides around the ridge bend through the trees. Two minutes out, tops.
 
 "Take your car." Graham shoves back from the desk. His chair bangs into the walnut shelves as he points toward the front hall. "Use the gravel spur before he makes the drive. If Halstead walks in with that audio queued—"
 
@@ -8,7 +8,7 @@ The siren cuts out near the ridge bend, then comes back louder off the granite a
 
 The phone chimes—transfer complete. I yank the thumb drive from the tower and open my encrypted cloud queue. The router override has killed the house Wi-Fi. Only one weak bar of signal flickers in the corner. I bundle the audio file with the life-vest tag photos and the Bramwell & Shaw default letter, address the packet to Samira Patel in Portland, type four words—*Salt Point setup. Call MSP.*—and hit *Send*.
 
-The wheel spins. Six percent. Twelve. Wind slams the north siding, the signal bar drops to zero, and a red timeout banner snaps across the glass. I step toward the side window, holding the phone high against the cold pane like an idiot trying to catch radio waves in a tin can, and try plain SMS twice. Nothing leaves the screen. Outside, the siren pitches sharper as the cruiser clears the ridge bend, closer now, bouncing off the granite wall behind the garage. Waiting here another thirty seconds for a stray bar of service means handing Cole the phone myself.
+The wheel spins. Six percent. Twelve. Wind slams the north siding, the signal bar drops to zero, and a red timeout banner snaps across the glass. I step toward the side window, holding the phone high against the cold pane like an idiot trying to catch radio waves in a tin can, and try plain SMS twice. Nothing leaves the screen. Outside, gravel crunches under heavy tires as the cruiser clears the final bend, its engine idling low off the granite wall behind the garage. Waiting here another thirty seconds for a stray bar of service means handing Cole the phone myself.
 
 Graham is standing behind me, rubbing his palms together hard enough to chafe. His hair sticks up on one side where he dragged his hand through it, and for one ridiculous second I want to tell him to fix it before he answers the door. He opens his mouth, closes it, then reaches toward the coat rack by the hall like he's thinking of coming with me, or running out the back, or doing anything except what needs doing.
 
@@ -40,7 +40,7 @@ I haul the sunroom slider back on its track. Freezing salt wind gusts across the
 
 Cold mist closes around me the second I clear the cedar deck. I don't look back to see if Graham shuts the door.
 
-My spare sneakers slap down the steep slate steps cut into the cliff face. Wet needles and lichen make every riser slick. Halfway down, a gust off the bay nearly folds me sideways against the rock. My right palm scrapes raw granite catching myself, and cold air burns my lungs as I drag in a breath. Two steps lower, my left heel shoots out on a mat of wet needles, slamming my hip into the stone wall hard enough to knock the wind out of me. I hang there for a second, blinking sleet out of my lashes, before forcing my legs to move again.
+My spare sneakers slap down the steep stone steps cut into the cliff face. Wet needles and lichen make every riser slick. Halfway down, a gust off the bay nearly folds me sideways against the rock. My right palm scrapes raw granite catching myself, and cold air burns my lungs as I drag in a breath. Two steps lower, my left heel shoots out on a mat of wet needles, slamming my hip into the stone wall hard enough to knock the wind out of me. I hang there for a second, blinking sleet out of my lashes, before forcing my legs to move again.
 
 Out across the inlet to the south, the low tidal causeway shines wet under rising gray chop, white foam lapping over the asphalt shoulders. Once this gale peaks with high tide, nobody drives off Salt Point tonight without a heavy four-wheel-drive rig. Which means even if I get the photos, even if Samira gets the file, I'm stuck on this peninsula until the water drops or the state police roll in.
 
@@ -50,7 +50,7 @@ Under the cliff overhang the wind eases slightly, though surf still booms beneat
 
 Ahead of me, the Kiefer boathouse squats on its pilings, its cedar shingles weathered nearly black. A brass padlock secures the double plank doors, and the faded county paper seal has been sliced clean along the edge.
 
-I step off the bottom stair onto oyster shells and duck under the north eaves. High up on the ridge, the siren yelps and dies. A few seconds later, gravel crunches overhead as tires roll into the turnaround.
+I step off the bottom stair onto oyster shells and duck under the north eaves. High up on the ridge, a heavy car door thuds shut in the rain, followed by the crunch of boots on wet gravel in the turnaround.
 
 Cole is at the house. I picture Graham fumbling with the brass chain, his voice pitching too high, giving everything away in the first ten seconds. Stop thinking about him. Just move.
 
@@ -66,11 +66,11 @@ My sneakers hit damp cedar decking with a dull thud. The dark room smells of sta
 
 Suspended low from the rafters on rope slings at shoulder height, a yellow fiberglass sea kayak sways almost imperceptibly in the draft from the open window behind me, its hull blocking off the back corner of the room.
 
-I crouch beside the bench and let my eyes adjust, waiting for the shapes in the gloom to separate from the shadows. My wet jeans cling to my calves, and my shoulders ache if I let them drop. Up above the cliff edge, a car door thuds shut in the driveway. Cole's cruiser. Three minutes, maybe less, before he stops playing along with Graham and walks around to the back deck.
+I crouch beside the bench and let my eyes adjust, waiting for the shapes in the gloom to separate from the shadows. Up above the cliff edge, a car door thuds shut in the driveway. Cole's cruiser. Three minutes, maybe less, before he stops playing along with Graham and walks around to the back deck.
 
-I ease upright and move along the workbench, my fingers brushing past a coffee can of rusted nails and a tangle of braided nylon line. Two plastic gallon jugs are tucked beneath a folded blue tarp on the lower shelf, one unlabeled and the other carrying a faded industrial bleach warning. A pair of cedar oars rests beside them, fresh pale scratches cutting through the varnish on the blades—a match for the wet rag squeaking along varnished wood on the 2:14 AM recording.
+I ease upright and move along the workbench, my fingers brushing past a tin can of rusted nails and a tangle of braided nylon line. Two plastic gallon jugs are tucked beneath a folded blue tarp on the lower shelf, one unlabeled and the other carrying a faded industrial bleach warning. A pair of cedar oars rests beside them, fresh pale scratches cutting through the varnish on the blades—a match for the wet rag squeaking along varnished wood on the 2:14 AM recording.
 
-I pull my phone, check that the flash is off, and crouch low to frame the bleach jugs and scratched oar blades together in one shot. My hands are shaking from the cold, blurring the first preview on the glass, so I brace my elbows against my knees and tap the shutter again. The screen throws a pale rectangle across the damp planks at my feet.
+I pull my phone, check that the flash is off, and crouch low to frame the bleach jugs and scratched oar blades together in one shot. The first preview blurs on the glass, so I brace my elbows and tap the shutter again. The screen throws a pale rectangle across the damp planks at my feet.
 
 A boot heel scuffs against grit behind the hanging kayak.
 

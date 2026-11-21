@@ -2,19 +2,19 @@
 
 Nearly two in the morning, the cast-iron radiator under my window gives a single sharp tick and goes quiet.
 
-I lie on top of the stripped quilt in my jeans and flannel and stare at the ceiling. The pipes cool. My hip aches where a belt loop is pressed into the mattress, too stiff to sleep, too tired to roll over and fix it. Outside, the cove wind drags dead spruce needles across the dormer slate in irregular bursts. For a second I'm back in our old apartment in Burlington, awake on my side of the room while Nina's bed stayed made. That same hollow quiet right before a bad phone call, when you already know the morning is ruined before anyone speaks and you're just stalling the clock. Then the blue glow of my laptop on the nightstand drags me back to Salt Point.
+I lie on top of the stripped quilt in my jeans and flannel and stare at the ceiling. The pipes cool. Outside, the cove wind drags dead pine needles across the dormer roof in irregular bursts. For a second I'm back in our old apartment in Burlington, awake on my side of the room while Nina's bed stayed made. That same hollow quiet right before a bad phone call, when you already know the morning is ruined before anyone speaks and you're just stalling the clock. Then the blue glow of my laptop on the nightstand drags me back to Salt Point.
 
-I tell myself to close my eyes for twenty minutes. Just twenty. My temples ache, and the back of my neck feels like knotted rope. Half of me wants to grab my duffel, walk down the gravel drive in the dark, and let whoever owns this house sort out their own mess by sunrise. The other half knows what happens if I leave without proof. Walking out at dawn isn't an option.
+I tell myself to close my eyes for twenty minutes. Just twenty. Half of me wants to grab my duffel, walk down the gravel drive in the dark, and let whoever owns this house sort out their own mess by sunrise. The other half knows what happens if I leave without proof. Walking out at dawn isn't an option.
 
 Thirty minutes crawl past. I'm reaching for my wool socks at the foot of the bed when a sharp metallic snap carries through the framing from the kitchen wing. The laptop clock reads 2:27. Too hollow for the front deadbolt, too clean for the wind. It rings like a heavy latch dropping home inside a wall near the pantry, followed by a low hum vibrating through the baseboard pipes, as if something weighted just settled on a line.
 
-I sit up fast, my heart thumping against my ribs, and pull the socks on. My hands are clumsy with cold. I ease the desk chair out from under the doorknob, wait a second for the floorboards to settle, and crack the door an inch.
+I sit up fast, my heart thumping against my ribs, and pull the socks on. I ease the desk chair out from under the doorknob, wait a second for the floorboards to settle, and crack the door an inch.
 
 The north hall is dead quiet. I step onto the runner, keeping my weight on the edges near the baseboard where the joists don't groan, and stop at the foot of the main stairs. Pitch dark up top. I tilt my head back and listen for floorboards shifting upstairs or a bedroom door opening. Nothing moves up there. If Graham's asleep, he's out until morning—if he's even in his bed.
 
 For all I know, he's sitting in a chair in the sunroom right now, watching the water.
 
-I hug the drywall toward the kitchen wing, one hand trailing the plaster to keep my bearings. Halfway down the hall, a gust slams the sunroom glass and rattles the frames. I freeze mid-stride until the wind drops. The crawlspace dehumidifier thumps softly underfoot, and gusts press the deck door against its seals. Passing the living room arch, I make out gray ash in the hearth and a dull glint off the two tumblers still left on the low table. The long leather sofa disappears into shadow past the stonework, empty.
+I hug the drywall toward the kitchen wing, one hand trailing the plaster to keep my bearings. Halfway down the hall, a gust slams the sunroom glass and rattles the frames. I freeze mid-stride until the wind drops. The furnace blower thumps softly underfoot, and gusts press the deck door against its seals. Passing the living room arch, I make out gray ash in the hearth and a dull glint off the two tumblers still left on the low table. The long leather sofa disappears into shadow past the stonework, empty.
 
 I duck into the mudroom first, keeping low under the wall tablet's standby glow, and fish **B-4** out of my jacket pocket. I drop the tissue-wrapped key into my front jeans pocket where I can reach it fast. If the pantry route closes behind me downstairs, old brass might be my only way back to the foyer.
 
@@ -42,7 +42,7 @@ Still, I'm not waiting upstairs for tomorrow's ambush.
 
 I pocket my phone, grip the iron rails, and swing a leg over the sill. The shaft is barely wide enough for my shoulders, and my jacket snags once on a rough wood splinter before tearing free. I pull the spice-rack panel nearly shut behind me, leaving a hair of clearance on the inside cleat so I can get my fingers back under it. Total dark drops over me.
 
-Cold iron bites straight through my socks. I climb down slow, testing every rung with my toes. Masonry grit flakes onto my knuckles. Halfway down, my fingers go stiff from the cold iron, and I have to pause for two seconds to work my grip loose. My breathing sounds too loud in the narrow box, bouncing straight back off the cinderblock. The taut hemp line brushes my sleeve—still swaying on its own. My elbow bumps it, and the counterweight scrapes against its channel with a dull metallic rasp that rattles straight up my forearm. If that locking pin overhead ever slipped, dead iron would drop straight onto the cellar slab.
+Cold iron bites straight through my socks as I climb down slow, testing every rung. Masonry grit flakes onto my knuckles. My breathing sounds too loud in the narrow box, bouncing straight back off the cinderblock. The taut hemp line brushes my sleeve—still swaying on its own. My elbow bumps it, and the counterweight scrapes against its channel with a dull metallic rasp that rattles straight up my forearm. If that locking pin overhead ever slipped, dead iron would drop straight onto the cellar slab.
 
 Below the foundation line, the air goes oddly dead and muffled, swallowing even the scrape of wool on iron. Three rungs from the bottom, the rail ends at a smooth concrete ledge. I feel for the edge with my heel and step down into the dark.
 
@@ -54,7 +54,7 @@ My left heel catches a loose microphone cable snaked across the mat. The cord sn
 
 A heavy relay clicks inside a tower against the far wall. Two wide displays flare awake in blinding blue-white light, and cooling fans spin up to fill the deadened cellar with a steady hum.
 
-I drop into a crouch with an arm over my eyes and wait for a siren upstairs or boots hitting the foyer slate. Seconds drag out. The room stays quiet; the foam-lined concrete eats the fan noise before it reaches the ceiling joists. Whoever climbed out of the dumbwaiter didn't shut the machine down—they just let the screens sleep.
+I drop into a crouch with an arm over my eyes and wait for a siren upstairs or boots hitting the foyer floor. Seconds drag out. The room stays quiet; the foam-lined concrete eats the fan noise before it reaches the ceiling joists. Whoever climbed out of the dumbwaiter didn't shut the machine down—they just let the screens sleep.
 
 I stand slowly and cross the mat to the worktable, blinking against the glare as I look at the left-hand display. The right screen holds an open file directory with a row of dated folders, none of them labeled with more than camera numbers.
 

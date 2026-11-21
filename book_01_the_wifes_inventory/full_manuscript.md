@@ -6,11 +6,11 @@
 
 # Chapter 1
 
-The Salt Point causeway runs barely above the tide line, a wet strip of asphalt hemmed in by black granite and dark water. My Civic's muffler shield rattles up through the floorboards. The wipers smear salt spray across the windshield faster than they clear it, and my hands are stiff from fighting the wheel since Brunswick.
+The Salt Point causeway runs barely above the tide line, a wet strip of asphalt hemmed in by black granite and dark water. My Civic's muffler shield rattles up through the floorboards. The wipers smear salt spray across the windshield faster than they clear it, and a three-note mattress-outlet jingle from a Brunswick radio station has been looping in my head for forty miles.
 
 Rusted tide markers bolted to a concrete culvert slide past the mirror. Low water tonight, exposing flats of marsh grass along the shoulder, though the mainland behind me is already gone in the fog. Off to the right, a shingle shack squats on pilings over a mudflat stacked with wire oyster traps. One yellow bulb bleeds into the mist beside its door.
 
-My phone dropped to zero past the lobster pound and now clings to a single bar. The blue GPS line dead-ends at a private peninsula lot owned by a Delaware LLC. I pulled the corporate filing and the town tax card at six this morning outside Portland over cold coffee. Getting sued into the ground cures you of answering burner texts without checking who holds the deed.
+My phone dropped to zero past the lobster pound and now clings to a single bar. The blue GPS line dead-ends at a private peninsula lot owned by a Delaware LLC. I pulled the corporate filing and the town tax card at six this morning outside Portland over a stale cruller. Getting sued into the ground cures you of answering burner texts without checking who holds the deed.
 
 The Cumberland County clerk's letter rides shotgun on the passenger seat. *Eighteen thousand, four hundred and twelve dollars.* If I miss another installment, they levy my bank account Monday. Fifteen grand cash for two weeks of boxing up a dead woman's closets won't erase the judgment, but it stalls the sheriff and keeps my landlord off my back. Nobody drives out into a Maine fog bank in November because they're brave. They do it because their checking account has four hundred dollars and change.
 
@@ -20,13 +20,13 @@ I punch the code from the broker's message. Nothing. The buttons are crusted wit
 
 It shuts behind me with a heavy hydraulic clunk. I ease back into drive and creep up the lane.
 
-Past a stand of spruce, the Kiefer house comes out of the mist low against the cliff. The tax card listed a seventies cottage on this lot, Lydia's family's old place, and whoever rebuilt it bolted modern glass and dark steel right onto the original stone foundation and chimney. All the windows facing the cove are dark except for one amber strip tucked under the eaves. The floodlight pole over the turnaround is dead.
+Past a stand of windbreak pines, the Kiefer house comes out of the mist low against the cliff. The tax card listed a seventies cottage on this lot, Lydia's family's old place, and whoever rebuilt it bolted modern glass and dark steel right onto the original stone foundation and chimney. All the windows facing the cove are dark except for one amber strip tucked under the eaves. The floodlight pole over the turnaround is dead.
 
 I pull in beside a charcoal Audi sedan and kill the engine. It ticks in the quiet. Out past the breakwater, a buoy bell clangs twice, dull and far off.
 
-My duffel's worn zipper catches my thumb as I drag it off the passenger seat. I cross the wet slate walk to the landing. Something sharper cuts through the damp wood: fresh linseed oil, maybe deck sealer, except the planks under my boots are bone-dry.
+My duffel's worn zipper catches my thumb as I drag it off the passenger seat. I cross the wet flagstone walk to the landing. Something sharper cuts through the damp wood: fresh linseed oil, maybe deck sealer, except the planks under my boots are bone-dry.
 
-Before I can knock, the smart-lock deadbolt snaps open on its own.
+Before my knuckles hit the wood, the smart-lock deadbolt snaps open on its own.
 
 The black door pulls back. Graham Kiefer stands in the doorway with one hand on the steel handle. He's thinner than he looked in his spring magazine profile, gaunt under pale gray eyes, the cuffs of his charcoal sweater fraying at the wrists. He takes in my wet hair, my duffel, then looks past me at the Civic.
 
@@ -46,7 +46,7 @@ Graham walks me past the island and stops at a narrow maple table near the stair
 
 "Tea?" He nods toward an electric kettle with its cord coiled by the sink. "Chamomile, or black? I forget to bump the heat until the fog moves in."
 
-"Water's fine later." My jeans stick cold to my knees as I drop my bag beside a chair. "Your broker said five thousand up front. Ten on day fourteen."
+"Water's fine later." I drop my bag beside a chair. "Your broker said five thousand up front. Ten on day fourteen."
 
 "All the way from Portland, and we're talking cash before you take your coat off." Dry, seeing if I'll blink. He pulls an unsealed white envelope out of his sweater pocket and lays it next to the folder, flap tucked in. "Count it after you sign."
 
@@ -100,17 +100,15 @@ Fifty fresh hundreds strapped in a single five-thousand-dollar Portsmouth bank b
 
 "Graham." He digs into his pocket and drops a heavy brass house key onto the tabletop, its teeth worn smooth. "The porch keypad rotates codes every two days. Use the brass key for the front door. Your guest suite is down the ground-floor north hall, first left. Towels are on the rail."
 
-Before I can ask where the green archival totes are, his phone buzzes on the counter.
+I start to ask where the green archival totes are, but his phone buzzes on the counter.
 
 He glances down. The crease between his brows tightens, then smooths out. "Estate counsel. Take ten minutes to drop your bag. My study's across the north hall from you, though I'm taking this upstairs in the master suite for a little privacy. I'll bring the Wi-Fi password down in a minute."
 
 He doesn't wait for an answer and heads up the stairs, his wool socks silent on the oak. Halfway up, he pauses and looks past my shoulder toward the front entry. Then he rounds the landing, and a heavy door latches upstairs.
 
-***
-
 I stand by the table and listen to the house settle. Under the floor, a dehumidifier rumbles like an idling engine. Wind leans into the seaward glass, and the fridge compressor clicks off behind the island.
 
-The whole drive hits me at once. My left sock is soaked through from the slate walk, my shoulders ache from fighting the wheel since Brunswick, and I didn't even get that glass of water before he vanished upstairs. Four days in a cold house where every door comes with a threat—maybe I should have turned around at the gate, except my checking account doesn't care about my pride.
+The whole drive hits me at once, and I didn't even get that glass of water before he vanished upstairs. Four days in a cold house where every door comes with a threat—maybe I should have turned around at the gate, though my checking account doesn't care about my pride.
 
 I grab my duffel and jacket and head back to the front entry before the coat drips on the floors.
 
@@ -124,11 +122,7 @@ I stop, the jacket still wadded in my hand.
 
 Nineteen days since Lydia Kiefer took a skiff past the breakwater during an October squall and didn't come back. The Coast Guard called off the search days later. Her attorneys file for probate Friday.
 
-Her travel bag is jammed behind Graham's overcoats three feet from the front door, canvas bulging tight, instead of waiting upstairs for tissue paper. Maybe he couldn't stand looking at it in the bedroom, or maybe he shoved it out of sight and forgot.
-
-Except a man who squares envelopes to table grain doesn't cram a packed weekender behind his coats where a hired cleaner will trip over it night one. Not unless he was in a hurry—or wanted me to find it.
-
-Too late either way. My hand is already on the brass grip.
+A man who squares envelopes to table grain doesn't cram a packed weekender behind his coats. My hand is already on the brass grip.
 
 A tiny tarnished padlock hangs through the zipper eye, unlocked, its metal loop pushed through loose and left unlatched. An elastic cord loops a stiff paper luggage tag onto the leather handle, blue ink printed along its perforated edge, the kind ferries use for deck baggage.
 
@@ -138,11 +132,7 @@ Below it, the date stamp is dry and black.
 
 **OCT 17.**
 
-Lydia Kiefer drowned three days earlier.
-
-Right over the main hall, a floorboard pops.
-
-Footsteps start toward the stairs.
+Right over the main hall, a floorboard pops. I shove the tag back under the leather handle, kick the closet door shut before the latch can catch, and reach for my duffel.
 
 ---
 
@@ -162,13 +152,13 @@ He stops in the archway with his phone pressed against his thigh and takes in my
 
 He doesn't argue. He just leans against the archway trim and watches me haul my bag down the ground-floor north hall until I turn into the guest suite.
 
-First left, like he said. Small, spare, and cold enough that I can feel the dampness in my jeans right down to my shins. A narrow iron bed sits pushed under a high window facing the spruces instead of the water, which feels like a minor mercy until I shut the door and twist the lock. The bolt turns with zero resistance, the kind of flimsy privacy latch anyone with a butter knife or a credit card could pop in three seconds.
+First left, like he said. Small, spare, and noticeably colder than the hall. A narrow iron bed sits pushed under a high window facing the dark trees instead of the water, which feels like a minor mercy until I shut the door and twist the lock. The bolt turns with zero resistance, the kind of flimsy privacy latch anyone with a butter knife or a credit card could pop in three seconds.
 
-I drop my duffel on the luggage rack and check the bit of lining thread I hooked across the zipper teeth downstairs. Still intact. Nobody opened it while I was in the mudroom, though the fact that I'm checking my own zipper tells me I'm already too wired to sleep. I pull my laptop out and sit on the edge of the mattress, staring at the closed door while my stomach gives a sour little roll. Gas-station coffee on an empty stomach, six hours in the car, and a dead woman's husband watching me like a hawk from his hallway.
+I drop my duffel on the luggage rack and check the bit of lining thread I hooked across the zipper teeth downstairs. Still intact. Nobody opened it while I was in the mudroom, though the fact that I'm checking my own zipper tells me I'm already too wired to sleep. I pull my laptop out and sit on the edge of the mattress, staring at the closed door. Six hours in the car, a dead woman's husband watching me from his hallway, and a smoke detector blinking red overhead.
 
 The smart play is to brush my teeth, crawl under the quilt, and treat this like any other estate job. Take the check, keep my head down, and stop wondering why Graham shoved a packed weekender behind his coats.
 
-Except the quiet in this room has the same flat weight as a Vermont sheriff's office six years ago, where a deputy closed my sister Nina's binder in three weeks because nobody wanted to push past the neat version of events.
+The quiet in this room has the same flat weight as a Vermont sheriff's office six years ago, where a deputy closed my sister Nina's binder in three weeks because nobody wanted to push past the neat version of events.
 
 I open the laptop anyway. Next to Graham's sterile inventory spreadsheet, I start an offline encrypted note on my hard drive and type a single line about the closet, just enough to anchor the timestamp before my memory blurs it. I stare at the blinking cursor, waiting for the adrenaline to drop. It doesn't.
 
@@ -176,11 +166,7 @@ A sharp metal tick from the radiator under the window makes me flinch. Downstair
 
 Across the north hall, the study door shuts softly. Footsteps cross the wood inside, then a desk chair scrapes back. He'd glanced toward the front entry from the stairs and told me to stay out of the studio until morning. If I wait for daylight, he'll be hovering over my shoulder with a clipboard, or whatever he doesn't want seen up there will already be in a trash bag.
 
-I tug off my wet boots, dig dry wool socks out of my bag, and slip the house key into my jeans pocket. My toes are still numb, and my hands haven't warmed up since the porch. Slightly stupid and wide awake, I ease the privacy bolt back.
-
-***
-
-A gray wool runner covers the north hall and swallows my footsteps. Light leaks from under Graham's study door directly across from mine, along with the clack of a mechanical keyboard. Every few seconds the typing stops for the dry rustle of paper, then picks back up.
+I tug off my wet boots, dig dry wool socks out of my bag, and slip the house key into my jeans pocket. Slightly stupid and wide awake, I ease the privacy bolt back. A gray wool runner covers the north hall and swallows my footsteps. Light leaks from under Graham's study door directly across from mine, along with the clack of a mechanical keyboard. Every few seconds the typing stops for the dry rustle of paper, then picks back up.
 
 I hug the drywall where the floorboards stay quiet, slip past his door to the main staircase, and take the steps slowly toward the upper landing. Halfway up, a stair tread groans under my heel. I freeze, holding my breath until the keyboard starts again below, then finish the climb on the outside edge of the treads.
 
@@ -198,31 +184,25 @@ I push the drawer shut and remember a throwaway line from the broker's intake sh
 
 It doesn't budge.
 
-I tilt my phone light down into the track. Fresh white semi-gloss paint bridges the seam between sash and frame, cured solid without a single pry mark. Maybe maintenance painted it shut months ago. Or maybe somebody sealed it after Lydia vanished, either to kill a draft or to bury tool marks on the sill. I wipe my damp palms on my jeans and turn back to the walnut desk.
+I tilt my phone light down into the track. Fresh white semi-gloss paint bridges the seam between sash and frame, cured solid without a single pry mark. I wipe my damp palms on my jeans and turn back to the walnut desk. A thick green leather blotter covers the middle of the desktop, where a tarnished brass paperweight holds down a closed linen-bound sketchbook. An uncapped silver Montblanc fountain pen rests beside the book, its black barrel catching the screen light next to a cream stationery pad with a handwritten departure checklist on top. An uncapped fountain pen dries into a gummy crust within days.
 
-***
+I keep my fingers off the barrel. Old Harbor Mutual reflex—touch a scene before you shoot it, and defense counsel eats you alive over smeared prints. I kill the flash, brace my elbows against my ribs, and snap two tight shots of the desk layout: the sketchbook, the paperweight, the angle of the pen, the ink lines on the pad. If Graham walks in tomorrow and claims something moved, I want proof of how it sat tonight.
 
-A thick green leather blotter covers the middle of the desktop, where a tarnished brass paperweight holds down a closed linen-bound sketchbook. An uncapped silver Montblanc fountain pen rests beside the book, its black barrel catching the screen light next to a cream stationery pad with a handwritten departure checklist on top. An uncapped fountain pen dries into a gummy crust within days. Someone laid it out like a prop, or dropped it mid-sentence and never came back for it.
-
-I keep my fingers off the barrel. Old Harbor Mutual reflex—touch a scene before you shoot it, and defense counsel eats you alive over smeared prints. I kill the flash, brace my elbows against my ribs because my hands are still shaking slightly from the cold, and snap two tight shots of the desk layout: the sketchbook, the paperweight, the angle of the pen, the ink lines on the pad. If Graham walks in tomorrow and claims something moved, I want proof of how it sat tonight.
-
-Then I lift the paperweight by a fraction and flip the sketchbook open by its bottom corner. Fine pencil studies of kelp fronds, barnacles, and beach peas fill the front half, Latin names penciled lightly underneath. Every stroke slopes forward, right-handed, clean through page forty. Toward the back, three blank leaves show faint pressure lines where someone sliced pages cleanly out along the binding with a sharp blade. Deliberate, practiced cuts meant to pass a quick glance.
+Then I lift the paperweight by a fraction and flip the sketchbook open by its bottom corner. Fine pencil studies of kelp fronds, barnacles, and beach peas fill the front half, Latin names penciled lightly underneath. Every stroke slopes forward, right-handed, clean through page forty. Toward the back, three blank leaves show faint pressure lines where someone sliced pages cleanly out along the binding with a sharp blade.
 
 I ease the cover shut and set the paperweight back on the corner a hair off its original angle without thinking. Maybe Graham wouldn't notice a millimeter shift, or maybe he'd spot it the second he stepped through the door; either way, I'm too tired to line it back up against the photo on my phone. I lean over the stationery pad instead, careful not to brush the pen beside it.
 
-Four quick items in dark dry ink: *skiff mooring line, studio shutters, cellar latch, harbor tide*. Down the left margin, a curved smear cuts straight through the first letters of every line, the kind of drag you get when a left-handed writer hooks a wrist across wet ink.
+Four quick items in dark dry ink: *skiff mooring line, studio shutters, cellar latch, harbor tide*. Down the left margin, a smear drags through every first letter.
 
-I lift the sketchbook cover one more time to be sure. Every ink label on Lydia's botanical sheets leans forward on a clean right-hand slant, not a smudge anywhere. Lydia wrote right-handed. Whoever jotted that checklist beside her Montblanc likely hooked a left hand across the page.
+Every botanical label in the flat-file slanted cleanly to the right. Not a smudge anywhere. I stare at the smeared left margin on the pad, then flip the sketchbook shut.
 
 Downstairs, the keyboard stops.
 
-For two seconds the house goes dead silent, save for the wind rattling the spruces outside the painted window. Then a chair scrapes back across wood.
+For two seconds the house goes dead silent, save for the wind rattling the sash outside. Then a chair scrapes back across wood.
 
 I shove my phone into my pocket and back away toward the flat-files, my heart climbing straight into my throat. A stair tread creaks up from the landing—the same board I stepped on five minutes ago. Slow weight shifts across the upstairs runner, then stops right outside the cracked studio door.
 
-My fingers close around the key in my pocket.
-
-Out in the dark hall, the doorknob turns.
+Out in the hall, the doorknob turns, and I say loudly into the dark, "Your wife's window is painted shut."
 
 ---
 
@@ -250,17 +230,17 @@ He turns his head back toward me, gray eyes unreadable in the dim hall light. "M
 
 He stays planted in the doorway until I'm right in front of him, so I have to turn sideways past his sleeve to reach the runner. He smells faintly of cedar shavings and cold rain, odd for a man who hasn't been outside since I arrived. He doesn't follow me down the stairs toward the ground-floor guest room. Halfway down, I hear the studio door pull shut behind him, followed by the click of a key turning in a lock that wasn't engaged ten minutes ago.
 
-Back in my room, I wedge the desk chair under the doorknob before I drop onto the bed. My calves ache from the stairs, and Friday feels a long way off.
+Back in my room, I wedge the desk chair under the doorknob before I drop onto the bed. Friday feels a long way off.
 
 ***
 
-By seven-thirty, the fog has pressed right up against the dining-room glass, swallowing the outer breakwater in flat gray. Low tide has stripped the cove down to black ledges and knotted rockweed under a low slate sky. Graham stands at the island in a clean gray oxford shirt with the sleeves rolled to his elbows and pours coffee from a glass carafe into two mugs. In daylight, the hollows under his eyes look bruised.
+By seven-thirty, the fog has pressed right up against the dining-room glass, swallowing the outer breakwater in flat gray. Low tide has stripped the cove down to black ledges and knotted rockweed under a low pewter sky. Graham stands at the island in a clean gray oxford shirt with the sleeves rolled to his elbows and pours coffee from a glass carafe into two mugs. In daylight, the hollows under his eyes look bruised.
 
 "Black?" he asks. He keeps his eyes on the carafe as he slides a mug across the stone.
 
-"Please." I pull out a barstool and wrap my cold fingers around the warm ceramic. It tastes like it sat on the burner since Tuesday. I thought about hitting record on my phone in my pocket. Maine is a one-party consent state, sure, but getting caught running a hot mic in a defense contractor's kitchen is an easy way to buy a lawsuit.
+"Please." I pull out a barstool and take the mug. It tastes like it sat on the burner since Tuesday. I thought about hitting record on my phone in my pocket. Maine is a one-party consent state, sure, but getting caught running a hot mic in a defense contractor's kitchen is an easy way to buy a lawsuit.
 
-Graham leans back against the counter, sips his coffee, and watches the exposed mudflats. "I ordered twenty wardrobe cartons and acid-free tissue from a supply house in Rockland. They're dropping them at the gate by noon."
+Graham leans back against the counter, sips, and watches the exposed mudflats. "I ordered twenty wardrobe cartons and acid-free tissue from a supply house in Rockland. They're dropping them at the gate by noon."
 
 "Good. I'll need the study totes too, if I'm logging paperwork."
 
@@ -268,7 +248,7 @@ Graham leans back against the counter, sips his coffee, and watches the exposed 
 
 *Tessa.* Last night it was *Ms. Calder*. Now we're having morning coffee over marine claims.
 
-I take a swallow of the bitter coffee before answering. "Depends on the payout. Small skiff losses under fifty grand usually clear on a harbor deputy's report and a Coast Guard incident log. Nobody pays a diver to go down in a rocky cove in November unless the hull washes up with drill holes in it."
+I take a swallow before answering. "Depends on the payout. Small skiff losses under fifty grand usually clear on a harbor deputy's report and a Coast Guard incident log. Nobody pays a diver to go down in a rocky cove in November unless the hull washes up with drill holes in it."
 
 "And if there's an estate fight?"
 
@@ -298,7 +278,7 @@ I keep my face neutral, nod like a sympathetic clerk, and watch his hands. "And 
 
 "Still doesn't explain why you hired me through a blind broker instead of calling an estate crew in Camden," I say. "Local outfits pack faster and don't charge cash premiums."
 
-He looks up from his coffee, the polite host routine gone. "Local outfits talk at the general store before five o'clock. Every clerk in this county knows Deputy Halstead, and Halstead already has three reporters poking around the causeway. I needed someone with zero local ties who knows how to document property thoroughly enough that Boston counsel can't claim I hid marital assets—or missed something inside this house."
+He sets his mug down, the polite host routine gone. "Local outfits talk at the general store before five o'clock. Every clerk in this county knows Deputy Halstead, and Halstead already has three reporters poking around the causeway. I needed someone with zero local ties who knows how to document property thoroughly enough that Boston counsel can't claim I hid marital assets—or missed something inside this house."
 
 I hold his gaze across the counter. For the first time since I drove through the gate, the panic behind his eyes looks real. I know what eviction panic looks like. Even so, five-point-four million in trust money buys a much bigger motive than winter sweaters.
 
@@ -308,7 +288,7 @@ His expression shutters. "She took the fiberglass skiff out around ten-thirty to
 
 "And the Coast Guard found the boat at dawn?"
 
-"Drifting half a mile past the breakwater, oars still shipped." He picks up his mug and turns toward the back glass sliders. The gray morning light catches a small tremor in his wrist before he sets the cup down again. "Deputy Halstead logged it before noon. If you're done with your coffee, I'd like you to start in the sunroom before the supply truck gets here."
+"Drifting half a mile past the breakwater, oars still shipped." He picks up his mug and turns toward the back glass sliders. The gray morning light catches a small tremor in his wrist before he sets the cup down again. "Deputy Halstead logged it before noon. If you're done, I'd like you to start in the sunroom before the supply truck gets here."
 
 ***
 
@@ -340,17 +320,17 @@ Graham holds the glass door open, his hand lingering on the frame. Down by the w
 
 # Chapter 4
 
-The taillights of Graham's Audi disappear into the spruce, and I open the shared spreadsheet on my laptop to type the first line: *Sunroom, hand-knotted wool rug, charcoal gray, fair condition*.
+The taillights of Graham's Audi disappear down the drive, and I open the shared spreadsheet on my laptop to type the first line: *Sunroom, hand-knotted wool rug, charcoal gray, fair condition*.
 
 He's down by the timber gate hauling twenty flat-packed wardrobe cartons up from the Rockland supply truck. If he checks edit timestamps from his phone, he'll see me working. Dull clerical work makes good cover. As long as I look like a slow clerk logging lamps and throw pillows, he won't hover.
 
-Just off the dining room, the sunroom juts out over the cliff on the southeast corner of the house: all tall glass, a wide slider out to the deck, and cold gray glare across pale cedar floorboards. Two low linen armchairs face the cove across a slate coffee table and a broad woven rug. Below the bluff, the fog has thinned into damp shreds curling around the pilings of Maren Lindqvist's shack, though her skiff is gone. Just the empty wooden dock, wet stacks of wire traps, and a gull hunched on the corner post.
+Just off the dining room, the sunroom juts out over the cliff on the southeast corner of the house: all tall glass, a wide slider out to the deck, and cold gray glare across pale cedar floorboards. Two low linen armchairs face the cove across a low stone table and a broad woven rug. Below the bluff, the fog has thinned into damp shreds curling around the pilings of Maren Lindqvist's shack, though her skiff is gone. Just the empty wooden dock, wet stacks of wire traps, and a gull hunched on the corner post.
 
-*Two fingers.* I kneel to shoot the maker's tag under the first armchair, my knees cracking in the quiet. The cedar boards are freezing through my jeans. *Two people? Two days till Friday?*
+*Two fingers.* I kneel to shoot the maker's tag under the first armchair. *Two people? Two days till Friday?*
 
 Whatever she meant, she hadn't risked climbing the bluff to say it out loud. That meant she was scared of Graham, or scared of whoever else carried a key to that boathouse. Either way, I couldn't accuse a grieving tech founder of staging his own house without something solid in hand. Not with Friday's probate petition already waiting on a judge's desk.
 
-I log both armchairs, checking the undersides for loose webbing and water stains, then move on to a blackened-steel floor lamp with a heavy iron base. Its braided cord disappears under the rug toward a floor outlet. Next is a low walnut side table holding three unread books on Maine coastal plants. Their spines crack stiffly when I fan the pages for tucked receipts or margin notes. Nothing inside. The price stickers are still on the backs, untouched. I set them back in the same crooked stack and rub my cold hands together. My toes are already numb from the draft off the glass, and the gray light makes the whole room feel like a waiting room.
+I log both armchairs, checking the undersides for loose webbing and water stains, then move on to a blackened-steel floor lamp with a heavy iron base. Its braided cord disappears under the rug toward a floor outlet. Next is a low walnut side table holding three unread books on Maine coastal plants. Their spines crack stiffly when I fan the pages for tucked receipts or margin notes. Nothing inside. The price stickers are still on the backs, untouched. I set them back in the same crooked stack and rub my hands together. The gray light makes the whole room feel like a waiting room.
 
 Next is the rug. To log the weave and check for a maker's label on the backing, I have to turn up a corner. I grab the thick bound edge nearest the wall and haul back. It's heavier than it looks, dense and stiff-backed; the coarse weave drags across the planks and kicks dust up into the gray light.
 
@@ -366,11 +346,11 @@ Heavy wool traps fumes for weeks, so the bleach alone wouldn't prove when it hap
 
 Tires crunch on wet gravel outside. I let the rug drop back into place just as the Audi noses into the turnaround.
 
-By the time the front latch clicks and Graham's boots thump onto the mudroom tray, I'm kneeling beside the second armchair with my clipboard tucked under my arm, writing *Armchair #2: minor sun fade on west arm* as if I've been at it for twenty minutes. My left hip is already cramping from the floor.
+By the time the front latch clicks and Graham's boots thump onto the mudroom tray, I'm kneeling beside the second armchair with my clipboard tucked under my arm, writing *Armchair #2: minor sun fade on west arm* as if I've been at it for twenty minutes.
 
 "Cartons are in the foyer," he calls from the kitchen arch, slightly winded from hauling cardboard in from the rain. Water beads on the shoulders of his fleece, and he shakes his hair back once before wiping his palms on his jeans. "Half of them are blocking the coat closet, so watch your shins. Take a break whenever you want lunch. There's sourdough and turkey in the fridge."
 
-My stomach gives a quiet, traitorous twist at the mention of food. "I'm good for another hour," I call back, and try to keep my voice flat and bored. "Just finishing the sunroom before I start the master closet. Lots of sun fade on the upholstery out here."
+"I'm good for another hour," I call back, and try to keep my voice flat and bored. "Just finishing the sunroom before I start the master closet. Lots of sun fade on the upholstery out here."
 
 "Makes sense. South-facing glass eats everything eventually. Coffee's still warm if you want it."
 
@@ -378,7 +358,7 @@ His footsteps pause near the maple table, then move toward the kitchen sink. Wat
 
 I wait until an upstairs door clicks shut overhead, then step into the main hall to check that the ground floor is empty. Through the mudroom doorway, the wiped-clean empty half of the boot tray sits bare beside Graham's duck boots.
 
-Back in the sunroom, I push the coffee table leg aside and fold the rug back farther so the whole scarred patch is open. The paint along the top of the baseboard is intact, though two finishing nails near the corner stick out far enough to catch a fingernail. Someone pried the molding out to wipe liquid that had run underneath, then kicked it back into place with the heel of a shoe.
+Back in the sunroom, I push the table leg aside and fold the rug back farther so the whole scarred patch is open. The paint along the top of the baseboard is intact, though two finishing nails near the corner stick out far enough to catch a fingernail. Someone pried the molding out to wipe liquid that had run underneath, then kicked it back into place with the heel of a shoe.
 
 I hook my thumbnail behind the lip and pull. Dry plaster dust sifts onto the pale boards. Down inside the dark gap between wood and drywall, something dull catches the light.
 
@@ -390,11 +370,7 @@ A rusted brass door key, green tarnish crusted into the teeth, tied to a faded r
 
 I stare at it lying in the middle of the bleached patch. The grease around the collar is smeared, as if wet or gloved fingers fumbled it before it dropped behind the trim.
 
-*B-4.* Basement. Maybe the acoustic darkroom Graham swore ran an automatic electronic breach alert. Why a rusted key to a defense vault was sitting behind a freshly bleached baseboard, I didn't want to guess standing in front of thirty feet of plate glass.
-
-***
-
-I don't touch it with bare skin. I pull a square of acid-free tissue from the sample pack Graham left me this morning and fold it around the key. Graham wouldn't leave his own basement key behind a sloppy pry job under a rug he knew I had to inspect. Someone else had fumbled it while scrubbing this floor—unless he planted it there just to see what I'd do.
+*B-4.* Basement. Maybe the acoustic darkroom Graham swore ran an automatic electronic breach alert. Why a rusted key to a defense vault was sitting behind a freshly bleached baseboard, I didn't want to guess standing in front of thirty feet of plate glass. I don't touch it with bare skin. I pull a square of acid-free tissue from the sample pack Graham left me this morning and fold it around the key. Graham wouldn't leave his own basement key behind a sloppy pry job under a rug he knew I had to inspect. Someone else had fumbled it while scrubbing this floor—unless he planted it there just to see what I'd do.
 
 I smooth the rug down, nudge the table leg back into its dents, and head into the hall.
 
@@ -418,19 +394,17 @@ He studies me for a second before answering and taps his fingers against the rai
 
 "Will do."
 
-I head out through the mudroom onto the porch. Salt wind hits my face, and the breakwater buoy clangs somewhere out in the gray. My Civic sits beside Graham's Audi, small and rusted against the wet spruces, with a fresh smear of pine needles across the hood. I get in, shut the door, and sit for a second with the cold vinyl under my legs. Mist gathers along the inside of the windshield. The key turns, the engine catches with its usual rattle, and the defroster blows cold air against the glass.
+I head out through the mudroom onto the porch. Salt wind hits my face, and the breakwater buoy clangs somewhere out in the gray. My Civic sits beside Graham's Audi, small and rusted against the wet pines, with a fresh smear of needles across the hood. I get in, shut the door, and sit for a second with the cold vinyl under my legs. Mist gathers along the inside of the windshield. The key turns, the engine catches with its usual rattle, and the defroster blows cold air against the glass.
 
-Before I put it in reverse, I glance up at the tall panes of the second-floor master bedroom.
-
-He's standing right at the glass with one palm pressed flat against it, watching my car. Gray fog curls under the eaves behind him.
+Before I put it in reverse, I glance up at the second-floor bedroom window. Graham is standing right behind the glass, watching the car. I throw the Civic into reverse anyway, crank the radio up to drown out the rattling muffler shield, and decide I'm not taking his harbor route.
 
 ---
 
 # Chapter 5
 
-My Civic's heater takes half the causeway just to push lukewarm air against the fogged windshield. Behind me, the timber gate grinds shut and the spruces swallow the glass house, though my shoulders stay tight all the way to the mainland like Graham's palm is still pressed to that upstairs pane. Every frost heave along the narrow neck rattles the loose muffler shield under the floorboards and knocks the **B-4** key against my ribs.
+My Civic's heater takes half the causeway just to push lukewarm air against the fogged windshield. Behind me, the timber gate grinds shut and the pines swallow the glass house, though I keep checking my mirror all the way to the mainland like Graham's palm is still pressed to that upstairs pane. Every frost heave along the narrow neck rattles the loose muffler shield under the floorboards and knocks the **B-4** key against my ribs.
 
-At the mainland fork, I wait with my blinker ticking over wet asphalt. Graham told me to take the main harbor route because a county crew was patching a culvert washout past the lobster pound. I take the harbor road anyway. Past the Salt Point firehouse, the spruce canopy thins over the salt marsh and my phone finally jumps from one bar to four.
+At the mainland fork, I wait with my blinker ticking over wet asphalt. Graham told me to take the main harbor route because a county crew was patching a culvert washout past the lobster pound. I take the harbor road anyway. Past the Salt Point firehouse, the tree line thins over the salt marsh and my phone finally jumps from one bar to four.
 
 Notifications dump onto the screen before I clear the curve: two missed calls from my landlord, one automated reminder from the Cumberland County clerk. At a four-way stop, I brace my wrist against the wheel and type *Kiefer Soundworks Arlington* with my thumb. Three hits load before the pickup behind me taps its horn: a spring defense-tech press release about a pending patent buyout, and a short regional item noting Kiefer Soundworks missed its third-quarter lab lease extension in Cambridge.
 
@@ -460,17 +434,13 @@ Twenty-four hours on the peninsula. The local sheriff's office already knows whe
 
 I take the slip. "Thanks, Deputy. I'll pick one up at the general store."
 
-"See that you do." He taps my roof twice, walks back to his cruiser, and swings a U-turn across the double yellow toward the Salt Point causeway and the peninsula I just left.
-
-***
-
-My hands shake so hard I grind first gear twice before pulling back onto the asphalt. Nobody pulls a car over for a brake lamp in a coastal fog bank unless they were already parked in the spruce bend waiting for it. Now he's rolling back up Kiefer's private lane while everything I brought sits behind a cheap turn-bolt lock in the guest room, and my neck is locked up from the cold. I should have shoved the duffel under the bed. Or brought it with me.
+"See that you do." He taps my roof twice, walks back to his cruiser, and swings a U-turn across the double yellow toward the Salt Point causeway and the peninsula I just left. My hands shake so hard I grind first gear twice before pulling back onto the asphalt. Nobody pulls a car over for a brake lamp in a coastal fog bank unless they were already parked in the bend waiting for it. Now he's rolling back up Kiefer's private lane while everything I brought sits behind a cheap turn-bolt lock in the guest room. I should have shoved the duffel under the bed. Or brought it with me.
 
 I drive into Salt Point harbor checking my mirror every ten seconds. The town is barely a crossroads: a brick post office, a shuttered bait shop, and a weathered clapboard general store beside a diesel dock where three lobster boats rock against black pilings.
 
-I park nose-out by the steps. Still in the cab, I pull up the public Coast Guard missing-person bulletin for Lydia Kiefer, pair the vessel ID with the passport number from the broker's preliminary estate tax sheet, and send an encrypted text to Samira Patel in Portland—she still has read-only access to Atlantic Marine Underwriters' cross-border port-clearance watch—asking her to flag any border hit while I have four bars. Then I head inside under a jangling brass bell.
+I park nose-out by the steps. Still in the cab, I pull up the public Coast Guard missing-person bulletin for Lydia Kiefer, pair the vessel ID with the passport number from the broker's preliminary estate tax sheet, and send an encrypted text to Samira Patel in Portland—she still has read-only access to Atlantic Marine Underwriters' cross-border port-clearance watch—asking her to flag any border hit while I have four bars. Three dots pop up immediately, then: *I'm in a Target parking lot with melting ice cream, Tess. Stop texting me like you still work here.* A second later she sends a thumbs-up anyway. I lock the phone and head inside under a jangling brass bell.
 
-Fluorescents buzz overhead along pressed-tin panels as I grab two rolls of packing tape, a twin pack of permanent markers, and a blister pack of brake bulbs near the register. Behind the counter, a skinny kid in a Patriots hoodie drags my items across the scanner one-handed while his thumb scrolls a cracked phone screen. He doesn't look up once, even when the scanner misses a barcode twice and beeps like a dying smoke detector. Beside him, a corkboard is layered thick with laminated tide tables, church supper notices, and lost-dog flyers.
+Fluorescents buzz overhead along pressed-tin panels as I grab two rolls of packing tape, a twin pack of permanent markers, and a blister pack of brake bulbs near the register. Behind the counter, a skinny kid in a Patriots hoodie drags my items across the scanner one-handed while his thumb scrolls a cracked phone screen. When the scanner misses a barcode twice and beeps like a dying smoke detector, I nod at it and say, "Sounds like my car." He doesn't look up once. Beside him, a corkboard is layered thick with laminated tide tables, church supper notices, and lost-dog flyers.
 
 The register chimes. Behind me, the door bell jangles again.
 
@@ -480,11 +450,11 @@ A draft of harbor fog follows the new customer inside. I turn by a wire rack of 
 
 I keep my voice low. "I'll watch the road."
 
-She pours black coffee into a paper cup, lids it, and angles her shoulder between us and the convex security mirror over the counter. "Heard Kiefer brought in help from Portland. Smart girl would cash whatever check she's holding and head back down Route One before dark."
+She fills a paper cup at the urn, lids it, and angles herself between us and the convex security mirror over the counter. "Heard Kiefer brought in help from Portland. Smart girl would cash whatever check she's holding and head back down Route One before dark."
 
 "You held up two fingers on the mudflat this morning," I murmur, pretending to check the seams on a pair of leather work gloves. "Who else was down at that boathouse?"
 
-Maren checks the kid at the register to make sure he's still glued to his phone, then looks down at her coffee lid. "Not in here. My oyster lease comes up for county sign-off in January, and Cole Halstead's marine unit boards my brother-in-law's boat every time somebody talks out of turn. I owe too much on winter dockage to go rounds with a badge over summer money."
+Maren checks the kid at the register to make sure he's still glued to his phone, then looks down at the plastic lid. "Not in here. My oyster lease comes up for county sign-off in January, and Cole Halstead's marine unit boards my brother-in-law's boat every time somebody talks out of turn. I owe too much on winter dockage to go rounds with a badge over summer money."
 
 "Then why wave me off from the cove?"
 
@@ -492,13 +462,9 @@ Maren pulls a wad of brown paper napkins from the counter dispenser. Her cold, s
 
 The clerk clears his throat behind me and drops my receipt into a brown paper bag on the counter beside the tape rolls. "Eighteen forty-two, miss."
 
-Maren doesn't wait. She steps past my open bag to drop a crumpled five beside the coffee urn, her free hand grazing the top edge of the sack for a split second before she shoulders out the door. I pay, grab my bag, and hurry onto the porch just in time to see her pickup rattle away up the harbor hill.
+Maren doesn't wait. She steps past my open bag to drop a crumpled five beside the napkin dispenser, her free hand grazing the top edge of the sack for a split second before she shoulders out the door. I pay, grab my bag, and hurry onto the porch just in time to see her pickup rattle away up the harbor hill. Back in the Civic, I blow a long breath into the cold cab until the windshield clouds over and toss the bag onto the passenger seat, where the cheap pine air freshener dangling from my mirror swings against the glass. A corner of white card stock catches my eye inside, wedged between the tape rolls and the brake bulbs. The kid at the register only threw my receipt on top.
 
-***
-
-Back in the Civic, I blow a long breath into the cold cab until the windshield clouds over, tossing the bag onto the passenger seat. My stomach picks that exact second to remind me I haven't eaten since a burnt muffin in Portland. A corner of white card stock catches my eye inside, wedged between the tape rolls and the brake bulbs. The kid at the register only threw my receipt on top.
-
-I pull the card out and go still. It's a torn strip of plasticized marine tide-chart card—the same coated stock pinned by the coffee urns where Maren stood. Someone tore off the October column, circled *Oct 15* at the top, and boxed a single line in carpenter's pencil:
+I pull the card out and go still. It's a torn strip of plasticized marine tide-chart card—the same coated stock pinned by the condiment counter where Maren stood. Someone tore off the October column, circled *Oct 15* at the top, and boxed a single line in carpenter's pencil:
 
 *2:14 AM — High Water.*
 
@@ -516,9 +482,9 @@ By the time I climb back onto the Salt Point causeway, the wind has swung east j
 
 I punch the four-digit pin at the timber gate, my cuff soaking through while the barrier groans back. When I pull through, my headlights sweep the gravel turnaround.
 
-Graham's Audi sits under the spruces. Fresh, deep-lugged tire tracks cut a wide loop through the wet gravel where a heavy vehicle pulled up to the house, swung around, and headed back down the lane before I made it home from the harbor.
+Graham's Audi sits under the evergreens. Fresh, deep-lugged tire tracks cut a wide loop through the wet gravel where a heavy vehicle pulled up to the house, swung around, and headed back down the lane before I made it home from the harbor.
 
-I cut the engine and grab the paper bag from the hardware store. As I head up the slate walk, B-4 rides flat and heavy against my ribs.
+I cut the engine and grab the paper bag from the hardware store. As I head up the wet walk, B-4 rides flat and heavy against my ribs.
 
 The front door isn't locked. It swings in as soon as I turn the handle, letting out warm kitchen air. Through the archway, Graham stands at the stainless range and stirs something pale in a copper saucepan.
 
@@ -528,7 +494,7 @@ The front door isn't locked. It swings in as soon as I turn the handle, letting 
 
 "Leave it on the counter." He turns the burner down and watches through the arch while I unlace my boots beside the tray. "I made leek soup. Eat before you get back to work. Boston counsel called while you were out, and they moved the preliminary filing window up to Thursday night."
 
-I step into the kitchen and stop by the island. My knuckles are chapped raw from the salt air, and my head is starting to throb behind my eyes. "Thursday?"
+I step into the kitchen and stop by the island. "Thursday?"
 
 Twenty-four hours gone, right in the teeth of a November storm. "This morning you said you had joint signing control over Lydia's trust," I say. "Why does one day matter if you've got a normal probate window?"
 
@@ -554,7 +520,7 @@ I zip the duffel shut, leave the thread off, and shove the paper bag out of sigh
 
 Back in the kitchen, gusts buffet the ocean glass and rattle the aluminum frames. Rain sheets down the dark panes, blotting out the cove.
 
-I sit at the island with a bowl of leek soup I can barely taste. My fingers stay cold around the spoon, and Graham stands at the sink rinsing a cutting board like we're just two people waiting out a normal storm.
+I sit at the island with a bowl of leek soup I can barely taste while Graham stands at the sink rinsing a cutting board like we're just two people waiting out a normal storm.
 
 "Did Deputy Halstead stop by while I was in town?" I ask.
 
@@ -596,13 +562,13 @@ He folds the damp towel into a neat rectangle and lays it flush with the edge of
 
 ***
 
-Before I can answer, a wet slam of wind shakes the whole house, and the ceiling lights flicker twice and die. The kitchen, the mudroom, and the ocean glass go black all at once. Just past the end of the counter, inside the narrow corridor leading to the pantry, the smart-home wall tablet stays lit on its backup battery and throws a pale blue square across Graham's cheekbones. Neither of us moves. Rain hammers the roof slate and drowns out the buoy bell while the low mechanical hum beneath our feet goes dead silent.
+A wet slam of wind shakes the whole house, and the ceiling lights flicker twice and die. The kitchen, the mudroom, and the ocean glass go black all at once. Just past the end of the counter, inside the narrow corridor leading to the pantry, the smart-home wall tablet stays lit on its backup battery and throws a pale blue square across Graham's cheekbones. Neither of us moves. Rain hammers the roof and drowns out the buoy bell while the low mechanical hum beneath our feet goes dead silent.
 
 "Stay put," Graham says, sharp. "The diesel generator takes a few seconds to kick in."
 
 I stay where I am, eyes locked on his silhouette in the blue wash. If the grid's down across Salt Point, nobody calls out without a hardline.
 
-Outside, a heavy thump vibrates through the foundation as the generator catches. An engine rumble rises through the slate, and the ceiling lights flicker back on, dim at first before they hold.
+Outside, a heavy thump vibrates through the foundation as the generator catches. An engine rumble rises through the floorboards, and the ceiling lights flicker back on, dim at first before they hold.
 
 Graham starts past the island toward the pantry corridor to clear the power-loss alert, and I follow him to the edge of the counter. Mounted right beside the breaker box, the wall tablet runs off the security hub's battery backup and cycles through white status lines as the house circuits switch over to generator power. A yellow service tag is wired to the conduit above the panel: `EXT-DECK BYPASS`. Across the bottom of the screen, a green line reads: `40-MIN HOLD STANDBY`.
 
@@ -614,7 +580,7 @@ Graham's thumb hits the glass and wipes the banner gone. He keeps his back to th
 
 "Power surge trips the old basement sensors," he says, though the skin across the back of his neck has gone dark red. "Happens every November storm. Finish your soup, Tessa. We start the master closet at eight sharp."
 
-Across the main hall, tucked under the open oak stairs, the door to Basement Zone 4 stands closed in the shadows, its latch plate untouched.
+I pick up my spoon, take one cold bite of soup just to watch him squirm, and decide that tonight I'm going down those basement stairs whether he hears the latch or not.
 
 ---
 
@@ -630,9 +596,9 @@ Graham pauses inside the front entry, charcoal suit pressed and leather briefcas
 
 "Not going anywhere."
 
-The second his taillights clear the timber gate and the barrier clunks shut, the house settles into its daytime noise: crawlspace dehumidifier rumbling underfoot, wind ticking spruce needles against the glass. Half the day with the place to myself.
+The second his taillights clear the timber gate and the barrier clunks shut, the house settles into its daytime noise: crawlspace dehumidifier rumbling underfoot, wind ticking pine needles against the glass. Half the day with the place to myself.
 
-The relief doesn't even last until the kettle would've boiled. My mouth tastes like stale coffee, and my shoulders ache before I've carried a single box. I could walk out right now, except I can't, and standing in the hall staring at the stairs isn't going to move the ledger any faster. I'm already behind before eight in the morning.
+The relief doesn't even last until the kettle would've boiled. I could walk out right now, except I can't, and standing in the hall staring at the stairs isn't going to move the ledger any faster. I'm already behind before eight in the morning.
 
 Before I touch a sweater upstairs, I walk over to the floating oak stairs and crack the cedar stairwell door an inch. Down the concrete steps, the steel fire door of Basement Zone 4 sits under a steady red LED, hardwired into the Kiefer Soundworks hub. Even with the B-4 key sitting inside my jacket on the entry hook, shoving old brass into that cylinder right now sends a breach alert straight to Portland and Graham's phone.
 
@@ -648,13 +614,13 @@ I drop the cartons outside the walk-in closet, snap on a pair of nitrile gloves,
 
 Two walls of structured wool coats, silk blouses, and ankle boots hang spaced neatly on wooden hangers, while half a dozen round hatboxes and three velvet jewelry trays line the back shelf. Most of the tags are still stiff, the cuffs uncreased, like Lydia bought half of it for a life she never quite got around to living. I spend the next couple of hours working at a steady clip so my cloud timestamps look right. I snap photos and log anything over five hundred: a camel cashmere trench, two pairs of Italian riding boots, a Cartier watch with a dead battery in the top tray. I even pull down two of the hatboxes—light, packed only with silk scarves and cedar sachets—and set them back into their dust rings.
 
-Every drawer in the center island glides out on oiled tracks. Folded scarves, leather driving gloves, a silver-backed hairbrush with three dark strands still caught in the bristles. In the top tray, a platinum wedding band rests beside a pair of pearl studs, the kind of ring a woman rarely takes off by accident. Her everyday things are gone, packed into the weekender downstairs. Only the expensive pieces probate lawyers expect to see are left behind.
+Every drawer in the center island glides out on oiled tracks. Folded scarves, leather driving gloves, a silver-backed hairbrush with three dark strands still caught in the bristles. In the top tray, a platinum wedding band rests beside a pair of pearl studs, the kind of ring a woman rarely takes off by accident. Her everyday things are gone.
 
-Then I look down at the bottom shoe rack. All of Lydia's boots (tall suede, riding leather, rubber rain boots) stand heel-to-toe along the cedar slats. At the far right end beside the baseboard, a clean rectangular patch of wood lies empty, the exact footprint of winter duck boots. The missing half of the mudroom tray downstairs. I crouch, snap a quick shot of the empty space, and head into the master bath.
+Then I look down at the bottom shoe rack. All of Lydia's boots (tall suede, riding leather, rubber rain boots) stand heel-to-toe along the cedar slats. At the far right end beside the baseboard, a clean rectangular patch of wood lies empty, the exact footprint of winter duck boots. I crouch, snap a quick shot of the empty space, and head into the master bath.
 
 ***
 
-The bathroom is all honed slate and frosted glass, cold enough to raise the hair on my arms. A double limestone vanity runs under a wide mirror, spotless except for a dried water ring near the left faucet. I catch my own reflection in the glass—pale, hair coming loose behind one ear—and look away. A hammered-silver soap dish is bone-dry beside two linen hand towels folded into exact thirds, like nobody has washed their hands in here in weeks.
+The bathroom is all frosted glass and dark stone, cold enough to raise the hair on my arms. A double limestone vanity runs under a wide mirror, spotless except for a dried water ring near the left faucet. I catch my own reflection in the glass—pale, hair coming loose behind one ear—and look away. A hammered-silver soap dish is bone-dry beside two linen hand towels folded into exact thirds, like nobody has washed their hands in here in weeks.
 
 I check the tall linen cabinet first, patting behind stacks of gray bath sheets. Under Lydia's sink, the narrow drawers hold only spare razor cartridges, cotton pads, and a travel toothbrush still sealed in blister plastic. Last, I pull open the shallow mirrored medicine cabinet over the left sink.
 
@@ -664,7 +630,7 @@ Two glass shelves of ordinary clutter: moisturizers, prescription retinol, half 
 
 Ambien.
 
-I turn the vial toward the frosted window. Written by an internist in Rockland, zero refills. Heavy sleep meds, filled a week and a half before she walked down to a skiff in the dark.
+I turn the vial toward the frosted window. Written by an internist in Rockland, zero refills.
 
 I pop the cap and tip the tablets into my gloved palm, then count twice.
 
@@ -674,19 +640,15 @@ I dump them back in, log the October fourth fill date and count, and put the via
 
 The porcelain bowl looks spotless. Up close, though, a faint white ring catches the light along the stopper's chrome edge. Probably dried toothpaste or hard-water grit, except everything else in this bathroom has been scrubbed raw.
 
-With those ten missing Ambien still nagging at me, I kneel under the vanity with my multi-tool, my left knee popping loud in the quiet room. The curved brass P-trap looks clean on the outside, though if somebody dumped something down here recently, the bottom bend would still catch it.
+With those ten missing Ambien still nagging at me, I kneel under the vanity with my multi-tool. The curved brass P-trap looks clean on the outside, though if somebody dumped something down here recently, the bottom bend would still catch it.
 
 Holding a folded paper towel underneath the elbow, I crack the slip-nut loose. A thimbleful of gray water drips onto the paper, followed by a damp smear of white paste caked inside the lower curve of the pipe.
 
-I stare at the chalky smear on my glove. It isn't toothpaste. Too gritty, and no mint smell. If someone crushed those ten tablets in warm water to draw off the drug, the leftover binder would settle right here in the bend.
+I stare at the chalky smear on my glove. Too gritty for toothpaste, and no mint smell.
 
-I scrape a clean dab of the paste onto a square of foil from my pocket, twist it inside the finger of a spare glove, and knot it shut.
+I scrape a clean dab of the paste onto a square of foil from my pocket, twist it inside the finger of a spare glove, and knot it shut, pocketing it to tuck into my duffel's outer side pouch.
 
-My phone buzzes against my hip, and I crack my elbow on the drainpipe.
-
-***
-
-I stay frozen under the sink as it gives one short chime, a push alert from the Kiefer Soundworks app. I back out from under the vanity and check the screen. A gray banner across the lock screen flags motion at the back pantry door.
+My phone buzzes against my hip, and I crack my elbow on the drainpipe. I stay frozen under the sink as it gives one short chime, a push alert from the Kiefer Soundworks app. I back out from under the vanity and check the screen. A gray banner across the lock screen flags motion at the back pantry door.
 
 Graham is in Portland. I'm supposed to be alone on this peninsula for hours yet. I tap the banner and pull up the live guest feed.
 
@@ -698,15 +660,15 @@ He's wearing a dark navy patrol windbreaker instead of his county slicker, colla
 
 I watch him check his wristwatch, glance over his shoulder at the empty deck stairs, and lift his left hand to the lit keypad. He doesn't even pause. He punches six digits into the buttons. A green LED flashes on the housing, and the door swings inward smoothly when he leans into the handle.
 
-A rotating code Graham swore changed every forty-eight hours. A deputy he claimed never stepped inside. Now Halstead is walking straight into the kitchen while Graham's ninety miles south, and he doesn't even knock.
+A rotating code Graham swore changed every forty-eight hours. A deputy he claimed never stepped inside.
 
 Halstead steps inside and pulls the glass door shut behind him. The video feed stutters, then drops to a gray error box.
 
-I snug the slip-nut back up, swipe the slate dry with the paper towel, and strip the gloves off on my way into the upper hall. If I stay up here, I'm trapped at the top of a single staircase—or worse, he walks back out before I find out what he came for.
+I snug the slip-nut back up, swipe the floor dry with the paper towel, and strip the gloves off on my way into the upper hall. If I stay up here, I'm trapped at the top of a single staircase—or worse, he walks back out before I find out what he came for.
 
-Every instinct tells me to grab my duffel, run for the Civic, and let Boston deal with this rotten house. Except walking out before Thursday triggers a breach clause I can't cover.
+Every instinct tells me to grab my duffel, run for the Civic, and let Boston deal with this rotten house. Walking out before Thursday triggers a breach clause I can't cover.
 
-I take the narrow back service stairs quietly, hugging the plaster wall where the treads don't creak, and stop dead two steps above the bottom landing as the steel door of the kitchen breaker box clicks open right around the corner.
+I take the narrow back service stairs quietly, hugging the plaster wall where the treads don't creak, and stop two steps above the bottom landing. Why is a county deputy messing with the kitchen breaker box?
 
 ---
 
@@ -718,17 +680,17 @@ I freeze two steps above the bottom landing of the back service stairs. Below me
 
 A toggle snaps inside the metal panel, followed by a soft relay click.
 
-I step off the bottom tread, slip into the pantry, and ease the louvered door shut just shy of the catch. Mason jars, olive oil tins, and stoneware crocks crowd my shoulders in a space barely wider than my hips. The edge of the middle shelf digs into my ribs when I turn sideways to fit.
+I step off the bottom tread, slip into the pantry, and ease the louvered door shut just shy of the catch. Mason jars, olive oil tins, and stoneware crocks crowd me in a space barely wider than my jacket. The edge of the middle shelf digs into my ribs when I turn sideways to fit.
 
 Upstairs, my clipboard and two open wardrobe boxes are sitting in plain sight outside the master closet. Every sheet I've logged since eight is up there.
 
 Through the angled slats, I have a slanted view across the corridor to the breaker box and the wall tablet beside it, and diagonally past the kitchen island toward the mudroom arch and the main stairs.
 
-Halstead steps into sight in his navy patrol windbreaker, rain beading dark across his shoulders and dripping off his cap brim onto the slate.
+Halstead steps into sight in his navy patrol windbreaker, rain beading dark across his jacket and dripping off his cap brim onto the floor.
 
 He pulls a short black jumper wire from his pocket and reaches into the open panel. A faded contractor sticker clings beside the circuit map inside the door: *Halstead Marine & Low-Voltage, Rockland, ME.* Before he ever pinned on a badge, he or his family wired the alarms out on this point.
 
-He leaves the main house circuits alone; the recessed kitchen lights stay steady and the crawlspace dehumidifier keeps humming underfoot. He doesn't even glance at the diagram. He isolates the lower loop for the exterior deck logs, clips the wire across two copper terminals, and checks his watch. The forty-minute service mode suppresses remote push alerts and holds camera events locally. Nothing pings Graham's phone while those terminals stay bridged.
+He leaves the main house circuits alone; the recessed kitchen lights stay steady and the fridge compressor keeps humming behind me. He doesn't even glance at the diagram. He isolates the lower loop for the exterior deck logs, clips the wire across two copper terminals, and checks his watch. The forty-minute service mode suppresses remote push alerts and holds camera events locally. Nothing pings Graham's phone while those terminals stay bridged.
 
 Halstead eases the panel shut, steps to the end of the corridor, and looks up the main stairs.
 
@@ -742,11 +704,11 @@ I press my back harder against the bottom shelf to stay clear of the slats. A ti
 
 At the tablet, Halstead taps six digits onto the dark glass with his left hand and unlocks the installer menu on the first try.
 
-Cole may have wired the breaker bypass himself, but nobody guesses a six-digit installer code on a defense contractor's security hub. Graham swore no one else had house access. Either Graham lied, or Lydia gave Cole her PIN before she vanished.
+Nobody guesses a six-digit installer code on a defense contractor's security hub.
 
 He scrolls quickly through the morning event log, his crooked front tooth catching the blue screen glow. He stops on the master-suite motion pings—my own tracks from half an hour ago.
 
-His head lifts toward the main staircase. Now he knows I didn't drive back into town; as far as he can tell, I'm still upstairs, maybe out of earshot behind a closed closet door. Graham is in Portland until afternoon, which means Cole is gambling I stay put long enough for him to finish.
+His head lifts toward the main staircase. Now he knows I didn't drive back into town.
 
 He turns back to the screen and taps twice to wipe his keypad entry off the local log. At Harbor Mutual, I watched a warehouse manager in Lewiston scrub a single loading-dock zone the exact same way two nights before an electrical fire took out half a block. They always worked through the screen with that same calm, practiced precision, like they'd rehearsed the taps in their sleep.
 
@@ -756,15 +718,15 @@ I shift half a step to keep him in the slats. A jar clinks against a bottle by m
 
 Halstead freezes halfway through the archway, head tilted back toward the kitchen. Neither of us moves. Then he checks the empty upper rail once more and steps into the mudroom.
 
-He drops to one knee beside the boot tray, his wet knee darkening the slate. He lifts the factory-stiff life vest off peg two, turns the collar to check that the inside tag hasn't been stripped, and hangs it back square against the wall paneling.
+He drops to one knee beside the boot tray, his wet trouser leg darkening the stone. He lifts the factory-stiff life vest off peg two, turns the collar to check that the inside tag hasn't been stripped, and hangs it back square against the wall paneling.
 
 Next he scans the coat hooks, his gaze sliding past Graham's wool coat to my jacket beside it. B-4 is tucked inside that breast pocket, wrapped in tissue. One casual pat and his fingers hit brass through the lining. My chest locks up. His hand hovers near the hem.
 
 He skips the coats. Instead, he sweeps two fingers along the floorboard seam under the boot tray lip, checks the deadbolt throw on the mudroom side door, and stares down at the empty right half of the tray where Lydia's duck boots belong. For a second he just stays crouched there, listening to the rain on the roof, before he stands and heads back into the kitchen.
 
-My neck is stiff from craning toward the gap. Right at eye level, three dusty tins of anchovies sit behind a jar of capers—who even keeps anchovies like that, unless Lydia liked them—and my knee is about to pop. Between the pickled beets and the flour canisters, there's nowhere to go anyway. Even if I bolted, my Civic is parked behind a slow hydraulic gate.
+Right at eye level, three dusty tins of anchovies sit behind a jar of capers—who even keeps anchovies like that, unless Lydia liked them. Between the pickled beets and the flour canisters, there's nowhere to go anyway. Even if I bolted, my Civic is parked behind a slow hydraulic gate.
 
-The kitchen tap runs, then shuts off. Halstead comes back with a wet paper towel, kneels to wipe a muddy heel mark off the slate where he stepped in from the cove trail, and tosses the towel toward the sink. A second later his boots turn toward the back service stairs.
+The kitchen tap runs, then shuts off. Halstead comes back with a wet paper towel, kneels to wipe a muddy heel mark off the stone where he stepped in from the cove trail, and tosses the towel toward the sink. A second later his boots turn toward the back service stairs.
 
 He stops at the foot of the narrow stairwell and looks up into the dark, his left hand resting on his belt.
 
@@ -788,7 +750,7 @@ Another pause, then an impatient exhale. "Portland cleaner's dragging her feet i
 
 *Move what up?* Graham already pushed the probate filing to Thursday night. Whoever is on the other end of that burner isn't Graham Kiefer. They're moving their own clock to beat the Boston courier.
 
-Outside, a gust rattles the deck door in its weatherstripping and pushes a strip of cold air under the sill across my ankles. The draft goes straight through my jeans to the bone.
+Outside, a gust rattles the deck door in its weatherstripping and pushes a strip of cold air under the sill across my ankles.
 
 "Don't give a damn what the Boston courier thinks," Halstead says, dropping his voice so low I have to strain over the wind. "Guy thinks a Cambridge address and a fat check let him treat this whole point like his private bank. Keep yourself tucked out of sight down the cove until dusk. I'll pull the rest before any suit from Boston sets foot on the causeway."
 
@@ -796,9 +758,9 @@ He snaps the phone shut and checks his watch. The bypass window is burning down,
 
 He turns back to the breaker box, pops the latch, and pulls the jumper wire off the terminals. Beside the box, the wall tablet chimes as the exterior deck camera resumes live streaming.
 
-Halstead closes the panel, scans the slate once more for stray tracks, and walks straight to the deck door. He steps out into the rain, pulls the door shut, and taps the lock key on the outside pad. The electronic deadbolt slides home, and the LED blinks back to steady amber.
+Halstead closes the panel, scans the floor once more for stray tracks, and walks straight to the deck door. He steps out into the rain, pulls the door shut, and taps the lock key on the outside pad. The electronic deadbolt slides home, and the LED blinks back to steady amber.
 
-My shoulders stay locked against the spice shelf. I count to thirty, then sixty, waiting for him to double back and test the handle. Only the rain answers. I stay wedged behind the shelves until the fog swallows his dark outline heading down the cove stairs.
+I count to thirty, then sixty, waiting for him to double back and test the handle. Only the rain answers. The second he clears the deck stairs, I shove the louvered door open, kick a loose tin of paprika out of my path, and start prying at the false paneling behind the spice shelf.
 
 ---
 
@@ -842,13 +804,13 @@ The sorting shed is narrow, damp, and fiercely warm in the middle, where a keros
 
 "Drink it or don't." She curls her red hands around a second mug. "I told you at the store, Miss Calder—I don't hold with mainland trouble. My oyster lease comes up in January, and Cole Halstead's marine unit boards my brother-in-law's lobster boat twice a month whenever somebody opens their mouth."
 
-"I'm not going to the county." My fingers are numb enough that the hot ceramic barely registers, and I leave the mug where it is. "Whoever Halstead's working with just shoved my deadline up to tomorrow night. If I walk out before I finish the inventory, Graham hits me with a breach penalty I can't pay, and I lose the fee keeping my apartment off a sheriff's sale. So unless you want me living in my car in your gravel lot, we're having this conversation."
+"I'm not going to the county." I leave the mug where it is. "Whoever Halstead's working with just shoved my deadline up to tomorrow night. If I walk out before I finish the inventory, Graham hits me with a breach penalty I can't pay, and I lose the fee keeping my apartment off a sheriff's sale. So unless you want me living in my car in your gravel lot, we're having this conversation."
 
 She goes still, suddenly wary. "Deadline for what?"
 
 "Closing out the probate inventory." I lean closer over the workbench so she can hear me over the heater. "You slipped that tide chart into my bag yesterday to warn me about two-fourteen in the morning. Today Halstead walked into the kitchen while Graham was in Portland and told somebody on a burner phone to stay tucked out of sight down the cove until dusk."
 
-Maren stares into her coffee and says nothing. Her mouth sets in a hard line, and she reaches over to turn the heater's damper down until the flame stops guttering.
+Maren stares into her mug and says nothing. Her mouth sets in a hard line, and she reaches over to turn the heater's damper down until the flame stops guttering.
 
 "Shouldn't have put that slip in your bag," she says, eyes on the floorboards. "I'm three months behind on winter dockage. Sixty days from losing my mooring. You think I'm lining up to testify against a Knox County deputy?"
 
@@ -884,15 +846,15 @@ I step back onto crushed shell. Night has closed fast over the cove. Fog rolls o
 
 A planned disappearance doesn't need a painted-shut studio window sash or a deputy sneaking in through the pantry. Someone's staging the house before tomorrow's courier arrives, and if I don't get back upstairs before Graham clears the causeway, I'm going to have to explain why my boots are soaked through with cove water.
 
-Every wet riser jars my knees in the dark. Halfway up, my thighs burn and my ears ache from the wind. I stop where the cove trail joins the main cliff stairs on a narrow cedar landing under a twisted pitch pine, bracing a hand against the bark to catch my breath.
+Every wet riser is slick in the dark. I stop where the cove trail joins the main cliff stairs on a narrow cedar landing under a twisted pitch pine, bracing a hand against the bark to catch my breath.
 
-Below me, the seawall curves black against the outgoing tide. Through spruce boughs, the pitched roof of the boathouse squats over the water, its double doors still padlocked at the hasp.
+Below me, the seawall curves black against the outgoing tide. Through the pine boughs, the pitched roof of the boathouse squats over the water, its double doors still padlocked at the hasp.
 
 I'm turning back toward the upper stairs when white light cuts across the boathouse's frosted side window—the exact cliff-side window that was shuttered from inside yesterday morning. A flashlight beam sweeps slowly left to right behind the glass, catching the dark curve of a suspended kayak hull for half a second before dipping below the sill.
 
 *Stay tucked out of sight down the cove until dusk,* Cole told his burner caller. The padlock still hangs on the doors, yet someone is moving around inside.
 
-Before I can take a step back down toward the seawall, gravel crunches through the fog up on the ridge. Twin headlights cut through the spruces as the gate groans open, and Graham's Audi sweeps into the turnaround.
+Gravel crunches up on the ridge as the gate groans open. If Graham is pulling into the turnaround, who is down in that boathouse right now with a flashlight? I don't wait to find out—I turn and sprint up the rest of the cliff steps toward the mudroom.
 
 ---
 
@@ -900,7 +862,7 @@ Before I can take a step back down toward the seawall, gravel crunches through t
 
 "You look frozen," Graham says, nodding toward the low leather sofa on his way to the walnut credenza. "The radiator in the guest wing never keeps up in a southeast wind. Have a drink before you turn in."
 
-He's traded his charcoal suit for a dark merino crewneck, though his shoulders still hold four hours of interstate stiffness. A birch fire snaps behind the screen, pushing dry heat against the cold off the seaward glass. Outside, Salt Point Cove is solid black, not a single dock light burning along the point. Twenty minutes ago I barely beat his garage bay through the mudroom side door, palming the B-4 key inside my jacket pocket so it wouldn't clink against the hook, and sprinted upstairs to kneel outside the master closet with a strip of packing tape across my knuckles before he crossed the hall.
+He's traded his charcoal suit for a dark merino crewneck, though he still looks wrung out from the drive. A birch fire snaps behind the screen, pushing dry heat against the cold off the seaward glass. Outside, Salt Point Cove is solid black, not a single dock light burning along the point. Twenty minutes ago I barely beat his garage bay through the mudroom side door, palming the B-4 key inside my jacket pocket so it wouldn't clink against the hook, and sprinted upstairs to kneel outside the master closet with a strip of packing tape across my knuckles before he crossed the hall.
 
 "Water's fine, Graham."
 
@@ -924,15 +886,11 @@ He doesn't have to raise his voice to remind me who holds the checkbook, or what
 
 *County seal.* Monday night he hadn't said a word about a county seal, only that the Coast Guard cleared it and locked it against salt damp. Now he's repeating Halstead's line word for word.
 
-Before I can ask who was sweeping a flashlight across the boathouse window an hour ago, Graham's phone buzzes twice on the side table. He checks the screen and his mouth goes thin.
+I open my mouth to ask about the boathouse, but his phone buzzes twice on the side table. He checks the screen and his mouth goes thin.
 
 "Hold that thought," he mutters, and sets his untouched glass on the brass tray by his chair. "Patent counsel in Boston. Let me grab ice for yours, too. The decanter's been left too close to the radiator."
 
-He heads toward the kitchen with the phone already against his ear. I'm alone with the fire and two glasses.
-
-***
-
-I don't hesitate. The second his footsteps clear the archway, I lean across the low table, lift my heavier glass by the base, and set it square on the tray beside his chair. Up close, the etched rim is worn smooth on one side where a thumb always rests. Definitely his regular glass. I pick up his untouched pour and set it on my coaster, matching the angle. If he spots the chalky swirl at the bottom of his own tumbler when he sits back down, we're both done pretending.
+He heads toward the kitchen with the phone already against his ear. I'm alone with the fire and two glasses. I don't hesitate. The second his footsteps clear the archway, I lean across the low table, lift my heavier glass by the base, and set it square on the tray beside his chair. Up close, the etched rim is worn smooth on one side where a thumb always rests. Definitely his regular glass. I pick up his untouched pour and set it on my coaster, matching the angle. If he spots the chalky swirl at the bottom of his own tumbler when he sits back down, we're both done pretending.
 
 If there's crushed zolpidem in that bourbon, he can drink his own pour.
 
@@ -958,7 +916,7 @@ If the Arlington buyout closes before an audit locks his accounts, Graham plugs 
 
 I shoot four quick photos of the demand letter and rollover page to catch the trust account number, the $3,000,000 balance, and the October fifteenth service stamp, then slide the pages back into the flap along their exact crease.
 
-Shoes scrape across the kitchen slate. Ice clinks against metal, and the pantry switch clicks off. I slip back into the living room and drop onto the sofa seconds before Graham walks in with tongs and an ice bucket.
+Shoes scrape across the kitchen floor. Ice clinks against metal, and the pantry switch clicks off. I slip back into the living room and drop onto the sofa seconds before Graham walks in with tongs and an ice bucket.
 
 ***
 
@@ -986,11 +944,11 @@ I leave the clean bourbon two-thirds full on the coaster, say goodnight, and wal
 
 Behind the radiator, my brown store bag hasn't moved. I pull out my laptop and upload the four demand-letter photos to my off-site vault in Portland.
 
-Before the upload bar finishes, my phone buzzes against my leg. The Kiefer Soundworks guest link expired at five. This is an encrypted text from Samira Patel. St. Andrews Private Marina sends its small-craft manifests over once a day, and Samira just forwarded the automated hit off the evening run.
+Before the upload bar finishes, my phone buzzes against my leg. The Kiefer Soundworks guest link expired at five. This is an encrypted text from Samira Patel, followed two seconds later by a second message: *I'm in bed with a migraine, Tess. Don't call me after eight unless someone's actually on fire.*
 
 I tap the attachment. It's a port-clearance alert for Lydia Kiefer's passport, scanned Tuesday morning at St. Andrews Private Marina in New Brunswick.
 
-I stare at the screen in the dark room. Yesterday morning—while Graham stood in this kitchen telling me she drowned nearly three weeks ago—Lydia Kiefer walked off a dock across the Canadian border and scanned her own passport.
+I stare at the screen in the dark room until the display dims to black, then tap it awake again just to make sure the timestamp didn't move.
 
 ---
 
@@ -998,19 +956,19 @@ I stare at the screen in the dark room. Yesterday morning—while Graham stood i
 
 Nearly two in the morning, the cast-iron radiator under my window gives a single sharp tick and goes quiet.
 
-I lie on top of the stripped quilt in my jeans and flannel and stare at the ceiling. The pipes cool. My hip aches where a belt loop is pressed into the mattress, too stiff to sleep, too tired to roll over and fix it. Outside, the cove wind drags dead spruce needles across the dormer slate in irregular bursts. For a second I'm back in our old apartment in Burlington, awake on my side of the room while Nina's bed stayed made. That same hollow quiet right before a bad phone call, when you already know the morning is ruined before anyone speaks and you're just stalling the clock. Then the blue glow of my laptop on the nightstand drags me back to Salt Point.
+I lie on top of the stripped quilt in my jeans and flannel and stare at the ceiling. The pipes cool. Outside, the cove wind drags dead pine needles across the dormer roof in irregular bursts. For a second I'm back in our old apartment in Burlington, awake on my side of the room while Nina's bed stayed made. That same hollow quiet right before a bad phone call, when you already know the morning is ruined before anyone speaks and you're just stalling the clock. Then the blue glow of my laptop on the nightstand drags me back to Salt Point.
 
-I tell myself to close my eyes for twenty minutes. Just twenty. My temples ache, and the back of my neck feels like knotted rope. Half of me wants to grab my duffel, walk down the gravel drive in the dark, and let whoever owns this house sort out their own mess by sunrise. The other half knows what happens if I leave without proof. Walking out at dawn isn't an option.
+I tell myself to close my eyes for twenty minutes. Just twenty. Half of me wants to grab my duffel, walk down the gravel drive in the dark, and let whoever owns this house sort out their own mess by sunrise. The other half knows what happens if I leave without proof. Walking out at dawn isn't an option.
 
 Thirty minutes crawl past. I'm reaching for my wool socks at the foot of the bed when a sharp metallic snap carries through the framing from the kitchen wing. The laptop clock reads 2:27. Too hollow for the front deadbolt, too clean for the wind. It rings like a heavy latch dropping home inside a wall near the pantry, followed by a low hum vibrating through the baseboard pipes, as if something weighted just settled on a line.
 
-I sit up fast, my heart thumping against my ribs, and pull the socks on. My hands are clumsy with cold. I ease the desk chair out from under the doorknob, wait a second for the floorboards to settle, and crack the door an inch.
+I sit up fast, my heart thumping against my ribs, and pull the socks on. I ease the desk chair out from under the doorknob, wait a second for the floorboards to settle, and crack the door an inch.
 
 The north hall is dead quiet. I step onto the runner, keeping my weight on the edges near the baseboard where the joists don't groan, and stop at the foot of the main stairs. Pitch dark up top. I tilt my head back and listen for floorboards shifting upstairs or a bedroom door opening. Nothing moves up there. If Graham's asleep, he's out until morning—if he's even in his bed.
 
 For all I know, he's sitting in a chair in the sunroom right now, watching the water.
 
-I hug the drywall toward the kitchen wing, one hand trailing the plaster to keep my bearings. Halfway down the hall, a gust slams the sunroom glass and rattles the frames. I freeze mid-stride until the wind drops. The crawlspace dehumidifier thumps softly underfoot, and gusts press the deck door against its seals. Passing the living room arch, I make out gray ash in the hearth and a dull glint off the two tumblers still left on the low table. The long leather sofa disappears into shadow past the stonework, empty.
+I hug the drywall toward the kitchen wing, one hand trailing the plaster to keep my bearings. Halfway down the hall, a gust slams the sunroom glass and rattles the frames. I freeze mid-stride until the wind drops. The furnace blower thumps softly underfoot, and gusts press the deck door against its seals. Passing the living room arch, I make out gray ash in the hearth and a dull glint off the two tumblers still left on the low table. The long leather sofa disappears into shadow past the stonework, empty.
 
 I duck into the mudroom first, keeping low under the wall tablet's standby glow, and fish **B-4** out of my jacket pocket. I drop the tissue-wrapped key into my front jeans pocket where I can reach it fast. If the pantry route closes behind me downstairs, old brass might be my only way back to the foyer.
 
@@ -1038,7 +996,7 @@ Still, I'm not waiting upstairs for tomorrow's ambush.
 
 I pocket my phone, grip the iron rails, and swing a leg over the sill. The shaft is barely wide enough for my shoulders, and my jacket snags once on a rough wood splinter before tearing free. I pull the spice-rack panel nearly shut behind me, leaving a hair of clearance on the inside cleat so I can get my fingers back under it. Total dark drops over me.
 
-Cold iron bites straight through my socks. I climb down slow, testing every rung with my toes. Masonry grit flakes onto my knuckles. Halfway down, my fingers go stiff from the cold iron, and I have to pause for two seconds to work my grip loose. My breathing sounds too loud in the narrow box, bouncing straight back off the cinderblock. The taut hemp line brushes my sleeve—still swaying on its own. My elbow bumps it, and the counterweight scrapes against its channel with a dull metallic rasp that rattles straight up my forearm. If that locking pin overhead ever slipped, dead iron would drop straight onto the cellar slab.
+Cold iron bites straight through my socks as I climb down slow, testing every rung. Masonry grit flakes onto my knuckles. My breathing sounds too loud in the narrow box, bouncing straight back off the cinderblock. The taut hemp line brushes my sleeve—still swaying on its own. My elbow bumps it, and the counterweight scrapes against its channel with a dull metallic rasp that rattles straight up my forearm. If that locking pin overhead ever slipped, dead iron would drop straight onto the cellar slab.
 
 Below the foundation line, the air goes oddly dead and muffled, swallowing even the scrape of wool on iron. Three rungs from the bottom, the rail ends at a smooth concrete ledge. I feel for the edge with my heel and step down into the dark.
 
@@ -1050,7 +1008,7 @@ My left heel catches a loose microphone cable snaked across the mat. The cord sn
 
 A heavy relay clicks inside a tower against the far wall. Two wide displays flare awake in blinding blue-white light, and cooling fans spin up to fill the deadened cellar with a steady hum.
 
-I drop into a crouch with an arm over my eyes and wait for a siren upstairs or boots hitting the foyer slate. Seconds drag out. The room stays quiet; the foam-lined concrete eats the fan noise before it reaches the ceiling joists. Whoever climbed out of the dumbwaiter didn't shut the machine down—they just let the screens sleep.
+I drop into a crouch with an arm over my eyes and wait for a siren upstairs or boots hitting the foyer floor. Seconds drag out. The room stays quiet; the foam-lined concrete eats the fan noise before it reaches the ceiling joists. Whoever climbed out of the dumbwaiter didn't shut the machine down—they just let the screens sleep.
 
 I stand slowly and cross the mat to the worktable, blinking against the glare as I look at the left-hand display. The right screen holds an open file directory with a row of dated folders, none of them labeled with more than camera numbers.
 
@@ -1072,7 +1030,7 @@ He wired microphones across the whole property—sunroom, pantry, stairwell, boa
 
 A waist-high aluminum server rack hums beside the table and vents warm air through perforated steel. Three black server units sit stacked above a bolted battery bank to keep the drives alive if main power drops. A cellular bridge rests on top with its status light dead. External alerts won't leave this rack over cell, though local house sensors are another matter.
 
-I glance back toward the fire door under the foyer stairs, sealed shut on its heavy closer. My knuckles are raw from the iron ladder, and I can't stop thinking about how bad it'll look if the house system already tripped an alert upstairs.
+I glance back toward the fire door under the foyer stairs, sealed shut on its heavy closer. I can't stop thinking about how bad it'll look if the house system already tripped an alert upstairs.
 
 I nudge the mouse to wake the right screen, careful not to hit play. A processing log fills the display from October twenty-first through yesterday morning: two weeks of wind-noise filters hammered against one eight-minute stretch (`02:09` to `02:17`) to pry human voices out from under gale roar. The last completed render finished early yesterday morning, ten minutes before Graham left for Portland. A red terminal alert underneath is stamped **4:45 PM**: three failed passphrase lockouts on the encrypted export queue.
 
@@ -1094,13 +1052,13 @@ I stare at the chewed pencil and the clipped charts. He knows these tides, he ow
 
 I look back at the left monitor. In the grainy infrared frame, the slicker's hood hangs low over the figure's brow and the left hand stays buried in the canvas. The shoulders are wrong, though. The waterproof shell strains across a broader chest and thicker neck than Graham's, dragging the right sleeve short above a heavy wrist and metal watchband.
 
-Before I can cross back to zoom in on that watch, I spot a gray steel cabinet bolted into the masonry beside the drafting table. Four words are stenciled across the upper door in faded white paint:
+I start to cross back to zoom in on that watch, then spot a gray steel cabinet bolted into the masonry beside the drafting table. Four words are stenciled across the upper door in faded white paint:
 
 `ARCHIVE — DO NOT ERASE`
 
 A chrome key lock secures the center handle, its keyway scratched from use. Pale smears around the latch show where someone wiped the enamel with a dry sleeve after trying the handle. I tug it. Locked. B-4 in my front jeans pocket is an old door key for the fire door; it won't touch a cabinet lock.
 
-I flip out the pry blade on my multi-tool, wedge the tip into the seam above the latch, and lean my shoulder into the cabinet. The steel holds until my fingers cramp. Then the metal latch bends inward with a sharp *snap* that sounds way too loud in the deadened air.
+I flip out the pry blade on my multi-tool, wedge the tip into the seam above the latch, and lean my shoulder into the cabinet. The steel holds for three long seconds. Then the metal latch bends inward with a sharp *snap* that sounds way too loud in the deadened air.
 
 I freeze and listen for floorboards overhead. Nothing moves.
 
@@ -1112,9 +1070,7 @@ Across the room, the fire door beneath the foyer stairs cracks open an inch—a 
 
 I spin around, clamping the envelope to my chest.
 
-A deadbolt slides home from the *outside* with a loud grate of steel that carries straight through the concrete under my heels.
-
-Above the smooth brass plate, the pinpoint LED winks from dark to solid, glaring red.
+A deadbolt slides home from the *outside* with a loud grate of steel. Did whoever just locked me in even know I was down here, or did they only see the monitors wake up? Either way, I shove the envelope under my flannel, pull B-4 out of my pocket, and walk straight toward the fire door anyway.
 
 ---
 
@@ -1132,11 +1088,11 @@ I cross to the iron ladder, phone screen dimmed to a sliver of gray. The cold ru
 
 It gives a fraction, then stops dead against something heavy. Through the slats, a wooden kitchen chair scrapes against the outside knob, wedged tight, followed by the metallic *snick* of a deadbolt turning over by the mudroom. Stockinged feet pad back across the tile and fade toward the front hall.
 
-Whoever threw the basement bolt knows about the dumbwaiter. Trapped in a closet barely wider than my hips, I can't force an outward-opening door against a braced chair.
+Whoever threw the basement bolt knows about the dumbwaiter. Trapped in a closet barely wider than my jacket, I can't force an outward-opening door against a braced chair.
 
 I back into the shaft, pull the spice-rack panel shut, and climb down into the chill of the darkroom. My breath mists in the blue glare of the computer monitors, and a gray smear of masonry dust streaks the front of my flannel. The clock in the corner of the right-hand screen reads past two-thirty. My phone has no service—too much poured concrete and acoustic foam overhead for a signal to punch through. Nothing in this room leaves until I do.
 
-A chill settles deep in my shoulders before I can stop it. I pull my sleeves down over my wrists and stare at the envelope stamped `OCT 14 — MASTER BACKUP / DO NOT OPEN BEFORE PROBATE`.
+I pull my sleeves down over my wrists and stare at the envelope stamped `OCT 14 — MASTER BACKUP / DO NOT OPEN BEFORE PROBATE`.
 
 Whoever locked me in didn't touch the servers or come back for the cabinet. They sealed me down here to buy themselves three hours upstairs before daylight. If Graham really is out cold in his chair, somebody else is walking around his kitchen in socks at two-thirty in the morning.
 
@@ -1168,17 +1124,13 @@ Right after the latch slams at two-fourteen, every house channel drops into six 
 
 Only the submerged hydrophone out in the cove channel stayed live, fed by its own battery-backed circuit on the cellar backup. I sink onto the rolling stool and stare at the page until the print blurs. A single logged hit breaks the middle of the blackout, four minutes after the boathouse latch slammed: the faint, rhythmic splash of oars before the gale surge drowned it out. Keeping a skiff off the pilings by oars alone in a gale takes nerve and real familiarity with the channel. Whoever took the boat didn't fire the outboard at the dock. They rowed quietly under cover of the blackout and waited until they cleared the point before starting the motor or cutting the transponder.
 
-I rub my eyes with the heels of my hands. None of it makes Graham innocent, not with those forged initials sitting six inches from my elbow, yet it finally explains why he sealed his own financial exposure inside the same steel cabinet as an unedited transcript of October fifteenth. If somebody was coming at him with doctored audio, this offline master was the only thing standing between him and a life sentence.
-
-***
-
-Past four in the morning, the cold coming up through the concrete has worked straight past my ankles into my knees. My toes are numb, and half my brain is stuck on the thermos of lukewarm coffee still sitting in the Civic's cupholder. Three hours in a soundproofed bunker, and I'm sitting here mad about bad gas-station dark roast.
+I rub my eyes with the heels of my hands. None of it makes Graham innocent, not with those forged initials sitting six inches from my elbow, yet it finally explains why he sealed his own financial exposure inside the same steel cabinet as an unedited transcript of October fifteenth. If somebody was coming at him with doctored audio, this offline master was the only thing standing between him and a life sentence. Past four in the morning, half my brain is stuck on the half-eaten granola bar still sitting in the Civic's glovebox. Three hours in a soundproofed bunker, and I'm sitting here mad about a squashed oat bar.
 
 I pace the rubber mats to keep feeling in my heels, steering clear of the foam-lined northeast corner where the room bounce goes completely dead. It's an unsettling sensation, walking into a corner that swallows even the brush of wool on rubber matting. Every half hour I check my phone anyway, even though I know better. Still zero bars. At least the *Bramwell & Shaw* photos pushed to my encrypted Portland vault before I came down the shaft, so even if whoever locked that door smashes my phone on the concrete, they can't touch what's already off-site.
 
 Around five, the battery unit under the rack clicks once as its cooling fan cycles down, and for a few seconds the darkroom drops into a silence so thick I can hear the blood ticking behind my left ear. Then the fan hums back up, even and low. My eyes burn from the blue monitor glare, and I have to force myself to keep pacing so I don't drift off standing against the edge of the table.
 
-I peel the thumb drive off the yellow index card and tuck it deep into my jeans watch pocket beside Maren's torn tide strip. Then I slide the trust packet, the sketchbook pages, and the raw transcript back into the envelope and lean against the worktable to wait out the dark. By five-thirty my knuckles are stiff enough that I have to shove my hands under my arms just to bend my fingers.
+I peel the thumb drive off the yellow index card and tuck it deep into my jeans watch pocket beside Maren's torn tide strip. Then I slide the trust packet, the sketchbook pages, and the raw transcript back into the envelope and lean against the worktable to wait out the dark.
 
 Just before six, water pipes shudder inside the ceiling joists overhead. Someone upstairs just ran the kitchen tap, sending a dull thrum down the copper lines into the concrete. I stand very still, listening to the water shut off. A few seconds later, a heavy chair scrapes back across tile—the chair braced against the pantry door.
 
@@ -1192,7 +1144,7 @@ Graham Kiefer stands in the doorway.
 
 He's still in yesterday's dark merino crewneck, wrinkled now and dusted across one shoulder with pale plaster grit, eyes bloodshot above gray stubble. In his right hand, held low against his thigh, he grips a brass pipe wrench.
 
-Behind him at the top of the concrete steps, a pair of muddy women's winter duck boots stands on the foyer slate in the cold gray light from the front window. Fresh wet kelp clings to the rubber soles, and dark rainwater drips beside an open navy tote.
+Behind him at the top of the concrete steps, a pair of muddy women's winter duck boots stands in the foyer in the cold gray light from the front window. Fresh wet kelp clings to the rubber soles, and dark rainwater drips beside an open navy tote.
 
 ---
 
@@ -1228,7 +1180,7 @@ He stops dead beside the steel jamb. He looks down at the pipe wrench as if he's
 
 "And you didn't think to check the cellar?"
 
-"I heard the darkroom fans pulling power," he says, pausing on the landing to catch his breath. "Whoever dropped down that dumbwaiter shaft couldn't crack my passphrase or the archive cabinet, so they climbed back up, lifted my keys while I was out, and saw you moving in the darkroom. The bass traps must've blocked their view of the pried cabinet. They slammed the deadbolt, jammed the pantry, and tossed my keys back by the sofa assuming I'd stay out cold till noon. Come up. If I wanted you buried down there, I wouldn't have turned the key."
+"I heard the darkroom fans pulling power," he says, pausing on the landing to catch his breath. "The fire door's exterior contact sensor chimes on the upstairs panel even when the keypad is bypassed, so whoever dropped down that dumbwaiter shaft used the chute to pull clean voice samples of you off the Zone Four mic array without tripping the house log. They couldn't crack my passphrase, though, and when they climbed back up and lifted my keys to check the basement, they spotted you moving inside the darkroom. The bass traps must've blocked their view of the pried cabinet. Throwing that deadbolt and jamming the pantry was an emergency move to keep you locked down here while they ran, tossing my keys back by the sofa assuming I'd stay out cold till noon. Come up. If I wanted you buried down there, I wouldn't have turned the key."
 
 ***
 
@@ -1296,13 +1248,13 @@ I follow him to the front entry archway. Rain beads across the low overhead skyl
 
 Graham turns sharply, yanks the closet door open, and shoves two overcoats aside. He stares down at the canvas bag on the floor, his hand dropping off the wool sleeve. "That wasn't there Sunday night. Halstead came by Monday morning to drop off a supplemental marine report while I was down in the cellar. He stood right here in this entryway for five minutes."
 
-Past him, through the tall glass sidelights, mist curls over the wet gravel turnaround. My Civic is parked beside the spruces, except the trunk lid stands popped ajar above the bumper latch. Even from the hall, the lock seam sits flush, the paint unmarked.
+Past him, through the tall glass sidelights, mist curls over the wet gravel turnaround. My Civic is parked beside the trees, the trunk lid sitting flush enough at a glance until you notice the dark gap along the weatherstripping where the latch never caught.
 
-Graham points down at the duck boots and the navy tote dripping brackish rainwater onto the slate.
+Graham points down at the duck boots and the navy tote dripping brackish rainwater onto the entry floor.
 
-"When I woke up at five-forty-five and found the front door unlatched, I stepped out on the porch," he says, his voice low. "Your trunk was standing popped open. I pulled Lydia's boots and that tote out before I saw what was tucked underneath in your spare-tire well: a boat rag damp with the same bleach from the sunroom floor, wrapped around a bronze cleat pried off our boathouse dock. I stopped right there, left both the rag and the cleat untouched so I wouldn't smear the planter's prints, and eased the lid down on the catch so it wouldn't slam in the quiet. Think about what happens when Halstead serves a warrant on your Civic: bleach from the sunroom cleanup, a cleat from the boathouse, and Lydia's boots riding in the back of the hired cleaner's car. They want a jury looking at both of us in that sunroom, Tessa."
+"When I woke up at five-forty-five and found the front door unlatched, I stepped out on the porch," he says, his voice low. "Fresh muddy boot prints led straight across the wet gravel to your rear bumper, and a corner of blue tarp was pinched in the rubber weatherstripping, keeping the latch from catching. I lifted the lid, pulled Lydia's boots and that tote out, and then saw what was tucked underneath in your spare-tire well: a boat rag damp with the same bleach from the sunroom floor, wrapped around a bronze cleat pried off our boathouse dock. I stopped right there, left both the rag and the cleat untouched so I wouldn't smear the planter's prints, and eased the lid back down on the weatherstripping so it wouldn't slam in the quiet. Think about what happens when Halstead serves a warrant on your Civic: bleach from the sunroom cleanup, a cleat from the boathouse, and Lydia's boots riding in the back of the hired cleaner's car. They want a jury looking at both of us in that sunroom, Tessa."
 
-I stare at the popped trunk. Going out there for the cleat puts my own prints on the cleanup hardware, and whoever's watching from the cove will take notes—or maybe they're already halfway down the drive, which doesn't leave me much time to be clever. Calling the state police over the house Wi-Fi right now just brings troopers into a house full of Graham's forged transfers while Lydia's boots sit in my spare-tire well, and I am not leaving Salt Point in handcuffs because I couldn't wait for a thumb drive to decrypt.
+I stare out at the Civic's rear bumper. Going out there for the cleat puts my own prints on the cleanup hardware, and whoever's watching from the cove will take notes—or maybe they're already halfway down the drive, which doesn't leave me much time to be clever. Calling the state police over the house Wi-Fi right now just brings troopers into a house full of Graham's forged transfers while Lydia's boots sit in my spare-tire well, and I am not leaving Salt Point in handcuffs because I couldn't wait for a thumb drive to decrypt.
 
 "Give me the passphrase for the raw basement partition," I say. "Right now."
 
@@ -1312,23 +1264,23 @@ Graham shakes his head and nudges the muddy duck boots and tote out of sight beh
 
 # Chapter 15
 
-"We can't leave those boots behind the bench," Graham says behind me, his voice hoarse. He stares past my shoulder at the front door. "Cole Halstead rolls up that drive with a warrant, he won't care who popped your trunk."
+"We can't leave those boots behind the bench," Graham says behind me, his voice hoarse. He stares past my shoulder at the front door. "Cole Halstead rolls up that drive with a warrant, he won't care who rigged your trunk."
 
-I stand at the foot of the stairs with the pipe wrench in my hand and look out through the front entry glass. Rain hammers the sidelights. Three-thirty already, and Graham's phone still hasn't pinged with an ETA from the Boston courier. Out by the spruces, my Civic's trunk lid sits cracked just above the latch in the mist.
+I stand at the foot of the stairs with the pipe wrench in my hand and look out through the front entry glass. Rain hammers the sidelights. Three-thirty already, and Graham's phone still hasn't pinged with an ETA from the Boston courier. Out by the driveway, my Civic's trunk lid sits caught just shy of the latch in the mist.
 
 "Cole doesn't have a warrant yet," I say. "If he did, he wouldn't wait till three-thirty to kick the door in. He's still stacking paper."
 
 Two sleepless nights are catching up with me fast, a dull ache behind my eyes that won't quit. Even so, I'm not walking out with ten grand unpaid and a trunk full of someone else's staging.
 
-"Grab a towel and wipe the slate behind the bench," I tell him. "Your upstairs inventory's uploaded, and your lockout just cleared. Now take me into your study: the server rack, the admin key, whatever you've got behind that partition."
+"Grab a towel and wipe the floor behind the bench," I tell him. "Your upstairs inventory's uploaded, and your lockout just cleared. Now take me into your study: the server rack, the admin key, whatever you've got behind that partition."
 
 He hesitates, glancing toward the north hall. "The study rack only mirrors the house array. The raw acoustic buffers are encrypted on the drive in your pocket."
 
 "You wrote the encryption," I say, rapping the wrench against my thigh. "Which means the passphrase is in your head. Move."
 
-He doesn't argue. He grabs a dish towel off the kitchen counter to swab the slate and shove the boots into the coat closet. I duck into the guest room for my dry sneakers and lace up fast. I check my duffel.
+He doesn't argue. He grabs a dish towel off the kitchen counter to swab the floor and shove the boots into the coat closet. I duck into the guest room for my dry sneakers and lace up fast. I check my duffel.
 
-The cash is still under my shirts, but the side-pouch zipper is flipped outward. I yank it open. My spare Civic key fob is gone. Somebody lifted it while my back was turned, which explains how my trunk popped without a mark on the paint. I cross the north hall.
+The cash is still under my shirts, but the side-pouch zipper is flipped outward. I yank it open. My spare Civic key fob is gone. Somebody lifted it while my back was turned, which explains how somebody got into my trunk without leaving a pry mark on the paint. I cross the north hall.
 
 Graham's study is right opposite my room. Unlike the glass rooms out front, it's narrow and closed in, lined with dark acoustic baffling and walnut bookshelves. A steel server rack hums in the corner behind a smoked-glass door, blue and amber LEDs glowing inside.
 
@@ -1372,7 +1324,7 @@ Graham double-clicks it. A dense, jagged waveform fills the screen as he twists 
 
 "That's the pantry corridor," I murmur. "The dumbwaiter hatch."
 
-Rubber soles squeak across wet slate, followed by a muffled grunt as someone drags heavy canvas past the sunroom arch and bumps the paneling.
+Rubber soles squeak across wet stone, followed by a muffled grunt as someone drags heavy canvas past the sunroom arch and bumps the paneling.
 
 *"Careful with the varnish,"* a woman's voice cuts through the rain hiss.
 
@@ -1414,19 +1366,19 @@ It's my voice.
 
 *"...didn't mean for the skiff to drift that far out,"* I'm sobbing through the speakers, breathless and panicked over the exact rain-on-glass hiss of this house. *"Graham said if I helped him move her out of the sunroom before high tide, he'd double the wire to twenty grand. I just—I needed the judgment cleared. I didn't know she wasn't breathing when we wrapped the rug..."*
 
-I stare at the pulsing waveform. It's uncanny, hearing myself beg like that: clean phrases from my conversations in this house, stitched over a room-tone bed without a single audible seam. My stomach drops. With whatever they planted in my Civic's trunk, a county prosecutor could hand down an indictment before dinner, and nobody on a jury would ever believe that voice wasn't mine. Not for a second.
+I stare at the pulsing waveform. It's uncanny, hearing myself beg like that: clean phrases from my conversations in this house, stitched over a room-tone bed without a single audible seam. With whatever they planted in my Civic's trunk, a county prosecutor could hand down an indictment before dinner, and nobody on a jury would ever believe that voice wasn't mine. Not for a second.
 
 "They didn't just plant the boots," I say, my mouth dry. "Whoever locked me in the cellar at two-thirty bought themselves three hours to render that file."
 
 On the left screen, the transmission log flashes green: the upload to the Knox County evidence drop just finished. Half a second later, a red banner drops across the network window locking down outbound internet access. Whoever holds admin access on Lydia's iPad just killed the router's upload path before our raw audio could leave the study.
 
-Out on the ridge road, muffled through the rain-lashed glass, a siren wails in the dark, two miles out and closing fast.
+Out on the ridge, the driveway gate motor grinds open. I yank the USB cord out of the tower and shove my phone into my pocket. "Tell me you have a back door that doesn't face the gravel."
 
 ---
 
 # Chapter 16
 
-The siren cuts out near the ridge bend, then comes back louder off the granite above the house. Five minutes out, tops.
+The gate motor clicks off behind him, and a pair of amber parking lights glides around the ridge bend through the trees. Two minutes out, tops.
 
 "Take your car." Graham shoves back from the desk. His chair bangs into the walnut shelves as he points toward the front hall. "Use the gravel spur before he makes the drive. If Halstead walks in with that audio queued—"
 
@@ -1434,7 +1386,7 @@ The siren cuts out near the ridge bend, then comes back louder off the granite a
 
 The phone chimes—transfer complete. I yank the thumb drive from the tower and open my encrypted cloud queue. The router override has killed the house Wi-Fi. Only one weak bar of signal flickers in the corner. I bundle the audio file with the life-vest tag photos and the Bramwell & Shaw default letter, address the packet to Samira Patel in Portland, type four words—*Salt Point setup. Call MSP.*—and hit *Send*.
 
-The wheel spins. Six percent. Twelve. Wind slams the north siding, the signal bar drops to zero, and a red timeout banner snaps across the glass. I step toward the side window, holding the phone high against the cold pane like an idiot trying to catch radio waves in a tin can, and try plain SMS twice. Nothing leaves the screen. Outside, the siren pitches sharper as the cruiser clears the ridge bend, closer now, bouncing off the granite wall behind the garage. Waiting here another thirty seconds for a stray bar of service means handing Cole the phone myself.
+The wheel spins. Six percent. Twelve. Wind slams the north siding, the signal bar drops to zero, and a red timeout banner snaps across the glass. I step toward the side window, holding the phone high against the cold pane like an idiot trying to catch radio waves in a tin can, and try plain SMS twice. Nothing leaves the screen. Outside, gravel crunches under heavy tires as the cruiser clears the final bend, its engine idling low off the granite wall behind the garage. Waiting here another thirty seconds for a stray bar of service means handing Cole the phone myself.
 
 Graham is standing behind me, rubbing his palms together hard enough to chafe. His hair sticks up on one side where he dragged his hand through it, and for one ridiculous second I want to tell him to fix it before he answers the door. He opens his mouth, closes it, then reaches toward the coat rack by the hall like he's thinking of coming with me, or running out the back, or doing anything except what needs doing.
 
@@ -1466,7 +1418,7 @@ I haul the sunroom slider back on its track. Freezing salt wind gusts across the
 
 Cold mist closes around me the second I clear the cedar deck. I don't look back to see if Graham shuts the door.
 
-My spare sneakers slap down the steep slate steps cut into the cliff face. Wet needles and lichen make every riser slick. Halfway down, a gust off the bay nearly folds me sideways against the rock. My right palm scrapes raw granite catching myself, and cold air burns my lungs as I drag in a breath. Two steps lower, my left heel shoots out on a mat of wet needles, slamming my hip into the stone wall hard enough to knock the wind out of me. I hang there for a second, blinking sleet out of my lashes, before forcing my legs to move again.
+My spare sneakers slap down the steep stone steps cut into the cliff face. Wet needles and lichen make every riser slick. Halfway down, a gust off the bay nearly folds me sideways against the rock. My right palm scrapes raw granite catching myself, and cold air burns my lungs as I drag in a breath. Two steps lower, my left heel shoots out on a mat of wet needles, slamming my hip into the stone wall hard enough to knock the wind out of me. I hang there for a second, blinking sleet out of my lashes, before forcing my legs to move again.
 
 Out across the inlet to the south, the low tidal causeway shines wet under rising gray chop, white foam lapping over the asphalt shoulders. Once this gale peaks with high tide, nobody drives off Salt Point tonight without a heavy four-wheel-drive rig. Which means even if I get the photos, even if Samira gets the file, I'm stuck on this peninsula until the water drops or the state police roll in.
 
@@ -1476,7 +1428,7 @@ Under the cliff overhang the wind eases slightly, though surf still booms beneat
 
 Ahead of me, the Kiefer boathouse squats on its pilings, its cedar shingles weathered nearly black. A brass padlock secures the double plank doors, and the faded county paper seal has been sliced clean along the edge.
 
-I step off the bottom stair onto oyster shells and duck under the north eaves. High up on the ridge, the siren yelps and dies. A few seconds later, gravel crunches overhead as tires roll into the turnaround.
+I step off the bottom stair onto oyster shells and duck under the north eaves. High up on the ridge, a heavy car door thuds shut in the rain, followed by the crunch of boots on wet gravel in the turnaround.
 
 Cole is at the house. I picture Graham fumbling with the brass chain, his voice pitching too high, giving everything away in the first ten seconds. Stop thinking about him. Just move.
 
@@ -1492,11 +1444,11 @@ My sneakers hit damp cedar decking with a dull thud. The dark room smells of sta
 
 Suspended low from the rafters on rope slings at shoulder height, a yellow fiberglass sea kayak sways almost imperceptibly in the draft from the open window behind me, its hull blocking off the back corner of the room.
 
-I crouch beside the bench and let my eyes adjust, waiting for the shapes in the gloom to separate from the shadows. My wet jeans cling to my calves, and my shoulders ache if I let them drop. Up above the cliff edge, a car door thuds shut in the driveway. Cole's cruiser. Three minutes, maybe less, before he stops playing along with Graham and walks around to the back deck.
+I crouch beside the bench and let my eyes adjust, waiting for the shapes in the gloom to separate from the shadows. Up above the cliff edge, a car door thuds shut in the driveway. Cole's cruiser. Three minutes, maybe less, before he stops playing along with Graham and walks around to the back deck.
 
-I ease upright and move along the workbench, my fingers brushing past a coffee can of rusted nails and a tangle of braided nylon line. Two plastic gallon jugs are tucked beneath a folded blue tarp on the lower shelf, one unlabeled and the other carrying a faded industrial bleach warning. A pair of cedar oars rests beside them, fresh pale scratches cutting through the varnish on the blades—a match for the wet rag squeaking along varnished wood on the 2:14 AM recording.
+I ease upright and move along the workbench, my fingers brushing past a tin can of rusted nails and a tangle of braided nylon line. Two plastic gallon jugs are tucked beneath a folded blue tarp on the lower shelf, one unlabeled and the other carrying a faded industrial bleach warning. A pair of cedar oars rests beside them, fresh pale scratches cutting through the varnish on the blades—a match for the wet rag squeaking along varnished wood on the 2:14 AM recording.
 
-I pull my phone, check that the flash is off, and crouch low to frame the bleach jugs and scratched oar blades together in one shot. My hands are shaking from the cold, blurring the first preview on the glass, so I brace my elbows against my knees and tap the shutter again. The screen throws a pale rectangle across the damp planks at my feet.
+I pull my phone, check that the flash is off, and crouch low to frame the bleach jugs and scratched oar blades together in one shot. The first preview blurs on the glass, so I brace my elbows and tap the shutter again. The screen throws a pale rectangle across the damp planks at my feet.
 
 A boot heel scuffs against grit behind the hanging kayak.
 
@@ -1522,7 +1474,7 @@ I lower my phone, crouch by the workbench, and lay it face-down on the wet plank
 
 I take two steps back with my palms open at shoulder height. Lydia moves in and kicks my phone across the boards until it skids out of sight under a stack of lobster traps. There goes the screen protector, probably, not that it matters right now. She grabs a thick black marine cable tie out of a plastic bin on the bench.
 
-"On your knees. Back to the teak piling, hands behind it."
+"On your knees. Back to the piling, hands behind it."
 
 There's no cover on the open decking. If I lunge, she puts a bullet in me—and the only reason she hasn't pulled the trigger already is that a nine-millimeter slug ruins a staged drowning. I drop onto the wet boards beside the piling bolted to the corner of the bait table. Brine soaks straight through the knees of my jeans. Cold, immediate, miserable.
 
@@ -1536,7 +1488,7 @@ Lydia's iPad Mini wakes under her thumb. She opens a blank note and starts tappi
 
 "Graham's apology," she says, her eyes fixed on the screen. "He's devastated about the two-point-four million. Even sorrier that the woman he hired to clean out the house panicked when a sheriff's deputy knocked on the door."
 
-My wrists ache under the nylon, my fingers already going dull. My sneakers slip on wet moss. I shift my hips to take some of the weight off my shoulders, and my right knuckles graze the underside of the bait-table rail bolted flush behind the piling. Something sharp pricks the heel of my hand.
+My sneakers slip on wet moss. I shift my weight, and my right knuckles graze the underside of the bait-table rail bolted flush behind the piling. Something sharp pricks the heel of my hand.
 
 I keep my eyes on Lydia so my shoulders don't give anything away. Just above my bound wrists, an oyster knife is wedged blade-out into a split seam along the underside of the rail, its swollen oak handle stuck fast in dried salt crust. Somebody probably jammed it there years ago to shuck bait and forgot it.
 
@@ -1546,37 +1498,29 @@ Live. Hardwired back to the Zone Four array. From where she stands by the workbe
 
 None of it helps me if Cole walks through those doors first. I need her talking into that mic, and I need my hands free before the padlock turns.
 
-"We already decrypted the pantry mic, Lydia," I say. "Heard you laughing with Cole at two in the morning while wiping down an oar, and telling him to leave the Montblanc next to that smudged checklist. You got sloppy in St. Andrews when you scanned your real passport like an amateur. And now you're letting a county deputy run the whole frame while Boston ties up your Cayman money in probate for five years."
+"You're letting a county deputy run the whole show, Lydia," I say. "Cole's the one who scrubbed the sunroom and stashed your weekender where I'd trip over it. Half the sheriff's department already thinks you're dead. Once Graham goes in the water tonight, what makes you think Cole doesn't bury you right next to him and keep the payout for himself?"
 
 Her thumbs stop on the glass. For a second the only sound in the boathouse is the harbor water slapping the underside of the planks.
 
-"Cole couldn't stage a parking ticket without me," she snaps. "My father's Cayman trustee wouldn't transfer control without an in-person passport check outside the U.S. I gambled a quiet New Brunswick marina wouldn't trip a marine-insurance port watch before Graham was dead."
+"Cole couldn't stage a parking ticket without me," she snaps. "I walked off that dock in St. Andrews on my own two feet, and he doesn't touch a dime of my father's money."
 
-"And you think Boston's going to hand over three million without a fight?"
+"Right. Tell that to Boston probate when they freeze the estate for five years."
 
-"There won't be a fight," she shoots back, sharp and impatient. "The second Graham's dead with a signed confession next to him, the trust cuts his estate off cold. Not one dime goes to his company's creditors—it all rolls straight to me."
+"There won't be probate," she shoots back, sharp and impatient. "The second Graham's dead with a signed confession next to him, the Cayman trust cuts his estate off cold. Every cent rolls straight to me."
 
-"Right. That's why Cole had to hide your weekender behind Graham's coats."
+"The Coast Guard's going to pull him out of the cove by noon."
 
-"Cole was supposed to strip the ferry tag off that bag before he hid it," she says, impatient. "Just like he was supposed to clean the sunroom floor without losing a key behind the molding. Two weeks of cleaning up after a small-town cop, and now I'm cleaning up after you. Everything in that house ran on my clock, Tessa. Including your five o'clock courier. I canceled him an hour ago."
+She takes two steps closer and leans one hip against the bait table, right above the shadowed blue LED. "High water tops the causeway at five-fifteen. Nobody's pulling Graham out of Penobscot Bay tonight, and by morning there won't be enough left for a medical examiner to argue with. I'm finishing his note, dropping him off the rocks, and walking away clean."
 
-"The Coast Guard—"
-
-"Won't put a boat in the water until morning." She takes two steps closer and leans one hip against the bait table, right above the shadowed blue LED. "High water tops the causeway at five-fifteen. Nobody in Augusta chases ferry stubs or Canadian marina logs for an embezzler and a washed-up adjuster who walked into Penobscot Bay together."
-
-Behind my left shoulder, harbor water sucks hard against the slipway planks. My toes are freezing inside my sneakers, and my shoulders ache from the zip tie.
-
-"You didn't even get the life vest wet with salt water," I push. Behind the piling, I angle my bound wrists upward until the taut nylon ridge presses against the blade of the oyster knife. "I shot the clean lot stamp on that vest, and I bagged a swab of the paste you flushed down the master bath P-trap before dusting Graham's rocks glass. Wait till a state lab runs a tox screen on that."
-
-"Cole signed the report." She glances down at the screen, barely looking up. "Nobody's ordering a second medical examiner when there won't be a body left once the crabs are done. By five-fifteen high tide, there's nobody left on Salt Point to argue trust law with a Boston judge."
+Behind me, harbor water sucks hard against the slipway planks. I angle my bound wrists upward until the taut nylon ridge presses against the blade of the oyster knife. Keep her talking. Keep her leaning over that blue light.
 
 ***
 
-I press down and drag the nylon across the edge of the blade. The plastic is tough and slick with sweat, and every downward stroke sends a dull vibration through the piling into my spine. I keep my breathing even so my shoulders don't telegraph the motion. Keep her talking. Keep her leaning over that blue light.
+I press down and drag the nylon across the edge of the blade. The plastic is tough and slick with sweat, and every downward stroke sends a dull vibration through the piling into my spine. I keep my breathing even so my shoulders don't telegraph the motion.
 
-"Why pull me into it?" I ask as her nails tap the screen. "You already had Graham framed."
+"Why pull me into it?" I ask as her nails tap the screen.
 
-"Because Graham was arrogant enough to hire a fired fraud investigator carrying eighteen grand in court debt," she says. She glances down at my damp flannel like I tracked mud onto her hall rug. "Anybody desperate for five grand cash under a fifty-thousand-dollar gag clause makes herself the ideal accomplice the second she crosses the porch."
+She doesn't even look up. "Because Graham was arrogant enough to hire somebody desperate enough to sign a fifty-grand gag clause."
 
 A strand of nylon parts behind my wrists. The loop gives a fraction and eases off my left thumb, though salt grit burns in the raw skin along my forearm. Cold spray mists up through the slipway seams around my sneakers as the rising tide surges against the pilings below. The angle is awkward—if I twist my elbows too far out to get leverage, Lydia will spot the shift in my shoulders. I have to work purely from the wrists, short half-inch strokes, blind and slow. My fingers are going numb.
 
@@ -1584,7 +1528,7 @@ Lydia looks down at the tablet and reads aloud in a dry, mocking tone: *"I could
 
 Graham never called me Miss Calder in his life. He barely even called me Tessa when he was irritated, just launched straight into whatever he wanted done. Leave it to Lydia to write a suicide note that sounds like a Victorian butler, though I doubt Cole's sheriff's department is going to critique the prose.
 
-She breaks off as a gust slams the cedar-shingled roof overhead and sends a rattle of pine needles down the eaves. She glances up at the rafters. I saw harder against the steel. Two more strands give way. Blood slicks my left wrist where the jagged nylon and pitted blade tear the skin above my palm, and the slack lets me twist my fingers toward the oak handle wedged in the seam.
+She breaks off as a gust slams the roof overhead and sends a rattle of pine needles down the eaves. She glances up at the rafters. I saw harder against the steel. Two more strands give way. Blood slicks my left wrist where the jagged nylon and pitted blade tear the skin above my palm, and the slack lets me twist my fingers toward the oak handle wedged in the seam.
 
 My thumb brushes the rough wood. Almost. Just another quarter inch of give.
 
@@ -1610,7 +1554,7 @@ Cole Halstead steps inside carrying a Maglite and a bundle of black zip ties. Ly
 
 "Watch her!" Lydia snaps. She tucks the iPad under one arm and swings the Glock back toward me.
 
-There is nowhere to hide in a twenty-foot box of wet cedar, and no time to think about how bad the math is. I drive up off my knees, duck under the bait table, and launch myself across the decking before she can clear Cole's shoulder. My sneakers slide on wet moss before the rubber bites. Cole turns a step too late. His left arm comes up to block me, and I drag the oyster knife hard across the meat of his wrist.
+There is nowhere to hide in a twenty-foot shed, and no time to think about how bad the math is. I drive up off my knees, duck under the bait table, and launch myself across the decking before she can clear Cole's shoulder. My sneakers slide on wet moss before the rubber bites. Cole turns a step too late. His left arm comes up to block me, and I drag the oyster knife hard across the meat of his wrist.
 
 Steel rips through his windbreaker cuff into flesh. Cole curses and staggers backward into the stacked lobster traps. Wood slats crack under his shoulders. A loose buoy rolls against my shin. Dark blood wells over his knuckles. The Maglite bounces across the planks into the shadows. Zip ties scatter around his boots. Under the bottom trap, his heel comes down square on my phone. The screen cracks loud. Then the casing skids off the edge into the black slipway water. He clamps his right hand over the gash and blocks the narrow aisle between the bench and the open water.
 
@@ -1622,7 +1566,7 @@ The water hits so cold it steals my breath before I can clamp my mouth shut. Sal
 
 The outgoing tide pulls hard at my legs. Brine stings deep inside the raw zip-tie cut on my left wrist. I keep my head down and swim with whatever is left in my shoulders. Fifteen yards. Maybe twenty seconds in the water before my muscles lock up. My left fingers go numb fast, though my right hand stays clamped around the handle of the knife. One-armed sidestroke in soggy denim is miserable work. These were my only good sneakers.
 
-I come up gasping against a jagged shelf of granite downshore toward Maren's sorting shed. Salt spray blinds me, my teeth knocking together as I hook my elbows over the wet ledge to keep my feet out of the chop. A barnacle scrapes through my jeans at the knee, sharp and hot even through the numbness. Wet hair plasters across my mouth, tasting of kelp and diesel-slicked harbor water, and I spit it clear. The surge slams my shins against the rock.
+I come up gasping against a jagged shelf of rock downshore toward Maren's sorting shed. Salt spray blinds me, my teeth knocking together as I hook my elbows over the wet ledge to keep my feet out of the chop. A barnacle scrapes through my jeans at the knee, sharp and hot even through the numbness. Wet hair plasters across my mouth, tasting of kelp and diesel-slicked harbor water, and I spit it clear. The surge slams my shins against the rock.
 
 Back at the boathouse, the double doors stand wide open. Cole fills half the frame with his right hand pressed over his bleeding wrist. Lydia pushes past him to scan the water. She leans out over the slipway edge for another shot. Cole grabs her shoulder to haul her back from the drop, his boot slides on wet kelp, and his forearm jars her wrist. The Glock flies clean out of her hand into the churning gap below.
 
@@ -1630,31 +1574,31 @@ Back at the boathouse, the double doors stand wide open. Cole fills half the fra
 
 "Leave it! She went under the pilings!" Cole shouts over the surf and clamps his hand back over the cut. "Get up to the house and finish Graham's note on that tablet! Surge is taking the causeway. I'll block the road before she crawls out and blows this open!"
 
-I stay plastered against the wet rock until Lydia reaches the top of the cliff stairs. She pauses once by the dark spruces, glancing back toward the cove, then disappears into the mist. Cole wraps a rag from his belt around his cuff, mutters under his breath, and limps up toward the gravel drive. His boots crunch once, twice, then fade under the surf.
+I stay plastered against the wet rock until Lydia reaches the top of the cliff stairs. She pauses once by the dark trees, glancing back toward the cove, then disappears into the mist. Cole wraps a rag from his belt around his cuff, mutters under his breath, and limps up toward the gravel drive. His boots crunch once, twice, then fade under the surf.
 
-It takes two tries to haul myself onto the granite. My scraped right palm smears pale pink across the stone while my left wrist throbs under blue-white skin. My jeans feel like wet wool blankets, water squelches in my sneakers, and the cold is already creeping past my elbows. North along the cove, sheer bluffs cut off the headland, and once high tide tops the causeway nobody walks off Salt Point.
+It takes two tries to haul myself onto the rock. My scraped right palm smears pale pink across the stone while my left wrist throbs. North along the cove, sheer bluffs cut off the headland, and once high tide tops the causeway nobody walks off Salt Point.
 
 I stumble across crushed oyster shells to Maren's dark sorting shed. The padlock hangs shut, her aluminum skiff chained high on the gravel apron, fresh pickup ruts cutting empty toward Harbor Road. She moved her truck across the culvert before the surge. Still, her outer oyster lines run out from this cove, and a working harvester comes back to the shed to check her gear before full dark.
 
-I fish the wet tide card out of my watch pocket and pin it against a cedar clapboard with the heel of my numb left palm. My fingers barely bend around the knife handle, clumsy as wooden spoons, and the first scratch skids off the slick surface. Rain drives sideways into my eyes while I choke up on the blade and gouge seven jagged words deep into the white plastic backing: *CALL STATE POLICE — FRAME AT KIEFER HOUSE*. The blade slips on the *K*, so I saw back over it twice until the white core shows through. Then I wedge the card behind Maren's door latch. White surf booms against the boathouse pilings behind me. My calf cramps mid-stride as I turn for the cliff stairs.
+I fish the wet tide card out of my watch pocket and pin it against a clapboard with the heel of my numb left palm. My fingers barely bend around the knife handle, clumsy as wooden spoons, and the first scratch skids off the slick surface. Rain drives sideways into my eyes while I choke up on the blade and gouge seven jagged words deep into the white plastic backing: *CALL STATE POLICE — FRAME AT KIEFER HOUSE*. The blade slips on the *K*, so I saw back over it twice until the white core shows through. Then I wedge the card behind Maren's door latch. White surf booms against the boathouse pilings behind me as I turn for the cliff stairs.
 
 ***
 
-The slate steps feel twice as steep in soaked sneakers and heavy denim. Wet pine needles cling to every riser. Halfway up the bluff, a gust off Penobscot Bay pins me against the granite. My scraped palm tears open again on the lichen, and shivering locks both thighs until I drop onto one knee. High above the spruces, an engine revs and tires hiss across wet gravel. Cole's cruiser, pulling out of the turnaround. His taillights wink red once through the trees, then vanish south toward the causeway.
+The cliff steps feel twice as steep in soaked sneakers and heavy denim. Wet pine needles cling to every riser. Halfway up the bluff, a gust off Penobscot Bay pins me against the rock. My scraped palm tears open again on the lichen, and shivering locks both thighs until I drop onto one knee. High above the treeline, an engine revs and tires hiss across wet gravel. Cole's cruiser, pulling out of the turnaround. His taillights wink red once through the trees, then vanish south toward the causeway.
 
 My head swims with a quiet, heavy urge to just sit out of the wind for thirty seconds. Just thirty seconds to let my thighs stop shaking and catch a full breath without salt mist burning my throat. I force myself to breathe, count ten steps aloud through chattering teeth, and haul myself upward using my right hand and elbows, one riser at a time.
 
-Twilight is thickening fast over the headland now. I have to reach the basement before Lydia locks down the house and the surge takes the road. I clear the top tread and drop low behind the sodden junipers on the back lawn, watching the branches whip in the gale like someone shaking out a wet broom. My ribs ache with every breath, and my fingers feel stiff and clumsy around the knife.
+Twilight is thickening fast over the headland now. I have to reach the basement before Lydia locks down the house and the surge takes the road. I clear the top tread and drop low behind the sodden junipers on the back lawn, watching the branches whip in the gale like someone shaking out a wet broom.
 
 The glass house stands dark in the fog. The living room and sunroom sit unlit, and the back porch floodlight flickers and dies as the gale leans into the lines. Through the drizzle, the keypad beside the deck door glows a dim amber, useless without a code. I still have the house key, though walking up to the front hall means walking straight into Lydia.
 
-I sprint low across the wet grass and climb onto the cedar deck beside the sunroom. The glass slider I left wide open is shut. Its thumb-latch is turned from inside—Cole must have locked it after he cuffed Graham and headed down to the cove. I test the handle gently so the track won't rattle. Solid. I press my shoulder against the siding, wipe salt spray off my lashes with a soaking sleeve, and peer through the rain-streaked glass.
+I sprint low across the wet grass and climb onto the back deck beside the sunroom. The glass slider I left wide open is shut. Its thumb-latch is turned from inside—Cole must have locked it after he cuffed Graham and headed down to the cove. I test the handle gently so the track won't rattle. Solid. I press my shoulder against the siding, wipe salt spray off my lashes with a soaking sleeve, and peer through the rain-streaked glass.
 
-Inside, the room is dim and empty in the gray storm light bleeding through the ocean panes. Whitecaps churn behind the glass, throwing pale reflections across the ceiling. The wool rug lies crooked over the bleached boards. Past it, Graham Kiefer slumps sideways against the interior wall under the cast-iron baseboard radiator. His left wrist is cuffed to the iron pipe. A dark bruise swells under his left eye, and his charcoal sweater hangs torn at the collar. The house groans around us as another gust hammers the roof.
+Inside, the room is dim and empty in the gray storm light bleeding through the ocean panes. Whitecaps churn behind the glass, throwing pale reflections across the ceiling. The wool rug lies crooked over the pale boards. Past it, Graham Kiefer slumps sideways against the interior wall under the cast-iron baseboard radiator. His left wrist is cuffed to the iron pipe. A dark bruise swells under his left eye, and his charcoal sweater hangs torn at the collar. The house groans around us as another gust hammers the roof.
 
-As my shadow crosses the glass, Graham's head snaps up. He spots me, shakes his head hard toward the front hall, and taps his free hand silently against his chest in warning. His eyes dart once toward the kitchen arch, then back to me, tight with the kind of helpless dread that makes my stomach knot. Lydia is inside, probably waiting in the dark past the counter with a kitchen knife or Graham's pipe wrench to watch the glass for my outline.
+As my shadow crosses the glass, Graham's head snaps up. He spots me, shakes his head hard toward the front hall, and taps his free hand silently against his chest in warning. His eyes dart once toward the kitchen arch, then back to me, tight with helpless dread. Lydia is inside, probably waiting in the dark past the counter with a kitchen knife or Graham's pipe wrench to watch the glass for my outline.
 
-If I want into the basement, I can't use the front door, and I can't force a locked slider with Lydia twenty feet away in the dark. There has to be another way in, even if my hands are shaking too hard to think straight.
+If I want into the basement, I can't use the front door, and I can't force a locked slider with Lydia twenty feet away in the dark. There has to be another way in.
 
 I drop below the sill and glance south across the inlet toward the mainland road.
 
@@ -1666,17 +1610,17 @@ White foam boils across the low asphalt of the causeway and swallows the steel g
 
 Graham hasn't moved from the sunroom radiator.
 
-Through the wet glass, his bruised face looks pale in the fading gray dusk, eyes fixed on the front hall arch. He looks smaller than he did an hour ago, shoulders hunched against the cast iron, waiting for footsteps he knows are coming. I stay crouched beneath the sill until my knees lock up from the cold. Every minute I linger on this deck, Cole Halstead gets closer up the gravel spur.
+Through the wet glass, his bruised face looks pale in the fading gray dusk, eyes fixed on the front hall arch. He looks smaller than he did an hour ago, shoulders hunched against the cast iron, waiting for footsteps he knows are coming. I stay crouched beneath the sill. Every minute I linger on this deck, Cole Halstead gets closer up the gravel spur.
 
-I back down the steps, nearly losing a heel on a slick board, and hug the blind north siding to the front turnaround. Rain drives sideways across the gravel. My hair plasters cold against my neck, jeans chafing raw against my thighs, and my sneakers squelch over pine needles with every step.
+I back down the steps, nearly losing a heel on a slick board, and hug the blind north siding to the front turnaround. Rain drives sideways across the gravel, and my sneakers squelch over wet needles with every step.
 
-My Civic sits by the spruces with its trunk lid hovering open in the mist. The driveway ahead is empty. Even with a working fob, there's nowhere left to drive while Cole's rig blocks the causeway. I glance once at the dark road, half-wishing headlights would sweep through the trees (anyone's headlights: a state trooper, a neighbor, a lost delivery van), before ducking under the cedar overhang on the front porch.
+My Civic sits by the drive with its trunk lid resting just shy of the latch in the mist. The driveway ahead is empty. Even with a working fob, there's nowhere left to drive while Cole's rig blocks the causeway. I glance once at the dark road, half-wishing headlights would sweep through the trees (anyone's headlights: a state trooper, a neighbor, a lost delivery van), before ducking under the overhang on the front porch.
 
-I crouch below the sidelights. Rain hammers the slate behind me, loud enough to cover my breathing. Inside, the front entry lies in deep shadow, the living room arch beyond it dark too. A branch scrapes against the clapboard somewhere overhead. Then a floorboard creaks down the north hall, near Graham's study. Lydia.
+I crouch below the sidelights. Rain hammers the porch behind me, loud enough to cover my breathing. Inside, the front entry lies in deep shadow, the living room arch beyond it dark too. A branch scrapes against the clapboard somewhere overhead. Then a floorboard creaks down the north hall, near Graham's study. Lydia.
 
-I fumble the house key out of my pocket and drop it on the slate sill before I can even find the keyhole. Stupid cold hands. I scoop it up between stiff palms, force the lock to turn, and slip inside. One sneaker squeaks on the stone.
+I fumble the house key out of my pocket and drop it on the stone sill before I can even find the keyhole. Stupid cold hands. I scoop it up between stiff palms, force the lock to turn, and slip inside. One sneaker squeaks on the stone.
 
-I stop beside the coat closet and listen. Down the north hall, my guest room door stands half-open. The house feels hollow around me, just wind rattling the tall living room windows and the hum of cooling fans drifting from the study. A shiver runs through my shoulders, and I pull my arms in tight.
+I stop beside the coat closet and listen. Down the north hall, my guest room door stands half-open. The house feels hollow around me, just wind rattling the tall living room windows and the hum of cooling fans drifting from the study.
 
 I tuck the oyster knife into my waistband and cross toward the kitchen arch. The manila envelope from the basement lies on the limestone island, its `OCT 14 — MASTER BACKUP` stamp pale in the dim light. I leave it there. Lydia's live boathouse confession is sitting on the cellar server, and that's what I came back for.
 
@@ -1688,33 +1632,31 @@ I bolt into the pantry, yank open the unlatched back panel, and drop into the du
 
 ***
 
-I pull the panel shut against its cleat. Cold air drafts up from the concrete cellar below, carrying dry cedar dust that tickles the back of my throat. Shivers rack my shoulders, and the cut across my left wrist burns against my wet cuff. Out in the kitchen, Lydia's footsteps pause near the pantry corridor, then turn toward the living room.
+I pull the panel shut against its cleat. Cold air drafts up from the concrete cellar below, carrying dry dust that tickles the back of my throat. The cut across my left wrist burns against my wet cuff. Out in the kitchen, Lydia's footsteps pause near the pantry corridor, then turn toward the living room.
 
 I feel blindly for the iron ladder bolted to the masonry. My fingers have no grip left, and flexing my slashed wrist sends a jolt straight up my forearm. I hook the crooks of both elbows over the upper bars, brace my back against the rear wood studs, and wedge my sneakers sideways against the vertical rails as I ease down to just below the kitchen floor joists. Wet denim drags at my hips; one slip and it will pull my feet right off the rails.
 
 Below me, the muffled hum of the three basement servers rises up the chute. It's a straight drop into Zone 4, and I'm already picturing how fast I can copy the file onto my thumb drive—
 
-Heavy boots hit the front slate overhead, followed by the jingle of a key ring and the rattle of the front deadbolt throwing shut from inside.
+Heavy boots hit the front entry overhead, followed by the jingle of a key ring and the rattle of the front deadbolt throwing shut from inside.
 
 Cole is back.
 
-"Nothing on the ridge road," his coastal drawl carries down through the joists. "Civic's still out front with the trunk popped. She didn't get off the point, Lydie."
+"Nothing on the ridge road," his coastal drawl carries down through the joists. "Civic's still out front with the trunk sitting off the latch. She didn't get off the point, Lydie."
 
 I freeze on the ladder and lock one trembling knee over an iron bar to take weight off my wrist. Cold water drips off my hem into the dark below, each *plink* against the cellar floor sounding louder than it has any right to.
 
-"I'm finishing Graham's note on the tablet now," Lydia says from the kitchen, her heels tapping across tile. The brisk, dry click of them makes me irrationally furious. I'm hanging in a spider-webbed chute like a drowned rat. "Once I drop it beside him in the sunroom, check the study. She copied the pantry recording off the tower before she ran for the cove. If she crawled back up those cliff stairs half-drowned, she's going after the basement drive."
+"Finish the driveway check," Lydia says from the kitchen, her heels tapping across tile. The brisk, dry click of them makes me irrationally furious while I'm hanging in a spider-webbed chute like a drowned rat. "If she crawled back up those cliff stairs, she's going after the basement server."
 
-Cole's boots thud toward the island. "Wrist is bleeding straight through the cruiser gauze," he growls. A drawer slides open, then shuts with a sharp slap. "Don't drip on the limestone," Lydia snaps, and Cole lets out a short, ugly laugh. "Did your father's people actually clear that offshore transfer, or am I bleeding out here on a promise?"
+Cole's boots thud toward the island. "Wrist is bleeding straight through the cruiser gauze," he growls. A drawer slides open, then shuts with a sharp slap. "Don't drip on the limestone," Lydia snaps. "And tell me you didn't actually leave your service piece in the cove."
 
-"Once Graham's dead with that note beside him, his estate doesn't see a dime. The whole three million rolls straight to my Cayman account," Lydia answers, clipped and impatient. "My father's trustee already has the release queued. Grab Graham's key ring off the study desk, check the cellar, and lock the steel door if she's down there. Let the tide finish it."
+"You're the one who shoved the boat hook into my ribs," Cole shoots back, his voice dropping ugly and tight. "High water's twenty minutes off the causeway. We don't have time to babysit a server rack if the road floods out."
 
-Water keeps dripping off my jeans into the concrete well. If Cole heads down the cellar steps, he'll spot the open fire door or fresh wet tracks on the rubber mats under his flashlight. And I can't outrun a duty pistol inside a concrete box, any more than I can climb back into the kitchen while both of them stand right outside the pantry. My elbows are starting to go numb where the iron digs into the creases, and a cramp knots high in my left calf. I bite the inside of my cheek to keep from shifting.
+"We leave that drive intact and we don't leave at all. Grab Graham's key ring off the study desk, get down to the cellar, and smash the thing if she's not already in there."
 
-***
+Water keeps dripping off my jeans into the concrete well. If Cole heads down the cellar steps, he'll spot the open fire door or fresh wet tracks on the rubber mats under his flashlight. And I can't outrun a duty pistol inside a concrete box, any more than I can climb back into the kitchen while both of them stand right outside the pantry. I keep my left elbow hooked around the rung, wedge my knees against the opposite studs for leverage, and reach sideways with my scraped right hand. The cast-iron pulley is bolted to the upper header right above my shoulder. Its rope runs into the side channel, where a pig-iron counterweight hangs suspended over the cellar sill. With the old wooden cab stripped out decades ago, the only thing holding the pulley wheel rigid against that suspended weight is a steel locking pin jammed through the stop bracket.
 
-I keep my left elbow hooked around the rung, wedge my knees against the opposite studs for leverage, and reach sideways with my scraped right hand. The cast-iron pulley is bolted to the upper header right above my shoulder. Its braided hemp line runs taut into the side channel, where a pig-iron counterweight hangs suspended over the cellar sill. With the old wooden cab stripped out decades ago, the only thing holding the pulley wheel rigid against that suspended weight is a steel locking pin jammed through the stop bracket.
-
-Overhead, the flush cedar door under the main stairs creaks open. Heavy boots stop on the top concrete tread.
+Overhead, the basement door under the main stairs creaks open. Heavy boots stop on the top concrete tread.
 
 "Graham's still cuffed to the radiator?" Cole calls from the stairwell.
 
@@ -1724,7 +1666,7 @@ I jam my shoulders harder into the rear studs so my weight hangs off my back and
 
 Salt rust holds for half a second. Torn skin on my palm flares hot, and for one sick second I'm sure the thing is seized for good. Then the pin pops free from the bracket.
 
-The hemp rope screams across the pulley and shakes loose a choking cloud of cedar dust. Inside the recessed side channel, the counterweight plummets onto the concrete sill at the bottom of the shaft.
+The rope screams across the pulley and shakes loose a choking cloud of dust. Inside the side channel, the counterweight plummets onto the concrete sill at the bottom of the shaft.
 
 *BOOM.*
 
@@ -1734,7 +1676,7 @@ The whole timber chase shudders around my ribs, rattling spice jars behind the p
 
 "Cole, wait—" Lydia's heels clatter across the foyer toward the basement door. A narrow flashlight beam slices past the kitchen arch and vanishes down the steps behind him. Their voices drop into the concrete echo of the cellar, Cole shouting something ragged near the server rack while Lydia snaps back, her tone sharp enough to carry even through the floorboards.
 
-I don't wait for the steel door to bang. Muffling a cough in my sleeve, I press my shoulder blades flat against the studs and push upward, hooking my forearms over the iron rungs one at a time. Dead fingers can't hold me, and one wrong twist of my cut wrist will send me straight back down to the cellar floor. Halfway up, my sneaker slips off the wet rail and bangs my shin hard against the masonry. I swallow the curse, clamp my knee into the frame, catch the sill under my chin, and shove the panel open.
+I don't wait for the steel door to bang. Muffling a cough in my sleeve, I press my shoulder blades flat against the studs and push upward, hooking my forearms over the iron rungs one at a time. My fingers can't hold me, and one wrong twist of my cut wrist will send me straight back down to the cellar floor. Halfway up, my sneaker slips off the wet rail and bangs my shin hard against the masonry. I swallow the curse, clamp my knee into the frame, catch the sill under my chin, and shove the panel open.
 
 I haul myself onto the dark pantry floor and crack the door. Empty kitchen. Gray storm glare pours through the sunroom arch, catching the pale edge of the manila envelope on the island, while Cole's boots keep pounding concrete underneath the floorboards.
 
@@ -1744,13 +1686,13 @@ I grab the knife from my waistband and sprint across the tile toward the sunroom
 
 # Chapter 20
 
-Graham flinches back against the cast-iron radiator as I drop to my knees beside him on the bleached boards. Cold air leaks around the slider track, and the wind outside slams salt spray against the glass in heavy, irregular gusts.
+Graham flinches back against the cast-iron radiator as I drop to my knees beside him on the floorboards. Cold air leaks around the slider track, and the wind outside slams salt spray against the glass in heavy, irregular gusts.
 
 "Tessa," he whispers, barely audible over the storm. A dark purple bruise swells across his left cheekbone where Cole caught him, and dried blood crusts his upper lip. He takes in my soaked jeans and the raw cut circling my left wrist before stopping on the oyster knife in my hand. "How did you get—"
 
 "Quiet." I set the knife beside my knee, keep one eye on the kitchen arch, and dig the multi-tool out of my pocket. "Cole and Lydia are in the basement. Two minutes, maybe less, before they figure out that crash wasn't me."
 
-I flip out the narrow awl. My right hand shakes from the cold, and my wrist stings every time I try to brace it. I've never picked a pair of hinged police cuffs in my life, and if Cole locked the safety pin, we're both stuck here.
+I flip out the narrow awl. My wrist stings every time I try to brace it. I've never picked a pair of hinged police cuffs in my life, and if Cole locked the safety pin, we're both stuck here.
 
 "Keep your wrist still," I tell him.
 
@@ -1788,15 +1730,11 @@ He takes half a breath, and panic drops out of his voice, replaced by that smoot
 
 He edges closer to the burner. He holds the papers out and doesn't blink at the knife. "Let them burn, Tessa. Nobody gets hurt. Lydia and Cole still do time on the pantry recording. My Arlington buyout closes Monday. I pay off your entire eighteen-thousand-four-hundred-and-twelve-dollar judgment before noon, restore your adjuster's surety bond, and wire fifty thousand into your checking as a clean consulting fee. You get your life back tonight."
 
-Cold brine drips off my flannel cuffs onto the tile, and my shoulders won't stop shaking. I don't yank the envelope away right away. A cleared docket, a real bank account again, my license back. It's right there, two seconds from ash. Nobody died over six wire transfers, and Lydia is the one trying to drown us both before high tide. All I have to do is lower my arm, let the flame catch the corner of the top page, and step back.
+Cold brine drips off my flannel cuffs onto the tile. I don't yank the envelope away right away. A cleared docket, a real bank account again, my license back. It's right there, two seconds from ash. Nobody died over six wire transfers, and Lydia is the one trying to drown us both before high tide. All I have to do is lower my arm, let the flame catch the corner of the top page, and step back.
 
-Then I picture a thin white binder in a Vermont sheriff's office six years ago, closed before anybody bothered checking dates on my sister Nina, and the Commercial Street fire manifest three years later, where a senior partner offered me a quiet raise to sign dirty paper and look away. Graham looks at me like he's already calculating which wire to send first, and for a second I hate his neat little executive haircut more than I hate Cole. Letting him burn those pages doesn't give me my life back. It just makes me the exact kind of paid signature I blew up my career refusing to be.
+Then I picture a thin white binder in a Vermont sheriff's office six years ago, closed before anybody bothered checking dates on my sister Nina, and the Commercial Street fire manifest three years later, where a senior partner offered me a quiet raise to sign dirty paper and look away. Graham looks at me like he's already calculating which wire to send first, and for a second I hate his neat little executive haircut more than I hate Cole.
 
-"You forged your wife's initials on six transfers and drained her father's estate," I say, my throat raw. "You hired me under a gag clause hoping I'd clear your name without ever looking too hard at your own books."
-
-"I was trying to save my company!"
-
-"Then tell a judge." Ignoring the burn in my slashed left wrist, I reach in and rip the papers and envelope out of his grip. He lunges half a step to grab them back, then stops short when the knife comes up toward his ribs. Raw gas stings my nose as I jam the sheaf back inside, fold the brass clasp down, and twist the stove knob hard to *OFF*.
+Ignoring the burn in my slashed left wrist, I reach in and rip the papers and envelope out of his grip. He lunges half a step to grab them back, then stops short when the knife comes up toward his ribs. Raw gas stings my nose as I jam the sheaf back inside, fold the brass clasp down, and twist the stove knob hard to *OFF*.
 
 The blue flame dies. Graham stares at me, his arms dropping loose at his sides, chest heaving in the dark kitchen. "You're really turning me in."
 
@@ -1808,7 +1746,7 @@ I march him past the foyer arch into the north hall and my guest room, the knife
 
 Inside, the radiator ticks. The boiler is cycling down. My duffel is against the wall. I yank it open, shove the envelope underneath my spare clothes, and reach behind the pipes for the store bag with Cole's left-handed yellow warning slip tucked inside. Everything goes into the bag, zipped tight.
 
-I pull a dry wool sweater over my freezing flannel and sling the duffel over my shoulder. The wool hangs heavy and itchy against my neck, and my jaw aches from clenching my teeth. Still, the dry knit quiets the worst of my shivering so I can think.
+I pull a dry wool sweater over my freezing flannel and sling the duffel over my shoulder. The dry knit quiets the worst of my shivering so I can think.
 
 "Move," I tell Graham and nudge him back toward the doorway. "Into your study. Let's see if the backup array mirrored the boathouse mic, and whether your backup battery can push anything out over cellular."
 
@@ -1826,7 +1764,7 @@ Half a heartbeat later, the gravity-drop steel hurricane shutters roar down insi
 
 # Chapter 21
 
-Cole's boots hit the kitchen tile. A flashlight beam cuts across the black foyer arch and skims the slate inches behind my heels as I pull Graham down the north hall.
+Cole's boots hit the kitchen tile. A flashlight beam cuts across the black foyer arch and skims the floor inches behind my heels as I pull Graham down the north hall.
 
 "Graham!" Cole yells from the kitchen. His voice bounces off the stone. "Get out here! Think your Boston money gets you off this rock?"
 
@@ -1844,9 +1782,9 @@ The interface is typical Graham: three nested menus deep just to route a single 
 
 He nods once, stiffly, and backs into the shadow behind the tall case. He pulls his knees in, trying to make a six-foot frame vanish behind six inches of walnut molding.
 
-I hit play on a continuous loop, then kill the display power so the room drops back to black. Under our feet, muffled through cedar and concrete, Lydia's voice—cool, dry, laughing over the squeak of a wet rag—booms through the basement. Graham flinches at the sound of his wife's laugh coming up through his own floorboards.
+I hit play on a continuous loop, then kill the display power so the room drops back to black. Under our feet, muffled through the floor, Lydia's voice—cool, dry, laughing over the squeak of a wet rag—booms through the basement. Graham flinches at the sound of his wife's laugh coming up through his own floorboards.
 
-Out in the foyer, Cole's flashlight jerks toward the stairwell door. His boots stop dead on the slate.
+Out in the foyer, Cole's flashlight jerks toward the stairwell door. His boots stop dead in the hall.
 
 "Lydie?" he shouts, anger cracking into panic as his own drawl echoes up through the floor. "She's back in Zone Four! She's playing the pantry tape!"
 
@@ -1854,19 +1792,19 @@ Heavy boots hammer across the foyer. He takes the concrete landing two treads at
 
 ***
 
-I slip into the north hall. If I can cross the foyer before Cole hits the bottom, I can throw the exterior deadbolt on the basement fire door and seal him in. Halfway to the archway, a penlight slices across the slate from the living room. Lydia steps out of the dark with a fireplace poker in her hand and cuts into the stairwell right behind him.
+I slip into the north hall. If I can cross the foyer before Cole hits the bottom, I can throw the exterior deadbolt on the basement fire door and seal him in. Halfway to the archway, a penlight slices across the floor from the living room. Lydia steps out of the dark with a fireplace poker in her hand and cuts into the stairwell right behind him.
 
 She's going to tell him it's a trap. Once she does, Cole will smash the Zone 4 backup drives and come straight back up. The foyer stairs are blown. My only shot at that lock is from the inside, while the speakers still have their backs turned.
 
 Lydia's boots clatter down the upper treads. I skirt the kitchen island, my knee clipping a barstool hard enough to make it rock on the tile, and feel my way into the pantry corridor.
 
-Behind the open spice rack, cold air rises up the dumbwaiter shaft. I shove the oyster knife into my waistband, hook my forearms over the iron rungs so I don't load my slashed left wrist, and drop into the dark. My wet wool sweater catches on a bracket and rides up my ribs, cold and itching, while the duffel bangs against the masonry behind me. Halfway down, my left arm hits a rough seam in the shaft wall and sends a white-hot spike up from my raw wrist. I bite down on the inside of my cheek and keep sliding.
+Behind the open spice rack, cold air rises up the dumbwaiter shaft. I shove the oyster knife into my waistband, hook my forearms over the iron rungs so I don't load my slashed left wrist, and drop into the dark. My sweater catches on a bracket and rides up my ribs, while the duffel bangs against the masonry behind me. Halfway down, my left arm hits a rough seam in the shaft wall and sends a white-hot spike up from my raw wrist. I bite down on the inside of my cheek and keep sliding.
 
 The looped tape swells louder with every rung. Lydia's laugh bounces off the concrete, followed by Cole swearing as he hits the fire door of Zone 4. His flashlight cuts across the far wall below me and throws long shadows off the server racks.
 
 I drop onto the rubber matting and back into the charcoal foam wedges of the northeast corner, squeezing into the narrow gap beside the pried-open *ARCHIVE* cabinet.
 
-Graham's dead-zone works. The speaker blare still carries through open air, yet the directional baffles kill the wall reflections. Sound goes flat and hard to place. The foam swallows my breathing, though my knees ache from the crouch. I shift my weight to quiet them and wait.
+Graham's dead-zone works. The speaker blare still carries through open air, yet the directional baffles kill the wall reflections. Sound goes flat and hard to place. The foam swallows my breathing. I shift my weight and wait.
 
 Across the floor, Cole's beam whips over the three humming servers and the worktable. Concrete dust rings the counterweight beside the ladder. Blood has soaked through the gauze on his left wrist; his right hand grips his duty pistol as he pivots in sharp circles, hunting the speaker throwing his own voice back at him.
 
@@ -1900,15 +1838,15 @@ Inside Zone 4, Cole's boots slam against the door, his shouts muffled to a dull 
 
 Lydia doesn't turn to fight on the stairs. She scrambles upward ahead of me in the dark, one hand clamped over her bleeding sleeve, the backup drive clutched against her ribs. Her wet boots slip on the middle landing, and she catches herself against the drywall with a smeared palm before lunging on.
 
-I take the steps two at a time behind her. My sneakers skid on the top landing before I shoulder the flush cedar door open into the hall.
+I take the steps two at a time behind her. My sneakers skid on the top landing before I shoulder the stairwell door open into the hall.
 
-Graham is already stepping out of the north corridor, squinting into the dark. Ahead of me, Lydia sprints into the front entry, grabs the coat bench, and drags it scraping across the slate right under the low skylight hatch.
+Graham is already stepping out of the north corridor, squinting into the dark. Ahead of me, Lydia sprints into the front entry, grabs the coat bench, and drags it scraping across the floor right under the low skylight hatch.
 
 "Stop her!" I yell. I lunge across the stone. Graham moves to cut her off, his empty hands coming up short when she whips her bleeding arm toward his face. He recoils a half-step, and that half-step is all she needs.
 
-Lydia scrambles onto the bench, unlatches the skylight crank with wet, blood-slick fingers, and shoves the glass hatch up into the storm. Freezing rain pours onto the slate and drenches her head and shoulders in a second as she grabs for the wet roof framing. Wind howls down the opening, whipping her hair across her eyes and scattering cold spray across Graham's face. The gale fills the entry so fast the cedar door slams back against its stop.
+Lydia scrambles onto the bench, unlatches the skylight crank with wet, blood-slick fingers, and shoves the glass hatch up into the storm. Freezing rain pours into the entry and drenches her head and shoulders in a second as she grabs for the wet roof framing. Wind howls down the opening, whipping her hair across her eyes and scattering cold spray across Graham's face. The gale fills the entry so fast the stairwell door slams back against its stop.
 
-Then red and blue light bars flare through the coastal fog above the spruces. Strobes wash across the open skylight and wet slate. Twin sirens cut straight through the gale.
+Then red and blue light bars flare through the coastal fog above the pines. Strobes wash across the open skylight and wet stone. Twin sirens cut straight through the gale.
 
 ---
 
@@ -1938,7 +1876,7 @@ I lift both hands and step back off Lydia's wrist. The lead trooper drops down a
 
 "That drive by the stairs came off the study tower," I tell him, nodding toward the tiles. "And keep everybody out of the upstairs studio. There's a silver Montblanc on the desk that needs latent prints before anyone touches it."
 
-Lydia glares up from the floor, blood smeared across her cheekbone where her sleeve brushed her face. She keeps her mouth shut. My left knee is already swelling where her boot heel caught me, a dull, hot throb every time I shift my weight off it, and my hands won't stop shaking from the drop in adrenaline.
+Lydia glares up from the floor, blood smeared across her cheekbone where her sleeve brushed her face. She keeps her mouth shut.
 
 The second trooper sweeps his light over Graham, then toward the open cedar door under the stairs. "Anybody else in the house?"
 
@@ -1946,11 +1884,7 @@ The second trooper sweeps his light over Graham, then toward the open cedar door
 
 I back clear of the stairwell so the backup trooper can move past. "Cover the spice-rack wall in the walk-in pantry too. There's an old dumbwaiter shaft behind the shelves that drops right into that room."
 
-He gives one short nod, racks his shotgun, and moves into the dark hall.
-
-***
-
-Twenty minutes later, generator floodlights off the State Police rescue rig wash the gravel turnaround in harsh white glare. I stand under the rear awning of a Knox County ambulance with a scratchy wool blanket over my wet sweater as two troopers walk a cuffed Cole Halstead out the front door toward a waiting cruiser. Fresh white gauze wraps his left forearm. He keeps his eyes dead ahead, ignoring both the SUV where Lydia sits and me.
+He gives one short nod, racks his shotgun, and moves into the dark hall. Twenty minutes later, generator floodlights off the State Police rescue rig wash the gravel turnaround in harsh white glare. I stand under the rear awning of a Knox County ambulance with a scratchy wool blanket over my wet sweater as two troopers walk a cuffed Cole Halstead out the front door toward a waiting cruiser. Fresh white gauze wraps his left forearm. He keeps his eyes dead ahead, ignoring both the SUV where Lydia sits and me.
 
 Maren Lindqvist stands beside the rescue rig's idling fender in her yellow oilskin bib with a thermos pressed against her chest. Her silver braid is plastered wet to her collar.
 
@@ -1960,7 +1894,7 @@ Maren Lindqvist stands beside the rescue rig's idling fender in her yellow oilsk
 
 "I took her money once," Maren cuts in. She glances toward the tinted glass of the lead SUV. "Wasn't letting her bury two people so I could keep my dock."
 
-She unscrews the lid of her thermos, pours a small metal cup of tea, and holds it out to me without asking. My fingers are stiff enough that I nearly spill it over the rim, and the heat against my palms feels better than it has any right to.
+She unscrews the lid of her thermos, pours a small metal cup of tea, and holds it out to me without asking. I wrap both hands around the warm metal.
 
 A plainclothes State Police detective steps away from the open rear hatch of the tactical rig with a clipboard and an evidence box. He's lean, gray at the temples, his badge clipped to the belt of a soaked nylon windbreaker.
 
@@ -1970,7 +1904,7 @@ A plainclothes State Police detective steps away from the open rear hatch of the
 
 Ward pauses, pen poised over an evidence bag. "Show me what you pulled."
 
-I unzip the outer pouch and set out the thumb drive, Cole's Tuesday warning slip, and the knotted glove finger holding the P-trap swab. "The raw overnight audio from the storm: Cole and Lydia in the sunroom and boathouse around two-fourteen. Plus Cole's warning slip as a left-handed sample, and a swab of white paste I pulled from the master bath P-trap."
+I pull the thumb drive wet from my jeans watch pocket, hoping the sealed casing survived the cove swim, then unzip my duffel's outer pouch and set out Cole's Tuesday warning slip beside the knotted glove finger holding the P-trap swab. "The raw overnight audio from the storm: Cole and Lydia in the sunroom and boathouse around two-fourteen. Plus Cole's warning slip as a left-handed sample, and a swab of white paste I pulled from the master bath P-trap."
 
 Ward bags each piece with gloved fingers and waves an evidence tech over. "Have the studio team print that Montblanc before anyone moves it," he tells the tech. "And pull Halstead's October fifteenth report so documents can compare his writing against this slip and that smudged checklist on the blotter. I want his prints, his installer logs, and the two-fourteen audio lined up together."
 
@@ -1980,7 +1914,7 @@ Ward makes three quick notes and murmurs into his shoulder mic to have the lab p
 
 Across the wet gravel, Graham stands beside an unmarked sedan with a uniformed trooper at his elbow as another officer takes a preliminary statement. He catches my eye through the rain, waiting to see what I do.
 
-I could leave what's buried under my spare shirts right where it is. Keep my mouth shut, take what Graham offered me over the stove, and drive back to Portland solvent instead of wondering how I'm going to pay rent next week. My teeth won't stop chattering, and my raw wrist throbs under my sleeve.
+I could leave what's buried under my spare shirts right where it is. Keep my mouth shut, take what Graham offered me over the stove, and drive back to Portland solvent instead of wondering how I'm going to pay rent next week.
 
 I hold Graham's gaze, pull the manila envelope stamped `OCT 14 — MASTER BACKUP / DO NOT OPEN BEFORE PROBATE` out of the main compartment, and lay it on the tailgate.
 
@@ -1990,39 +1924,35 @@ Across the drive, Graham shuts his eyes and turns his head away from the lights.
 
 Ward studies the envelope before looking up at me. "You worked for him under an NDA, Ms. Calder."
 
-"NDAs don't cover felony fraud or burning evidence," I say. "Take all of it."
+"NDAs don't cover felony fraud or burning evidence," I say. "Take all of it." An hour later, the gale has died down to a cold drizzle. Most of the cruisers have pulled out, and the ambulance bay hums under overhead LEDs. Down by the cove, a portable generator still drones outside the boathouse while crime-scene techs finish bagging the gear.
 
-***
-
-An hour later, the gale has died down to a cold drizzle. Most of the cruisers have pulled out, and the ambulance bay hums under overhead LEDs. Down by the cove, a portable generator still drones outside the boathouse while crime-scene techs finish bagging the gear.
-
-I sit on the ambulance step, hands wrapped around a paper cup of burnt coffee. A paramedic who can't be older than twenty-five snips the last thread on my wrist and tapes down fresh gauze. He hums under his breath the whole time, like he's patching up a kitchen nick. The wool blanket smells of bleach, and the coffee tastes like scorched cardboard, though I drink half of it anyway because my hands need something warm to hold.
+I sit on the ambulance step, hands wrapped around a paper cup of lukewarm tea. A paramedic who can't be older than twenty-five snips the last thread on my wrist and tapes down fresh gauze. He hums under his breath the whole time, like he's patching up a kitchen nick. The wool blanket smells of bleach.
 
 Detective Ward walks back over from the yellow tape strung across the Kiefer porch, his boots crunching on wet gravel. In his gloved hand he carries a pink property receipt and a clear evidence bag holding my waterlogged phone. A trooper fished it off a submerged slipway cross-beam with a boat hook before the surge could wash it out into the bay.
 
 "Preliminary inventory on the house and Mr. Kiefer's coat is wrapped," Ward says, stopping under the yellow bay light. "Coat pockets held his Audi fob and a Portland fiduciary courier receipt—nothing else. Your Civic's trunk is shot and cleared; flatbed can pull you off once the tide drops below the culvert."
 
-I set the coffee down and sign the clipboard. "What about the five-thousand-dollar cash retainer in my duffel?"
+I set the cup down and sign the clipboard. "What about the five-thousand-dollar cash retainer in my duffel?"
 
 "Had to hold it as disputed evidence for now," Ward says. He tears off the pink copy and hands it over. "Your signed contract and that Boston default letter back up your story, though. Once the Rockland DA signs off, you should get it back. Keep your number current with the clerk once you replace that phone—they'll need you for grand jury."
 
-I fold the receipt into my pocket. Overhead, the low clouds are finally breaking over Penobscot Bay, though my feet are still freezing and Monday morning on Congress Street isn't going to fix itself.
+I fold the receipt into my pocket, climb into the Civic's passenger seat out of the wind, and watch the tow driver backing his flatbed down the lane. Monday morning on Congress Street can wait until I find dry socks.
 
 ---
 
 # Chapter 23
 
-Zero balance left on the defamation suit that wrecked my career three years ago.
+Six thousand four hundred dollars left on the defamation suit that wrecked my career three years ago, down from eighteen, and the county levy is finally lifted.
 
-I stand at the kitchen counter with a mug of black coffee, looking down at two sheets of bond paper under the overhead bulb. The first is the stamped satisfaction-of-judgment notice from the Cumberland County clerk; the second is an embossed letter from the Maine Department of Public Safety restoring my private investigator bond, effective today, Monday morning. Four weeks after Salt Point, the cast-iron radiator in my Portland studio still knocks against the wall, and cold harbor air leaks around the single-pane glass.
+I stand at the kitchen counter with a mug of black coffee, looking down at two sheets of bond paper under the overhead bulb. The first is a stamped levy-release and payment-plan agreement from the Cumberland County clerk; the second is an embossed letter from the Maine Department of Public Safety restoring my private investigator bond, effective today, Monday morning. Four weeks after Salt Point, the cast-iron radiator in my Portland studio still knocks against the wall, and cold harbor air leaks around the single-pane glass.
 
-Between the county releasing my retainer and a cashier's check out of Graham's separate archiving escrow, the judgment was wiped out with eighty-eight dollars to spare. What was left in my checking account covered the state bond fee.
+Between the county releasing my retainer and a ten-thousand-dollar cashier's check out of Graham's separate archiving escrow, I knocked twelve grand off the judgment—enough to get the bank freeze lifted and put the rest on fifty-dollar weekly installments. What was left in my checking account covered the state bond fee.
 
-My left wrist still shows a pink seam under the cuff of my wool sweater where the stitches came out, and my knee aches in the December cold. Two weeks of grand jury testimony in Rockland took care of the rest. Once state techs pulled the boathouse audio off the server and matched Cole's prints to the Montblanc, Detective Sergeant Ward and the Knox County DA had everything they needed. Lydia and Cole are sitting in separate cells without bail, and Graham's hearing got pushed back while the state auditor digs through his trust accounts.
+My left wrist still shows a pink seam under the cuff of my wool sweater where the stitches came out. Two weeks of grand jury testimony in Rockland took care of the rest. Once state techs pulled the boathouse audio off the server and matched Cole's prints to the Montblanc, Detective Sergeant Ward and the Knox County DA had everything they needed. Lydia and Cole are sitting in separate cells without bail, and Graham's hearing got pushed back while the state auditor digs through his trust accounts.
 
 I skipped the press. I gave my statement, signed the chain-of-custody logs, and drove back down Route 1 before Boston reporters ever found the causeway. Even Maren Lindqvist came out clean. The state granted her full immunity as the reporting witness, and three days ago a wooden crate of Salt Point oysters turned up on my landing with a harbor receipt tucked under the twine: *Dock's paid. Keep your head down.* I spent half of Thursday shucking them over the sink with a dull butter knife and gave the rest to my downstairs neighbor before they turned.
 
-The studio is already half-empty. My landlord's eviction notice is dead, though I'm still getting out of this drafty shoebox before the lease rolls. Two taped boxes are stacked beside the door. My duffel sits on the bare mattress, no longer packed for a midnight run, and the Civic waits at the curb downstairs with its muffler shield finally bolted down. For the first time in three years, I don't owe a dollar to a lawyer or a court clerk.
+The studio is already half-empty. My landlord's eviction notice is dead, though I'm still getting out of this drafty shoebox before the lease rolls. Two taped boxes are stacked beside the door. My duffel sits on the bare mattress, no longer packed for a midnight run, and the Civic waits at the curb downstairs with its muffler shield finally bolted down. I still owe Harbor Mutual's lawyers for the next two years, but the freeze is off my checking account and nobody's padlocking my door.
 
 At ten o'clock, I have an intake interview with a regional marine-insurance adjuster on Congress Street. Standard desk audits: flooded hulls, dock claims, documented chain-of-custody. Daylight work with real witnesses and paper trails that don't end inside a soundproofed cellar. I'll have to sit across a laminate desk and explain why the state pulled my bond three years ago, and why they handed it back this morning, and try not to let him notice the salt crusted along the hem of my only clean slacks.
 
@@ -2040,7 +1970,7 @@ The brass bell over the door jingles. A woman in a tailored charcoal wool coat i
 
 "Dropped the phone in a boathouse," I say. I keep both hands on my mug. "Who are you?"
 
-"Margot Kiefer-Hall." She sets a cream business card beside my coffee. No title, just a State Street address in Boston and a direct private line. "Managing partner at Kiefer-Hall Fiduciary. We issued the thirteen-thousand-five-hundred-dollar cashier's check our courier brought to your apartment last month."
+"Margot Kiefer-Hall." She sets a cream business card beside my mug. No title, just a State Street address in Boston and a direct private line. "Managing partner at Kiefer-Hall Fiduciary. We issued the ten-thousand-dollar cashier's check our courier brought to your apartment last month."
 
 I read the card and look up at her.
 
@@ -2050,7 +1980,7 @@ I read the card and look up at her.
 
 "Graham told me he was paying out of his own pocket."
 
-"He did." Margot rests her gloved hands on top of her briefcase. "Graham funded a separate escrow before the Arlington deal closed. When he came down to Portland Wednesday—right after shoving your deadline into a gale—I saw your name on the voucher and tacked on thirty-five hundred for the storm myself. His arrest killed the buyout, but the escrow still pays out to whichever contractor turned in an honest accounting."
+"He did." Margot rests her gloved hands on top of her briefcase. "Graham funded a separate ten-thousand-dollar archiving escrow before the Arlington deal closed. His arrest killed the buyout, but the escrow still pays out to whichever contractor turned in an honest accounting."
 
 She pauses until the waitress walks past with a fresh carafe and the booth behind us empties out.
 
@@ -2058,9 +1988,9 @@ She pauses until the waitress walks past with a fresh carafe and the booth behin
 
 "Most people don't like getting locked in a basement," I say. "If you're here for a receipt, the clerk's office already cleared the check."
 
-"I'm not here for a receipt, Tessa." She unsnaps the brass latches on her briefcase. "My firm represents families whose problems can't survive a public probate docket. Quiet archiving. Discreet asset verification. Your investigator bond cleared this morning, and your court balance is zero."
+"I'm not here for a receipt, Tessa." She unsnaps the brass latches on her briefcase. "My firm represents families whose problems can't survive a public probate docket. Quiet archiving. Discreet asset verification. Your investigator bond cleared this morning, and your bank levy is lifted."
 
-I keep my face still. She knows the day my bond reinstated and she knows my county docket balance. That kind of reach doesn't stop at a Boston escrow file.
+I keep my face still. She knows the day my bond reinstated and she knows my county docket status. That kind of reach doesn't stop at a Boston escrow file.
 
 "I have an interview on Congress Street at ten," I say. "I'm done working off-book inside other people's houses."
 
@@ -2068,7 +1998,7 @@ Margot doesn't push. She just folds her gloved hands over the leather and holds 
 
 "Triple the Salt Point rate," she says. "Forty-five thousand dollars. Ten days in northern Vermont, starting tonight if you can clear the notch before dark. A private mountain lodge sealed for the winter after a sudden family disappearance—except the caretaker walked off the job Tuesday without returning the keys. Inventory the estate, flag anything off before probate counsel arrives, and stay clear of the local sheriff."
 
-Forty-five thousand would buy a reliable used car, pay six months on a real two-bedroom off the peninsula, and leave enough in reserve that I wouldn't have to beg a marine-insurance adjuster for desk scraps. I take a slow swallow of bitter coffee. Inside my jacket pocket, the folded bond letter presses against my ribs, and I remind myself how fast three days in an isolated house turned into a locked cellar when I stopped asking who was really paying the bill.
+Forty-five thousand would buy a reliable used car, pay six months on a real two-bedroom off the peninsula, and leave enough in reserve that I wouldn't have to beg a marine-insurance adjuster for desk scraps. I take a swallow and set the mug down. Inside my jacket pocket, the folded bond letter presses against my ribs, and I remind myself how fast three days in an isolated house turned into a locked cellar when I stopped asking who was really paying the bill.
 
 "Pass," I say. "Find somebody else."
 
@@ -2078,13 +2008,13 @@ Out past the fogged window, a tugboat horn groans across Portland Harbor, and th
 
 Margot studies me for a second. Then she reaches into her briefcase and sets two things on the Formica. First, a heavy brass skeleton key, its bow worn smooth from decades of hands, with dark pine resin clinging inside the cut of the teeth and a blank manila tag wired to the ring. Next to it, she slides a glossy color photograph across the table until its white edge stops against my mug.
 
-I look down despite myself. A sprawling timber-and-stone lodge is buried halfway to its cedar eaves in fresh Vermont snow, dark spruces crowding the drive behind a wrought-iron gate. Thin gray smoke curls out of a massive stone chimney against a gray-white sky.
+I look down despite myself. A sprawling timber-and-stone lodge is buried halfway to its cedar eaves in fresh Vermont snow, dark evergreens crowding the drive behind a wrought-iron gate. Thin gray smoke curls out of a massive stone chimney against a gray-white sky.
 
 "I said no, Ms. Kiefer-Hall." I reach for my coat on the hook. "Take your key back to Boston."
 
 "The lodge has been legally empty since October," Margot says. She taps one gloved fingertip against the white border of the print. "It's clear you like a little mystery, that you don't walk past a loose thread once you see it. Turn it over."
 
-The diner door bangs behind a pair of dockworkers, letting in a sharp draft of harbor wind that makes my knee throb all over again. Everything I dragged myself out of at Salt Point tells me to grab my duffel, walk out into the cold, and keep walking. I didn't crawl out of a frozen cove just to step into another rich family's locked house in the snow.
+The diner door bangs behind a pair of dockworkers, letting in a sharp draft of harbor wind. Everything I dragged myself out of at Salt Point tells me to grab my duffel, walk out into the cold, and keep walking. I didn't crawl out of a frozen cove just to step into another rich family's locked house in the snow.
 
 Still, Margot hasn't moved her hand.
 

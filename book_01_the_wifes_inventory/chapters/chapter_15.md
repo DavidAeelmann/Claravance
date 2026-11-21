@@ -1,22 +1,22 @@
 # Chapter 15
 
-"We can't leave those boots behind the bench," Graham says behind me, his voice hoarse. He stares past my shoulder at the front door. "Cole Halstead rolls up that drive with a warrant, he won't care who popped your trunk."
+"We can't leave those boots behind the bench," Graham says behind me, his voice hoarse. He stares past my shoulder at the front door. "Cole Halstead rolls up that drive with a warrant, he won't care who rigged your trunk."
 
-I stand at the foot of the stairs with the pipe wrench in my hand and look out through the front entry glass. Rain hammers the sidelights. Three-thirty already, and Graham's phone still hasn't pinged with an ETA from the Boston courier. Out by the spruces, my Civic's trunk lid sits cracked just above the latch in the mist.
+I stand at the foot of the stairs with the pipe wrench in my hand and look out through the front entry glass. Rain hammers the sidelights. Three-thirty already, and Graham's phone still hasn't pinged with an ETA from the Boston courier. Out by the driveway, my Civic's trunk lid sits caught just shy of the latch in the mist.
 
 "Cole doesn't have a warrant yet," I say. "If he did, he wouldn't wait till three-thirty to kick the door in. He's still stacking paper."
 
 Two sleepless nights are catching up with me fast, a dull ache behind my eyes that won't quit. Even so, I'm not walking out with ten grand unpaid and a trunk full of someone else's staging.
 
-"Grab a towel and wipe the slate behind the bench," I tell him. "Your upstairs inventory's uploaded, and your lockout just cleared. Now take me into your study: the server rack, the admin key, whatever you've got behind that partition."
+"Grab a towel and wipe the floor behind the bench," I tell him. "Your upstairs inventory's uploaded, and your lockout just cleared. Now take me into your study: the server rack, the admin key, whatever you've got behind that partition."
 
 He hesitates, glancing toward the north hall. "The study rack only mirrors the house array. The raw acoustic buffers are encrypted on the drive in your pocket."
 
 "You wrote the encryption," I say, rapping the wrench against my thigh. "Which means the passphrase is in your head. Move."
 
-He doesn't argue. He grabs a dish towel off the kitchen counter to swab the slate and shove the boots into the coat closet. I duck into the guest room for my dry sneakers and lace up fast. I check my duffel.
+He doesn't argue. He grabs a dish towel off the kitchen counter to swab the floor and shove the boots into the coat closet. I duck into the guest room for my dry sneakers and lace up fast. I check my duffel.
 
-The cash is still under my shirts, but the side-pouch zipper is flipped outward. I yank it open. My spare Civic key fob is gone. Somebody lifted it while my back was turned, which explains how my trunk popped without a mark on the paint. I cross the north hall.
+The cash is still under my shirts, but the side-pouch zipper is flipped outward. I yank it open. My spare Civic key fob is gone. Somebody lifted it while my back was turned, which explains how somebody got into my trunk without leaving a pry mark on the paint. I cross the north hall.
 
 Graham's study is right opposite my room. Unlike the glass rooms out front, it's narrow and closed in, lined with dark acoustic baffling and walnut bookshelves. A steel server rack hums in the corner behind a smoked-glass door, blue and amber LEDs glowing inside.
 
@@ -60,7 +60,7 @@ Graham double-clicks it. A dense, jagged waveform fills the screen as he twists 
 
 "That's the pantry corridor," I murmur. "The dumbwaiter hatch."
 
-Rubber soles squeak across wet slate, followed by a muffled grunt as someone drags heavy canvas past the sunroom arch and bumps the paneling.
+Rubber soles squeak across wet stone, followed by a muffled grunt as someone drags heavy canvas past the sunroom arch and bumps the paneling.
 
 *"Careful with the varnish,"* a woman's voice cuts through the rain hiss.
 
@@ -102,10 +102,10 @@ It's my voice.
 
 *"...didn't mean for the skiff to drift that far out,"* I'm sobbing through the speakers, breathless and panicked over the exact rain-on-glass hiss of this house. *"Graham said if I helped him move her out of the sunroom before high tide, he'd double the wire to twenty grand. I just—I needed the judgment cleared. I didn't know she wasn't breathing when we wrapped the rug..."*
 
-I stare at the pulsing waveform. It's uncanny, hearing myself beg like that: clean phrases from my conversations in this house, stitched over a room-tone bed without a single audible seam. My stomach drops. With whatever they planted in my Civic's trunk, a county prosecutor could hand down an indictment before dinner, and nobody on a jury would ever believe that voice wasn't mine. Not for a second.
+I stare at the pulsing waveform. It's uncanny, hearing myself beg like that: clean phrases from my conversations in this house, stitched over a room-tone bed without a single audible seam. With whatever they planted in my Civic's trunk, a county prosecutor could hand down an indictment before dinner, and nobody on a jury would ever believe that voice wasn't mine. Not for a second.
 
 "They didn't just plant the boots," I say, my mouth dry. "Whoever locked me in the cellar at two-thirty bought themselves three hours to render that file."
 
 On the left screen, the transmission log flashes green: the upload to the Knox County evidence drop just finished. Half a second later, a red banner drops across the network window locking down outbound internet access. Whoever holds admin access on Lydia's iPad just killed the router's upload path before our raw audio could leave the study.
 
-Out on the ridge road, muffled through the rain-lashed glass, a siren wails in the dark, two miles out and closing fast.
+Out on the ridge, the driveway gate motor grinds open. I yank the USB cord out of the tower and shove my phone into my pocket. "Tell me you have a back door that doesn't face the gravel."

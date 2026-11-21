@@ -3,9 +3,9 @@
 
 ## Chapter 1
 
-Tire chains bite into packed mountain ice and rattle up through the floorboards of my car on every switchback. The dash heater blasts dry air into my eyes. My toes are numb.
+Tire chains bite into packed mountain ice and rattle up through the floorboards of my car on every switchback. The dash heater blasts dry air into my eyes.
 
-Outside my salted windshield, the Northeast Kingdom of Vermont looks nothing like the Maine coast. Towering black spruce crowd both sides of the unplowed logging road, their boughs bent low under fresh snow that swallows headlights ten paces ahead.
+Outside my salted windshield, the Northeast Kingdom of Vermont looks nothing like the Maine coast. Towering black pines crowd both sides of the unplowed logging road, their boughs bent low under fresh snow that swallows headlights ten paces ahead.
 
 My duffel takes up the passenger seat, stuffed with forty-five thousand dollars' worth of new nondisclosure paperwork from Kiefer-Hall Fiduciary. In the cup holder, the skeleton key Margot Kiefer-Hall slid across the table at Becky's Diner this morning rests on top of a folded copy of my restored Maine private investigator bond.
 
@@ -35,7 +35,7 @@ Someone drove a truck up this mountain within the last hour. And judging by the 
 
 ***
 
-I kill the Civic's headlights, leave the car tucked in the dark spruce turnout outside the pillars, and slip through the narrow pedestrian gap beside the stone post with my duffel slung over one shoulder.
+I kill the Civic's headlights, leave the car tucked in the dark turnout outside the pillars, and slip through the narrow pedestrian gap beside the stone post with my duffel slung over one shoulder.
 
 Cold air hits my lungs like crushed glass, dry and thin. High above the treeline, a faint ribbon of gray smoke drifts across the ridge.
 
@@ -67,7 +67,7 @@ My pulse hammers against my collarbones. I cross the flagstones.
 
 I recognize the cream, red-ruled paper from the cropped fax printout taped to the back of Margot's photograph. Same faded header print. Same column lines for *Date*, *Guest*, and *Room*.
 
-Except when I look down at the open ledger under the gray overhead light, my stomach drops.
+When I look down at the open ledger under the gray overhead light, I stop dead.
 
 Someone sliced the top sheet clean out along the leather spine with a straight-edged blade, leaving a jagged fringe of cream paper still glued into the binding.
 
