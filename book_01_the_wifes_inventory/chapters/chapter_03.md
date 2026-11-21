@@ -114,4 +114,4 @@ Behind me, the glass door slides open on its track. Graham steps out onto the de
 
 "Doesn't look like she's wandering up here." I step back inside before he can read my face.
 
-Graham holds the glass door open, his hand lingering on the frame until I pass him. Neither of us mentions the boathouse or the torn county seal down at the bottom of the stairs. I take the clipboard he hands me, nod like a good contractor, and tell myself I'm just here to price armchairs until Friday.
+Graham holds the glass door open, his hand lingering on the frame until I pass him. Neither of us mentions the boathouse or the torn county seal down at the bottom of the stairs. I take the clipboard he hands me, nod once, and walk toward the sunroom.

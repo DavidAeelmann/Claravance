@@ -10,7 +10,7 @@ I take two steps back with my palms open at shoulder height. Lydia moves in and 
 
 "On your knees. Back to the piling, hands behind it."
 
-There's no cover on the open decking. If I lunge, she puts a bullet in me—and the only reason she hasn't pulled the trigger already is that a nine-millimeter slug ruins a staged drowning. I drop onto the wet boards beside the piling bolted to the corner of the bait table. Brine soaks straight through the knees of my jeans. Cold, immediate, miserable.
+There's no cover on the open decking. If I lunge, she shoots me—unless she still wants this to look like a drowning. I drop onto the wet boards beside the piling bolted to the corner of the bait table. Brine soaks straight through the knees of my jeans. Cold, immediate, miserable.
 
 Lydia steps behind me and presses the muzzle against the base of my skull while she drags my wrists together behind the timber. She threads the cable tie around both wrists, catches the ratchet, and pulls until the plastic bites into bone. I push against the loop with my thumbs. Zero give. The edge cuts so deep my fingers will go numb in minutes, and the damp wood smells faintly of old tar.
 
@@ -20,7 +20,7 @@ Her thumbs tap across the glass, brisk and steady. She doesn't even look winded.
 
 "What's on the tablet?" I ask.
 
-"Graham's apology," she says, eyes fixed on the screen. "He wouldn't touch a pen upstairs, so I'm routing a clean printout to his study printer before high water."
+"Graham's apology," she says, eyes fixed on the screen. "Cleaner to print it off his study laser than fight him for a signature. I'm just matching his phrasing before high water."
 
 My sneakers slip on wet moss. I shift my weight, and the back of my right hand grazes the underside of the bait-table rail bolted flush behind the piling. Something sharp pricks the heel of my hand.
 
@@ -50,17 +50,17 @@ He checks me once against the piling, then walks straight over to the bait table
 
 "Graham's cuffed to the sunroom radiator," Cole drawls, slow and flat, setting the Maglite down on the salt-stained boards with a heavy *clunk*. "Took a swing when I grabbed his phone, so I left a knot under his eye. You done typing that thing?"
 
-"He refused to sign the draft in the study," Lydia snaps, her thumbs still moving over the iPad glass. "I'm matching his phrasing so we can print it off his desk laser before we move him. Give me three minutes."
+"Almost," Lydia snaps, her thumbs still moving over the iPad glass. "If it doesn't sound like him, Boston counsel will tear it apart. Give me two minutes."
 
-Cole lets out a low, ugly grunt and leans one hip against the bait table. "We don't got three minutes, Lydie. Surge is already licking the culvert asphalt. High water takes the causeway by five-fifteen, and I ain't sitting out here till midnight waiting for the road to dry."
+Cole lets out a low, ugly grunt and leans one hip against the bait table. "We don't got two minutes, Lydie. Surge is already licking the culvert asphalt. High water takes the causeway by five-fifteen, and I ain't sitting out here till midnight waiting for the road to dry."
 
 "Then stop standing there dripping on my floor and go haul him down the cliff stairs while we still have light."
 
 A strand of nylon parts behind my wrists. I keep my chin tucked and work purely from the wrists, short blind strokes against the pitted blade while brine stings the raw skin along my left forearm. Keep arguing. Stay right over that blue light.
 
-Cole's voice drops slower, meaner. "You were supposed to stay put in St. Andrews. Stay across the border, let me run the trunk warrant on the cleaner, let the county chew Graham up for the trust money. Instead you hire a launch back over in a gale because you couldn't sit still forty-eight hours to watch him sink."
+Cole's voice drops slower, meaner. "You were supposed to stay across the border. Let me pop the cleaner's trunk, let the county chew Graham up for the trust money. Instead you hire a boat back over in a gale because you couldn't sit still two days to watch him sink."
 
-"You missed the basement backup when we moved the skiff, Cole." Lydia's tone goes sharp as wire. "Graham pulled the raw October fourteenth partition out of lockout at three-thirty. If I hadn't come back from New Brunswick to kill the router and wipe the probate folder from the ridge, our two-fourteen pantry audio would be sitting on a Portland server right now."
+"You missed his basement drives when we moved the skiff, Cole." Lydia's tone goes sharp as wire. "By the time I got back down here yesterday, his lockout burned through my guesses. If I hadn't stayed on the ridge to kill the router and wipe the probate folder the second he unlocked that backup, our pantry tape would already be sitting in Portland."
 
 "Yeah, well, your little cleaner already crawled into that cellar anyway, didn't she?" Cole's hand slaps the table right above the glowing mic. "Now I gotta drag a bruised-up widower down slick granite in sleet, dump him off the slipway, and hope the bay chews up the cuff marks before Coast Guard hooks him at dawn. You're carrying half his weight this time, Lydie. I ain't throwing my back out for your daddy's trust money."
 

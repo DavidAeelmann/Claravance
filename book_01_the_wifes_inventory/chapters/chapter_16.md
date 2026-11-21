@@ -78,7 +78,7 @@ I pull my phone, check that the flash is off, and crouch low to frame the bleach
 
 A boot heel scuffs against grit behind the hanging kayak.
 
-I freeze, the phone still held chest-high.
+I stop dead, the phone still held chest-high.
 
 Lydia Kiefer steps out from behind the yellow hull.
 

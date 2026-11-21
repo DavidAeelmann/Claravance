@@ -30,11 +30,9 @@ I press my back harder against the bottom shelf to stay clear of the slats. A ti
 
 At the tablet, Halstead taps six digits onto the dark glass with his left hand and unlocks the installer menu on the first try.
 
-Nobody guesses a six-digit installer code on a defense contractor's security hub.
-
 He scrolls quickly through the morning event log, his crooked front tooth catching the blue screen glow. He stops on the master-suite motion pings—my own tracks from half an hour ago.
 
-His head lifts toward the main staircase. Now he knows I didn't drive back into town.
+His head lifts toward the main staircase.
 
 He turns back to the screen and taps twice to wipe his keypad entry off the local log. At Harbor Mutual, I watched a warehouse manager in Lewiston scrub a single loading-dock zone the exact same way two nights before an electrical fire took out half a block. They always worked through the screen with that same calm, practiced precision, like they'd rehearsed the taps in their sleep.
 

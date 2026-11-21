@@ -62,7 +62,7 @@ I stare at the chalky smear on my glove. Too gritty for toothpaste, and no mint 
 
 I scrape a clean dab of the paste onto a square of foil from my pocket, twist it inside the finger of a spare glove, and knot it shut, pocketing it to tuck into my duffel's outer side pouch.
 
-My phone buzzes against my hip, and I crack my elbow on the drainpipe. I freeze under the sink as it gives one short chime, a push alert from the Kiefer Soundworks app. I back out from under the vanity and check the screen. A gray banner across the lock screen flags motion at the back pantry door.
+My phone buzzes against my hip, and I crack my elbow on the drainpipe. I go rigid under the sink as it gives one short chime, a push alert from the Kiefer Soundworks app. I back out from under the vanity and check the screen. A gray banner across the lock screen flags motion at the back pantry door.
 
 Graham is in Portland. I'm supposed to be alone on this peninsula for hours yet. I tap the banner and pull up the live guest feed.
 
@@ -72,11 +72,7 @@ Deputy Cole Halstead.
 
 He's wearing a dark navy patrol windbreaker instead of his county slicker, collar flipped up against the drizzle. No cruiser headlights show in the turnaround. He must have left the rig down the gravel lane or hiked up from the cove trail to stay clear of the driveway gate where Graham's app would log a vehicle.
 
-I watch him check his wristwatch, glance over his shoulder at the empty deck stairs, and lift his left hand to the lit keypad. He doesn't even pause. He punches six digits into the buttons. A green LED flashes on the housing, and the door swings inward smoothly when he leans into the handle.
-
-A rotating code Graham swore changed every forty-eight hours. A deputy he claimed never stepped inside.
-
-Halstead steps inside and pulls the glass door shut behind him. The video feed stutters, then drops to a gray error box.
+I watch him check his wristwatch, glance over his shoulder at the empty deck stairs, and lift his left hand to the lit keypad. He doesn't even pause. He punches six digits into the buttons. A green LED flashes on the housing, and the door swings inward smoothly when he leans into the handle. Halstead steps inside and pulls the glass door shut behind him. The video feed stutters, then drops to a gray error box.
 
 I snug the slip-nut back up, swipe the floor dry with the paper towel, and strip the gloves off on my way into the upper hall. If I stay up here, I'm trapped at the top of a single staircase—or worse, he walks back out before I find out what he came for.
 

@@ -36,7 +36,7 @@ Cole is back.
 
 "Road's empty," his coastal drawl carries down through the joists, winded from the hike up the spur. "Wedged the rig sideways across the culvert, and her little Civic's still sitting out front with the trunk popped. She ain't off this point, Lydie."
 
-I freeze on the ladder and lock one trembling knee over an iron bar to take weight off my wrist. Cold water drips off my hem into the dark below, each *plink* against the cellar floor sounding louder than it has any right to.
+I go still on the ladder and lock one trembling knee over an iron bar to take weight off my wrist. Cold water drips off my hem into the dark below, each *plink* against the cellar floor sounding louder than it has any right to.
 
 "Finish the driveway check," Lydia says from the kitchen, her heels tapping across tile. The brisk, dry click of them makes me irrationally furious while I'm hanging in a spider-webbed chute like a drowned rat. "If she crawled back up those cliff stairs, she's going after the basement server."
 

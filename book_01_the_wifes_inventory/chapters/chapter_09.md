@@ -90,4 +90,4 @@ I'm turning back toward the upper stairs when white light cuts across the boatho
 
 *Stay tucked out of sight down the cove until dusk,* Cole told his burner caller. The padlock still hangs on the doors, yet someone is moving around inside.
 
-Tires spit gravel up on the ridge as the gate groans open. Graham is pulling into the turnaround, which means whoever is swinging a flashlight inside that locked boathouse isn't him. I don't have time to work out who it is. I just turn and climb the rest of the wet steps toward the mudroom, teeth already starting to chatter, wondering how I'm supposed to walk into his living room looking like I spent the afternoon folding sweaters.
+Tires spit gravel up on the ridge as the gate groans open. Graham is pulling into the turnaround, which means whoever is swinging a flashlight inside that locked boathouse isn't him. I turn and climb the rest of the wet steps toward the mudroom, teeth already starting to chatter before I reach the deck.

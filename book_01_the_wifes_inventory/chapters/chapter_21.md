@@ -10,7 +10,7 @@ Graham leans hard against the wall, one hand pressed to his swollen cheek, his c
 
 "We're not running for the doors," I whisper. "You wired an acoustic house, Graham. Time to use it."
 
-I drop into the chair, wake the console, and pull up the *Kiefer Soundworks* zone router. Both the WAN link and the cellular bridge are still locked dead from Lydia's iPad override—nothing leaves this house over the air tonight. Then I spot it: one green status line at the bottom of the screen confirming the boathouse mic puck mirrored onto the Zone 4 backup drives twenty minutes ago.
+I drop into the chair, wake the console, and pull up the *Kiefer Soundworks* zone router. The WAN link is still locked dead from Lydia's iPad override, and the cellar's cellular bridge sits dark where Graham pulled Zone 4 off the network weeks ago. Nothing leaves this house over the air tonight. Then I spot it: one green status line at the bottom of the screen confirming the boathouse mic puck mirrored onto the Zone 4 backup drives twenty minutes ago.
 
 The interface is typical Graham: three nested menus deep just to route a single audio channel, like he designed it to impress an architect instead of someone trying to keep from getting shot. My thumb slips once on the trackpad before I mute every upstairs speaker, route the raw pantry recording straight to the basement Zone 4 array, and push the volume to the stops. If Cole hears Lydia's voice blasting out of the cellar, he won't go door to door upstairs. He'll charge the concrete steps to kill it.
 
@@ -76,7 +76,7 @@ Lydia doesn't turn to fight on the stairs. She scrambles upward ahead of me in t
 
 I scramble up the steps behind her. My sneakers skid on the top landing before I shoulder the stairwell door open into the hall.
 
-Graham is already stepping out of the north corridor, squinting into the dark. Ahead of me, Lydia sprints into the front entry, grabs the coat bench, and drags it scraping across the floor right under the low skylight hatch.
+Graham is already stepping out of the north corridor, squinting into the dark. Ahead of me, Lydia hits the front door and yanks the handle—solid against the double-keyed deadbolt Cole threw earlier, his keys still down in the basement with him. She spins, grabs the coat bench, and drags it scraping across the floor right under the low skylight hatch.
 
 "Stop her!" I yell. I lunge across the stone. Graham moves to cut her off, his empty hands coming up short when she whips her bleeding arm toward his face. He recoils a half-step, and that half-step is all she needs.
 

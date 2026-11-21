@@ -18,7 +18,7 @@ I poke blindly into the keyhole, trying to feel the catch. My fingers slip and j
 
 *Click.* Cole had been in too much of a hurry to double-lock them. The jaw pops open.
 
-Graham yanks his arm free and rubs the red groove around his wrist as he scrambles to his feet on the wool rug. His knees hit the radiator valve, clanging iron against iron, and both of us freeze for half a second, waiting. I grab the knife. Somewhere beneath the floorboards, Cole's voice booms muffled through concrete. He's found the shattered counterweight beside the ladder, and the fury carries even through masonry.
+Graham yanks his arm free and rubs the red groove around his wrist as he scrambles to his feet on the wool rug. His knees hit the radiator valve, clanging iron against iron, and we both stay pinned against the radiator, listening. I grab the knife. Somewhere beneath the floorboards, Cole's voice booms muffled through concrete. He's found the shattered counterweight beside the ladder, and the fury carries even through masonry.
 
 "The back deck," Graham says. He nods toward the sunroom slider. "Unlock the glass and we can take the cliff path down to Maren's—"
 

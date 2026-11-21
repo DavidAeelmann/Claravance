@@ -56,7 +56,7 @@ I point to the fifth line down, the master file anchored on the indoor pantry fe
 
 "Play that one. All the way up."
 
-Graham double-clicks it. A dense, jagged waveform fills the screen as he twists the volume knob on the audio interface beside his elbow. Static fills the study: rain hammering coastal glass, cedar rafters groaning in the wind. Then a sharp metallic *click* cuts through, followed by the dull thud of a heavy latch sliding home.
+Graham double-clicks it. A dense, jagged waveform fills the screen as he twists the volume knob on the audio interface beside his elbow. Static fills the study: rain hammering coastal glass, cedar rafters groaning in the wind. Then a sharp *click* cuts through, followed by the dull thud of a heavy latch sliding home.
 
 "That's the pantry corridor," I murmur. "The dumbwaiter hatch."
 

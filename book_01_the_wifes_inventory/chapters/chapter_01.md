@@ -116,7 +116,7 @@ I stop, the jacket still wadded in my hand.
 
 Nineteen days since Lydia Kiefer took a skiff past the breakwater during an October squall and didn't come back. The Coast Guard called off the search days later. Her attorneys file for probate Friday.
 
-A man who squares envelopes to table grain doesn't cram a packed weekender behind his coats. My hand is already on the leather grip.
+Shoved all the way to the back, out of sight. My hand is already on the leather grip.
 
 A tiny tarnished padlock hangs through the zipper eye, unlocked, its metal loop pushed through loose and left unlatched. An elastic cord loops a stiff paper luggage tag onto the leather handle, blue ink printed along its perforated edge, the kind ferries use for deck baggage.
 
