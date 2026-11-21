@@ -1,14 +1,14 @@
 # Chapter 16
 
-"Take your car." Graham shoves back from the desk, his chair banging into the shelves as he points toward the front hall. "Use the gravel spur before he makes the drive. If Halstead walks in with that audio queued—"
+"Take your car." Graham shoves back from the desk, his chair banging into the shelves as he points toward the front hall. "Use the gravel spur before he makes the drive. If Halstead catches us both inside with your trunk rigged—"
 
 Outside, the gate motor clicks off behind him, and a pair of amber parking lights glides around the ridge bend through the trees. Two minutes out, tops.
 
-"I won't make it past the causeway in the Civic." My eyes stay locked on the phone screen as the USB transfer from the tower hits ninety-six percent and pulls the raw pantry recording onto my phone. "There's a bleach-stained rag in my spare-tire well, and Knox County already has a spliced confession in my voice. The minute I hit Route 1, Cole puts out a bulletin and drags me out of my seat."
+"I won't make it past the causeway in the Civic." My eyes stay locked on the phone screen as the USB transfer from the tower hits ninety-six percent and pulls the raw pantry recording onto my phone. "There's a bleach-stained rag and a dock cleat in my spare-tire well, and Cole Halstead's cruiser is already inside the gate. The minute I hit Route 1, he pulls me out of my seat and pops my trunk."
 
-The phone chimes—transfer complete. I unplug the USB cord, yank the thumb drive from the tower, and open my encrypted cloud queue. The router override has killed the house Wi-Fi. Only one weak bar of signal flickers in the corner. I bundle the audio file with the life-vest tag photos and the Bramwell & Shaw default letter, address the packet to Samira Patel in Portland, type four words—*Salt Point setup. Call MSP.*—and hit *Send*.
+The phone chimes. Transfer complete. I unplug the USB cord, yank the thumb drive from the tower, and open my encrypted cloud queue. The router override has killed the house Wi-Fi. Only one weak bar of signal flickers in the corner. I bundle the audio file with the life-vest tag photos and the Bramwell & Shaw default letter, address the packet to Samira Patel in Portland, type four words: *Salt Point setup. Call MSP.* I hit *Send*.
 
-The wheel spins. Six percent. Twelve. Wind slams the north siding, the signal bar drops to zero, and a red timeout banner snaps across the glass. I step toward the side window, holding the phone high against the cold pane like an idiot trying to catch radio waves in a tin can, and try plain SMS twice. Nothing leaves the screen. Outside, gravel crunches under heavy tires as the cruiser clears the final bend, its engine idling low off the granite wall behind the garage. Waiting here another thirty seconds for a stray bar of service means handing Cole the phone myself.
+The wheel spins. Six percent. Twelve. Wind slams the north siding, the signal bar drops to zero, and a red timeout banner snaps across the glass. I step toward the side window, holding the phone high against the cold pane like an idiot trying to catch radio waves in a tin can, and try plain SMS twice. Nothing leaves the screen. Outside, tires grind over wet stone as the cruiser clears the final bend, its engine idling low off the granite wall behind the garage. Waiting here another thirty seconds for a stray bar of service means handing Cole the phone myself.
 
 Graham is standing behind me, rubbing his palms together hard enough to chafe. His hair sticks up on one side where he dragged his hand through it, and for one ridiculous second I want to tell him to fix it before he answers the door. He opens his mouth, closes it, then reaches toward the coat rack by the hall like he's thinking of coming with me, or running out the back, or doing anything except what needs doing.
 
@@ -30,13 +30,13 @@ Graham catches my sleeve before I reach the doorway, his fingers clammy through 
 
 "Tessa—"
 
-"One WAV file from your basement won't beat a spliced confession. I need photos from the boathouse."
+"One audio file off an acoustic engineer's server won't beat a deputy's warrant. I need photos of the bleach and the oars in the boathouse."
 
 I'm already moving down the north hall. Passing the kitchen arch, I see the manila envelope still lying on the island. Good. Let Cole waste time chasing paper inside. I angle into the sunroom and step across the crooked rug.
 
-Graham grabs the doorframe, his face gray in the storm light. "Don't go down there alone, Tessa. If Lydia's iPad just synced on local mesh, whoever is using it is still on this property."
+Graham grabs the doorframe, his face gray in the storm light. "Don't go down there alone, Tessa. If Lydia's iPad just logged onto the house Wi-Fi, whoever's using it is still on this property."
 
-I know that. My pulse is hammering in my throat, and I'm still wearing a thin flannel shirt with no coat, which was a brilliant choice, really, given the sleet rattling the glass.
+I know that. I'm scared, and I'm still wearing a thin flannel shirt with no coat, which was a brilliant choice, really, given the sleet rattling the glass.
 
 I haul the sunroom slider back on its track. Freezing salt wind gusts across the floorboards, stinging my face with spray.
 
@@ -52,15 +52,15 @@ I keep one hand against the wet granite down the lower switchback. Below me, dar
 
 Under the cliff overhang the wind eases slightly, though surf still booms beneath the decking. Off to my left through drifting fog, Maren Lindqvist's sorting shed stands shuttered above the tide line, her aluminum skiff hauled high onto the gravel apron and chained to an iron ring. Her window is dark. The tin stovepipe is cold, and if she's even on the point tonight, she's tucked inside with the storm shutters bolted, well out of earshot of anything happening down by the water.
 
-Ahead of me, the Kiefer boathouse squats on its pilings, its cedar shingles weathered nearly black. A brass padlock secures the double plank doors, and the faded county paper seal has been sliced clean along the edge.
+Ahead of me, the Kiefer boathouse stands low on its pilings, its cedar shingles weathered nearly black. A brass padlock secures the double plank doors, and the faded county paper seal has been sliced clean along the edge.
 
-I step off the bottom stair onto oyster shells and duck under the north eaves. High up on the ridge, a heavy car door thuds shut in the rain, followed by the crunch of boots on wet gravel in the turnaround.
+I step off the bottom stair onto oyster shells and duck under the north eaves. High up on the ridge, a heavy car door thuds shut in the rain, followed by heavy boots crossing the wet gravel turnaround.
 
 Cole is at the house. I picture Graham fumbling with the door chain, his voice pitching too high, giving everything away in the first ten seconds. Stop thinking about him. Just move.
 
 I hug the damp shingles along the side wall until I reach the narrow side window facing the ledges. Graham swore the boathouse had stayed locked since the Coast Guard finished searching. When I run my fingers along the weathered sill, though, the gray paint along the bottom seam isn't swollen shut with salt crust. Someone ran a sharp blade down the joint.
 
-I wedge my multi-tool under the warped sash and lever hard. The metal slips once on the slick wood, barking my knuckles against the rough shingles, before I reset the tip and throw my weight into it. Wet wood groans and gives half an inch. Cold rain drips off my hair onto my wrist as I slip the blade through the gap and lift the interior hook clear of its eye-screw with a light metallic *ting*.
+I wedge my multi-tool under the warped sash and lever hard. The metal slips once on the slick wood, barking my knuckles against the rough shingles, before I reset the tip and throw my weight into it. Wet wood groans and gives half an inch. Cold rain drips off my hair onto my wrist as I slip the blade through the gap and lift the interior hook clear of its eye-screw.
 
 I flatten against the shingles and listen. Rain ticks on the cedar roof; underneath the floorboards, harbor water slaps hollow against pilings. Nothing else moves. I swing the window wide and drop inside.
 
@@ -72,13 +72,13 @@ Suspended low from the rafters on rope slings at shoulder height, a yellow fiber
 
 I crouch beside the bench and let my eyes adjust, waiting for the shapes in the gloom to separate from the shadows. Cole's already at the front porch. Three minutes, maybe less, before he stops playing along with Graham and walks around to the back deck.
 
-I ease upright and move along the workbench, my fingers brushing past a tin can of rusted nails and a tangle of braided nylon line. Two plastic gallon jugs are tucked beneath a folded blue tarp on the lower shelf, one unlabeled and the other carrying a faded industrial bleach warning. A pair of cedar oars rests beside them, fresh pale scratches cutting through the varnish on the blades—a match for the wet rag squeaking along varnished wood on the 2:14 AM recording.
+I ease upright and move along the workbench, my fingers brushing past a tin can of rusted nails and a tangle of braided nylon line. Two plastic gallon jugs are tucked beneath a folded blue tarp on the lower shelf, one unlabeled and the other carrying a faded industrial bleach warning. Beside the bleach jugs lean two cedar oars, pale raw wood showing where something scraped through the fresh varnish on the blades.
 
 I pull my phone, check that the flash is off, and crouch low to frame the bleach jugs and scratched oar blades together in one shot. The first preview blurs on the glass, so I brace my elbows and tap the shutter again. The screen throws a pale rectangle across the damp planks at my feet.
 
 A boot heel scuffs against grit behind the hanging kayak.
 
-I stop breathing, the phone still held chest-high.
+I freeze, the phone still held chest-high.
 
 Lydia Kiefer steps out from behind the yellow hull.
 

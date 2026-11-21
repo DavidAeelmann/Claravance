@@ -32,7 +32,7 @@ Across the north hall, the study door shuts softly. Footsteps cross the wood ins
 
 I tug off my wet boots, dig dry wool socks out of my bag, and slip the house key into my jeans pocket. Slightly stupid and wide awake, I ease the privacy bolt back. A gray wool runner covers the north hall and swallows my footsteps. Light leaks from under Graham's study door directly across from mine, along with the clack of a mechanical keyboard. Every few seconds the typing stops for the dry rustle of paper, then picks back up.
 
-I hug the drywall where the floorboards stay quiet, slip past his door to the main staircase, and take the steps slowly toward the upper landing. Halfway up, a stair tread groans under my heel. I stop mid-step, holding my breath until the keyboard starts again below, then finish the climb on the outside edge of the treads.
+I hug the drywall where the floorboards stay quiet, slip past his door to the main staircase, and take the steps slowly toward the upper landing. Halfway up, a stair tread groans under my heel. I freeze mid-step and wait until the keyboard starts again below, then finish the climb on the outside edge of the treads.
 
 At the far end of the upstairs hall, the left leaf of the studio's double doors is pinned shut and the active door stands cracked open.
 
@@ -40,7 +40,7 @@ The air inside Lydia's studio is cold, sharp with the bite of paint thinner. Pal
 
 I ease the door nearly shut behind me, leaving a narrow gap so I'll hear if Graham's keyboard quits downstairs. The wall beside the jamb is bare—no overhead switch. I pull out my phone, drop the screen brightness to the bottom, and use the dim blue glow to get my bearings.
 
-On the worktable, a dozen sable brushes stand bristles-up in a glass jar, their metal bands catching the pale light. Not a crust of dried paint on any of them. Next to the jar, the ceramic palette has been scoured so hard the glaze looks cloudy. Nobody stops to bleach their brushes and scrub a palette raw before walking out into an October squall.
+A dozen sable brushes stand bristles-up in a mason jar on the worktable, metal ferrules shining, not a speck of pigment on the hair. Beside them, the ceramic palette is scoured down to cloudy glaze.
 
 I crouch by the flat-files along the north wall and ease the top drawer out an inch, wincing at the dry drag of wood on wood. Watercolor sheets lie stacked inside, each labeled in neat ink: *Rosa rugosa — Salt Point, Aug 2026.* *Laminaria — Cove Breakwater, Sept 2026.* Every date stops in September, every label slanting up to the right. Under a sheet of waxed tissue paper, I find a folded marine chart of Penobscot Bay with penciled tick marks tracing low-water depths and boulder shoals along the Salt Point breakwater. Normal enough for someone who ran a skiff, except the folds are razor-sharp and barely handled, the paper stiff and dry straight off a laser printer.
 
@@ -48,7 +48,7 @@ I push the drawer shut and remember a throwaway line from the broker's intake sh
 
 It doesn't budge.
 
-I tilt my phone light down into the track. Fresh white semi-gloss paint bridges the seam between sash and frame, cured solid without a single pry mark. I wipe my damp palms on my jeans and turn back to the desk. A green blotter covers the middle of the desktop, where a tarnished iron paperweight holds down a closed sketchbook. An uncapped silver Montblanc fountain pen rests beside the book, its black barrel catching the screen light next to a cream stationery pad with a handwritten departure checklist on top. An uncapped fountain pen dries into a gummy crust within days.
+I tilt my phone light down into the track. Fresh white semi-gloss paint bridges the seam between sash and frame, cured solid without a single pry mark. I wipe my damp palms on my jeans and turn back to the desk. A green blotter covers the middle of the desktop, where a tarnished iron paperweight holds down a closed sketchbook. An uncapped silver Montblanc fountain pen rests beside the book, dried black ink crusted on the nib, next to a cream stationery pad with a handwritten departure checklist on top.
 
 I keep my fingers off the barrel. Old Harbor Mutual reflex—touch a scene before you shoot it, and defense counsel eats you alive over smeared prints. I kill the flash, brace my elbows against my ribs, and snap two tight shots of the desk layout: the sketchbook, the paperweight, the angle of the pen, the ink lines on the pad. If Graham walks in tomorrow and claims something moved, I want proof of how it sat tonight.
 
@@ -56,14 +56,12 @@ Then I lift the paperweight by a fraction and flip the sketchbook open by its bo
 
 I ease the cover shut and set the paperweight back on the corner a hair off its original angle without thinking. Maybe Graham wouldn't notice a millimeter shift, or maybe he'd spot it the second he stepped through the door; either way, I'm too tired to line it back up against the photo on my phone. I lean over the stationery pad instead, careful not to brush the pen beside it.
 
-Four quick items in dark dry ink: *skiff mooring line, studio shutters, cellar latch, harbor tide*. Down the left margin, a smear drags through every first letter.
-
-Every botanical label in the flat-file slanted cleanly to the right. Not a smudge anywhere. I stare at the smeared left margin on the pad, then flip the sketchbook shut.
+Four quick items in dark dry ink: *skiff mooring line, sunroom latches, cellar latch, harbor tide*. Down the left margin, smeared ink drags through every first letter. I angle my phone light across the ink once more, memorizing the backward hook on each stroke.
 
 Downstairs, the keyboard stops.
 
 For two seconds the house goes dead silent, save for the wind rattling the sash outside. Then a chair scrapes back across wood.
 
-I shove my phone into my pocket and back away toward the flat-files, my heart climbing straight into my throat. A stair tread creaks up from the landing—the same board I stepped on five minutes ago. Slow weight shifts across the upstairs runner, then stops right outside the cracked studio door.
+I shove my phone into my pocket and back away toward the flat-files. Panic hits me. A stair tread creaks up from the landing—the same board I stepped on five minutes ago. Slow weight shifts across the upstairs runner, then stops right outside the cracked studio door.
 
 Out in the hall, the doorknob turns. I step fast toward the flat-files and reach for the desk lamp in the dark.

@@ -14,7 +14,7 @@ I fumble the brass house key out of my pocket and drop it on the stone sill befo
 
 I stop beside the coat closet and listen. Down the north hall, my guest room door stands half-open. The house feels hollow around me, just wind rattling the tall living room windows and the hum of cooling fans drifting from the study.
 
-I tuck the oyster knife into my waistband and cross toward the kitchen arch. The manila envelope from the basement lies on the island, its `OCT 14 — MASTER BACKUP` stamp pale in the dim light. I leave it there. Lydia's live boathouse confession is sitting on the cellar server, and that's what I came back for.
+I tuck the oyster knife into my waistband and cross toward the kitchen arch. The manila envelope from the basement lies on the island, its `OCT 14 — MASTER BACKUP` stamp pale in the dim light. I leave it there. Lydia and Cole's live boathouse recording is sitting on the cellar server, and that's what I came back for.
 
 Halfway across the tile, a cabinet door clicks shut down the hall. Through the archway gap, I catch Lydia stepping out of Graham's study. She moves with a cool, proprietary calm, slipping a small portable backup drive into her parka pocket as if she already owns every room in the house. For one second she pauses under the hall sconce, glancing down at the dark screen of her phone, her thumb hovering over it. Then she lifts her chin and starts toward the kitchen.
 
@@ -34,27 +34,27 @@ Heavy boots hit the front entry overhead, followed by the jingle of a key ring a
 
 Cole is back.
 
-"Nothing on the ridge road," his coastal drawl carries down through the joists, winded from the hike back up the spur. "Left the cruiser wedged across the causeway neck, and the Civic's still out front with the trunk sitting off the latch. She didn't get off the point, Lydie."
+"Road's empty," his coastal drawl carries down through the joists, winded from the hike up the spur. "Wedged the rig sideways across the culvert, and her little Civic's still sitting out front with the trunk popped. She ain't off this point, Lydie."
 
 I freeze on the ladder and lock one trembling knee over an iron bar to take weight off my wrist. Cold water drips off my hem into the dark below, each *plink* against the cellar floor sounding louder than it has any right to.
 
 "Finish the driveway check," Lydia says from the kitchen, her heels tapping across tile. The brisk, dry click of them makes me irrationally furious while I'm hanging in a spider-webbed chute like a drowned rat. "If she crawled back up those cliff stairs, she's going after the basement server."
 
-Cole's boots thud toward the island. "Wrist is bleeding straight through the cruiser gauze," he growls. A drawer slides open, then shuts with a sharp slap. "Don't drip on the counter," Lydia snaps. "And next time try keeping your footing before you knock my gun into the cove."
+Cole's boots drag toward the island. "Damn wrist's soaking right through the cruiser gauze," he grunts. A drawer slides open, then shuts with a sharp slap. "Don't drip on the stone," Lydia snaps. "And next time try keeping your boots under you before you knock my gun into the cove."
 
-"You're the one who told me she was tied up," Cole shoots back, his voice dropping ugly and tight. "High water's twenty minutes off the causeway. We don't have time to babysit a server rack if the road floods out."
+"You're the one said you had her cinched to a piling," Cole mutters, slow and mean. "High water's twenty minutes off the culvert. I ain't standing around babysitting some basement box while the road goes under."
 
 "We leave that drive intact and we don't leave at all. Grab Graham's key ring off the study desk, get down to the cellar, and smash the thing if she's not already in there."
 
-Water keeps dripping off my jeans into the concrete well. If Cole heads down the cellar steps, he'll spot the open fire door or fresh wet tracks on the rubber mats under his flashlight. And I can't outrun a duty pistol inside a concrete box, any more than I can climb back into the kitchen while both of them stand right outside the pantry. I keep my left elbow hooked around the rung, wedge my knees against the opposite studs for leverage, and reach sideways with my scraped right hand. The cast-iron pulley is bolted to the upper header right above my shoulder. Its rope runs into the side channel, where a pig-iron counterweight hangs suspended over the cellar sill. With the old wooden cab stripped out decades ago, the only thing holding the pulley wheel rigid against that suspended weight is a steel locking pin jammed through the stop bracket.
+Water keeps dripping off my jeans into the concrete well. If Cole heads down the cellar steps, he'll spot the open fire door or fresh wet tracks on the rubber mats under his flashlight. And I can't outrun a duty pistol inside a concrete box, any more than I can climb back into the kitchen while both of them stand right outside the pantry. I keep my left elbow hooked around the rung, wedge my knees against the opposite studs for leverage, and reach up with my scraped right hand for the steel locking pin holding the counterweight pulley above my shoulder.
 
 Overhead, the basement door under the main stairs creaks open. Heavy boots stop on the top concrete tread.
 
-"Graham's still cuffed to the radiator?" Cole calls from the stairwell.
+"Graham still on the radiator?" Cole calls from the stairwell.
 
 "I checked the cuffs myself," Lydia answers from the hall. "Get down there and check the server rack. If that boathouse mic was live, smash the drives."
 
-I jam my shoulders harder into the rear studs so my weight hangs off my back and left forearm, hook my stiff right thumb knuckle into the pin's ring, and drop my weight onto the pull.
+I jam my shoulders harder into the rear studs so my weight hangs off my back and left forearm, hook my stiff right thumb into the pin's ring, and drop my weight onto the pull.
 
 Salt rust holds for half a second. Torn skin on my palm flares hot, and for one sick second I'm sure the thing is seized for good. Then the pin pops free from the bracket.
 

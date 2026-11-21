@@ -92,7 +92,7 @@ His expression shutters. "She took the fiberglass skiff out around ten-thirty to
 
 ***
 
-The back glass sliders open onto a weathered deck wrapping the seaward side of the house, the planks slick from the overnight fog. Directly below the rail, steep granite steps with no handrail zig-zag down the bluff to the dark timber boathouse squatting over the pilings. Green algae coats the lower risers where high water reaches in winter storms; I wouldn't try those stairs in dry weather, let alone after fog.
+The back glass sliders open onto a weathered deck wrapping the seaward side of the house, the planks slick from the overnight fog. Directly below the rail, steep granite steps with no handrail zig-zag down the bluff to the dark timber boathouse perched over the pilings. Green algae coats the lower risers where high water reaches in winter storms; I wouldn't try those stairs in dry weather, let alone after fog.
 
 I tell Graham I want to check the light on the sunroom windows before pulling the inventory sheets, then step out onto the deck. Behind the glass, he's already wiping the spotless counter where my cup sat.
 

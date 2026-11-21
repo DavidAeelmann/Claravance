@@ -2,7 +2,7 @@
 
 "You look chilled to the bone," Graham says, nodding toward the sofa on his way to the credenza. "The radiator in the guest wing never keeps up in a southeast wind. Have a drink before you turn in."
 
-He's traded his suit for a dark olive sweater, though he still looks wrung out from the drive. A birch fire snaps behind the screen, pushing dry heat against the cold off the seaward glass. Outside, Salt Point Cove is solid black, not a single dock light burning along the point. Twenty minutes ago I barely beat his garage bay through the mudroom side door, palming the B-4 key inside my jacket pocket so it wouldn't clink against the hook, and sprinted upstairs to kneel outside the master closet with a strip of packing tape across my knuckles before he crossed the hall.
+He's traded his suit for a dark olive sweater, though he still looks wrung out from the drive. A birch fire snaps behind the screen, pushing dry heat against the cold off the seaward glass. Outside, Salt Point Cove is solid black, not a single dock light burning along the point. Twenty minutes ago I barely beat his garage bay through the mudroom side door, palming the B-4 key inside my jacket pocket so it wouldn't clink against the hook, and sprinted upstairs to kneel outside the master closet with a strip of packing tape stuck across my fingers before he crossed the hall.
 
 "Water's fine, Graham."
 
@@ -34,9 +34,9 @@ He heads toward the kitchen with the phone already against his ear. I'm alone wi
 
 If there's crushed zolpidem in that bourbon, he can drink his own pour.
 
-Ice clatters into a metal bucket in the kitchen, followed by Graham's voice dropping sharp and low near the pantry corridor. He's pacing as he argues with Boston about a bridge extension and an escrow holdback—two minutes, maybe three, before he hangs up. I slip off the sofa and cross silently to the door of his north-hall study.
+Ice clatters into a metal bucket in the kitchen, followed by Graham's voice dropping sharp and low near the pantry corridor. He's pacing as he argues with Boston about a bridge extension and an escrow holdback. Two minutes, maybe three, before he hangs up. I slip off the sofa and cross silently to the door of his north-hall study.
 
-Cold rises off the hearthstone. Only a pale wedge of hall light falls across the wide desk blotter. Yesterday morning the desk looked bare as a showroom. Tonight, a leather portfolio rests crooked beside the inkwell, and a shredder tucked under the return hums with a red **JAM** light, strips of cream bond paper wedged in its teeth. A half-torn wire-transfer receipt pokes out of the wastebasket underneath, smudged with toner.
+Cold rises off the hearthstone. A narrow strip of light from the hall falls across the wide desk blotter. Yesterday morning the desk looked bare as a showroom. Tonight, a leather portfolio rests crooked beside the inkwell, and a shredder tucked under the return hums with a red **JAM** light, strips of cream bond paper wedged in its teeth. A half-torn wire-transfer receipt pokes out of the wastebasket underneath, smudged with toner.
 
 I verify my phone's flash and shutter sound are off. Then I flip the portfolio open.
 
@@ -46,15 +46,13 @@ I angle the first page into the hall light and scan fast.
 
 *Notice of Default & Acceleration: Kiefer Soundworks LLC.*
 
-Under *The Lydia Kiefer Irrevocable Trust*, Graham holds shared signing rights over a $5,400,000 trust account. On October fifteenth, Bramwell & Shaw issued a formal default demand over $2,400,000 in unauthorized draws pulled against trust-backed collateral over fourteen months, which leaves $3,000,000 in the trust. The letter gives him a thirty-day window to pay it back, expiring November fourteenth (ten days left), before the trustees pursue recovery and refer the accounting to the Suffolk County DA.
+On October fifteenth, Bramwell & Shaw issued a formal default demand against *The Lydia Kiefer Irrevocable Trust*: $2,400,000 in unauthorized draws pulled over fourteen months against trust-backed collateral, leaving $3,000,000 on the balance. Graham has thirty days to cure, expiring November fourteenth, ten days from now, before the trustees pursue recovery and refer the file to the Suffolk County DA.
 
-A special forfeiture rule is highlighted in yellow near the bottom: if Graham is formally charged with murder or a major felony, his signing rights strip immediately and the grace period vanishes. Clipped to the back page, a Cayman rollover schedule specifies that upon forfeiture, the remaining $3,000,000 automatically transfers out of Boston probate into an offshore Cayman trust established by her father's trustee for Lydia's sole line.
+Clipped behind it sits the felony forfeiture clause he mentioned over soup, highlighted in yellow, along with a Cayman rollover schedule: if he's charged with murder or a major felony, the remaining $3,000,000 automatically sweeps out of Boston probate into an offshore Cayman trust for Lydia's sole line.
 
 Under the signature block, Graham has penciled three bridge-loan dates in neat block script, every one crossed out, followed by a fresh margin note: *Arlington buyout closes Friday if inventory seals.*
 
-If the Arlington buyout closes before an audit locks his accounts, Graham plugs the hole in time, whereas a murder charge wipes him out overnight.
-
-I shoot four quick photos of the demand letter and rollover page to catch the trust account number, the $3,000,000 balance, and the October fifteenth service stamp, then slide the pages back into the flap along their exact crease.
+I shoot four quick photos of the demand letter and rollover schedule to catch the account number, balance, and October fifteenth service stamp, then slide the pages back into the flap along their exact crease.
 
 Shoes scrape across the kitchen floor. Ice clinks against metal, and the pantry switch clicks off. I slip back into the living room and drop onto the sofa seconds before Graham walks in with tongs and an ice bucket.
 
@@ -80,11 +78,11 @@ Someone had prepared his usual glass while he was away, and out of host habit, h
 
 He looks back at the fire. "Good. Get some sleep. Tomorrow's going to be a long haul before the courier gets here."
 
-I leave the clean bourbon two-thirds full on the coaster, say goodnight, and walk down the north hall to the guest suite. Once the privacy bolt is turned and the desk chair is wedged under the knob, I lean back against the door and exhale. My ribs have been braced since the study. Across the main hall, the hearth screen clanks shut as Graham banks the fire, and the radiator under my window ticks sharply as steam hits the pipes.
+I leave the clean bourbon two-thirds full on the coaster, say goodnight, and walk down the north hall to the guest suite. Once the privacy bolt is turned and the desk chair is wedged under the knob, I lean back against the door and exhale. My ribs have been braced since the study. Across the main hall, the hearth screen clanks shut as Graham banks the fire, and steam hisses softly through the pipes under my window.
 
 Behind the radiator, my brown store bag hasn't moved. I pull out my laptop and upload the four demand-letter photos to my off-site vault in Portland.
 
-Before the upload bar finishes, my phone buzzes against my leg. The Kiefer Soundworks guest link expired at five. This is an encrypted text from Samira Patel, followed two seconds later by a second message: *I'm in bed with a migraine, Tess. Don't call me after eight unless someone's actually on fire.*
+Before the upload bar finishes, my phone buzzes against my leg. The Kiefer Soundworks guest link expired at five. This is an encrypted Signal message from Samira Patel, followed two seconds later by one terse line: *Pulled it off the evening batch. Don't make me regret this, Tess.*
 
 I tap the attachment. It's a port-clearance alert for Lydia Kiefer's passport, scanned Tuesday morning at St. Andrews Private Marina in New Brunswick.
 

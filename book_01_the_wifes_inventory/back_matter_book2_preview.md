@@ -3,91 +3,71 @@
 
 ## Chapter 1
 
-"State blade stops at the county line, lady. Nobody's been up Cragmont Notch since Tuesday's squall."
+"You're asking for the ridge cut past the county bridge?" Ray Pelletier wipes motor oil off his thumb with a paper napkin and slides his mug away from my unfolded road map. "Find somebody else to draw it, lady. Nobody in East Burke's driving up Cragmont Notch."
 
-The town plow driver leans out of his rusted salt truck beside the dark gas pumps of a shuttered Vermont general store, diesel exhaust curling around his cab in the buzzing sodium light. Snow spits sideways across the frozen forecourt.
+Steam hisses off the espresso wand behind the counter, mixing with griddle grease and the wet-wool smell of three loggers shaking snow off their boots by the door. Out past the frosted front window, gray sleet blows sideways across Route 114. My fingers are still stiff from the drive north, and the pink seam on my left wrist pulls under my cuff whenever I flatten the map.
 
-I kneel on the gravel and pull the last rubber tensioner tight over my Civic's front tire chains until the hooks bite home. My fingers have gone numb inside my wool gloves. "Good thing I'm not driving a plow," I tell him, standing up and knocking packed slush off my knees.
+"Town clerk said you serviced Arthur Cutler's generators for ten years," I say. "I'm not asking you to plow the lane. Just tell me whether the west spur washes out past the logging fork."
 
-He shakes his head, spits into the snowbank, and grinds the truck into gear. Red taillights smear into the whiteout as he heads south toward town, leaving me alone under the humming lamp with the Northeast Kingdom blacking out ahead of my bumper.
+Ray stares down into his black coffee. He's sixty if he's a day, knuckles scarred gray from wrench work, his stained Carhartt vest zipped right up to his beard. Beside us, a fry cook scrapes a spatula across the flat-top, and two stools down an old man lowers his paper to listen.
 
-I climb back behind the wheel, kick the heater up to high, and flex my left wrist under my cuff. The thin pink seam where the Salt Point stitches came out still pulls in the cold. Seven hours ago, I had a ten o'clock interview on Congress Street for a daylight desk job auditing flooded boat hulls. Clean claims, real witnesses, and regular hours.
+"Tuesday night's squall dropped whiteout over the whole ridge," Ray says, voice dropping low under the rattle of dishes. "Wednesday morning, town plow driver spotted three Cutler snowmobiles sitting outside their woodshed with the keys turned and the tanks bone dry. Arthur, his wife, and their caretaker all walked off that porch in a blizzard without shutting down the engines. Nobody's filed a county report, and Boston lawyers started calling the garage by Thursday noon."
 
-Then Margot Kiefer-Hall slid into my booth at Becky's Diner, dropped a heavy brass skeleton key beside my coffee mug, and flipped a glossy photograph over on the Formica.
+"Which is why Boston sent me," I say.
 
-Taped to the back was a cropped black-and-white fax of a lined mountain guest ledger, dated two days ago, with three words crammed into the margin in my younger sister's cramped, back-slanted cursive:
+Ray tosses a crumpled five-dollar bill beside his plate and slides off the stool. "Caretaker didn't leave his boots behind by accident. State blade stops at the county line, and cell towers die before the timberline. You haul that little Honda past the bridge, you're on your own up there."
 
-*Don't trust him.*
+The bell over the diner door bangs behind him, letting in a hard gust of mountain wind. I fold the map, leave two singles under my saucer, and check the brass key in my coat pocket.
 
-Six years. Seventy-two months since Nina walked out of a winter internship in Burlington and vanished off every bank grid, tax roll, and credit bureau in New England. I burned through my savings and half my twenties chasing cold tips across three states before the Harbor Mutual lawsuit buried me for good. I told myself I had accepted the silence.
+Six hours ago at Becky's Diner in Portland, Margot Kiefer-Hall offered me thirty-five thousand dollars for ten days in Vermont, plus the unpaid ten thousand Graham Kiefer's frozen estate stiffed me on, to inventory Cragmont Lodge before probate counsel arrived. I told her no until she laid that pine-scented skeleton key beside my coffee and flipped over a lodge photograph taped to a cropped guest-ledger fax dated two days ago, bearing three cramped, back-slanted words in my missing sister Nina's handwriting: *Don't trust him.*
 
-One ink stroke proved I was lying.
+Six years without a tax filing, a bank swipe, or a phone call since Nina walked out of a Burlington winter internship. I told myself I had accepted the silence. One ink stroke proved I was lying.
 
-My duffel rides on the passenger seat now, stuffed with forty-five thousand dollars' worth of new nondisclosure paperwork from Kiefer-Hall Fiduciary. In the cup holder, Margot's brass skeleton key rests on top of my restored Maine private investigator bond, dark pine resin still clinging to the cut of its teeth.
-
-I shift into drive and point the Civic uphill.
-
-Past the county line, the plow blade's bank drops away and the unplowed logging road narrows between towering black pines. Heavy boughs bend low under fresh snow that swallows my high beams ten paces ahead. According to Margot's briefing packet, pharmaceutical heir Arthur Cutler, his second wife, and their live-in winter caretaker walked out of Cragmont Lodge during Tuesday night's blizzard and left three snowmobiles idling by the woodshed. Nobody has filed a missing-persons report yet. The family trustees in Boston want the house inventoried and cleared of private papers before the county sheriff asks why the snowmobiles ran out of gas.
-
-Ahead, through a break in the timber, wrought-iron gates loom out of the drifting snow. They match the front of Margot's photograph: tall forged spears flanked by rough fieldstone pillars, guarding the private drive to Cragmont Lodge.
-
-I ease onto the brake and let the Civic roll to a halt in front of the iron bars.
-
-My headlights sweep across the drift piled against the lower crossbars, and I stop with my hand halfway to the door latch.
-
-Both Margot and the plow driver swore this road had been drifted shut since Tuesday night. Nobody from Boston had been able to reach the mountain.
-
-Yet two deep, wide tire ruts cut straight through the powder beneath the iron gates, fresh enough that the waffle tread of mud-terrain tires hasn't filled in with blowing snow.
-
-Someone drove a truck up this mountain within the last hour. And judging by the single set of tracks pointing uphill, they haven't driven back down.
+I pull my wool hat down over my ears, grab my duffel off the empty stool beside me, and push out into the snow.
 
 ***
 
-I kill the Civic's headlights, leave the car tucked in the dark turnout outside the pillars, and slip through the narrow pedestrian gap beside the stone post with my duffel slung over one shoulder.
+Ninety minutes later, I cut the Civic's engine at the edge of the wide stone apron and step onto the covered porch of Cragmont Lodge in flat, gray late-afternoon light.
 
-Cold air hits my lungs dry and sharp. High above the treeline, a faint ribbon of gray smoke drifts across the ridge.
+The timber-and-stone house rises three stories against the granite ridge, steep cedar gables sagging under heavy Vermont snow. Dry spruce needles skitter across the porch boards in the wind, and somewhere back in the pines a crow caws once before the mountain goes quiet. Above the roofline, no smoke rises from the fieldstone chimney, yet the porch steps have been shoveled clean down to bare granite within the last few hours, salt crystals still gritty under my heels.
 
-My boots crunch inside the truck ruts up the final bend of the drive.
+I reach into my coat pocket for Margot's heavy brass skeleton key, my thumb brushing the dark pine resin crusted inside the teeth.
 
-Cragmont Lodge rises against the gray twilight sky like a stone fortress wedged into the granite mountainside. Steep timber gables sag under thick white drifts. Every window across the three-story front elevation stands dark, interior timber shutters latched tight behind frosted panes. The turnaround in front of the wide stone porch is empty.
+Then I stop with my hand still in my wool pocket.
 
-I trace the fresh tire ruts past the front steps. They curve around the main house toward a timber carriage barn set back in the trees, where double barn doors stand padlocked from the outside, fresh snow kicked loose around the threshold.
+The heavy oak front door isn't locked. It stands unlatched an inch off the jamb, a thin vertical seam of dark interior leaking warm air out into the freezing twilight.
 
-Whoever drove up here parked their truck inside the barn and locked it behind them.
+I keep my gloved hand on the key and listen. Wind scrapes cedar shingles overhead. No footsteps on stone, no voices, only a faint, steady hiss of radio static drifting down from somewhere on the upper floors, the dry white noise of a tuner left parked between stations.
 
-I step onto the covered porch, keeping my weight near the stone wall where the porch planks don't creak.
+I nudge the oak slab inward with the toe of my boot. Iron hinges swing without a squeak.
 
-The skeleton key slides into the oversized iron lock and turns without a scrape. Oiled recently. I ease the oak door open and slip inside.
+Dry heat from banked baseboard pipes hits my face, smelling of cedar polish, old wool, and cold woodsmoke from a dead hearth. The great hall opens tall and dim under pale snow-glare from the clerestory windows near the rafters. Mounted stag heads stare down from dark timber walls above a massive fieldstone fireplace. Across the stone, wide oak stairs climb to a shadowed balcony.
 
-The great hall is cavernous and dim, lit only by pale snow-glare filtering through high windows near the rafters. Mounted stag heads stare down from dark timber walls above a massive fieldstone fireplace. Across the room, a wide oak staircase climbs toward a shadowed balcony.
+The radio static floats straight down from that upper landing, thin and uninterrupted.
 
-Warm air hits my face.
+I step over the threshold, drop my duffel silently beside the stone wall, and leave the front door propped ajar behind my shoulder so nothing clicks shut behind me.
 
-I walk slowly toward the hearth. A thick bed of gray birch ash glows dull orange on the iron grate, throwing real heat across the flagstone floor. A sharp, greasy chemical tang hangs above the grate—unmistakable to anyone who ever investigated an arson claim.
+Beside the study archway stands a slanted oak reception lectern, the old-fashioned kind built for nineteenth-century hunting clubs. Its maroon-leather guest ledger is gone. Only two unscrewed brass binding posts and a clean rectangle in the pale dust remain on the sloped wood lip, resting directly over a thick paper desk calendar pinned flat beneath the reading lamp.
 
-Lamp kerosene. And burnt bond paper.
+My hands go cold as I cross the flagstones. Whoever pulled the ledger didn't bother clearing the blotter underneath, and Nina always bore down too hard with a ballpoint pen.
 
-Someone used the hearth to ash a stack of files less than twenty minutes ago.
+I click on the green-shaded lectern lamp and tilt its brass neck low until the warm beam rakes sideways across the blank December calendar sheet inside the dust rectangle.
 
-Beside the archway to the study stands a slanted oak reception lectern, the old-fashioned kind built for nineteenth-century hunting clubs. Its maroon-leather guest ledger is gone. Only a clean rectangle in the dust and two unscrewed brass binding posts remain on the slanted wood lip, resting on top of a thick paper desk calendar pinned flat beneath the lamp.
-
-My pulse hammers against my collarbones. I cross the flagstones.
-
-Whoever fed the ledger pages to the fire moved fast, and they forgot how hard Nina always pressed a ballpoint pen.
-
-I click on the small green-shaded lectern lamp and tilt its neck down until the yellow beam rakes low and sideways across the blank December calendar sheet directly under the dust rectangle.
-
-In the shallow grazing light, deep colorless grooves rise out of the paper fibers—the ghost impression pressed straight through the missing ledger page from two days ago. Cramped, back-slanted cursive, matching the cropped fax taped to Margot's photograph word for word:
+In the shallow grazing light, deep colorless grooves rise straight out of the paper fibers, the ghost impression pressed through the missing ledger page from two days ago. Cramped, back-slanted cursive, matching the cropped fax taped to Margot's photograph word for word:
 
 *Don't trust him.*
 
-I lean closer, angling the shade half an inch lower. Directly beneath those three words, scored hard enough to dent the cardboard backing underneath, sits a second line that Margot's cropped fax cut clean off the bottom of the frame:
+I lean closer and angle the shade lower. Directly beneath those three words, scored hard enough to dent the cardboard backing underneath, sits a second line Margot's cropped fax cut clean off the bottom of the frame:
 
 *Room 4 — Attic East.*
 
-Above my head, directly across the third-floor rafters where the attic corridor runs, a floorboard groans under a heavy boot.
+Upstairs, the faint radio static clicks off.
 
-Then an iron bolt slides home on the upper stairwell door—and behind me on the front porch, a padlock snaps shut across the storm door.
+A single floorboard shifts against the shadowed balcony balustrade overhead, right above the wide oak stairs.
+
+I straighten slowly, my hand dropping off the brass lampshade, and tilt my chin up into the dark above the rail.
+
+"You're two hours late, Ms. Calder," a calm voice calls down from the balcony. "Shut the door. You're letting the heat out."
 
 ***
 

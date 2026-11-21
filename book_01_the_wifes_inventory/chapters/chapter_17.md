@@ -14,66 +14,68 @@ There's no cover on the open decking. If I lunge, she puts a bullet in me—and 
 
 Lydia steps behind me and presses the muzzle against the base of my skull while she drags my wrists together behind the timber. She threads the cable tie around both wrists, catches the ratchet, and pulls until the plastic bites into bone. I push against the loop with my thumbs. Zero give. The edge cuts so deep my fingers will go numb in minutes, and the damp wood smells faintly of old tar.
 
-"Cole will be right down once he's done with your little stall at the front door," she says. She circles back where she can watch both me and the double doors, sets the gun on the workbench within six inches of her right hand, and picks up an iPad Mini.
+"Cole will be right down once he's done with your stall at the front door," she says. She circles back where she can watch both me and the double doors, sets the Glock on the workbench beside her right hand, and wakes an iPad Mini.
 
-Lydia's iPad Mini wakes under her thumb. She opens a blank note and starts tapping with calm thumbs. She doesn't even look winded. Most people at gunpoint at least breathe hard, or sweat, or let their voice shake, and Lydia looks like she's answering an email about catering.
+Her thumbs tap across the glass, brisk and steady. She doesn't even look winded. Most people at gunpoint at least breathe hard, or let their voice jump, and Lydia looks like she's clearing an inbox before lunch.
 
-Beside her elbow on the workbench, a cheap plastic radio from the nineties sits coated in sawdust with its antenna snapped off at the knuckle, tuned to some dead AM static dial nobody has touched in twenty years. Next to it sits a mismatched coffee mug from a Camden dentist's office. Even a staged murder scene still has somebody's junk drawer sitting in plain sight.
+"What's on the tablet?" I ask.
 
-"What are you writing?" I ask.
+"Graham's apology," she says, eyes fixed on the screen. "He wouldn't touch a pen upstairs, so I'm routing a clean printout to his study printer before high water."
 
-"Graham's apology," she says, her eyes fixed on the screen. "He's devastated about the two-point-four million. Even sorrier that the woman he hired to clean out the house panicked when a sheriff's deputy knocked on the door."
+My sneakers slip on wet moss. I shift my weight, and the back of my right hand grazes the underside of the bait-table rail bolted flush behind the piling. Something sharp pricks the heel of my hand.
 
-My sneakers slip on wet moss. I shift my weight, and my right knuckles graze the underside of the bait-table rail bolted flush behind the piling. Something sharp pricks the heel of my hand.
+I keep my eyes on Lydia so my shoulders don't telegraph a thing. Just above my bound wrists, an oyster knife is wedged blade-out into a split seam along the underside of the rail, its swollen oak handle stuck fast in dried salt crust. Somebody jammed it there years ago to shuck bait and forgot it.
 
-I keep my eyes on Lydia so my shoulders don't give anything away. Just above my bound wrists, an oyster knife is wedged blade-out into a split seam along the underside of the rail, its swollen oak handle stuck fast in dried salt crust. Somebody probably jammed it there years ago to shuck bait and forgot it.
+I leave the blade alone for now and drop my gaze to the lower cross-brace of the bait table beside my left sneaker. A *Kiefer Soundworks* wired mic is bolted deep in the shadow under the timber, running into the waterproof conduit that climbs the cliff to Graham's basement server. From floor level, a pinpoint blue LED glows steady under its rim.
 
-I leave it alone for now and drop my gaze to the lower cross-brace of the bait table beside my left sneaker. A *Kiefer Soundworks* wired mic is bolted deep in the shadow under the timber, running into the waterproof conduit that climbs the cliff to Graham's basement server. From floor level, I can see a pinpoint blue LED glowing under its rim.
+Live. Hardwired back to the Zone Four array. From where she stands by the workbench, Lydia can't see it tucked under the overhang. She killed the router from out here and assumes she owns the house network.
 
-Live. Hardwired back to the Zone Four array. From where she stands by the workbench, Lydia can't see it tucked under the overhang. She thinks she owns Graham's network just because her tablet still reaches the house Wi-Fi from down here.
+I ease my wrists upward until the taut nylon ridge kisses the pitted edge of the oyster knife. If I rush, my shoulders will lift. I need noise—and I need her standing over that table when Cole walks through the door.
 
-None of it helps me if Cole walks through those doors first. I need her talking into that mic, and I need my hands free before the padlock turns.
+"You're putting a lot of faith in a county deputy," I say. "Half the department already thinks you drowned. Once Graham goes in the water tonight, what stops Cole from letting you stay dead?"
 
-"You're letting a county deputy run the whole show, Lydia," I say. "Cole's the one who scrubbed the sunroom and stashed your weekender where I'd trip over it. Half the sheriff's department already thinks you're dead. Once Graham goes in the water tonight, what makes you think Cole doesn't bury you right next to him and keep the payout for himself?"
+Lydia doesn't even glance up from the iPad. "Cole knows who signs the wire transfers. Shut up and stay against the piling."
 
-Her thumbs stop on the glass. For a second the only sound in the boathouse is the harbor water slapping the underside of the planks.
-
-"Cole couldn't stage a parking ticket without me," she snaps. "I cleared that ferry and walked off the St. Andrews marina on my own two feet. He doesn't touch a dime of my father's money."
-
-"You really think Graham's going to sit still while Cole marches him down the cliff?"
-
-"Graham spent three years draining my father's accounts and looking past me like I was furniture," she says, her voice flat. "He thought he could trace my initials on a light table and slip out the back door before November."
-
-"The Coast Guard's going to pull him out of the cove by noon."
-
-She takes two steps closer and leans one hip against the bait table, right above the shadowed blue LED. "High water tops the causeway at five-fifteen. Graham's not walking off Salt Point tonight, and by morning the tide won't leave enough of him for a medical examiner to argue with. I'm finishing his note, putting him in the bay, and walking away clean."
-
-Behind me, harbor water sucks hard against the slipway planks. I angle my bound wrists upward until the taut nylon ridge presses against the blade of the oyster knife. Keep her talking. Keep her leaning over that blue light.
+I press down and drag the nylon across the steel edge. Tough plastic, slick with sweat. Each short stroke sends a dull vibration up the piling into my spine, while cold harbor water sucks hard against the slipway planks behind me.
 
 ***
 
-I press down and drag the nylon across the edge of the blade. The plastic is tough and slick with sweat, and every downward stroke sends a dull vibration through the piling into my spine. I keep my breathing even so my shoulders don't telegraph the motion.
+Outside the north wall, boots crunch across crushed oyster shells. Heavy strides hit the landing off the cliff stairs, followed by the jingle of a sheriff's key ring and brass clattering out of the iron hasp.
 
-"Why pull me into it?" I ask as her nails tap the screen.
+The double plank doors swing wide on groaning hinges, spilling gray storm glare and wet salt wind across the decking.
 
-She doesn't even look up. "Because Graham was arrogant enough to hire somebody desperate enough to sign a fifty-grand gag clause."
+Cole Halstead steps inside and leaves the doors standing open behind him against the storm stop. Rain beads off his sheriff's windbreaker. He's carrying a heavy Maglite in his left hand and a fresh bundle of black zip ties in his right, his duty holster snapped shut because Lydia told him the cleaner was already tied down.
 
-A strand of nylon parts behind my wrists. The loop gives a fraction and eases off my left thumb, though salt grit burns in the raw skin along my forearm. Cold spray mists up through the slipway seams around my sneakers as the rising tide surges against the pilings below. The angle is awkward—if I twist my elbows too far out to get leverage, Lydia will spot the shift in my shoulders. I have to work purely from the wrists, short half-inch strokes, blind and slow. My fingers are going numb.
+He checks me once against the piling, then walks straight over to the bait table—right beside Lydia, both of them standing square over the shadowed blue LED.
 
-Lydia looks down at the tablet and reads aloud in a dry, mocking tone: *"I couldn't bear what I did to Lydia, and when Miss Calder threatened to go to the state police unless I tripled her fee, I panicked—"*
+"Graham's cuffed to the sunroom radiator," Cole drawls, slow and flat, setting the Maglite down on the salt-stained boards with a heavy *clunk*. "Took a swing when I grabbed his phone, so I left a knot under his eye. You done typing that thing?"
 
-Graham never called me Miss Calder in his life. He barely even called me Tessa when he was irritated, just launched straight into whatever he wanted done. Leave it to Lydia to write a suicide note that sounds like a Victorian butler, though I doubt Cole's sheriff's department is going to critique the prose.
+"He refused to sign the draft in the study," Lydia snaps, her thumbs still moving over the iPad glass. "I'm matching his phrasing so we can print it off his desk laser before we move him. Give me three minutes."
 
-She breaks off as a gust slams the roof overhead and sends a rattle of pine needles down the eaves. She glances up at the rafters. I saw harder against the steel. Two more strands give way. Blood slicks my left wrist where the jagged nylon and pitted blade tear the skin above my palm, and the slack lets me twist my fingers toward the oak handle wedged in the seam.
+Cole lets out a low, ugly grunt and leans one hip against the bait table. "We don't got three minutes, Lydie. Surge is already licking the culvert asphalt. High water takes the causeway by five-fifteen, and I ain't sitting out here till midnight waiting for the road to dry."
 
-My thumb brushes the rough wood. Almost. Just another quarter inch of give.
+"Then stop standing there dripping on my floor and go haul him down the cliff stairs while we still have light."
 
-"You're really going to let Cole walk away with half your father's trust?" I ask to buy ten more seconds, working the last frayed core against the edge. "A county deputy with a badge on the line and a grudge. Once Graham's dead, Cole owns you."
+A strand of nylon parts behind my wrists. I keep my chin tucked and work purely from the wrists, short blind strokes against the pitted blade while brine stings the raw skin along my left forearm. Keep arguing. Stay right over that blue light.
 
-Lydia sets the iPad down on the workbench, scoops up the Glock, and steps in close, the barrel aimed straight between my eyes. "Cole knows what happens to people who—"
+Cole's voice drops slower, meaner. "You were supposed to stay put in St. Andrews. Stay across the border, let me run the trunk warrant on the cleaner, let the county chew Graham up for the trust money. Instead you hire a launch back over in a gale because you couldn't sit still forty-eight hours to watch him sink."
 
-Outside the north wall, boots crunch across crushed oyster shells. Heavy strides come off the cliff stairs, followed by the jingle of a sheriff's key ring and a key sliding into the padlock.
+"You missed the basement backup when we moved the skiff, Cole." Lydia's tone goes sharp as wire. "Graham pulled the raw October fourteenth partition out of lockout at three-thirty. If I hadn't come back from New Brunswick to kill the router and wipe the probate folder from the ridge, our two-fourteen pantry audio would be sitting on a Portland server right now."
 
-The iron latch rattles outside. Lydia turns her head and right shoulder toward the double doors. Her weight shifts for a fraction of a second.
+"Yeah, well, your little cleaner already crawled into that cellar anyway, didn't she?" Cole's hand slaps the table right above the glowing mic. "Now I gotta drag a bruised-up widower down slick granite in sleet, dump him off the slipway, and hope the bay chews up the cuff marks before Coast Guard hooks him at dawn. You're carrying half his weight this time, Lydie. I ain't throwing my back out for your daddy's trust money."
 
-I rip my wrists apart. The last frayed threads of the zip tie snap, my right hand locks around the handle of the oyster knife, and I wrench it free from the wood.
+Two more strands give way. Blood slicks my left wrist where the jagged plastic tears skin above my palm, and the sudden slack lets me twist my stiff fingers toward the oak handle wedged in the rail. Cold spray mists up through the decking seams around my knees. My fingers are going numb.
+
+"You get your share when the estate clears, not a minute sooner," Lydia clips back, never lifting her eyes from the screen. "Put a second tie on her ankles so she stays put while we bring Graham down. And quit tracking shell grit into the bleach puddle by the bench."
+
+My thumb brushes the swollen oak handle. Almost. One last fray holding the core together.
+
+Cole mutters under his breath, scoops the Maglite and the bundle of zip ties back off the bait table, and saunters toward me at that same lazy coastal pace. He clicks the beam on and drops the white circle straight onto my soaked sneakers.
+
+"Alright, sweetheart," he says, voice low and mean as he crouches in front of my knees. "Ankles together. Don't make me use the—"
+
+His flashlight beam shifts an inch to the left, catching the slack loop of frayed nylon hanging loose behind my wrist.
+
+Cole freezes. His eyes flick up from my hands to my face, his mouth parting to shout.
+
+I rip my wrists apart. The last threads snap, my right hand locks around the handle of the oyster knife, and I wrench the blade free from the wood.

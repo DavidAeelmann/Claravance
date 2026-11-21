@@ -1,22 +1,22 @@
 # Chapter 21
 
-Cole's boots hit the kitchen tile. A flashlight beam cuts across the black foyer arch and skims the floor inches behind my heels as I pull Graham down the north hall.
+Through the narrow crack beside the study doorjamb, Cole's flashlight beam sweeps across the foyer and cuts into the kitchen. Heavy boots scrape across stone tile.
 
-"Graham!" Cole yells from the kitchen. His voice bounces off the stone. "Get out here! Think your Boston money gets you off this rock?"
+"Graham!" Cole yells, his voice bouncing off the counters. "Get out here! Think your Boston money gets you off this rock?"
 
-I push Graham into his study and ease the door almost shut. Through the inch-wide crack, the hall stays black. Inside, the server rack hums on its battery backup and casts dull amber light across the blotter. The pipe wrench I left behind this afternoon still sits beside the keyboard. I leave it.
+I ease back from the crack. Inside the narrow study, the server rack hums behind smoked glass and throws dull amber light across the desk blotter. The pipe wrench I left behind this afternoon still sits beside the keyboard. I leave it.
 
-Graham leans hard against the wall, one hand pressed to his swollen cheek, his chest heaving. Outside, the gale slams against the house hard enough to make the windowpanes rattle behind their outer armor. "Lydia just threw the generator transfer switch and pulled the manual shutter release in the basement alcove," he says, voice shaking. "The hurricane shutters are locked down in their tracks. Without power we can't raise them, and this study door won't hold Cole for ten seconds."
+Graham leans hard against the wall, one hand pressed to his swollen cheek, his chest heaving. Rain lashes the dark north glass behind his shoulders. "Cole's got the front door covered with his pistol, and Lydia's sweeping the living room and the deck," he whispers, voice shaking. "The causeway's minutes from flooding, and this hollow door won't hold Cole for ten seconds."
 
-"We're not going out a window," I whisper. "You wired an acoustic house, Graham. Time to use it."
+"We're not running for the doors," I whisper. "You wired an acoustic house, Graham. Time to use it."
 
-I drop into the chair, wake the console, and pull up the *Kiefer Soundworks* zone router. Every upstairs speaker is dead except the basement array, which draws off Zone 4's battery bank. The exterior cellular bridge went dark with the main power, too. Nothing leaves this house over the air tonight. Then I spot it—one green status line at the bottom of the screen confirming the boathouse mic puck mirrored onto the Zone 4 backup drives twenty minutes ago.
+I drop into the chair, wake the console, and pull up the *Kiefer Soundworks* zone router. Both the WAN link and the cellular bridge are still locked dead from Lydia's iPad override—nothing leaves this house over the air tonight. Then I spot it: one green status line at the bottom of the screen confirming the boathouse mic puck mirrored onto the Zone 4 backup drives twenty minutes ago.
 
-The interface is typical Graham: three nested menus deep just to route a single audio channel, like he designed it to impress an architect instead of someone trying to keep from getting shot. My thumb slips once on the trackpad before I highlight the raw pantry recording, route it straight to the darkroom speakers, and push the volume to the stops. If Cole hears Lydia's voice blasting out of the basement, he won't go door to door upstairs. He'll charge the concrete steps to kill it.
+The interface is typical Graham: three nested menus deep just to route a single audio channel, like he designed it to impress an architect instead of someone trying to keep from getting shot. My thumb slips once on the trackpad before I mute every upstairs speaker, route the raw pantry recording straight to the basement Zone 4 array, and push the volume to the stops. If Cole hears Lydia's voice blasting out of the cellar, he won't go door to door upstairs. He'll charge the concrete steps to kill it.
 
 "Stay behind the shelves," I tell Graham, with a jerk of my chin toward the bookshelves in the corner. "If Lydia checks this room, don't breathe, and don't come out until I call you."
 
-He nods once, stiffly, and backs into the shadow behind the tall case. He pulls his knees in, trying to make a six-foot frame vanish behind six inches of wood molding.
+He nods once, stiffly, and backs into the shadow behind the tall case. He pulls his knees in, trying to make a six-foot frame vanish behind narrow wood molding.
 
 I slip the duffel off my shoulder and shove it out of sight behind the low bookcase beside the study door so it won't slow me down. Then I hit play on a continuous loop and kill the display power so the room drops back to black. Under our feet, muffled through the floor, Lydia's voice—cool, dry, laughing over the squeak of a wet rag—booms through the basement. Graham flinches at the sound of his wife's laugh coming up through his own floorboards.
 
@@ -54,7 +54,7 @@ I shift to reach my waistband, and my wet sneaker squeaks against the rubber mat
 
 Lydia's penlight snaps into the northeast corner. She doesn't wait for Cole to turn his gun. She charges across the mat, steps right into his line of fire, and swings the poker in a level arc at my head.
 
-I drop into a crouch behind the cabinet's front edge. Moving too fast to check her reach, she overshoots. The poker whistles past my ear and slams steel-on-steel into the corner of the *ARCHIVE* cabinet with a sharp *CLANG*. Sparks jump off the metal, lighting the foam wedges for a split second and jarring the bar half out of her grip. My ears ring from the impact.
+I drop into a crouch behind the cabinet's front edge. Moving too fast to check her reach, she overshoots. The poker whistles past my ear and slams steel-on-steel into the corner of the *ARCHIVE* cabinet. Sparks jump off the metal, lighting the foam wedges for a split second and jarring the bar half out of her grip. My ears ring from the impact.
 
 Cole spins toward the noise and shouts her name. His flashlight sweeps across her face and blinds her for a split second while her body still blocks his shot.
 
@@ -66,7 +66,7 @@ I cut past both of them, sprint into the stairwell, and catch the exterior handl
 
 "Tessa!" Lydia screams behind me. Cole fires one blind shot into the foam; the crack is deafening in the concrete box.
 
-I haul the inward-swinging door back toward the frame, the iron handle biting into my palms. Lydia lunges after me. She throws herself sideways through the narrowing gap, and her shoulder slams the concrete wall hard enough to knock the breath out of her. I brace my feet, yank with my whole weight, and pull the door flush into the jamb with a heavy *CLANG*. Cole Halstead is trapped inside alone.
+I haul the inward-swinging door back toward the frame, the iron handle biting into my palms. Lydia lunges after me. She throws herself sideways through the narrowing gap, and her shoulder slams the concrete wall hard enough to knock the breath out of her. I brace my feet, yank with my whole weight, and slam the iron door flush into the jamb. Cole Halstead is trapped inside alone.
 
 I dig **B-4** out of my front pocket, jam it into the exterior cylinder, and throw the deadbolt. Steel locks into steel. There is no interior thumb-turn on Cole's side.
 

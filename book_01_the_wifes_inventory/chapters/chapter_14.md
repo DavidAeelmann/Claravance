@@ -10,7 +10,7 @@ He takes a slow step onto the concrete. He clocks the pried-open gray cabinet ma
 
 "You broke into my cabinet," he says.
 
-"I wanted to see why five o'clock today matters so much." I keep my voice level. "I already shot your *Bramwell & Shaw* default notice in the study last night: two-point-four million, thirty-day cure window, referral to the Suffolk County DA. Those photos are already sitting in my off-site vault in Portland. Swing that wrench, or throw that deadbolt again, and if I miss my noon check-in my contact there forwards the vault link directly to Bramwell & Shaw's inbox."
+"I wanted to see why five o'clock today matters so much." I keep my voice level. "I already shot your *Bramwell & Shaw* default notice in the study last night: the unauthorized trust draws, the cure deadline, the Suffolk County DA referral. Those photos are already sitting in my off-site vault in Portland. Swing that wrench, or throw that deadbolt again, and if I miss my noon check-in my contact there forwards the vault link straight to Bramwell & Shaw's inbox."
 
 It's a half-bluff. Samira doesn't have my vault credentials or a noon clock, yet Graham can't afford to test it.
 
@@ -36,11 +36,11 @@ Thin gray morning light washes across the island. Rain streaks down the back dec
 
 Graham exhales slowly, straightens, and squares his shoulders despite the tremor in his hands.
 
-"Those draws were temporary collateral advances against my defense-patent equity," he says, though he aims his answer past my shoulder instead of at me. "Every dollar went into Kiefer Soundworks payroll and the Cambridge lab lease while Arlington cleared export review. As joint signatory, I had operational authority to bridge liquidity—"
+"Those draws were temporary collateral advances against my defense-patent equity. Short-term working capital, completely covered by the escrow valuation once export review clears," he says, aiming his answer past my shoulder instead of at me. "Every dollar went straight into Kiefer Soundworks payroll and the Cambridge lab lease, not some personal account. Look, technically, as joint signatory on an operating household trust, I had implied authority to bridge short-term liquidity while—"
 
 "Without your wife's signature," I cut in. "You cut three signed leaves out of the back of her sketchbook so you could trace her initials on a light table without leaving grooves on the pad. Don't call forgery a bridge loan, Graham."
 
-He looks down at the sliced red tamper tape on the envelope, and whatever excuse he was lining up dies on his tongue. "That sketchbook on the studio blotter is why I locked the studio door Monday night after I caught you in there," he admits. "If Arlington closed on time, every cent went back into the trust with interest. Nobody loses a dime."
+He looks down at the sliced red tamper tape on the envelope, and the prepared speech collapses. "All right, fine. That sketchbook on the studio blotter is why I locked the studio door Monday night after I caught you in there," he admits, rubbing the back of his neck. "We're talking about ninety days of bridge money, Tessa. Once Arlington closed on Friday, every cent went straight back into principal plus prime interest. On paper, nobody loses a dime."
 
 "Except Lydia caught it, and she didn't hand you over for wire fraud."
 
@@ -58,7 +58,7 @@ He cuts himself off. His fingers dig hard into the edge of the stone counter.
 
 "Lydia," I finish.
 
-He nods slowly. "October twenty-first, a week after the storm, I caught a six-minute hole in the basement audio from the fifteenth. Started checking the house, looked at the mudroom, and realized the life vest Halstead logged still smelled like tap water—fresh lot stamp that never came off our boat. I took Zone Four off the Portland security link that same afternoon so I could run wind filters in private."
+He nods slowly. "October twenty-first, a week after the storm, I caught a six-minute hole in the basement audio from the fifteenth. Started checking the house, looked at the mudroom, and realized the life vest Halstead logged still smelled like tap water, a fresh lot stamp that never came off our boat. I took Zone Four off the Portland security link that same afternoon so I could run wind filters in private."
 
 "Which is why you swiped Tuesday night's motion alert off the pantry tablet," I cut in.
 
@@ -70,7 +70,7 @@ He nods slowly. "October twenty-first, a week after the storm, I caught a six-mi
 
 "Somebody bleached the sunroom floor under the wool rug right before I got here too," I say. "Linseed oil's still tacky under the backing. Whoever pried the baseboard dropped a B-4 key behind the trim and missed it when they hammered the board back. Which still doesn't explain why you hired a blacklisted fraud investigator under a gag clause to box up sweaters."
 
-He glances down the north hall toward his study, weighing how much else I've already seen. "The Arlington probate deadline is real, Tessa. Anything else stays encrypted on my drive—not coming out of my mouth while you're standing there with a pipe wrench."
+He glances down the north hall toward his study, weighing how much else I've already seen. "The Arlington probate deadline is real, Tessa. Anything else stays encrypted on my drive. It's not coming out of my mouth while you're standing there with a pipe wrench."
 
 He's still keeping something back. Worse, whoever threw that deadbolt at two-thirty now knows I found the cellar, and knows I didn't stay locked inside. Great.
 
@@ -100,9 +100,9 @@ Past him, through the tall glass sidelights, mist curls over the wet gravel turn
 
 Graham points down at the duck boots and the navy tote dripping brackish rainwater onto the entry floor.
 
-"Muddy boot prints right across the gravel to your rear bumper," he says, gesturing toward the sidelights. "A corner of blue tarp was pinched in the weatherstripping, keeping the lid from latching. I pulled Lydia's boots and that tote out before I saw what was under them in the spare-tire well—a bleach-soaked boat rag wrapped around a bronze cleat from our dock. I didn't touch either one. Just eased the lid back down. Halstead serves a warrant on your Civic, they pin that sunroom on both of us."
+"Muddy boot prints right across the gravel to your rear bumper," he says, gesturing toward the sidelights. "A corner of blue tarp was pinched in the weatherstripping, keeping the lid from latching. I pulled Lydia's boots and that tote out before I saw what was under them in the spare-tire well: a bleach-soaked boat rag wrapped around a bronze cleat from our dock. I didn't touch either one. Just eased the lid back down. Halstead serves a warrant on your Civic, they pin that sunroom on both of us."
 
-I stare out at the Civic's rear bumper. Going out there for the cleat puts my own prints on the cleanup hardware, and whoever's watching from the cove will take notes—or maybe they're already halfway down the drive, which doesn't leave me much time to be clever. Calling the state police over the house Wi-Fi right now just brings troopers into a house full of Graham's forged transfers while Lydia's boots sit in my spare-tire well, and I am not leaving Salt Point in handcuffs because I couldn't wait for a thumb drive to decrypt.
+I stare out at the Civic's rear bumper. Going out there for the cleat puts my own prints on the cleanup hardware, and whoever's watching from the cove will take notes, or maybe they're already halfway down the drive, which doesn't leave me much time to be clever. Calling the state police over the house Wi-Fi right now just brings troopers into a house full of Graham's forged transfers while Lydia's boots sit in my spare-tire well, and I am not leaving Salt Point in handcuffs because I couldn't wait for a thumb drive to decrypt.
 
 "Give me the passphrase for the raw basement partition," I say. "Right now."
 

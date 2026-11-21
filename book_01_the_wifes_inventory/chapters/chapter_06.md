@@ -20,11 +20,11 @@ I step into the kitchen and stop by the island. "Thursday?"
 
 Twenty-four hours gone, right in the teeth of a November storm. "This morning you said you had joint signing control over Lydia's trust," I say. "Why does one day matter if you've got a normal probate window?"
 
-His ladle stops against the rim of the pot, though he doesn't turn from the stove. "Because her father wrote a felony trigger into the trust," he says. "If her brother in Zurich—or anyone up here—gets a prosecutor to file criminal charges before our preliminary inventory seals, my signing rights vanish overnight."
+His ladle stops against the rim of the pot, though he doesn't turn from the stove. "Because her father wrote a felony-forfeiture clause into the original instrument—standard fiduciary language on old family trusts, nothing exotic—except if her brother in Zurich, or anyone local with an axe to grind, gets a prosecutor to float a criminal charge before our preliminary inventory seals, my joint signing authority suspends automatically."
 
 "No grace period?"
 
-"None. Under that clause, the grace period disappears. The Arlington buyer walks, and I'm locked out overnight." He ladles soup into two bowls without asking if I want any. "Which means we work late tonight. Grab a spoon, Tessa. Let's go over the basement exclusions and the mudroom gear."
+"None. Well—normally there's a thirty-day administrative cure on routine accounting disputes, sure, which is standard, except under the felony trigger that window evaporates on the spot. The Arlington buyer sees a frozen collateral line, they walk, and I'm locked out overnight." He ladles soup into two bowls without asking if I want any. "Which means we work late tonight. Grab a spoon, Tessa. Let's go over the basement exclusions and the mudroom gear."
 
 Before sitting down, I tell him I'm dropping the bag in my room.
 
@@ -42,7 +42,7 @@ I zip the duffel shut, leave the thread off, and shove the paper bag out of sigh
 
 Back in the kitchen, gusts buffet the ocean glass and rattle the aluminum frames. Rain sheets down the dark panes, blotting out the cove.
 
-I sit at the island with a bowl of leek soup I can barely taste while Graham stands at the sink rinsing a cutting board like we're just two people waiting out a normal storm. Maybe I did leave the laptop on sleep mode when I rushed out to beat the fog. No—I remember waiting for the little white screen to go black because the battery barely holds an hour unplugged, and even if I'd botched the shutdown, a MacBook doesn't reach out and pluck a loose lining thread off its own duffel zipper. Whoever stood in my bedroom didn't touch the five grand in Portsmouth hundreds, which somehow bothers me more than if they'd stolen it. You take cash when you're desperate; you leave cash alone when you're looking for what someone knows. The soup is actually good, buttery and hot, and my spoon clinks too loud against the ceramic because my wrist still won't quite settle. I catch myself staring at the neat row of copper pots hanging over the stove, wondering if Lydia picked them out or if a designer in Boston did. It's a stupid thing to wonder while a guy who may have gone through my bag is wiping down a cutting board six paces away.
+I sit at the island with a bowl of leek soup I can barely taste while Graham stands at the sink rinsing a cutting board like we're just two people waiting out a normal storm. Maybe I did leave the laptop on sleep mode when I rushed out to beat the fog. No—I remember waiting for the little white screen to go black because the battery barely holds an hour unplugged, and even if I'd botched the shutdown, a MacBook doesn't reach out and pluck a loose lining thread off its own duffel zipper. Whoever stood in my bedroom didn't touch the five grand in Portsmouth hundreds, which somehow bothers me more than if they'd stolen it. You take cash when you're desperate; you leave cash alone when you're looking for what someone knows. The soup is actually good, buttery and hot, and my spoon clinks too loud against the ceramic because my wrist still won't quite settle.
 
 "Did Deputy Halstead stop by while I was in town?" I ask.
 
@@ -82,13 +82,13 @@ He leans a shoulder against the doorframe. "What about it?"
 
 I watch his eyes. "You said Lydia went down to the cove around ten-thirty to check the mooring line. Last night the turnaround floodlight was dead, and you told me to stay off the cliff stairs after dark. Were the dock lights on that night? Or did the squall knock the power out before she went down?"
 
-He folds the damp towel into a neat rectangle and lays it flush with the edge of the counter before he answers. His voice doesn't waver.
+He folds the damp towel into a neat rectangle, squares the corners twice, and lays it flush with the edge of the counter before he answers.
 
-"We shut the dock floodlights off at the sub-panel past mid-October," he says. "Salt mist trips the exterior ground-fault loop every time the wind turns southeast, and Lydia hated the glare off the glass wall at night. If you want the circuit specs for the property schedule, I'll pull the electrician's diagram tomorrow, though I wouldn't waste Boston counsel's time on exterior breakers."
+"We cut the dock floodlights at the sub-panel past mid-October—well, usually right after Columbus Day, depending on when the first southeast blow hits," he says, talking a hair faster than before. "Salt mist trips the exterior ground-fault loop every time spray gets into the conduit, and the electrician out of Camden never sealed that junction box right back in 'twenty-four, plus Lydia hated the halogen glare bouncing off the glass wall when she was sketching at night. Look, if you need the circuit specs for the property schedule, I'll pull the diagram tomorrow, though honestly I wouldn't waste Boston counsel's time itemizing exterior breakers."
 
 ***
 
-A wet slam of wind shakes the whole house, and the ceiling lights flicker twice and die. The kitchen, the mudroom, and the ocean glass go black all at once. Just past the end of the counter, inside the narrow corridor leading to the pantry, the smart-home wall tablet stays lit on its backup battery and throws a pale blue square across Graham's cheekbones. Neither of us moves. Rain hammers the roof and drowns out the buoy bell while the low mechanical hum beneath our feet goes dead silent.
+A wet slam of wind shakes the whole house, and the ceiling lights flicker twice and die. The kitchen, the mudroom, and the ocean glass go black all at once. Just past the end of the counter, inside the narrow corridor leading to the pantry, the smart-home wall tablet stays lit on its backup battery and throws a pale blue square across Graham's cheekbones. Both of us stay still in the dark. Rain hammers the roof and drowns out the buoy bell while the low mechanical hum beneath our feet goes dead silent.
 
 "Stay put," Graham says, sharp. "The diesel generator takes a few seconds to kick in."
 

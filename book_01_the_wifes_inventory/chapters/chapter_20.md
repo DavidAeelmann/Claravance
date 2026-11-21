@@ -14,11 +14,11 @@ I flip out the narrow awl. My wrist stings every time I try to brace it. I've ne
 
 "Shut up and hold still."
 
-I poke blindly into the keyhole, trying to feel the catch. My fingers slip and jam the awl tip straight into my own thumb—hard enough to draw blood. Graham jerks as the metal scrapes bone. I swear under my breath, pin his forearm against the radiator pipe with my knee, and try again. Salt grit inside the hinge makes the tool skitter twice before I brace the handle against the heel of my palm and shove.
+I poke blindly into the keyhole, trying to feel the catch. My fingers slip and jam the awl tip straight into my own thumb, hard enough to draw blood. Graham jerks as the metal scrapes bone. I swear under my breath, pin his forearm against the radiator pipe with my knee, and try again. Salt grit inside the hinge makes the tool skitter twice before I brace the handle against the heel of my palm and shove.
 
 *Click.* Cole had been in too much of a hurry to double-lock them. The jaw pops open.
 
-Graham yanks his arm free and rubs the red groove around his wrist as he scrambles to his feet on the wool rug. His knees hit the radiator valve, clanging iron against iron, and both of us stop breathing for half a second, waiting. I grab the knife. Somewhere beneath the floorboards, Cole's voice booms muffled through concrete. He's found the shattered counterweight beside the ladder, and the fury carries even through masonry.
+Graham yanks his arm free and rubs the red groove around his wrist as he scrambles to his feet on the wool rug. His knees hit the radiator valve, clanging iron against iron, and both of us freeze for half a second, waiting. I grab the knife. Somewhere beneath the floorboards, Cole's voice booms muffled through concrete. He's found the shattered counterweight beside the ladder, and the fury carries even through masonry.
 
 "The back deck," Graham says. He nods toward the sunroom slider. "Unlock the glass and we can take the cliff path down to Maren's—"
 
@@ -26,13 +26,13 @@ Graham yanks his arm free and rubs the red groove around his wrist as he scrambl
 
 Graham doesn't follow me toward the front hall. He looks past my shoulder toward the kitchen island, and for a man who just spent an hour cuffed to a pipe, he moves fast. He brushes past me in his olive sweater and bolts for the counter.
 
-By the time I clear the arch, both of his hands are wrapped around the manila envelope—*OCT 14 — MASTER BACKUP*. He spins toward the gas range along the back wall and tears at the metal clasp with shaking fingers.
+By the time I clear the arch, both of his hands are wrapped around the manila envelope marked *OCT 14 — MASTER BACKUP*. He spins toward the gas range along the back wall and tears at the metal clasp with shaking fingers.
 
 "Graham," I warn him.
 
 He ignores me. His left hand grabs the front igniter knob and twists. *Click, click.* A ring of pale blue flame catches under the cast-iron grate.
 
-"Lydia tried to hang a murder on me!" he snaps. He holds the thick sheaf of notarized sheets and the three sliced sketchbook pages an arm's length from the fire. "You heard her on the tape! Your Portland cloud only has the default notice! Without these traced sheets and sketchbook pages, they've got nothing criminal on me—it's just a civil dispute!"
+"Lydia tried to hang a murder on me!" he snaps. He holds the thick sheaf of notarized sheets and the three sliced sketchbook pages an arm's length from the fire. "You heard her on the tape! Your Portland cloud only has the default notice! Without these traced sheets and sketchbook pages, they've got nothing criminal on me. It's just a civil dispute!"
 
 I step into his lane and bring the oyster knife up until the pitted point hovers inches from his chest. The heat from the burner hits the backs of my knuckles, sharp against skin gone numb from the bay. He stops short, blue gaslight flickering across his swollen jaw and the sweat beading at his hairline.
 
@@ -52,24 +52,22 @@ Ignoring the burn in my slashed left wrist, I reach in and rip the papers and en
 
 The blue flame dies. Graham stares at me, his arms dropping loose at his sides, chest heaving in the dark kitchen. "You're really turning me in."
 
-"Every page, the pantry WAV file, and the confession Lydia just poured straight into your boathouse mic," I say. I back two steps toward the archway, keeping my eyes on his hands. "You want to see morning, stay ahead of me and keep your mouth shut."
+"Every page, the pantry WAV file, and the recording Lydia and Cole just poured straight into your boathouse mic," I say. I back two steps toward the archway, keeping my eyes on his hands. "You want to see morning, stay ahead of me and keep your mouth shut."
 
 ***
 
 I march him past the foyer arch into the north hall and my guest room, the knife low at my side. Every step through the dark house feels too loud, my wet sneakers squeaking against the pine floorboards, Graham's breathing echoing off the plaster. He tries to slow down at the threshold, glancing back toward the kitchen, so I catch his elbow and shove him inside ahead of me.
 
-Inside, the radiator ticks. The boiler is cycling down. My duffel is against the wall. I yank it open, shove the envelope underneath my spare clothes, and reach behind the pipes for the store bag with Cole's left-handed yellow warning slip tucked inside. Everything goes into the bag, zipped tight.
+Inside, the room is cold and quiet. The boiler is cycling down. My duffel is against the wall. I yank it open, shove the envelope underneath my spare clothes, and reach behind the pipes for the store bag with Cole's left-handed yellow warning slip tucked inside. Everything goes into the bag, zipped tight.
 
 I pull a dry wool sweater over my soaked flannel and sling the duffel over my shoulder. The dry knit quiets the worst of my shivering so I can think.
 
-"Move," I tell Graham and nudge him back toward the doorway. "Into your study. Let's see if the backup array mirrored the boathouse mic, and whether your backup battery can push anything out over cellular."
+"Move," I tell Graham and nudge him back toward the doorway. "Into your study. Let's see if the backup array mirrored the boathouse mic, and whether we can punch past Lydia's router lock over cellular."
 
-We step out into the north hall beside the foyer arch. Directly across the foyer, the stairwell door rattles hard as Cole's duty boots charge up the concrete steps, the heavy tread shaking the floor joists under my feet.
+We step out into the north hall beside the foyer arch. Directly across the foyer, the stairwell door slams back against its stop as Cole's duty boots charge up the concrete steps into the entry.
 
-"She's not in Zone Four—she dropped the counterweight!" Cole shouts up the stairwell. "Check the sunroom!"
+"She's not in Zone Four! She dropped the counterweight!" Cole shouts, his voice echoing off the stone. "Check the sunroom!"
 
-Graham stops dead. His breath comes shallow and fast against my shoulder. I grab the back of his sweater to drag him deeper down the hall toward his study before Cole hits the top landing.
+His flashlight beam swings hard across the foyer arch and skims the floorboards inches behind my heels. Past the kitchen island, Lydia's boots hit the back hall toward the deck slider, sealing off the rear exit while the rising tide buries the causeway below. Between an armed deputy in the entry and Lydia sweeping the glass behind us, the dark north corridor turns into a dead end.
 
-Before we clear three paces, a heavy mechanical *CLUNK* carries up through the floorboards from the basement: the unmistakable thud of a main transfer switch throwing off. Every standby LED dies. Down by the pantry arch, the smart-home tablet winks black, and the hallway thermostat goes dark.
-
-Half a heartbeat later, the gravity-drop steel hurricane shutters roar down inside their exterior tracks and slam home with a deafening metallic *CRASH* across the sunroom glass and the front sidelights. The steel cuts off the last gray twilight and seals every window in total dark right as Cole's boots hit the foyer floor behind us.
+Graham stops dead, his chest heaving against my shoulder. I grab the back of his olive sweater, haul him backward into his study, and ease the door almost flush against the jamb right as Cole's boots hit the kitchen tile.

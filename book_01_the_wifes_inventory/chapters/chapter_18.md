@@ -1,14 +1,12 @@
 # Chapter 18
 
-"Lydie, Graham's cuffed to the radiator. Why isn't—"
+"Watch her!" Lydia snaps. She tucks the iPad under one arm and scoops the Glock off the workbench.
 
-"Watch her!" Lydia snaps. She tucks the iPad under one arm and swings the Glock back toward me.
+Behind Cole Halstead, the open double doors frame a cold strip of gray storm light and driving rain. He's still gripping the Maglite and the bundle of black zip ties, his duty holster snapped shut, half a beat slow to bring his weight back from my knees.
 
-Behind Cole Halstead, the brass padlock clatters against the frame and the double doors swing wide on groaning iron hinges, cutting a cold strip of gray storm light across the boathouse floor. He's carrying a Maglite and a bundle of black zip ties, his holster still snapped because Lydia told him the cleaner was already tied to the piling.
+There is nowhere to hide in a twenty-foot shed, and no time to think about how bad the math is. I drive up off my knees, duck under the bait table, and launch myself across the decking before Lydia can clear Cole's shoulder. My sneakers slide on wet moss before the rubber bites. Cole pivots a step too late. His left arm comes up to block me, and I drag the oyster knife hard across the meat of his wrist.
 
-There is nowhere to hide in a twenty-foot shed, and no time to think about how bad the math is. I drive up off my knees, duck under the bait table, and launch myself across the decking before she can clear Cole's shoulder. My sneakers slide on wet moss before the rubber bites. Cole turns a step too late. His left arm comes up to block me, and I drag the oyster knife hard across the meat of his wrist.
-
-Steel rips through his windbreaker cuff into flesh. Cole curses and staggers backward into the stacked lobster traps, cracking wood slats under his shoulders as dark blood wells over his knuckles and a loose buoy rolls into my shin. The Maglite bounces across the planks into the shadows, zip ties scattering around his boots. Under the bottom trap, his heel comes down square on my phone—the screen cracks loud before the casing skids off the edge into the black slipway water. He clamps his right hand over the gash and blocks the narrow aisle between the bench and the open water.
+Steel rips through his windbreaker cuff into flesh. Cole curses and staggers backward into the stacked lobster traps, cracking wood slats under his shoulders as dark blood wells across the back of his hand and a loose buoy rolls into my shin. The Maglite bounces across the planks into the shadows, zip ties scattering around his boots. Under the bottom trap, his heel comes down square on my phone—the screen cracks loud before the casing skids off the edge into the black slipway water. He clamps his right hand over the gash and blocks the narrow aisle between the bench and the open water.
 
 Lydia's Glock fires. Inside the narrow boathouse, the blast hits my eardrums like a slap. Cordite stings my nose. A chunk of splintered plank blows out beside my left shoulder and peppers my cheek with wet sawdust. Cole's bulk eats half her sightline, and she has the iPad wedged awkwardly under her elbow. She shoves him hard by the shoulder to open a lane.
 
@@ -26,7 +24,7 @@ Back at the boathouse, the double doors stand wide open. Cole fills half the fra
 
 "Leave it! She went under the pilings!" Cole shouts over the surf and clamps his hand back over the cut. "Get up to the house and finish Graham's note on that tablet! Surge is taking the causeway. I'll block the road before she crawls out and blows this open!"
 
-I stay plastered against the wet rock until Lydia reaches the top of the cliff stairs. She pauses once by the dark trees, glancing back toward the cove, then disappears into the mist. Cole wraps a rag from his belt around his cuff, mutters under his breath, and limps up toward the gravel drive. His boots crunch once, twice, then fade under the surf.
+I stay plastered against the wet rock until Lydia reaches the top of the cliff stairs. She pauses once by the dark trees, glancing back toward the cove, then disappears into the mist. Cole wraps a rag from his belt around his cuff, mutters under his breath, and limps up toward the gravel drive. His boots scrape across the stone once, twice, then fade under the surf.
 
 It takes two tries to haul myself onto the rock. My scraped right palm smears pale pink across the stone while my left wrist throbs. North along the cove, sheer bluffs cut off the headland, and once high tide tops the causeway nobody walks off Salt Point.
 

@@ -92,20 +92,18 @@ Before it reaches fifty, the server rack in the corner chimes twice, a clean two
 
 Graham twists around toward the smoked glass, eyes wide. "A registered house tablet coming back in mesh range. I wiped every remote device after the Coast Guard called off the search. There shouldn't be anything paired to this—"
 
-A new folder pops up inside the cloud-sync queue on the left display. Lydia's iPad Mini just finished syncing a file labeled as my confession.
+A fresh admin session flashes across the router console on his left display. *LYDIA-IPAD-MINI — LOCAL AUTH.*
 
-"Don't play it," I snap. "Check the header."
+"She never took it off the co-owner profile," Graham whispers, his fingers fumbling for his mouse. "That's the local mesh. That's not coming through a VPN from Canada."
 
-Graham clicks the file to open its properties, and the waveform viewer auto-plays through the studio speakers.
+Before his cursor reaches the disconnect button, a red override banner drops across the network window. Outbound internet traffic flatlines. Both cloud-sync arrows turn gray, freezing Graham's off-site backup mid-handshake.
 
-It's my voice.
+"She just killed the outbound router," I say, leaning over his shoulder. "Nothing's leaving this house over Wi-Fi."
 
-*"...didn't mean for the skiff to drift that far out,"* I'm sobbing through the speakers, breathless and panicked over the exact rain-on-glass hiss of this house. *"Graham said if I helped him move her out of the sunroom before high tide, he'd double the wire to twenty grand. I just—I needed the judgment cleared. I didn't know she wasn't breathing when we wrapped the rug..."*
+On the right display, the Arlington shared probate folder flickers once and drops out of the directory tree, replaced by a crisp white modal: *Access revoked by co-owner. Remote wipe queued.* My entire morning of upstairs inventory timestamps disappears in a single sweep.
 
-I stare at the pulsing waveform. It's uncanny, hearing myself beg like that: clean phrases from my conversations in this house, stitched over a room-tone bed without a single audible seam. With whatever they planted in my Civic's trunk, a county prosecutor could hand down an indictment before dinner, and nobody on a jury would ever believe that voice wasn't mine. Not for a second.
+Graham's chair scrapes back against the shelves. "She saw the master partition unlock. Whoever's holding Lydia's iPad isn't sitting in New Brunswick, Tessa—they're within range of this house right now."
 
-"They didn't just plant the boots," I say, my mouth dry. "Whoever locked me in the cellar at two-thirty bought themselves three hours to render that file."
+They didn't just plant boots and a bleach rag in my spare-tire well. They're on the ridge with us, cutting the wire before the raw pantry audio can ever reach Portland.
 
-On the left screen, the transmission log flashes green: the upload to the Knox County evidence drop just finished. Half a second later, a red banner drops across the network window locking down outbound internet access. Whoever holds admin access on Lydia's iPad just killed the router's upload path before our raw audio could leave the study.
-
-Out on the ridge, the driveway gate motor grinds open. My eyes snap to the transfer bar crawling past sixty percent. "Tell me you have a back door that doesn't face the gravel."
+Out past the north trees, the driveway gate motor grinds open. My eyes snap to the USB transfer bar crawling past sixty percent. "Tell me you have a back door that doesn't face the gravel."

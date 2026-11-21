@@ -20,7 +20,7 @@ I pull in beside a dark Audi sedan and kill the engine. It ticks in the quiet. O
 
 My duffel's worn zipper catches my thumb as I drag it off the passenger seat. I cross the wet flagstone walk to the landing. Something sharper cuts through the damp wood: fresh linseed oil, maybe deck sealer, except the planks under my boots are bone-dry.
 
-Before my knuckles hit the wood, a key turns inside the heavy brass deadbolt with a sharp metallic clack.
+Before I can knock, a key turns inside the heavy brass deadbolt and the bolt throws back.
 
 The black door pulls back. Graham Kiefer stands in the doorway with one hand on the steel handle and a brass key still pinched between two fingers. He's thinner than he looked in his spring magazine profile, gaunt under pale gray eyes, the cuffs of his dark olive sweater fraying at the wrists. His eyes flick from my wet hair to the duffel, then out past my shoulder at the Civic.
 
@@ -32,7 +32,7 @@ The black door pulls back. Graham Kiefer stands in the doorway with one hand on 
 
 ***
 
-The front entry is a low, chilly mudroom tacked onto the main two-story wing, wrapping past a utility sink toward a side door by the garage bay. A coat bench and tall closet line the inner wall. Above the bench, rain taps on a skylight hatch set low into the pitched roof, eight feet up at most, the only bare glass left uncovered above the metal shutter boxes mounted over the lower windows.
+The front entry is a low, chilly mudroom tacked onto the main two-story wing, wrapping past a utility sink toward a side door by the garage bay. A coat bench and tall closet line the inner wall. Above the bench, rain taps on a skylight hatch set low into the pitched roof, eight feet up at most.
 
 Through the archway, the main floor opens up. A modern kitchen with a long stone island takes up the right side of the room; to the left, an open oak staircase climbs to the second floor, with a ground-floor hallway tucking behind it. Straight ahead, past the dining room, a massive wall of ocean glass frames black water and churning foam below the cliff. It throws my own tired face back at me over the drop.
 

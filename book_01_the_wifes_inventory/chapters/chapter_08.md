@@ -42,7 +42,7 @@ He crosses the kitchen light-footed, glances up the stairs, and heads toward the
 
 I shift half a step to keep him in the slats. A jar clinks against a bottle by my elbow; I pin it to the shelf with my forearm.
 
-Halstead stops mid-step in the archway, head tilted back toward the kitchen. Neither of us moves. Then he checks the empty upper rail once more and steps into the mudroom.
+Halstead stops mid-step in the archway, head tilted back toward the kitchen. I stay still behind the slats. Then he checks the empty upper rail once more and steps into the mudroom.
 
 He drops to one knee beside the boot tray, his wet trouser leg darkening the stone. He lifts the factory-stiff life vest off peg two, turns the collar to check that the inside tag hasn't been stripped, and hangs it back square against the wall paneling.
 
@@ -50,7 +50,7 @@ Next he scans the coat hooks, his gaze sliding past Graham's wool coat to my jac
 
 He skips the coats. Instead, he sweeps two fingers along the floorboard seam under the boot tray lip, checks the deadbolt throw on the mudroom side door, and stares down at the empty right half of the tray where Lydia's duck boots belong. For a second he just stays crouched there, listening to the rain on the roof, before he stands and heads back into the kitchen.
 
-Right at eye level, three dusty tins of anchovies sit behind a jar of capers—who even keeps three tins of anchovies in a house with a spotless kitchen, unless Lydia actually cooked when Graham wasn't looking. Maybe I should just push the louvered door open right now and pretend I came down for a glass of water. No, nobody hides in a walk-in pantry behind the paprika to get a glass of water, and he already knows my boots are sitting in the mudroom. Between the pickled beets and the flour canisters, there's nowhere to go anyway. Even if I bolted past him to the front door, my Civic is parked behind a slow hydraulic gate and I'm wearing wool socks on wet gravel. I'd make it halfway to the turnaround before he grabbed my collar, and then he'd write me up for trespassing on a property I'm legally contracted to be inside. My right calf is starting to cramp from holding my weight off the creaky board, and all I can think about is how stupid I'll look explaining the anchovies to a sheriff's deputy.
+My right calf locks into a slow cramp from holding my weight off the creaky floorboard. I don't dare shift. Even if I bolted past him for the front hall, my boots are sitting in the mudroom and the Civic is trapped behind a slow hydraulic gate. I press my palms flat against the cold plaster behind the shelves and keep my breathing shallow.
 
 The kitchen tap runs, then shuts off. Halstead comes back with a wet paper towel, kneels to wipe a muddy heel mark off the stone where he stepped in from the cove trail, and tosses the towel toward the sink. A second later his boots turn toward the back service stairs.
 
