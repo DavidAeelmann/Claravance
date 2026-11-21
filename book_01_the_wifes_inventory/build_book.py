@@ -122,8 +122,13 @@ def parse_back_matter(preview_path: str):
 
 
 def inline_md_to_xhtml(text: str) -> str:
-    """Convert inline markdown (**bold**, *italic*, `code`) to valid XHTML."""
+    """Convert inline markdown ([text](url), **bold**, *italic*, `code`) to valid XHTML."""
     escaped = html.escape(text, quote=False)
+    escaped = re.sub(
+        r"\[([^\]]+)\]\((https?://[^)\s]+)\)",
+        lambda m: f'<a href="{html.escape(m.group(2), quote=True)}">{m.group(1)}</a>',
+        escaped,
+    )
     escaped = re.sub(r"\*\*([^*]+)\*\*", r"<strong>\1</strong>", escaped)
     escaped = re.sub(r"\*([^*]+)\*", r"<em>\1</em>", escaped)
     escaped = re.sub(r"`([^`]+)`", r"<code>\1</code>", escaped)
@@ -448,15 +453,45 @@ blockquote p {
             zf.writestr(f"OEBPS/{fname}", content, compress_type=zipfile.ZIP_DEFLATED)
 
 
+def add_hyperlink(para, url: str, text: str):
+    """Append a clickable external hyperlink run to a python-docx paragraph."""
+    from docx.oxml import OxmlElement
+    from docx.oxml.ns import qn
+    from docx.opc.constants import RELATIONSHIP_TYPE
+
+    part = para.part
+    r_id = part.relate_to(url, RELATIONSHIP_TYPE.HYPERLINK, is_external=True)
+    hyperlink = OxmlElement("w:hyperlink")
+    hyperlink.set(qn("r:id"), r_id)
+    new_run = OxmlElement("w:r")
+    rPr = OxmlElement("w:rPr")
+    color = OxmlElement("w:color")
+    color.set(qn("w:val"), "0563C1")
+    u = OxmlElement("w:u")
+    u.set(qn("w:val"), "single")
+    rPr.append(color)
+    rPr.append(u)
+    new_run.append(rPr)
+    t = OxmlElement("w:t")
+    t.text = text
+    new_run.append(t)
+    hyperlink.append(new_run)
+    para._p.append(hyperlink)
+
+
 def add_formatted_runs(para, text: str):
-    """Add text with inline **bold**, *italic*, and `code` runs to a python-docx paragraph."""
-    token_re = re.compile(r"(\*\*[^*]+\*\*|\*[^*]+\*|`[^`]+`)")
+    """Add text with inline [text](url), **bold**, *italic*, and `code` runs to a python-docx paragraph."""
+    token_re = re.compile(r"(\[[^\]]+\]\(https?://[^)\s]+\)|\*\*[^*]+\*\*|\*[^*]+\*|`[^`]+`)")
     pos = 0
     for m in token_re.finditer(text):
         if m.start() > pos:
             para.add_run(text[pos : m.start()])
         tok = m.group(0)
-        if tok.startswith("**") and tok.endswith("**"):
+        if tok.startswith("[") and "](" in tok:
+            link_m = re.match(r"^\[([^\]]+)\]\((https?://[^)\s]+)\)$", tok)
+            if link_m:
+                add_hyperlink(para, link_m.group(2), link_m.group(1))
+        elif tok.startswith("**") and tok.endswith("**"):
             r = para.add_run(tok[2:-2])
             r.bold = True
         elif tok.startswith("*") and tok.endswith("*"):
@@ -622,10 +657,14 @@ def tex_escape(text: str) -> str:
     def repl_italic(m):
         return stash(r"\textit{" + tex_escape_plain(m.group(1)) + "}")
 
+    def repl_link(m):
+        return stash(r"\href{" + m.group(2) + "}{" + tex_escape_plain(m.group(1)) + "}")
+
     def repl_code(m):
         return stash(r"\texttt{" + tex_escape_plain(m.group(1)) + "}")
 
-    s = re.sub(r"\*\*([^*]+)\*\*", repl_bold, text)
+    s = re.sub(r"\[([^\]]+)\]\((https?://[^)\s]+)\)", repl_link, text)
+    s = re.sub(r"\*\*([^*]+)\*\*", repl_bold, s)
     s = re.sub(r"\*([^*]+)\*", repl_italic, s)
     s = re.sub(r"`([^`]+)`", repl_code, s)
     s = tex_escape_plain(s)
@@ -663,6 +702,7 @@ def build_pdf(chapters, preview_data, output_path: str) -> int:
 \usepackage{microtype}
 \usepackage{setspace}
 \usepackage{graphicx}
+\usepackage[hidelinks]{hyperref}
 \setstretch{1.15}
 \setlength{\parindent}{0.25in}
 \setlength{\parskip}{0pt}

@@ -77,4 +77,6 @@ I straighten slowly, my hand dropping off the brass lampshade, and tilt my chin 
 
 *A Tessa Calder Thriller (Book 2) by David Seelmann*
 
+[Read Book 2 on Amazon](https://www.amazon.com/dp/B0HS83D5MG)
+
 *If you enjoyed The Wife's Inventory, please consider leaving a review on Amazon and following David Seelmann for new release alerts.*
