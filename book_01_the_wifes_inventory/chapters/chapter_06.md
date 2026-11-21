@@ -6,7 +6,7 @@ By the time I climb back onto the Salt Point causeway, the wind has swung east j
 
 Graham's Audi sits under the evergreens. Fresh, deep-lugged tire tracks cut a wide loop through the wet gravel where a heavy vehicle pulled up to the house, swung around, and headed back down the lane before I made it home from the harbor.
 
-I cut the engine and grab the paper bag from the hardware store. As I head up the wet walk, B-4 rides flat and heavy against my ribs.
+I cut the engine and grab the paper bag from the general store. As I head up the wet walk, B-4 rides flat and heavy against my ribs.
 
 The front door isn't locked. It swings in as soon as I turn the handle, letting out warm kitchen air. Through the archway, Graham stands at the range and stirs something pale in a heavy saucepan.
 

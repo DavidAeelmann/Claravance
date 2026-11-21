@@ -28,7 +28,7 @@ I set the thumb drive beside his keyboard. "Mount the raw partition. The full un
 
 He plugs the drive into the tower under the desk. A terminal prompt pops up on the left screen asking for a long passphrase. His fingers stop above the keys. "Unlocking the master partition opens the whole audit log," he says, eyes fixed on the screen. "Every voice memo I recorded after the trust money was gone. Every transfer receipt."
 
-"Your *Bramwell & Shaw* default notice is already on a server in Portland," I say. I lean a hip against the desk edge where I can see both his hands and the hall door. "You're past saving your reputation, Graham. Right now you're trying to stay out of Thomaston."
+"Your *Bramwell & Shaw* default notice is already on a server in Portland," I say. I lean a hip against the desk edge where I can see both his hands and the hall door. "You're past saving your reputation, Graham. Right now you're trying to stay out of Warren."
 
 He exhales sharply through his nose and starts typing.
 

@@ -504,7 +504,7 @@ By the time I climb back onto the Salt Point causeway, the wind has swung east j
 
 Graham's Audi sits under the evergreens. Fresh, deep-lugged tire tracks cut a wide loop through the wet gravel where a heavy vehicle pulled up to the house, swung around, and headed back down the lane before I made it home from the harbor.
 
-I cut the engine and grab the paper bag from the hardware store. As I head up the wet walk, B-4 rides flat and heavy against my ribs.
+I cut the engine and grab the paper bag from the general store. As I head up the wet walk, B-4 rides flat and heavy against my ribs.
 
 The front door isn't locked. It swings in as soon as I turn the handle, letting out warm kitchen air. Through the archway, Graham stands at the range and stirs something pale in a heavy saucepan.
 
@@ -1308,7 +1308,7 @@ I set the thumb drive beside his keyboard. "Mount the raw partition. The full un
 
 He plugs the drive into the tower under the desk. A terminal prompt pops up on the left screen asking for a long passphrase. His fingers stop above the keys. "Unlocking the master partition opens the whole audit log," he says, eyes fixed on the screen. "Every voice memo I recorded after the trust money was gone. Every transfer receipt."
 
-"Your *Bramwell & Shaw* default notice is already on a server in Portland," I say. I lean a hip against the desk edge where I can see both his hands and the hall door. "You're past saving your reputation, Graham. Right now you're trying to stay out of Thomaston."
+"Your *Bramwell & Shaw* default notice is already on a server in Portland," I say. I lean a hip against the desk edge where I can see both his hands and the hall door. "You're past saving your reputation, Graham. Right now you're trying to stay out of Warren."
 
 He exhales sharply through his nose and starts typing.
 
@@ -1900,7 +1900,11 @@ The second trooper sweeps his light over Graham, then toward the open door under
 
 I back clear of the stairwell so the backup trooper can move past. "Cover the spice-rack wall in the walk-in pantry too. There's an old dumbwaiter shaft behind the shelves that drops right into that room."
 
-He gives one short nod, racks his shotgun, and moves into the dark hall. Twenty minutes later, generator floodlights off the State Police rescue rig wash the gravel turnaround in harsh white glare. I stand under the rear awning of a Knox County ambulance with a scratchy wool blanket over my wet sweater and my duffel, pulled from behind Graham's study bookcase once the troopers cleared the hall, slung heavy against my hip as two troopers walk a cuffed Cole Halstead out the front door toward a waiting cruiser. Fresh white gauze wraps his left forearm. He keeps his eyes dead ahead, ignoring both the SUV where Lydia sits and me.
+He gives one short nod, racks his shotgun, and moves into the dark hall.
+
+***
+
+Twenty minutes later, generator floodlights off the State Police rescue rig wash the gravel turnaround in harsh white glare. I stand under the rear awning of a Knox County ambulance with a scratchy wool blanket over my wet sweater and my duffel, pulled from behind Graham's study bookcase once the troopers cleared the hall, slung heavy against my hip as two troopers walk a cuffed Cole Halstead out the front door toward a waiting cruiser. Fresh white gauze wraps his left forearm. He keeps his eyes dead ahead, ignoring both the SUV where Lydia sits and me.
 
 Maren Lindqvist stands beside the rescue rig's idling fender in her yellow oilskin bib with a thermos pressed against her chest. Her silver braid is plastered wet to her collar.
 
@@ -1941,6 +1945,8 @@ Ward studies the envelope's torn clasp before looking up at me without a trace o
 "NDAs don't cover felony fraud or burning evidence," I say, my voice tight. "And he stopped being my client the second his deputy tried to hang a murder on my trunk."
 
 "That's a neat speech for a defense attorney," Ward says, sliding the envelope into a clear evidence pouch. "I'll need you down at the Thomaston barracks before noon so the DA can sort out whether she overlooks the trespass, and whether half this paper holds up in court."
+
+***
 
 An hour later, the gale has died down to a cold drizzle. Most of the cruisers have pulled out, and the ambulance bay hums under overhead LEDs. Down by the cove, a portable generator still drones outside the boathouse while crime-scene techs finish bagging the gear.
 
