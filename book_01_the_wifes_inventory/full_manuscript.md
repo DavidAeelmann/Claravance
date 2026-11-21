@@ -1534,7 +1534,7 @@ He checks me once against the piling, then walks straight over to the bait table
 
 "Graham's cuffed to the sunroom radiator," Cole drawls, slow and flat, setting the Maglite down on the salt-stained boards with a heavy *clunk*. "Took a swing when I grabbed his phone, so I left a knot under his eye. You done typing that thing?"
 
-"Almost," Lydia snaps, her thumbs still moving over the iPad glass. "If it doesn't sound like him, Boston counsel will tear it apart. Give me two minutes."
+"Almost," Lydia snaps, still tapping the glass. "Needs to sound like him, or Boston tears it apart. Two minutes."
 
 Cole lets out a low, ugly grunt and leans one hip against the bait table. "We don't got two minutes, Lydie. Surge is already licking the culvert asphalt. High water takes the causeway by five-fifteen, and I ain't sitting out here till midnight waiting for the road to dry."
 
