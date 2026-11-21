@@ -32,7 +32,11 @@ The second trooper sweeps his light over Graham, then toward the open door under
 
 I back clear of the stairwell so the backup trooper can move past. "Cover the spice-rack wall in the walk-in pantry too. There's an old dumbwaiter shaft behind the shelves that drops right into that room."
 
-He gives one short nod, racks his shotgun, and moves into the dark hall. Twenty minutes later, generator floodlights off the State Police rescue rig wash the gravel turnaround in harsh white glare. I stand under the rear awning of a Knox County ambulance with a scratchy wool blanket over my wet sweater and my duffel, pulled from behind Graham's study bookcase once the troopers cleared the hall, slung heavy against my hip as two troopers walk a cuffed Cole Halstead out the front door toward a waiting cruiser. Fresh white gauze wraps his left forearm. He keeps his eyes dead ahead, ignoring both the SUV where Lydia sits and me.
+He gives one short nod, racks his shotgun, and moves into the dark hall.
+
+***
+
+Twenty minutes later, generator floodlights off the State Police rescue rig wash the gravel turnaround in harsh white glare. I stand under the rear awning of a Knox County ambulance with a scratchy wool blanket over my wet sweater and my duffel, pulled from behind Graham's study bookcase once the troopers cleared the hall, slung heavy against my hip as two troopers walk a cuffed Cole Halstead out the front door toward a waiting cruiser. Fresh white gauze wraps his left forearm. He keeps his eyes dead ahead, ignoring both the SUV where Lydia sits and me.
 
 Maren Lindqvist stands beside the rescue rig's idling fender in her yellow oilskin bib with a thermos pressed against her chest. Her silver braid is plastered wet to her collar.
 
@@ -73,6 +77,8 @@ Ward studies the envelope's torn clasp before looking up at me without a trace o
 "NDAs don't cover felony fraud or burning evidence," I say, my voice tight. "And he stopped being my client the second his deputy tried to hang a murder on my trunk."
 
 "That's a neat speech for a defense attorney," Ward says, sliding the envelope into a clear evidence pouch. "I'll need you down at the Thomaston barracks before noon so the DA can sort out whether she overlooks the trespass, and whether half this paper holds up in court."
+
+***
 
 An hour later, the gale has died down to a cold drizzle. Most of the cruisers have pulled out, and the ambulance bay hums under overhead LEDs. Down by the cove, a portable generator still drones outside the boathouse while crime-scene techs finish bagging the gear.
 
