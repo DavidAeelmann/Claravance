@@ -17,7 +17,6 @@ from docx.shared import Inches, Pt
 
 
 BOOK_TITLE = "The Wife's Inventory"
-BOOK_SUBTITLE = "A Gripping Domestic Psychological Thriller"
 BOOK_SERIES = "A Tessa Calder Thriller — Book 1"
 BOOK_AUTHOR = "David Seelmann"
 BOOK_COPYRIGHT = "© 2026 David Seelmann"
@@ -282,7 +281,6 @@ blockquote p {
         BOOK_TITLE,
         f"""<div class="title-box">
   <h1>{html.escape(BOOK_TITLE)}</h1>
-  <h2>{html.escape(BOOK_SUBTITLE)}</h2>
   <p><strong>{html.escape(BOOK_SERIES)}</strong></p>
   <p class="author-name"><strong>{html.escape(BOOK_AUTHOR)}</strong></p>
 </div>""",
@@ -292,7 +290,7 @@ blockquote p {
         "Copyright Page",
         f"""<div class="front-matter">
   <h1>Copyright</h1>
-  <p><strong>{html.escape(BOOK_TITLE)}: {html.escape(BOOK_SUBTITLE)}</strong></p>
+  <p><strong>{html.escape(BOOK_TITLE)}</strong></p>
   <p>{html.escape(BOOK_SERIES)}</p>
   <p><strong>{html.escape(BOOK_COPYRIGHT)}</strong></p>
   <p>Author: {html.escape(BOOK_AUTHOR)}</p>
@@ -407,7 +405,7 @@ blockquote p {
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="pub-id">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:identifier id="pub-id">urn:uuid:{BOOK_UUID}</dc:identifier>
-    <dc:title>{html.escape(BOOK_TITLE)}: {html.escape(BOOK_SUBTITLE)}</dc:title>
+    <dc:title>{html.escape(BOOK_TITLE)}</dc:title>
     <dc:creator>{html.escape(BOOK_AUTHOR)}</dc:creator>
     <dc:rights>{html.escape(BOOK_COPYRIGHT)}</dc:rights>
     <dc:language>en</dc:language>
@@ -509,7 +507,7 @@ def add_formatted_runs(para, text: str):
 def build_docx(chapters, preview_data, output_path: str):
     """Build a KDP 5.5 x 8.5 trade paperback print DOCX with David Seelmann front/back matter."""
     doc = Document()
-    doc.core_properties.title = f"{BOOK_TITLE}: {BOOK_SUBTITLE}"
+    doc.core_properties.title = BOOK_TITLE
     doc.core_properties.author = BOOK_AUTHOR
     doc.core_properties.comments = BOOK_COPYRIGHT
 
@@ -537,13 +535,6 @@ def build_docx(chapters, preview_data, output_path: str):
     r_title.bold = True
     r_title.font.size = Pt(22)
 
-    tp_sub = doc.add_paragraph()
-    tp_sub.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    tp_sub.paragraph_format.space_after = Pt(20)
-    r_sub = tp_sub.add_run(BOOK_SUBTITLE)
-    r_sub.italic = True
-    r_sub.font.size = Pt(12)
-
     tp_ser = doc.add_paragraph()
     tp_ser.alignment = WD_ALIGN_PARAGRAPH.CENTER
     tp_ser.paragraph_format.space_after = Pt(72)
@@ -569,7 +560,7 @@ def build_docx(chapters, preview_data, output_path: str):
     r_ch.font.size = Pt(11)
 
     for line in [
-        f"{BOOK_TITLE}: {BOOK_SUBTITLE}",
+        BOOK_TITLE,
         f"{BOOK_SERIES} by {BOOK_AUTHOR}",
         "First Print & Digital Edition — 2026",
         f"Original suspense fiction by {BOOK_AUTHOR}. Characters, institutions, and events in this novel are fictitious.",
@@ -724,8 +715,6 @@ def build_pdf(chapters, preview_data, output_path: str) -> int:
 \begin{center}
 \vspace*{1.4in}
 {\Huge\bfseries THE WIFE'S INVENTORY\par}
-\vspace{0.2in}
-{\large\itshape A Gripping Domestic Psychological Thriller\par}
 \vspace{0.25in}
 {\normalsize\bfseries A Tessa Calder Thriller --- Book 1\par}
 \vfill
@@ -738,7 +727,7 @@ def build_pdf(chapters, preview_data, output_path: str) -> int:
 \vspace*{1.6in}
 {\bfseries \copyright\ 2026 David Seelmann\par}
 \vspace{0.2in}
-{\small The Wife's Inventory: A Gripping Domestic Psychological Thriller\par}
+{\small The Wife's Inventory\par}
 {\small A Tessa Calder Thriller --- Book 1 by David Seelmann\par}
 \vspace{0.15in}
 {\footnotesize First Print \& Digital Edition --- 2026\par}
