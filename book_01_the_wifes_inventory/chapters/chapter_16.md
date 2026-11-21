@@ -32,7 +32,7 @@ Graham catches my sleeve before I reach the doorway, his fingers clammy through 
 
 "One WAV file from your basement won't beat a spliced confession. I need photos from the boathouse."
 
-I'm already moving down the north hall. Passing the kitchen arch, I see the manila envelope still lying on the island. Good. Let Cole waste time chasing paper inside. Beside the range, three tall green bottles of imported finishing olive oil stand lined up by height like museum pieces. Three different kinds of olive oil in a house where nobody even cooks, and I'm about to sprint down a slick cliff in spare sneakers because I couldn't afford to turn down a fifteen-thousand-dollar check. Rich people deserve every headache they buy. I angle into the sunroom and step across the crooked rug.
+I'm already moving down the north hall. Passing the kitchen arch, I see the manila envelope still lying on the island. Good. Let Cole waste time chasing paper inside. I angle into the sunroom and step across the crooked rug.
 
 Graham grabs the doorframe, his face gray in the storm light. "Don't go down there alone, Tessa. If Lydia's iPad just synced on local mesh, whoever is using it is still on this property."
 

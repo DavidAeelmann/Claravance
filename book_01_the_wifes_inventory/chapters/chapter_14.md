@@ -58,7 +58,11 @@ He cuts himself off. His fingers dig hard into the edge of the stone counter.
 
 "Lydia," I finish.
 
-He nods slowly. "October twenty-first, a week after the storm, I caught a six-minute dropout in the October fifteenth acoustic logs down in Zone Four. Started checking the house, looked closely at the mudroom, and realized the life vest Halstead logged smelled like tap water, with a fresh lot stamp that never came off our boat. I put Zone Four's external vendor link on local bypass that same afternoon so I could run wind-noise filters off the Portland network. That's why I swiped Tuesday night's blackout alert off the pantry tablet. With the hall fire door shut right in front of us, I assumed the generator switchover tripped my own bypass loop. I had no idea that dumbwaiter shaft even opened."
+He nods slowly. "October twenty-first, a week after the storm, I caught a six-minute hole in the basement audio from the fifteenth. Started checking the house, looked at the mudroom, and realized the life vest Halstead logged still smelled like tap water—fresh lot stamp that never came off our boat. I took Zone Four off the Portland security link that same afternoon so I could run wind filters in private."
+
+"Which is why you swiped Tuesday night's motion alert off the pantry tablet," I cut in.
+
+"Yes," he says, rubbing his temple. "With the hall fire door shut right in front of us, I figured the generator switchover tripped my own bypass. I didn't even know that dumbwaiter shaft opened."
 
 "And you didn't call state police."
 

@@ -22,7 +22,7 @@ Graham yanks his arm free and rubs the red groove around his wrist as he scrambl
 
 "The back deck," Graham says. He nods toward the sunroom slider. "Unlock the glass and we can take the cliff path down to Maren's—"
 
-"Maren pulled her truck across the culvert," I say as I turn toward the kitchen. "Cole's cruiser is blocking the causeway, and high water's over the road. Nobody's driving off Salt Point tonight. Only play left is keeping them off the basement server until the storm breaks."
+"Maren pulled her truck across the culvert," I say as I turn toward the kitchen. "Cole's cruiser is blocking the causeway, and the tide's about to bury the road. Nobody's driving off Salt Point tonight. Only play left is keeping them off the basement server until the storm breaks."
 
 Graham doesn't follow me toward the front hall. He looks past my shoulder toward the kitchen island, and for a man who just spent an hour cuffed to a pipe, he moves fast. He brushes past me in his olive sweater and bolts for the counter.
 

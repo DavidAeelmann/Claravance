@@ -2,7 +2,7 @@
 
 I bump the closet door shut with my hip just short of the latch click and hang my wet jacket on the hook beside the bench. By the time Graham's socks hit the bottom stair, I'm already reaching down for my duffel.
 
-He stops in the archway with his phone pressed against his thigh and takes in my dripping coat, the closed closet door, and my face. Neither of us moves. If he sees the hairline gap along the jamb, or notices the wool coat shifted inside, he keeps it to himself.
+He stops in the archway with his phone pressed against his thigh, looking from my dripping coat to the closed closet door before meeting my eyes. Neither of us moves. If he sees the hairline gap along the jamb, or notices the wool coat shifted inside, he keeps it to himself.
 
 "Forgot the Wi-Fi password," he says, holding out a torn square of cardstock with ink scrawled across it. "And you left your front-door key on the table."
 

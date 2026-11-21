@@ -22,7 +22,7 @@ My duffel's worn zipper catches my thumb as I drag it off the passenger seat. I 
 
 Before my knuckles hit the wood, a key turns inside the heavy brass deadbolt with a sharp metallic clack.
 
-The black door pulls back. Graham Kiefer stands in the doorway with one hand on the steel handle and a brass key still pinched between two fingers. He's thinner than he looked in his spring magazine profile, gaunt under pale gray eyes, the cuffs of his dark olive sweater fraying at the wrists. He takes in my wet hair, my duffel, then looks past me at the Civic.
+The black door pulls back. Graham Kiefer stands in the doorway with one hand on the steel handle and a brass key still pinched between two fingers. He's thinner than he looked in his spring magazine profile, gaunt under pale gray eyes, the cuffs of his dark olive sweater fraying at the wrists. His eyes flick from my wet hair to the duffel, then out past my shoulder at the Civic.
 
 "Ms. Calder," he says. His voice has that worn-down steadiness of someone who has given the same timeline to Coast Guard officers and insurance adjusters twenty times running. "You beat the tide."
 

@@ -69,7 +69,7 @@ Lamp kerosene. And burnt bond paper.
 
 Someone used the hearth to ash a stack of files less than twenty minutes ago.
 
-Beside the archway to the study stands a slanted oak reception lectern, the old-fashioned kind built for nineteenth-century hunting clubs. Its maroon-leather guest ledger is gone. Only a clean rectangle in the dust and two unscrewed brass binding posts remain on the slanted wood lip, resting on top of a thick paper desk calendar pinned flat beneath the brass lamp.
+Beside the archway to the study stands a slanted oak reception lectern, the old-fashioned kind built for nineteenth-century hunting clubs. Its maroon-leather guest ledger is gone. Only a clean rectangle in the dust and two unscrewed brass binding posts remain on the slanted wood lip, resting on top of a thick paper desk calendar pinned flat beneath the lamp.
 
 My pulse hammers against my collarbones. I cross the flagstones.
 

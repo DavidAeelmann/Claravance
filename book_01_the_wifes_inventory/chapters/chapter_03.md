@@ -34,7 +34,7 @@ By seven-thirty, the fog has pressed right up against the dining-room glass, swa
 
 I set the mug down on the bare stone. Graham's eyes drop straight to the faint damp ring around the base, and he reaches across for a cork coaster stacked beside the fruit bowl, nudging it next to my elbow without a word.
 
-"Lydia couldn't stand rings on the honed soapstone," he says, still looking at the counter. "Even plain water. And she alphabetized the spice jars in the pull-out by Latin name, which drove me crazy every time I wanted cumin."
+"Lydia couldn't stand rings on the honed soapstone," he says, still looking at the counter. "Even plain water. And she alphabetized the spice jars in the pantry by Latin name, which drove me crazy every time I wanted cumin."
 
 I lift the mug onto the cork. "Good to know. I'll stay out of the cumin."
 
